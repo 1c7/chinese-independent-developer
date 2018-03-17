@@ -38,9 +38,7 @@
 
 
 #### 另外
-推荐几个网站，这几个网站适合独立开发者们互相讨论/学习：    
+推荐几个对独立开发者有帮助的网站 (讨论/学习/阅读)：    
 湾区论坛：https://wanqu.io/    
 Indie Hacker: https://www.indiehackers.com/     
 Sideidea: http://sideidea.com/    
-
-
