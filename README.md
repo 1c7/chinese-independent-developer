@@ -3,8 +3,9 @@
 
 ## 为什么有这个表
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-**所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可**                   
-（按时间排序，最新添加的在最上面）              
+**所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可** 
+
+（按时间排序，最新添加的在最上面）                
 
 项目分三种状态            
 
@@ -26,13 +27,13 @@
 * :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/) 
 
 #### 名字：soasme
-* :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - 更多介绍
+* :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
 
 #### 名字：wwayne
 * :white_check_mark: [Cominsoon](https://cominsoon.io/)：快速搭建『即将上线』页面
 
 #### 名字：寂小桦
-* :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区
+* :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
 #### 名字：像素君
 * :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：
