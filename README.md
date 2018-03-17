@@ -74,6 +74,9 @@
 * PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * Product Hunt：http://producthunt.com/
 * Awesome Indie：https://github.com/mezod/awesome-indie
+* NomadList：https://nomadlist.com/
+* RemoteOK：https://remoteok.io/
+* MicroConf 往期视频：microconf.com/starter/past-videos/
 
 #### 5. 备注
 1. 若内容有误欢迎提出，我会马上修正
