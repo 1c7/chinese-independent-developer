@@ -13,11 +13,12 @@
 | :clock8: | :white_check_mark: | :x: |
 
 
-
+#### 名字：oldj
+* :white_check_mark: [妙笔](https://www.momothink.com/wonderpen)：Mac 平台写作软件, [更多介绍](https://wanqu.io/t/topic/6600)
 
 #### 名字：Kenshin
-* [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展
-
+* :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展       
+（更多介绍可以读[这篇湾区论坛的帖子](https://wanqu.io/t/200-chrome/7181)）     
 
 #### 名字：jadeydi
 
@@ -52,3 +53,8 @@
 * 湾区论坛：https://wanqu.io/    
 * Indie Hacker: https://www.indiehackers.com/     
 * Sideidea: http://sideidea.com/    
+
+#### 不足
+这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。
+如果都列出来会导致太长，可读性很差。
+所以打算一直保持这样简单的形式：人名+项目列表+(可选的)更多信息(比如博客/帖子链接)
