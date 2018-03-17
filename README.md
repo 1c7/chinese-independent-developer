@@ -24,7 +24,7 @@
 * :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)    
 
 #### 名字：jadeydi
-* :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/) 
+* :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 - [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/) 
 
 #### 名字：soasme
 * :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
@@ -36,7 +36,7 @@
 * :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
 #### 名字：像素君
-* :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：
+* :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### 名字：（待写）
 * :white_check_mark: [Paybase](https://paybase.cn)：专门讨论支付的论坛
@@ -62,4 +62,4 @@
 #### 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。
 如果都列出来会导致太长，可读性很差。
-所以打算一直保持这样简单的形式：人名+项目列表+(可选的)更多信息(比如博客/帖子链接)
+所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)
