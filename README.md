@@ -18,11 +18,14 @@
 #### wangzuo
 * :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
 
-#### OpenMarshall
+#### KyXu - [Github](https://github.com/OpenMarshall), [微博](http://weibo.com/kaiyuanxu)
 * :white_check_mark: [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍](https://wanqu.io/t/nihon-ios/7678)
-* :white_check_mark: [闪念](https://itunes.apple.com/cn/app/id1342519507)：在 iPhone 上尽力复刻了锤子的 Idea Pill - [更多介绍](https://wanqu.io/t/iphone-idea-pill/8038)
+* :white_check_mark: [闪念](https://itunes.apple.com/cn/app/id1342519507)：在 iPhone 上尽力复刻了锤子的 Idea Pills - [更多介绍](https://wanqu.io/t/iphone-idea-pill/8038)
 * :white_check_mark: [记分牌](https://itunes.apple.com/cn/app/id1080572635)：(iOS) NBA 比分跟踪利器 - [更多介绍](https://wanqu.io/t/ios-mac-nba/8051)
 * :white_check_mark: [Basketball Moment](https://itunes.apple.com/cn/app/id1185284010)：(Mac) NBA 比分跟踪利器 - [更多介绍](https://wanqu.io/t/ios-mac-nba/8051)
+* :white_check_mark: [时间规划局](https://itunes.apple.com/cn/app/id1204689405)：提醒珍惜时间的 iOS Today Widget
+* :white_check_mark: [飞花令](https://itunes.apple.com/cn/app/id1340671116)：用三十万古诗词数据打造的极简飞花令主题 App
+* :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id988271193)
 
 #### wyan453351466
 * :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
