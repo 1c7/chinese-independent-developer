@@ -13,8 +13,13 @@
 | :clock8: | :white_check_mark: | :x: |
 
 
+
+#### 名字：soasme
+* :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点
+
+
 #### 名字：wwayne
-* :white_check_mark: [Cominsoon](https://cominsoon.io/)： Building your audience before building your product
+* :white_check_mark: [Cominsoon](https://cominsoon.io/)： 快速搭建『即将上线』页面
 
 #### 名字：（待写）
 * :white_check_mark: [小专栏](https://xiaozhuanlan.com/)
