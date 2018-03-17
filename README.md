@@ -14,6 +14,9 @@
 
 （名字按时间排序，最新添加的在最上面） 
 
+#### 名字：OpenMarshall
+* [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍]((https://wanqu.io/t/nihon-ios/7678)
+
 #### 名字：wyan453351466
 * :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
 
@@ -51,10 +54,9 @@
 #### 名字：@糖醋陈皮（[Github@1c7](https://github.com/1c7)）
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-* :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
+* :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频
 * :x: youtube-sumup.com：总结 Youtube 视频内容
-* :x: 月可(onereco.com)：写短总结推荐好文（类似微博，不过界面清爽很多，内容都是写几句话介绍下刚看到的好文章，总结内容是什么，推荐别人看）
-
+* :x: 月可(onereco.com)：写短总结推荐好文
 
 #### 另外
 推荐几个对独立开发者有帮助的网站 (讨论/学习/阅读)：    
@@ -65,6 +67,6 @@
 * PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 
 #### 不足
-这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。
-如果都列出来会导致太长，可读性很差。
-所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)
+这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
+如果都列出来会导致太长，可读性很差。     
+所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)     
