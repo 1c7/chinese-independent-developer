@@ -1,7 +1,7 @@
-# 中国独立开发者项目列表
+## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目                  
 
-## 为什么有这个表
+### 为什么有这个表
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
 **所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可** 
 
@@ -14,8 +14,11 @@
 
 （名字按时间排序，最新添加的在最上面） 
 
+#### 名字：
+* :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
+
 #### 名字：OpenMarshall
-* [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍]((https://wanqu.io/t/nihon-ios/7678)
+* :white_check_mark: [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍]((https://wanqu.io/t/nihon-ios/7678)
 
 #### 名字：wyan453351466
 * :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
@@ -65,6 +68,10 @@
 * Sideidea: http://sideidea.com/    
 * 利器：http://liqi.io/creators/
 * PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+
+#### 备注
+1. 若内容有误欢迎提出，我会马上修正
+2. 个别网站需科学上午，并非网站无法访问，请自备工具
 
 #### 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
