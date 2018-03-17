@@ -55,10 +55,10 @@
 * :white_check_mark: [Paybase](https://paybase.cn)：专门讨论支付的论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
 * :white_check_mark: [AnyShortCut](https://anyshortcut.com/)：浏览器插件，自定义快捷键访问常用网站，提高效率 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
-#### 猫叔 - [Github@imeoer](https://github.com/imeoer), [博客](http://www.chole.io/)
+#### 猫叔 - [Github](https://github.com/imeoer), [博客](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
 
-#### @糖醋陈皮 - [Github@1c7](https://github.com/1c7)）
+#### 糖醋陈皮 - [Github](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
@@ -67,7 +67,7 @@
 
 #### 4. 另外
 推荐几个对独立开发者有帮助的网站 (讨论/学习/阅读)：    
-* [湾区论坛](https://wanqu.io/)
+* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer)
 * [Indie Hacker](https://www.indiehackers.com/) 
 * [Sideidea](http://sideidea.com/)    
 * [利器](http://liqi.io/creators/)
