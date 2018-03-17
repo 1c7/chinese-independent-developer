@@ -14,6 +14,9 @@
 
 （名字按时间排序，最新添加的在最上面） 
 
+#### 名字：wyan453351466
+* :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
+
 #### 名字：61
 * :white_check_mark: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
 
@@ -50,6 +53,7 @@
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
 * :x: youtube-sumup.com：总结 Youtube 视频内容
+* :x: 月可(onereco.com)：写短总结推荐好文（类似微博，不过界面清爽很多，内容都是写几句话介绍下刚看到的好文章，总结内容是什么，推荐别人看）
 
 
 #### 另外
