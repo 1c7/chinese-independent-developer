@@ -50,7 +50,7 @@
 
 #### 名字：（待写）
 * :white_check_mark: [Paybase](https://paybase.cn)：专门讨论支付的论坛
-* :white_check_mark: [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)：
+* :white_check_mark: [AnyShortCut](https://anyshortcut.com/)：浏览器插件，自定义快捷键访问常用网站，提高效率 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
 #### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer), [博客](http://www.chole.io/))
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
@@ -72,7 +72,7 @@
 
 #### 5. 备注
 1. 若内容有误欢迎提出，我会马上修正
-2. 个别网站需科学上午，并非网站无法访问，请自备工具
+2. 个别网站需科学上网，并非网站无法访问，请自备工具
 
 #### 6. 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
