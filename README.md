@@ -62,8 +62,8 @@
 * :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### wichna
-* :white_check_mark: [Paybase](https://paybase.cn)：专门讨论支付的论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
-* :white_check_mark: [AnyShortCut](https://anyshortcut.com/)：浏览器插件，自定义快捷键访问常用网站，提高效率 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
+* :white_check_mark: [Paybase](https://paybase.cn)：一个专注于支付领域的垂直论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
+* :white_check_mark: [AnyShortCut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
 #### 猫叔 - [Github](https://github.com/imeoer), [博客](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
