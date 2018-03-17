@@ -1,7 +1,8 @@
 # 中国独立开发者项目列表
-这个 Github 库聚合所有中国独立开发者的项目，各位可以把自己的项目列进来。发个 Pull Request 或写个新 Issue 即可。
+聚合所有中国独立开发者的项目           
+（各位可以把自己的项目列进来。发个 Pull Request 或写个新 Issue 即可）        
 
-## 说明
+## 为什么有这个表
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）           
 所以特意建了这个库。各位开发者可以把自己的项目加进来~
 （按添加时间排序，最新加的在最上面）
@@ -14,11 +15,12 @@
 ### 2. 已出
 * https://cominsoon.io/
 * [小专栏](https://xiaozhuanlan.com/)
-* Paybase: https://paybase.cn/ 讨论支付相关主题
-* AnyShortCut: https://wanqu.io/t/anyshorcut-chrome/7648/9 
+
 * 创造狮导航：http://chuangzaoshi.com
 
-### 名字：
+#### 名字：
+* Paybase: https://paybase.cn/ 讨论支付相关主题
+* AnyShortCut: https://wanqu.io/t/anyshorcut-chrome/7648/9 
 
 #### 名字：猫叔
 * 纸小墨：https://www.v2ex.com/t/393185#reply710
