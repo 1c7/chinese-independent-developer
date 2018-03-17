@@ -27,13 +27,13 @@
 * Paybase: https://paybase.cn/ 讨论支付相关主题
 * AnyShortCut: https://wanqu.io/t/anyshorcut-chrome/7648/9 
 
-#### 名字：猫叔
+#### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer))
 * 纸小墨：https://www.v2ex.com/t/393185#reply710
   全平台笔记软件（支持 Mac/Windows）
   状态：即将发布
 猫叔个人博客：http://www.chole.io/
 
-#### 名字：@糖醋陈皮（Github@1c7）
+#### 名字：@糖醋陈皮（[Github@1c7](https://github.com/1c7)）
 * 寓住: https://yuzhu.me
   找长租公寓/评价长租公寓
   状态：维护中
