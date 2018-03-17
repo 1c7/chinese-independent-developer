@@ -55,10 +55,10 @@
 * :white_check_mark: [Paybase](https://paybase.cn)：专门讨论支付的论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
 * :white_check_mark: [AnyShortCut](https://anyshortcut.com/)：浏览器插件，自定义快捷键访问常用网站，提高效率 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
-#### 猫叔 （[Github@imeoer](https://github.com/imeoer), [博客](http://www.chole.io/))
+#### 猫叔 - [Github@imeoer](https://github.com/imeoer), [博客](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
 
-#### @糖醋陈皮（[Github@1c7](https://github.com/1c7)）
+#### @糖醋陈皮 - [Github@1c7](https://github.com/1c7)）
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
@@ -77,6 +77,7 @@
 * [NomadList](https://nomadlist.com/)
 * [RemoteOK](https://remoteok.io/)
 * [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
+* [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 
 #### 5. 值得关注的推特用户（草稿）
 @patio
