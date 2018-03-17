@@ -13,6 +13,9 @@
 | :clock8: | :white_check_mark: | :x: |
 
 
+#### 名字：61
+* :white_check_mark: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
+
 #### 名字：oldj
 * :white_check_mark: [妙笔](https://www.momothink.com/wonderpen)：Mac 平台写作软件 - [更多介绍](https://wanqu.io/t/topic/6600)
 
@@ -52,6 +55,8 @@
 * 湾区论坛：https://wanqu.io/    
 * Indie Hacker: https://www.indiehackers.com/     
 * Sideidea: http://sideidea.com/    
+* 利器：http://liqi.io/creators/
+* PriceTag 做的独立开发者采访: 公众号叫 PriceTagApp，[采访例子](https://wanqu.io/t/pricetagapp-6/7685)
 
 #### 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。
