@@ -49,6 +49,7 @@
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
+* :x: youtube-sumup.com：总结 Youtube 视频内容
 
 
 #### 另外
@@ -57,7 +58,7 @@
 * Indie Hacker: https://www.indiehackers.com/     
 * Sideidea: http://sideidea.com/    
 * 利器：http://liqi.io/creators/
-* PriceTag 做的独立开发者采访: 公众号叫 PriceTagApp，[采访例子](https://wanqu.io/t/pricetagapp-6/7685)
+* PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 
 #### 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。
