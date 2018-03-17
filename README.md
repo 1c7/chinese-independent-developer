@@ -13,7 +13,7 @@
 | :clock8: | :white_check_mark: | :x: |
 
 
-#### 名字：（待写）
+#### 名字：wwayne
 * :white_check_mark: [Cominsoon](https://cominsoon.io/)： Building your audience before building your product
 
 #### 名字：（待写）
