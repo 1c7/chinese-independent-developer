@@ -67,23 +67,27 @@
 
 #### 4. 另外
 推荐几个对独立开发者有帮助的网站 (讨论/学习/阅读)：    
-* 湾区论坛：https://wanqu.io/    
-* Indie Hacker: https://www.indiehackers.com/     
-* Sideidea: http://sideidea.com/    
-* 利器：http://liqi.io/creators/
-* PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
-* Product Hunt：http://producthunt.com/
-* Awesome Indie：https://github.com/mezod/awesome-indie
-* NomadList：https://nomadlist.com/
-* RemoteOK：https://remoteok.io/
-* MicroConf 往期视频：microconf.com/starter/past-videos/
+* [湾区论坛](https://wanqu.io/)
+* [Indie Hacker](https://www.indiehackers.com/) 
+* [Sideidea](http://sideidea.com/)    
+* [利器](http://liqi.io/creators/)
+* [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+* [Product Hunt](http://producthunt.com/)
+* [Awesome Indie(Github)](https://github.com/mezod/awesome-indie)
+* [NomadList](https://nomadlist.com/)
+* [RemoteOK](https://remoteok.io/)
+* [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
 
-#### 5. 备注
+#### 5. 值得关注的推特用户（草稿）
+@patio
+@levelso
+
+#### 6. 备注
 1. 若内容有误欢迎提出，我会马上修正
 2. 个别网站需科学上网，并非网站无法访问，请自备工具
 3. 欢迎改进此表，比如加几个对独立开发者有帮助的网站。或者文章分享。
 
-#### 6. 不足
+#### 7. 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
 如果都列出来会导致太长，可读性很差。     
 所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)     
