@@ -3,14 +3,14 @@
 
 ## 为什么有这个表
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-** 所以特意建了这个库。各位开发者可以把自己的项目加进来~，发个 Pull Request 或写个新 Issue 即可 **       
+**所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发个 Pull Request 或发 Issue 即可**       
 （按时间排序，最新添加的在最上面）  
 
 项目分三种状态
 
 | 开发中 | 已上线 | 已关闭 |
 |--------|--------|--------|
-| :white_check_mark: | :white_check_mark: | :white_check_mark:  |
+| :clock8: | :white_check_mark: | :x: |
 
 
 #### 名字：
@@ -49,3 +49,5 @@ Github@1c7
 湾区论坛：https://wanqu.io/    
 Indie Hacker: https://www.indiehackers.com/     
 Sideidea: http://sideidea.com/    
+
+
