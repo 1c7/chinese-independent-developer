@@ -14,31 +14,30 @@
 
 
 #### 名字：（待写）
-* :white_check_mark:[Cominsoon](https://cominsoon.io/)： Building your audience before building your product
+* :white_check_mark: [Cominsoon](https://cominsoon.io/)： Building your audience before building your product
 
 #### 名字：（待写）
-* [小专栏](https://xiaozhuanlan.com/)
+* :white_check_mark: [小专栏](https://xiaozhuanlan.com/)
 
 #### 名字：像素君
-* [创造狮导航](http://chuangzaoshi.com)：
+* :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：
 
 #### 名字：（待写）
-* [Paybase](https://paybase.cn): 专门讨论支付的论坛
-* [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)：
+* :white_check_mark: [Paybase](https://paybase.cn): 专门讨论支付的论坛
+* :white_check_mark: [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)：
 
 #### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer))
-* [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
-  
+* :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
 猫叔个人博客：http://www.chole.io/
 
 #### 名字：@糖醋陈皮（[Github@1c7](https://github.com/1c7)）
-* [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
-* [Sideidea](http://sideidea.com): 独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-* [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
+* :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
+* :white_check_mark: [Sideidea](http://sideidea.com): 独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
+* :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
 
 
 #### 另外
 推荐几个对独立开发者有帮助的网站 (讨论/学习/阅读)：    
-湾区论坛：https://wanqu.io/    
-Indie Hacker: https://www.indiehackers.com/     
-Sideidea: http://sideidea.com/    
+* 湾区论坛：https://wanqu.io/    
+* Indie Hacker: https://www.indiehackers.com/     
+* Sideidea: http://sideidea.com/    
