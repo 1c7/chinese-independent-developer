@@ -20,13 +20,13 @@
 
 ### 名字：
 
-### 名字：猫叔
+#### 名字：猫叔
 * 纸小墨：https://www.v2ex.com/t/393185#reply710
   全平台笔记软件（支持 Mac/Windows）
   状态：即将发布
 猫叔个人博客：http://www.chole.io/
 
-### 名字：@糖醋陈皮（Github@1c7）
+#### 名字：@糖醋陈皮（Github@1c7）
 * 寓住: https://yuzhu.me
   找长租公寓/评价长租公寓
   状态：维护中
@@ -34,10 +34,11 @@
   独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
   状态：维护中
 
-### 本列表维护者
+#### 本列表维护者
 Github@1c7
+（欢迎加入维护/提改进意见）
 
-### 另外
+#### 另外
 推荐几个网站，这几个网站适合独立开发者们互相讨论/学习：    
 湾区论坛：https://wanqu.io/    
 Indie Hacker: https://www.indiehackers.com/     
