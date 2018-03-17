@@ -20,6 +20,7 @@
 
 #### 名字：OpenMarshall
 * :white_check_mark: [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍](https://wanqu.io/t/nihon-ios/7678)
+* :white_check_mark: [闪念](https://itunes.apple.com/cn/app/id1342519507)：在 iPhone 上尽力复刻了锤子的 Idea Pill - [更多介绍](https://wanqu.io/t/iphone-idea-pill/8038)
 
 #### 名字：wyan453351466
 * :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
@@ -69,6 +70,7 @@
 * Sideidea: http://sideidea.com/    
 * 利器：http://liqi.io/creators/
 * PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+* Product Hunt：http://producthunt.com/
 
 #### 5. 备注
 1. 若内容有误欢迎提出，我会马上修正
