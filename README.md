@@ -3,26 +3,26 @@
 
 ## 为什么有这个表
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-**所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发个 Pull Request 或发 Issue 即可**       
-（按时间排序，最新添加的在最上面）  
+**所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可**                   
+（按时间排序，最新添加的在最上面）              
 
-项目分三种状态
+项目分三种状态            
 
 | 开发中 | 已上线 | 已关闭 |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
 
-#### 名字：
-* https://cominsoon.io/
+#### 名字：（待写）
+* :white_check_mark:[Cominsoon](https://cominsoon.io/)： Building your audience before building your product
 
-#### 名字：
+#### 名字：（待写）
 * [小专栏](https://xiaozhuanlan.com/)
 
 #### 名字：像素君
 * [创造狮导航](http://chuangzaoshi.com)：
 
-#### 名字：
+#### 名字：（待写）
 * [Paybase](https://paybase.cn): 专门讨论支付的论坛
 * [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)：
 
