@@ -15,6 +15,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+#### simpleapples - [Github](https://github.com/simpleapples)
+* :white_check_mark: [饭斯基](https://github.com/simpleapples/fansky): 第三方饭否iOS客户端
+* :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose): 随机选餐工具
+* :white_check_mark: [AppStore全部作品](https://itunes.apple.com/cn/developer/zhiya-zang/id549139622)
+* :white_check_mark: [PyBlockchainCLI](https://github.com/simpleapples/py-blockchain-cli): Python区块链命令行界面
+* :white_check_mark: [短网址二维码生成器](https://github.com/simpleapples/url2qrcode): Chrome短网址二维码生成器
+
 #### wangzuo
 * :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
 
