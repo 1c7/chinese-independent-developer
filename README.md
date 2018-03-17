@@ -20,11 +20,11 @@
 * [小专栏](https://xiaozhuanlan.com/)
 
 #### 名字：
-* 创造狮导航：http://chuangzaoshi.com
+* [创造狮导航](http://chuangzaoshi.com)
 
 #### 名字：
-* Paybase: https://paybase.cn/ 讨论支付相关主题
-* AnyShortCut: https://wanqu.io/t/anyshorcut-chrome/7648/9 
+* [Paybase](https://paybase.cn): 专门讨论支付的论坛
+* [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)
 
 #### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer))
 * 纸小墨：https://www.v2ex.com/t/393185#reply710
@@ -33,12 +33,9 @@
 猫叔个人博客：http://www.chole.io/
 
 #### 名字：@糖醋陈皮（[Github@1c7](https://github.com/1c7)）
-* 寓住: https://yuzhu.me
-  找长租公寓/评价长租公寓
-  状态：维护中
-* sideidea: http://sideidea.com
-  独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-  状态：维护中
+* [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
+* [Sideidea](http://sideidea.com): 独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
+* [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合国内所有中字 Crash Course 视频
 
 #### 本列表维护者
 Github@1c7
