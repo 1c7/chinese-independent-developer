@@ -73,11 +73,12 @@
 * 利器：http://liqi.io/creators/
 * PriceTag 的独立开发者采访（公众号 PriceTagApp）[INTERVIEW 06 | 独立开发者邢增兴](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * Product Hunt：http://producthunt.com/
+* Awesome Indie：https://github.com/mezod/awesome-indie
 
 #### 5. 备注
 1. 若内容有误欢迎提出，我会马上修正
 2. 个别网站需科学上网，并非网站无法访问，请自备工具
-3. 欢迎改进此
+3. 欢迎改进此表，比如加几个对独立开发者有帮助的网站。或者文章分享。
 
 #### 6. 不足
 这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
