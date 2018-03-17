@@ -31,9 +31,8 @@
 * :white_check_mark: [Paybase](https://paybase.cn): 专门讨论支付的论坛
 * :white_check_mark: [AnyShortCut](https://wanqu.io/t/anyshorcut-chrome/7648/9)：
 
-#### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer))
+#### 名字：猫叔 （[Github@imeoer](https://github.com/imeoer), [博客](http://www.chole.io/))
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
-猫叔个人博客：http://www.chole.io/
 
 #### 名字：@糖醋陈皮（[Github@1c7](https://github.com/1c7)）
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
