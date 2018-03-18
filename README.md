@@ -19,6 +19,9 @@
 ### 2018年3月18号添加
 ---
 
+#### zyx0814 - [Github](https://github.com/zyx0814/dzzoffice)
+* :white_check_mark: [DzzOffice](http://dzzoffice.com)：类似 Office365, Google 企业应用套件的开源私有方案
+
 #### ming
 * :white_check_mark: [京价保](https://jjb.im/)：京价保是一个帮助你自动申请京东价格保护，顺便帮你签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
 
