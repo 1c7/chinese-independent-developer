@@ -17,9 +17,9 @@
 （名字按时间排序，最新添加的在最上面） 
 
 #### simpleapples - [Github](https://github.com/simpleapples)
-* :white_check_mark: [饭斯基](https://github.com/simpleapples/fansky): 第三方饭否iOS客户端
-* :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose): 随机选餐工具
-* :white_check_mark: [短网址二维码生成器](https://github.com/simpleapples/url2qrcode): Chrome 短网址二维码生成器
+* :white_check_mark: [饭斯基](https://github.com/simpleapples/fansky)：第三方饭否iOS客户端
+* :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose)：随机选餐工具
+* :white_check_mark: [短网址二维码生成器](https://github.com/simpleapples/url2qrcode)：Chrome 短网址二维码生成器
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/zhiya-zang/id549139622)
 
 #### wangzuo
