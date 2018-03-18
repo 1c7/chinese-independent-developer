@@ -20,7 +20,7 @@
 ---
 
 #### ming
-* [京价保](https://jjb.im/)：京价保是一个帮助你自动申请京东价格保护，顺便帮你签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
+* :white_check_mark: [京价保](https://jjb.im/)：京价保是一个帮助你自动申请京东价格保护，顺便帮你签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
 
 #### 叶大侠 - [Github](https://github.com/YeDaxia)
 * :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 - [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
