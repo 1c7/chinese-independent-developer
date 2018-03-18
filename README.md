@@ -16,6 +16,9 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+#### GhostSKB - [Github](https://github.com/dingmingxin/GhostSKB)
+* :white_check_mark: [GhostSKB](https://itunes.apple.com/cn/app/ghostskb/id1134384859?mt=12)：(Mac) 可根据应用设置默认输入法，应用切换时，输入法也跟随切换
+
 #### simpleapples - [Github](https://github.com/simpleapples)
 * :white_check_mark: [饭斯基](https://github.com/simpleapples/fansky)：第三方饭否iOS客户端
 * :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose)：随机选餐工具
