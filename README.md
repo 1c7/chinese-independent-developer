@@ -16,10 +16,17 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+### 2018年3月19号添加
+
+#### Gao Deng - [Github](https://github.com/gaodeng)
+* :white_check_mark: [AtPill](https://itunes.apple.com/cn/app/id590504521?mt=12): (Mac) 豆瓣电台客户端
+* :white_check_mark: [HaloRadio](https://www.icyarrow.com/haloradio/)：(Windows) 豆瓣电台客户端
+* :white_check_mark: [Biu](https://github.com/gaodeng/Biu-for-ReadHub)：- (Android/iOS) Readhub 移动客户端
+
 #### ymma - [Github](https://github.com/ymma)
-* ✅ [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
-* ✅ [易LOGO](http://yeelogo.com/)：简单的在线生成 Logo 网站
-* 🕗 [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
+* :white_check_mark: [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
+* :white_check_mark: [易LOGO](http://yeelogo.com/)：简单的在线生成 Logo 网站
+* :clock8: [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
 
 #### GhostSKB - [Github](https://github.com/dingmingxin/GhostSKB)
 * :white_check_mark: [GhostSKB](https://itunes.apple.com/cn/app/ghostskb/id1134384859?mt=12)：(Mac) 可根据应用设置默认输入法，应用切换时，输入法也跟随切换
@@ -29,6 +36,8 @@
 * :white_check_mark: [摇摇选餐](https://github.com/simpleapples/ShakeChoose)：随机选餐工具
 * :white_check_mark: [短网址二维码生成器](https://github.com/simpleapples/url2qrcode)：Chrome 短网址二维码生成器
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/zhiya-zang/id549139622)
+
+### 2018年3月17号添加
 
 #### wangzuo
 * :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
