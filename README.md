@@ -19,6 +19,9 @@
 ### 2018年3月18号添加
 ---
 
+#### NextStack - [Github](https://github.com/safe-dog), [博客](https://blog.nextstack.xyz)
+* :white_check_mark: [下一栈](https://nextstack.xyz)：把你的博客网站制作成 APP 进行更爽阅读浏览
+
 #### zyx0814 - [Github](https://github.com/zyx0814/dzzoffice)
 * :white_check_mark: [DzzOffice](http://dzzoffice.com)：类似 Office365, Google 企业应用套件的开源私有方案
 
