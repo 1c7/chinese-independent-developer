@@ -19,6 +19,10 @@
 ### 2018年3月18号添加
 ---
 
+#### tomasy - [Github](https://github.com/solobat)
+* :white_check_mark: [Steward](https://github.com/solobat/Steward)：Chrome 上类 Alfred / Wox 命令启动器扩展
+* :white_check_mark: [单词小卡片](https://github.com/solobat/wordcard)：单词查询、例句收集、单词记忆于一体的浏览器扩展，支持 Chrome / Firefox
+
 #### NextStack - [Github](https://github.com/safe-dog), [博客](https://blog.nextstack.xyz)
 * :white_check_mark: [下一栈](https://nextstack.xyz)：把你的博客网站制作成 APP 进行更爽阅读浏览
 
