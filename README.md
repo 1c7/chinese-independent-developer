@@ -72,7 +72,7 @@
 * :white_check_mark: [HaloRadio](https://www.icyarrow.com/haloradio/)：(Windows) 豆瓣电台客户端
 * :white_check_mark: [Biu](https://github.com/gaodeng/Biu-for-ReadHub)：(Android/iOS) Readhub 移动客户端
 
-#### ymma - [Github](https://github.com/ymma)
+#### ymark - [Github](https://github.com/ymma)
 * :white_check_mark: [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
 * :white_check_mark: [易LOGO](http://yeelogo.com/)：简单的在线生成 Logo 网站
 * :clock8: [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
