@@ -19,6 +19,9 @@
 ### 2018年3月18号添加
 ---
 
+#### Collider LI - [Github](https://github.com/lhc70000)
+* :white_check_mark: [IINA](https://github.com/lhc70000/iina)：一个现代的 macOS 媒体播放器
+
 #### lijianqiang12 - [博客](http://lijianqiang12.com)
 * :white_check_mark: [远离手机](http://www.offphone.net)：一个能将手机锁定一段时间的 App
 
