@@ -18,6 +18,8 @@
 
 ### 2018年3月18号添加
 ---
+#### @drakeet - [GitHub](https://github.com/drakeet)
+- :white_check_mark: [纯纯写作](https://sspai.com/post/43650): 绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
 
 #### Soledad - [GitHub](https://github.com/caiyue1993), [微博](https://weibo.com/caiyue233/)
 * :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍输入法
