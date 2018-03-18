@@ -75,8 +75,8 @@
 - :white_check_mark: [纯纯写作](https://sspai.com/post/43650)：绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
 
 #### Soledad - [GitHub](https://github.com/caiyue1993), [微博](https://weibo.com/caiyue233/)
-* :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍输入法
-* :white_check_mark: [小目标](https://itunes.apple.com/cn/app/%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%87%8F%E5%8C%96%E4%BD%A0%E7%9A%84%E8%BF%9B%E6%AD%A5/id1215312957?mt=8)：量化你的进步
+* :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍“输入法” - [更多介绍](https://sspai.com/post/43386)
+* :white_check_mark: [小目标](https://itunes.apple.com/cn/app/%E5%B0%8F%E7%9B%AE%E6%A0%87-%E9%87%8F%E5%8C%96%E4%BD%A0%E7%9A%84%E8%BF%9B%E6%AD%A5/id1215312957?mt=8)：实用且精致的任务管理类应用，以量化的方式激励你完成目标
 
 #### Gao Deng - [Github](https://github.com/gaodeng)
 * :white_check_mark: [AtPill](https://itunes.apple.com/cn/app/id590504521?mt=12): (Mac) 豆瓣电台客户端
