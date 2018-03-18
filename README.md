@@ -19,6 +19,10 @@
 ### 2018年3月18号添加
 ---
 
+#### 青杨 - [Github](https://github.com/HuQingyang)
+* :white_check_mark: [Luoo.qy](https://github.com/HuQingyang/Luoo.qy)：独立音乐社区[落网](http://www.luoo.net/)的第三方电脑客户端
+* :white_check_mark: [Page.qy](https://github.com/HuQingyang/Page.qy)：一款针对小白(~~懒人~~)的自动化管理、生成、部署个人博客的工具
+
 #### zomco - [Github](https://github.com/zomco)
 * :white_check_mark: [路几](http://www.ruki.pw)：分享精彩的行车记录仪视频
 
