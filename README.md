@@ -124,18 +124,5 @@
 最早的十几个人和项目都是 1c7 个人认识的朋友，剩下几个是湾区日报里的项目。           
 接下来的数据，希望大家填入~
 
-#### 9. 宣传过的地方
-* [v2ex](https://www.v2ex.com/t/439081)
-* [湾区论坛](https://wanqu.io/t/2018-3-app/8121)
-* [Ruby China](https://ruby-china.org/topics/35258)
-* [diycode 社区](https://www.diycode.cc/topics/1220)   
-* [知乎专栏](https://zhuanlan.zhihu.com/p/34669673)
-
-#### 10. 最后    
-如果你的项目开始盈利，然后你想分享项目从诞生到盈利学到的东西      
-（就像 indiehackers.com 那样）    
-欢迎联系 1c7 ```(guokrfans#gmail.com)``` 我们可以做个采访然后**放到 sideidea.com 上**         
-门槛：盈利要超过500元/月（单位：人民币）    
-注意是  sideidea 的采访要超过 500，这里这个表是没有盈利门槛标准的，只要是独立开发者做的网站和 App 就可以了    
 
 
