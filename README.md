@@ -16,6 +16,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+#### ymma - [Github](https://github.com/ymma)
+* ✅ [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
+* ✅ [易LOGO](http://yeelogo.com/)：简单的在线生成 Logo 网站
+* 🕗 [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
+
 #### GhostSKB - [Github](https://github.com/dingmingxin/GhostSKB)
 * :white_check_mark: [GhostSKB](https://itunes.apple.com/cn/app/ghostskb/id1134384859?mt=12)：(Mac) 可根据应用设置默认输入法，应用切换时，输入法也跟随切换
 
@@ -127,9 +132,10 @@
 * [知乎专栏](https://zhuanlan.zhihu.com/p/34669673)
 
 #### 10. 最后    
-如果你的项目开始盈利，然后你想分享项目从诞生到盈利学到的东西（就像 indiehackers.com 那样）                     
+如果你的项目开始盈利，然后你想分享项目从诞生到盈利学到的东西      
+（就像 indiehackers.com 那样）    
 欢迎联系 1c7 ```(guokrfans#gmail.com)``` 我们可以做个采访然后**放到 sideidea.com 上**         
 门槛：盈利要超过500元/月（单位：人民币）    
-注意是  sideidea 的采访要超过 500，这里这个表是没有盈利门槛标准的，只要是独立开发者做的网站和 App 就可以了。
+注意是  sideidea 的采访要超过 500，这里这个表是没有盈利门槛标准的，只要是独立开发者做的网站和 App 就可以了    
 
 
