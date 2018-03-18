@@ -19,12 +19,15 @@
 ### 2018年3月18号添加
 ---
 
+#### ming
+* [京价保](https://jjb.im/)：京价保是一个帮助你自动申请京东价格保护，顺便帮你签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
+
 #### 叶大侠 - [Github](https://github.com/YeDaxia)
 * :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 - [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
 * :white_check_mark: [为你搜谱](http://sopu.52cmajor.com/)：应该是国内最全的乐谱搜索引擎了
 
 #### Sinyu - [Github](https://github.com/sinyu1012)
-* :white_check_mark: [FY掌上大学](http://android.myapp.com/myapp/detail.htm?apkName=cn.czfy.zsdx&ADTAG=mobile)：针对自己母校做的一款查询课表成绩的APP
+* :white_check_mark: [FY掌上大学](http://android.myapp.com/myapp/detail.htm?apkName=cn.czfy.zsdx&ADTAG=mobile)：针对自己母校(常州纺院)做的一款查询课表成绩的APP
 
 ####  mclxly - [GitHub](https://github.com/mclxly)
 * :white_check_mark: [我旁](https://3kmq.com/)：这是一个分享 / 发现周边生活资讯的社区
