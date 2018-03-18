@@ -17,6 +17,7 @@
 （名字按时间排序，最新添加的在最上面） 
 
 ### 2018年3月18号添加
+----
 
 #### Soledad - [GitHub](https://github.com/caiyue1993), [微博](https://weibo.com/caiyue233/)
 * :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍输入法
