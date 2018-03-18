@@ -18,6 +18,8 @@
 
 ### 2018年3月18号添加
 ---
+#### 潇涧 - [Github](https://github.com/hujiaweibujidao)
+* :white_check_mark: [诗鲸](https://tab.leancloud.cn/1/stats/track/2lkBXY)：诗鲸是一款简洁而呆萌的诗词学习应用 - [更多介绍](http://zuimeia.com/app/5772/?platform=2)
 
 #### tomasy - [Github](https://github.com/solobat)
 * :white_check_mark: [Steward](https://github.com/solobat/Steward)：Chrome 上类 Alfred / Wox 命令启动器扩展
