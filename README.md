@@ -123,6 +123,7 @@
 * [v2ex](https://www.v2ex.com/t/439081)
 * [湾区论坛](https://wanqu.io/t/2018-3-app/8121)
 * [Ruby China](https://ruby-china.org/topics/35258)
+* [diycode 社区](https://www.diycode.cc/topics/1220)   
 
 #### 10. 最后            
 如果你的项目开始盈利，你想分享项目从诞生到盈利学到的东西（就像 indiehackers.com 上的采访那样）                     
