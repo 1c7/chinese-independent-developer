@@ -82,13 +82,13 @@
 
 [英文]        
 * [Indie Hacker](https://www.indiehackers.com/) 
-* [Product Hunt](http://producthunt.com/)
-* [Awesome Indie(Github)](https://github.com/mezod/awesome-indie)
+* [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 * [RemoteOK](https://remoteok.io/) - 找远程工作
 * [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
+* [Master of Scale](https://mastersofscale.com)
 
 [中文]    
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
@@ -98,9 +98,9 @@
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 
 #### 5. 值得关注的 Twitter 用户
-* [Patrick McKenzie | @patio11](https://twitter.com/patio11)
-* [Peter Levels | @levelso | 做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
-* [Courtland Allen | @csallen | Indie Hacker 创始人](https://twitter.com/csallen)
+* [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
+* [Peter Levels(@levelso)做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
+* [Courtland Allen(@csallen) - Indie Hacker 创始人](https://twitter.com/csallen)
 
 #### 6. 备注
 1. 若内容有误欢迎提出，我会马上修正
@@ -113,7 +113,6 @@
 所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)     
 
 #### 8. 最后            
-如果你的项目开始盈利，你想分享项目从诞生到盈利学到的东西       
-（就像 indiehackers.com 上的采访那样）               
+如果你的项目开始盈利，你想分享项目从诞生到盈利学到的东西（就像 indiehackers.com 上的采访那样）                     
 欢迎联系 1c7 ```(guokrfans#gmail.com)``` 我们可以做个采访放到 sideidea.com 上         
 门槛：盈利必须超过 500+/月（单位：人民币）             
