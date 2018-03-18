@@ -17,11 +17,12 @@
 （名字按时间排序，最新添加的在最上面） 
 
 ### 2018年3月19号添加
+---
 
 #### Gao Deng - [Github](https://github.com/gaodeng)
 * :white_check_mark: [AtPill](https://itunes.apple.com/cn/app/id590504521?mt=12): (Mac) 豆瓣电台客户端
 * :white_check_mark: [HaloRadio](https://www.icyarrow.com/haloradio/)：(Windows) 豆瓣电台客户端
-* :white_check_mark: [Biu](https://github.com/gaodeng/Biu-for-ReadHub)：- (Android/iOS) Readhub 移动客户端
+* :white_check_mark: [Biu](https://github.com/gaodeng/Biu-for-ReadHub)：(Android/iOS) Readhub 移动客户端
 
 #### ymma - [Github](https://github.com/ymma)
 * :white_check_mark: [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
@@ -38,6 +39,7 @@
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/zhiya-zang/id549139622)
 
 ### 2018年3月17号添加
+---
 
 #### wangzuo
 * :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
