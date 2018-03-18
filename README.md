@@ -20,7 +20,7 @@
 ---
 
 #### 叶大侠 - [Github](https://github.com/YeDaxia)
-* :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
+* :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 - [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
 * :white_check_mark: [为你搜谱](http://sopu.52cmajor.com/)：应该是国内最全的乐谱搜索引擎了
 
 #### Sinyu - [Github](https://github.com/sinyu1012)
