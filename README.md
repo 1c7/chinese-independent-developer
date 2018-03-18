@@ -81,7 +81,7 @@
 推荐一些对独立开发者有帮助的网站：    
 
 [英文]        
-* [Indie Hacker](https://www.indiehackers.com/) 
+* [Indie Hacker](https://www.indiehackers.com/)
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 * [RemoteOK](https://remoteok.io/) - 找远程工作
@@ -99,7 +99,7 @@
 
 #### 5. 值得关注的 Twitter 用户
 * [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
-* [Peter Levels(@levelso)做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
+* [Peter Levels(@levelso) - 做了 Nomadlist 和 RemoteOK 等产品](https://twitter.com/levelsio)
 * [Courtland Allen(@csallen) - Indie Hacker 创始人](https://twitter.com/csallen)
 
 #### 6. 备注
@@ -108,9 +108,9 @@
 3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
 
 #### 7. 不足
-这个列表不足的地方是只能把人名和项目列出来，其他情况比如上线时间，为什么做这个。现状如何。     
-如果都列出来会导致太长，可读性很差。     
-所以打算一直保持这样简单的形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)     
+这个列表不足的地方是只能把人名和项目列出来，其他信息比如上线时间，为什么做这个产品。现状如何。     
+如果都列出来会太长，可读性很差。     
+所以会一直保持目前的简单形式：人名+项目列表+（可选）更多信息(比如博客/帖子链接)     
 
 #### 8. 最后            
 如果你的项目开始盈利，你想分享项目从诞生到盈利学到的东西（就像 indiehackers.com 上的采访那样）                     
