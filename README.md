@@ -3,7 +3,8 @@
 
 **1. 为什么有这个表**    
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可     
+所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可     
+（入选要求：必须是网站/App，不能是开发者工具）         
 
 **2. 项目有 3 种状态**          
 
@@ -74,6 +75,8 @@
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
 
+---
+
 #### 4. 另外
 推荐一些对独立开发者有帮助的网站：    
 
@@ -89,15 +92,15 @@
 
 [中文]    
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer)
+* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 
 #### 5. 值得关注的 Twitter 用户
-* [Patrick McKenzie - @patio11](https://twitter.com/patio11)
-* [Peter Levels - @levelso - 他做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
-* [Courtland Allen - @csallen - Indie Hacker 创始人](https://twitter.com/csallen)
+* [Patrick McKenzie | @patio11](https://twitter.com/patio11)
+* [Peter Levels | @levelso | 做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
+* [Courtland Allen | @csallen | Indie Hacker 创始人](https://twitter.com/csallen)
 
 #### 6. 备注
 1. 若内容有误欢迎提出，我会马上修正
