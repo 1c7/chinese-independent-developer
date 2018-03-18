@@ -78,22 +78,22 @@
 推荐一些对独立开发者有帮助的网站：    
 * [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer)
 * [Indie Hacker](https://www.indiehackers.com/) 
-* [Sideidea](http://sideidea.com/)    
+* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [Product Hunt](http://producthunt.com/)
 * [Awesome Indie(Github)](https://github.com/mezod/awesome-indie)
-* [NomadList](https://nomadlist.com/)
-* [RemoteOK](https://remoteok.io/)
+* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
+* [RemoteOK](https://remoteok.io/) - 找远程工作
 * [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 
 #### 5. 值得关注的推特用户（草稿）
-[Patrick McKenzie - @patio11](https://twitter.com/patio11)
-[Peter Levels - @levelso - 他做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
-[Courtland Allen - @csallen - Indie Hacker 创始人](https://twitter.com/csallen)
+* [Patrick McKenzie - @patio11](https://twitter.com/patio11)
+* [Peter Levels - @levelso - 他做了 Nomadlist 和 remoteOK 等网站](https://twitter.com/levelsio)
+* [Courtland Allen - @csallen - Indie Hacker 创始人](https://twitter.com/csallen)
 
 #### 6. 备注
 1. 若内容有误欢迎提出，我会马上修正
