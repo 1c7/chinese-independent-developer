@@ -19,6 +19,10 @@
 ### 2018年3月18号添加
 ---
 
+#### Jinya - [GitHub](https://github.com/JinyaX), [微博](https://weibo.com/934249787)
+* :white_check_mark: [短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)：iOS 垃圾短信过滤工具（需要 iOS 11.0 或更高版本） 
+* :clock8: [Key Master]()：iOS 密码管理工具
+
 #### Collider LI - [Github](https://github.com/lhc70000)
 * :white_check_mark: [IINA](https://github.com/lhc70000/iina)：一个现代的 macOS 媒体播放器
 
