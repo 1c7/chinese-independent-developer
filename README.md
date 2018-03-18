@@ -19,6 +19,9 @@
 ### 2018年3月18号添加
 ---
 
+#### lijianqiang12 - [博客](http://lijianqiang12.com)
+* :white_check_mark: [远离手机](http://www.offphone.net)：一个能将手机锁定一段时间的 App
+
 #### Jason - [博客](https://atjason.com/)
 * :white_check_mark: [Klib](https://itunes.apple.com/cn/app/id1196268448?mt=12)：Kindle、iBooks、多看标注与笔记管理 - [更多介绍](https://toolinbox.net/Klib/)
 * :white_check_mark: [iText](https://itunes.apple.com/cn/app/id1314980676?mt=12)：从图片中识别文字的 OCR 工具 - [更多介绍](https://toolinbox.net/iText/)
