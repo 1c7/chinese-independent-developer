@@ -24,7 +24,7 @@
 
 #### oasisfeng - [Github](https://github.com/oasisfeng)
 * :white_check_mark: [Greenify](https://www.coolapk.com/apk/com.oasisfeng.greenify)：绿色守护是一款帮助你甄别那些对系统全局性能和耗电量有不良影响的应用程序，并通过独特的『绿色化』技术，阻止它们消耗您的电池电量，占用您的宝贵内存的 App。
-* :white_check_mark: [Island](https://www.coolapk.com/apk/com.oasisfeng.greenify)：岛是一个可以提供：隔离应用，保护隐私、克隆应用，平行运行、冻结应用所有的后台行为、隐藏应用、打包应用，快速恢复等功能的 App。
+* :white_check_mark: [Island](https://www.coolapk.com/apk/com.oasisfeng.island)：岛是一个可以提供：隔离应用，保护隐私、克隆应用，平行运行、冻结应用所有的后台行为、隐藏应用、打包应用，快速恢复等功能的 App。
 
 ### 2018年3月18号添加
 ---
