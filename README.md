@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### meowtec - [Github](https://github.com/meowtec/)
+- :white_check_mark: [Imagine](https://github.com/meowtec/Imagine): 一个跨平台的图片可视压缩 PC App
+
 #### daniel - [微博](https://weibo.com/u/1749949233)
 * :white_check_mark: [煎蛋](https://play.google.com/store/apps/details?id=com.danielstudio.app.wowtu)：煎蛋 Android 客户端
 
