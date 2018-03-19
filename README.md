@@ -18,6 +18,10 @@
 
 ### 2018年3月19号添加
 ---
+
+#### gaolinjie - [Github](https://github.com/gaolinjie)
+* :white_check_mark: [Love2.io](https://love2.io/)：一个优雅的开源技术文档分享平台 - [更多介绍](https://love2.io/@love2io/doc/hello-love2io)
+
 #### Magic-fe - [Github](https://github.com/magic-FE)
 * :white_check_mark: [翻译侠](https://chrome.google.com/webstore/detail/translate-man/fapgabkkfcaejckbfmfcdgnfefbmlion)：一款超棒的翻译插件（支持 Chrome + Firefox） - [更多介绍](https://github.com/magic-FE/translate-man)
 
