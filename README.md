@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### mw2c - [Github](https://github.com/mw2c)
+* :white_check_mark: [吉他谱搜索](http://gtpso.com/)：一个分享、搜索和播放吉他谱的 App 和网站
+
 #### 小贝 - [Github](https://github.com/easyhappy/)
 * :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南
 
