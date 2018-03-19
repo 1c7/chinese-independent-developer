@@ -19,6 +19,56 @@
 ### 2018年3月19号添加
 ---
 
+#### lfb-cd - [Github](https://github.com/lfb-cd)
+* :white_check_mark: [Net](https://itunes.apple.com/app/id1288011873)：网速展示流量统计工具
+* :white_check_mark: [Net-Lite](https://itunes.apple.com/app/id1109807177)：精简版网速展示流量统计工具
+* :white_check_mark: [晴天见](https://itunes.apple.com/app/id1231863233)：极简天气应用
+* :white_check_mark: [Reminder](https://itunes.apple.com/app/id1258508583): 只有 1.5MB 的极简备忘 APP
+
+#### cllgeek - [Github](https://github.com/cllgeek)
+* :white_check_mark: [极客教程](https://www.geekjc.com)：一个提供学习编程资料的网站
+
+#### CarGuo - [Github](https://github.com/CarGuo)
+* :white_check_mark: [GSYGithubAPP](https://www.pgyer.com/GSYGithubApp)：高质量的 Github 客户端 - [更多介绍](https://github.com/CarGuo/GSYGithubAPP)
+
+#### biqinglin - [Github](https://github.com/biqinglin)
+* :white_check_mark: [小私密](https://link.jianshu.com/?t=https://itunes.apple.com/us/app/小私密-匿名分享你的小私密/id1249902405?l=zh&ls=1&mt=8)：小私密，一款匿名分享你的小私密的轻社交应用 - [更多介绍](https://www.jianshu.com/p/4582c6f914eb)
+* :white_check_mark:  [App Store 全部作品](https://itunes.apple.com/cn/developer/qinglin-bi/id1228179246?l=en&mt=8)
+
+#### Anynices
+* :white_check_mark: [拼红包](https://www.pinghongbao.com)：外卖红包实时分享
+
+#### sheepkx - [Github](https://github.com/sheepkx)
+* :white_check_mark: [闪念ToDo](https://www.coolapk.com/apk/com.kdfly.todo)：ToDo 计划管理App
+
+#### jiangboLee - [Github](https://github.com/jiangboLee)
+* :white_check_mark: [Ptoo](https://itunes.apple.com/us/app/ptoo/id1219224872?mt=8)：一款美图软件 - [更多介绍](https://github.com/jiangboLee/huangpian)
+* :white_check_mark: [即时天气](https://github.com/jiangboLee/WeatherWX)：一款天气预报小程序~
+
+#### MORECATS - [Github](https://github.com/MORECATS)
+* :white_check_mark: [视觉图表](https://itunes.apple.com/cn/app/id1090006424)：适用于 iPhone & iPad 的图表制作应用
+* :white_check_mark: [标注图像+](https://itunes.apple.com/cn/app/id1227197910)：高效快捷地标注图像，长图，拼图，二维码一应俱全
+* :white_check_mark: [课程表](https://itunes.apple.com/cn/app/id1219202104)：一周课程表 & 艾宾浩斯遗忘曲线计划表
+* :white_check_mark: [今日美图](https://itunes.apple.com/cn/app/id1195400858)：获取今日 Bing 美图，每日新视野
+* :white_check_mark: [网速查看+](https://itunes.apple.com/cn/app/id1289105991)：在 iPhone & iPad 通知小部件上查看实时网络上下行速度
+* :white_check_mark: [取色器+](https://itunes.apple.com/cn/app/id1326506149)：像素级图像取色 & 色彩收集
+* :white_check_mark: [短信过滤+](https://itunes.apple.com/cn/app/id1314415052)：基于 iOS 11 新特性的垃圾短信过滤应用
+
+#### Jocs - [Github](https://github.com/Jocs)
+* :white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式 - [更多介绍](https://github.com/marktext/marktext/)
+
+#### 滑滑鸡 - [Github](https://github.com/songkuixi)
+* :white_check_mark: [单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)：一个日语单词本应用
+* :white_check_mark: [APOD](https://itunes.apple.com/us/app/apod/id1173315594)：一个每日天文一图客户端
+* :white_check_mark: [今日打卡](https://itunes.apple.com/cn/app/keeping-任务管理利器-打卡习惯养成/id1197272196)：一个小巧的日程管理打卡应用 - [更多介绍](https://github.com/songkuixi/Keeping)
+* :white_check_mark: [TouchBrickout](https://itunes.apple.com/cn/app/touchbrickout/id1314804894)：一款在 Mac 上用键盘或者 Touch Bar 进行打砖块的游戏 - [更多介绍](https://github.com/songkuixi/TouchBreakout)
+
+#### haozes - [Github](https://github.com/haozes)
+* :white_check_mark: [YaoYao](https://itunes.apple.com/cn/app/id1179393901/)：Apple Watch 跳绳计数应用 - [更多介绍](https://sspai.com/post/40103)
+* :white_check_mark: [DunDun](https://itunes.apple.com/cn/app/dundun-squats-counter/id1348285355?l=zh&ls=1&mt=8)：Apple Watch 深蹲计数应用 - [更多介绍](https://sspai.com/post/43319)
+
+#### Tuluobo - [Github](https://github.com/Tuluobo)
+* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet) 
 
 #### forecho - [Github](https://github.com/forecho)
 * :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
@@ -38,11 +88,15 @@
 #### ywwhack - [Github](https://github.com/ywwhack)
 * :white_check_mark: [aidou-electron](https://github.com/ywwhack/aidou-electron)：(Mac) 斗图神器 - 根据关键字搜索表情，一键复制
 
+#### kinglisky - [Github](https://github.com/kinglisky)
+* :white_check_mark: [aidou](https://chrome.google.com/webstore/detail/aidou/kidfkhcacngpkgkagdmbkncecbnadajb?hl=zh-CN)： (Chrome 插件) 社区回帖 Code review 斗图插件，一键生成表情链接 - [了解更多](https://github.com/kinglisky/aidou)
+
 #### daniel - [微博](https://weibo.com/u/1749949233)
 * :white_check_mark: [煎蛋](https://play.google.com/store/apps/details?id=com.danielstudio.app.wowtu)：煎蛋 Android 客户端
 
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
+
 
 ### 2018年3月18号添加
 ---
