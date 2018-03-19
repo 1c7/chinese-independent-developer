@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### xu42 - [Github](http://github.com/xu42)
+* :white_check_mark: [qrcode-chrome](https://chrome.google.com/webstore/detail/qr-code-generation/imabbihlfpmlpobbfhmliilagnjeoija)：生成当前页面二维码的极简 Chrome 插件 - [更多介绍](https://github.com/xu42/qrcode-chrome)
+* :white_check_mark: [个人即时收款方案](https://pay.xu42.cn/)：个人可用的即时收款解决方案 - [更多介绍](https://github.com/xu42/pay)
+
 #### kujian - [博客](http://caibaojian.com/), [Github](http://github.com/kujian)
 * :white_check_mark: [码农头条](http://hao.caibaojian.com)：每日自动抓取开发者文章并推荐 - [更多介绍](http://hao.caibaojian.com/about)
 * :white_check_mark: [Github热榜](http://news.caibaojian.com)：每日自动抓取 Github 前端热门项目并推荐
