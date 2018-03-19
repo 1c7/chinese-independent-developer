@@ -19,12 +19,17 @@
 ### 2018年3月19号添加
 ---
 
+#### lfb-cd - [Github](https://github.com/lfb-cd)
+* :white_check_mark: [Net](https://itunes.apple.com/app/id1288011873)：网速展示流量统计工具
+* :white_check_mark: [Net-Lite](https://itunes.apple.com/app/id1109807177)：精简版网速展示流量统计工具
+* :white_check_mark: [晴天见](https://itunes.apple.com/app/id1231863233)：极简天气应用
+* :white_check_mark: [Reminder](https://itunes.apple.com/app/id1258508583): 只有 1.5MB 的极简备忘 APP
+
 #### cllgeek - [Github](https://github.com/cllgeek)
 * :white_check_mark: [极客教程](https://www.geekjc.com)：一个提供学习编程资料的网站
 
 #### CarGuo - [Github](https://github.com/CarGuo)
 * :white_check_mark: [GSYGithubAPP](https://www.pgyer.com/GSYGithubApp)：高质量的 Github 客户端 - [更多介绍](https://github.com/CarGuo/GSYGithubAPP)
-
 
 #### biqinglin - [Github](https://github.com/biqinglin)
 * :white_check_mark: [小私密](https://link.jianshu.com/?t=https://itunes.apple.com/us/app/小私密-匿名分享你的小私密/id1249902405?l=zh&ls=1&mt=8)：小私密，一款匿名分享你的小私密的轻社交应用 - [更多介绍](https://www.jianshu.com/p/4582c6f914eb)
