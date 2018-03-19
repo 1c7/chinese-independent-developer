@@ -19,6 +19,8 @@
 ### 2018年3月19号添加
 ---
 
+#### Tuluobo - [Github](https://github.com/Tuluobo)
+* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet) 
 
 #### forecho - [Github](https://github.com/forecho)
 * :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
