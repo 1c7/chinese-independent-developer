@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### coderyi - [Github](https://github.com/coderyi)
+* :white_check_mark: [Monkey for Github](https://itunes.apple.com/cn/app/monkey-for-github/id1003765407)：以 GitHub 排名为主的 GitHub iOS App
+
 #### bugulink - [Github](https://github.com/bugulink)
 * :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
 
