@@ -50,6 +50,10 @@
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
+#### Jocs - [Github](https://github.com/Jocs)
+
+- ✅ [Mark Text](https://github.com/marktext/marktext/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式，有黑白两款主题
+
 ### 2018年3月18号添加
 ---
 
