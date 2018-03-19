@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### Caldis - [Github](https://github.com/Caldis)
+* :white_check_mark: [Mos](http://mos.u2sk.com/)：一个在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
+
 #### neal1991 - [Github](https://github.com/neal1991)
 * :white_check_mark: [上海地铁线路图](https://neal1991.github.io/subway-shanghai)：上海地铁线路图，包括站点时刻表信息，卫生间信息，出入口信息，无障碍电梯信息
 * :white_check_mark: [七牛云图床](https://chrome.google.com/webstore/detail/%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/fmpbbmjlniogoldpglopponaibclkjdg?utm_source=chrome-ntp-icon)：基于七牛云存储对象实现的私有图床 - [更多介绍](https://segmentfault.com/a/1190000013374209)
