@@ -18,7 +18,7 @@
 
 ### 2018年3月19号添加
 ---
-#### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044)，[Twitter](https://twitter.com/jony_chunfang)
+#### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044),[Twitter](https://twitter.com/jony_chunfang)
 
 * :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议 ：）。
 * :clock8: [Time Progress](https://github.com/TimeProgress)：让时间变成 时间块，一块块清晰可见。在这里，可以让你看到时间的变化。
