@@ -20,6 +20,7 @@
 ---
 #### moyu - [Github](https://github.com/moyus)
 * :white_check_mark: [Cover](http://cover.20theme.com/): A High Quality Component Library Built on Vue.js
+* :white_check_mark: [Point](http://point.moyu.io/): A flexible CSS Framework for building modern responsive web apps
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
