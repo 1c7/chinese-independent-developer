@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### biqinglin - [Github](https://github.com/biqinglin)
+* :white_check_mark: [小私密](https://link.jianshu.com/?t=https://itunes.apple.com/us/app/小私密-匿名分享你的小私密/id1249902405?l=zh&ls=1&mt=8)：小私密，一款匿名分享你的小私密的轻社交应用 - [更多介绍](https://www.jianshu.com/p/4582c6f914eb)
+* :white_check_mark:  [App Store 全部作品](https://itunes.apple.com/cn/developer/qinglin-bi/id1228179246?l=en&mt=8)
+
 #### Anynices
 * :white_check_mark: [拼红包](https://www.pinghongbao.com)：外卖红包实时分享
 
