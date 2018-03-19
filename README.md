@@ -19,6 +19,12 @@
 ### 2018年3月19号添加
 ---
 
+#### 88250 - [Github](https://github.com/88250)，[知乎](https://www.zhihu.com/people/88250)，[微博](https://weibo.com/2778228501)
+* :white_check_mark: [B3log 开源](https://b3log.org): B3log 开源社区 - [更多介绍](https://github.com/b3log)
+* :white_check_mark: [黑客派](https://hacpai.com): 程序员和设计师的社区 - [更多介绍](https://hacpai.com/article/1440573175609)
+* :white_check_mark: [Pipe](http://pipe.b3log.org): 小而美的博客平台 - [更多介绍](https://github.com/b3log/pipe)
+* :white_check_mark: [Solo](https://github.com/b3log/solo): 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧！- [更多介绍](https://github.com/b3log/solo)
+* :white_check_mark: [Wide](https://wide.b3log.org): 一个基于 Web 的 Go 语言 IDE - [更多介绍](https://github.com/b3log/wide)
 
 #### forecho - [Github](https://github.com/forecho)
 * :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
