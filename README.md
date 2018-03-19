@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### Molunerfinn - [Github](https://github.com/Molunerfinn)
+* :white_check_mark: [PicGo](https://molunerfinn.com/PicGo)：跨平台的图床图片上传工具 - [更多介绍](https://github.com/Molunerfinn/PicGo)
+
 #### xu42 - [Github](http://github.com/xu42)
 * :white_check_mark: [qrcode-chrome](https://chrome.google.com/webstore/detail/qr-code-generation/imabbihlfpmlpobbfhmliilagnjeoija)：生成当前页面二维码的极简 Chrome 插件 - [更多介绍](https://github.com/xu42/qrcode-chrome)
 * :white_check_mark: [个人即时收款方案](https://pay.xu42.cn/)：个人可用的即时收款解决方案 - [更多介绍](https://github.com/xu42/pay)
