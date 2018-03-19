@@ -213,6 +213,7 @@
 
 #### oldj
 * :white_check_mark: [妙笔](https://www.momothink.com/wonderpen)：Mac 平台写作软件 - [更多介绍](https://blog.momothink.com/2016/11/21/hello-wonderpen/)
+* :white_check_mark: [SwitchHosts](https://oldj.github.io/SwitchHosts/)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
 
 #### Kenshin
 * :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)    
