@@ -19,9 +19,13 @@
 ### 2018年3月19号添加
 ---
 
+#### Tolecen - [博客](https://xinle.co/)
+* :white_check_mark: [白描](https://itunes.apple.com/cn/app/id1249901692)：高效的文字识别与翻译软件 - [更多介绍](https://sspai.com/post/42065)
+* :white_check_mark: [西江月](https://itunes.apple.com/cn/app/id1084924739)：遇见传统诗词之美 - [更多介绍](https://sspai.com/post/38786)
+* :white_check_mark: [天天成语](https://itunes.apple.com/cn/app/id843601091)：简洁方便的离线成语词典 - [更多介绍](https://xinle.co/2016/05/26/chengyu/)
+
 #### textproofreading - [Github](https://github.com/textproofreading/)
 * :white_check_mark: [中文错别字纠错校对系统](http://www.CuoBieZi.net/)： 一个可以在线检测中文错别字的工具
-
 
 #### hanks - [Github](https://github.com/hanks-zyh)
 * :white_check_mark: [便签](https://www.coolapk.com/apk/xyz.hanks.note)：体积不足 2M，功能却全面到令人惊喜的 Android 便签应用 - [更多介绍](https://sspai.com/post/41323)
