@@ -20,7 +20,7 @@
 ---
 #### slince - [Github](https://github.com/slince)
 * :white_check_mark: [PHPDish 社区系统](https://www.phpdish.com)：一款高质量的内容社区系统
-* :white_check_mark: [Spike 内网穿透](https://www.phpdish.com)：一款纯由 PHP 开发的内网穿透工具
+* :white_check_mark: [Spike 内网穿透](https://github.com/slince/spike)：一款纯由 PHP 开发的内网穿透工具
 
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
