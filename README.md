@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### jiangboLee - [Github](https://github.com/jiangboLee)
+* :white_check_mark: [Ptoo](https://itunes.apple.com/us/app/ptoo/id1219224872?mt=8)：一款美图软件 - [更多介绍](https://github.com/jiangboLee/huangpian)
+* :white_check_mark: [即时天气](https://github.com/jiangboLee/WeatherWX)：一款天气预报小程序~
+
 #### MORECATS - [Github](https://github.com/MORECATS)
 * :white_check_mark: [视觉图表](https://itunes.apple.com/cn/app/id1090006424)：适用于 iPhone & iPad 的图表制作应用
 * :white_check_mark: [标注图像+](https://itunes.apple.com/cn/app/id1227197910)：高效快捷地标注图像，长图，拼图，二维码一应俱全
