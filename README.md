@@ -19,6 +19,15 @@
 ### 2018年3月19号添加
 ---
 
+
+#### Larry - [码力全开科技工作室](http://maliquankai.com)
+* :white_check_mark: [奇点日报](https://itunes.apple.com/us/app/wa-wa-yu-jian-hao-yin-le/id1223916908?l=zh&ls=1&mt=8)：高逼格程序员开发者技术分享平台
+* :white_check_mark: [破壳日](https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&ls=1&mt=8)：精美的生日 · 节日 · 纪念日礼物提醒工具
+* :white_check_mark: [壹日程](https://itunes.apple.com/us/app/壹日程-专注任务管理和待办计划提醒/id1251547470?l=zh&ls=1&mt=8)：专注任务管理和待办计划提醒
+* :white_check_mark: [心动屋](https://itunes.apple.com/us/app/心动屋-发现令你心动的好物/id1234003952?l=zh&ls=1&mt=8)：发现令你心动的好物
+* :white_check_mark: [口袋密码](https://itunes.apple.com/us/app/口袋密码-安全简洁的账号管家/id1256288406?l=zh&ls=1&mt=8)：安全简洁的账号管家
+* :white_check_mark: [拾光记](https://itunes.apple.com/us/app/拾光记-拾起你走过的时光/id1247124599?l=zh&ls=1&mt=8)：拾起你走过的时光
+
 #### lfb-cd - [Github](https://github.com/lfb-cd)
 * :white_check_mark: [Net](https://itunes.apple.com/app/id1288011873)：网速展示流量统计工具
 * :white_check_mark: [Net-Lite](https://itunes.apple.com/app/id1109807177)：精简版网速展示流量统计工具
