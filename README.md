@@ -18,6 +18,8 @@
 
 ### 2018年3月19号添加
 ---
+#### slince - [Github](https://github.com/slince)
+* :white_check_mark: [PHPDish 社区系统](https://www.phpdish.com)：一款高质量的内容社区系统
 
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
