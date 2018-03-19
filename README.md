@@ -24,6 +24,9 @@
 #### Windson - [Github](https://github.com/Windsooon)
 * :white_check_mark: [Channelshunt](https://www.channelshunt.com/)：YouTube 频道推荐站
 * :white_check_mark: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
+* :white_check_mark: [OpenSource Jobs](https://www.osjobs.net/)：根据开源项目的贡献推荐工作
+* :white_check_mark: [EngineGo](https://www.enginego.org/)：计算机基础教程
+
 
 #### yaoleifly - [Github](https://github.com/yaoleifly)
 * :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：一个以数字资源为核心的自我学习社群 
