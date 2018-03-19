@@ -19,6 +19,12 @@
 ### 2018年3月19号添加
 ---
 
+#### neal1991 - [Github](https://github.com/neal1991)
+* :white_check_mark: [上海地铁线路图](https://neal1991.github.io/subway-shanghai)：上海地铁线路图，包括站点时刻表信息，卫生间信息，出入口信息，无障碍电梯信息
+* :white_check_mark: [七牛云图床](https://chrome.google.com/webstore/detail/%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/fmpbbmjlniogoldpglopponaibclkjdg?utm_source=chrome-ntp-icon)：基于七牛云存储对象实现的私有图床 - [更多介绍](https://segmentfault.com/a/1190000013374209)
+* :white_check_mark: [export-to-markdown](https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?utm_source=chrome-ntp-icon)：将博文转化成 Markdown 格式，目前支持 Medium 和 elastic 官博 - [更多介绍](https://segmentfault.com/a/1190000011324821)
+* :white_check_mark: [去哪拍照片](http://ozfo4jjxb.bkt.clouddn.com/gh_900fd73a1fd0_258.jpg)：微信小程序，主要是上海市落户拍照地点，包括免费和收费两种
+
 #### GitIssue - [Github](https://github.com/git-issue)
 * :white_check_mark: [GitIssue](https://gitissue.com): Github Issue 博客平台 - [更多介绍](https://gitissue.com/about)
 
