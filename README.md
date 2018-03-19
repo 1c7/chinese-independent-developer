@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### H1ac0k - [博客](http://xrong.net)
+* :white_check_mark: [斗图啦](https://www.doutula.com)：斗图装逼必备
+
 #### Tolecen - [博客](https://xinle.co/)
 * :white_check_mark: [白描](https://itunes.apple.com/cn/app/id1249901692)：高效的文字识别与翻译软件 - [更多介绍](https://sspai.com/post/42065)
 * :white_check_mark: [西江月](https://itunes.apple.com/cn/app/id1084924739)：遇见传统诗词之美 - [更多介绍](https://sspai.com/post/38786)
