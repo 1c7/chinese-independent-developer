@@ -83,6 +83,10 @@
 
 #### @drakeet - [GitHub](https://github.com/drakeet)
 - :white_check_mark: [纯纯写作](https://sspai.com/post/43650)：绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
+- :white_check_mark: [纯纯打码](https://www.coolapk.com/apk/me.drakeet.puremosaic)：卓越的马赛克应用
+- :white_check_mark: [验证码助手](https://www.coolapk.com/apk/me.drakeet.inmessage)：一款 Material Design 的验证码管理器轻应用~
+- :white_check_mark: [闲读](https://www.coolapk.com/apk/com.drakeet.xiandu)：一款轻量、纯净、及时的聚合新闻、有趣资讯 App
+- :white_check_mark: [贝壳单词](http://app.mi.com/details?id=me.drakeet.seashell)：一款可让用户在完全无压力地情况下稳步提高英语水平的 App
 
 #### Soledad - [GitHub](https://github.com/caiyue1993), [微博](https://weibo.com/caiyue233/)
 * :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍“输入法” - [更多介绍](https://sspai.com/post/43386)
