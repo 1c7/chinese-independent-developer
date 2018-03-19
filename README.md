@@ -80,7 +80,7 @@
 * :clock8: [MoreiTunesConnect_iOS](https://github.com/CoderDwang/MoreiTunesConnect_iOS)：允许多开的非苹果官方的 App 审核状态查询
 
 #### coderyi - [Github](https://github.com/coderyi)
-* :white_check_mark: [Monkey for Github](https://itunes.apple.com/cn/app/monkey-for-github/id1003765407)：以 GitHub 排名为主的 GitHub iOS App
+* :white_check_mark: [Monkey for Github](https://itunes.apple.com/cn/app/monkey-for-github/id1003765407)：以 GitHub 排名为主的 GitHub App,支持iOS/Android,[更多介绍](https://github.com/coderyi/Monkey)
 
 #### bugulink - [Github](https://github.com/bugulink)
 * :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
