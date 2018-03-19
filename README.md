@@ -18,6 +18,9 @@
 
 ### 2018年3月19号添加
 ---
+#### Magic-fe - [Github](https://github.com/magic-FE)
+* :white_check_mark: [翻译侠](https://chrome.google.com/webstore/detail/translate-man/fapgabkkfcaejckbfmfcdgnfefbmlion)：一款超棒的翻译插件 - [更多介绍](https://github.com/magic-FE/translate-man)
+
 #### Windson - [Github](https://github.com/Windsooon)
 * :white_check_mark: [Channelshunt](https://www.channelshunt.com/)：YouTube频道推荐站
 * :white_check_mark: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
