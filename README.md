@@ -20,7 +20,7 @@
 ---
 
 #### hanks - [Github](https://github.com/hanks-zyh)
-* :white_check_mark: [便签](https://www.coolapk.com/apk/xyz.hanks.note)：体积不足 2M，功能却全面到令人惊喜的 Android 便签应用：[更多介绍](https://sspai.com/post/41323)
+* :white_check_mark: [便签](https://www.coolapk.com/apk/xyz.hanks.note)：体积不足 2M，功能却全面到令人惊喜的 Android 便签应用 - [更多介绍](https://sspai.com/post/41323)
 * :white_check_mark: [氢应用](https://www.coolapk.com/apk/pub.hydrogen.android)：一款 Android 插件容器应用
 
 
