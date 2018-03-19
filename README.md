@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### sheepkx - [Github](https://github.com/sheepkx)
+* :white_check_mark: [闪念ToDo](https://www.coolapk.com/apk/com.kdfly.todo)：ToDo 计划管理App
+
 #### jiangboLee - [Github](https://github.com/jiangboLee)
 * :white_check_mark: [Ptoo](https://itunes.apple.com/us/app/ptoo/id1219224872?mt=8)：一款美图软件 - [更多介绍](https://github.com/jiangboLee/huangpian)
 * :white_check_mark: [即时天气](https://github.com/jiangboLee/WeatherWX)：一款天气预报小程序~
