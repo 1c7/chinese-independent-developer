@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### yaoleifly - [Github](https://github.com/yaoleifly)
+* :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：一个以数字资源为核心的自我学习社群 
+* :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
+
 #### mw2c - [Github](https://github.com/mw2c)
 * :white_check_mark: [吉他谱搜索](http://gtpso.com/)：一个分享、搜索和播放吉他谱的 App 和网站
 
