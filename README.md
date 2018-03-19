@@ -19,6 +19,11 @@
 ### 2018年3月19号添加
 ---
 
+#### SpongeBobSun - [Github](https://github.com/SpongeBobSun/)
+* :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8)：开源免费的离线密码管理器
+* :white_check_mark: [Prodigal Music Player iOS](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器到 iOS 平台 - [更多介绍](https://github.com/SpongeBobSun/Prodigal-iOS)
+* :white_check_mark: [Prodigal Music Player Android](https://play.google.com/store/apps/details?id=bob.sun.prodigal)：复刻经典 iPod 的音乐播放器到 Android 平台 - [更多介绍](https://github.com/SpongeBobSun/Prodigal)
+
 #### yaoleifly - [Github](https://github.com/yaoleifly)
 * :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：一个以数字资源为核心的自我学习社群 
 * :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
