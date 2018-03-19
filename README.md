@@ -39,6 +39,9 @@
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
+#### [forecho](https://github.com/forecho)
+* :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
+
 ### 2018年3月18号添加
 ---
 
