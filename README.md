@@ -345,7 +345,7 @@
 
 #### 5. 值得关注的 Twitter 用户
 * [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
-* [Pieter Levels(@levelso) - 做了 Nomadlist 和 RemoteOK 等产品](https://twitter.com/levelsio)
+* [Pieter Levels(@levelso) - 做了 Nomadlist 和 RemoteOK 等产品](https://twitter.com/levelsio) - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
 * [Courtland Allen(@csallen) - Indie Hacker 创始人](https://twitter.com/csallen)
 
 #### 6. 备注
