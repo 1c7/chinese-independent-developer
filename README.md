@@ -26,7 +26,7 @@
 - :white_check_mark: [Imagine](https://github.com/meowtec/Imagine): 一个跨平台的图片可视压缩 PC App
 
 #### ywwhack - [Github](https://github.com/ywwhack)
-* :white_check_mark: [aidou-electron](https://github.com/ywwhack/aidou-electron)：[MacOS]斗图神器 - 根据关键字搜索表情，一键复制
+* :white_check_mark: [aidou-electron](https://github.com/ywwhack/aidou-electron)：(Mac) 斗图神器 - 根据关键字搜索表情，一键复制
 
 #### daniel - [微博](https://weibo.com/u/1749949233)
 * :white_check_mark: [煎蛋](https://play.google.com/store/apps/details?id=com.danielstudio.app.wowtu)：煎蛋 Android 客户端
