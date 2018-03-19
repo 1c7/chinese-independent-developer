@@ -18,7 +18,9 @@
 
 ### 2018年3月20号添加
 ---
-欢迎提交
+#### SCLeo - [Github](https://github.com/SCLeoX)
+* :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
+* :white_check_mark: [Reload-Failure](https://scleox.github.io/Reload-Failure/index.html)：一个完全用 2d canvas 实现的伪 3D 躲避游戏 - [更多介绍](https://github.com/SCLeoX/Reload-Failure)
 
 ### 2018年3月19号添加
 ---
