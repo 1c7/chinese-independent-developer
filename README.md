@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### kujian - [博客](http://caibaojian.com/), [Github](http://github.com/kujian)
+* :white_check_mark: [码农头条](http://hao.caibaojian.com)：每日自动抓取开发者文章并推荐 - [更多介绍](http://hao.caibaojian.com/about)
+* :white_check_mark: [Github热榜](http://news.caibaojian.com)：每日自动抓取 Github 前端热门项目并推荐
+
 #### Jack Cherng - [Github](https://github.com/jfcherng)
 * :white_check_mark: [繁化姬](https://zhconvert.org)：一个强大的「繁简转换」与「本地化」工具 - [更多介绍](https://docs.zhconvert.org)
 
