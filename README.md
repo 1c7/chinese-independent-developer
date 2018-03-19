@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### Jack Cherng - [Github](https://github.com/jfcherng)
+* :white_check_mark: [繁化姬](https://zhconvert.org)：一个强大的「繁简转换」与「本地化」工具 - [更多介绍](https://docs.zhconvert.org)
+
 #### biezhi - [Github](https://github.com/biezhi)
 * :white_check_mark: [Findor](https://findor.me/)：分享你的个人社交信息
 * :white_check_mark: [开发者秘籍](https://dev-cheats.com/)：系统的开发者指南、教程
