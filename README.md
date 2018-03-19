@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### jkpang - [Github](https://github.com/jkpang)
+* :white_check_mark: [PPHub](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)：一个简洁漂亮的 GitHub 客户端 - [更多介绍](https://github.com/jkpang/PPHub-Feedback)
+
 #### gaolinjie - [Github](https://github.com/gaolinjie)
 * :white_check_mark: [Love2.io](https://love2.io/)：一个优雅的开源技术文档分享平台 - [更多介绍](https://love2.io/@love2io/doc/hello-love2io)
 
