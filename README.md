@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### biezhi - [Github](https://github.com/biezhi)
+* :white_check_mark: [Findor](https://findor.me/)：分享你的个人社交信息
+* :white_check_mark: [开发者秘籍](https://dev-cheats.com/)：系统的开发者指南、教程
+
 #### Caldis - [Github](https://github.com/Caldis)
 * :white_check_mark: [Mos](http://mos.u2sk.com/)：一个在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
 
