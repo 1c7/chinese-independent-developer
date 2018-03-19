@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### GitIssue - [Github](https://github.com/git-issue)
+* :white_check_mark: [GitIssue](https://gitissue.com): Github Issue 博客平台 - [更多介绍](https://gitissue.com/about)
+
+
 #### Haocold - [Github](https://github.com/xjh093)
 * :white_check_mark: [X_Wubi](https://itunes.apple.com/cn/app/X_Wubi/id1122043433)：简洁、轻盈，在游戏中学五笔
 
