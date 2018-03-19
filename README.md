@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### ywwhack - [Github](https://github.com/ywwhack)
+* :white_check_mark: [aidou-electron](https://github.com/ywwhack/aidou-electron)：[MacOS]斗图神器 - 根据关键字搜索表情，一键复制
+
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
