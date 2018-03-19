@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### 小贝 - [Github](https://github.com/easyhappy/)
+* :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南
+
 #### H1ac0k - [博客](http://xrong.net)
 * :white_check_mark: [斗图啦](https://www.doutula.com)：斗图装逼必备
 
