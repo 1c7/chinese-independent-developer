@@ -18,6 +18,9 @@
 
 ### 2018年3月19号添加
 ---
+#### oasisfeng - [Github](https://github.com/oasisfeng)
+* :white_check_mark: [绿色守护 (Greenify)](https://www.coolapk.com/apk/com.oasisfeng.greenify)：帮助甄别那些对系统性能和耗电有不良影响的程序，阻止它们 （省略原描述20字）
+* :white_check_mark: [岛 (Island)](https://www.coolapk.com/apk/com.oasisfeng.island)：提供：隔离应用，保护隐私、克隆应用，平行运行（省略原描述20字）等功能
 
 #### meowtec - [Github](https://github.com/meowtec/)
 - :white_check_mark: [Imagine](https://github.com/meowtec/Imagine): 一个跨平台的图片可视压缩 PC App
