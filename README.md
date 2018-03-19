@@ -20,7 +20,7 @@
 ---
 
 #### Jocs - [Github](https://github.com/Jocs)
-* :white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式，有黑白两款主题 - [更多介绍](https://github.com/marktext/marktext/)
+* :white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式 - [更多介绍](https://github.com/marktext/marktext/)
 
 #### 滑滑鸡 - [Github](https://github.com/songkuixi)
 * :white_check_mark: [单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)：一个日语单词本应用
