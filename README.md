@@ -19,6 +19,15 @@
 ### 2018年3月19号添加
 ---
 
+#### MORECATS - [Github](https://github.com/MORECATS)
+* :white_check_mark: [视觉图表](https://itunes.apple.com/cn/app/id1090006424)：适用于 iPhone & iPad 的图表制作应用
+* :white_check_mark: [标注图像+](https://itunes.apple.com/cn/app/id1227197910)：高效快捷地标注图像，长图，拼图，二维码一应俱全
+* :white_check_mark: [课程表](https://itunes.apple.com/cn/app/id1219202104)：一周课程表 & 艾宾浩斯遗忘曲线计划表
+* :white_check_mark: [今日美图](https://itunes.apple.com/cn/app/id1195400858)：获取今日 Bing 美图，每日新视野
+* :white_check_mark: [网速查看+](https://itunes.apple.com/cn/app/id1289105991)：在 iPhone & iPad 通知小部件上查看实时网络上下行速度
+* :white_check_mark: [取色器+](https://itunes.apple.com/cn/app/id1326506149)：像素级图像取色 & 色彩收集
+* :white_check_mark: [短信过滤+](https://itunes.apple.com/cn/app/id1314415052)：基于 iOS 11 新特性的垃圾短信过滤应用
+
 #### Jocs - [Github](https://github.com/Jocs)
 * :white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式 - [更多介绍](https://github.com/marktext/marktext/)
 
