@@ -19,6 +19,10 @@
 ### 2018年3月19号添加
 ---
 
+#### Magic-fe - [Github](https://github.com/magic-FE/translate-man)
+* :white_check_mark: [翻译侠-谷歌](https://chrome.google.com/webstore/detail/translate-man/fapgabkkfcaejckbfmfcdgnfefbmlion)：一款超棒的翻译插件
+* :white_check_mark: [翻译侠-火狐](https://addons.mozilla.org/zh-CN/firefox/addon/%E7%BF%BB%E8%AF%91%E4%BE%A0-translate-man/)：一款超棒的翻译插件
+
 #### SpongeBobSun - [Github](https://github.com/SpongeBobSun/)
 * :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8)：开源免费的离线密码管理器
 * :white_check_mark: [Prodigal Music Player iOS](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器到 iOS 平台 - [更多介绍](https://github.com/SpongeBobSun/Prodigal-iOS)
