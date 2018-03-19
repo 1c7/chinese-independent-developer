@@ -18,6 +18,11 @@
 
 ### 2018年3月19号添加
 ---
+
+
+#### forecho - [Github](https://github.com/forecho)
+* :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
+
 #### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044),[Twitter](https://twitter.com/jony_chunfang)
 
 * :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议：）
@@ -38,9 +43,6 @@
 
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
-
-#### [forecho](https://github.com/forecho)
-* :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
 
 ### 2018年3月18号添加
 ---
