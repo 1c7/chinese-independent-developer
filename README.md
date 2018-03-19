@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### LiangLuDev - [Github](https://github.com/LiangLuDev/)
+* :clock8: [微Yue](https://github.com/LiangLuDev/WeYueReader)：一个 Android 电子书阅读App
+
 #### jkpang - [Github](https://github.com/jkpang)
 * :white_check_mark: [PPHub](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)：一个简洁漂亮的 GitHub 客户端 - [更多介绍](https://github.com/jkpang/PPHub-Feedback)
 
