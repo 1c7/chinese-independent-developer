@@ -19,6 +19,9 @@
 ### 2018年3月19号添加
 ---
 
+#### Jocs - [Github](https://github.com/Jocs)
+:white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式，有黑白两款主题 - [更多介绍](https://github.com/marktext/marktext/)
+
 #### 滑滑鸡 - [Github](https://github.com/songkuixi)
 * :white_check_mark: [单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)：一个日语单词本应用
 * :white_check_mark: [APOD](https://itunes.apple.com/us/app/apod/id1173315594)：一个每日天文一图客户端
@@ -56,9 +59,6 @@
 #### tinyao - [Github](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
-#### Jocs - [Github](https://github.com/Jocs)
-
-- ✅ [Mark Text](https://github.com/marktext/marktext/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式，有黑白两款主题
 
 ### 2018年3月18号添加
 ---
