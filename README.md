@@ -18,6 +18,11 @@
 
 ### 2018年3月19号添加
 ---
+#### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044)，[Twitter](https://twitter.com/jony_chunfang)
+
+* :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议 ：）。
+* :clock8: [Time Progress](https://github.com/TimeProgress)：让时间变成 时间块，一块块清晰可见。在这里，可以让你看到时间的变化。
+
 #### oasisfeng - [Github](https://github.com/oasisfeng)
 * :white_check_mark: [绿色守护 (Greenify)](https://www.coolapk.com/apk/com.oasisfeng.greenify)：帮助甄别那些对系统性能和耗电有不良影响的程序，阻止它们 （省略原描述20字）
 * :white_check_mark: [岛 (Island)](https://www.coolapk.com/apk/com.oasisfeng.island)：提供：隔离应用，保护隐私、克隆应用，平行运行（省略原描述20字）等功能
