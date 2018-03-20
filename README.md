@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### aderm - [Github](https://github.com/aderm)
+* :clock8: [如e定制](http://www.shangyuekeji.com/download): 个性化定制加工平台
+
 #### TKkk - [Github](https://github.com/TKkk-iOSer)
 * :white_check_mark: [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：MacOS 微信小助手（可玩性很高，开源）
 
@@ -403,9 +406,6 @@
 * :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
-
-#### 个性化定制 - [Github](https://github.com/aderm)
-* :clock8: [如e定制](http://www.shangyuekeji.com/download): 个性化定制加工平台
 
 ---
 
