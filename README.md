@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### maomao1996（茂茂） - [Github](https://github.com/maomao1996)
+* :white_check_mark: [mmPlayer在线音乐播放器](http://music.mtnhao.com)：在线音乐播放器（基于Vue2）（PC） - [更多介绍](https://github.com/maomao1996/Vue-mmPlayer)
+
 #### genru - [Github](https://github.com/genru)
 * :white_check_mark: [每日壹单](https://mryd.freeflarum.com)：每天推送10条最新外包兼职信息
 
