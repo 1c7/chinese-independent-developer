@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### 张嘉夫 - [Github](https://github.com/josephchang10), [微博](https://weibo.com/2949394297)
+* :white_check_mark: [生词本](https://itunes.apple.com/cn/app/生词本-智能背诵提醒/id1120027237?mt=8)：生词本 - 智能背诵提醒，让你记住所有查过的单词 - [更多介绍](https://itunes.apple.com/cn/app/生词本-智能背诵提醒/id1120027237?mt=8)
+
 #### nicejade - [Github](https://github.com/nicejade/), [博客](https://jeffjade.com)
 - :white_check_mark: [倾城之链](https://nicelinks.site/):  旨在云集全球优秀网站，方便你我探索互联网中更广阔的世界 - [更多介绍](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
 
