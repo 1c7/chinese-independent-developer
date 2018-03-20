@@ -21,6 +21,8 @@
 
 ### 2018年3月20号添加
 ---
+#### wizyoung - [Github](https://github.com/wizyoung)
+* :white_check_mark: [googletranslate.popclipext](https://github.com/wizyoung/googletranslate.popclipext)：一个 macOS 上的谷歌翻译 PopClip 扩展 - [更多介绍](https://github.com/wizyoung/googletranslate.popclipext)
 
 #### LiuYue - [Github](https://github.com/hangxingliu)
 * :white_check_mark: [steam-key-online-redeem](https://steamis.me)：Steam 游戏兑换码在线批量激活 - [更多介绍](https://github.com/hangxingliu/steam-key-online-redeem)
