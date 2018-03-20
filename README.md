@@ -22,6 +22,12 @@
 ### 2018年3月20号添加
 ---
 
+#### DeweyReed - [Github](https://github.com/DeweyReed)
+* :clock8: [剪贴板守护](https://github.com/DeweyReed/ClipboardCleaner)：使用多种方式查看并清空剪贴板的开源Android应用
+* :white_check_mark: [权限图书馆](https://www.coolapk.com/apk/162565)：查看本设备的应用和安装包的权限的Android应用
+* :white_check_mark: [循环计时器](https://www.coolapk.com/apk/118705)：一次设置N个计时器，自动计时、自动通知的Android应用
+* :clock8: [计时机器](https://www.coolapk.com/apk/177033)：循环计时器加强版，更多的通知方式和计划任务
+
 #### HyanCat - [Github](https://github.com/HyanCat), [博客](https://hyancat.com)
 * :white_check_mark: [若古](https://www.ruogoo.cn)： 古风文学兴趣交流社区（网站和 App） - [更多介绍](https://www.ruogoo.cn/about)
 
