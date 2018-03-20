@@ -16,8 +16,64 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+
+
+
 ### 2018年3月20号添加
 ---
+
+#### SpongeBobSun - [Github](https://github.com/SpongeBobSun/)
+* :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8): 开源免费的离线密码管理器 - [更多介绍](https://puffopensource.github.io/)
+* :white_check_mark: [Prodigal Music Player](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器 - [更多介绍](http://spongebobsun.github.io/Prodigal/)
+
+#### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
+* :white_check_mark: [MovieRater](https://www.mvrater.com)：集合Yahoo, Ptt, IMDB評分, 方便選片 - [更多介绍](https://github.com/Asing1001/movieRater.React)
+
+#### Chars - [Github](https://github.com/charsdavy), [博客](http://chars.tech), [Twitter](https://twitter.com/charsdavy)
+* :white_check_mark: [日本语社区](https://itunes.apple.com/cn/app/id1184113889)：日语学习资源，整合各种文本、音频和视频学习资料
+* :white_check_mark: [今日账单](https://itunes.apple.com/cn/app/id1176787145)：帐单记录与数据分析，内含云备份功能，界面简洁清爽
+* :white_check_mark: [Piclip](https://itunes.apple.com/cn/app/id1188174656)：即兴想起的一款九宫格切图软件，当然还有六、四等宫格布局
+
+#### enzo-yang - [Github](https://github.com/enzo-yang)
+* :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
+
+#### miliPolo - [Github](https://github.com/miliPolo), [简书](https://www.jianshu.com/u/e9f2e9d46877)
+* :clock8: [AR太阳系](https://github.com/miliPolo/ARSolarPlaySwift)：展示太阳系的运行
+
+#### xx19941215 - [Github](https://github.com/xx19941215)
+* :white_check_mark: [小时光倒数日](https://minapp.com/miniapp/2810/)：小时光倒数日，帮你铭记人生每一次的幸福时光
+
+#### JY - [Github](https://github.com/jy1989)
+* :white_check_mark: [狗狗大全](https://play.google.com/store/apps/details?id=com.cjy.DogCollection)：展示狗狗特性、概述、性格等，Android App
+
+#### 钟颖 - [GitHub](https://github.com/cyanzhong/), [小专栏](https://xiaozhuanlan.com/devnotes), [微博](https://weibo.com/0x00eeee)
+
+- :white_check_mark: [JSBox](https://itunes.apple.com/cn/app/id1312014438)：用 JavaScript 实现原生小工具 - [更多介绍](https://sspai.com/post/42361)
+- :white_check_mark: [TodayMind](https://itunes.apple.com/cn/app/id1207158665)：提醒事项扩展小组件 - [更多介绍](https://sspai.com/post/37669)
+- :white_check_mark: [小历](https://itunes.apple.com/cn/app/id1031088612)：日历扩展小组件 - [更多介绍](https://sspai.com/post/35440)
+- :white_check_mark: [小历 for Mac](https://itunes.apple.com/cn/app/id1114272557)：日历扩展小组件
+- :white_check_mark: [Pin](https://itunes.apple.com/cn/app/id1039643846)：剪贴板扩展工具，App Store 2016 年度应用 - [更多介绍](https://sspai.com/post/36484)
+- :white_check_mark: [Pin for Mac](https://itunes.apple.com/cn/app/id1092997957)：剪贴板扩展工具
+
+#### 张嘉夫 - [Github](https://github.com/josephchang10), [微博](https://weibo.com/2949394297)
+* :white_check_mark: [生词本](https://itunes.apple.com/cn/app/生词本-智能背诵提醒/id1120027237?mt=8)：生词本 - 智能背诵提醒，让你记住所有查过的单词 - [更多介绍](https://itunes.apple.com/cn/app/生词本-智能背诵提醒/id1120027237?mt=8)
+
+#### nicejade - [Github](https://github.com/nicejade/), [博客](https://jeffjade.com)
+- :white_check_mark: [倾城之链](https://nicelinks.site/):  旨在云集全球优秀网站，方便你我探索互联网中更广阔的世界 - [更多介绍](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
+
+#### wizyoung - [Github](https://github.com/wizyoung)
+* :white_check_mark: [googletranslate.popclipext](https://github.com/wizyoung/googletranslate.popclipext)：一个 macOS 上的谷歌翻译 PopClip 扩展 - [更多介绍](https://github.com/wizyoung/googletranslate.popclipext)
+
+#### LiuYue - [Github](https://github.com/hangxingliu)
+* :white_check_mark: [steam-key-online-redeem](https://steamis.me)：Steam 游戏兑换码在线批量激活 - [更多介绍](https://github.com/hangxingliu/steam-key-online-redeem)
+
+#### ApacheCN - [博客](http://www.apachecn.org/), [Github](https://github.com/apachecn)
+* :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
+
+#### Easy - [微博](https://weibo.com/easy), [Github](https://github.com/easychen)
+* :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
+* :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
+
 #### SCLeo - [Github](https://github.com/SCLeoX)
 * :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
 * :white_check_mark: [Reload-Failure](https://scleox.github.io/Reload-Failure/index.html)：一个完全用 2d canvas 实现的伪 3D 躲避游戏 - [更多介绍](https://github.com/SCLeoX/Reload-Failure)
@@ -27,6 +83,7 @@
 
 #### Molunerfinn - [Github](https://github.com/Molunerfinn)
 * :white_check_mark: [PicGo](https://molunerfinn.com/PicGo)：跨平台的图床图片上传工具 - [更多介绍](https://github.com/Molunerfinn/PicGo)
+* :white_check_mark: [node-github-profile-summary](https://gh-profile-summary.teamsz.xyz)：漂亮地生成你的GitHub总结的网站 - [更多介绍](https://github.com/Molunerfinn/node-github-profile-summary)
 
 #### xu42 - [Github](http://github.com/xu42)
 * :white_check_mark: [qrcode-chrome](https://chrome.google.com/webstore/detail/qr-code-generation/imabbihlfpmlpobbfhmliilagnjeoija)：生成当前页面二维码的极简 Chrome 插件 - [更多介绍](https://github.com/xu42/qrcode-chrome)
@@ -75,7 +132,7 @@
 * :white_check_mark: [Channelshunt](https://www.channelshunt.com/)：YouTube 频道推荐站
 * :white_check_mark: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
 * :white_check_mark: [OpenSource Jobs](https://www.osjobs.net/)：根据开源项目的贡献推荐工作
-* :white_check_mark: [EngineGo](https://www.enginego.org/)：计算机基础教程
+* :clock8: [EngineGo](https://www.enginego.org/)：计算机基础教程
 
 
 #### yaoleifly - [Github](https://github.com/yaoleifly)
