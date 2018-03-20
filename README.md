@@ -404,6 +404,9 @@
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
 
+#### 个性化定制 - [Github](https://github.com/aderm)
+* :clock8: [如e定制](http://www.shangyuekeji.com/download): 个性化定制加工平台
+
 ---
 
 #### 4. 另外
