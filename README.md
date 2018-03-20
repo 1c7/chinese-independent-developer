@@ -21,10 +21,10 @@
 
 ### 2018年3月20号添加
 ---
-#### Easy - [微博](https://weibo.com/easy) · [Github](https://github.com/easychen)
-* :white_check_mark:[Server酱](https://sc.ftqq.com/)：一个 HTTP 请求将文字内容推送到微信（支持 Markdown）
+#### Easy - [微博](https://weibo.com/easy), [Github](https://github.com/easychen)
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
+* :white_check_mark:[Server酱](https://sc.ftqq.com/)：一个 HTTP 请求将文字内容推送到微信（支持 Markdown）
 * :white_check_mark:[LazyAudioBook](https://github.com/easychen/lazyaudiobook)：利用百度语音合成接口将 txt 转为 mp3 
 
 #### SCLeo - [Github](https://github.com/SCLeoX)
@@ -84,7 +84,7 @@
 * :white_check_mark: [Channelshunt](https://www.channelshunt.com/)：YouTube 频道推荐站
 * :white_check_mark: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
 * :white_check_mark: [OpenSource Jobs](https://www.osjobs.net/)：根据开源项目的贡献推荐工作
-* :white_check_mark: [EngineGo](https://www.enginego.org/)：计算机基础教程
+* :clock8: [EngineGo](https://www.enginego.org/)：计算机基础教程
 
 
 #### yaoleifly - [Github](https://github.com/yaoleifly)
