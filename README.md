@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### HyanCat - [Github](https://github.com/HyanCat), [博客](https://hyancat.com)
+* :white_check_mark: [若古](https://www.ruogoo.cn)： 古风文学兴趣交流社区（网站和 App） - [更多介绍](https://www.ruogoo.cn/about)
+
 #### luowei - [Github](https://github.com/luowei)
 * :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法
 * :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
