@@ -21,6 +21,10 @@
 
 ### 2018年3月20号添加
 ---
+
+#### ApacheCN - [博客](http://www.apachecn.org/), [Github](https://github.com/apachecn)
+* :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
+
 #### Easy - [微博](https://weibo.com/easy), [Github](https://github.com/easychen)
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
