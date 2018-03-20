@@ -23,13 +23,13 @@
 ---
 
 #### luowei - [Github](https://github.com/luowei)
-* :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法。  
-* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出pdf的可个性化的自定义浏览器。 - [更多介绍](https://github.com/luowei/MyBrowser)  
-* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的APP。 - [更多介绍](https://github.com/luowei/PhotoDIY)  
-* :white_check_mark: [斗图王](http://app.wodedata.com/myapp/gifemoji.html)：一个GIF斗图动画表情制作和搜索APP,兼具斗图浏览器与斗图编辑器的功能。  
-* :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用。  
-* :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款支持从文本图片导入及导出PDF的Markdown记事本。 
-* :white_check_mark: [最强二维码](http://app.wodedata.com/myapp/qrcoderobot.html)：一个可以扫描二维码和生成自定义二维码的App。 
+* :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法
+* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
+* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)  
+* :white_check_mark: [斗图王](http://app.wodedata.com/myapp/gifemoji.html)：一个 GIF 斗图动画表情制作和搜索 APP，兼具斗图浏览器与斗图编辑器的功能
+* :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用 
+* :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款 Markdown 记事本，支持从文本图片导入及导出 PDF 
+* :white_check_mark: [最强二维码](http://app.wodedata.com/myapp/qrcoderobot.html)：一个可以扫描二维码和生成自定义二维码的 App
 
 #### aderm - [Github](https://github.com/aderm)
 * :clock8: [如e定制](http://www.shangyuekeji.com/download): 个性化定制加工平台
