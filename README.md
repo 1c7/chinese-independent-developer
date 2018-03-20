@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### JY - [Github](https://github.com/jy1989)
+* :white_check_mark: [狗狗大全](https://play.google.com/store/apps/details?id=com.cjy.DogCollection)：展示狗狗特性、概述、性格等，Android App
+
 #### 钟颖 - [GitHub](https://github.com/cyanzhong/), [小专栏](https://xiaozhuanlan.com/devnotes), [微博](https://weibo.com/0x00eeee)
 
 - :white_check_mark: [JSBox](https://itunes.apple.com/cn/app/id1312014438)：用 JavaScript 实现原生小工具 - [更多介绍](https://sspai.com/post/42361)
