@@ -33,8 +33,6 @@
 #### Easy - [微博](https://weibo.com/easy), [Github](https://github.com/easychen)
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
-* :white_check_mark:[Server酱](https://sc.ftqq.com/)：一个 HTTP 请求将文字内容推送到微信（支持 Markdown）
-* :white_check_mark:[LazyAudioBook](https://github.com/easychen/lazyaudiobook)：利用百度语音合成接口将 txt 转为 mp3 
 
 #### SCLeo - [Github](https://github.com/SCLeoX)
 * :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
