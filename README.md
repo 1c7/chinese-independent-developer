@@ -21,6 +21,10 @@
 
 ### 2018年3月20号添加
 ---
+
+#### nicejade - [Github](https://github.com/nicejade/), [博客](https://jeffjade.com)
+- :white_check_mark: [倾城之链](https://nicelinks.site/):  旨在云集全球优秀网站，方便你我探索互联网中更广阔的世界 - [更多介绍](https://jeffjade.com/2017/12/31/136-talk-about-nicelinks-site/)
+
 #### wizyoung - [Github](https://github.com/wizyoung)
 * :white_check_mark: [googletranslate.popclipext](https://github.com/wizyoung/googletranslate.popclipext)：一个 macOS 上的谷歌翻译 PopClip 扩展 - [更多介绍](https://github.com/wizyoung/googletranslate.popclipext)
 
