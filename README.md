@@ -21,6 +21,8 @@
 
 ### 2018年3月20号添加
 ---
+#### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
+* :white_check_mark: [MovieRater](https://www.mvrater.com)：集合Yahoo, Ptt, IMDB評分, 方便選片 - [更多介绍](https://github.com/Asing1001/movieRater.React)
 
 #### Chars - [Github](https://github.com/charsdavy), [博客](http://chars.tech), [Twitter](https://twitter.com/charsdavy)
 * :white_check_mark: [日本语社区](https://itunes.apple.com/cn/app/id1184113889)：日语学习资源，整合各种文本、音频和视频学习资料
