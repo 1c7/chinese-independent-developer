@@ -71,6 +71,7 @@
 
 #### Molunerfinn - [Github](https://github.com/Molunerfinn)
 * :white_check_mark: [PicGo](https://molunerfinn.com/PicGo)：跨平台的图床图片上传工具 - [更多介绍](https://github.com/Molunerfinn/PicGo)
+* :white_check_mark: [node-github-profile-summary](https://gh-profile-summary.teamsz.xyz)：漂亮地生成你的GitHub总结的网站 - [更多介绍](https://github.com/Molunerfinn/node-github-profile-summary)
 
 #### xu42 - [Github](http://github.com/xu42)
 * :white_check_mark: [qrcode-chrome](https://chrome.google.com/webstore/detail/qr-code-generation/imabbihlfpmlpobbfhmliilagnjeoija)：生成当前页面二维码的极简 Chrome 插件 - [更多介绍](https://github.com/xu42/qrcode-chrome)
