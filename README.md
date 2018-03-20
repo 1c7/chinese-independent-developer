@@ -22,6 +22,11 @@
 ### 2018年3月20号添加
 ---
 
+#### Chars - [Github](https://github.com/charsdavy), [博客](http://chars.tech), [Twitter](https://twitter.com/charsdavy)
+* :white_check_mark: [日本语社区](https://itunes.apple.com/cn/app/id1184113889)：日语学习资源，整合各种文本、音频和视频学习资料
+* :white_check_mark: [今日账单](https://itunes.apple.com/cn/app/id1176787145)：帐单记录与数据分析，内含云备份功能，界面简洁清爽
+* :white_check_mark: [Piclip](https://itunes.apple.com/cn/app/id1188174656)：即兴想起的一款九宫格切图软件，当然还有六、四等宫格布局
+
 #### enzo-yang - [Github](https://github.com/enzo-yang)
 * :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
 
