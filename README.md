@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### TKkk - [Github](https://github.com/TKkk-iOSer)
+* :white_check_mark: [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：MacOS 微信小助手（可玩性很高，开源）
+
 #### maomao1996（茂茂） - [Github](https://github.com/maomao1996)
 * :white_check_mark: [mmPlayer在线音乐播放器](http://music.mtnhao.com)：在线音乐播放器（基于Vue2）（PC） - [更多介绍](https://github.com/maomao1996/Vue-mmPlayer)
 
