@@ -21,6 +21,11 @@
 
 ### 2018年3月20号添加
 ---
+
+#### SpongeBobSun - [Github](https://github.com/SpongeBobSun/)
+* :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8): 开源免费的离线密码管理器 - [更多介绍](https://puffopensource.github.io/)
+* :white_check_mark: [Prodigal Music Player](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器 - [更多介绍](http://spongebobsun.github.io/Prodigal/)
+
 #### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
 * :white_check_mark: [MovieRater](https://www.mvrater.com)：集合Yahoo, Ptt, IMDB評分, 方便選片 - [更多介绍](https://github.com/Asing1001/movieRater.React)
 
