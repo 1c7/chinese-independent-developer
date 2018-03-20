@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### LiuYue - [Github](https://github.com/hangxingliu)
+* :white_check_mark: [steam-key-online-redeem](https://steamis.me)：Steam 游戏兑换码在线批量激活 - [更多介绍](https://github.com/hangxingliu/steam-key-online-redeem)
+
 #### ApacheCN - [博客](http://www.apachecn.org/), [Github](https://github.com/apachecn)
 * :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
 
