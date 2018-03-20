@@ -34,10 +34,10 @@
 #### 钟颖 - [GitHub](https://github.com/cyanzhong/), [小专栏](https://xiaozhuanlan.com/devnotes), [微博](https://weibo.com/0x00eeee)
 
 - :white_check_mark: [JSBox](https://itunes.apple.com/cn/app/id1312014438)：用 JavaScript 实现原生小工具 - [更多介绍](https://sspai.com/post/42361)
-- :white_check_mark: [Pin](https://itunes.apple.com/cn/app/id1039643846)：剪贴板扩展工具，App Store 2016 年度应用 - [更多介绍](https://sspai.com/post/36484)
 - :white_check_mark: [TodayMind](https://itunes.apple.com/cn/app/id1207158665)：提醒事项扩展小组件 - [更多介绍](https://sspai.com/post/37669)
 - :white_check_mark: [小历](https://itunes.apple.com/cn/app/id1031088612)：日历扩展小组件 - [更多介绍](https://sspai.com/post/35440)
 - :white_check_mark: [小历 for Mac](https://itunes.apple.com/cn/app/id1114272557)：日历扩展小组件
+- :white_check_mark: [Pin](https://itunes.apple.com/cn/app/id1039643846)：剪贴板扩展工具，App Store 2016 年度应用 - [更多介绍](https://sspai.com/post/36484)
 - :white_check_mark: [Pin for Mac](https://itunes.apple.com/cn/app/id1092997957)：剪贴板扩展工具
 
 #### 张嘉夫 - [Github](https://github.com/josephchang10), [微博](https://weibo.com/2949394297)
