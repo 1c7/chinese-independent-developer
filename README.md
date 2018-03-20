@@ -22,6 +22,10 @@
 ### 2018年3月20号添加
 ---
 
+#### fujianjin6471
+
+* :white_check_mark: [Memory Helper](https://itunes.apple.com/cn/app/memory-helper-zi-ding-yi-nei/id1113262919?l=en&mt=8)：科学复习，真正记住知识
+
 #### DeweyReed - [Github](https://github.com/DeweyReed)
 * :clock8: [剪贴板守护](https://github.com/DeweyReed/ClipboardCleaner)：使用多种方式查看并清空剪贴板的开源Android应用
 * :white_check_mark: [权限图书馆](https://www.coolapk.com/apk/162565)：查看本设备的应用和安装包的权限的Android应用
