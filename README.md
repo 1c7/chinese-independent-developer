@@ -21,6 +21,8 @@
 
 ### 2018年3月20号添加
 ---
+#### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
+* :white_check_mark: [MovieRater](https://www.mvrater.com)：集合Yahoo, Ptt, IMDB評分, 方便選片 - [更多介绍](https://github.com/Asing1001/movieRater.React)
 
 #### enzo-yang - [Github](https://github.com/enzo-yang)
 * :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
