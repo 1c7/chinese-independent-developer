@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### enzo-yang - [Github](https://github.com/enzo-yang)
+* :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
+
 #### miliPolo - [Github](https://github.com/miliPolo), [简书](https://www.jianshu.com/u/e9f2e9d46877)
 * :clock8: [AR太阳系](https://github.com/miliPolo/ARSolarPlaySwift)：展示太阳系的运行
 
