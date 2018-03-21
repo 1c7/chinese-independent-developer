@@ -19,6 +19,9 @@
 ### 2018年3月21号添加
 ---
 
+#### Yuuta - [Github](https://github.com/Trumeet), [网站](https://yuuta.moe)
+* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生
+
 #### 曦莫琅 - [Github](https://github.com/ximolang), [博客](http://www.txliang.com/)
 * :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：一个文青、情怀人群的聚集地，原创诗词的发布平台
 
