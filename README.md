@@ -20,13 +20,13 @@
 ---
 
 #### ruzhan123 - [Github](https://github.com/ruzhan123)
-* :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：科幻，地理阅读杂志 App (Android) - [更多介绍](https://github.com/ruzhan123/awaker)
+* :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：科幻，地理阅读杂志的 Android 应用 - [更多介绍](https://github.com/ruzhan123/awaker)
 
 #### cwang22 - [Github](https://github.com/cwang22), [博客](https://seewang.me)
 * :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：买下所有 Steam 游戏要多少钱？
 
 #### santa - [Github](https://github.com/santa-cat)
-* :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用(Android、iOS)
+* :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用 (Android、iOS)
 
 #### Caij - [Github](https://github.com/Caij)
 * :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
@@ -39,9 +39,9 @@
 * :white_check_mark: [Memory Helper](https://itunes.apple.com/cn/app/memory-helper-zi-ding-yi-nei/id1113262919?l=en&mt=8)：科学复习，真正记住知识
 
 #### DeweyReed - [Github](https://github.com/DeweyReed)
-* :clock8: [剪贴板守护](https://github.com/DeweyReed/ClipboardCleaner)：使用多种方式查看并清空剪贴板的开源Android应用
-* :white_check_mark: [权限图书馆](https://www.coolapk.com/apk/162565)：查看本设备的应用和安装包的权限的Android应用
-* :white_check_mark: [循环计时器](https://www.coolapk.com/apk/118705)：一次设置N个计时器，自动计时、自动通知的Android应用
+* :clock8: [剪贴板守护](https://github.com/DeweyReed/ClipboardCleaner)：使用多种方式查看并清空剪贴板的开源 Android 应用
+* :white_check_mark: [权限图书馆](https://www.coolapk.com/apk/162565)：查看本设备的应用和安装包的权限的 Android 应用
+* :white_check_mark: [循环计时器](https://www.coolapk.com/apk/118705)：一次设置N个计时器，自动计时、自动通知的 Android 应用
 * :clock8: [计时机器](https://www.coolapk.com/apk/177033)：循环计时器加强版，更多的通知方式和计划任务
 
 #### HyanCat - [Github](https://github.com/HyanCat), [博客](https://hyancat.com)
