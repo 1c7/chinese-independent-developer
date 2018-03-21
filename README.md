@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### cwang22 - [Github](https://github.com/cwang22), [博客](https://seewang.me)
+* :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：买下所有 Steam 游戏要多少钱？
+
 #### santa - [Github](https://github.com/santa-cat)
 * :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用(Android、iOS)
 
