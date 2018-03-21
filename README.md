@@ -18,6 +18,11 @@
 
 ### 2018年3月21号添加
 ---
+
+#### Airing - [Github](https://github.com/airingursb), [博客](http://ursb.me)
+- :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8): 闪亮亮的天气 App - [更多介绍](https://github.com/airingursb/4times-front-end)
+- :clock8: [双生](https://github.com/oh-bear/2life): 遇见另一半的美好（共享日记）
+
 #### Arczzir - [Github](https://github.com/arczzir)
 * :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS 上的 JSON 文件编辑器 - [更多介绍](https://www.bilibili.com/video/av10147282/)
 
