@@ -16,12 +16,7 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
-
-
-
-### 2018年3月20号添加
----
-
+### 2018年3月21号添加
 #### cwang22 - [Github](https://github.com/cwang22), [博客](https://seewang.me)
 * :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：买下所有 Steam 游戏要多少钱？
 
@@ -31,6 +26,9 @@
 #### Caij - [Github](https://github.com/Caij)
 * :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
 
+
+### 2018年3月20号添加
+---
 #### fujianjin6471
 * :white_check_mark: [Memory Helper](https://itunes.apple.com/cn/app/memory-helper-zi-ding-yi-nei/id1113262919?l=en&mt=8)：科学复习，真正记住知识
 
