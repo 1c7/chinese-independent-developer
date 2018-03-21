@@ -22,6 +22,9 @@
 ### 2018年3月20号添加
 ---
 
+#### santa - [Github](https://github.com/santa-cat)
+* :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用(Android、iOS)
+
 #### Caij - [Github](https://github.com/Caij)
 * :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
 
