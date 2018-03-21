@@ -54,7 +54,7 @@
 * :clock8: [计时机器](https://www.coolapk.com/apk/177033)：循环计时器加强版，更多的通知方式和计划任务
 
 #### HyanCat - [Github](https://github.com/HyanCat), [博客](https://hyancat.com)
-* :white_check_mark: [若古](https://www.ruogoo.cn)： 古风文学兴趣交流社区（网站和 App） - [更多介绍](https://www.ruogoo.cn/about)
+* :white_check_mark: [若古](https://www.ruogoo.cn)： 古风文学兴趣交流社区（网站和 App）- [更多介绍](https://www.ruogoo.cn/about)
 
 #### luowei - [Github](https://github.com/luowei)
 * :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法
@@ -66,7 +66,7 @@
 * :white_check_mark: [最强二维码](http://app.wodedata.com/myapp/qrcoderobot.html)：一个可以扫描二维码和生成自定义二维码的 App
 
 #### aderm - [Github](https://github.com/aderm)
-* :clock8: [如e定制](http://www.shangyuekeji.com/download): 个性化定制加工平台
+* :clock8: [如e定制](http://www.shangyuekeji.com/download)：个性化定制加工平台
 
 #### TKkk - [Github](https://github.com/TKkk-iOSer)
 * :white_check_mark: [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：MacOS 微信小助手（可玩性很高，开源）
@@ -78,7 +78,7 @@
 * :white_check_mark: [每日壹单](https://mryd.freeflarum.com)：每天推送10条最新外包兼职信息
 
 #### SpongeBobSun - [Github](https://github.com/SpongeBobSun/)
-* :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8): 开源免费的离线密码管理器 - [更多介绍](https://puffopensource.github.io/)
+* :white_check_mark: [Puff Password Manager](https://itunes.apple.com/cn/app/puff-password-manager-open-source-free/id1183663532?mt=8)：开源免费的离线密码管理器 - [更多介绍](https://puffopensource.github.io/)
 * :white_check_mark: [Prodigal Music Player](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器 - [更多介绍](http://spongebobsun.github.io/Prodigal/)
 
 #### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
