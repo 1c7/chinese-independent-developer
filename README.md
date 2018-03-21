@@ -19,6 +19,9 @@
 ### 2018年3月21号添加
 ---
 
+#### ruzhan123 - [Github](https://github.com/ruzhan123)
+* :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：科幻，地理阅读杂志Android应用 - [更多介绍](https://github.com/ruzhan123/awaker)
+
 #### cwang22 - [Github](https://github.com/cwang22), [博客](https://seewang.me)
 * :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：买下所有 Steam 游戏要多少钱？
 
