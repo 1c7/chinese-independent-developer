@@ -18,6 +18,10 @@
 
 ### 2018年3月22号添加
 ---
+
+#### miaowing - [Github](https://github.com/miaowing), [博客](https://zfeng.net)
+* :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地5sing第三方桌面客户端
+
 #### ImbaQ - [Github](https://github.com/ImbaQ), [博客](http://www.wankeyun.cc/forum-12.htm)
 * :white_check_mark: [开源链克口袋 - MyLinkToken](http://www.wankeyun.cc/thread-182.htm)：第一个可实现转账功能的第三方开源链克钱包 - [更多介绍](http://www.wankeyun.cc/forum-12.htm)
 
