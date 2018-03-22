@@ -19,6 +19,9 @@
 ### 2018年3月22号添加
 ---
 
+#### Roogle - [Github](https://github.com/Moidea), [博客](https://www.moidea.info)
+* :white_check_mark: [你好污啊](https://www.nihaowua.com)：一句话撩妹撩汉污句子
+
 #### miaowing - [Github](https://github.com/miaowing), [博客](https://zfeng.net)
 * :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地5sing第三方桌面客户端
 
@@ -490,32 +493,4 @@
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 * [RemoteOK](https://remoteok.io/) - 找远程工作
-* [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
-* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
-* [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
-* [Master of Scale](https://mastersofscale.com)
-
-[中文]    
-* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
-* [利器](http://liqi.io/creators/)
-* [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
-* [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
-
-#### 5. 值得关注的 Twitter 用户
-* [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
-* [Pieter Levels(@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
-* [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
-
-#### 6. 备注
-1. 若内容有误欢迎提出，我会马上修正
-2. 个别网站需科学上网，并非网站无法访问，请自备工具
-3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
-
-#### 7. 最后
-本库的创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
-**sideidea 上面都是开发者分享盈利故事的文章**<br/>
-如果你的项目有盈利，并且愿意分享过程中学到的知识。欢迎联系 1c7 (guokrfans#gmail.com)<br/>
-我们可以做个采访然后放到 sideidea 上<br/>
-（采访格式可以参考现有文章）  
-
+* [MicroConf 视频](http://www.microcon
