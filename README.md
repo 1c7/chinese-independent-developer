@@ -19,6 +19,9 @@
 ### 2018年3月22号添加
 ---
 
+#### 糖伴西红柿 - [Github](https://github.com/gaowhen)
+* :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle 书摘管理
+
 #### aizuyan - [Github](https://github.com/aizuyan)
 * :white_check_mark: [GramTools](https://ritoyantools.github.io/)：跨平台工具收集（目前收集了json、diff工具）
 
