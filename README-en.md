@@ -1,31 +1,34 @@
 This is English translation of README.md      
 this is a draft, not done yet.   
-Current Progress: 0% done
-## 中国独立开发者项目列表
-聚合所有中国独立开发者的项目                  
+Current Progress: 3% done
 
-**1. 为什么有这个表**    
-作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
+## Chinese Indiependent Developer's Project List  
+Collect all Chineese indie-dev's project
 
-**2. 项目有 3 种状态**          
+**1. Why this list exist?**    
+As dev(Developer) myself, I am curious about what other dev is doing in their spare time   
+What kind of side project they are doing.   
+So I build this list,  
+If you are indie-dev, you build 1 or more side project, you are welcome to put them in this list too!   
+Just send me a PR or open a Github Issue.   
+(Standard: It must be Website or App, **Can't** be developer tool or community, when you are not sure, just talk to me)
 
-| 开发中 | 已上线 | 已关闭 |
+**2. There are 3 status**          
+
+| Developing | Launched! | Closed |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
 
-## 3. 项目列表
-（名字按时间排序，最新添加的在最上面） 
+## 3. Project list
+（name are sort by time, newest is on top） 
 
-### 2018年3月22号添加
+### 2018, March 22
 ---
-
 #### aizuyan - [Github](https://github.com/aizuyan)
 * :white_check_mark: [GramTools](https://ritoyantools.github.io/)：跨平台工具收集（目前收集了json、diff工具）
 
-### 2018年3月21号添加
+### 2018, March 21
 ---
 
 #### Airing - [Github](https://github.com/airingursb), [博客](http://ursb.me)
