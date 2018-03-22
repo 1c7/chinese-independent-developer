@@ -19,6 +19,10 @@
 ### 2018年3月22号添加
 ---
 
+#### HansChen - [Github](https://github.com/shensky711), [博客](http://blog.hanschen.site/)
+* :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：针对知乎的看图神器，你懂的
+* :clock8: [Run-With-You](https://github.com/shensky711/Run-With-You)：一个双人跑步应用，计步 & 双人跑步联动功能
+
 #### miaowing - [Github](https://github.com/miaowing), [博客](https://zfeng.net)
 * :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地5sing第三方桌面客户端
 

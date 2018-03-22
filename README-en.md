@@ -26,6 +26,10 @@ Just send me a PR or open a Github Issue.
 ### 2018, March 22
 ---
 
+#### HansChen - [Github](https://github.com/shensky711), [博客](http://blog.hanschen.site/)
+* :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：Pretty image grabber for ZhiHu
+* :clock8: [Run-With-You](https://github.com/shensky711/Run-With-You)：Double Runner App
+
 #### Miko Gao - [Github](https://github.com/gaowhen)
 * :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle Clippings Management Web App 
 
