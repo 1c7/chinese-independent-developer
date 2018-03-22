@@ -18,6 +18,9 @@
 
 ### 2018年3月22号添加
 ---
+#### haijiao1945 - [Github](https://github.com/haijiao1945), [博客](http://www.xboxfan.com)
+* :white_check_mark: [Xbox比价助手](http://www.xboxfan.com)：XboxOne 游戏机的跨服比价微信小程序
+
 #### SVNBucket - [Github](https://github.com/winiex)
 * :white_check_mark: [SVNBucket](http://svn.gzyunke.cn/)：免费SVN仓库，自认为是市面最好的，不限私有数量，不限成员数量
 
