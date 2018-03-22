@@ -21,6 +21,9 @@
 #### SVNBucket - [Github](https://github.com/winiex)
 * :white_check_mark: [SVNBucket](http://svn.gzyunke.cn/)：免费SVN仓库，自认为是市面最好的，不限私有数量，不限成员数量
 
+#### 糖伴西红柿 - [Github](https://github.com/gaowhen)
+* :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle 书摘管理
+
 #### aizuyan - [Github](https://github.com/aizuyan)
 * :white_check_mark: [GramTools](https://ritoyantools.github.io/)：跨平台工具收集（目前收集了json、diff工具）
 
