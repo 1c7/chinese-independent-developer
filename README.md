@@ -19,6 +19,10 @@
 ### 2018年3月22号添加
 ---
 
+#### HansChen - [Github](https://github.com/shensky711), [博客](http://blog.hanschen.site/)
+* :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：针对知乎的看图神器，你懂的
+* :clock8: [Run-With-You](https://github.com/shensky711/Run-With-You)：一个双人跑步应用，计步 & 双人跑步联动功能
+
 #### Roogle - [Github](https://github.com/Moidea), [博客](https://www.moidea.info)
 * :white_check_mark: [你好污啊](https://www.nihaowua.com)：一句话撩妹撩汉污句子
 
