@@ -22,7 +22,7 @@
 
 #### luckytianyiyan - [Github](https://github.com/luckytianyiyan), [博客](https://tyy.sh/)
 * :white_check_mark: [识墨笔记](https://itunes.apple.com/us/app/id1222111073)：OCR 读书笔记工具, 支持导入Kindle笔记 - [更多介绍](https://sspai.com/post/40639)
-* :white_check_mark: [TyLauncher](https://github.com/luckytianyiyan/TyLauncher)：文件 / 程序 快捷启动工具 - [更多介绍](http://www.tylauncher.com/)
+* :white_check_mark: [TyLauncher](http://www.tylauncher.com/)：文件 / 程序 快捷启动工具 - [更多介绍](https://github.com/luckytianyiyan/TyLauncher)
 
 
 ### 2018年3月22号添加
