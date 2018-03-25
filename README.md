@@ -72,6 +72,7 @@
 
 #### Arczzir - [GitHub](https://github.com/arczzir)
 * :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS 上的 JSON 文件编辑器 - [更多介绍](https://www.bilibili.com/video/av10147282/)
+* :white_check_mark: [THZ](https://itunes.apple.com/cn/app/thz/id1353765033)：「收藏心仪的地点 ，管理得井井有条」限中国杭州
 
 #### Drinking - [GitHub](https://github.com/drinking), [博客](http://drinking.github.io/)
 * :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：关于食物的爱与故事  - [更多介绍](http://fancymeet.com/)
