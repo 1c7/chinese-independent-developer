@@ -18,6 +18,9 @@
 
 ### 2018年3月25号 & 26号添加
 ---
+#### Jianqing - [Github](https://github.com/pjq), [博客](https://pjq.me)
+* :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：用来远程遛猫, 家居监控的智能小车
+* :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：实时空气质量气象站 - [更多介绍](https://github.com/pjq/rpi#weather-station-demo)
 
 #### Fengchang - [GitHub](https://github.com/fengchangfight)
 * :clock8: 家谱海：可视化数字家谱，记录管理家庭亲戚关系以及历史人物关系建模（域名备案中）
