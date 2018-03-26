@@ -1,19 +1,19 @@
-This is English translation of README.md      
-this is a draft, not done yet.   
-Current Progress: 15% done
+###This is English translation of README.md      
+###This is a draft, it's not done yet.
 
 ## Chinese Indiependent Developer's Project List  
 Collect all Chineese indie-dev's project
-
+#### [中文](https://github.com/1c7/chinese-independent-developer/blob/master/README.md)
+### indie-dev = independent developer
 **1. Why this list exist?**    
-As dev(Developer) myself, I am curious about what other dev is doing in their spare time   
+As dev(Developer), I am curious about what other developers are doing in their spare time   
 What kind of side project they are doing.   
 So I build this list,  
 If you are indie-dev, you build 1 or more side project, you are welcome to put them in this list too!   
-Just send me a PR or open a Github Issue.   
+Just open a PR or open a Github issue.   
 (Standard: It must be Website or App, **Can't** be developer tool or community, when you are not sure, just talk to me)
 
-**2. There are 3 status**          
+**2. There are 3 stages**          
 
 | Developing | Launched! | Closed |
 |--------|--------|--------|
@@ -21,10 +21,12 @@ Just send me a PR or open a Github Issue.
 
 
 ## 3. Project list
-（name are sort by time, newest is on top） 
+#### Projects are sorted by time, the latest is at the top 
 
-### 2018, March 22
----
+
+
+### March 22, 2018
+
 #### Jianqing - [Github](https://github.com/pjq), [Blog](https://pjq.me)
 * :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：Smart car for delight my cats remotely, build on Raspberry Pi
 * :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：RealTime Weather Station build on Raspberry Pi, monitor PM2.5/Temperature/Humidity, etc.  - [More Details](https://github.com/pjq/rpi#weather-station-demo)
@@ -39,8 +41,7 @@ Just send me a PR or open a Github Issue.
 #### aizuyan - [Github](https://github.com/aizuyan)
 * :white_check_mark: [GramTools](https://ritoyantools.github.io/)：Cross-platform tool collection（now have json、diff tool）
 
-### 2018, March 21
----
+### March 21, 2018
 
 #### Airing - [Github](https://github.com/airingursb), [Blog](http://ursb.me)
 - :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8)：Shiny Weather App - [更多介绍](https://github.com/airingursb/4times-front-end)
@@ -504,20 +505,17 @@ Here is few website that helpful for indie-dev   
 * [PriceTag Indie-dev interview（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [Crash Course Computer Science, Chinese translation](https://github.com/1c7/crash-course-computer-science-chinese)
 
-#### 5. Twitter user that you should follow
+#### 5. Twitter users that you should follow
 * [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
 * [Pieter Levels(@levelsio)](https://twitter.com/levelsio) - [More info](https://twitter.com/levelsio/status/968027544103473152)  
 * [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker founder
 
-#### 6. 备注
-1. 若内容有误欢迎提出，我会马上修正
-2. 个别网站需科学上网，并非网站无法访问，请自备工具
-3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
+#### 6. Please Help Us
+As you know, we are not native speaker, we might make mistakes, so if you see errors, please open an issue or pull request to help us improve.
 
-#### 7. Last
-1c7 also made [sideidea.com](http://sideidea.com/)<br/>
-it's like indiehackers.com, it interivew indie-dev, how they make a profitiable business. <br/>
-right now it just translate indie hacker's interivew   <br/>
-but soon it gonna feature Chinese indie-dev story.<br/>
-in case you are wondering, I already talked to Courtland Allen, he know sideidea exist.<br/>
 
+#### 7. Finally
+1c7 also made [sideidea.com](http://sideidea.com/)
+it's like the website **indiehackers.com**, it interivew indie-dev, how they make a profitiable business. right now it just translate indie hacker's interivew   
+but soon it will feature Chinese devlopement story.
+in case yof your concern, I already talked to Courtland Allen, he know what is [Sideidea](http://sideidea.com/) .

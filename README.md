@@ -1,6 +1,8 @@
 ## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目                  
 
+#### [English Version](https://github.com/1c7/chinese-independent-developer/blob/master/README-en.md)
+
 **1. 为什么有这个表**    
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
 所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
