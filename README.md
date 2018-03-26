@@ -17,6 +17,7 @@
 （名字按时间排序，最新添加的在最上面） 
 
 ### 2018年3月25号 & 26号添加
+---
 
 #### lzx2005 - [Github](https://github.com/lzx2005), [博客](https://lzx2005.com)
 * :white_check_mark: [今天吃什么(WhatToEat)](https://github.com/lzx2005/WhatToEat)：一款治疗吃货选择恐惧症的微信小程序 - [更多介绍](https://github.com/lzx2005/WhatToEat)
@@ -42,7 +43,6 @@
 #### luckytianyiyan - [GitHub](https://github.com/luckytianyiyan), [博客](https://tyy.sh/)
 * :white_check_mark: [识墨笔记](https://itunes.apple.com/us/app/id1222111073)：OCR 读书笔记工具, 支持导入Kindle笔记 - [更多介绍](https://sspai.com/post/40639)
 * :white_check_mark: [TyLauncher](http://www.tylauncher.com/)：文件 / 程序 快捷启动工具 - [更多介绍](https://github.com/luckytianyiyan/TyLauncher)
-
 
 ### 2018年3月22号添加
 ---
