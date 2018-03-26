@@ -18,6 +18,9 @@
 
 ### 2018年3月25号 & 26号添加
 
+#### lzx2005 - [Github](https://github.com/lzx2005), [博客](https://lzx2005.com)
+* :white_check_mark: [今天吃什么(WhatToEat)](https://github.com/lzx2005/WhatToEat)：一款治疗吃货选择恐惧症的微信小程序 - [更多介绍](https://github.com/lzx2005/WhatToEat)
+
 #### Toy - [GitHub](https://github.com/xuxiaodong)，[博客](https://linuxtoy.org)
 * :white_check_mark: [Self-hosted Server](https://selfhostedserver.com)：自动化架设服务器，支持 AWS/GCE/Azure/DO/Linode/Vultr
 
