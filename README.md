@@ -18,6 +18,9 @@
 
 ### 2018年3月25号 & 26号添加
 
+#### Toy - [GitHub](https://github.com/xuxiaodong)，[博客](https://linuxtoy.org)
+* :white_check_mark: [Self-hosted Server](https://selfhostedserver.com)：自动化架设服务器，支持 AWS/GCE/Azure/DO/Linode/Vultr
+
 #### zhangjh - [Github](https://github.com/zhangjh), [博客](http://zhangjh.me)
 * :white_check_mark: [藏经阁](https://favlink.cn)：完全定制化的个人网址收藏 - [更多介绍](https://github.com/zhangjh/favLinksAdvise/blob/master/About.md)
 
