@@ -25,6 +25,9 @@ Just send me a PR or open a Github Issue.
 
 ### 2018, March 22
 ---
+#### Jianqing - [Github](https://github.com/pjq), [Blog](https://pjq.me)
+* :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：Smart car for delight my cats remotely, build on Raspberry Pi
+* :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：RealTime Weather Station build on Raspberry Pi, monitor PM2.5/Temperature/Humidity, etc.  - [More Details](https://github.com/pjq/rpi#weather-station-demo)
 
 #### HansChen - [Github](https://github.com/shensky711), [博客](http://blog.hanschen.site/)
 * :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：Pretty image grabber for ZhiHu
