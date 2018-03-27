@@ -1,12 +1,17 @@
-###This is English translation of README.md      
-###This is a draft, it's not done yet.
+### This is English translation of README.md      
+### This is a draft, it's not done yet.
 
 ## Chinese Indiependent Developer's Project List  
 Collect all Chineese indie-dev's project
 
-**1. Why does this list exist?** 
-As a developer, I am curious about what projects other developers are working on in their spare time. 
-Every developer is welcome to add their own project onto this list. Please make a pull request or a Github issue for your project. The project must be a website or an App, it cannot be a developer tool or forum website. If you are unsure, please contact me.
+**1. Why does this list exist?**     
+As a developer, I am curious about what projects other developers are working on in their spare time.   
+
+Every developer is welcome to add their own project onto this list.    
+Please make a pull request or a Github issue for your project.      
+
+The project must be a website or an App, it cannot be a developer tool or forum website.    
+If you are unsure, please contact me.
 
 **2. There are 3 stages**          
 
@@ -494,10 +499,10 @@ Here is few website that helpful for indie-dev   
 * [Master of Scale](https://mastersofscale.com)
 
 [Chinese]    
-* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [Wanqu Forum](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
+* [Sideidea](http://sideidea.com/)
+* [Wanqu Forum](https://wanqu.io/?utm_source=github-chinese-independent-developer)
 * [利器](http://liqi.io/creators/)
-* [PriceTag Indie-dev interview（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
+* [PriceTag Interview](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [Crash Course Computer Science, Chinese translation](https://github.com/1c7/crash-course-computer-science-chinese)
 
 #### 5. Twitter users that you should follow
@@ -506,11 +511,15 @@ Here is few website that helpful for indie-dev   
 * [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker founder
 
 #### 6. Please Help Us
-As you know, we are not native speaker, we might make mistakes, so if you see errors, please open an issue or pull request to help us improve.
+As you know, we are not native speaker, we might make mistakes,      
+so if you see errors, please open an issue or pull request to help us improve.
 
 
 #### 7. Finally
-1c7 also made [sideidea.com](http://sideidea.com/)
-it's like the website **indiehackers.com**, it interivew indie-dev, how they make a profitiable business. right now it just translate indie hacker's interivew   
-but soon it will feature Chinese devlopement story.
-in case yof your concern, I already talked to Courtland Allen, he know what is [Sideidea](http://sideidea.com/) .
+1c7 also made [Sideidea.com](http://sideidea.com/)    
+it's like [Indie Hacker](https://www.indiehackers.com/), 
+it interivew indie-dev, how they make a profitiable internet business. 
+
+right now it just translate indie hacker's interivew.        
+our goal is to make original interview too, not just translate.         
+in case you are wondering, I already talked to Courtland Allen, he know [Sideidea](http://sideidea.com/)      
