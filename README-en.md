@@ -3,15 +3,10 @@
 
 ## Chinese Indiependent Developer's Project List  
 Collect all Chineese indie-dev's project
-#### [中文](https://github.com/1c7/chinese-independent-developer/blob/master/README.md)
-### indie-dev = independent developer
-**1. Why this list exist?**    
-As dev(Developer), I am curious about what other developers are doing in their spare time   
-What kind of side project they are doing.   
-So I build this list,  
-If you are indie-dev, you build 1 or more side project, you are welcome to put them in this list too!   
-Just open a PR or open a Github issue.   
-(Standard: It must be Website or App, **Can't** be developer tool or community, when you are not sure, just talk to me)
+
+**1. Why does this list exist?** 
+As a developer, I am curious about what projects other developers are working on in their spare time. 
+Every developer is welcome to add their own project onto this list. Please make a pull request or a Github issue for your project. The project must be a website or an App, it cannot be a developer tool or forum website. If you are unsure, please contact me.
 
 **2. There are 3 stages**          
 
