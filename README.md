@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面） 
 ### 2018年3月27号添加
 ---
+#### mzlogin - [GitHub](https://github.com/mzlogin)，[博客](http://mazhuang.org)
+* :white_check_mark: [guanggoo-android](https://github.com/mzlogin/guanggoo-android)：光谷社区第三方 Android 客户端。
+
 #### Hongui - [Github](https://github.com/hongui)
 * :clock8: [快传](https://github.com/hongui/FastAir)：用于短距离内点对点文件传输和聊天，无需网络-[更多](http://sj.qq.com/myapp/detail.htm?apkName=com.mob.lee.fastair)
 
