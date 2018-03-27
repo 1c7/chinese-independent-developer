@@ -28,7 +28,10 @@ If you are unsure, please contact me.
 ## 3. Project list
 #### Projects are sorted by time, latest on top 
 
-
+### March 28, 2018
+---
+#### mzlogin - [GitHub](https://github.com/mzlogin), [Blog](http://mazhuang.org)
+* :white_check_mark: [guanggoo-android](https://github.com/mzlogin/guanggoo-android): Third party android client for guanggoo.com
 
 ### March 22, 2018
 
