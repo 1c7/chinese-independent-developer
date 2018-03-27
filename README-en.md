@@ -2,7 +2,9 @@
 ### This is a draft, it's not done yet.
 
 ## Chinese Indiependent Developer's Project List  
-Collect all Chineese indie-dev's project
+Collect all Chinese indie-dev's project
+
+<br/>     
 
 **1. Why does this list exist?**     
 As a developer, I am curious about what projects other developers are working on in their spare time.   
@@ -13,15 +15,18 @@ Please make a pull request or a Github issue for your project.
 The project must be a website or an App, it cannot be a developer tool or forum website.    
 If you are unsure, please contact me.
 
+<br/>   
+
 **2. There are 3 stages**          
 
 | Developing | Launched! | Closed |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
+<br/>   
 
 ## 3. Project list
-#### Projects are sorted by time, the latest is at the top 
+#### Projects are sorted by time, latest on top 
 
 
 
@@ -113,7 +118,7 @@ If you are unsure, please contact me.
 * :white_check_mark: [Prodigal Music Player](https://itunes.apple.com/cn/app/prodigal-music-player/id1231296263?mt=8)：复刻经典 iPod 的音乐播放器 - [更多介绍](http://spongebobsun.github.io/Prodigal/)
 
 #### Sing - [Github](https://github.com/asing1001), [博客](https://www.paddingleft.com)
-* :white_check_mark: [MovieRater](https://www.mvrater.com)：集合Yahoo, Ptt, IMDB評分, 方便選片 - [更多介绍](https://github.com/Asing1001/movieRater.React)
+* :white_check_mark: [MovieRater](https://www.mvrater.com)：Combine Yahoo, Ptt, IMDB score, help you choose movie - [更多介绍](https://github.com/Asing1001/movieRater.React)
 
 #### Chars - [Github](https://github.com/charsdavy), [博客](http://chars.tech), [Twitter](https://twitter.com/charsdavy)
 * :white_check_mark: [日本语社区](https://itunes.apple.com/cn/app/id1184113889)：日语学习资源，整合各种文本、音频和视频学习资料
@@ -126,7 +131,7 @@ If you are unsure, please contact me.
 * :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
 
 #### miliPolo - [Github](https://github.com/miliPolo), [简书](https://www.jianshu.com/u/e9f2e9d46877)
-* :clock8: [AR太阳系](https://github.com/miliPolo/ARSolarPlaySwift)：展示太阳系的运行
+* :clock8: [AR太阳系](https://github.com/miliPolo/ARSolarPlaySwift)：showcase how solar system work
 
 #### xx19941215 - [Github](https://github.com/xx19941215)
 * :white_check_mark: [小时光倒数日](https://minapp.com/miniapp/2810/)：小时光倒数日，帮你铭记人生每一次的幸福时光
@@ -198,14 +203,14 @@ If you are unsure, please contact me.
 * :white_check_mark: [去哪拍照片](http://ozfo4jjxb.bkt.clouddn.com/gh_900fd73a1fd0_258.jpg)：微信小程序，主要是上海市落户拍照地点，包括免费和收费两种
 
 #### GitIssue - [Github](https://github.com/git-issue)
-* :white_check_mark: [GitIssue](https://gitissue.com): Github Issue 博客平台 - [更多介绍](https://gitissue.com/about)
+* :white_check_mark: [GitIssue](https://gitissue.com): Github Issue blog platform - [更多介绍](https://gitissue.com/about)
 
 
 #### Haocold - [Github](https://github.com/xjh093)
 * :white_check_mark: [X_Wubi](https://itunes.apple.com/cn/app/X_Wubi/id1122043433)：简洁、轻盈，在游戏中学五笔
 
 #### LiangLuDev - [Github](https://github.com/LiangLuDev/)
-* :clock8: [微Yue](https://github.com/LiangLuDev/WeYueReader)：一个 Android 电子书阅读 App
+* :clock8: [微Yue](https://github.com/LiangLuDev/WeYueReader)：Android e-book reading App
 
 #### jkpang - [Github](https://github.com/jkpang)
 * :white_check_mark: [PPHub](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)：一个简洁漂亮的 GitHub 客户端 - [更多介绍](https://github.com/jkpang/PPHub-Feedback)
