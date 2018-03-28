@@ -21,8 +21,7 @@
 ---
 
 #### 12points - [Github](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
-* :white_check_mark: 6/12/24点计算：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度 - [更多介绍](https://github.com/yelluo/12points)
-
+* :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
 
 #### mzlogin - [GitHub](https://github.com/mzlogin)，[博客](http://mazhuang.org)
 * :white_check_mark: [guanggoo-android](https://github.com/mzlogin/guanggoo-android)：光谷社区第三方 Android 客户端。
