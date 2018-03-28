@@ -20,6 +20,9 @@
 ### 2018年3月27号 & 28号添加
 ---
 
+#### cg200776 
+* :white_check_mark: [小黄条](www.6fcsj.com)：能嵌入 Windows 桌面的跨平台 Todolist，手机、PC 双向同步
+
 #### xiaohulu - [GitHub](https://github.com/bianruanjian)
 * :clock8: [编软件](https://bianruanjian.com): 软件组装平台，实现人人皆能编软件
 
