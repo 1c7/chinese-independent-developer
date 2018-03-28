@@ -20,11 +20,14 @@
 ### 2018年3月27号 & 28号添加
 ---
 
+#### 痕迹 - [Github](https://github.com/lijy91), [博客](https://www.jianshu.com/u/7f33d5b97f55)
+* :white_check_mark: [佚览](https://itunes.apple.com/cn/app/%E4%BD%9A%E8%A7%88/id1358635224?mt=8)：基于 iOS 系统扩展的支持多种文件格式的预览应用 - [更多介绍](https://yilan.thecode.me)
+
 #### cg200776 
 * :white_check_mark: [小黄条](http://www.6fcsj.com)：能嵌入 Windows 桌面的跨平台 Todolist，手机、PC 双向同步
 
 #### xiaohulu - [GitHub](https://github.com/bianruanjian)
-* :clock8: [编软件](https://bianruanjian.com): 软件组装平台，实现人人皆能编软件
+* :clock8: [编软件](https://bianruanjian.com)：软件组装平台，实现人人皆能编软件
 
 #### 12points - [Github](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
 * :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
