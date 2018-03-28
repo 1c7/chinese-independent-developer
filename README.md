@@ -20,9 +20,8 @@
 ### 2018年3月27号 & 28号添加
 ---
 
-#### 编软件平台 - [GitHub](https://github.com/bianruanjian)
+#### xiaohulu - [GitHub](https://github.com/bianruanjian)
 * :clock8: [编软件](https://bianruanjian.com): 软件组装平台，实现人人皆能编软件
-* :clock8: [dojo2-bootstrap](https://bianruanjian.github.io/dojo2-bootstrap/): 基于基于 dojo 2 和 bootstrap 4 构建的小部件库 - [更多介绍](https://github.com/bianruanjian/dojo2-bootstrap)
 
 #### 12points - [Github](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
 * :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
