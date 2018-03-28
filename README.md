@@ -24,10 +24,10 @@
 * :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
 
 #### mzlogin - [GitHub](https://github.com/mzlogin)，[博客](http://mazhuang.org)
-* :white_check_mark: [guanggoo-android](https://github.com/mzlogin/guanggoo-android)：光谷社区第三方 Android 客户端。
+* :white_check_mark: [guanggoo-android](https://github.com/mzlogin/guanggoo-android)：光谷社区第三方 Android 客户端
 
 #### Hongui - [Github](https://github.com/hongui)
-* :clock8: [快传](https://github.com/hongui/FastAir)：用于短距离内点对点文件传输和聊天，无需网络-[更多](http://sj.qq.com/myapp/detail.htm?apkName=com.mob.lee.fastair)
+* :clock8: [快传](https://github.com/hongui/FastAir)：用于短距离内点对点文件传输和聊天，无需网络 - [更多介绍](http://sj.qq.com/myapp/detail.htm?apkName=com.mob.lee.fastair)
 
 ### 2018年3月25号 & 26号添加
 ---
