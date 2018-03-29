@@ -22,8 +22,7 @@
 ---
 
 #### Shane Qi - [Github](https://github.com/shaneqi), [博客](https://blog.shaneqi.com)
-* :clock8: [Eastwatch](https://eastwatchapp.com)：可能是 iOS 平台上最美的、交互最友好的追剧 App - [更多介绍](https://eastwatchapp.com)
-
+* :clock8: [Eastwatch](https://eastwatchapp.com)：可能是 iOS 平台上最美的、交互最友好的追剧 App
 
 ### 2018年3月27号 & 28号添加
 ---
