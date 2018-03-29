@@ -17,11 +17,16 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
-### 2018年3月27号 & 28号添加
+
+### 2018年3月29号添加
 ---
 
 #### Shane Qi - [Github](https://github.com/shaneqi), [博客](https://blog.shaneqi.com)
 * :clock8: [Eastwatch](https://eastwatchapp.com)：可能是 iOS 平台上最美的、交互最友好的追剧 App - [更多介绍](https://eastwatchapp.com)
+
+
+### 2018年3月27号 & 28号添加
+---
 
 #### 痕迹 - [Github](https://github.com/lijy91), [博客](https://www.jianshu.com/u/7f33d5b97f55)
 * :white_check_mark: [佚览](https://itunes.apple.com/cn/app/%E4%BD%9A%E8%A7%88/id1358635224?mt=8)：基于 iOS 系统扩展的支持多种文件格式的预览应用 - [更多介绍](https://yilan.thecode.me)
