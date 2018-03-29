@@ -21,6 +21,9 @@
 ### 2018年3月29号添加
 ---
 
+#### lizhi - [Github](https://github.com/lizhi), [博客](http://www.yinlula.com)
+* :white_check_mark: [引路啦](http://www.yinlula.com)：有意思的分享
+
 #### Shane Qi - [Github](https://github.com/shaneqi), [博客](https://blog.shaneqi.com)
 * :clock8: [Eastwatch](https://eastwatchapp.com)：可能是 iOS 平台上最美的、交互最友好的追剧 App
 
