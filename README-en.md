@@ -1,18 +1,18 @@
 ### This is English translation of README.md      
 ### This is a draft, it's not done yet.
 
-## Chinese Indiependent Developer's Project List  
-Collect all Chinese indie-dev's project
+## Chinese Independent Developer's Project List  
+Collect all Chinese indie devs' projects
 
 <br/>     
 
 **1. Why does this list exist?**     
 As a developer, I am curious about what projects other developers are working on in their spare time.   
 
-Every developer is welcome to add their own project onto this list.    
-Please make a pull request or a Github issue for your project.      
+Every developer is welcome to add their own projects onto this list.    
+Please make a pull request or a Github issue to add your projects.      
 
-The project must be a website or an App, it cannot be a developer tool or forum website.    
+The project must be a website or an app, it cannot be a developer tool or forum website.    
 If you are unsure, please contact me.
 
 <br/>   
@@ -494,7 +494,7 @@ If you are unsure, please contact me.
 ---
 
 #### 4. Side note
-Here is few website that helpful for indie-dev   
+Here are a few websites that are helpful for indie devs
 
 [English]        
 * [Indie Hacker](https://www.indiehackers.com/)
@@ -519,15 +519,15 @@ Here is few website that helpful for indie-dev   
 * [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker founder
 
 #### 6. Please Help Us
-As you know, we are not native speaker, we might make mistakes,      
-so if you see errors, please open an issue or pull request to help us improve.
+As you know, we are not native speakers, we might make mistakes.
+If you see errors, please open an issue or pull request to help us improve.
 
 
 #### 7. Finally
 1c7 also made [Sideidea.com](http://sideidea.com/)    
-it's like [Indie Hacker](https://www.indiehackers.com/), 
-it interivew indie-dev, how they make a profitiable internet business. 
+It's like [Indie Hacker](https://www.indiehackers.com/).
+They interview indie devs about how to start a profitable internet business. 
 
-right now it just translate indie hacker's interivew.        
-our goal is to make original interview too, not just translate.         
-in case you are wondering, I already talked to Courtland Allen, he know [Sideidea](http://sideidea.com/)      
+Right now it just translates Indie Hacker's interviews.        
+Our goal is to make original interviews too, not just translations.         
+In case you are wondering, I already talked to Courtland Allen, he knows [Sideidea](http://sideidea.com/)      
