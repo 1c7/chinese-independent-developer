@@ -18,7 +18,7 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
-### 2018年3月29号添加
+### 2018年3月29号 & 30号添加
 ---
 
 #### lizhi - [Github](https://github.com/lizhi), [博客](http://www.yinlula.com)
@@ -503,6 +503,7 @@
 * :white_check_mark: [RapInChina](https://rapinchina.com/): 中文说唱数据库 - [更多介绍](https://wanqu.io/t/rapinchina/7371)
 
 #### KyXu - [GitHub](https://github.com/OpenMarshall), [微博](http://weibo.com/kaiyuanxu)
+* :white_check_mark: [Nihon Cam](https://itunes.apple.com/cn/app/id1362401778)：提供 5810 种滤镜的另类美图软件，已被 App Store 推荐
 * :white_check_mark: [Nihon](https://itunes.apple.com/app/id1315486029)：在 iOS 上呈现日本传统颜色 - [更多介绍](https://wanqu.io/t/nihon-ios/7678)
 * :white_check_mark: [闪念](https://itunes.apple.com/cn/app/id1342519507)：在 iPhone 上尽力复刻了锤子的 Idea Pills - [更多介绍](https://wanqu.io/t/iphone-idea-pill/8038)
 * :white_check_mark: [记分牌](https://itunes.apple.com/cn/app/id1080572635)：(iOS) NBA 比分跟踪利器 - [更多介绍](https://wanqu.io/t/ios-mac-nba/8051)
