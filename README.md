@@ -6,9 +6,9 @@
 **1. 为什么有这个表**    
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
 所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
+（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
 
-**2. 项目有 3 种状态**          
+**2. 项目有 3 种状态**          
 
 | 开发中 | 已上线 | 已关闭 |
 |--------|--------|--------|
@@ -131,7 +131,7 @@
 * :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：关于食物的爱与故事  - [更多介绍](http://fancymeet.com/)
 
 #### Yuuta - [GitHub](https://github.com/Trumeet), [网站](https://yuuta.moe)
-* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生 - [更多介绍](https://dir.yuuta.moe/zh/)  
+* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生 - [更多介绍](https://dir.yuuta.moe/zh/)  
 
 #### 曦莫琅 - [GitHub](https://github.com/ximolang), [博客](http://www.txliang.com/)
 * :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：一个文青、情怀人群的聚集地，原创诗词的发布平台
@@ -166,8 +166,8 @@
 
 #### luowei - [GitHub](https://github.com/luowei)
 * :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法
-* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
-* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)  
+* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
+* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)  
 * :white_check_mark: [斗图王](http://app.wodedata.com/myapp/gifemoji.html)：一个 GIF 斗图动画表情制作和搜索 APP，兼具斗图浏览器与斗图编辑器的功能
 * :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用 
 * :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款 Markdown 记事本，支持从文本图片导入及导出 PDF 
@@ -314,4 +314,138 @@
 * :white_check_mark: [斗图啦](https://www.doutula.com)：斗图装逼必备
 
 #### Tolecen - [博客](https://xinle.co/)
-* :white_check_mark: [白描](https://itunes.apple.com/cn/app/id1249901692)：高效
+* :white_check_mark: [白描](https://itunes.apple.com/cn/app/id1249901692)：高效的文字识别与翻译软件 - [更多介绍](https://sspai.com/post/42065)
+* :white_check_mark: [西江月](https://itunes.apple.com/cn/app/id1084924739)：遇见传统诗词之美 - [更多介绍](https://sspai.com/post/38786)
+* :white_check_mark: [天天成语](https://itunes.apple.com/cn/app/id843601091)：简洁方便的离线成语词典 - [更多介绍](https://xinle.co/2016/05/26/chengyu/)
+
+#### textproofreading - [GitHub](https://github.com/textproofreading/)
+* :white_check_mark: [中文错别字纠错校对系统](http://www.CuoBieZi.net/)： 一个可以在线检测中文错别字的工具
+
+#### hanks - [GitHub](https://github.com/hanks-zyh)
+* :white_check_mark: [便签](https://www.coolapk.com/apk/xyz.hanks.note)：体积不足 2M，功能却全面到令人惊喜的 Android 便签应用 - [更多介绍](https://sspai.com/post/41323)
+* :white_check_mark: [氢应用](https://www.coolapk.com/apk/pub.hydrogen.android)：一款 Android 插件容器应用
+
+#### CoderDwang - [GitHub](https://github.com/CoderDwang)
+* :clock8: [MoreiTunesConnect_iOS](https://github.com/CoderDwang/MoreiTunesConnect_iOS)：允许多开的非苹果官方的 App 审核状态查询
+
+#### coderyi - [GitHub](https://github.com/coderyi)
+* :white_check_mark: [Monkey for GitHub](https://itunes.apple.com/cn/app/monkey-for-github/id1003765407)：以 GitHub 排名为主的 GitHub App，支持iOS/Android - [更多介绍](https://github.com/coderyi/Monkey)
+
+#### bugulink - [GitHub](https://github.com/bugulink)
+* :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
+
+#### Larry - [码力全开科技工作室](http://maliquankai.com)
+* :white_check_mark: [奇点日报](https://itunes.apple.com/us/app/wa-wa-yu-jian-hao-yin-le/id1223916908?l=zh&ls=1&mt=8)：高逼格程序员开发者技术分享平台
+* :white_check_mark: [破壳日](https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&ls=1&mt=8)：精美的生日 · 节日 · 纪念日礼物提醒工具
+* :white_check_mark: [壹日程](https://itunes.apple.com/us/app/壹日程-专注任务管理和待办计划提醒/id1251547470?l=zh&ls=1&mt=8)：专注任务管理和待办计划提醒
+* :white_check_mark: [心动屋](https://itunes.apple.com/us/app/心动屋-发现令你心动的好物/id1234003952?l=zh&ls=1&mt=8)：发现令你心动的好物
+* :white_check_mark: [口袋密码](https://itunes.apple.com/us/app/口袋密码-安全简洁的账号管家/id1256288406?l=zh&ls=1&mt=8)：安全简洁的账号管家
+* :white_check_mark: [拾光记](https://itunes.apple.com/us/app/拾光记-拾起你走过的时光/id1247124599?l=zh&ls=1&mt=8)：拾起你走过的时光
+
+#### lfb-cd - [GitHub](https://github.com/lfb-cd)
+* :white_check_mark: [Net](https://itunes.apple.com/app/id1288011873)：网速展示流量统计工具
+* :white_check_mark: [Net-Lite](https://itunes.apple.com/app/id1109807177)：精简版网速展示流量统计工具
+* :white_check_mark: [晴天见](https://itunes.apple.com/app/id1231863233)：极简天气应用
+* :white_check_mark: [Reminder](https://itunes.apple.com/app/id1258508583): 只有 1.5MB 的极简备忘 APP
+
+#### cllgeek - [GitHub](https://github.com/cllgeek)
+* :white_check_mark: [极客教程](https://www.geekjc.com)：一个提供学习编程资料的网站
+
+#### CarGuo - [GitHub](https://github.com/CarGuo)
+* :white_check_mark: [GSYGitHubAPP](https://www.pgyer.com/GSYGitHubApp)：高质量的 GitHub 客户端 - [更多介绍](https://github.com/CarGuo/GSYGitHubAPP)
+
+#### biqinglin - [GitHub](https://github.com/biqinglin)
+* :white_check_mark: [小私密](https://link.jianshu.com/?t=https://itunes.apple.com/us/app/小私密-匿名分享你的小私密/id1249902405?l=zh&ls=1&mt=8)：小私密，一款匿名分享你的小私密的轻社交应用 - [更多介绍](https://www.jianshu.com/p/4582c6f914eb)
+* :white_check_mark:  [App Store 全部作品](https://itunes.apple.com/cn/developer/qinglin-bi/id1228179246?l=en&mt=8)
+
+#### Anynices
+* :white_check_mark: [拼红包](https://www.pinghongbao.com)：外卖红包实时分享
+
+#### sheepkx - [GitHub](https://github.com/sheepkx)
+* :white_check_mark: [闪念ToDo](https://www.coolapk.com/apk/com.kdfly.todo)：ToDo 计划管理App
+
+#### jiangboLee - [GitHub](https://github.com/jiangboLee)
+* :white_check_mark: [Ptoo](https://itunes.apple.com/us/app/ptoo/id1219224872?mt=8)：一款美图软件 - [更多介绍](https://github.com/jiangboLee/huangpian)
+* :white_check_mark: [即时天气](https://github.com/jiangboLee/WeatherWX)：一款天气预报小程序~
+
+#### MORECATS - [GitHub](https://github.com/MORECATS)
+* :white_check_mark: [视觉图表](https://itunes.apple.com/cn/app/id1090006424)：适用于 iPhone & iPad 的图表制作应用
+* :white_check_mark: [标注图像+](https://itunes.apple.com/cn/app/id1227197910)：高效快捷地标注图像，长图，拼图，二维码一应俱全
+* :white_check_mark: [课程表](https://itunes.apple.com/cn/app/id1219202104)：一周课程表 & 艾宾浩斯遗忘曲线计划表
+* :white_check_mark: [今日美图](https://itunes.apple.com/cn/app/id1195400858)：获取今日 Bing 美图，每日新视野
+* :white_check_mark: [网速查看+](https://itunes.apple.com/cn/app/id1289105991)：在 iPhone & iPad 通知小部件上查看实时网络上下行速度
+* :white_check_mark: [取色器+](https://itunes.apple.com/cn/app/id1326506149)：像素级图像取色 & 色彩收集
+* :white_check_mark: [短信过滤+](https://itunes.apple.com/cn/app/id1314415052)：基于 iOS 11 新特性的垃圾短信过滤应用
+
+#### Jocs - [GitHub](https://github.com/Jocs)
+* :white_check_mark:  [Mark Text](https://marktext.github.io/website/)：所输及所见的 Markdown 编辑器，支持源码模式、焦点模式、打字机模式 - [更多介绍](https://github.com/marktext/marktext/)
+
+#### 滑滑鸡 - [GitHub](https://github.com/songkuixi)
+* :white_check_mark: [单语](https://itunes.apple.com/cn/app/单语-日语生词本-日语单词-日语学习/id1086636706)：一个日语单词本应用
+* :white_check_mark: [APOD](https://itunes.apple.com/us/app/apod/id1173315594)：一个每日天文一图客户端
+* :white_check_mark: [今日打卡](https://itunes.apple.com/cn/app/keeping-任务管理利器-打卡习惯养成/id1197272196)：一个小巧的日程管理打卡应用 - [更多介绍](https://github.com/songkuixi/Keeping)
+* :white_check_mark: [TouchBrickout](https://itunes.apple.com/cn/app/touchbrickout/id1314804894)：一款在 Mac 上用键盘或者 Touch Bar 进行打砖块的游戏 - [更多介绍](https://github.com/songkuixi/TouchBreakout)
+
+#### haozes - [GitHub](https://github.com/haozes)
+* :white_check_mark: [YaoYao](https://itunes.apple.com/cn/app/id1179393901/)：Apple Watch 跳绳计数应用 - [更多介绍](https://sspai.com/post/40103)
+* :white_check_mark: [DunDun](https://itunes.apple.com/cn/app/dundun-squats-counter/id1348285355?l=zh&ls=1&mt=8)：Apple Watch 深蹲计数应用 - [更多介绍](https://sspai.com/post/43319)
+
+#### Tuluobo - [GitHub](https://github.com/Tuluobo)
+* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet) 
+
+#### forecho - [GitHub](https://github.com/forecho)
+* :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
+
+#### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044),[Twitter](https://twitter.com/jony_chunfang)
+
+* :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议：）
+* :clock8: [Time Progress](https://github.com/TimeProgress)：让时间变成时间块，一块块清晰可见。在这里，可以让你看到时间的变化
+
+#### oasisfeng - [GitHub](https://github.com/oasisfeng)
+* :white_check_mark: [绿色守护 (Greenify)](https://www.coolapk.com/apk/com.oasisfeng.greenify)：帮助甄别那些对系统性能和耗电有不良影响的程序，阻止它们 （省略原描述20字）
+* :white_check_mark: [岛 (Island)](https://www.coolapk.com/apk/com.oasisfeng.island)：提供：隔离应用，保护隐私、克隆应用，平行运行（省略原描述20字）等功能
+
+#### meowtec - [GitHub](https://github.com/meowtec/)
+- :white_check_mark: [Imagine](https://github.com/meowtec/Imagine): 一个跨平台的图片可视压缩 PC App
+
+#### ywwhack - [GitHub](https://github.com/ywwhack)
+* :white_check_mark: [aidou-electron](https://github.com/ywwhack/aidou-electron)：(Mac) 斗图神器 - 根据关键字搜索表情，一键复制
+
+#### kinglisky - [GitHub](https://github.com/kinglisky)
+* :white_check_mark: [aidou](https://chrome.google.com/webstore/detail/aidou/kidfkhcacngpkgkagdmbkncecbnadajb?hl=zh-CN)： (Chrome 插件) 社区回帖 Code review 斗图插件，一键生成表情链接 - [了解更多](https://github.com/kinglisky/aidou)
+
+#### daniel - [微博](https://weibo.com/u/1749949233)
+* :white_check_mark: [煎蛋](https://play.google.com/store/apps/details?id=com.danielstudio.app.wowtu)：煎蛋 Android 客户端
+
+#### tinyao - [GitHub](https://github.com/tinyao)
+* :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
+
+
+### 2018年3月18号添加
+---
+
+#### 青杨 - [GitHub](https://github.com/HuQingyang)
+* :white_check_mark: [Luoo.qy](https://github.com/HuQingyang/Luoo.qy)：独立音乐社区[落网](http://www.luoo.net/)的第三方电脑客户端
+* :white_check_mark: [Page.qy](https://github.com/HuQingyang/Page.qy)：一款针对小白(~~懒人~~)的自动化管理、生成、部署个人博客的工具
+
+#### zomco - [GitHub](https://github.com/zomco)
+* :white_check_mark: [路几](http://www.ruki.pw)：分享精彩的行车记录仪视频
+
+#### Akring - [GitHub](https://github.com/akring)
+* :white_check_mark: [Star Order for Mac/iOS](https://star-order.com/)：Mac/iOS 双平台的 GitHub Star 管理工具
+
+#### Jinya - [GitHub](https://github.com/JinyaX), [微博](https://weibo.com/934249787)
+* :white_check_mark: [短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)：iOS 垃圾短信过滤工具（需要 iOS 11.0 或更高版本） 
+* :clock8: [Key Master]()：iOS 密码管理工具
+
+#### Collider LI - [GitHub](https://github.com/lhc70000)
+* :white_check_mark: [IINA](https://github.com/lhc70000/iina)：一个现代的 macOS 媒体播放器
+
+#### lijianqiang12 - [博客](http://lijianqiang12.com)
+* :white_check_mark: [远离手机](http://www.offphone.net)：一个能将手机锁定一段时间的 App
+
+#### Jason - [博客](https://atjason.com/)
+* :white_check_mark: [Klib](https://itunes.apple.com/cn/app/id1196268448?mt=12)：Kindle、iBooks、多看标注与笔记管理 - [更多介绍](https://toolinbox.net/Klib/)
+* :white_check_mark: [iText](https://itunes.apple.com/cn/app/id1314980676?mt=12)：从图片中识别文字的 OCR 工具 - [更多介绍](https://toolinbox.net/iText/)
+* :white_check_mark: [iPic](https://itunes.apple.com/cn/app/id1101244278?mt=12)：图床工具、Markdown 插图助手，支持微博、七牛、又拍、阿里云等图床 - [更多介绍](https://toolinbox.net/iPic/)
+* :white_check_mark: [iPaste](https://itunes.apple.com/cn/app/id1056935452?mt=12)：给
