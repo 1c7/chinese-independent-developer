@@ -21,6 +21,9 @@
 ### 2018年3月29号 & 30号添加
 ---
 
+#### toryzen - [Github](https://github.com/toryzen), [博客](http://www.toryzen.cn/)
+* :white_check_mark: [SmartPing](http://smartping.org/)：一款开源、高效、便捷的网络质量监控神器！
+
 #### djmpink - [Github](https://github.com/djmpink/TailLog), [博客](http://7player.cn/)
 * :white_check_mark: [TailLog](http://taillog.cn/)：简单易用的实时日志管理工具 - [更多介绍](http://taillog.cn/)
 
