@@ -23,13 +23,13 @@
 
 #### 张小刚哟 - [微博](https://weibo.com/u/3127372955)
 * :white_check_mark: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在 Mac 上轻松、高效调试 iOS 应用 - [更多介绍](https://sspai.com/post/43527)
-* :white_check_mark: [App计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：一款可以定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
+* :white_check_mark: [App 计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：一款可以定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
 
 #### sobbingman
-* :white_check_mark: [Vue资源精选](http://vue.awesometiny.com/)：Vue 精选组件分享- 手工精选出一百来个最优秀的组件库/独立组件
+* :white_check_mark: [Vue 资源精选](http://vue.awesometiny.com/)：Vue 精选组件分享, 手工精选出一百来个最优秀的组件库/独立组件
 
 #### aisnote - [Github](https://github.com/aisnote)
-* :white_check_mark: [PicZoomer](http://aisnote.com/2010/12/14/%E6%89%B9%E9%87%8F%E7%85%A7%E7%89%87%E7%BC%A9%E5%B0%8F%E5%B7%A5%E5%85%B7-%E6%97%A0%E9%9C%80%E4%BB%BB%E4%BD%95%E8%AE%BE%E7%BD%AE-%E5%82%BB%E7%93%9C%E6%93%8D%E4%BD%9C/)：批量照片缩小工具-无需任何设置-傻瓜操作
+* :white_check_mark: [PicZoomer](http://aisnote.com/2010/12/14/%E6%89%B9%E9%87%8F%E7%85%A7%E7%89%87%E7%BC%A9%E5%B0%8F%E5%B7%A5%E5%85%B7-%E6%97%A0%E9%9C%80%E4%BB%BB%E4%BD%95%E8%AE%BE%E7%BD%AE-%E5%82%BB%E7%93%9C%E6%93%8D%E4%BD%9C/)：批量照片缩小工具, 无需任何设置, 傻瓜操作
 
 ### 2018年3月29号 & 30号添加
 ---
@@ -101,7 +101,7 @@
 * :white_check_mark: [ToFun](https://tofun.selfcoding.cn/)：极简匿名便签吐槽板&便签板 - [更多介绍](https://github.com/chaoming56/react_ToFun)
 
 #### luckytianyiyan - [GitHub](https://github.com/luckytianyiyan), [博客](https://tyy.sh/)
-* :white_check_mark: [识墨笔记](https://itunes.apple.com/us/app/id1222111073)：OCR 读书笔记工具, 支持导入Kindle笔记 - [更多介绍](https://sspai.com/post/40639)
+* :white_check_mark: [识墨笔记](https://itunes.apple.com/us/app/id1222111073)：OCR 读书笔记工具, 支持导入 Kindle 笔记 - [更多介绍](https://sspai.com/post/40639)
 * :white_check_mark: [TyLauncher](http://www.tylauncher.com/)：文件 / 程序 快捷启动工具 - [更多介绍](https://github.com/luckytianyiyan/TyLauncher)
 
 ### 2018年3月22号添加
@@ -115,7 +115,7 @@
 * :white_check_mark: [你好污啊](https://www.nihaowua.com)：一句话撩妹撩汉污句子
 
 #### miaowing - [GitHub](https://github.com/miaowing), [博客](https://zfeng.net)
-* :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地5sing第三方桌面客户端
+* :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地 5sing 第三方桌面客户端
 
 #### ImbaQ - [GitHub](https://github.com/ImbaQ), [博客](http://www.wankeyun.cc/forum-12.htm)
 * :white_check_mark: [开源链克口袋 - MyLinkToken](http://www.wankeyun.cc/thread-182.htm)：第一个可实现转账功能的第三方开源链克钱包 - [更多介绍](http://www.wankeyun.cc/forum-12.htm)
@@ -124,7 +124,7 @@
 * :white_check_mark: [Xbox比价助手](http://www.xboxfan.com)：XboxOne 游戏机的跨服比价微信小程序
 
 #### SVNBucket - [GitHub](https://github.com/winiex)
-* :white_check_mark: [SVNBucket](http://svn.gzyunke.cn/)：免费SVN仓库，自认为是市面最好的，不限私有数量，不限成员数量
+* :white_check_mark: [SVNBucket](http://svn.gzyunke.cn/)：免费 SVN 仓库，自认为是市面最好的，不限私有数量，不限成员数量
 
 #### 糖伴西红柿 - [GitHub](https://github.com/gaowhen)
 * :white_check_mark: [viewpre.com](https://viewpre.com/)：Kindle 书摘管理
