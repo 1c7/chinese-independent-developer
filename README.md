@@ -22,11 +22,11 @@
 ---
 
 #### 张小刚哟 - [微博](https://weibo.com/u/3127372955)
-* :white_check_mark: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在Mac上轻松、高效调试iOS应用 - [更多介绍](https://sspai.com/post/43527)
-* :white_check_mark: [App计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：一款可以定时打开其他App的iOS应用 - [更多介绍](https://sspai.com/post/43594)
+* :white_check_mark: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在 Mac 上轻松、高效调试 iOS 应用 - [更多介绍](https://sspai.com/post/43527)
+* :white_check_mark: [App计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：一款可以定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
 
-#### sobbingman - [Web](http://vue.awesometiny.com/)
-* :white_check_mark: [Vue资源精选](http://vue.awesometiny.com/)：Vue精选组件集合演示分享) - 特别手工精选出一百来个最优秀的组件库/独立组件直接展示
+#### sobbingman
+* :white_check_mark: [Vue资源精选](http://vue.awesometiny.com/)：Vue 精选组件分享- 手工精选出一百来个最优秀的组件库/独立组件
 
 ### 2018年3月29号 & 30号添加
 ---
