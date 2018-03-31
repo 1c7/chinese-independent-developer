@@ -21,6 +21,12 @@
 ### 2018年3月31号添加
 ---
 
+####  echosoar - [Github](https://github.com/echosoar), [博客](https://iam.gy)
+* :white_check_mark: [Code Reader](https://cr.js.org) 一个web应用，使你可以舒服地在移动设备上阅读和批注Github代码
+
+#### xiaohulu - [Github](https://github.com/xiaohulu/)
+* :white_check_mark: [豆腐丁](https://doufuding.com/)：学习资料整理网站，可编写技术文档和翻译 GitHub 网站的文档项目
+
 #### 张小刚哟 - [微博](https://weibo.com/u/3127372955)
 * :white_check_mark: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在 Mac 上轻松、高效调试 iOS 应用 - [更多介绍](https://sspai.com/post/43527)
 * :white_check_mark: [App 计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：一款可以定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
