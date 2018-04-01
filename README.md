@@ -18,6 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面） 
 
+
+### 2018年4月1号添加
+---
+
+#### 米小饭 - [Github](https://github.com/SoyaLeaf)
+* :white_check_mark: [单纯的就是个日历](https://www.coolapk.com/apk/top.soyask.calendarii)：单纯的只是个日历，附带简单的记事功能 
+
+#### Steve Jrong - [Github](https://github.com/SteveJrong), [博客](https://www.stevejrong.top/)
+* :white_check_mark: [Steve Jrong's Blog UWP](https://www.stevejrong.top/download)：一款查看博主技术分享的UWP应用 - [更多介绍](https://www.microsoft.com/zh-cn/store/p/steve-jrongs-blog-uwp/9nblggh43jg6)
+
 ### 2018年3月31号添加
 ---
 
