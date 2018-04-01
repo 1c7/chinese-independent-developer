@@ -22,6 +22,9 @@
 ### 2018年4月1号添加
 ---
 
+#### Victoria Raymond - [Github](https://github.com/v2ray), [博客](https://steemit.com/@v2ray)
+* :white_check_mark: [V2Ray](https://github.com/v2ray/v2ray-core/)：一个网络代理工具，帮助你打造专属的定制网络体系 - [更多介绍](https://www.v2ray.com/)
+
 #### 米小饭 - [Github](https://github.com/SoyaLeaf)
 * :white_check_mark: [单纯的就是个日历](https://www.coolapk.com/apk/top.soyask.calendarii)：单纯的只是个日历，附带简单的记事功能 
 
