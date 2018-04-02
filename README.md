@@ -19,8 +19,12 @@
 （名字按时间排序，最新添加的在最上面） 
 
 
-### 2018年4月1号添加
+### 2018年4月1号 & 2号添加
 ---
+
+#### markmiao - [Github](https://github.com/mxdios), [博客](http://markmiao.com/)
+* :white_check_mark: [排班](https://itunes.apple.com/cn/app/id1221228242?mt=8)：以日历为基础，设置早午晚夜班的iOS客户端 - [更多介绍](http://markmiao.com/2017/04/05/%E6%8E%92%E7%8F%AD/)
+* :white_check_mark: [速记](https://itunes.apple.com/cn/app/id1263819789?mt=12)：工具栏快速记录文本，记录剪切板历史数据的macOS应用 - [更多介绍](http://markmiao.com/2017/07/26/stenonote/)
 
 #### Victoria Raymond - [Github](https://github.com/v2ray), [博客](https://steemit.com/@v2ray)
 * :white_check_mark: [V2Ray](https://github.com/v2ray/v2ray-core/)：一个网络代理工具，帮助你打造专属的定制网络体系 - [更多介绍](https://www.v2ray.com/)
