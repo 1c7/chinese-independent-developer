@@ -19,6 +19,15 @@
 （名字按时间排序，最新添加的在最上面） 
 
 
+### 2018年4月3号添加
+---
+
+#### Derek-X-Wang - [Github](https://github.com/Derek-X-Wang/attack-on-titans)
+* :white_check_mark: [attack-on-titans](https://github.com/Derek-X-Wang/attack-on-titans)：大公司电话面试模拟器 - [更多介绍](https://github.com/Derek-X-Wang/attack-on-titans/blob/master/README-zh.md)
+
+#### KrisBobLea
+* :white_check_mark: [米发 MFPad](http://www.mfpad.com)：专注于域名转发的服务商，维护了7年的平台，提供比 DNSPod、腾讯云更稳定的域名转发服务
+
 ### 2018年4月1号 & 2号添加
 ---
 
