@@ -39,7 +39,7 @@ If you are unsure, please contact me.
 * :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：Smart car for delight my cats remotely, build on Raspberry Pi
 * :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：RealTime Weather Station build on Raspberry Pi, monitor PM2.5/Temperature/Humidity, etc.  - [More Details](https://github.com/pjq/rpi#weather-station-demo)
 
-#### HansChen - [Github](https://github.com/shensky711), [博客](http://blog.hanschen.site/)
+#### HansChen - [Github](https://github.com/shensky711), [Blog](http://blog.hanschen.site/)
 * :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：Pretty image grabber for ZhiHu
 * :clock8: [Run-With-You](https://github.com/shensky711/Run-With-You)：Double Runner App
 
@@ -52,32 +52,32 @@ If you are unsure, please contact me.
 ### March 21, 2018
 
 #### Airing - [Github](https://github.com/airingursb), [Blog](http://ursb.me)
-- :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8)：Shiny Weather App - [更多介绍](https://github.com/airingursb/4times-front-end)
-- :clock8: [双生](https://github.com/oh-bear/2life)：遇见另一半的美好（共享日记）
+- :white_check_mark: [四时](https://itunes.apple.com/us/app/%E5%9B%9B%E6%97%B6/id1272513774?l=zh&ls=1&mt=8)：Shiny Weather App - [More Details](https://github.com/airingursb/4times-front-end)
+- :clock8: [双生](https://github.com/oh-bear/2life)：The beauty of meeting the other half（Shared Diary）
 
 #### Arczzir - [Github](https://github.com/arczzir)
-* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS JSON file editor - [更多介绍](https://www.bilibili.com/video/av10147282/)
+* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS JSON file editor - [More Details](https://www.bilibili.com/video/av10147282/)
 
 #### Drinking - [Github](https://github.com/drinking), [Blog](http://drinking.github.io/)
-* :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：关于食物的爱与故事  - [更多介绍](http://fancymeet.com/)
+* :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：Stories and love of food  - [More Details](http://fancymeet.com/)
 
-#### Yuuta - [Github](https://github.com/Trumeet), [网站](https://yuuta.moe)
-* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：a simple and elegant Android trash file clean tool, prevent file from re-generate - [更多介绍](https://dir.yuuta.moe/zh/)  
+#### Yuuta - [Github](https://github.com/Trumeet), [Website](https://yuuta.moe)
+* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：a simple and elegant Android trash file clean tool, prevent file from re-generate - [More Details](https://dir.yuuta.moe/zh/)  
 
-#### 曦莫琅 - [Github](https://github.com/ximolang), [博客](http://www.txliang.com/)
-* :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：一个文青、情怀人群的聚集地，原创诗词的发布平台
+#### 曦莫琅 - [Github](https://github.com/ximolang), [Blog](http://www.txliang.com/)
+* :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：A gathering place for young artists and a publishing platform for orginal poetries.
 
 #### ruzhan123 - [Github](https://github.com/ruzhan123)
-* :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：科幻，地理阅读杂志的 Android 应用 - [更多介绍](https://github.com/ruzhan123/awaker)
+* :white_check_mark: [Awaker](https://www.coolapk.com/apk/155953)：An Android app for science fictions and geographical magazines - [More Details](https://github.com/ruzhan123/awaker)
 
 #### cwang22 - [Github](https://github.com/cwang22), [Blog](https://seewang.me)
 * :white_check_mark: [Buy All Steam Games](http://steam.seewang.me)：How much you money do you need to buy all Stream games?
 
 #### santa - [Github](https://github.com/santa-cat)
-* :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用 (Android、iOS)
+* :white_check_mark: [一天](https://fir.im/oneday)：A social app for making friends in 24hr (Android、iOS)
 
 #### Caij - [Github](https://github.com/Caij)
-* :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
+* :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：A simple and light-weight, third-party client application of weibo. 
 
 
 ### 2018, March 20
