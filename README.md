@@ -16,7 +16,7 @@
 
 
 ## 3. 项目列表
-（名字按时间排序，最新添加的在最上面） 
+（名字按时间排序，最新添加的在最上面）
 
 
 ### 2018年4月3号 & 4号添加
@@ -39,7 +39,7 @@
 * :white_check_mark: [V2Ray](https://github.com/v2ray/v2ray-core/)：一个网络代理工具，帮助你打造专属的定制网络体系 - [更多介绍](https://www.v2ray.com/)
 
 #### 米小饭 - [Github](https://github.com/SoyaLeaf)
-* :white_check_mark: [单纯的就是个日历](https://www.coolapk.com/apk/top.soyask.calendarii)：单纯的只是个日历，附带简单的记事功能 
+* :white_check_mark: [单纯的就是个日历](https://www.coolapk.com/apk/top.soyask.calendarii)：单纯的只是个日历，附带简单的记事功能
 
 #### Steve Jrong - [Github](https://github.com/SteveJrong), [博客](https://www.stevejrong.top/)
 * :white_check_mark: [Steve Jrong's Blog UWP](https://www.stevejrong.top/download)：一款查看博主技术分享的UWP应用 - [更多介绍](https://www.microsoft.com/zh-cn/store/p/steve-jrongs-blog-uwp/9nblggh43jg6)
@@ -87,7 +87,7 @@
 #### 痕迹 - [Github](https://github.com/lijy91), [博客](https://www.jianshu.com/u/7f33d5b97f55)
 * :white_check_mark: [佚览](https://itunes.apple.com/cn/app/%E4%BD%9A%E8%A7%88/id1358635224?mt=8)：基于 iOS 系统扩展的支持多种文件格式的预览应用 - [更多介绍](https://yilan.thecode.me)
 
-#### cg200776 
+#### cg200776
 * :white_check_mark: [小黄条](http://www.6fcsj.com)：能嵌入 Windows 桌面的跨平台 Todolist，手机、PC 双向同步
 
 #### xiaohulu - [GitHub](https://github.com/bianruanjian)
@@ -109,7 +109,7 @@
 * :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：实时空气质量气象站 - [更多介绍](https://github.com/pjq/rpi#weather-station-demo)
 
 #### Fengchang - [GitHub](https://github.com/fengchangfight)
-* : white_check_mark: [家谱海](http://www.familytreesea.com)：可视化数字家谱，记录管理家庭亲戚关系以及历史人物关系建模（域名备案中）
+* :white_check_mark: [家谱海](http://www.familytreesea.com)：可视化数字家谱，记录管理家庭亲戚关系以及历史人物关系建模
 
 #### lzx2005 - [Github](https://github.com/lzx2005), [博客](https://lzx2005.com)
 * :white_check_mark: [今天吃什么(WhatToEat)](https://github.com/lzx2005/WhatToEat)：一款治疗吃货选择恐惧症的微信小程序 - [更多介绍](https://github.com/lzx2005/WhatToEat)
@@ -194,7 +194,7 @@
 * :white_check_mark: [一天](https://fir.im/oneday)：24小时结识朋友的社交应用 (Android、iOS)
 
 #### Caij - [GitHub](https://github.com/Caij)
-* :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端 
+* :white_check_mark: [EMore](https://www.coolapk.com/apk/com.caij.emore)：轻量简单的第三方微博客户端
 
 
 ### 2018年3月20号添加
@@ -217,8 +217,8 @@
 * :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
 * :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)  
 * :white_check_mark: [斗图王](http://app.wodedata.com/myapp/gifemoji.html)：一个 GIF 斗图动画表情制作和搜索 APP，兼具斗图浏览器与斗图编辑器的功能
-* :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用 
-* :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款 Markdown 记事本，支持从文本图片导入及导出 PDF 
+* :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用
+* :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款 Markdown 记事本，支持从文本图片导入及导出 PDF
 * :white_check_mark: [最强二维码](http://app.wodedata.com/myapp/qrcoderobot.html)：一个可以扫描二维码和生成自定义二维码的 App
 
 #### aderm - [GitHub](https://github.com/aderm)
@@ -350,7 +350,7 @@
 
 
 #### yaoleifly - [GitHub](https://github.com/yaoleifly)
-* :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：一个以数字资源为核心的自我学习社群 
+* :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：一个以数字资源为核心的自我学习社群
 * :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
 
 #### mw2c - [GitHub](https://github.com/mw2c)
@@ -440,7 +440,7 @@
 * :white_check_mark: [DunDun](https://itunes.apple.com/cn/app/dundun-squats-counter/id1348285355?l=zh&ls=1&mt=8)：Apple Watch 深蹲计数应用 - [更多介绍](https://sspai.com/post/43319)
 
 #### Tuluobo - [GitHub](https://github.com/Tuluobo)
-* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet) 
+* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet)
 
 #### forecho - [GitHub](https://github.com/forecho)
 * :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
@@ -484,7 +484,7 @@
 * :white_check_mark: [Star Order for Mac/iOS](https://star-order.com/)：Mac/iOS 双平台的 GitHub Star 管理工具
 
 #### Jinya - [GitHub](https://github.com/JinyaX), [微博](https://weibo.com/934249787)
-* :white_check_mark: [短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)：iOS 垃圾短信过滤工具（需要 iOS 11.0 或更高版本） 
+* :white_check_mark: [短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)：iOS 垃圾短信过滤工具（需要 iOS 11.0 或更高版本）
 * :clock8: [Key Master]()：iOS 密码管理工具
 
 #### Collider LI - [GitHub](https://github.com/lhc70000)
@@ -582,7 +582,7 @@
 * :white_check_mark: [Emoji](http://ksria.com/emoji/)：一个简单、可靠、纯粹、中文语义化的 Emoji 扩展
 
 #### jadeydi
-* :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 - [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/) 
+* :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 - [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/)
 
 #### soasme
 * :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
