@@ -22,9 +22,6 @@
 ### 2018年4月3号 & 4号添加
 ---
 
-#### miliPolo - [Github](https://github.com/miliPolo)
-* :white_check_mark: [记忆碎片](https://itunes.apple.com/cn/app/%E8%AE%B0%E5%BF%86%E7%A2%8E%E7%89%87-%E7%94%A8ar%E6%97%B6%E9%97%B4%E6%B5%81%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4/id1340767017?l=zh&ls=1&mt=8)：AR创意短视频APP，基本功能完成，后续功能还在开发中
-
 #### Derek-X-Wang - [Github](https://github.com/Derek-X-Wang)
 * :white_check_mark: [attack-on-titans](https://github.com/Derek-X-Wang/attack-on-titans)：大公司电话面试模拟器 - [更多介绍](https://github.com/Derek-X-Wang/attack-on-titans/blob/master/README-zh.md)
 
@@ -254,6 +251,7 @@
 * :white_check_mark: [集木](https://itunes.apple.com/cn/app/%E9%9B%86%E6%9C%A8/id1273031712?mt=8)：丰富的植物库以及拍照识别植物
 
 #### miliPolo - [GitHub](https://github.com/miliPolo), [简书](https://www.jianshu.com/u/e9f2e9d46877)
+* :white_check_mark: [记忆碎片](https://itunes.apple.com/cn/app/%E8%AE%B0%E5%BF%86%E7%A2%8E%E7%89%87-%E7%94%A8ar%E6%97%B6%E9%97%B4%E6%B5%81%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4/id1340767017?l=zh&ls=1&mt=8)：AR创意短视频APP，基本功能完成，后续功能还在开发中
 * :clock8: [AR太阳系](https://github.com/miliPolo/ARSolarPlaySwift)：展示太阳系的运行
 
 #### xx19941215 - [GitHub](https://github.com/xx19941215)
