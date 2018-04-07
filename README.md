@@ -516,7 +516,7 @@
 * :white_check_mark: [DzzOffice](http://dzzoffice.com)：类似 Office365, Google 企业应用套件的开源私有方案
 
 #### ming
-* :white_check_mark: [京价保](https://jjb.im/)：京价保是一个帮助你自动申请京东价格保护，顺便帮你签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
+* :white_check_mark: [京价保](https://jjb.im/)：帮你自动申请京东价格保护，顺便签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
 
 #### 叶大侠 - [GitHub](https://github.com/YeDaxia)
 * :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 - [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
@@ -525,8 +525,8 @@
 ####  mclxly - [GitHub](https://github.com/mclxly)
 * :white_check_mark: [我旁](https://3kmq.com/)：这是一个分享 / 发现周边生活资讯的社区
 
-#### @drakeet - [GitHub](https://github.com/drakeet)
-- :white_check_mark: [纯纯写作](https://sspai.com/post/43650)：绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
+#### drakeet - [GitHub](https://github.com/drakeet)
+- :white_check_mark: [纯纯写作](https://www.coolapk.com/apk/com.drakeet.purewriter?mt=8&uo=4&ct=appcards)：绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
 
 #### Soledad - [GitHub](https://github.com/caiyue1993), [微博](https://weibo.com/caiyue233/)
 * :white_check_mark: [Lazy K](https://itunes.apple.com/cn/app/lazy-k/id1348224910?mt=8)：不想聊天的敷衍“输入法” - [更多介绍](https://sspai.com/post/43386)
