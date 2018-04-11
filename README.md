@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年4月11号添加
+---
+
+#### itisyang - [Github](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
+* :clock8: [playerdemo](https://github.com/itisyang/playerdemo)：一个视频播放器，开源版potplayer 
+
 ### 2018年4月3号 & 4号添加
 ---
 
