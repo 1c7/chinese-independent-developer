@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年4月15号添加
+
+#### Retomehere - [GitHub](https://github.com/xiazeyu), [博客](https://xiazeyu_2011.coding.me)
+* :clock8: [live2d-widget.js](https://github.com/xiazeyu/live2d-widget.js)：Live2D 小人挂件。
+
+#### EYHN - [GitHub](https://github.com/EYHN), [博客](https://huaji8.top/)
+* :white_check_mark: [hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)：Hexo 用的 Live2D 挂件。
 
 ### 2018年4月11号 & 12号添加
 ---
