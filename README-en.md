@@ -28,6 +28,14 @@ If you are unsure, please contact me.
 ## 3. Project list
 #### Projects are sorted by time, latest on top 
 
+### April 15, 2018
+
+#### Retomehere - [GitHub](https://github.com/xiazeyu), [Blog](https://xiazeyu_2011.coding.me)
+* :clock8: [live2d-widget.js](https://github.com/xiazeyu/live2d-widget.js)：Live2D widget plugin.
+
+#### EYHN - [GitHub](https://github.com/EYHN), [Blog](https://huaji8.top/)
+* :white_check_mark: [hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)：Live2D widget plugin for Hexo.
+
 ### March 28, 2018
 ---
 #### mzlogin - [GitHub](https://github.com/mzlogin), [Blog](http://mazhuang.org)
