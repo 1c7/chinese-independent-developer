@@ -22,22 +22,22 @@
 ### 2018年4月15号添加
 ---
 
-#### ddxgz
+#### ddxgz - [GitHub](https://github.com/ddxgz)
 * :white_check_mark: [LinkedInfo](https://www.linkedinfo.co)：链接各类优秀技术文章 - [更多介绍](https://www.linkedinfo.co/about)
 
 ### 2018年4月11号 & 12号添加
 ---
 
-#### FengYQ - [Github](https://github.com/FinchFeng?tab=repositories)
+#### FengYQ - [GitHub](https://github.com/FinchFeng?tab=repositories)
 * :white_check_mark: [计划表](https://itunes.apple.com/cn/app/计划单/id1341198801?mt=8)：以简洁高效为目的的计划器 - [更多介绍](https://github.com/FinchFeng/MyPlanList)
 
-#### itisyang - [Github](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
+#### itisyang - [GitHub](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
 * :clock8: [playerdemo](https://github.com/itisyang/playerdemo)：一个视频播放器，开源版potplayer 
 
 ### 2018年4月3号 & 4号添加
 ---
 
-#### Derek-X-Wang - [Github](https://github.com/Derek-X-Wang)
+#### Derek-X-Wang - [GitHub](https://github.com/Derek-X-Wang)
 * :white_check_mark: [attack-on-titans](https://github.com/Derek-X-Wang/attack-on-titans)：大公司电话面试模拟器 - [更多介绍](https://github.com/Derek-X-Wang/attack-on-titans/blob/master/README-zh.md)
 
 #### KrisBobLea
@@ -46,11 +46,11 @@
 ### 2018年4月1号 & 2号添加
 ---
 
-#### markmiao - [Github](https://github.com/mxdios), [博客](http://markmiao.com/)
+#### markmiao - [GitHub](https://github.com/mxdios), [博客](http://markmiao.com/)
 * :white_check_mark: [排班](https://itunes.apple.com/cn/app/id1221228242?mt=8)：以日历为基础，设置早午晚夜班的iOS客户端 - [更多介绍](http://markmiao.com/2017/04/05/%E6%8E%92%E7%8F%AD/)
 * :white_check_mark: [速记](https://itunes.apple.com/cn/app/id1263819789?mt=12)：工具栏快速记录文本，记录剪切板历史数据的macOS应用 - [更多介绍](http://markmiao.com/2017/07/26/stenonote/)
 
-#### Victoria Raymond - [Github](https://github.com/v2ray), [博客](https://steemit.com/@v2ray)
+#### Victoria Raymond - [GitHub](https://github.com/v2ray), [博客](https://steemit.com/@v2ray)
 * :white_check_mark: [V2Ray](https://github.com/v2ray/v2ray-core/)：一个网络代理工具，帮助你打造专属的定制网络体系 - [更多介绍](https://www.v2ray.com/)
 
 #### 米小饭 - [Github](https://github.com/SoyaLeaf)
@@ -90,16 +90,16 @@
 #### Viggo - [博客](http://viggoz.com/)
 * :white_check_mark: [Webstack](http://webstack.cc)：专注于收集国内外优秀的设计类网站 - [更多介绍](http://webstack.cc/cn/about.html)
 
-#### lizhi - [Github](https://github.com/lizhi), [博客](http://www.yinlula.com)
+#### lizhi - [GitHub](https://github.com/lizhi), [博客](http://www.yinlula.com)
 * :white_check_mark: [引路啦](http://www.yinlula.com)：有意思的分享
 
-#### Shane Qi - [Github](https://github.com/shaneqi), [博客](https://blog.shaneqi.com)
+#### Shane Qi - [GitHub](https://github.com/shaneqi), [博客](https://blog.shaneqi.com)
 * :clock8: [Eastwatch](https://eastwatchapp.com)：可能是 iOS 平台上最美的、交互最友好的追剧 App
 
 ### 2018年3月27号 & 28号添加
 ---
 
-#### 痕迹 - [Github](https://github.com/lijy91), [博客](https://www.jianshu.com/u/7f33d5b97f55)
+#### 痕迹 - [GitHub](https://github.com/lijy91), [博客](https://www.jianshu.com/u/7f33d5b97f55)
 * :white_check_mark: [佚览](https://itunes.apple.com/cn/app/%E4%BD%9A%E8%A7%88/id1358635224?mt=8)：基于 iOS 系统扩展的支持多种文件格式的预览应用 - [更多介绍](https://yilan.thecode.me)
 
 #### cg200776
@@ -108,7 +108,7 @@
 #### xiaohulu - [GitHub](https://github.com/bianruanjian)
 * :clock8: [编软件](https://bianruanjian.com)：软件组装平台，实现人人皆能编软件
 
-#### 12points - [Github](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
+#### 12points - [GitHub](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
 * :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
 
 #### mzlogin - [GitHub](https://github.com/mzlogin)，[博客](http://mazhuang.org)
@@ -119,23 +119,23 @@
 
 ### 2018年3月25号 & 26号添加
 ---
-#### Jianqing - [Github](https://github.com/pjq), [博客](https://pjq.me)
+#### Jianqing - [GitHub](https://github.com/pjq), [博客](https://pjq.me)
 * :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：用来远程遛猫, 家居监控的智能小车
 * :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：实时空气质量气象站 - [更多介绍](https://github.com/pjq/rpi#weather-station-demo)
 
 #### Fengchang - [GitHub](https://github.com/fengchangfight)
 * :white_check_mark: [家谱海](http://www.familytreesea.com)：可视化数字家谱，记录管理家庭亲戚关系以及历史人物关系建模
 
-#### lzx2005 - [Github](https://github.com/lzx2005), [博客](https://lzx2005.com)
+#### lzx2005 - [GitHub](https://github.com/lzx2005), [博客](https://lzx2005.com)
 * :white_check_mark: [今天吃什么(WhatToEat)](https://github.com/lzx2005/WhatToEat)：一款治疗吃货选择恐惧症的微信小程序 - [更多介绍](https://github.com/lzx2005/WhatToEat)
 
 #### Toy - [GitHub](https://github.com/xuxiaodong)，[博客](https://linuxtoy.org)
 * :white_check_mark: [Self-hosted Server](https://selfhostedserver.com)：自动化架设服务器，支持 AWS/GCE/Azure/DO/Linode/Vultr
 
-#### zhangjh - [Github](https://github.com/zhangjh), [博客](http://zhangjh.me)
+#### zhangjh - [GitHub](https://github.com/zhangjh), [博客](http://zhangjh.me)
 * :white_check_mark: [藏经阁](https://favlink.cn)：完全定制化的个人网址收藏 - [更多介绍](https://github.com/zhangjh/favLinksAdvise/blob/master/About.md)
 
-#### Tang - [Github](https://github.com/tangqi92), [微博](http://weibo.com/qiktang)
+#### Tang - [GitHub](https://github.com/tangqi92), [微博](http://weibo.com/qiktang)
 * :white_check_mark: [Driki](https://itunes.apple.com/cn/app/id1238020177?mt=8)：在同质化的 Dribbble 客户端里做出差异化 - [更多介绍](http://drikiapp.github.io/)
 
 ### 2018年3月23号添加
