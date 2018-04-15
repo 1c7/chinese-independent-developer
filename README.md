@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年4月15号添加
+---
+
+#### ddxgz
+* :white_check_mark: [LinkedInfo](https://www.linkedinfo.co)：链接各类优秀技术文章 - [更多介绍](https://www.linkedinfo.co/about)
+
 ### 2018年4月11号 & 12号添加
 ---
 
