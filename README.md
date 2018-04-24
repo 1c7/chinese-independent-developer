@@ -21,7 +21,10 @@
 ### 2018年4月23号 & 24号添加
 ---
 
-#### qknow - [Github](https://github.com/503945930)
+#### haxck - [GitHub](https://github.com/haxck), [博客](http://haxck.com)
+* :white_check_mark: [NightMate](https://haxck.com/portfolio/src/assets/nmQr.jpg)：可能是史上最省心、最优雅的助眠微信小程序
+
+#### qknow - [GitHub](https://github.com/503945930)
 * :white_check_mark: [NEO全资产区块浏览器](https://state.otcgo.cn)：NEO全资产区块浏览器 - [更多介绍](https://github.com/OTCGO/state-browser)
 
 #### metrue - [GitHub](https://github.com/metrue)
