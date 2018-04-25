@@ -18,6 +18,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2018年4月25号添加
+---
+
+#### Timmy - [Github](https://github.com/zhu327), [博客](https://zhu327.github.io/)
+* :white_check_mark: [ifwechat](https://github.com/zhu327/ifwechat)：用微信触发ifttt, 连接微信与ifttt的公众号
+
+
 ### 2018年4月23号 & 24号添加
 ---
 
