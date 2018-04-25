@@ -675,7 +675,4 @@
 
 #### 7. 最后
 本库的创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
-**sideidea 上面都是开发者分享盈利故事的文章**<br/>
-如果你的项目有盈利，并且愿意分享过程中学到的知识。欢迎联系 1c7 (guokrfans#gmail.com)<br/>
-我们可以做个采访然后放到 sideidea 上<br/>
-（采访格式可以参考现有文章）  
+**sideidea - 独立开发者分享做产品盈利的故事**<br/>
