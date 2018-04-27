@@ -19,6 +19,14 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年4月27号添加
+---
+
+#### R0uter - [Github](https://github.com/R0uter), [博客](https://www.logcg.com/)
+* :white_check_mark: [落格输入法](https://im.logcg.com/loginput)：iOS 平台中文双拼码表输入法
+* :white_check_mark: [落格报时喵](https://im.logcg.com/hourlymeow)：iOS 整点半点报时
+
+
 ### 2018年4月25号添加
 ---
 
