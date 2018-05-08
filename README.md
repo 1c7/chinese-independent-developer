@@ -686,6 +686,7 @@
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
+* [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
 
 #### 5. 值得关注的 Twitter 用户
 * [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
@@ -698,5 +699,5 @@
 3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
 
 #### 7. 最后
-本库的创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
+本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
