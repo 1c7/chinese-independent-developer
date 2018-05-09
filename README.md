@@ -677,6 +677,7 @@
 
 [英文]        
 * [Indie Hacker](https://www.indiehackers.com/)
+* [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 * [RemoteOK](https://remoteok.io/) - 找远程工作
