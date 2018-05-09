@@ -18,11 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年5月9号添加
+---
+#### runningcheese - [GitHub](https://github.com/runningcheese)
+* :white_check_mark: [RunningCheese Firefox](https://firefox.runningcheese.com/)：一款优雅强大的定制版 Firefox 浏览器，简洁且高效 - [更多介绍](https://github.com/runningcheese/RunningCheese-Firefox)
+
 ### 2018年5月2号添加
 ---
 
-#### pwxc - [GitHub](https://github.com/pwxc/LrcEdit-Android)
-* :clock8: [lrcEdit](https://www.coolapk.com/apk/185032)：可能是 Android 端唯一的歌词编辑器
+#### pwxc - [GitHub](https://github.com/pwxc/)
+* :clock8: [lrcEdit](https://www.coolapk.com/apk/185032)：可能是 Android 端唯一的歌词编辑器 - [更多介绍](https://github.com/pwxc/LrcEdit-Android)
 
 #### Venus - [GitHub](https://github.com/bbbbx), [博客](http://blog.venusworld.cn)
 * :white_check_mark: [小当家](http://smallmenu.venusworld.cn:3000)：一款在线搜索食谱的 Web 应用
