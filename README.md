@@ -23,6 +23,11 @@
 #### AlvinZhu - [Github](https://github.com/gbammc), [博客](http://alvinzhu.me/)
 * :white_check_mark: [Thor](https://github.com/gbammc/Thor): 快速打开或切换 Mac 应用
 
+#### iHTCboy - [Github](https://github.com/iHTCboy), [博客](https://iHTCboy.com)
+* :white_check_mark: [密记 iOS版](https://itunes.apple.com/cn/app/mi-ji-yu-zhong-bu-tong-ji/id925021570?l=zh&mt=8)：SQLite 实现的简单笔记和备份应用 - [更多介绍](https://github.com/iHTCboy/SecurityNote)
+* :white_check_mark: [桂林理工大学 - 校园通](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-xiao/id968615456?l=en&mt=8)：新闻模块抓取学校网页解释 HTML，社交仿博客 - [更多介绍](https://github.com/iHTCboy/CampusOfGLUT)
+* :white_check_mark: [桂林理工大学 - 云地图](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-yun/id954359041?mt=8)：基于高德云图API开发的地图应用 - [更多介绍](https://github.com/iHTCboy/GLUTCloud)
+
 ### 2018年5月9号添加
 ---
 #### runningcheese - [GitHub](https://github.com/runningcheese)
