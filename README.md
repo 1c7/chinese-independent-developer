@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年5月13号添加
+---
+#### AlvinZhu - [Github](https://github.com/gbammc), [博客](http://alvinzhu.me/)
+* :white_check_mark: [Thor](https://github.com/gbammc/Thor): 快速打开或切换 Mac 应用
+
 ### 2018年5月9号添加
 ---
 #### runningcheese - [GitHub](https://github.com/runningcheese)
