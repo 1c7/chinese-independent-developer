@@ -20,10 +20,10 @@
 
 ### 2018年5月13号添加
 ---
-#### AlvinZhu - [Github](https://github.com/gbammc), [博客](http://alvinzhu.me/)
+#### AlvinZhu - [GitHub](https://github.com/gbammc), [博客](http://alvinzhu.me/)
 * :white_check_mark: [Thor](https://github.com/gbammc/Thor): 快速打开或切换 Mac 应用
 
-#### iHTCboy - [Github](https://github.com/iHTCboy), [博客](https://iHTCboy.com)
+#### iHTCboy - [GitHub](https://github.com/iHTCboy), [博客](https://iHTCboy.com)
 * :white_check_mark: [密记 iOS版](https://itunes.apple.com/cn/app/mi-ji-yu-zhong-bu-tong-ji/id925021570?l=zh&mt=8)：SQLite 实现的简单笔记和备份应用 - [更多介绍](https://github.com/iHTCboy/SecurityNote)
 * :white_check_mark: [桂林理工大学 - 校园通](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-xiao/id968615456?l=en&mt=8)：新闻模块抓取学校网页解释 HTML，社交仿博客 - [更多介绍](https://github.com/iHTCboy/CampusOfGLUT)
 * :white_check_mark: [桂林理工大学 - 云地图](https://itunes.apple.com/cn/app/gui-lin-li-gong-da-xue-yun/id954359041?mt=8)：基于高德云图API开发的地图应用 - [更多介绍](https://github.com/iHTCboy/GLUTCloud)
@@ -704,16 +704,11 @@
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 * [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
 
-#### 5. 值得关注的 Twitter 用户
-* [Patrick McKenzie(@patio11)](https://twitter.com/patio11)
-* [Pieter Levels(@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
-* [Courtland Allen(@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
+#### 5. 值得关注的 Twitter 账号
+* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
+* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
+* [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
 
-#### 6. 备注
-1. 若内容有误欢迎提出，我会马上修正
-2. 个别网站需科学上网，并非网站无法访问，请自备工具
-3. 欢迎改进此表，比如加多几个对独立开发者有帮助的网站。如果你想加一个新章节，可以开个新 issue 来讨论。
-
-#### 7. 最后
+#### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
