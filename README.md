@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年5月18号添加
+---
+
+#### 李国宝 - [Github](https://github.com/liguobao)
+* :clock8: [地图找租房](https://woyaozufang.live/)：房源爬虫 + 高德地图强力驱动，迅速找到合适房源 - [更多介绍](https://github.com/liguobao/58HouseSearch/blob/master/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
+
 ### 2018年5月16号添加
 ---
 
