@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年5月20号添加
+---
+
+#### kezhenxu94 - [Github](https://github.com/kezhenxu94/), [博客](http://kezhenxu94.me)
+* :white_check_mark: [租房聚合分析](https://github.com/kezhenxu94/house-renting)：租房信息聚合分析，目前聚合了 58 同城，豆瓣，链家 的上百个城市地区，可以只扒取感兴趣的城市
 
 ### 2018年5月18号添加
 ---
