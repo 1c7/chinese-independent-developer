@@ -19,8 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 
-### 2018年5月22号添加
+### 2018年5月22号 & 23号添加
 ---
+
+#### Nutt
+* :white_check_mark: [坚果电影](http://nutts.tv/)：为你找到下一部最爱的电影(原: 快影盒子)
 
 #### feilong - [GitHub](https://github.com/zfl420)
 * :white_check_mark: [TestFlight.top](https://testflight.top)：60 秒制作 iOS 内测 App 分发页，用户直接下载测试
