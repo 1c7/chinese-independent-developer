@@ -492,7 +492,7 @@
 * :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
 
 #### Larry - [码力全开科技工作室](http://maliquankai.com)
-* :white_check_mark: [MiniHour](https://itunes.apple.com/us/app/minihour/id1383208731?mt=8)：时刻关注你的目标时间
+* :white_check_mark: [MiniHour](https://itunes.apple.com/us/app/minihour/id1383208731?mt=8)：时刻关注你的目标时间 - [更多介绍](http://maliquankai.com/2018/05/24/2018-05-24-minihour-product/)
 * :white_check_mark: [奇点日报](https://itunes.apple.com/us/app/wa-wa-yu-jian-hao-yin-le/id1223916908?l=zh&ls=1&mt=8)：高逼格程序员开发者技术分享平台
 * :white_check_mark: [破壳日](https://itunes.apple.com/us/app/破壳日/id1267213085?l=zh&ls=1&mt=8)：精美的生日 · 节日 · 纪念日礼物提醒工具
 * :white_check_mark: [壹日程](https://itunes.apple.com/us/app/壹日程-专注任务管理和待办计划提醒/id1251547470?l=zh&ls=1&mt=8)：专注任务管理和待办计划提醒
