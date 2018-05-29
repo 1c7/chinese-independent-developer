@@ -19,10 +19,15 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年5月29号添加
+---
+####  waynecz - [GitHub](https://github.com/waynecz/dadda-translate-crx)
+* :white_check_mark: [达达划词翻译](https://chrome.google.com/webstore/detail/%E8%BE%BE%E8%BE%BE%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cajhcjfcodjoalmhjekljnfkgjlkeajl)：好看的划词翻译插件 - [更多介绍](https://github.com/waynecz/dadda-translate-crx)
+
 ### 2018年5月22号 & 23号 & 24号添加
 ---
 
-#### mhkz - [Github](https://github.com/mhkz)
+#### mhkz - [GitHub](https://github.com/mhkz)
 * :white_check_mark: [全库网](https://www.iquanku.com)：分享一些技术内容和经验
 
 #### Nutt
