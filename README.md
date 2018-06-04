@@ -62,7 +62,7 @@
 * :white_check_mark: [somedraw](https://www.somedraw.com)：带给你像使用笔和纸一样的思维整理体验
 
 #### AlvinZhu - [GitHub](https://github.com/gbammc), [博客](http://alvinzhu.me/)
-* :white_check_mark: [Thor](https://github.com/gbammc/Thor): 快速打开或切换 Mac 应用
+* :white_check_mark: [Thor](https://github.com/gbammc/Thor)：快速打开或切换 Mac 应用
 
 #### iHTCboy - [GitHub](https://github.com/iHTCboy), [博客](https://iHTCboy.com)
 * :white_check_mark: [密记 iOS版](https://itunes.apple.com/cn/app/mi-ji-yu-zhong-bu-tong-ji/id925021570?l=zh&mt=8)：SQLite 实现的简单笔记和备份应用 - [更多介绍](https://github.com/iHTCboy/SecurityNote)
@@ -159,7 +159,7 @@
 ---
 
 ####  echosoar - [Github](https://github.com/echosoar), [博客](https://iam.gy)
-* :white_check_mark: [Code Reader](https://cr.js.org) 一个web应用，使你可以舒服地在移动设备上阅读和批注Github代码
+* :white_check_mark: [Code Reader](https://cr.js.org)：在移动设备上舒服地阅读和批注 Github 代码
 
 #### xiaohulu - [Github](https://github.com/xiaohulu/)
 * :white_check_mark: [豆腐丁](https://doufuding.com/)：学习资料整理网站，可编写技术文档和翻译 GitHub 网站的文档项目
