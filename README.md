@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2018年6月6号添加
+---
+#### 谢杨
+* :white_check_mark: [BufPay.com](https://bufpay.com)：独立开发者个人收款平台（无需公司资质，免签约）
+
+
 ### 2018年5月29号添加
 ---
 ####  waynecz - [GitHub](https://github.com/waynecz/dadda-translate-crx)
