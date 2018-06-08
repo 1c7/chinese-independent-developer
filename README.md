@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年6月8号添加
+---
+#### ghui - [Github](https://github.com/ghuiii), [博客](http://ghui.me)
+* :white_check_mark: [V2er](https://www.coolapk.com/apk/me.ghui.v2er.free)：好用的V2EX客户端 - [更多介绍](https://ghui.me/post/2017/09/v2er-free-version/)
 
 ### 2018年6月7号添加
 ---
@@ -26,7 +30,6 @@
 * :white_check_mark: [颜文字输入法](https://itunes.apple.com/cn/app/yan-wen-zi-shu-ru-fa-zui-qiang/id866753915?mt=8)：卖萌输入法，可能是最早一批正儿八经做这个的，几年前就卖了，现在用户目测百万级别
 * :white_check_mark: [喵老师绘本故事](https://itunes.apple.com/cn/app/er-shi-yi-dian-shui-qian-gu-shi/id998079819)：和幼师老婆一起做的讲故事 app，内容都是媳妇录的，已经 200 多期了（最开始叫 二十一点睡前故事）
 * :white_check_mark: 喵老师绘本故事（小程序）：小程序版，没法放链接，直接小程序里搜索吧。
-
 
 ### 2018年6月6号添加
 ---
