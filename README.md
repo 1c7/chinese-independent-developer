@@ -20,6 +20,10 @@
 
 ### 2018年6月8号添加
 ---
+
+#### dd - [Github](https://github.com/dpy1123)
+* :white_check_mark: [DDMUG](https://promotion.devgo.top/ddmug/)：音游 poc，包含编辑器
+
 #### ghui - [Github](https://github.com/ghuiii), [博客](http://ghui.me)
 * :white_check_mark: [V2er](https://www.coolapk.com/apk/me.ghui.v2er.free)：好用的V2EX客户端 - [更多介绍](https://ghui.me/post/2017/09/v2er-free-version/)
 
