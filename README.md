@@ -736,7 +736,7 @@
 #### 糖醋陈皮 - [GitHub](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
 * :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-* :white_check_mark: [CC 速成班](coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
+* :white_check_mark: [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
 
