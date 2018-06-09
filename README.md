@@ -30,10 +30,8 @@
 ### 2018年6月7号添加
 ---
 #### 小芋头君 - [知乎](https://www.zhihu.com/people/li-shou-xin), [Github](https://github.com/xinyu198736)
-* :white_check_mark: [前端乱炖](http://www.html-js.com)：一个前端开发者社区，作者用 Nodejs 从 0 写出来的
 * :white_check_mark: [颜文字输入法](https://itunes.apple.com/cn/app/yan-wen-zi-shu-ru-fa-zui-qiang/id866753915?mt=8)：卖萌输入法，可能是最早一批正儿八经做这个的，几年前就卖了，现在用户目测百万级别
 * :white_check_mark: [喵老师绘本故事](https://itunes.apple.com/cn/app/er-shi-yi-dian-shui-qian-gu-shi/id998079819)：和幼师老婆一起做的讲故事 app，内容都是媳妇录的，已经 200 多期了（最开始叫 二十一点睡前故事）
-* :white_check_mark: 喵老师绘本故事（小程序）：小程序版，没法放链接，直接小程序里搜索吧。
 
 ### 2018年6月6号添加
 ---
