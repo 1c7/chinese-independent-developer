@@ -22,7 +22,7 @@
 ---
 #### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
 * :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个APP就可以多个平台的直播，流畅、纯净、无广告
-* :white_check_mark:[看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
+* :white_check_mark: [看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
 * :white_check_mark: [体测成绩查询(微校应用)](http://weixiao.qq.com/store/details/10978)：全国高校体测成绩查询，只需输入身份证号码就可以查询体测成绩
 
 #### xiaobaiso - [GitHub](https://github.com/xiaobaiso), [博客](https://xiaobaiso.github.io/)
