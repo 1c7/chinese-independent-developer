@@ -20,6 +20,10 @@
 
 ### 2018年6月26号添加
 ---
+
+#### enzeberg - [GitHub](https://github.com/enzeberg)
+* :white_check_mark: [铜钟聚合音乐](http://tongzhong.xyz)：试图解决你来回切换音乐软件的烦恼 - [更多介绍](https://github.com/enzeberg/tongzhong-music)
+
 #### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
 * :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个APP就可以多个平台的直播，流畅、纯净、无广告
 * :white_check_mark: [看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
