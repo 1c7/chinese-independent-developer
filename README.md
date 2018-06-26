@@ -18,24 +18,35 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年6月26号添加
+---
+#### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
+* :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个APP就可以多个平台的直播，流畅、纯净、无广告
+* :white_check_mark:[看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
+* :white_check_mark: [体测成绩查询(微校应用)](http://weixiao.qq.com/store/details/10978)：全国高校体测成绩查询，只需输入身份证号码就可以查询体测成绩
+
+#### xiaobaiso - [GitHub](https://github.com/xiaobaiso), [博客](https://xiaobaiso.github.io/)
+* :white_check_mark: [临时邮](https://itunes.apple.com/cn/app/%E4%B8%B4%E6%97%B6%E9%82%AE-%E5%8D%81%E5%88%86%E9%92%9F%E9%82%AE%E7%AE%B1/id1342693449?mt=8)：一键生成多个临时邮箱地址 - [更多介绍](https://xiaobaiso.github.io/tempmail/)
+* :white_check_mark: [下载视频小助手(微信公众号)](https://xiaobaiso.github.io/zhihudoc/)：下载知乎视频
+
 ### 2018年6月21号添加
 ---
 
-#### 织网哥 - [Github](https://github.com/mclxly)
+#### 织网哥 - [GitHub](https://github.com/mclxly)
 * :white_check_mark: [小视频神器](https://video2x.cn)：微信小程序，用于视频编辑，可添加字幕/配音，也可倒播/消音/改尺寸，输出MP4/GIF；还可拼接视频/剪辑视频。
 
 ### 2018年6月8号添加
 ---
 
-#### dd - [Github](https://github.com/dpy1123)
+#### dd - [GitHub](https://github.com/dpy1123)
 * :white_check_mark: [DDMUG](https://promotion.devgo.top/ddmug/)：音游 poc，包含编辑器
 
-#### ghui - [Github](https://github.com/ghuiii), [博客](http://ghui.me)
-* :white_check_mark: [V2er](https://www.coolapk.com/apk/me.ghui.v2er.free)：好用的V2EX客户端 - [更多介绍](https://ghui.me/post/2017/09/v2er-free-version/)
+#### ghui - [GitHub](https://github.com/ghuiii), [博客](http://ghui.me)
+* :white_check_mark: [V2er](https://www.coolapk.com/apk/me.ghui.v2er.free)：好用的 V2EX 客户端 - [更多介绍](https://ghui.me/post/2017/09/v2er-free-version/)
 
 ### 2018年6月7号添加
 ---
-#### 小芋头君 - [知乎](https://www.zhihu.com/people/li-shou-xin), [Github](https://github.com/xinyu198736)
+#### 小芋头君 - [知乎](https://www.zhihu.com/people/li-shou-xin), [GitHub](https://github.com/xinyu198736)
 * :white_check_mark: [颜文字输入法](https://itunes.apple.com/cn/app/yan-wen-zi-shu-ru-fa-zui-qiang/id866753915?mt=8)：卖萌输入法，可能是最早一批正儿八经做这个的，几年前就卖了，现在用户目测百万级别
 * :white_check_mark: [喵老师绘本故事](https://itunes.apple.com/cn/app/er-shi-yi-dian-shui-qian-gu-shi/id998079819)：和幼师老婆一起做的讲故事 app，内容都是媳妇录的，已经 200 多期了（最开始叫 二十一点睡前故事）
 
