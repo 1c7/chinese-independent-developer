@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年6月30号添加
+---
+
+#### alphardex - [Github](https://github.com/alphardex)
+* :white_check_mark: [techattic](http://techattic.herokuapp.com/)：一家聚集了许多IT技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
+
 ### 2018年6月26号添加
 ---
 
