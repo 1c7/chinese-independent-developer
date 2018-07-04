@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年7月4号添加
+---
+
+#### Bill - [Github](https://github.com/kkxlkkxllb)
+* :white_check_mark: [手绘微课Pro](https://17up.org/)：语音及笔迹录制工具，简单在线制作微课 - [更多介绍](https://kkxlkkxllb.github.io/org17up/)
+* :white_check_mark: [手绘微课Pro 小程序](https://minapp.com/miniapp/2554/)：语音+手写笔迹+图片+视频制作微课，可导出mp4
+
 ### 2018年6月30号添加
 ---
 
