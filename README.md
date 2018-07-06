@@ -18,6 +18,21 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年7月6号添加
+---
+
+#### 王文杰 - [Github](https://github.com/wangwenjie1314), [博客](http://xiab.club/)
+* :white_check_mark: [图文进化论](http://mp.millionshow.cn/)：记录美好图文（微信访问）
+
+#### 魏焜榕 - [Github](https://github.com/SeriaWei), [博客](http://www.cnblogs.com/seriawei/)
+* :white_check_mark: [ZKEACMS](http://www.zkea.net/zkeacms/zkeacmscore)：可视化设计CMS，在线编辑网站 - [更多介绍](https://github.com/SeriaWei/ZKEACMS.Core)
+
+#### huihut - [Github](https://github.com/huihut), [博客](https://blog.huihut.com/)
+* :white_check_mark: [Facemoji 废萌](https://play.google.com/store/apps/details?id=com.huihut.facemoji)：一个可以模仿你的表情的语音聊天机器人- [更多介绍](https://blog.huihut.com/2018/02/08/Facemoji1/), [更多介绍2](https://github.com/huihut/Facemoji)
+
+#### cjztool - [Github](https://github.com/cjztool), [博客](http://cjz010.iteye.com/)
+* :white_check_mark: [中医方歌](http://app.mi.com/details?id=com.cjz.PrescriptionPoem)：中医《方剂学》学习工具
+
 ### 2018年7月4号添加
 ---
 
