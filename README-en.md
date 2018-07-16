@@ -1,5 +1,5 @@
 ### This is English translation of README.md      
-### This is a draft (it's not finished yet)
+### This is a draft (not finished yet)
 
 ## Chinese Independent Developers' Projects List  
 Collect basic information about all Chinese indie devs' ("Independent Developers'") projects.
@@ -28,6 +28,11 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
+### July 16, 2018
+---
+#### brucefeynman - [Github](https://github.com/brucefeynman)
+* :white_check_mark: [51% attack analysis](http://www.cryptoattack.io/)：Using cost and profit analysis to find the vulnerability of different tokens - [More Info](http://www.cryptoattack.io/about)
+
 ### March 28, 2018
 ---
 #### mzlogin - [GitHub](https://github.com/mzlogin), [Blog](http://mazhuang.org)
@@ -37,7 +42,7 @@ If you are unsure whether your project meets this list's criteria, please contac
 
 #### Jianqing - [GitHub](https://github.com/pjq), [Blog](https://pjq.me)
 * :clock8: [Smart Car on Raspberry Pi](https://github.com/pjq/rpi)：Smart car for delight my cats remotely, build on Raspberry Pi
-* :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：RealTime Weather Station build on Raspberry Pi, monitor PM2.5/Temperature/Humidity, etc.  - [More Details](https://github.com/pjq/rpi#weather-station-demo)
+* :white_check_mark: [Weather Station on Raspberry Pi](http://rpi.pjq.me/)：RealTime Weather Station build on Raspberry Pi, monitor PM2.5/Temperature/Humidity, etc.  - [More Info](https://github.com/pjq/rpi#weather-station-demo)
 
 #### HansChen - [GitHub](https://github.com/shensky711), [Blog](http://blog.hanschen.site/)
 * :clock8: [Pretty-Zhihu](https://github.com/shensky711/Pretty-Zhihu)：Pretty image grabber for ZhiHu
@@ -56,7 +61,7 @@ If you are unsure whether your project meets this list's criteria, please contac
 - :clock8: [双生](https://github.com/oh-bear/2life)：The beauty of meeting the other half（Shared Diary）
 
 #### Arczzir - [GitHub](https://github.com/arczzir)
-* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS JSON file editor - [More Details](https://www.bilibili.com/video/av10147282/)
+* :white_check_mark: [Jed](https://itunes.apple.com/cn/app/jed/id1234853584)：macOS JSON file editor - [More Info](https://www.bilibili.com/video/av10147282/)
 
 #### Drinking - [GitHub](https://github.com/drinking), [Blog](http://drinking.github.io/)
 * :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：Stories and love of food  - [More Details](http://fancymeet.com/)
