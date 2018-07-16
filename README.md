@@ -23,7 +23,7 @@
 ---
 
 #### brucefeynman - [Github](https://github.com/brucefeynman),[博客](http://brucediscovery.com/)
-* :white_check_mark: [51% 双花攻击分析](http://www.cryptoattack.io/)：分析不同数字货币被51%双花攻击的概率- [更多介绍](http://www.cryptoattack.io/about)
+* :white_check_mark: [51% 双花攻击分析](http://www.cryptoattack.io/)：分析不同数字货币被 51% 双花攻击的概率 - [更多介绍](http://www.cryptoattack.io/about)
 
 ### 2018年7月10号添加
 ---
@@ -54,13 +54,13 @@
 
 #### Bill - [Github](https://github.com/kkxlkkxllb)
 * :white_check_mark: [手绘微课Pro](https://17up.org/)：语音及笔迹录制工具，简单在线制作微课 - [更多介绍](https://kkxlkkxllb.github.io/org17up/)
-* :white_check_mark: [手绘微课Pro 小程序](https://minapp.com/miniapp/2554/)：语音+手写笔迹+图片+视频制作微课，可导出mp4
+* :white_check_mark: [手绘微课Pro 小程序](https://minapp.com/miniapp/2554/)：语音+手写笔迹+图片+视频制作微课，可导出 mp4
 
 ### 2018年6月30号添加
 ---
 
 #### alphardex - [Github](https://github.com/alphardex)
-* :white_check_mark: [techattic](http://techattic.herokuapp.com/)：一家聚集了许多IT技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
+* :white_check_mark: [techattic](http://techattic.herokuapp.com/)：一家聚集了许多 IT 技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
 
 ### 2018年6月26号添加
 ---
@@ -69,7 +69,7 @@
 * :white_check_mark: [铜钟聚合音乐](http://tongzhong.xyz)：试图解决你来回切换音乐软件的烦恼 - [更多介绍](https://github.com/enzeberg/tongzhong-music)
 
 #### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
-* :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个APP就可以多个平台的直播，流畅、纯净、无广告
+* :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个 APP 就可以看多个平台的直播，流畅、纯净、无广告
 * :white_check_mark: [看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
 * :white_check_mark: [体测成绩查询(微校应用)](http://weixiao.qq.com/store/details/10978)：全国高校体测成绩查询，只需输入身份证号码就可以查询体测成绩
 
