@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年8月13号添加
+---
+#### fateleak - [GitHub](https://github.com/fateleak)
+* :white_check_mark: [irreader](http://irreader.netqon.com/)：网空RSS阅读器
+
 ### 2018年7月30号添加
 ---
 #### Thomas94
