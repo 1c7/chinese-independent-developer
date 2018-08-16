@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年8月16号添加
+---
+#### emenwin
+* :white_check_mark: [谜语猜](http://miyucai.com)：猜谜语大全 侦探智力谜题[【iOS 版】](https://itunes.apple.com/cn/app/id683944940?mt=8) [【Android 版】](http://a.app.qq.com/o/simple.jsp?pkgname=com.cnspirit.android.miyucai) - [更多介绍](http://miyucai.com/about)
+
+
 ### 2018年8月13号添加
 ---
 #### fateleak - [GitHub](https://github.com/fateleak)
