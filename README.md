@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年8月26号添加
+---
+
+### Perchouli - [Github](https://github.com/perchouli), [博客](http://dmyz.org)
+* :white_check_mark: [Meazhi](http://meazhi.com): PostGis和OSM瓦片服务器制作的中国历史地图
+* :white_check_mark: [中国色](http://zhongguose.com): 《色谱》颜色整理
+
 ### 2018年8月16号添加
 ---
 #### emenwin
