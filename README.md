@@ -18,12 +18,21 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年8月30号添加
+---
+#### 安望云海 - [Github](https://github.com/w3cay), [博客](http://w3cay.com/)
+* :white_check_mark: [时光里程表小程序](http://w3cay.com/post/1be3071d.html)：重要时间记录小程序 - [更多介绍](http://w3cay.com/post/1be3071d.html)
+* :white_check_mark: [群名大全小程序](http://w3cay.com/post/e265e1ee.html)：各种霸气逗逼文艺微信群名聚集地 - [更多介绍](http://w3cay.com/post/e265e1ee.html)
+
+#### fateleak
+* :white_check_mark: [OpenWebMonitor 网空网页监控器](http://openwebmonitor.netqon.com/)： 监控网页内特定区域变化（商品物价优惠、幼儿园报名通知、Steam游戏打折等）含 Email 通知 - [更多介绍](https://github.com/fateleak/openwebmonitor)
+
 ### 2018年8月26号添加
 ---
 
 #### Perchouli - [GitHub](https://github.com/perchouli), [博客](http://dmyz.org)
-* :white_check_mark: [Meazhi](http://meazhi.com): PostGis 和 OSM 瓦片服务器制作的中国历史地图
-* :white_check_mark: [中国色](http://zhongguose.com): 《色谱》颜色整理
+* :white_check_mark: [Meazhi](http://meazhi.com)：PostGis 和 OSM 瓦片服务器制作的中国历史地图
+* :white_check_mark: [中国色](http://zhongguose.com)：《色谱》颜色整理
 
 ### 2018年8月16号添加
 ---
