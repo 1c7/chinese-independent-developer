@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年9月11号添加
+---
+####  feisuzhu - [Github](https://github.com/feisuzhu)
+* :white_check_mark: [东方符斗祭](http://thbattle.net)：Python 写的卡牌游戏，规则基本是三国杀的规则，有修改，人物设定取自东方Project，技能设定大多是自己做的，少量复刻原版三国杀 - [更多介绍](https://github.com/feisuzhu/thbattle)
+
 ### 2018年9月9号添加
 ---
 #### yhlben - [Github](https://github.com/yhlben)
