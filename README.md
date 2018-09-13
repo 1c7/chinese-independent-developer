@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年9月13号添加
+#### itisyang - [GitHub](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
+* :white_check_mark: [playerdemo](https://github.com/itisyang/playerdemo)：一个视频播放器，开源版 potplayer ，用于学习和交流
+
 ### 2018年9月11号添加
 ---
 ####  feisuzhu - [Github](https://github.com/feisuzhu)
@@ -257,9 +261,6 @@
 
 #### FengYQ - [GitHub](https://github.com/FinchFeng?tab=repositories)
 * :white_check_mark: [计划表](https://itunes.apple.com/cn/app/计划单/id1341198801?mt=8)：以简洁高效为目的的计划器 - [更多介绍](https://github.com/FinchFeng/MyPlanList)
-
-#### itisyang - [GitHub](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
-* :clock8: [playerdemo](https://github.com/itisyang/playerdemo)：一个视频播放器，开源版potplayer 
 
 ### 2018年4月3号 & 4号添加
 ---
