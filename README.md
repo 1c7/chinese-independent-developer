@@ -73,12 +73,6 @@
 #### Jack Yip
 * :white_check_mark: [Killcoding](http://killcoding.com/)：无需编程开发 Web 应用程序
 
-### 2018年7月16号添加
----
-
-#### brucefeynman - [Github](https://github.com/brucefeynman),[博客](http://brucediscovery.com/)
-* :white_check_mark: [51% 双花攻击分析](http://www.cryptoattack.io/)：分析不同数字货币被 51% 双花攻击的概率 - [更多介绍](http://www.cryptoattack.io/about)
-
 ### 2018年7月10号添加
 ---
 
