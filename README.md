@@ -18,9 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年9月28号添加
+#### Yaou - [GitHub](https://github.com/Yaou)
+* :white_check_mark: [今日装](https://itunes.apple.com/cn/app/jin-ri-zhuang-yi-chu-guan/id983491903)：面向女性的衣橱管理应用 - [更多介绍](https://ootd.cn)
+
 ### 2018年9月13号 & 14号添加
 
-#### okjaketo - [Github](https://github.com/okjaketo)
+#### okjaketo - [GitHub](https://github.com/okjaketo)
 * :white_check_mark: [行动日](https://itunes.apple.com/cn/app/tododay-reminders-tasks-list/id1409990634?mt=8)：一款以"日"为基础，包含"不办清单"的，助您效率提升的待办事项清单类应用
 
 #### itisyang - [GitHub](https://github.com/itisyang), [博客](https://blog.csdn.net/itisyang)
@@ -28,17 +32,17 @@
 
 ### 2018年9月11号添加
 ---
-####  feisuzhu - [Github](https://github.com/feisuzhu)
+####  feisuzhu - [GitHub](https://github.com/feisuzhu)
 * :white_check_mark: [东方符斗祭](http://thbattle.net)：Python 写的卡牌游戏，规则基本是三国杀的规则，有修改，人物设定取自东方Project，技能设定大多是自己做的，少量复刻原版三国杀 - [更多介绍](https://github.com/feisuzhu/thbattle)
 
 ### 2018年9月9号添加
 ---
-#### yhlben - [Github](https://github.com/yhlben)
+#### yhlben - [GitHub](https://github.com/yhlben)
 * :white_check_mark: [前端导航](https://yhlben.github.io/front-end-navigation/)：一个简洁直观的前端导航 - [更多介绍](https://github.com/yhlben/front-end-navigation)
 
 ### 2018年8月30号添加
 ---
-#### 安望云海 - [Github](https://github.com/w3cay), [博客](http://w3cay.com/)
+#### 安望云海 - [GitHub](https://github.com/w3cay), [博客](http://w3cay.com/)
 * :white_check_mark: [时光里程表小程序](http://w3cay.com/post/1be3071d.html)：重要时间记录小程序 - [更多介绍](http://w3cay.com/post/1be3071d.html)
 * :white_check_mark: [群名大全小程序](http://w3cay.com/post/e265e1ee.html)：各种霸气逗逼文艺微信群名聚集地 - [更多介绍](http://w3cay.com/post/e265e1ee.html)
 
