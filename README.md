@@ -20,15 +20,17 @@
 
 
 ### 2018年10月8号添加
+---
 #### kwf2030 - [Github](https://github.com/kwf2030)
 * :white_check_mark: [HiPrice](https://github.com/kwf2030/hiprice-chatbot)：用微信机器人（个人号）实现的商品涨价/降价提醒服务，支持主流电商平台。快来看看你想要的商品双十一是不是先涨价再降价。
 
 ### 2018年9月28号添加
+---
 #### Yaou - [GitHub](https://github.com/Yaou)
 * :white_check_mark: [今日装](https://itunes.apple.com/cn/app/jin-ri-zhuang-yi-chu-guan/id983491903)：面向女性的衣橱管理应用 - [更多介绍](https://ootd.cn)
 
 ### 2018年9月13号 & 14号添加
-
+---
 #### okjaketo - [GitHub](https://github.com/okjaketo)
 * :white_check_mark: [行动日](https://itunes.apple.com/cn/app/tododay-reminders-tasks-list/id1409990634?mt=8)：一款以"日"为基础，包含"不办清单"的，助您效率提升的待办事项清单类应用
 
