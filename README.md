@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年10月11号添加
+---
+#### itning - [Github](https://github.com/itning), [博客](https://blog.itning.top)
+* :white_check_mark: [云舒课表](https://www.coolapk.com/apk/top.itning.yunshuclassschedule)：遵循Material Design的课程表APP，包含课程提醒，上课自动静音等实用功能 - [更多介绍](https://github.com/itning/YunShuClassSchedule)
 
 ### 2018年10月8号添加
 ---
