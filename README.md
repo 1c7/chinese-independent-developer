@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年10月23号添加
+---
+#### zllz5230 - [GitHub](https://github.com/zllz5230)
+* :white_check_mark: [微信公众号导航](http://wx.dreamthere.com)：推荐优质的微信公众号和文章 - [更多介绍](http://wx.dreamthere.com)
+
 ### 2018年10月11号添加
 ---
 #### itning - [Github](https://github.com/itning), [博客](https://blog.itning.top)
