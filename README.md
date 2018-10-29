@@ -211,8 +211,8 @@
 ### 2018年5月13号添加
 ---
 
-#### che3vinci - [GitHub](https://github.com/che3vinci)
-* :white_check_mark: [somedraw](https://www.somedraw.com)：带给你像使用笔和纸一样的思维整理体验
+#### che3vinci - [Github](https://github.com/che3vinci)
+* :white_check_mark: [bullmind](https://www.bullmind.com)：像使用笔和纸一样的整理思维
 
 #### AlvinZhu - [GitHub](https://github.com/gbammc), [博客](http://alvinzhu.me/)
 * :white_check_mark: [Thor](https://github.com/gbammc/Thor)：快速打开或切换 Mac 应用
