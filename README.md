@@ -21,7 +21,7 @@
 ### 2018年12月5号添加
 ---
 #### HeiKki(Beijing) - [Github](https://github.com/SherlockQi)
-* :white_check_mark: [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8)：iOS线上项目 AR相册(开源) - [更多介绍](https://github.com/SherlockQi/HeavenMemoirs)
+* :white_check_mark: [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8)：AR 相册 (iOS 开源 App) - [更多介绍](https://github.com/SherlockQi/HeavenMemoirs)
 
 #### Mervyn Chou(Wuhan) - [Github](https://github.com/zoumorn)
 * :white_check_mark: [永恒之墙](https://eternitywall.cn)：在一堵永恒之墙（比特币主链）上的永恒留言 - [更多介绍](https://eternitywall.cn)
