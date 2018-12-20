@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年12月20号添加
+---
+#### Minsc (北京) - [Github](https://github.com/circleapps/sourceplayer)
+* :white_check_mark: [Source Player](https://circleapps.co)：为英语学习者设计的视频播放器 - [更多介绍](https://www.zhihu.com/question/21430286/answer/540663876)
+
 ### 2018年12月5号添加
 ---
 #### HeiKki(Beijing) - [Github](https://github.com/SherlockQi)
