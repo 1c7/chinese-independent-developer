@@ -18,8 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2018年12月20号添加
+
+### 2018年12月20号 & 21号添加
 ---
+#### Alex Cui(上海) - [Github](https://github.com/AlexJason/Zilch-Editor), [博客](https://alexcui.blog.luogu.org/)
+* :clock8: [Zilch Editor](https://github.com/AlexJason/Zilch-Editor)：使用C++开发的Scratch编辑器(少儿编程工具) - [更多介绍](https://alexcui.blog.luogu.org/why-to-develop-ze)
+
 #### Minsc (北京) - [Github](https://github.com/circleapps/sourceplayer)
 * :white_check_mark: [Source Player](https://circleapps.co)：为英语学习者设计的视频播放器 - [更多介绍](https://www.zhihu.com/question/21430286/answer/540663876)
 
