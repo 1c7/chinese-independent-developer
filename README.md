@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2018年12月25号添加
+---
+#### WangYuLue(Shanghai) - [Github](https://github.com/WangYuLue/image-conversion)
+* :white_check_mark: [image-conversion](http://www.wangyulue.com/assets/image-comversion/example/index.html)：在线图片压缩，可指定图片大小压缩图片 - [更多介绍](http://www.wangyulue.com/2018/12/20/JS%E4%B8%AD%E9%80%9A%E8%BF%87%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F%E6%9D%A5%E5%8E%8B%E7%BC%A9%E5%9B%BE%E7%89%87/#more)
+
 
 ### 2018年12月20号 & 21号添加
 ---
