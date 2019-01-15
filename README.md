@@ -21,7 +21,7 @@
 ### 2019年1月14号添加
 ---
 #### Cat.1&hileix(HuZhou University&上海) - [Github](https://github.com/import-yuefeng)
-* :white_check_mark: [Super-inspire](https://github.com/super-inspire/super-inspire-end)：在不到30s内得到一个干净的开箱即用的临时linux系统. - [更多介绍](https://github.com/super-inspire/super-inspire-end)
+* :white_check_mark: [Super-inspire](https://github.com/super-inspire/super-inspire-end)：在不到30秒内得到一个干净的开箱即用的临时Linux系统 - [更多介绍](https://github.com/super-inspire/super-inspire-end)
 
 <!--
 ### 2018年12月28号添加
