@@ -300,9 +300,6 @@
 #### qknow - [GitHub](https://github.com/503945930)
 * :white_check_mark: [NEO全资产区块浏览器](https://state.otcgo.cn)：NEO全资产区块浏览器 - [更多介绍](https://github.com/OTCGO/state-browser)
 
-#### metrue - [GitHub](https://github.com/metrue)
-* :white_check_mark: [小对话](https://asmalltalk.com)：重拾邮件交友的乐趣，每天帮你在 Github 社区 和 V2EX 社区发掘可能感兴趣的朋友 - [更多介绍](https://wanqu.io/t/topic/8303)
-
 ### 2018年4月18号添加
 ---
 #### qskane - [GitHub](https://github.com/qskane)
