@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年1月17号添加
+---
+#### Hawstein(北京) - [Github](https://github.com/hawstein), [博客](http://www.hawstein.com/)
+* :white_check_mark: [AlgoCasts](https://algocasts.io)：简明、轻松、易懂的算法教学视频 - [更多介绍](http://www.hawstein.com/posts/algocasts-intro.html)
+
 ### 2019年1月14号添加
 ---
 #### Cat.1&hileix(HuZhou University&上海) - [Github](https://github.com/import-yuefeng)
