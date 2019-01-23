@@ -241,7 +241,8 @@ If you are unsure whether your project meets this list's criteria, please contac
 * :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
 
 #### mw2c - [GitHub](https://github.com/mw2c)
-* :white_check_mark: [吉他谱搜索](http://gtpso.com/)：一个分享、搜索和播放吉他谱的 App 和网站
+* :white_check_mark: [Guitar Tabs Search](http://gtpso.com/)：An App and website to share, search and play guitar tabs.
+* :white_check_mark: [Tab PlayAlong](https://playalong.gtpso.com/)：An iOS App that allows you to connect your guitar to your iOS devices and play along with guitar tabs using amplifier and effects
 
 #### 小贝 - [GitHub](https://github.com/easyhappy/)
 * :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南

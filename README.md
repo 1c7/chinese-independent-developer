@@ -657,7 +657,8 @@
 * :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
 
 #### mw2c - [GitHub](https://github.com/mw2c)
-* :white_check_mark: [吉他谱搜索](http://gtpso.com/)：一个分享、搜索和播放吉他谱的 App 和网站
+* :white_check_mark: [吉他谱搜索](https://gtpso.com/)：一个分享、搜索和播放吉他谱的 App 和网站
+* :white_check_mark: [Tab PlayAlong](https://playalong.gtpso.com/)：可以让你连接电吉他到手机，并使用效果器跟随吉他谱练习、演奏和录音的 iOS 应用
 
 #### 小贝 - [GitHub](https://github.com/easyhappy/)
 * :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南
