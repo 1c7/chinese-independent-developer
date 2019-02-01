@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年2月2号添加
+---
+#### o1xhack(Seattle&上海) - [Github](https://github.com/o1xhack), [博客](http://www.o1xhack.com)
+* :white_check_mark: [iOS app: Info It](https://itunes.apple.com/cn/app/info-it-%E9%80%9A%E8%BF%87%E5%88%86%E4%BA%AB%E5%BF%AB%E9%80%9F%E6%90%9C%E7%B4%A2%E7%94%B5%E5%BD%B1-%E4%B9%A6%E7%B1%8D%E4%BF%A1%E6%81%AF/id1178446966?l=en&mt=8)：利用 iOS 分享插件在任意地方快速搜索电影/图书相关信息 - [更多介绍](http://o1xhack.com/2018/03/10/infoit2/)
+* :white_check_mark: [iOS app: Coffee It](https://itunes.apple.com/cn/app/coffee-it-record-caffeine/id1216049514?l=en&mt=8)：记录追踪每日咖啡因摄入量，内置数据库 - [更多介绍](https://www.lifeanalysislab.com/#coffee-it)
+
 ### 2019年1月17号添加
 ---
 #### Hawstein(北京) - [Github](https://github.com/hawstein), [博客](http://www.hawstein.com/)
