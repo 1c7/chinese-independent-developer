@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年2月23号添加
+---
+#### Nine(深圳) - [Github](https://github.com/isnine), [博客](https://www.wxz.name)
+* :white_check_mark: [EASY](https://itunes.apple.com/cn/app/id1390326774)：基于机器学习智能整理手机照片
+* :white_check_mark: [校园助手 - 属于你我的校园助手](https://itunes.apple.com/cn/app/id1164848835)：校园课程查询软件 - [更多介绍](https://github.com/isnine/HutHelper-Open)
 ### 2019年2月2号添加
 ---
 #### o1xhack(Seattle&上海) - [Github](https://github.com/o1xhack), [博客](http://www.o1xhack.com)
@@ -954,3 +959,5 @@
 #### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
+
+
