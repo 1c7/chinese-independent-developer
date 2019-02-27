@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年2月27号添加
+---
+#### Yang(广州)
+* :white_check_mark: [XorPay.com 个人支付平台](https://xorpay.com)：个人可用的微信支付接口，支持 NATIVE/JSAPI/收银台/小程序等支付方式，资金由微信官方T+1结算自动下发个人银行卡
+
 ### 2019年2月23号添加
 ---
 #### Nine(深圳) - [Github](https://github.com/isnine), [博客](https://www.wxz.name)
