@@ -20,7 +20,7 @@
 
 ### 2019年3月4号添加
 ---
-#### Steve-xmh(深圳) - [Github](https://www.github/Steve-xmh/)
+#### Steve-xmh(深圳) - [Github](https://www.github.com/Steve-xmh/)
 * :clock8: [SteveScratchC](https://www.github.com/Steve-xmh/SteveScratchC) - 用C语言编写的Scratch编辑器 [更多介绍](https://Steve-xmh.github.io/SSCDoc)
 
 ### 2019年2月28号添加
