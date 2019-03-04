@@ -20,6 +20,9 @@
 
 ### 2019年3月4号添加
 ---
+#### Steve-xmh(深圳) - [Github](https://www.github.com/Steve-xmh/)
+* :clock8: [SteveScratchC](https://www.github.com/Steve-xmh/SteveScratchC) - 用C语言编写的Scratch编辑器 [更多介绍](https://Steve-xmh.github.io/SSCDoc)
+
 #### Eureka Chen - [GitHub](https://github.com/EurekaChen), [个人网站](https://eureka.name)
 * :white_check_mark: [易易时间钟](http://www.9192631770.com/)：集传统节气、星座、天干地支计时为一体的是间钟
 * :white_check_mark: [彩色易经](https://eeeeee.org/e)：群经之首，大道之源
