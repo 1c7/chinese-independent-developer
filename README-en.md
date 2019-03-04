@@ -28,7 +28,7 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
-### Mar 4， 2019
+### Mar 4, 2019
 ---
 #### Eureka Chen - [GitHub](https://github.com/EurekaChen), [Web](https://eureka.name) [Blog](https://eeblog.net) 
 * :white_check_mark: [Eureka Clock](http://www.9192631770.com/)：Eureka Clock.
