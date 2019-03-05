@@ -30,7 +30,7 @@ If you are unsure whether your project meets this list's criteria, please contac
 
 ### March 5, 2019
 ---
-#### z-song - [Github](https://github.com/z-song)
+#### z-song(Shanghai) - [Github](https://github.com/z-song)
 * :white_check_mark: [implode.io](https://implode.io/) - A website that runs, records, and shares PHP code online
 
 ### Feb 28, 2019

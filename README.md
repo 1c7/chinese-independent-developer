@@ -20,8 +20,8 @@
 
 ### 2019年3月5号添加
 ---
-#### z-song - [Github](https://github.com/z-song)
-* :white_check_mark: [implode.io](https://implode.io/) - 用C语言编写的Scratch编辑器
+#### z-song(上海) - [Github](https://github.com/z-song)
+* :white_check_mark: [implode.io](https://implode.io/) - 一个在线运行、记录、分享PHP代码的网站
 
 ### 2019年3月4号添加
 ---
