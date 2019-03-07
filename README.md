@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年3月7号添加
+---
+#### CS-Tao(武汉) - [Github](https://github.com/CS-Tao), [博客](https://home.cs-tao.cc/blog)
+* :white_check_mark: [图书馆座位自动预约软件](https://github.com/CS-Tao/whu-library-seat)：定时预约图书馆座位 - [更多介绍](https://home.cs-tao.cc/whu-library-seat/)
+
 ### 2019年3月5号添加
 ---
 #### z-song(上海) - [Github](https://github.com/z-song)
