@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年3月23号添加
+---
+#### brenner - [Github](https://github.com/brenner8023)
+* :white_check_mark: [工大导航](https://brenner8023.github.io)：一个帮助大家拓展知识面的导航站点 - [更多介绍](https://github.com/brenner8023/gdutnav)
+
 ### 2019年3月7号添加
 ---
 #### CS-Tao(武汉) - [Github](https://github.com/CS-Tao), [博客](https://home.cs-tao.cc/blog)
