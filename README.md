@@ -988,7 +988,6 @@
 
 [中文]    
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
