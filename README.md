@@ -21,6 +21,12 @@
 
 ### 2019年3月25号添加
 ---
+#### Steven_Zhang - [微博](https://weibo.com/zjwen1006)
+* :white_check_mark: [诗雨](https://itunes.apple.com/cn/app/id1193114042)：有声有色有韵味的天气 - [更多介绍](https://www.jianshu.com/p/591dfd4de360)
+* :white_check_mark: [日课](https://itunes.apple.com/cn/app/id984957369)：给每一位好读诗的人
+* :white_check_mark: [墨客·诗](https://itunes.apple.com/cn/app/id992382043)：传承中国传统文化 - [更多介绍](https://www.jianshu.com/p/ba31d0dfbb2c)
+* :white_check_mark: [百变时钟](https://itunes.apple.com/cn/app/id1434282577)：选一款您中意的时钟 - [更多介绍](https://www.jianshu.com/p/1f1c3d8e63ef)
+
 #### timqian - [Github](https://github.com/timqian), [博客](https://t9t.io)
 - :white_check_mark: [tomato-pie](https://chrome.google.com/webstore/detail/tomato-pie/gffgechdocgfajkbpinmjjjlkjfjampi)：番茄工作法的一种新的 UI 尝试 - [更多介绍](https://github.com/t9tio/tomato-pie)
 
