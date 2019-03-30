@@ -122,7 +122,7 @@
 ### 2018年11月4号添加
 ---
 #### kezhenxu94 - [GitHub](https://github.com/kezhenxu94)
-* :white_check_mark: [Mini GitHub](https://user-images.githubusercontent.com/15965696/47959988-d2864d80-e02c-11e8-8c39-dac879bad3d6.jpg)：一个全功能的 GitHub 小程序，代码整理中，准备开源。
+* :white_check_mark: [Mini GitHub](https://user-images.githubusercontent.com/15965696/47959988-d2864d80-e02c-11e8-8c39-dac879bad3d6.jpg)：一个全功能的 GitHub 小程序 - [更多介绍](https://github.com/kezhenxu94/mini-github)
 
 ### 2018年10月23号添加
 ---
