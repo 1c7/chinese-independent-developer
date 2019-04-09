@@ -18,8 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2019年4月29号添加
+### 2019年4月9号添加
 ---
+#### cuiliang(BeiJing) - [Github](https://github.com/cuiliang)
+* :white_check_mark: [Quicker](https://getquicker.net)：Windows 上的捷径 - [更多介绍](https://sspai.com/post/47776)
+
 #### biqinglin(Shanghai) - [GitHub](https://github.com/biqinglin)
 * :white_check_mark: [份子记账](https://itunes.apple.com/cn/app/id1244522074?mt=8)：专属于中国人的份子钱情结 - [更多介绍](https://sspai.com/post/53916)
 
