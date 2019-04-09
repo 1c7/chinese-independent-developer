@@ -20,6 +20,9 @@
 
 ### 2019年4月9号添加
 ---
+#### DerekCoder - [GitHub](https://github.com/derekcoder)
+* :white_check_mark: [Grape for GitHub](https://itunes.apple.com/app/apple-store/id1371929193?mt=8)：简洁且功能强大的 GitHub 客户端 - [更多介绍](https://sspai.com/post/52291)
+
 #### cuiliang(BeiJing) - [Github](https://github.com/cuiliang)
 * :white_check_mark: [Quicker](https://getquicker.net)：Windows 上的捷径 - [更多介绍](https://sspai.com/post/47776)
 
