@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月10号添加
+---
+#### 宝贝成长助理
+* :white_check_mark: [小程序](https://refined-x.com/asset/baby_assistant.png)：引用世界卫生组织儿童生长标准数据，辅助衡量宝宝的成长健康状态 - [更多介绍](https://mp.weixin.qq.com/s/CVQWLJ5Wn9gcAP4NCEhNqw)
+
 ### 2019年4月9号添加
 ---
 #### DerekCoder - [GitHub](https://github.com/derekcoder)
