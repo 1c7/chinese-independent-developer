@@ -23,6 +23,9 @@
 #### Bakumon - [Github](https://github.com/Bakumon)
 * :white_check_mark: [那样记账](https://www.coolapk.com/apk/188475)：一款简单纯粹的 Android 端记账应用，旨在以简单的方式让用户慢慢建立起良好的消费习惯。 - [更多介绍](https://wallet.bakumon.me/)
 
+#### Marno - [Github](https://github.com/MarnoDev), [博客](https://juejin.im/user/56c1c513c24aa800534e85f3)
+* :white_check_mark: [Readhub+](https://www.coolapk.com/apk/217734)：可能是目前为止最好用的第三方 Readhub 客户端 - [更多介绍](https://mp.weixin.qq.com/s/-txu4H7KmCpP14t-WI8yLQ)
+
 #### tower1229 - [Github](https://github.com/tower1229)
 * :white_check_mark: [宝贝成长助理小程序](https://refined-x.com/asset/baby_assistant.png)：引用世界卫生组织儿童生长标准数据，辅助衡量宝宝的成长健康状态 - [更多介绍](https://mp.weixin.qq.com/s/CVQWLJ5Wn9gcAP4NCEhNqw)
 
