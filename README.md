@@ -54,12 +54,12 @@
 ### 2019年3月5号添加
 ---
 #### z-song(上海) - [Github](https://github.com/z-song)
-* :white_check_mark: [implode.io](https://implode.io/) - 一个在线运行、记录、分享PHP代码的网站
+* :white_check_mark: [implode.io](https://implode.io/)： 一个在线运行、记录、分享PHP代码的网站
 
 ### 2019年3月4号添加
 ---
 #### Steve-xmh(深圳) - [Github](https://www.github.com/Steve-xmh/)
-* :clock8: [SteveScratchC](https://www.github.com/Steve-xmh/SteveScratchC) - 用C语言编写的Scratch编辑器 [更多介绍](https://Steve-xmh.github.io/SSCDoc)
+* :clock8: [SteveScratchC](https://www.github.com/Steve-xmh/SteveScratchC)： 用C语言编写的Scratch编辑器 [更多介绍](https://Steve-xmh.github.io/SSCDoc)
 
 #### Eureka Chen - [GitHub](https://github.com/EurekaChen), [个人网站](https://eureka.name)
 * :white_check_mark: [易易时间钟](http://www.9192631770.com/)：集传统节气、星座、天干地支计时为一体的是间钟
