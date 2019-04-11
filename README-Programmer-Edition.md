@@ -27,3 +27,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ---
 #### 袁慠棱(南京) - [Github](https://github.com/alengYuan), [博客](http://slothindie.org/)
 * :white_check_mark: [LemonTea](http://lemontea.slothindie.org/)：极简且特别的静态网站生成器 - [更多介绍](http://lemontea.slothindie.org/book/index.html)
+
+### 2018年3月18号添加
+---
+#### Wang Shidong - [Github](https://github.com/wsdjeg)
+* :white_check_mark: [SpaceVim](https://spacevim.org/)：一个模块化、支持多种编程语言的 Vim 开发环境 - [更多介绍](https://github.com/SpaceVim/SpaceVim)
