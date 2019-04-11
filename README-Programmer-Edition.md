@@ -12,23 +12,19 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 没法加到主版面里去，不是因为不好，只是因为类型不合。
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
-本列表开始于2019年4月11号（更早的是把之前的翻出来加上）
+本列表开始于2019年4月11号
 
 ### 2019年4月11号添加
 ---
+#### Wang Shidong - [Github](https://github.com/wsdjeg)
+* :white_check_mark: [SpaceVim](https://spacevim.org/)：一个模块化、支持多种编程语言的 Vim 开发环境 - [更多介绍](https://github.com/SpaceVim/SpaceVim)
+
 #### Aquanlerou - [Github](https://github.com/aquanlerou), [博客](https://blog.eunji.cn)
 * :white_check_mark: [WeHalo](https://github.com/aquanlerou/WeHalo)：WeHalo 简约风 的微信小程序版博客 :sparkles:
 
 #### Qeesung - [Github](https://github.com/qeesung), [微博](https://www.weibo.com/qeesuny)
-* :white_check_mark: [Image2ASCII](https://github.com/qeesung/image2ascii.git) : 图片转化为ASCII码的命令行工具
-* :white_check_mark: [ASCIIPlayer](https://github.com/qeesung/asciiplayer) : 图片，GIF，视屏ASCII转化播放命令行工具
+* :white_check_mark: [Image2ASCII](https://github.com/qeesung/image2ascii.git) : 图片转化为 ASCII 码的命令行工具
+* :white_check_mark: [ASCIIPlayer](https://github.com/qeesung/asciiplayer) : 图片，GIF，视屏 ASCII 转化播放命令行工具
 
-### 2019年4月9号添加
----
 #### 袁慠棱(南京) - [Github](https://github.com/alengYuan), [博客](http://slothindie.org/)
 * :white_check_mark: [LemonTea](http://lemontea.slothindie.org/)：极简且特别的静态网站生成器 - [更多介绍](http://lemontea.slothindie.org/book/index.html)
-
-### 2018年3月18号添加
----
-#### Wang Shidong - [Github](https://github.com/wsdjeg)
-* :white_check_mark: [SpaceVim](https://spacevim.org/)：一个模块化、支持多种编程语言的 Vim 开发环境 - [更多介绍](https://github.com/SpaceVim/SpaceVim)
