@@ -986,7 +986,7 @@
 
 #### wichna
 * :white_check_mark: [Paybase](https://paybase.cn)：一个专注于支付领域的垂直论坛 - [更多介绍](https://paybase.cn/d/35-paybase)
-* :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
+* :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://sspai.com/post/42272)
 
 #### 猫叔 - [GitHub](https://github.com/imeoer), [博客](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
