@@ -1,6 +1,8 @@
 ## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目                  
 
+#### [程序员版点这里](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md)：
+程序员版的项目需要用命令行或写一点代码。主版面(这里)是给普通用户用的，打开即用，无需命令行或编程基础
 #### [English Version](https://github.com/1c7/chinese-independent-developer/blob/master/README-en.md)
 
 **1. 为什么有这个表**    
