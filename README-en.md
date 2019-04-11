@@ -28,6 +28,11 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
+### Apr 11, 2019
+---
+#### Aquanlerou - [Github](https://github.com/aquanlerou), [Blog](https://blog.eunji.cn)
+* :white_check_mark: [WeHalo](https://github.com/aquanlerou/WeHalo) -WeHalo contracted wind WeChat applet version of the blog :sparkles: - [more](https://github.com/aquanlerou/WeHalo)
+
 ### March 5, 2019
 ---
 #### z-song(Shanghai) - [Github](https://github.com/z-song)

@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月11号添加
+---
+#### Aquanlerou - [Github](https://github.com/aquanlerou), [博客](https://blog.eunji.cn)
+* :white_check_mark: [WeHalo](https://github.com/aquanlerou/WeHalo)：WeHalo 简约风 的微信小程序版博客:sparkles: - [更多介绍](https://github.com/aquanlerou/WeHalo)
+
+
+
 ### 2019年4月10号添加
 ---
 #### Bakumon - [Github](https://github.com/Bakumon)
