@@ -20,14 +20,17 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月12号添加
+---
+#### zhaoolee - [Github](https://github.com/zhaoolee)
+* :white_check_mark: [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)： 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
+#### nwsuafzq - [Github](https://github.com/nwsuafzq)
+* :white_check_mark: [小度涂鸦](https://www.coolapk.com/apk/188947)：一款安卓版的涂鸦软件 - [更多介绍](https://github.com/nwsuafzq/duya_doodle)
 
 ### 2019年4月11号添加
 ---
 
-#### zhaoolee - [Github](https://github.com/zhaoolee)
-
-* :white_check_mark: [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)： 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 
 #### waningflow - [Github](https://github.com/waningflow)
 * :white_check_mark: [I Remember!](https://itunes.apple.com/cn/app/id1449941592)：一个纪念日应用，让你轻松回答“XX恋爱520天是几月几号”此类问题
