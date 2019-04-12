@@ -97,7 +97,7 @@
 #### Eureka Chen - [GitHub](https://github.com/EurekaChen), [个人网站](https://eureka.name)
 * :white_check_mark: [易易时间钟](http://www.9192631770.com/)：集传统节气、星座、天干地支计时为一体的是间钟
 * :white_check_mark: [彩色易经](https://eeeeee.org/e)：群经之首，大道之源
-* :white_check_mark: [易易网址](https://eeurl.com)：既能象短网址一样简化您的网址，也能象pastebin一样记载您的文本，并且可自定义短网址文本。
+* :white_check_mark: [易易网址](https://eeurl.com)：既能像短网址一样简化您的网址，也能像pastebin一样记载您的文本，并且可自定义短网址文本。
 
 ### 2019年2月28号添加
 ---
