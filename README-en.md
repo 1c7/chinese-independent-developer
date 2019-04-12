@@ -28,6 +28,11 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
+### April 12, 2019
+---
+#### zhaoolee - [Github](https://github.com/zhaoolee)
+* :white_check_mark: [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+
 ### March 5, 2019
 ---
 #### z-song(Shanghai) - [Github](https://github.com/z-song)
