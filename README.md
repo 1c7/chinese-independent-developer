@@ -23,7 +23,7 @@
 ### 2019年4月12号添加
 ---
 #### zhaoolee - [Github](https://github.com/zhaoolee)
-* :white_check_mark: [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)： 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+* :white_check_mark: [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)： 🌈 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类~
 
 #### nwsuafzq - [Github](https://github.com/nwsuafzq)
 * :white_check_mark: [小度涂鸦](https://www.coolapk.com/apk/188947)：一款安卓版的涂鸦软件 - [更多介绍](https://github.com/nwsuafzq/duya_doodle)
