@@ -26,6 +26,10 @@
 #### pianoguy(法國·南特) - [Github](https://github.com/jingkecn), [博客](https://zhuanlan.zhihu.com/pianoguy)
 * :white_check_mark: [Interactive Math Pad](https://github.com/jingkecn/interactive-math-pad-android/releases)：數學公式手寫板（Android，支持導出 LaTex & Math ML，PS：復刻下架應用 MyScript MathPad） - [更多介绍](https://zhuanlan.zhihu.com/p/60476337)
 
+#### giscafer - [GitHub](https://github.com/giscafer)
+
+* :white_check_mark: [前端小助手](https://user-images.githubusercontent.com/8676711/51597092-633a3e80-1f35-11e9-9042-adde594b52c7.jpg) ：微信小程序，聚合早报、周刊等学习资源
+
 ### 2019年4月12号添加
 ---
 #### wonderbeyond - [GitHub](https://github.com/wonderbeyond)
