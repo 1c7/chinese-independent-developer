@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年4月15号添加
+---
+#### yutiansut - [Github](https://github.com/yutiansut)
+* :white_check_mark: [QUANTAXIS](https://github.com/quantaxis/quantaxis)：一个股票/期货/多市场的闭环解决方案
+
 ### 2019年4月12号添加
 ---
 #### star7th(深圳) - [Github](https://github.com/star7th)
