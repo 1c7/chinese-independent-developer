@@ -19,8 +19,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### yutiansut - [Github](https://github.com/yutiansut)
 * :white_check_mark: [QUANTAXIS](https://github.com/quantaxis/quantaxis)：一个股票/期货/多市场的闭环解决方案
 
-#### Hans Zhang - [Github](https://github.com/zhanghuanchong)
-* :white_check_mark: [图标工场](https://icon.wuruihong.com)：移动应用图标生成工具，一键生成所有尺寸的应用图标 - [更多介绍](https://github.com/zhanghuanchong/icon-workshop)
+#### 图标工场 - [Github](https://github.com/zhanghuanchong)
+* :white_check_mark: [icon-workshop](https://github.com/zhanghuanchong/icon-workshop)：移动应用图标生成工具，一键生成所有尺寸的应用图标
 
 ### 2019年4月12号添加
 ---
