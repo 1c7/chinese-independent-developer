@@ -20,6 +20,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年4月16号添加
+---
+#### iizvv - [Github](https://github.com/iizvv)
+* :white_check_mark: [爱美剧Mac客户端](https://github.com/imeiju/iMeiJu_Mac)：爱美剧Mac客户端
+
+
 ### 2019年4月15号添加
 ---
 #### yuzexia(上海) - [Github](https://github.com/yuzexia)
