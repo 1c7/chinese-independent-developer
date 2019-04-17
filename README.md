@@ -21,6 +21,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2019年4月17号添加
+---
+#### whbalzac - [Github](https://github.com/whbalzac)
+* :white_check_mark: [思诗 - 诗歌壁纸桌面](https://itunes.apple.com/cn/app/id1416483550)：Mac端、诗歌壁纸
+
 ### 2019年4月16号添加
 ---
 #### iizvv - [Github](https://github.com/iizvv)
