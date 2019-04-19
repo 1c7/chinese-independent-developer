@@ -20,6 +20,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月20号添加
+---
+#### xiaohulu - [GitHub](https://github.com/blocklang)
+* :clock8: [块语言](https://blocklang.com)：软件拼装平台
 
 ### 2019年4月19号添加
 ---
@@ -525,9 +529,6 @@
 
 #### cg200776
 * :white_check_mark: [小黄条](http://www.6fcsj.com)：能嵌入 Windows 桌面的跨平台 Todolist，手机、PC 双向同步
-
-#### xiaohulu - [GitHub](https://github.com/bianruanjian)
-* :clock8: [编软件](https://bianruanjian.com)：软件组装平台，实现人人皆能编软件
 
 #### 12points - [GitHub](https://github.com/yelluo/12points), [博客](http://yalluo.duapp.com/)
 * :white_check_mark: [6/12/24点计算](https://github.com/yelluo/12points)：少儿益智练习，三个数得到6或12，或4个数得到24，可选题目难度
