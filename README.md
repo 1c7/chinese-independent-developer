@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月22号添加
+---
+#### zhuowenli - [Github](https://github.com/zhuowenli)
+* :white_check_mark: [Githuber](https://chrome.google.com/webstore/detail/githuber-%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/janmcneaglgklfljjcpihkkomeghljnf)：帮助 GitHub 开发者每日发现优质内容的 Chrome 主页拓展 - [更多介绍](https://github.com/zhuowenli/githuber)
+
 ### 2019年4月20号添加
 ---
 #### xiaohulu - [GitHub](https://github.com/blocklang)
