@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月26号添加
+---
+#### a188037445 - [Github](https://github.com/a188037445)
+* :white_check_mark: [Hash Calculator](https://github.com/a188037445/Hash-Calculator)：极速哈希计算器
+
 ### 2019年4月22号添加
 ---
 #### zhuowenli - [Github](https://github.com/zhuowenli)
