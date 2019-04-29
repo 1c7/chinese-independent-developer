@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年4月29号添加
+---
+#### YuzhouZhang(杭州) - [Github](https://github.com/YuzhouZhang)
+* :white_check_mark: [闪电词典](https://play.google.com/store/apps/details?id=com.wingtech.quicklearnersdictionary)：取词最快的英英词典！
+
 ### 2019年4月28号添加
 ---
 #### wanglian - [Github](https://github.com/wanglian)
