@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年5月1号添加
+---
+#### timqian - [Github](https://github.com/timqian), [博客](https://t9t.io)
+- :white_check_mark: [open source jobs](https://oo.t9t.io/jobs)：为开源项目工作并获得报酬 - [更多介绍](https://github.com/t9tio/open-source-jobs)
+
 ### 2019年4月29号添加
 ---
 #### YuzhouZhang(杭州) - [Github](https://github.com/YuzhouZhang)
