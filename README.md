@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年5月21号添加
+---
+#### Little Panda - [Github](https://github.com/thelittlepandaisbehind)
+* :white_check_mark: [Project Eye](https://github.com/Planshit/ProjectEye/releases)：基于20-20-20规则的用眼休息提醒Windows软件 - [更多介绍](https://github.com/Planshit/ProjectEye)
+
 ### 2019年5月13号添加
 ---
 #### Fly Lewis(广州)
