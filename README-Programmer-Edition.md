@@ -14,6 +14,34 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年5月21号添加
+---
+#### CloudOpenDevOps- [Github](https://github.com/opendevops-cn/opendevops)
+- :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
+
+### 2019年4月20号添加
+---
+#### xiaohulu - [GitHub](https://github.com/blocklang)
+* :white_check_mark: [BlockLang-Installer](https://github.com/blocklang/blocklang-installer)：一款自动化部署工具，专用于部署 Spring boot 项目
+
+### 2019年4月19号添加
+---
+#### xianfeng92 - [Github](https://github.com/xianfeng92)
+* :white_check_mark: [Love-Ethereum](https://github.com/xianfeng92/Love-Ethereum)：一个关于区块链技术的学习项目 - [更多介绍](https://github.com/xianfeng92/Love-Ethereum/blob/master/version/Frontier.md)
+
+### 2019年4月15号添加
+---
+#### yutiansut - [Github](https://github.com/yutiansut)
+* :white_check_mark: [QUANTAXIS](https://github.com/quantaxis/quantaxis)：一个股票/期货/多市场的闭环解决方案
+
+#### zhanghuanchong - [Github](https://github.com/zhanghuanchong)
+* :white_check_mark: [icon-workshop](https://github.com/zhanghuanchong/icon-workshop)：移动应用图标生成工具，一键生成所有尺寸的应用图标
+
+### 2019年4月12号添加
+---
+#### star7th(深圳) - [Github](https://github.com/star7th)
+* :white_check_mark: [ShowDoc](https://www.showdoc.cc/)：一个非常适合IT团队的在线API文档、技术文档工具 - [更多介绍](https://github.com/star7th/showdoc)
+
 ### 2019年4月11号添加
 ---
 #### Wang Shidong - [Github](https://github.com/wsdjeg)
