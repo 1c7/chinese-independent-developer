@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年5月21号添加
+---
+#### CloudOpenDevOps- [Github](https://github.com/opendevops-cn/opendevops)
+- :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
+
 ### 2019年4月20号添加
 ---
 #### xiaohulu - [GitHub](https://github.com/blocklang)
