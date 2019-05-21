@@ -15,6 +15,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 本列表开始于2019年4月11号
 
 ### 2019年5月21号添加
+
+---
+
+#### ChineseBQB - [Github](https://github.com/zhaoolee/ChineseBQB)
+- :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 这是一个专门用于收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
+
+
 ---
 #### CloudOpenDevOps- [Github](https://github.com/opendevops-cn/opendevops)
 - :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
