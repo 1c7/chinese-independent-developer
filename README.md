@@ -22,6 +22,11 @@
 
 ### 2019年5月21号添加
 ---
+#### mezw
+* :white_check_mark: [mezw搜索](https://so.mezw.com)：聚合搜索引擎网站
+* :white_check_mark: [emoji短网址](https://e.mezw.com)：将网址变成一串带emoji表情的链接
+* :white_check_mark: [PS投影转换为CSS3工具](https://psd2css.mezw.com)：设计师可利用它快速提供实现PS图层投影效果的CSS3代码
+
 #### Little Panda - [Github](https://github.com/thelittlepandaisbehind)
 * :white_check_mark: [Project Eye](https://github.com/Planshit/ProjectEye/releases)：基于20-20-20规则的用眼休息提醒Windows软件 - [更多介绍](https://github.com/Planshit/ProjectEye)
 
