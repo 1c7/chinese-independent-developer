@@ -20,6 +20,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年5月28号添加
+---
+#### LvDunn(Beijing) - [Github](https://github.com/LvDunn)
+* :white_check_mark: [WeChatAssistant](https://github.com/LvDunn/WeChatAssistant)：微信关键词回复、多群群发的软件
+
+#### Chrissen(Shanghai) - [Github](https://github.com/chrissen0814)
+* :white_check_mark: [卡片夹](https://www.coolapk.com/apk/204800)：整理你的碎片信息 - [更多介绍](https://blog.csdn.net/ChrisSen/article/details/82966008)
+
 ### 2019年5月23号添加
 ---
 #### yhlben(成都) - [Github](https://github.com/yhlben)
