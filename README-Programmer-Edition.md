@@ -20,7 +20,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### ICKelin(深圳) - [Github](https://github.com/ICKelin)
 * :white_check_mark: [Notr](http://www.notr.tech)：独立开发的内网穿透服务
 
-#### Akkariin - [Github](https://github.com/kasuganosoras)，[博客](https://blog.natfrp.org/)
+#### Akkariin - [Github](https://github.com/kasuganosoras), [博客](https://blog.natfrp.org/)
 - :white_check_mark: [Cloudflare Workers Blog](https://blog.natfrp.org/)：利用 Cloudflare workers 边缘计算服务和 Github Pages 实现的无服务器博客系统 - [更多介绍](https://github.com/kasuganosoras/cloudflare-worker-blog)
 - :white_check_mark: [Sakura Frp](https://www.natfrp.org/)：基于 Frp 的免费内网穿透平台
 - :white_check_mark: [Pigeon](https://github.com/kasuganosoras/Pigeon)：一个轻量化的留言板 / 记事本 / 社交系统 / 博客
@@ -31,7 +31,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 - :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 这是一个专门用于收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
 
 ---
-#### CloudOpenDevOps- [Github](https://github.com/opendevops-cn/opendevops)
+#### CloudOpenDevOps - [Github](https://github.com/opendevops-cn/opendevops)
 - :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
 
 ### 2019年4月20号添加
