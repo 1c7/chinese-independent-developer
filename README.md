@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年6月19号添加
+---
+#### Taufook(珠海) - [Github](https://github.com/taufook), [博客](https://taufook.com)
+* :white_check_mark: [呼吸里（Breathin）](https://apps.apple.com/cn/app/%E5%91%BC%E5%90%B8%E9%87%8C/id1468461396)：简洁轻量的深呼吸练习 App
+
 ### 2019年6月5号添加
 ---
 #### vulgur - [Github](https://github.com/vulgur), [博客](https://vulgur.github.io)
