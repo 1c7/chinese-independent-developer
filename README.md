@@ -733,7 +733,7 @@
 * :white_check_mark: [最强二维码](http://app.wodedata.com/myapp/qrcoderobot.html)：一个可以扫描二维码和生成自定义二维码的 App
 
 #### aderm - [GitHub](https://github.com/aderm)
-* :clock8: [如e定制](http://www.shangyuekeji.com/download)：个性化定制加工平台
+* :clock8: [如e定制](http://www.shangyuekeji.com)：个性化定制加工平台
 
 #### TKkk - [GitHub](https://github.com/TKkk-iOSer)
 * :white_check_mark: [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)：MacOS 微信小助手（可玩性很高，开源）
