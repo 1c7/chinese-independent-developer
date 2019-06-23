@@ -20,6 +20,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年6月23号添加
+---
+#### jiajunhuang(深圳) - [Github](https://github.com/jiajunhuang), [博客](https://jiajunhuang.com/)
+* :white_check_mark: [把Kindle笔记导出成纯文本](https://tools.jiajunhuang.com/)：一键将 Kindle 笔记导出成纯文本，方便编辑成 markdown 等
+
 ### 2019年6月19号添加
 ---
 #### Taufook(珠海) - [Github](https://github.com/taufook), [博客](https://taufook.com)
