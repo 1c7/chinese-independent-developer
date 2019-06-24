@@ -20,6 +20,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年6月24号添加
+---
+#### 土豆(北京) - [Github](https://github.com/iphysresearch/)
+* :white_check_mark: [Data Science Challenge / Competition Deadlines](https://iphysresearch.github.io/DataSciComp/)：数据科学赛题汇编+赛题注册倒计时
 
 ### 2019年6月23号添加
 ---
