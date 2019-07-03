@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年7月3号添加
+---
+#### Winterfell(上海) - [Github](https://github.com/imikay)
+* :white_check_mark: [MySlide](https://myslide.cn)：类似 SlideShare 和 SpeakerDeck 的 PPT 分享站
+
 ### 2019年6月24号添加
 ---
 #### 土豆(北京) - [Github](https://github.com/iphysresearch/)
