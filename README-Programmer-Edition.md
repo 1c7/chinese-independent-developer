@@ -17,7 +17,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年7月5号添加
 ---
 #### ddzy(东莞) - [Github](https://github.com/ddzy)
-* :white_check_mark: [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)：为前端开发者提供的`优质书籍`和程序员们的`码农长寿指南`(***pdf***) - [更多介绍](https://github.com/ddzy/fe-necessary-book/blob/master/README.md)
+* :white_check_mark: [fe-necessary-book](https://github.com/ddzy/fe-necessary-book)：为前端开发者提供的`优质书籍`和程序员们的`码农长寿指南`(***pdf***)
 
 ### 2019年6月15号添加
 ---
