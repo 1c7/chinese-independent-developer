@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年7月7号添加
+---
+#### andyesfly - [Github](https://github.com/andyesfly)
+* :clock8: [dipiper](http://dipiper.tech): 基于 Node.js 的财经数据接口包，为量化投资提供数据来源，满足金融量化分析师和学习数据分析的人在数据获取方面的需求
+
 ### 2019年7月5号添加
 ---
 #### ddzy(东莞) - [Github](https://github.com/ddzy)
