@@ -20,11 +20,6 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2019年7月7号添加
----
-#### dipiper - [Github](https://github.com/andyesfly/dipiper)
-* :clock8: [dipiper](http://dipiper.tech): 基于nodejs的财经数据接口包，为量化投资提供数据来源，满足金融量化分析师和学习数据分析的人在数据获取方面的需求 。
-
 ### 2019年7月3号添加
 ---
 #### Winterfell(上海) - [Github](https://github.com/imikay)
