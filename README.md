@@ -967,7 +967,7 @@
 #### haozes - [GitHub](https://github.com/haozes)
 * :white_check_mark: [YaoYao](https://itunes.apple.com/cn/app/id1179393901/)：Apple Watch 跳绳计数应用 - [更多介绍](https://sspai.com/post/40103)
 * :white_check_mark: [DunDun](https://itunes.apple.com/cn/app/dundun-squats-counter/id1348285355?l=zh&ls=1&mt=8)：Apple Watch 深蹲计数应用 - [更多介绍](https://sspai.com/post/43319)
-* :white_check_mark: [Lean](https://itunes.apple.com/cn/app/id1435069659?mt=8)：自重力量训练- [更多介绍](https://sspai.com/post/47294)
+* :white_check_mark: [Lean](https://itunes.apple.com/cn/app/id1435069659?mt=8)：自重力量训练 - [更多介绍](https://sspai.com/post/47294)
 * :white_check_mark: [OnlyTalk](https://itunes.apple.com/cn/app/id1462516460?mt=8)：亲情语音对讲 - [更多介绍](https://sspai.com/post/55560)
 
 #### Tuluobo - [GitHub](https://github.com/Tuluobo)
