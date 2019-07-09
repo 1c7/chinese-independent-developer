@@ -18,10 +18,6 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2019年7月7号添加
-* :clock8: [dipiper财经数据接口包](https://github.com/andyesfly/dipiper):这是一个基于nodejs的开源的财经数据接口包，为量化投资提供数据来源-[更多介绍](http://dipiper.tech)
-
-
 ### 2019年4月10号添加
 ---
 #### tower1229 - [Github](https://github.com/tower1229)
