@@ -28,6 +28,25 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
+### May 21, 2019
+
+------
+
+#### CloudOpenDevOps- [Github](https://github.com/opendevops-cn/opendevops), [Demo](https://demo.opendevops.cn/login)
+
+- :white_check_mark: [opendevops](http://www.opendevops.cn)：opendevops is a cloud management platform that provides users with multi-hybrid cloud, automated operation and maintenance, and complete open source. - [More introduction](https://github.com/opendevops-cn/opendevops)
+
+### April 14, 2019
+
+---
+#### zgjie - [Twitter](https://twitter.com/zgjie)
+* :white_check_mark: [Timeflower (相照)](https://itunes.apple.com/app/id1436035479)：An iOS app for your photo library that shows the photos taken on this day throughout the years, support Chinese calendar
+
+### April 12, 2019
+---
+#### zhaoolee - [Github](https://github.com/zhaoolee)
+* :white_check_mark: [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)：Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+
 ### March 5, 2019
 ---
 #### z-song(Shanghai) - [Github](https://github.com/z-song)
