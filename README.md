@@ -22,6 +22,8 @@
 
 ### 2019年7月10号添加
 ---
+#### Benb - [Github](https://github.com/Bin-Huang)
+* :white_check_mark: [WhereMyLife](https://wheremylife.cn)：在 kindle 上阅读 RSS，每天把最新文章推送给你。完全免费，支持添加自己的订阅源
 #### ieliwb - [Github](https://github.com/ieliwb)
 * :white_check_mark: [今日热榜](https://tophub.today/)：聚合全网新闻头条热点排行榜
 
