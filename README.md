@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年7月23号添加
+---
+#### 625781186 - [Github](https://github.com/625781186)
+* :clock8: [gitpyman](https://github.com/625781186/gitpyman)： 管理备注github的桌面程序(用pyqt5写的).
+
 ### 2019年7月22号添加
 ---
 #### liudanking - [Github](https://github.com/liudanking)
