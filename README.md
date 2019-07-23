@@ -22,10 +22,8 @@
 
 ### 2019年7月22号添加
 ---
-#### 又开车了 - [Github](https://github.com/liudanking)
-* :white_check_mark: 汽车类视频节目聚合订阅微信服务号：
-
-![](https://liudanking.com/wp-content/uploads/2019/07/qrcode_for_gh_110358ae70f0_258.jpg)
+#### liudanking - [Github](https://github.com/liudanking)
+* :white_check_mark: [又开车了](https://liudanking.com/wp-content/uploads/2019/07/qrcode_for_gh_110358ae70f0_258.jpg)： 汽车类视频节目聚合订阅微信服务号
 
 ### 2019年7月11号添加
 ---
