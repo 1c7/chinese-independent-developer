@@ -22,6 +22,9 @@
 
 ### 2019年8月1号添加
 ---
+#### Andy - [Github](https://github.com/ifrontend-xyz)
+* :white_check_mark: [Research](http://www.suiyuanka.com/?q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85)：快速搜索相关内容
+
 #### fancy - [Github](https://github.com/fanchangyong)
 * :white_check_mark: [橙子简历](https://wonderfulcv.com)：在线简历制作网站-制作简历，告别word排版
 
