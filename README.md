@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年8月1号添加
+---
+#### fancy - [Github](https://github.com/fanchangyong)
+* :white_check_mark: [橙子简历](https://wonderfulcv.com)：在线简历制作网站-制作简历，告别word排版
+
 ### 2019年7月23号添加
 ---
 #### 625781186 - [Github](https://github.com/625781186)
