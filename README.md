@@ -20,6 +20,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年8月11号添加
+---
+#### Kiddyu(保定) - [Github](https://github.com/kiddyuchina)
+* :white_check_mark: [新趣集](https://xinquji.com)：一个互联网新产品发现社区，36kr next 的替代品  
+* :white_check_mark: [独角兽排行](https://dujiaoshou.io)：全球独角兽企业榜单与招聘
+
 ### 2019年8月2号添加
 ---
 #### 张琪灵(福州) - [Github](https://github.com/Zo3i)
