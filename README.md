@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年8月20号添加
+---
+#### hujianhang(Beijing) - [Github](https://github.com/hujianhang2996)
+* :white_check_mark: [Forget](https://apps.apple.com/cn/app/id1448659423)：一款时间管理软件 - [更多介绍](https://github.com/hujianhang2996/forget)
+
 ### 2019年8月18号添加
 ---
 #### weilaihui(成都) -  [GitHub](https://github.com/weilaihui)
