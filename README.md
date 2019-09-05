@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年9月5号添加
+---
+#### Svend(苏州) - [Github](https://github.com/gee1k/uPic), [博客](https://blog.svend.cc/upic/)
+* :white_check_mark: [uPic](https://github.com/gee1k/uPic)：简洁的 Mac 图床客户端 uPic
+
 ### 2019年9月4号添加
 ---
 #### arvinxx(杭州) - [Github](https://github.com/arvinxx)
