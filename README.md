@@ -20,6 +20,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年9月12号添加
+---
+#### dylan(深圳) - [Github](https://github.com/DylanXing), [博客](https://xingdi.me)
+* :white_check_mark: [极简待办](https://apps.apple.com/cn/app/%E6%9E%81%E7%AE%80%E5%BE%85%E5%8A%9E-%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E7%8A%B6%E6%80%81%E6%A0%8F%E5%BE%85%E5%8A%9E%E5%B7%A5%E5%85%B7/id1454209103?mt=12)：轻量极的状态栏待办工具 - [更多介绍](https://xingdi.me/DList.html)
 
 ### 2019年9月6号添加
 ---
