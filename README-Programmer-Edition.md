@@ -14,6 +14,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年9月15号添加
+---
+#### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net) 
+* :white_check_mark: [plugin4j](https://github.com/MagicLu550/plugin4j)：简易的统一规范插件开发框架
+* :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏SCP: 秘密实验室创作的Java插件开发框架
+* :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于AES加密的字节码加密解密API和远程授权控制程序
+* :white_check_mark: [oaml](https://github.com/noyark-system/noyark_oaml_java)：oaml配置文件规范解析器
+
 ### 2019年7月7号添加
 ---
 #### andyesfly - [Github](https://github.com/andyesfly)
