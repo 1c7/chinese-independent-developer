@@ -28,6 +28,11 @@ If you are unsure whether your project meets this list's criteria, please contac
 ## 3. Project list
 #### Projects are sorted in reverse-chronological order (newest first)
 
+### Sept 12, 2019
+---
+#### dorjmi - [Github](https://github.com/dorjmi/nothingblock)
+* :white_check_mark: [nothingblock](https://github.com/dorjmi/nothingblock)：block unnecessary web element to have 'nothing more to take away'. - [More info](https://github.com/dorjmi/nothingblock/blob/master/readme.md)
+
 ### May 21, 2019
 
 ------
