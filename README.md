@@ -22,8 +22,8 @@
 
 ### 2019年9月12号添加
 ---
-#### dorjmi - [Github](https://github.com/dorjmi/nothingblock)
-* :white_check_mark: [nothingblock](https://github.com/dorjmi/nothingblock)：屏蔽网页多余元素的, 还你一个干净的世界. - [更多介绍](https://github.com/dorjmi/nothingblock/blob/master/readme.md)
+#### dorjmi - [Github](https://github.com/dorjmi)
+* :white_check_mark: [nothingblock](https://github.com/dorjmi/nothingblock)：屏蔽网页多余元素, 还你一个干净的世界
 
 ### 2019年9月12号添加
 ---
