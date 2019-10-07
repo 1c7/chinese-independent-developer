@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月7号添加
+---
+#### zhshch2002 - [Github](https://github.com/zhshch2002)
+* :white_check_mark: [星文 - Xstar News](https://xstar.news/#/)：一个有理想的~~划水~~独立创作博客聚合网站
+
 ### 2019年9月30号添加
 ---
 #### dorjmi - [Github](https://github.com/dorjmi)
