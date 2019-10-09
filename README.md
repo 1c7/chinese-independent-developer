@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月9号添加
+---
+#### Maxwell - [Github](https://github.com/maxwellyue)
+* :white_check_mark: [微信小程序-数独之光](https://www.jianshu.com/p/7a9e970dab2a)：经典益智数字游戏数独
+
 ### 2019年10月7号添加
 ---
 #### zhshch2002 - [Github](https://github.com/zhshch2002)
