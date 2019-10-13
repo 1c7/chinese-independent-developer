@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月13号添加
+---
+#### zerosoul - [Github](https://github.com/zerosoul)
+* :white_check_mark: [中国古典颜色手册](https://colors.ichuantong.cn/)：一个中国古典颜色的在线网站
+
 ### 2019年10月9号添加
 ---
 #### Maxwell - [Github](https://github.com/maxwellyue)

@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年10月13号添加
+---
+#### panjf2000(潘少) - [Github](https://github.com/panjf2000), [博客](https://taohuawu.club/)
+* :white_check_mark: [gnet](https://github.com/panjf2000/gnet)：一个高性能且轻量级的 Go 网络框架
+* :white_check_mark: [ants](https://github.com/panjf2000/ants)：一个高性能的 Go 协程池，已在字节跳动的线上使用
+
 ### 2019年9月15号添加
 ---
 #### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net) 
