@@ -20,6 +20,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年10月18号添加
+---
+#### Tengfei(北京) - [博客](https://tengfei.fun)
+* :white_check_mark: [创造者日报](https://creatorsdaily.com)：每天发现一款有趣产品
+
 ### 2019年10月17号添加
 ---
 #### zkqiang - [Github](https://github.com/zkqiang)
