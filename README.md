@@ -20,6 +20,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月20号添加
+---
+#### mdnice(杭州) - [Github](https://github.com/guanpengchn), [博客](https://draw.mdnice.com/)
+* :white_check_mark: [markdown-nice](https://mdnice.com/)：支持自定义样式的微信 Markdown 排版工具 - [更多介绍](https://github.com/mdnice/markdown-nice)
+* :white_check_mark: [markdown-resume](https://resume.mdnice.com/)：支持 Markdown 和富文本的在线简历排版工具 - [更多介绍](https://github.com/mdnice/markdown-resume)
+
+#### 痕迹(深圳) - [Github](https://github.com/lijy91), [博客](https://thecode.me)
+* :white_check_mark: [wordway](https://wordway.thecode.me)：由社区驱动的背单词应用 - [更多介绍](https://github.com/wordway/wordway-app/issues/1)
 
 ### 2019年10月18号添加
 ---
