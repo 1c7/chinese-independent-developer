@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月21号添加
+---
+#### 土豆(北京) - [Github](https://github.com/iphysresearch), [博客](https://iphysresearch.github.io/)
+* :white_check_mark: [DataSciCamp](https://www.datascicamp.com)：数据科学竞赛题目汇编 - [更多介绍](https://github.com/datascicamp/DataSciCamp)
+
 ### 2019年10月20号添加
 ---
 #### mdnice(杭州) - [Github](https://github.com/guanpengchn), [博客](https://draw.mdnice.com/)
