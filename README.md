@@ -23,7 +23,7 @@
 ### 2019年10月26号添加
 ---
 #### sdmtai(山东) - [Github](https://github.com/faithxie)
-* :white_check_mark: [历史地图](https://sdmtai.github.io/):中国历史疆域地图
+* :white_check_mark: [历史地图](https://sdmtai.github.io/)：中国历史疆域地图
 
 ### 2019年10月21号添加
 ---
