@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年10月28号添加
+---
+#### 小鱼(北京) - [Github](https://github.com/croath), [博客](https://medium.com/@croath/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E5%88%86%E4%BA%AB%E6%9C%8B%E5%8F%8B%E5%9C%88-12d5226e3331)
+* :white_check_mark: [快海报](https://kuaihaibao.com)：小程序分享海报生成服务 - [更多介绍](https://developers.weixin.qq.com/community/develop/article/doc/0008eedae74af82abb59c83b656c13)
+
 ### 2019年10月26号添加
 ---
 #### sdmtai(山东) - [Github](https://github.com/faithxie)
