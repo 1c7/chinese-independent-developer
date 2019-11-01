@@ -1114,7 +1114,6 @@
 #### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044),[Twitter](https://twitter.com/jony_chunfang)
 
 * :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议：）
-* :clock8: [Time Progress](https://github.com/TimeProgress)：让时间变成时间块，一块块清晰可见。在这里，可以让你看到时间的变化
 
 #### oasisfeng - [GitHub](https://github.com/oasisfeng)
 * :white_check_mark: [绿色守护 (Greenify)](https://www.coolapk.com/apk/com.oasisfeng.greenify)：帮助甄别那些对系统性能和耗电有不良影响的程序，阻止它们 （省略原描述20字）
@@ -1128,9 +1127,6 @@
 
 #### kinglisky - [GitHub](https://github.com/kinglisky)
 * :white_check_mark: [aidou](https://chrome.google.com/webstore/detail/aidou/kidfkhcacngpkgkagdmbkncecbnadajb?hl=zh-CN)： (Chrome 插件) 社区回帖 Code review 斗图插件，一键生成表情链接 - [了解更多](https://github.com/kinglisky/aidou)
-
-#### daniel - [微博](https://weibo.com/u/1749949233)
-* :white_check_mark: [煎蛋](https://play.google.com/store/apps/details?id=com.danielstudio.app.wowtu)：煎蛋 Android 客户端
 
 #### tinyao - [GitHub](https://github.com/tinyao)
 * :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
@@ -1185,7 +1181,7 @@
 * :white_check_mark: [京价保](https://jjb.im/)：帮你自动申请京东价格保护，顺便签到领券，自动领取返利的 Chrome 拓展 - [更多介绍](https://github.com/sunoj/jjb)
 
 #### 叶大侠 - [GitHub](https://github.com/YeDaxia)
-* :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴 - [更多介绍](http://yedaxia.me/How-To-Play-Music-Like-A-Bank/)
+* :white_check_mark: [声音笔记+](http://www.wandoujia.com/apps/com.cmajor.musicnote)：一个人，也可以像一支乐队一样练琴
 * :white_check_mark: [为你搜谱](http://sopu.52cmajor.com/)：应该是国内最全的乐谱搜索引擎了
 
 ####  mclxly - [GitHub](https://github.com/mclxly)
@@ -1232,9 +1228,6 @@
 * :white_check_mark: [时间规划局](https://itunes.apple.com/cn/app/id1204689405)：提醒珍惜时间的 iOS Today Widget
 * :white_check_mark: [飞花令](https://itunes.apple.com/cn/app/id1340671116)：用三十万古诗词数据打造的极简飞花令主题 App
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id988271193)
-
-#### wyan453351466
-* :white_check_mark: [言说](https://www.yanshuo.me/)：高质量的内容分享社区（reddit中文版）- [更多介绍](https://wanqu.io/t/reddit/7267)
 
 #### 61
 * :white_check_mark: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
