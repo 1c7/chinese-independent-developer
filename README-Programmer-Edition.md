@@ -13,10 +13,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
 本列表开始于2019年4月11号
-### 2019年10月13号添加
+
+### 2019年11月4号添加
 ---
-#### 何辉（深圳)
-* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台+echarts做前端集成演示：所有数据皆出后台报表获取，构造成ECHARTS所需要的JSON数组（一维数据、二维数据、三维数据等），传给前端的ECHARTS，支持大屏显示、实时刷新。展示了24类，上百张echarts报表。
+#### 何辉（深圳) - [Github](https://github.com/qq475742653
+* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台+echarts做前端集成演示：所有数据皆出后台报表获取，构造成ECHARTS所需要的JSON数组（一维数据、二维数据、三维数据等），传给前端的ECHARTS，支持大屏显示、实时刷新。展示了24类，上百张echarts报表
 
 ### 2019年10月13号添加
 ---
