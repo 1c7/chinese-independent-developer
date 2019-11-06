@@ -22,7 +22,7 @@
 ### 2019年11月6号添加
 ---
 #### lemonTree - [Github](https://github.com/ishare20) 
-* :white_check_mark: [问题库](https://questionlib.net/)：在线搜索查看试题答案，查看解析，讨论试题
+* :white_check_mark: [问题库](https://questionlib.net/)：在线搜索查看试题答案，查看试题解析，讨论试题
 * :white_check_mark: [文字表情制作器](https://www.coolapk.com/apk/79950)：一键制作文字表情
 
 ### 2019年10月30号添加
