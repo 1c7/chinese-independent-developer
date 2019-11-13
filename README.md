@@ -19,6 +19,16 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+
+### 2019年11月13号添加
+---
+#### 周利刚(杭州) 
+* :white_check_mark: [xCoins](https://apps.apple.com/cn/app/id1335320802)：迭代比特币私钥,汇总用户币的总价值
+* :white_check_mark: [足迹中国](https://apps.apple.com/cn/app/id1482250279)：用地图截图记录你去过的中国的省市(上架不久,完善中)
+* :white_check_mark: [假装来电](https://apps.apple.com/cn/app/id1475866564)：设置一定时间后,收到虚假的来电,用于逃离某些场合
+* :white_check_mark: [iStat Widget](https://apps.apple.com/cn/app/id1476638491)：查看硬件信息
+* :white_check_mark: [App Store 全部作品](https://apps.apple.com/us/developer/yiwu-madan-network-technology-co-ltd/id1131521364)
+
 ### 2019年11月6号添加
 ---
 #### lemonTree - [Github](https://github.com/ishare20) 
