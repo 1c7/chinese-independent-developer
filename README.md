@@ -24,7 +24,7 @@
 ---
 #### ETY001(淄博) - [Github](https://github.com/ety001), [博客](https://blog.domyself.me/)
 * :white_check_mark: [网络剪切板](https://oc.to0l.cn/)：多终端传输文本信息。
-* :white_check_mark: [温故知新](https://chrome.google.com/webstore/detail/review-bookmarks/oacajkekkegmjcnccaeijghfodogjnom)：温故知新 是一个可以帮助你重温或者整理书签的Chrome浏览器插件。 - [更多介绍](https://bm.to0l.cn/)
+* :white_check_mark: [温故知新](https://chrome.google.com/webstore/detail/review-bookmarks/oacajkekkegmjcnccaeijghfodogjnom)：温故知新 是一个帮助你重温或者整理书签的 Chrome 浏览器插件 - [更多介绍](https://bm.to0l.cn/)
 
 ### 2019年11月13号添加
 ---
