@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年11月21号添加
+---
+#### 不怕天黑(杭州) - [Github](https://github.com/liujingxing), [博客](https://juejin.im/user/590af762a22b9d0057a6eaca/posts)
+* :white_check_mark: [RxHttp](https://github.com/liujingxing/RxHttp)：一条链发送任意请求，让你眼前一亮的 Http 请求框架 
+* :white_check_mark: [RxLife](https://github.com/liujingxing/RxLife)：一行代码解决 RxJava 内存泄漏，一款轻量级别的 RxJava 生命周期管理库
+
 ### 2019年11月4号添加
 ---
 #### 何辉（深圳) - [Github](https://github.com/qq475742653)
