@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年11月24号添加
+---
+#### bigzhu - [Github](https://github.com/bigzhu)
+* :white_check_mark: [Ebuoy](https://play.google.com/store/apps/details?id=net.bigzhu.english_buoy)：利用 YouTube 字幕刷视频轻松学习英语的 APP - [更多介绍](https://github.com/bigzhu/Ebuoy)
+
 ### 2019年11月22号添加
 ---
 #### Albuer(FuZhou) - [Github](https://github.com/albuer)
