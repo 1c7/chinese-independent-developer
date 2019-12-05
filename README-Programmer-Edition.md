@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2019年12月5号添加
 ---
+#### inspurer - [Github](https://github.com/inspurer)
+* :white_check_mark: [刷脸考勤系统](https://github.com/inspurer/WorkAttendanceSystem)：基于 dlib 和 OpenCV 的 PC 端刷脸考勤系统
+
+
 #### Jiang-Xuan(Hangzhou) - [Github](https://github.com/Jiang-Xuan)
 * :white_check_mark: [tuchuang.space](https://github.com/Jiang-Xuan/tuchuang.space)：一个测试驱动的开源图床系统, 免费存储图片
 
