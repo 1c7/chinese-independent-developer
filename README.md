@@ -20,6 +20,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年12月9号添加
+---
+#### nicejade(ShenZhen) - [Github](https://github.com/nicejade), [博客](https://www.jeffjade.com)
+* :white_check_mark: [Arya - 在线 Markdown 编辑器](https://markdown.lovejade.cn)：一款基于 Vue、Vditor 所构建的在线 Markdown 编辑器 - [更多介绍](https://www.jeffjade.com/2019/05/31/155-arya-markdown-online-editor/)
+
 ### 2019年11月27号添加
 ---
 #### zoumorn - [Github](https://github.com/zoumorn)  
