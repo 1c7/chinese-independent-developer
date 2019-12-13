@@ -64,6 +64,7 @@
 ### 2019年10月30号添加
 ---
 #### 何辉（深圳） - [Github](https://github.com/qq475742653) 
+* :white_check_mark: [mypassword](https://www.headset.xin/mypassword)：一款根据熟悉问题产生的易记且超强密码的生成工具、管理工具。演示用户：13510920000,密码：123456
 * :white_check_mark: [中国诗人](http://www.headset.xin/tangsongsc)：一款收录80万首，远古、古代、当代、近现代的古诗网站，支持用户上传创作诗词
 * :white_check_mark: [VR+360全景图展示](http://www.headset.xin/VR)：一款360度VR现场模式全景展示卖房案例。支持flash和h5两种模式。VR模式需要配带VR设备支持
 
