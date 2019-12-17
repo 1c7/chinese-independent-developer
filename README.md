@@ -20,6 +20,15 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年12月17号添加
+---
+#### Hancel(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)
+* :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
+* :white_check_mark: [KeyGenius](https://github.com/imlinhanchao/KeyGenius/releases/download/1.0.2/KeyGenius.exe)：用来定时按下某个按键。比如 Ctrl + S，免得忘记保存 - [更多介绍](https://github.com/imlinhanchao/KeyGenius)
+* :clock8: [Librejo 我的书](https://librejo.cn)：一个图书笔记借阅管理的网站 - [更多介绍](https://github.com/imlinhanchao/librejo)
+
 ### 2019年12月9号添加
 ---
 #### nicejade(ShenZhen) - [Github](https://github.com/nicejade), [博客](https://www.jeffjade.com)
