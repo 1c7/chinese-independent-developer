@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2019年12月17号添加
+---
+#### Easy - [微博](https://weibo.com/easy), [GitHub](https://github.com/easychen)
+* :white_check_mark: [Server酱](http://sc.ftqq.com)：接口超级简单的微信模板消息推送服务
+
 ### 2019年12月5号添加
 ---
 #### inspurer - [Github](https://github.com/inspurer)
