@@ -992,6 +992,7 @@
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[方糖小剧场](https://github.com/easychen/h2reader-host)：可自行架设的对话体小说阅读器
 * :white_check_mark:[Slide酱](http://slide.ftqq.com/)：PPT 自动演讲工具，根据 PPT 中的演讲者注释自动生成带语音的视频
+* :white_check_mark:[福利单词](http://dict.ftqq.com/)：背单词，看妹子
 
 #### SCLeo - [GitHub](https://github.com/SCLeoX)
 * :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
