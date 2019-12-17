@@ -23,6 +23,10 @@
 
 ### 2019年12月17号添加
 ---
+#### Banny(杭州) - [Github](https://github.com/hellobanny)
+* :white_check_mark: [我的小目标](https://apps.apple.com/cn/app/id1051212505)：个人积分管理软件，督促用户成为更好的自己
+* :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
+
 #### Hancel(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
 * :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)
 * :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
