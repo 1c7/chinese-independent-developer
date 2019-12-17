@@ -23,6 +23,9 @@
 
 ### 2019年12月17号添加
 ---
+#### suziwen - [Github](https://github.com/suziwen)
+* :white_check_mark: [小书匠](http://soft.xiaoshujiang.com)：一款专注于写作的 Markdown 笔记软件，支持多种第三方存储(印象笔记,有道笔记,为知笔记,Github,Gitee等)
+
 #### Banny(杭州) - [Github](https://github.com/hellobanny)
 * :white_check_mark: [我的小目标](https://apps.apple.com/cn/app/id1051212505)：个人积分管理软件，督促用户成为更好的自己
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
