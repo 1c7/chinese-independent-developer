@@ -23,6 +23,9 @@
 
 ### 2019年12月19号添加
 ---
+#### docs4dev - [Github](https://github.com/docs4dev)
+* :white_check_mark: [Docs4dev](https://www.docs4dev.com/)：开发者文档在线浏览及翻译
+
 #### hui-Zz(杭州) - [Github](https://github.com/hui-Zz)
 * :white_check_mark: [RunAny](https://github.com/hui-Zz/RunAny)：一劳永逸的快速启动软件，拥有三键启动、一键直达、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能 - [更多介绍](https://hui-zz.github.io/RunAny)
 
