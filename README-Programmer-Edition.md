@@ -14,6 +14,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2020年1月7号添加
+---
+#### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [国家节假日解析爬虫](https://github.com/imlinhanchao/chinese_holiday_spider_module)：从国务院网站解析获取国家节假日公布页面的节假日安排。
+* :white_check_mark: [维基百科全站镜像](https://github.com/imlinhanchao/ngx_proxy_wiki)：通过 Nginx 反向代理制作维基百科全站镜像的配置档
+* :white_check_mark: [GitHub Page 图床](https://www.npmjs.com/package/github-picbed)：借助于GitHub Page 和 GitHub Api 做图床 - [更多介绍](https://github.com/imlinhanchao/github-picbed)
+* :white_check_mark: [Google 翻译 node 库](https://www.npmjs.com/package/translator-promise)：通过模拟请求实现 Google 翻译功能 - [更多介绍](https://github.com/imlinhanchao/translator-promise)
+
 ### 2019年12月17号添加
 ---
 #### Easy - [微博](https://weibo.com/easy), [GitHub](https://github.com/easychen)
