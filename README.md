@@ -16,6 +16,8 @@
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
+### 社区投票
+<a href="https://creatorsdaily.com/c2102b74-878e-4a2b-9c86-caf7bdf14cb9?utm_source=vote" target="_blank"><img src="https://creatorsdaily.com/api/c2102b74-878e-4a2b-9c86-caf7bdf14cb9/vote.svg?theme=light" /></a>
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
