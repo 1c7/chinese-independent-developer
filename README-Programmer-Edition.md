@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 本列表开始于2019年4月11号
 
+### 2020年1月8号添加
+---
+#### MagicLu(青岛) - [GitHub](https://github.com/MagicLu550),[博客](http://blog.noyark.net)
+- :clock8: [文言文编程语言: WenYan-Lang Java编译器](https://github.com/MagicLu550/wenyan-lang_jvm): 实现了对于文言文编程语言在JVM上运行
+
 ### 2020年1月7号添加
 ---
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
