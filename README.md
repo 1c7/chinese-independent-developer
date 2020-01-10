@@ -22,6 +22,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2019年1月10号添加
+---
+#### Tomxin7(桂林) - [Github](https://github.com/tomxin7), [博客](http://www.tomxin.cn/)
+* :white_check_mark: [简单天气](http://domain.jiandan.live/weather.html)：不佳天气主动提醒 - [更多介绍](http://domain.jiandan.live/weather.html)
+
 ### 2019年12月21号添加
 ---
 #### 刘志军 - [Github](https://github.com/lzjun567) 
