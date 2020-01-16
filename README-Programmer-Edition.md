@@ -12,7 +12,15 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 没法加到主版面里去，不是因为不好，只是因为类型不合。
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
-本列表开始于2019年4月11号
+程序员版开始于2019年4月11号, 主版面开始于2018年3月 
+
+
+### 2020年1月16号添加
+---
+#### SanJin(北京) - [Github](https://github.com/sanjinhub), [博客](https://geek.lc)
+* :white_check_mark: [Thief-Book](https://github.com/cteamx/Thief-Book)：在任务栏、桌面、TouchBar 上进行摸鱼的神器 - [更多介绍](https://github.com/cteamx/Thief-Book/blob/master/README.md)
+* :white_check_mark: [HFish](https://github.com/hacklcx/HFish)：国内最好用的开源蜜罐框架系统 - [更多介绍](https://github.com/hacklcx/HFish/blob/master/README.md)
+* :white_check_mark: [Hexo-Geek主题](https://github.com/sanjinhub/hexo-theme-geek)：更符合 Geek 精神的极简主题 - [更多介绍](https://github.com/sanjinhub/hexo-theme-geek/blob/master/README.md)
 
 ### 2020年1月8号添加
 ---
