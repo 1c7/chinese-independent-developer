@@ -18,7 +18,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年1月16号添加
 ---
 #### SanJin(北京) - [Github](https://github.com/sanjinhub), [博客](https://geek.lc)
-* :white_check_mark: [Thief-Book](https://github.com/cteamx/Thief-Book)：在任务栏、桌面、TouchBar 上进行摸鱼的神器 - [更多介绍](https://github.com/cteamx/Thief-Book/blob/master/README.md)
 * :white_check_mark: [HFish](https://github.com/hacklcx/HFish)：国内最好用的开源蜜罐框架系统 - [更多介绍](https://github.com/hacklcx/HFish/blob/master/README.md)
 * :white_check_mark: [Hexo-Geek主题](https://github.com/sanjinhub/hexo-theme-geek)：更符合 Geek 精神的极简主题 - [更多介绍](https://github.com/sanjinhub/hexo-theme-geek/blob/master/README.md)
 
