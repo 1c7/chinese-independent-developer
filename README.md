@@ -22,6 +22,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年1月16号添加
+---
+#### SanJin(北京) - [Github](https://github.com/sanjinhub), [博客](https://geek.lc)
+* :white_check_mark: [Thief-Book](https://github.com/cteamx/Thief-Book)：在任务栏、桌面、TouchBar 上进行摸鱼的神器 - [更多介绍](https://github.com/cteamx/Thief-Book/blob/master/README.md)
+
 ### 2019年1月10号添加
 ---
 #### Tomxin7(桂林) - [Github](https://github.com/tomxin7), [博客](http://www.tomxin.cn/)
