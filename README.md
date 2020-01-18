@@ -22,6 +22,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年1月17号添加
+---
+#### Jingle1267(北京) - [Github](https://github.com/jingle1267), [博客](http://94275.cn/)
+* :white_check_mark: [洪谷山](https://github.com/jingle1267/HelloCodeDev)：微信小程序每日朋友圈分享素材 - [更多介绍](https://github.com/jingle1267/HelloCodeDev/blob/master/README.md)
+
 ### 2020年1月16号添加
 ---
 #### SanJin(北京) - [Github](https://github.com/sanjinhub), [博客](https://geek.lc)
