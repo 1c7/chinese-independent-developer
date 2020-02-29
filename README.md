@@ -22,11 +22,6 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2020年2月29号添加
----
-#### Captain(深圳) - [Github](https://github.com/timi-liuliang), 
-* :white_check_mark: [Echo](https://github.com/timi-liuliang/echo)：新建中的跨平台游戏引擎
-
 ### 2020年2月11号添加
 ---
 #### 周毅刚(上海) - [Github](https://github.com/Yigang0622), [博客](https://miketech.it/)
