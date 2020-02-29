@@ -22,6 +22,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2020年2月29号添加
+---
+#### Roderick Qiu(杭州) - [Github](https://github.com/RoderickQiu), [网站](https://r-q.name/)
+* :white_check_mark: [wnr](https://wnr.scris.top)：跨平台的轻量计时软件，让你更高效、强力地管理作与息 - [更多介绍](https://wnr.scris.top/zh/)
+
 ### 2020年2月11号添加
 ---
 #### 周毅刚(上海) - [Github](https://github.com/Yigang0622), [博客](https://miketech.it/)
