@@ -26,6 +26,8 @@
 ---
 #### Tristan(北京) - [Github](https://github.com/zerosoul/), [博客](https://yangerxiao.com/)
 * :white_check_mark: [土味情话生成器](https://works.yangerxiao.com/honeyed-words-generator/)：土味情话，定制生成 - [更多介绍](https://github.com/zerosoul/honeyed-words-generator)
+* :white_check_mark: [静心呼吸调节器](https://works.yangerxiao.com/breathe-relaxer/)：通过视觉反馈在线调节呼吸节奏 - [更多介绍](https://github.com/zerosoul/breathe-relaxer)
+* :white_check_mark: [在线图片压缩工具](https://works.yangerxiao.com/icfe/)：无他，又一个图片压缩工具，只不过是纯浏览器端压缩，即无后端技术支撑 - [更多介绍](https://github.com/zerosoul/image-compress-without-backend)
 
 ### 2020年2月29号添加
 ---
