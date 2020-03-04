@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年3月4号添加
+---
+#### huifer(杭州) - [Github](https://github.com/huifer)
+* :white_check_mark: [平面算法](https://github.com/huifer/planar_algorithm): 平面几何算法
+
 ### 2020年2月29号添加
 ---
 #### Captain(深圳) - [Github](https://github.com/timi-liuliang)
