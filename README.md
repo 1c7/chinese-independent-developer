@@ -22,6 +22,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年3月13号添加
+---
+#### wmui - [Github](https://github.com/wmui)
+* :white_check_mark: [聚享导航](https://www.86886.wang)：方便、简洁、快速的自定义网址导航站 - [更多介绍](https://blog.86886.wang/posts/5e41f4f3de5b175e4943156d)
+
 ### 2020年3月1号添加
 ---
 #### Tristan(北京) - [Github](https://github.com/zerosoul/), [博客](https://yangerxiao.com/)
