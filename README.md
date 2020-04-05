@@ -21,10 +21,6 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
-### 2020年4月5号添加
----
-#### Writeup001 - [Github](https://github.com/Writeup001/weibo_Hot_Search)
-* :white_check_mark: [微博热搜爬虫](https://github.com/Writeup001/weibo_Hot_Search)：每天定时爬取微博热搜榜的内容，留下互联网人的记忆。
 
 ### 2020年3月26号添加
 ---
