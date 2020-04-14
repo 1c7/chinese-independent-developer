@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年4月14号添加
+---
+#### Jezemy(广州) - [Github](https://github.com/Jezemy)
+* :white_check_mark: [视频字幕翻译器](https://github.com/Jezemy/VideoSubScanPlayer)：自动翻译内嵌字幕的视频播放器
+
 ### 2020年4月5号添加
 ---
 #### Writeup001 - [Github](https://github.com/Writeup001/weibo_Hot_Search)
