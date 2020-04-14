@@ -26,7 +26,7 @@
 ---
 #### Jezemy(广州) - [Github](https://github.com/Jezemy)
 * :white_check_mark: [疯狂押韵](http://www.jezemy.cn/rhyme)：中文押韵短语查询的网站 - [更多介绍](https://github.com/Jezemy/ChineseRhymePhraseSearch)
-
+* [查看此作者在'程序员版面'的其他作品](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md#jezemy%E5%B9%BF%E5%B7%9E---github)
 
 ### 2020年3月26号添加
 ---
