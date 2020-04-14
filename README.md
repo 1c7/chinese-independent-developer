@@ -22,6 +22,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年4月14号添加
+---
+#### Jezemy(广州) - [Github](https://github.com/Jezemy)
+* :white_check_mark: [疯狂押韵](http://www.jezemy.cn/rhyme)：中文押韵短语查询的网站 - [更多介绍](https://github.com/Jezemy/ChineseRhymePhraseSearch)
+
+
 ### 2020年3月26号添加
 ---
 #### tobyglei - [Github](https://github.com/tobyglei)
