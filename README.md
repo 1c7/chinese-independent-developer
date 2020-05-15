@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年5月15号添加
+---
+#### OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
+* :white_check_mark: [MPAA 电影分级插件](https://old-panda.com/mpaa-rating-extension-project/)：在豆瓣电影、腾讯视频页面显示该片的 MPAA 分级 - [更多介绍](https://creatorsdaily.com/posts/f3510a80-6c40-494d-9404-a158c283c140)
+
 ### 2020年5月14号添加
 ---
 #### Mark - [Github](https://github.com/markqq), [博客](https://marksanders.cn/)
