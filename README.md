@@ -117,6 +117,8 @@
 * :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
 * :white_check_mark: [KeyGenius](https://github.com/imlinhanchao/KeyGenius/releases/download/1.0.2/KeyGenius.exe)：用来定时按下某个按键。比如 Ctrl + S，免得忘记保存 - [更多介绍](https://github.com/imlinhanchao/KeyGenius)
 * :clock8: [Librejo 我的书](https://librejo.cn)：一个图书笔记借阅管理的网站 - [更多介绍](https://github.com/imlinhanchao/librejo)
+* :white_check_mark: [Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)：VSCode 扩展，直接复制粘贴即可在 Markdown 文件即可插入图片，支持上传到多种图床。[更多介绍](https://github.com/imlinhanchao/vsc-markdown-image)
+* :white_check_mark: [微信公众号代码高亮插件](https://chrome.google.com/webstore/detail/kbiedhbfjcadjlajanccenpiicgdbfaf)：Chrome扩展，可以在公众号文章插入代码高亮，支持多个高亮主题自选，行号和二次编辑。 [更多介绍](https://github.com/imlinhanchao/crx_wx_code_highlight)
 
 ### 2019年12月9号添加
 ---
