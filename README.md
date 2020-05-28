@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年5月28号添加
+---
+#### 漂泊80(哈尔滨) - [Github](https://github.com/424626154), [博客](http://minis.zanzhe580.com/piao/apps)
+* :white_check_mark: [精酿笔记](https://itunes.apple.com/us/app/%E7%B2%BE%E9%85%BF%E7%AC%94%E8%AE%B0/id1177364674?l=zh&ls=1&mt=8)：家酿啤酒学习交流辅助小工具 - [更多介绍](https://kunwx.zanzhe580.com/appweb/beernotes_dapp)
+
 ### 2020年5月15号添加
 ---
 #### OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
