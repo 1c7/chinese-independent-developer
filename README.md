@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年5月31号添加
+---
+#### yuxiaoy(上海) - [Github](https://github.com/Yuxiaoy1), [微博](https://weibo.com/u/1802713725)
+* :white_check_mark: [InfoHub](https://infohub.fun/)：简洁轻巧的科技、社区、娱乐、财经、体育、IT、游戏等综合资讯中心 - [更多介绍](https://eleduck.com/posts/74fg0O)
+
 ### 2020年5月28号添加
 ---
 #### 漂泊80(哈尔滨) - [Github](https://github.com/424626154), [博客](http://minis.zanzhe580.com/piao/apps)
