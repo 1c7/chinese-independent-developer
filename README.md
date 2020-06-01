@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年6月1号添加
+---
+#### timeromantic - [Github](https://github.com/timeromantic)
+* :white_check_mark: [鱼塘热榜](https://mo.fish/)：专注摸鱼的趣味新闻热榜网站 - [更多介绍](https://mo.fish/main/comment/1202350)
+
 ### 2020年5月31号添加
 ---
 #### yuxiaoy(上海) - [Github](https://github.com/Yuxiaoy1), [微博](https://weibo.com/u/1802713725)
