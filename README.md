@@ -68,6 +68,7 @@
 ---
 #### ZhangPingFan(深圳) - [Github](https://github.com/ZhangPingFan), [博客](https://neverlose.com.cn/)
 * :white_check_mark: [FastCode](https://apps.apple.com/cn/app/fastcode-code-in-your-pocket/id1441653112)：可以随时随地编辑运行前端代码的利器
+* :white_check_mark: [今日趋势](https://neverlose.com.cn/trending/)：帮助您快速了解全网热点和市场行情的效率工具
 
 ### 2020年3月13号添加
 ---
