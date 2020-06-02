@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年6月2号添加
+---
+#### 6r6(杭州) - [Github](https://github.com/6r6)
+* :white_check_mark: [在线AI图像处理](https://photo.opencool.cn/)：一款免下载免注册的在线图像处理工具，支持黑白照片上色、图像无损放大、人像漫画化 - [更多介绍](https://www.yuque.com/docs/share/c102e8a2-23a5-470f-b615-d254d77685e6?#)
+
+
 ### 2020年6月1号添加
 ---
 #### timeromantic - [Github](https://github.com/timeromantic)
