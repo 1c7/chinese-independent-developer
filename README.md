@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年6月5号添加
+---
+#### ZhongYuanDong (佛山) - [Github](https://github.com/yuandongzhong/), [博客](https://www.zhongyuandong.com)
+* :white_check_mark: [Jsonman](https://jsonman.bakchoi.com/?ref=1c7)：零代码快速创建JSON API (Mac App) - [更多介绍](https://apps.apple.com/us/app/jsonman-mock-api-in-seconds/id1514363623)
+
+
 ### 2020年6月2号添加
 ---
 #### 6r6(杭州) - [Github](https://github.com/6r6)
