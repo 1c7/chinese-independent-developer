@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年6月29号添加
+---
+#### JumpAlang(泉州) - [博客](http://www.alang.run)
+* :white_check_mark: [一起听歌吧](http://music.alang.run)：一个可以同步多人在线听音乐聊天的网站。试想一下地球上任何一个角落的人根据自己的喜好，创建属于自己的音乐屋，让有相同喜好的人聚在一起实时听歌、分享、互动是多么有趣的事 - [更多介绍](http://www.alang.run/release)
+
 ### 2020年6月5号添加
 ---
 #### ZhongYuanDong (佛山) - [Github](https://github.com/yuandongzhong/), [博客](https://www.zhongyuandong.com)
