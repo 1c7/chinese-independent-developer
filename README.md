@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年6月30号添加
+---
+#### sudo2u（深圳）- [Github](https://github.com/hello-world-404)
+:clock8: Helium N: 一个简化刷机流程，提高刷机速度，针对部分厂商机型的优化工具。拥有常用ADB功能，Xperia机型专有指令，ADB安装应用，刷写镜像等等 - [更多介绍](https://www.geshkii.xyz/geshkii/)
+
+
 ### 2020年6月29号添加
 ---
 #### JumpAlang(泉州) - [博客](http://www.alang.run)
