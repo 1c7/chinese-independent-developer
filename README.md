@@ -21,11 +21,6 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2020年6月30号添加
----
-#### doho(北京) - [Github](https://github.com/zwh1666258377)
-* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将gitbook导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)  
-
 ### 2020年6月29号添加
 ---
 #### JumpAlang(泉州) - [博客](http://www.alang.run)
