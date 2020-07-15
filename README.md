@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2020年7月15号添加
+---
+#### getjennyli - [Github](https://github.com/getjennyli)
+* :white_check_mark: [Feelings](https://apps.apple.com/cn/app/feelings-mood-journal/id1446192624)：心情树洞日记 App
+* :white_check_mark: [Booka](https://apps.apple.com/cn/app/booka-minimal-booklist/id1116150273)：书单管理 App
+
 ### 2020年6月30号添加
 ---
 #### sudo2u（深圳）- [Github](https://github.com/hello-world-404)
