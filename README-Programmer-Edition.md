@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年7月15号添加
+---
+#### Elliot(杭州) - [GitHub](https://github.com/elliotreborn)
+* :white_check_mark: [SOCODE.PRO](https://socode.pro/extension/)：在浏览器地址栏中快捷、舒适地搜索多种类型的编程文档。
+
 ### 2020年6月30号添加
 ---
 #### doho(北京) - [Github](https://github.com/zwh1666258377)
