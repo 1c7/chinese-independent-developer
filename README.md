@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年7月18号添加
+---
+#### weijarz(吉林) - [Github](https://github.com/weijarz)
+* :white_check_mark: [Reabble](https://reabble.cn)：面向 Kindle 等 E-Ink 设备的 RSS 客户端，带推送服务
+* :white_check_mark: [OxyPlayer](https://player.oxyry.com/)：专为学英语设计的视频播放器，单句重复/双语字幕/情境填词
 
 ### 2020年7月15号添加
 ---
