@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年7月23号添加
+---
+功夫熊猫(北京) - [Github](https://github.com/langxuelang)
+* :white_check_mark: [名校讲座](http://qiniu.gaotenglife.com/gh_ce3241405e01_860.jpg): 收集发布北京上海等地名校的公开讲座，让更多的人聆听名校的声音 - [更多介绍](https://www.gaotenglife.com/?p=539)
+
 ### 2020年7月18号添加
 ---
 #### weijarz(吉林) - [Github](https://github.com/weijarz)
