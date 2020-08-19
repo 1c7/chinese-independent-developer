@@ -176,6 +176,8 @@
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [自考英语查询](https://eng.sxisa.com/)：英语单词查询网站，支持简单的笔记记录。[更多介绍](https://github.com/imlinhanchao/eng)
+* :white_check_mark: [Code Snippet](https://code-snippet.cn/)：代码片段分享网站，类似 Gist，新增了代码在线运行和网页预览的功能。 [更多介绍](https://github.com/imlinhanchao/code-snippet)
 * :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)
 * :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
 * :white_check_mark: [KeyGenius](https://github.com/imlinhanchao/KeyGenius/releases/download/1.0.2/KeyGenius.exe)：用来定时按下某个按键。比如 Ctrl + S，免得忘记保存 - [更多介绍](https://github.com/imlinhanchao/KeyGenius)
