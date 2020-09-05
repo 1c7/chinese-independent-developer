@@ -14,6 +14,26 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年7月15号添加
+---
+#### Elliot(杭州) - [GitHub](https://github.com/elliotreborn)
+* :white_check_mark: [SOCODE.PRO](https://socode.pro/extension/)：在浏览器地址栏中快捷、舒适地搜索多种类型的编程文档。
+
+### 2020年6月30号添加
+---
+#### doho(北京) - [Github](https://github.com/zwh1666258377)
+* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将gitbook导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)  
+
+### 2020年4月14号添加
+---
+#### Jezemy(广州) - [Github](https://github.com/Jezemy)
+* :white_check_mark: [视频字幕翻译器](https://github.com/Jezemy/VideoSubScanPlayer)：自动翻译内嵌字幕的视频播放器
+
+### 2020年4月5号添加
+---
+#### Writeup001 - [Github](https://github.com/Writeup001/weibo_Hot_Search)
+* :white_check_mark: [微博热搜爬虫](https://github.com/Writeup001/weibo_Hot_Search)：每天定时爬取微博热搜榜的内容，留下互联网人的记忆。
+
 ### 2020年3月4号添加
 ---
 #### huifer(杭州) - [Github](https://github.com/huifer)

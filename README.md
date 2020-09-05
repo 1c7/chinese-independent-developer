@@ -3,7 +3,6 @@
 
 #### [程序员版点这里](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md)：
 程序员版的项目需要用命令行或写一点代码。主版面(这里)是给普通用户用的，打开即用，无需命令行或编程基础
-#### [English Version](https://github.com/1c7/chinese-independent-developer/blob/master/README-en.md)
 
 **1. 为什么有这个表**    
 作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
@@ -21,10 +20,84 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
-### 2020年4月5号添加
+
+### 2020年7月27号添加
 ---
-#### Writeup001 - [Github](https://github.com/Writeup001/weibo_Hot_Search)
-* :white_check_mark: [微博热搜爬虫](https://github.com/Writeup001/weibo_Hot_Search)：每天定时爬取微博热搜榜的内容，留下互联网人的记忆。
+#### Lenix(北京) - [Github](https://github.com/w3yyb), [博客](http://blog.p2hp.com/)
+* :white_check_mark: [PHP中文站](http://www.p2hp.com/)：最专业的PHP资源网站：PHP教程, PHP中文手册, PHP开发工具, PHP框架文档大全！- [更多介绍](https://www.p2hp.com/about.php)
+
+### 2020年7月23号添加
+---
+功夫熊猫(北京) - [Github](https://github.com/langxuelang)
+* :white_check_mark: [名校讲座](http://qiniu.gaotenglife.com/gh_ce3241405e01_860.jpg): 收集发布北京上海等地名校的公开讲座，让更多的人聆听名校的声音 - [更多介绍](https://www.gaotenglife.com/?p=539)
+
+### 2020年7月18号添加
+---
+#### weijarz(吉林) - [Github](https://github.com/weijarz)
+* :white_check_mark: [Reabble](https://reabble.cn)：面向 Kindle 等 E-Ink 设备的 RSS 客户端，带推送服务
+* :white_check_mark: [OxyPlayer](https://player.oxyry.com/)：专为学英语设计的视频播放器，单句重复/双语字幕/情境填词
+
+### 2020年7月15号添加
+---
+#### getjennyli - [Github](https://github.com/getjennyli)
+* :white_check_mark: [Feelings](https://apps.apple.com/cn/app/feelings-mood-journal/id1446192624)：心情树洞日记 App
+* :white_check_mark: [Booka](https://apps.apple.com/cn/app/booka-minimal-booklist/id1116150273)：书单管理 App
+
+### 2020年6月30号添加
+---
+#### sudo2u（深圳）- [Github](https://github.com/hello-world-404)
+* :white_check_mark: [Helium N](https://geshkii.xyz/helium/): 一个 ADB 工具箱 - [更多介绍](https://www.geshkii.xyz/geshkii/)
+
+
+### 2020年6月29号添加
+---
+#### JumpAlang(泉州) - [博客](http://www.alang.run)
+* :white_check_mark: [一起听歌吧](http://music.alang.run)：一个可以同步多人在线听音乐聊天的网站。试想一下地球上任何一个角落的人根据自己的喜好，创建属于自己的音乐屋，让有相同喜好的人聚在一起实时听歌、分享、互动是多么有趣的事 - [更多介绍](http://www.alang.run/release)
+
+### 2020年6月5号添加
+---
+#### ZhongYuanDong (佛山) - [Github](https://github.com/yuandongzhong/), [博客](https://www.zhongyuandong.com)
+* :white_check_mark: [Jsonman](https://jsonman.bakchoi.com/?ref=1c7)：零代码快速创建JSON API (Mac App) - [更多介绍](https://apps.apple.com/us/app/jsonman-mock-api-in-seconds/id1514363623)
+
+
+### 2020年6月2号添加
+---
+#### 6r6(杭州) - [Github](https://github.com/6r6)
+* :white_check_mark: [在线AI图像处理](https://photo.opencool.cn/)：一款免下载免注册的在线图像处理工具，支持黑白照片上色、图像无损放大、人像漫画化 - [更多介绍](https://www.yuque.com/docs/share/c102e8a2-23a5-470f-b615-d254d77685e6?#)
+
+
+### 2020年6月1号添加
+---
+#### timeromantic - [Github](https://github.com/timeromantic)
+* :white_check_mark: [鱼塘热榜](https://mo.fish/)：专注摸鱼的趣味新闻热榜网站 - [更多介绍](https://mo.fish/main/comment/1202350)
+
+### 2020年5月31号添加
+---
+#### yuxiaoy(上海) - [Github](https://github.com/Yuxiaoy1), [微博](https://weibo.com/u/1802713725)
+* :white_check_mark: [InfoHub](https://infohub.fun/)：简洁轻巧的科技、社区、娱乐、财经、体育、IT、游戏等综合资讯中心 - [更多介绍](https://eleduck.com/posts/74fg0O)
+
+### 2020年5月28号添加
+---
+#### 漂泊80(哈尔滨) - [Github](https://github.com/424626154), [博客](http://minis.zanzhe580.com/piao/apps)
+* :white_check_mark: [精酿笔记](https://itunes.apple.com/us/app/%E7%B2%BE%E9%85%BF%E7%AC%94%E8%AE%B0/id1177364674?l=zh&ls=1&mt=8)：家酿啤酒学习交流辅助小工具 - [更多介绍](https://kunwx.zanzhe580.com/appweb/beernotes_dapp)
+
+### 2020年5月15号添加
+---
+#### OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
+* :white_check_mark: [MPAA 电影分级插件](https://old-panda.com/projects/mpaa-rating-extension-project/)：在豆瓣电影、腾讯视频页面显示该片的 MPAA 分级 - [更多介绍](https://creatorsdaily.com/posts/f3510a80-6c40-494d-9404-a158c283c140)
+* :white_check_mark: [Bamboo](https://old-panda.com/projects/bamboo-parquet-viewer/)：可能是 macOS 上最好用的 Parquet 文件查看器
+* :white_check_mark: [Douban Book+](https://old-panda.com/douban-book-plus/)：打破豆瓣读书与微信读书之间的壁障 - [更多介绍](https://www.appinn.com/weread-on-douban/) 
+
+### 2020年5月14号添加
+---
+#### Mark - [Github](https://github.com/markqq), [博客](https://marksanders.cn/)
+* :white_check_mark: [triplan](https://triplan.tech/?utm_source=cid)：跨平台行程管理应用，全面提升你的出行体验 - [更多介绍](https://creatorsdaily.com/44c14492-ef09-4583-bc2b-4e96735f1027)
+
+### 2020年4月14号添加
+---
+#### Jezemy(广州) - [Github](https://github.com/Jezemy)
+* :white_check_mark: [疯狂押韵](http://www.jezemy.cn/rhyme)：中文押韵短语查询的网站 - [更多介绍](https://github.com/Jezemy/ChineseRhymePhraseSearch)
+* [查看此作者在'程序员版面'的其他作品](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md#jezemy%E5%B9%BF%E5%B7%9E---github)
 
 ### 2020年3月26号添加
 ---
@@ -36,6 +109,7 @@
 ---
 #### ZhangPingFan(深圳) - [Github](https://github.com/ZhangPingFan), [博客](https://neverlose.com.cn/)
 * :white_check_mark: [FastCode](https://apps.apple.com/cn/app/fastcode-code-in-your-pocket/id1441653112)：可以随时随地编辑运行前端代码的利器
+* :white_check_mark: [今日趋势](https://neverlose.com.cn/trending/)：帮助您快速了解全网热点和市场行情的效率工具
 
 ### 2020年3月13号添加
 ---
@@ -101,11 +175,15 @@
 * :white_check_mark: [我的小目标](https://apps.apple.com/cn/app/id1051212505)：个人积分管理软件，督促用户成为更好的自己
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
-#### Hancel(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+#### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [自考英语查询](https://eng.sxisa.com/)：英语单词查询网站，支持简单的笔记记录 - [更多介绍](https://github.com/imlinhanchao/eng)
+* :white_check_mark: [Code Snippet](https://code-snippet.cn/)：代码片段分享网站，类似 Gist，新增了代码在线运行和网页预览的功能 - [更多介绍](https://github.com/imlinhanchao/code-snippet)
 * :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)
 * :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
 * :white_check_mark: [KeyGenius](https://github.com/imlinhanchao/KeyGenius/releases/download/1.0.2/KeyGenius.exe)：用来定时按下某个按键。比如 Ctrl + S，免得忘记保存 - [更多介绍](https://github.com/imlinhanchao/KeyGenius)
 * :clock8: [Librejo 我的书](https://librejo.cn)：一个图书笔记借阅管理的网站 - [更多介绍](https://github.com/imlinhanchao/librejo)
+* :white_check_mark: [Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)：VSCode 扩展，直接复制粘贴即可在 Markdown 文件即可插入图片，支持上传到多种图床 - [更多介绍](https://github.com/imlinhanchao/vsc-markdown-image)
+* :white_check_mark: [微信公众号代码高亮插件](https://chrome.google.com/webstore/detail/kbiedhbfjcadjlajanccenpiicgdbfaf)：Chrome扩展，可以在公众号文章插入代码高亮，支持多个高亮主题自选，行号和二次编辑 - [更多介绍](https://github.com/imlinhanchao/crx_wx_code_highlight)
 
 ### 2019年12月9号添加
 ---
@@ -151,6 +229,11 @@
 ### 2019年10月30号添加
 ---
 #### 何辉（深圳） - [Github](https://github.com/qq475742653) 
+* :white_check_mark: [相见易](http://www.headset.xin/LHS)：允许用户在手机上、网页上自主设计表单、图表，存储和查询数据、网页与手机端的数据互通（演示用户：13510928305,密码：123456）
+* :white_check_mark: [自由地呼吸](http://www.headset.xin/freebreath)：一款呼吸训练、规律动作训练+心事倾述+呼吸康复学堂,用户可定义呼吸训练和计划
+* :white_check_mark: [街坊情圣](http://www.headset.xin/NLovers)：恋爱学堂，包含土味情话、恋爱攻略文章、恋爱专家音频教学、用户关于爱情问题讨论
+* :white_check_mark: [死亡时间预测](http://www.headset.xin/dieDate)：包含死亡时间预测工具、养生知识学堂、每日养生任务计划、定时提醒。
+* :white_check_mark: [密码生成管理器](http://www.headset.xin/mypassword)：包含云端存储、智能的问题密码的生成、密码搜索、复制、密码期限管理提醒（演示用户：13510920000,密码：123456）
 * :white_check_mark: [mypassword](https://www.headset.xin/mypassword)：一款根据熟悉问题产生的易记且超强密码的生成工具、管理工具。演示用户：13510920000,密码：123456
 * :white_check_mark: [中国诗人](http://www.headset.xin/tangsongsc)：一款收录80万首，远古、古代、当代、近现代的古诗网站，支持用户上传创作诗词
 * :white_check_mark: [VR+360全景图展示](http://www.headset.xin/VR)：一款360度VR现场模式全景展示卖房案例。支持flash和h5两种模式。VR模式需要配带VR设备支持
@@ -1407,6 +1490,7 @@
 推荐一些对独立开发者有帮助的网站：    
 
 [英文]        
+* [Productized Startups](https://productizedstartups.com/interviews/)
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Failory](https://www.failory.com/) - 分享创业失败的故事
 * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
