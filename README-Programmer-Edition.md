@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年9月23号添加
+---
+#### Strawmanbobi(南京) - [Github](https://irext/irext)
+* :white_check_mark: [IRext](https://irext.net)：万能红外遥控解决方案，全球唯一开源万能红外遥控码库+编解码方案（IRext open source organization)
 
 ### 2020年9月5号添加
 ---
