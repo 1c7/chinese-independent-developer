@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年9月26号添加
+---
+#### WhiteCosm0s(上海) - [Github](https://github.com/WhiteCosmos)
+* :white_check_mark: [RabiAPI](https://apps.apple.com/cn/app/id1524200727)：一个开箱即用的Java接口文档生成工具 - [更多介绍](https://github.com/RabiAPI/RabiAPI-Support)
+
 ### 2020年7月27号添加
 ---
 #### Lenix(北京) - [Github](https://github.com/w3yyb), [博客](http://blog.p2hp.com/)
