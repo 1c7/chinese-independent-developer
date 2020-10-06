@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年10月06号添加
+---
+#### Mr.Dear(杭州) - [Github](https://github.com/mrdear)
+* :white_check_mark: [动森生活家](https://mrdear.cn/posts/animal_crossing_recommed.html)：动森服装码收集,归类以及分享的微信小程序 - [更多介绍](https://mrdear.cn/posts/animal_crossing_recommed.html)
+
 ### 2020年9月26号添加
 ---
 #### WhiteCosm0s(上海) - [Github](https://github.com/WhiteCosmos)
