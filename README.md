@@ -136,7 +136,7 @@
 ### 2020年2月29号添加
 ---
 #### Roderick Qiu(杭州) - [Github](https://github.com/RoderickQiu), [网站](https://r-q.name/)
-* :x: [wnr](https://wnr.scris.top)：跨平台的轻量计时软件，让你更高效、强力地管理作与息 - [更多介绍](https://wnr.scris.top/zh/)
+* :white_check_mark: [wnr](https://wnr.scris.top)：跨平台的轻量计时软件，让你更高效、强力地管理作与息 - [更多介绍](https://wnr.scris.top/zh/)
 
 ### 2020年2月11号添加
 ---
@@ -189,7 +189,7 @@
 * :white_check_mark: [自考英语查询](https://eng.sxisa.com/)：英语单词查询网站，支持简单的笔记记录 - [更多介绍](https://github.com/imlinhanchao/eng)
 * :white_check_mark: [Code Snippet](https://code-snippet.cn/)：代码片段分享网站，类似 Gist，新增了代码在线运行和网页预览的功能 - [更多介绍](https://github.com/imlinhanchao/code-snippet)
 * :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)
-* :x: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
+* :white_check_mark: [婚礼邀请函制作工具](http://marry.git.hancel.org/)：快速自定义批量制作婚礼邀请函 - [更多介绍](https://github.com/imlinhanchao/invitation-card-maker)
 * :white_check_mark: [KeyGenius](https://github.com/imlinhanchao/KeyGenius/releases/download/1.0.2/KeyGenius.exe)：用来定时按下某个按键。比如 Ctrl + S，免得忘记保存 - [更多介绍](https://github.com/imlinhanchao/KeyGenius)
 * :clock8: [Librejo 我的书](https://librejo.cn)：一个图书笔记借阅管理的网站 - [更多介绍](https://github.com/imlinhanchao/librejo)
 * :white_check_mark: [Markdown Image](https://marketplace.visualstudio.com/items?itemName=hancel.markdown-image)：VSCode 扩展，直接复制粘贴即可在 Markdown 文件即可插入图片，支持上传到多种图床 - [更多介绍](https://github.com/imlinhanchao/vsc-markdown-image)
@@ -198,7 +198,7 @@
 ### 2019年12月9号添加
 ---
 #### nicejade(ShenZhen) - [Github](https://github.com/nicejade), [博客](https://www.jeffjade.com)
-* :x: [Arya - 在线 Markdown 编辑器](https://markdown.lovejade.cn)：一款基于 Vue、Vditor 所构建的在线 Markdown 编辑器 - [更多介绍](https://www.jeffjade.com/2019/05/31/155-arya-markdown-online-editor/)
+* :white_check_mark: [Arya - 在线 Markdown 编辑器](https://markdown.lovejade.cn)：一款基于 Vue、Vditor 所构建的在线 Markdown 编辑器 - [更多介绍](https://www.jeffjade.com/2019/05/31/155-arya-markdown-online-editor/)
 
 ### 2019年11月27号添加
 ---
@@ -255,7 +255,7 @@
 ### 2019年10月26号添加
 ---
 #### sdmtai(山东) - [Github](https://github.com/faithxie)
-* :x: [历史地图](https://sdmtai.github.io/)：中国历史疆域地图
+* :white_check_mark: [历史地图](https://sdmtai.github.io/)：中国历史疆域地图
 
 ### 2019年10月21号添加
 ---
@@ -384,7 +384,7 @@
 ### 2019年6月24号添加
 ---
 #### 土豆(北京) - [Github](https://github.com/iphysresearch/)
-* :x: [Data Science Challenge / Competition Deadlines](https://iphysresearch.github.io/DataSciComp/)：数据科学赛题汇编+赛题注册倒计时
+* :white_check_mark: [Data Science Challenge / Competition Deadlines](https://iphysresearch.github.io/DataSciComp/)：数据科学赛题汇编+赛题注册倒计时
 
 ### 2019年6月23号添加
 ---
