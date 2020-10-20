@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年10月20号添加
+---
+#### GeorgeZou(北京) - [Github](https://github.com/georgezouq), [博客](https://blog.tefact.com/)
+* :clock8: [Tefact](https://github.com/Tefact/tefact-saas)：无代码平台，通过配置自动生成页面和增删改查后台 - [更多介绍](https://github.com/Tefact/tefact-saas)
+* :white_check_mark: [真科技周刊](https://github.com/Tefact/tefact-weekly)：科技 · 商业 · 人文 · 未来 - [更多介绍](https://github.com/Tefact/tefact-weekly)
+
 ### 2020年10月06号添加
 ---
 #### Mr.Dear(杭州) - [Github](https://github.com/mrdear)
