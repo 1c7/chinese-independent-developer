@@ -21,8 +21,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2020年9月5号添加
 ---
-#### Writeup001 - [Github](https://github.com/Writeup001)
-* :white_check_mark: [Windows 版 tail 命令](https://github.com/Writeup001/windows-tail)：Windows 版 tail 命令，可在 CMD 下直接使用，解决 Windows 日志查看问题。
+#### Writeup007 - [Github](https://github.com/Writeup007)
+* :white_check_mark: [Windows 版 tail 命令](https://github.com/Writeup007/windows-tail)：Windows 版 tail 命令，可在 CMD 下直接使用，解决 Windows 日志查看问题。
 
 ### 2020年7月15号添加
 ---
@@ -41,8 +41,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2020年4月5号添加
 ---
-#### Writeup001 - [Github](https://github.com/Writeup001/weibo_Hot_Search)
-* :white_check_mark: [微博热搜爬虫](https://github.com/Writeup001/weibo_Hot_Search)：每天定时爬取微博热搜榜的内容，留下互联网人的记忆。
+#### Writeup007 - [Github](https://github.com/Writeup007/weibo_Hot_Search)
+* :white_check_mark: [微博热搜爬虫](https://github.com/Writeup007/weibo_Hot_Search)：每天定时爬取微博热搜榜的内容，留下互联网人的记忆。
 
 ### 2020年3月4号添加
 ---
