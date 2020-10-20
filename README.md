@@ -11,7 +11,7 @@
 
 **2. 项目有 3 种状态**          
 
-| 开发中 | 已上线 | 已关闭 |
+| 开发中 | 已上线 | 已关闭或缺乏维护 |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
@@ -20,6 +20,22 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+
+### 2020年10月20号添加
+---
+#### GeorgeZou(北京) - [Github](https://github.com/georgezouq), [博客](https://blog.tefact.com/)
+* :clock8: [Tefact](https://github.com/Tefact/tefact-saas)：无代码平台，通过配置自动生成页面和增删改查后台
+* :white_check_mark: [真科技周刊](https://github.com/Tefact/tefact-weekly)：科技 · 商业 · 人文 · 未来
+
+### 2020年10月06号添加
+---
+#### Mr.Dear(杭州) - [Github](https://github.com/mrdear)
+* :white_check_mark: [动森生活家](https://mrdear.cn/posts/animal_crossing_recommed.html)：动森服装码收集,归类以及分享的微信小程序
+
+### 2020年9月26号添加
+---
+#### WhiteCosm0s(上海) - [Github](https://github.com/WhiteCosmos)
+* :white_check_mark: [RabiAPI](https://apps.apple.com/cn/app/id1524200727)：一个开箱即用的Java接口文档生成工具 - [更多介绍](https://github.com/RabiAPI/RabiAPI-Support)
 
 ### 2020年7月27号添加
 ---
@@ -218,7 +234,6 @@
 * :white_check_mark: [足迹中国](https://apps.apple.com/cn/app/id1482250279)：用地图截图记录你去过的中国的省市(上架不久,完善中)
 * :white_check_mark: [假装来电](https://apps.apple.com/cn/app/id1475866564)：设置一定时间后,收到虚假的来电,用于逃离某些场合
 * :white_check_mark: [iStat Widget](https://apps.apple.com/cn/app/id1476638491)：查看硬件信息
-* :white_check_mark: [App Store 全部作品](https://apps.apple.com/us/developer/yiwu-madan-network-technology-co-ltd/id1131521364)
 
 ### 2019年11月6号添加
 ---
@@ -260,7 +275,7 @@
 * :white_check_mark: [markdown-resume](https://resume.mdnice.com/)：支持 Markdown 和富文本的在线简历排版工具 - [更多介绍](https://github.com/mdnice/markdown-resume)
 
 #### 痕迹(深圳) - [Github](https://github.com/lijy91), [博客](https://thecode.me)
-* :white_check_mark: [wordway](https://wordway.thecode.me)：由社区驱动的背单词应用 - [更多介绍](https://github.com/wordway/wordway-app/issues/1)
+* :x: [wordway](https://wordway.thecode.me)：由社区驱动的背单词应用 - [更多介绍](https://github.com/wordway/wordway-app/issues/1)
 
 ### 2019年10月18号添加
 ---
@@ -285,7 +300,7 @@
 ### 2019年10月7号添加
 ---
 #### zhshch2002 - [Github](https://github.com/zhshch2002)
-* :white_check_mark: [星文 - Xstar News](https://xstar.news/#/)：一个有理想的~~划水~~独立创作博客聚合网站
+* :x: [星文 - Xstar News](https://xstar.news/#/)：一个有理想的~~划水~~独立创作博客聚合网站
 
 ### 2019年9月30号添加
 ---
@@ -324,13 +339,13 @@
 ### 2019年8月18号添加
 ---
 #### weilaihui(成都) -  [GitHub](https://github.com/weilaihui)
-* :white_check_mark: [GRLib](https://www.grlib.com/)：收藏优质 GitHub 项目 
+* :x: [GRLib](https://www.grlib.com/)：收藏优质 GitHub 项目 
 
 ### 2019年8月11号添加
 ---
 #### Kiddyu(保定) - [Github](https://github.com/kiddyuchina)
 * :white_check_mark: [新趣集](https://xinquji.com)：一个互联网新产品发现社区，36kr next 的替代品  
-* :white_check_mark: [独角兽排行](https://dujiaoshou.io)：全球独角兽企业榜单与招聘
+* :x: [独角兽排行](https://dujiaoshou.io)：全球独角兽企业榜单与招聘
 
 ### 2019年8月2号添加
 ---
@@ -340,7 +355,7 @@
 ### 2019年8月1号添加
 ---
 #### Andy - [Github](https://github.com/ifrontend-xyz)
-* :white_check_mark: [Research](http://www.suiyuanka.com/?q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85)：快速搜索相关内容
+* :x: [Research](http://www.suiyuanka.com/?q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85)：快速搜索相关内容
 
 #### fancy - [Github](https://github.com/fanchangyong)
 * :white_check_mark: [橙子简历](https://wonderfulcv.com)：在线简历制作网站-制作简历，告别word排版
@@ -380,7 +395,7 @@
 ### 2019年6月23号添加
 ---
 #### jiajunhuang(深圳) - [Github](https://github.com/jiajunhuang), [博客](https://jiajunhuang.com/)
-* :white_check_mark: [把Kindle笔记导出成纯文本](https://tools.jiajunhuang.com/)：一键将 Kindle 笔记导出成纯文本，方便编辑成 markdown 等
+* :x: [把Kindle笔记导出成纯文本](https://tools.jiajunhuang.com/)：一键将 Kindle 笔记导出成纯文本，方便编辑成 markdown 等
 
 ### 2019年6月19号添加
 ---
@@ -390,7 +405,7 @@
 ### 2019年6月5号添加
 ---
 #### vulgur - [Github](https://github.com/vulgur), [博客](https://vulgur.github.io)
-* :white_check_mark: [极简翻页时钟（Zen Flip Clock）](https://itunes.apple.com/us/app/zen-flip-clock/id1265404088?l=zh&ls=1&mt=8)：一款免费无广告的极简主义翻页钟&番茄钟 app
+* :x: [极简翻页时钟（Zen Flip Clock）](https://itunes.apple.com/us/app/zen-flip-clock/id1265404088?l=zh&ls=1&mt=8)：一款免费无广告的极简主义翻页钟&番茄钟 app
 
 ### 2019年6月4号添加
 ---
@@ -434,7 +449,7 @@
 ### 2019年4月29号添加
 ---
 #### YuzhouZhang(杭州) - [Github](https://github.com/YuzhouZhang)
-* :white_check_mark: [闪电词典](https://play.google.com/store/apps/details?id=com.wingtech.quicklearnersdictionary)：取词最快的英英词典！
+* :x: [闪电词典](https://play.google.com/store/apps/details?id=com.wingtech.quicklearnersdictionary)：取词最快的英英词典！
 
 ### 2019年4月28号添加
 ---
@@ -449,7 +464,7 @@
 ### 2019年4月26号添加
 ---
 #### a188037445 - [Github](https://github.com/a188037445)
-* :white_check_mark: [Hash Calculator](https://github.com/a188037445/Hash-Calculator)：极速哈希计算器
+* :x: [Hash Calculator](https://github.com/a188037445/Hash-Calculator)：极速哈希计算器
 
 ### 2019年4月22号添加
 ---
