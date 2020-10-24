@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2020年10月24号添加
+---
+#### RiverTwilight(成都) - [Github](https://github.com/RiverTwilight), [博客](https://blog.yungeeker.com)
+* :white_check_mark: [NBlog](https://blog.yungeeker.com)：支持多语言和评论的静态Markdown博客系统，无需服务器，响应式 - [更多介绍](https://github.com/RiverTwilight/NBlog)
+
 ### 2020年9月23号添加
 ---
 #### Strawmanbobi(南京) - [Github](https://github.com/irext/irext),
