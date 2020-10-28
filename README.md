@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2020年10月28号添加
+---
+#### Vove7(上海) - [Github](https://github.com/Vove7)
+* :white_check_mark: [VAssistant](https://www.coolapk.com/apk/cn.vove7.vassistant)：Android平台强大的自定义语音助手 - [博客](https://vove.gitee.io)
+* :white_check_mark: [EnergyRing](https://www.coolapk.com/apk/cn.vove7.energy_ring)：挖孔屏福利，电量指示环
+
 ### 2020年10月24号添加
 ---
 #### RiverTwilight(成都) - [Github](https://github.com/RiverTwilight), [博客](https://blog.yungeeker.com)
