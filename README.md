@@ -1534,12 +1534,11 @@
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
-* [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 * [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
 
 #### 5. 值得关注的 Twitter 账号
 * [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
-* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
+* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152) 
 * [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
 
 #### 6. 最后
