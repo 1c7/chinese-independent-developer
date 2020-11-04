@@ -1523,6 +1523,7 @@
 * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
+* [Remotebond](https://remotebond.com/) - 找远程工作
 * [RemoteOK](https://remoteok.io/) - 找远程工作
 * [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
