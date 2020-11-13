@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年11月13号添加
+---
+#### 竹行(杭州) - [Github](https://github.com/zimujiang)
+* :white_check_mark: [字幕酱](https://www.zimujiang.com?utm_source=chinese-independent-developer)：一个字幕在线生成、翻译、格式转换的工具网站 - [更多介绍](https://www.zimujiang.com/about_us.html)
 
 ### 2020年10月28号添加
 ---
