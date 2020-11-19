@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年11月20号添加
+---
+#### Jeff(杭州) - [Github](https://github.com/JeffLi1993), [博客](openwrite.cn)
+* :white_check_mark: [微信公众号 Markdown 编辑器 - OpenWrite](https://md.openwrite.cn/)：Markdown 微信编辑器是一款专业强大的微信公众平台在线编辑排版工具，提供手机预览功能，让用户在微信图文 、文章、内容排版、文本编辑、素材编辑上更加方便 - [更多介绍](https://openwrite.cn/product-markdown)
+
 ### 2020年11月16号添加
 ---
 #### clwater(上海) - [Github](https://github.com/clwater)
