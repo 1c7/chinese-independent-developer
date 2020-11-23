@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年11月23号添加
+---
+#### hooopo (北京) - [Github](https://github.com/hooopo), [博客](https://twitter.com/hooopo)
+* :white_check_mark: [DrawERD](https://drawerd.com)：数据库ERD协作工具 - [更多介绍](https://v2ex.com/t/661611)
+* :white_check_mark: [Hackershare](https://hackershare.dev)：开源书签共享工具 - [更多介绍](https://v2ex.com/t/709437)
+
 ### 2020年11月20号添加
 ---
 #### Jeff(杭州) - [Github](https://github.com/JeffLi1993), [博客](openwrite.cn)
