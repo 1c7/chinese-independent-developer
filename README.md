@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年11月26号添加
+---
+#### 阿猫阿狗 - [博客](https://blog.yhz610.com/)
+* :white_check_mark: [极简导航](https://nav.yhz610.com/)：一个专注极简的导航主页 - [更多介绍](https://github.com/leslieyin/jjdaohang)
+
 ### 2020年11月23号添加
 ---
 #### hooopo (北京) - [Github](https://github.com/hooopo), [博客](https://twitter.com/hooopo)
