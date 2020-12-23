@@ -21,6 +21,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2020年12月23号添加
+---
+#### getjennyli - [Github](https://github.com/getjennyli)
+* :white_check_mark: [Bucket](https://apps.apple.com/cn/app/bucket-achieve-your-goals/id1534447271)：愿望清单 App
+#### ZhongYuanDong(佛山市) - [Github](https://github.com/yuandongzhong//)
+* :white_check_mark: [白菜录屏](https://www.bakchoi.com)：简洁、功能强大的Mac录屏软件。
+#### ysykzheng(成都)
+* :white_check_mark: [我比你强问答](https://wobiniqiang.com/)：常见知识问答收集，不用到处找了。
+
 ### 2020年11月26号添加
 ---
 #### 阿猫阿狗 - [博客](https://blog.yhz610.com/)
