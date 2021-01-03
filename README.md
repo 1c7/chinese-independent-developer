@@ -22,11 +22,6 @@
 （名字按时间排序，最新添加的在最上面）
 
 
-### 2021年1月2号添加
----
-#### yanhuihang（广州） - [Gitee](https://gitee.com/yanhuihang/)
-* :white_check_mark: [哔哩哔哩舆论工具](https://gitee.com/yanhuihang/Bilibili)：哔哩哔哩视频网弹幕发送者查看器（本来是加密的，解密了一下）。
-
 ### 2020年12月23号添加
 ---
 #### getjennyli - [Github](https://github.com/getjennyli)
