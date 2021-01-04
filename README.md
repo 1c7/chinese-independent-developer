@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2020年12月23号添加
+---
+#### zhengmingpei(济南市) - [Github](https://github.com/ZhengMingpei)
+* :clock8: : [视频进度条生成工具](https://gitee.com/zhengmingpei/VideoProgressBarTool-Windows)：帮助制作视频进度条的辅助小工具(暂时在 Gitee 上) - [更多介绍](https://www.bilibili.com/video/BV1ZA411p7M2/)
 
 ### 2020年12月23号添加
 ---
