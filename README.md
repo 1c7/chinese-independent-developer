@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年1月5号添加
+---
+#### 阿树(上海) - [Github](https://github.com/zhishu520)
+* :white_check_mark: [早晨计划](https://apps.apple.com/cn/app/%E6%97%A9%E6%99%A8%E8%AE%A1%E5%88%92/id1542908683)：帮你早起一小时，规划生活，达成目标的app
+
 ### 2021年1月4号添加
 ---
 #### zhengmingpei(济南市) - [Github](https://github.com/ZhengMingpei)
