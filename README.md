@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年2月14号添加
+---
+#### 西格玛(上海) - [Github](https://github.com/SigmaAdrich)
+* :white_check_mark: [数字水印](http://www.shuiyin.online/)：肉眼不可见的水印 (严格地说来是肉眼不容易分辨的水印，所以比较难以识别出来并去除，减少破坏图片的完整性)
+
 ### 2021年1月5号添加
 ---
 #### 阿树(上海) - [Github](https://github.com/zhishu520)
