@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年2月20号添加
+---
+#### secret_C - [Gitee](https://gitee.com/secret_C)
+* :white_check_mark: [secret-performance-desktop](https://gitee.com/SecretOpen/secret-performance-desktop)：让桌面炫酷起来的桌面个性化工具
+
 ### 2021年2月14号添加
 ---
 #### 西格玛(上海) - [Github](https://github.com/SigmaAdrich)
