@@ -565,8 +565,8 @@
 
 ### 2019年4月14号添加
 ---
-#### zgjie - [Twitter](https://twitter.com/zgjie)
-* :white_check_mark: [相照（Timeflower）](https://itunes.apple.com/cn/app/id1436035479)：浏览 iOS 照片库中的往年今日照片，支持农历
+#### zgjie
+* :white_check_mark: [相照（Timeflower）](https://itunes.apple.com/cn/app/id1436035479)：轻松整理照片，支持iOS，iPadOS，macOS - [Twitter](https://twitter.com/timeflowerphoto)
 
 ### 2019年4月13号添加
 ---
