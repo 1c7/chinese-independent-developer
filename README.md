@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年3月7号添加
+---
+#### Xmacs - [Github](https://github.com/XmacsLabs/Xmacs)
+* :white_check_mark: [Xmacs](https://gitee.com/xmacs/Xmacs)：面向科技工作者的编辑平台
+
 ### 2021年2月20号添加
 ---
 #### secret_C - [Gitee](https://gitee.com/secret_C)
