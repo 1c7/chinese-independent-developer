@@ -836,9 +836,8 @@
 
 ### 2018年6月26号添加
 ---
-
-#### enzeberg - [GitHub](https://github.com/enzeberg)
-* :white_check_mark: [铜钟聚合音乐](http://tongzhong.xyz)：试图解决你来回切换音乐软件的烦恼 - [更多介绍](https://github.com/enzeberg/tongzhong-music)
+#### enzeberg (上海) - [GitHub](https://github.com/enzeberg)
+* :white_check_mark: [铜钟音乐](http://tonzhon.com)：将QQ音乐、网易云音乐和酷我音乐上的歌添加到一个列表来播放！- [更多介绍](https://creatorsdaily.com/e4bd2175-4cb0-4061-86b8-7f419767b615)
 
 #### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
 * :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个 APP 就可以看多个平台的直播，流畅、纯净、无广告
