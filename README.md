@@ -24,7 +24,7 @@
 ### 2021年4月13号添加
 ---
 #### xiejiahe(珠海) - [Github](https://github.com/xjh22222228)
-* :Boomb: [Boomb](https://github.com/xjh22222228/boomb)：基于 Github 轻松管理您的存储图库
+* :white_check_mark: [Boomb](https://github.com/xjh22222228/boomb)：基于 Github 轻松管理您的存储图库
 
 ### 2021年4月9号添加
 ---
