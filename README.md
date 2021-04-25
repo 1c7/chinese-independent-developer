@@ -116,7 +116,8 @@
 ### 2020年10月20号添加
 ---
 #### GeorgeZou(北京) - [Github](https://github.com/georgezouq), [博客](https://blog.tefact.com/)
-* :clock8: [Tefact](https://github.com/Tefact/tefact-saas)：无代码平台，通过配置自动生成页面和增删改查后台
+* :clock8: [星搭 StaringOS](https://staringos.com)：星搭无代码平台，快速构建中后台、小程序
+* :clock8: [Tefact编辑器](https://github.com/staringos/tefact)：轻量级开源无代码 H5、表单 编辑器
 * :white_check_mark: [真科技周刊](https://github.com/Tefact/tefact-weekly)：科技 · 商业 · 人文 · 未来
 
 ### 2020年10月06号添加
