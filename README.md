@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年5月14号添加
+---
+#### 一粒豆子(深圳)
+* :white_check_mark: [魔豆车主](https://www.yilidouzi.com)：更适合国人使用的特斯拉车主app，记录特斯拉车辆行程及充电费用。 - [更多介绍](http://www.yilidouzi.com/)
+
 ### 2021年4月9号添加
 ---
 #### LisenH - [Github](https://github.com/LisenH)
