@@ -36,8 +36,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2020年9月23号添加
 ---
-#### Strawmanbobi(南京) - [Github](https://github.com/irext/irext),
-* :white_check_mark: [IRext](https://irext.net)：万能红外遥控解决方案，全球唯一开源万能红外遥控码库+编解码方案（IRext open source organization)
+#### Strawmanbobi(南京) - [Gitlab](http://strawmanbobi.wicp.net/irext),
+* :white_check_mark: [IRext](https://cc.irext.net)：万能红外遥控解决方案，全球唯一开源万能红外遥控码库+编解码方案（IRext open source organization)
 
 ### 2020年9月5号添加
 ---
