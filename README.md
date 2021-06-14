@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2021年6月14号添加
+---
+#### newbe36524(上海) - [Github](https://github.com/newbe36524/Amazing-Favorites)
+* :white_check_mark: [Amazing-Favorites](https://af.newbe.pro/)：高效管理和搜索浏览器收藏的浏览器扩展。
+
 ### 2021年6月11号添加
 ---
 #### YJ1211 - [Github](https://github.com/guyijie1211)
