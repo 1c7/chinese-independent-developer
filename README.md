@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年6月16号添加
+---
+#### seth-shi(西安) - [Github](https://github.com/seth-shi), [博客](http://www.shiguopeng.cn/)
+* :white_check_mark: [有梦记](https://www.youmengji.zone/)：有梦记让你一目了然你的过往。记住那些不愿忘记的梦! 
 
 ### 2021年6月14号添加
 ---
