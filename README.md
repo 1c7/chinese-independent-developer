@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年6月28号添加
+---
+#### SuperMonster003(北京) - [Github](https://github.com/SuperMonster003/Ant-Forest)
+* :white_check_mark: [Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)：基于Auto.js的蚂蚁森林能量自动收取脚本 - [更多介绍](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest))
 
 ### 2021年6月17号添加
 ---
