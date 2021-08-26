@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2021年8月26号添加
+---
+#### montisan(长沙) - [Github](https://github.com/montisan)
+* :white_check_mark: [极客编辑器](https://www.geekeditor.com)：极客编辑器是一个所见即所得（WYSIWYG）富文本沉浸式深度写作编辑器，它注重效率创作，可多开文档编辑，同时支持Markdown语法输入。它重视写作者内容隐私及数据安全，目前已支持浏览器本地、Github及Gitee仓库文档存储，支持Github、Gitee仓库图片资源存储。在线版访问：[https://www.geekeditor.com](https://www.geekeditor.com) 。当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以一键复制到微信公众号、知乎及掘金等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
+
 ### 2021年5月20号添加
 ---
 #### beavailable - [Github](https://github.com/beavailable)
