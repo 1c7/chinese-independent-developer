@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年10月17号添加
+---
+#### lmk123 - [GitHub](https://github.com/lmk123), [博客](https://github.com/lmk123/blog/issues)
+* :white_check_mark: [划词翻译](https://hcfy.app)：跨平台的一站式划词、截图、网页全文、音视频翻译扩展 - [更多介绍](https://hcfy.app/docs/guides/summary/)
+
 ### 2021年10月9号添加
 ---
 #### nojsja(成都) - [Github](https://github.com/nojsja), [博客](https://nojsja.gitee.io/blogs/)
