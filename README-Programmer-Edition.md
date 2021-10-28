@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2021年10月28号添加
+---
+#### Mizhousoft(赣州) - [Github](https://github.com/mizhousoft)
+* :white_check_mark: [开源选型](https://open.mizhousoft.com)：为Java、Golang、前端、Swift、Android开发人员提供业界流行的组件 - [更多介绍](https://open.mizhousoft.com)
+
 
 ### 2021年10月23号添加
 ---
