@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年11月16号添加
+---
+#### Alecyrus - [GitHub](https://github.com/Alecyrus)
+* :white_check_mark: [Thorn](https://app.thorn.press)：一款简单的写作应用，无限丝滑的创作体验 - [更多介绍](https://app.thorn.press/tutorial)
+
 ### 2021年10月17号添加
 ---
 #### lmk123 - [GitHub](https://github.com/lmk123), [博客](https://github.com/lmk123/blog/issues)
