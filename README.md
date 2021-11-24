@@ -92,11 +92,6 @@
 * :white_check_mark: [Make Zero](https://github.com/sheepzh/make-zero)：快捷易用的文本加解密浏览器扩展。支持手动和自动加解密，自定义密码，密文风格切换 - [更多介绍](https://www.bilibili.com/video/BV1x54y1t7MR)
 * :white_check_mark: [网费很贵](https://github.com/sheepzh/timer)：用于统计上网时间的浏览器扩展。多种统计口径，丰富的图表展示，支持数据导出 - [更多介绍](https://www.douban.com/group/topic/213888429/)
 
-### 2021年3月7号添加
----
-#### Xmacs - [Github](https://github.com/XmacsLabs/Xmacs)
-* :white_check_mark: [Xmacs](https://gitee.com/xmacs/Xmacs)：面向科技工作者的编辑平台
-
 ### 2021年2月20号添加
 ---
 #### secret_C - [Gitee](https://gitee.com/secret_C)
