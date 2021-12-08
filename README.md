@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2021年12月8号添加
+---
+#### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
+* :white_check_mark: [梦见账本](https://apps.apple.com/cn/app/id1498426607)：百变外观，独创智能梦见模式的记账软件
+* :white_check_mark: [扫雷Elic 无尽天梯](https://apps.apple.com/cn/app/id1488204246)：益智小游戏，挑战各国扫雷高手
+* :white_check_mark: [隐私访问记录](https://apps.apple.com/cn/app/id1590992377)：系统性分析隐私访问记录，让隐私小偷无处可藏
+
 ### 2021年11月16号添加
 ---
 #### Alecyrus - [GitHub](https://github.com/Alecyrus)
