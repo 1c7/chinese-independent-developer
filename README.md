@@ -21,6 +21,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年1月10号添加
+
+---
+
+#### JRay0108(济南) - [Github](https://github.com/JRay0108)
+
+* :white_check_mark: [树影取名]()：从中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势，详细介绍见 [Github树影取名](https://github.com/JRay0108/shuying)。
+
+  ![shuying-acode](./shuying-acode.png)
+
 ### 2021年12月8号添加
 ---
 #### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
@@ -1680,5 +1690,4 @@
 #### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
-
 
