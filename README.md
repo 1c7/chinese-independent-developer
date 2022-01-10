@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年1月10号添加
+---
+#### JRay0108(济南) - [Github](https://github.com/JRay0108)
+* :white_check_mark: [树影取名](https://github.com/JRay0108/shuying)：从诗经楚辞唐诗宋词等中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势。
+
+
 ### 2021年12月8号添加
 ---
 #### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
