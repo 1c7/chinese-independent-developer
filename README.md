@@ -27,9 +27,8 @@
 
 #### JRay0108(济南) - [Github](https://github.com/JRay0108)
 
-* :white_check_mark: [树影取名]()：从中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势，详细介绍见 [Github树影取名](https://github.com/JRay0108/shuying)。
+* :white_check_mark: [树影取名](https://github.com/JRay0108/shuying)：从诗经楚辞唐诗宋词等中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势。
 
-  ![shuying-acode](./shuying-acode.png)
 
 ### 2021年12月8号添加
 ---
