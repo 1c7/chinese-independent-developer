@@ -26,6 +26,9 @@
 #### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
 * :white_check_mark: [只读链接](https://readonly.link)：一个文档渲染工具，文字创作者的社区。来自书籍与文章的邀请～
 
+#### 洋子(成都) - [Github](https://github.com/purocean), [博客](https://blog-purocean.vercel.app/)
+* :white_check_mark: [Yank Note](https://github.com/purocean/yn)：一款面向程序员的 Markdown 本地笔记应用，支持代码片段运行、HTML 小工具、多种图表嵌入、历史版本回溯、插件拓展 - [更多介绍](https://blog-purocean.vercel.app/yank-note-01/)
+
 ### 2022年1月10号添加
 ---
 #### JRay0108(济南) - [Github](https://github.com/JRay0108)
