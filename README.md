@@ -21,6 +21,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年02月06号添加
+---
+#### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
+* :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：一款简单快速的iOS泛用型播客App。
+
+* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
+
+* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的RSS iOS阅读器，给RSS用户提供一种新的阅读体验。
+
+
 ### 2022年1月29号添加
 ---
 #### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
