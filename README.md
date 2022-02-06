@@ -28,7 +28,7 @@
 
 * :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
 
-* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的RSS阅读器，给RSS用户提供一种新的阅读体验。
+* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的RSS iOS阅读器，给RSS用户提供一种新的阅读体验。
 
 
 ### 2022年1月29号添加
