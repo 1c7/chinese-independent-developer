@@ -23,7 +23,7 @@
 
 ### 2022年02月06号添加
 ---
-#### Norton(南京) - [GitHub](https://github.com/jiangdi0924) [bilibili](https://space.bilibili.com/228834724)
+#### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
 * :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：一款简单快速的iOS泛用型播客App。
 
 * :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
