@@ -21,6 +21,52 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年02月06号添加
+---
+#### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
+* :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：一款简单快速的iOS泛用型播客App。
+
+* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
+
+* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的RSS iOS阅读器，给RSS用户提供一种新的阅读体验。
+
+
+### 2022年1月29号添加
+---
+#### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
+* :white_check_mark: [只读链接](https://readonly.link)：一个文档渲染工具，文字创作者的社区。来自书籍与文章的邀请～
+
+#### 洋子(成都) - [Github](https://github.com/purocean), [博客](https://blog-purocean.vercel.app/)
+* :white_check_mark: [Yank Note](https://github.com/purocean/yn)：一款面向程序员的 Markdown 本地笔记应用，支持代码片段运行、HTML 小工具、多种图表嵌入、历史版本回溯、插件拓展 - [更多介绍](https://blog-purocean.vercel.app/yank-note-01/)
+
+### 2022年1月10号添加
+---
+#### JRay0108(济南) - [Github](https://github.com/JRay0108)
+* :white_check_mark: [树影取名](https://github.com/JRay0108/shuying)：从诗经楚辞唐诗宋词等中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势。
+
+
+### 2021年12月8号添加
+---
+#### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
+* :white_check_mark: [梦见账本](https://apps.apple.com/cn/app/id1498426607)：百变外观，独创智能梦见模式的记账软件
+* :white_check_mark: [扫雷Elic 无尽天梯](https://apps.apple.com/cn/app/id1488204246)：益智小游戏，挑战各国扫雷高手
+* :white_check_mark: [隐私访问记录](https://apps.apple.com/cn/app/id1590992377)：系统性分析隐私访问记录，让隐私小偷无处可藏
+
+### 2021年11月16号添加
+---
+#### Alecyrus - [GitHub](https://github.com/Alecyrus)
+* :white_check_mark: [Thorn](https://app.thorn.press)：一款简单的写作应用，无限丝滑的创作体验 - [更多介绍](https://app.thorn.press/tutorial)
+
+### 2021年10月17号添加
+---
+#### lmk123 - [GitHub](https://github.com/lmk123), [博客](https://github.com/lmk123/blog/issues)
+* :white_check_mark: [划词翻译](https://hcfy.app)：跨平台的一站式划词、截图、网页全文、音视频翻译扩展 - [更多介绍](https://hcfy.app/docs/guides/summary/)
+
+### 2021年10月9号添加
+---
+#### nojsja(成都) - [Github](https://github.com/nojsja), [博客](https://nojsja.gitee.io/blogs/)
+* :white_check_mark: [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron)：Shadowsocks跨平台客户端(Ubuntu/Mac x64) - [更多介绍](https://nojsja.gitee.io/blogs/2021/10/04/5384287.html/)
+
 ### 2021年8月31号添加
 ---
 #### Guyskk - [Github](https://github.com/guyskk), [博客](https://blog.guyskk.com/)
@@ -76,11 +122,6 @@
 #### sheepzh(深圳) - [Github](https://github.com/sheepzh)
 * :white_check_mark: [Make Zero](https://github.com/sheepzh/make-zero)：快捷易用的文本加解密浏览器扩展。支持手动和自动加解密，自定义密码，密文风格切换 - [更多介绍](https://www.bilibili.com/video/BV1x54y1t7MR)
 * :white_check_mark: [网费很贵](https://github.com/sheepzh/timer)：用于统计上网时间的浏览器扩展。多种统计口径，丰富的图表展示，支持数据导出 - [更多介绍](https://www.douban.com/group/topic/213888429/)
-
-### 2021年3月7号添加
----
-#### Xmacs - [Github](https://github.com/XmacsLabs/Xmacs)
-* :white_check_mark: [Xmacs](https://gitee.com/xmacs/Xmacs)：面向科技工作者的编辑平台
 
 ### 2021年2月20号添加
 ---
@@ -320,6 +361,10 @@
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [摸鱼大闯关](https://p.hancel.org/)：摸鱼闯关网页解谜游戏，结合了多种计算机技术与计算机社区梗。摸鱼也要学技术！
+* :white_check_mark: [摸鱼派聊天室 客户端](https://github.com/imlinhanchao/pwl-chat)：摸鱼派聊天室的桌面客户端，摸鱼聊天更方便啦！
+* :white_check_mark: [摸鱼派聊天室 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.pwl-chat)：支持在 VSCode 中摸鱼聊天的扩展应用，开启摸鱼新姿势。 [更多介绍](https://github.com/imlinhanchao/vsc-pwl-chat)
+* :white_check_mark: [Serial Port Helper](https://marketplace.visualstudio.com/items?itemName=hancel.serialport-helper)：VSCode扩展，支持在 VSCode 中连接与调试串口通信。 [更多介绍](https://github.com/imlinhanchao/vsc-serialport-helper)
 * :white_check_mark: [自考英语查询](https://eng.sxisa.com/)：英语单词查询网站，支持简单的笔记记录 - [更多介绍](https://github.com/imlinhanchao/eng)
 * :white_check_mark: [Code Snippet](https://code-snippet.cn/)：代码片段分享网站，类似 Gist，新增了代码在线运行和网页预览的功能 - [更多介绍](https://github.com/imlinhanchao/code-snippet)
 * :white_check_mark: [Google 翻译 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.google-translate)：基于 Google 翻译的 VSCode 扩展 - [更多介绍](https://github.com/imlinhanchao/vsc-google-translate)

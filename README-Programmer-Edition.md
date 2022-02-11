@@ -14,6 +14,33 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2022年1月29号添加
+---
+#### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
+* :white_check_mark: [蝉语](https://cicada-lang.org)：一个可以用来形式化数学定理的程序语言。
+
+### 2021年11月11号添加
+---
+#### Eson(广州) - [Github](https://github.com/itiwll), [博客](https://blog.esonwong.com)
+* :white_check_mark: [Network RC](https://network-rc.esonwong.com)：Network RC 是运行在树莓派和浏览器上的网络遥控车软件 - [更多介绍](https://github.com/itiwll/network-rc/blob/master/README-cn.md)
+
+### 2021年11月6号添加
+---
+#### xnat9(成都) - [Github](https://github.com/xnat9)
+* :white_check_mark: [tiny](https://github.com/xnat9/tiny)：小巧的java应用微内核框架, 可用于构建小工具项目，web项目，各种大大小小的项目
+
+### 2021年10月28号添加
+---
+#### Mizhousoft(赣州) - [Github](https://github.com/mizhousoft)
+* :white_check_mark: [开源选型](https://open.mizhousoft.com)：为Java、Golang、前端、Swift、Android开发人员提供业界流行的组件
+
+
+### 2021年10月23号添加
+---
+#### xnat9(成都) - [Github](https://github.com/xnat9)
+* :white_check_mark: [GRule](https://github.com/xnat9/grule)：自创Groovy DSL 动态规则(rule)执行引擎, 流程引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)
+
+
 ### 2021年8月26号添加
 ---
 #### montisan(长沙) - [Github](https://github.com/montisan)
