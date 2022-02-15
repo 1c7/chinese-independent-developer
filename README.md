@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年02月15号添加
+---
+#### zhshch（北京）
+* :white_check_mark: [NextSSH | SSH工具，不只是命令终端](https://xzhshch.com/)：一个具有现代化界面与丰富功能的 SSH 连接管理工具 🔧。
+
 ### 2022年02月14号添加
 ---
 #### 胡镇华(广州) - [Github](https://github.com/hzh-cocong), [博客](https://cocong.cn)
