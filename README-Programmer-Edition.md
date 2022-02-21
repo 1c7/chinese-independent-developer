@@ -16,8 +16,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2022年2月21号添加
 ---
-#### Yxliam(广州) - [主页](https://www.toolbon.com/), [Github](https://github.com/Yxliam)
-* :white_check_mark: [优工具](https://github.com/Yxliam)：一个在线工具箱。
+#### Yxliam(广州) - [Github](https://github.com/Yxliam)
+* :white_check_mark: [优工具](https://www.toolbon.com/)：一个在线工具箱。
 
 ### 2022年1月29号添加
 ---
