@@ -14,6 +14,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月 
 
+### 2022年3月12号添加
+---
+#### mnikn(广州) - [Github](https://github.com/mnikn)
+* :white_check_mark: [General Data Manager](https://github.com/mnikn/general-data-manager)：一个通用配置数据管理软件，能够根据数据格式自定义定制对应的编辑面板。支持 json 数据的可视化。
+
+### 2022年2月21号添加
+---
+#### Yxliam(广州) - [Github](https://github.com/Yxliam)
+* :white_check_mark: [优工具](https://www.toolbon.com/)：一个在线工具箱。
+
 ### 2022年1月29号添加
 ---
 #### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
