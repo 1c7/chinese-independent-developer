@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年4月18号添加
+---
+#### netbeen(杭州) - [GitHub](https://github.com/netbeen)
+* :white_check_mark: [Wealth Manager](https://wealth-manager.netbeen.top) : 一个家庭财务管理应用，支持总资产统计/各渠道下钻，公募基金持仓分析/收益率计算/年化收益率计算，保险列表/保险续费提醒，支持多用户共同维护一个账本。致力于让每个家庭对自身的财务状况、投资收益有更加清晰的认知 - [更多介绍](https://github.com/netbeen/wealth-manager-front-end)
+
 ### 2022年4月16号添加
 ---
 #### snow(北京) - [Github](https://github.com/yangpeng7), [博客](https://jiudian.link/)
