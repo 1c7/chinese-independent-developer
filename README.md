@@ -946,7 +946,7 @@
 * :white_check_mark: [Facemoji 废萌](https://play.google.com/store/apps/details?id=com.huihut.facemoji)：一个可以模仿你的表情的语音聊天机器人- [更多介绍](https://blog.huihut.com/2018/02/08/Facemoji1/), [更多介绍2](https://github.com/huihut/Facemoji)
 
 #### cjztool - [Github](https://github.com/cjztool), [博客](http://cjz010.iteye.com/)
-* :white_check_mark: [中医方歌](http://app.mi.com/details?id=com.cjz.PrescriptionPoem)：中医《方剂学》学习工具
+* :white_check_mark: [中医方歌](https://app.mi.com/details?id=com.cjz.PrescriptionPoem)：中医《方剂学》学习工具
 
 ### 2018年7月4号添加
 ---
@@ -959,17 +959,16 @@
 ---
 
 #### alphardex - [Github](https://github.com/alphardex)
-* :white_check_mark: [techattic](http://techattic.herokuapp.com/)：一家聚集了许多 IT 技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
+* :white_check_mark: [techattic](https://techattic.herokuapp.com/)：一家聚集了许多 IT 技术博客的网站 - [更多介绍](http://techattic.herokuapp.com/about)
 
 ### 2018年6月26号添加
 ---
 #### enzeberg (上海) - [GitHub](https://github.com/enzeberg)
-* :white_check_mark: [铜钟音乐](http://tonzhon.com)：将QQ音乐、网易云音乐和酷我音乐上的歌添加到一个列表来播放！- [更多介绍](https://creatorsdaily.com/e4bd2175-4cb0-4061-86b8-7f419767b615)
+* :white_check_mark: [铜钟音乐](https://tonzhon.com)：将QQ音乐、网易云音乐和酷我音乐上的歌添加到一个列表来播放！- [更多介绍](https://creatorsdaily.com/e4bd2175-4cb0-4061-86b8-7f419767b615)
 
 #### linroid - [GitHub](https://github.com/linroid), [博客](https://linroid.com/about)
 * :white_check_mark: [Z直播](https://www.coolapk.com/apk/com.linroid.zlive)：一个 APP 就可以看多个平台的直播，流畅、纯净、无广告
 * :white_check_mark: [看应用](https://www.coolapk.com/apk/com.linroid.viewit)：可以找到应用缓存的所有图片，可以很方便地提取资源 - [更多介绍](https://github.com/linroid/ViewIt)
-* :white_check_mark: [体测成绩查询(微校应用)](http://weixiao.qq.com/store/details/10978)：全国高校体测成绩查询，只需输入身份证号码就可以查询体测成绩
 
 #### xiaobaiso - [GitHub](https://github.com/xiaobaiso), [博客](https://xiaobaiso.github.io/)
 * :white_check_mark: [临时邮](https://itunes.apple.com/cn/app/%E4%B8%B4%E6%97%B6%E9%82%AE-%E5%8D%81%E5%88%86%E9%92%9F%E9%82%AE%E7%AE%B1/id1342693449?mt=8)：一键生成多个临时邮箱地址 - [更多介绍](https://xiaobaiso.github.io/tempmail/)
