@@ -24,7 +24,7 @@
 ### 2022年5月6号添加
 ---
 #### dunizb(杭州) - [GitHub](https://github.com/dunizb)，[个人主页](https://mo.run/zhangzhang/)
-* :white_check_mark: [集美美图](https://apps.apple.com/cn/app/id1592148389)：一个简单纯粹的美女写真壁纸精选APP。Android版已上线小米、华为、百度、酷安、360应用市场。[蒲公英本地下载](https://www.pgyer.com/jmmt)
+* :white_check_mark: [集美美图](https://apps.apple.com/cn/app/id1592148389)：一个简单纯粹的美女写真壁纸精选 APP。Android 版已上线小米、华为、百度、酷安、360应用市场 - [更多介绍](https://www.pgyer.com/jmmt)
 
 ### 2022年4月18号添加
 ---
