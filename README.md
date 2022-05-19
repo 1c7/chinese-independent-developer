@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2022年5月19号添加
+---
+#### zhangyw(北京) - [Github](https://github.com/zhangyingwei), [博客](https://blog.zhangyingwei.com)
+* :white_check_mark: [QuickDashboard](https://chrome.google.com/webstore/detail/quickdashboard/dicohhlagpacaelhmodlihaampnapape)：一个简洁美观的 Chrome 浏览器新标签页扩展 - [更多介绍](https://blog.zhangyingwei.com/posts/2022m5d16h20m22s20/)
+
 ### 2022年5月6号添加
 ---
 #### dunizb(杭州) - [GitHub](https://github.com/dunizb)，[个人主页](https://mo.run/zhangzhang/)
