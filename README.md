@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年5月28号添加
+---
+#### 沈浪熊猫儿（杭州） - [Github](https://github.com/darcy-shen), [Gitee](https://gitee.com/darcyshen)
+* :white_check_mark: [墨干编辑器](https://gitee.com/XmacsLabs/mogan): 一个致力于让所有人畅快地学习既有的科学与技术，创造全新的科学与技术的结构化编辑器。- [更多介绍](https://www.bilibili.com/video/BV1tU4y1171q)
 
 ### 2022年5月19号添加
 ---
