@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年5月31号添加
+---
+#### 酱咸(广州) - [Github](https://github.com/Maxbee)
+* :white_check_mark: [金橘记账](https://apps.apple.com/cn/app/%E9%87%91%E6%A2%A8-%E4%B8%AA%E4%BA%BA%E8%B5%84%E4%BA%A7%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8B/id1551523441)：多人一起记账 股票基金自动记账的记账App - [更多介绍](https://app.xgmm.me:3002/md_h5/front)
+
 ### 2022年5月28号添加
 ---
 #### 沈浪熊猫儿（杭州） - [Github](https://github.com/darcy-shen), [Gitee](https://gitee.com/darcyshen)
