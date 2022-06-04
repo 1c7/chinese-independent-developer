@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年6月4号添加
+---
+#### Carson（广州） - [Github](https://github.com/CarsonLam)
+* :white_check_mark: [Quest新标签页](https://support.qq.com/products/308410/blog/744528)：一款【聚合搜索】新标签页效率插件。
+
+
 ### 2022年5月31号添加
 ---
 #### 酱咸(广州) - [Github](https://github.com/Maxbee)
