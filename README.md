@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年6月5号添加
+---
+#### Runjuu（上海） - [Github](https://github.com/Runjuu), [Twitter](https://twitter.com/runjuuu)
+* :white_check_mark: [Input Source Pro](https://inputsource.pro)：优化 macOS 输入法使用体验；根据应用或网站自动切换输入法，自动展示当前输入法。
+* :white_check_mark: [SongLink](https://apps.apple.com/cn/app/songlink/id1341416046)：多平台音乐搜索工具。
+
 ### 2022年6月4号添加
 ---
 #### Carson（广州） - [Github](https://github.com/CarsonLam)
