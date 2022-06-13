@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年6月13号添加
+---
+ #### yangxuechen(成都) - [Github](https://github.com/yangxuechen/resume_vue3_ts)
+* :white_check_mark: [大象简历](https://yangxuechen.github.io/resume_vue3_ts/) :  开源的简历模板工具，支持在线编辑、导出pdf文件
+
+
 ### 2022年6月6号添加
 ---
 #### hzlzh自力（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://twitter.com/hzlzh)
