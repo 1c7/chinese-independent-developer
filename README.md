@@ -21,10 +21,15 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年6月17号添加
+---
+#### 秋风（北京）- [Github](https://github.com/hua1995116), [Jike](https://okjk.co/CEcbno)
+* :white_check_mark: [木及简历](https://www.mujicv.com): 一款基于 Markdown 编写的简历工具，包含多个可插拔式插件。专注简历内容，告别繁琐排版
+
 ### 2022年6月13号添加
 ---
- #### yangxuechen(成都) - [Github](https://github.com/yangxuechen/resume_vue3_ts)
-* :white_check_mark: [大象简历](https://yangxuechen.github.io/resume_vue3_ts/) :  开源的简历模板工具，支持在线编辑、导出pdf文件
+#### yangxuechen(成都) - [Github](https://github.com/yangxuechen/resume_vue3_ts)
+* :white_check_mark: [大象简历](https://yangxuechen.github.io/resume_vue3_ts/) :  开源的简历模板工具，支持在线编辑、导出 PDF 文件
 
 
 ### 2022年6月6号添加
