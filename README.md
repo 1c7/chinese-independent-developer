@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年6月22号添加
+---
+#### tangshimin（深圳）- [Github](https://github.com/tangshimin)
+* :white_check_mark: [Typing Learner](https://github.com/tangshimin/typing-learner): 通过键盘肌肉记忆单词，句子，字幕。可以用 MKV 视频生成词库（生词本），让每个单词都有具体的语境。
+
 ### 2022年6月17号添加
 ---
 #### 秋风（北京）- [Github](https://github.com/hua1995116), [Jike](https://okjk.co/CEcbno)
