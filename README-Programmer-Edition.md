@@ -84,7 +84,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年9月23号添加
 ---
 #### Strawmanbobi(南京) - [Gitlab](http://strawmanbobi.wicp.net/irext),
-* :white_check_mark: [IRext](https://cc.irext.net)：万能红外遥控解决方案，全球唯一开源万能红外遥控码库+编解码方案（IRext open source organization)
+* :white_check_mark: [IRext](https://cc.irext.net)：万能红外遥控解决方案，全球唯一开源万能红外遥控码库+编解码方案（IRext open source organization）
 
 ### 2020年9月5号添加
 ---
@@ -162,7 +162,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2019年11月4号添加
 ---
-#### 何辉（深圳) - [Github](https://github.com/qq475742653)
+#### 何辉(深圳) - [Github](https://github.com/qq475742653)
 * :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台+echarts做前端集成演示：所有数据皆出后台报表获取，构造成ECHARTS所需要的JSON数组（一维数据、二维数据、三维数据等），传给前端的ECHARTS，支持大屏显示、实时刷新。展示了24类，上百张echarts报表
 
 ### 2019年10月13号添加

@@ -986,7 +986,7 @@
 * :white_check_mark: [ERC20 Token Exchagne](https://wanglingsong.github.io/ERC20ExchangeReactUI/)：基于以太坊的去中心化 ERC20 代币交易所应用（需先安装 Chrome 扩展，请看更多介绍） - [更多介绍](https://github.com/wanglingsong/ERC20Exchange)
 
 #### 易墨 - [Github](https://github.com/yimogit/), [博客](https://www.yimo.link/)
-- :white_check_mark: [metools](https://tools.yimo.link/#/home)：工具集（base64转码，markdown转HTML，二维码生成和识别，数字转人民币大写（壹佰贰拾叁元整）等) - [更多介绍](https://github.com/yimogit/metools-plugin)
+- :white_check_mark: [metools](https://tools.yimo.link/#/home)：工具集（base64转码，markdown转HTML，二维码生成和识别，数字转人民币大写（壹佰贰拾叁元整）等） - [更多介绍](https://github.com/yimogit/metools-plugin)
 
 ### 2018年7月6号添加
 ---
