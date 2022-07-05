@@ -12,7 +12,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 没法加到主版面里去，不是因为不好，只是因为类型不合。
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
-程序员版开始于2019年4月11号, 主版面开始于2018年3月 
+程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
 ### 2022年5月18日添加
 ---
@@ -99,7 +99,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年6月30号添加
 ---
 #### doho(北京) - [Github](https://github.com/zwh1666258377)
-* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将gitbook导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)  
+* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将gitbook导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)
 
 ### 2020年4月14号添加
 ---
@@ -157,7 +157,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年11月21号添加
 ---
 #### 不怕天黑(杭州) - [Github](https://github.com/liujingxing), [博客](https://juejin.im/user/590af762a22b9d0057a6eaca/posts)
-* :white_check_mark: [RxHttp](https://github.com/liujingxing/RxHttp)：一条链发送任意请求，让你眼前一亮的 Http 请求框架 
+* :white_check_mark: [RxHttp](https://github.com/liujingxing/RxHttp)：一条链发送任意请求，让你眼前一亮的 Http 请求框架
 * :white_check_mark: [RxLife](https://github.com/liujingxing/RxLife)：一行代码解决 RxJava 内存泄漏，一款轻量级别的 RxJava 生命周期管理库
 
 ### 2019年11月4号添加
@@ -173,7 +173,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2019年9月15号添加
 ---
-#### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net) 
+#### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net)
 * :white_check_mark: [plugin4j](https://github.com/MagicLu550/plugin4j)：简易的统一规范插件开发框架
 * :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏SCP: 秘密实验室创作的Java插件开发框架
 * :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于AES加密的字节码加密解密API和远程授权控制程序

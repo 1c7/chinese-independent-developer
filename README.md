@@ -1,15 +1,15 @@
 ## 中国独立开发者项目列表
-聚合所有中国独立开发者的项目                  
+聚合所有中国独立开发者的项目
 
 #### [程序员版点这里](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md)：
 程序员版的项目需要用命令行或写一点代码。主版面(这里)是给普通用户用的，打开即用，无需命令行或编程基础
 
-**1. 为什么有这个表**    
-作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
+**1. 为什么有这个表**
+作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）
 所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
+（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）
 
-**2. 项目有 3 种状态**          
+**2. 项目有 3 种状态**
 
 | 开发中 | 已上线 | 已关闭或缺乏维护 |
 |--------|--------|--------|
@@ -170,7 +170,7 @@
 ### 2021年6月16号添加
 ---
 #### seth-shi(西安) - [Github](https://github.com/seth-shi), [博客](http://www.shiguopeng.cn/)
-* :white_check_mark: [有梦记](https://www.youmengji.zone/)：有梦记让你一目了然你的过往。记住那些不愿忘记的梦! 
+* :white_check_mark: [有梦记](https://www.youmengji.zone/)：有梦记让你一目了然你的过往。记住那些不愿忘记的梦!
 
 ### 2021年6月14号添加
 ---
@@ -351,7 +351,7 @@
 #### OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [MPAA 电影分级插件](https://old-panda.com/projects/mpaa-rating-extension-project/)：在豆瓣电影、腾讯视频页面显示该片的 MPAA 分级 - [更多介绍](https://creatorsdaily.com/posts/f3510a80-6c40-494d-9404-a158c283c140)
 * :white_check_mark: [Bamboo](https://old-panda.com/projects/bamboo-parquet-viewer/)：可能是 macOS 上最好用的 Parquet 文件查看器
-* :white_check_mark: [Douban Book+](https://old-panda.com/douban-book-plus.html)：打破豆瓣读书与微信读书之间的壁障 - [更多介绍](https://www.appinn.com/weread-on-douban/) 
+* :white_check_mark: [Douban Book+](https://old-panda.com/douban-book-plus.html)：打破豆瓣读书与微信读书之间的壁障 - [更多介绍](https://www.appinn.com/weread-on-douban/)
 
 ### 2020年5月14号添加
 ---
@@ -420,7 +420,7 @@
 
 ### 2019年12月21号添加
 ---
-#### 刘志军 - [Github](https://github.com/lzjun567) 
+#### 刘志军 - [Github](https://github.com/lzjun567)
 * :white_check_mark: [二十次幂](https://www.ershicimi.com/)：公众号阅读监控数据分析平台
 
 ### 2019年12月19号添加
@@ -461,8 +461,8 @@
 
 ### 2019年11月27号添加
 ---
-#### zoumorn - [Github](https://github.com/zoumorn)  
-* :white_check_mark: [一撮毛](https://github.com/zoumorn/tkreborn)：全网最牛自淘返现工具  
+#### zoumorn - [Github](https://github.com/zoumorn)
+* :white_check_mark: [一撮毛](https://github.com/zoumorn/tkreborn)：全网最牛自淘返现工具
 
 ### 2019年11月24号添加
 ---
@@ -482,7 +482,7 @@
 
 ### 2019年11月13号添加
 ---
-#### 周利刚(杭州) 
+#### 周利刚(杭州)
 * :white_check_mark: [xCoins](https://apps.apple.com/cn/app/id1335320802)：迭代比特币私钥,汇总用户币的总价值
 * :white_check_mark: [足迹中国](https://apps.apple.com/cn/app/id1482250279)：用地图截图记录你去过的中国的省市(上架不久,完善中)
 * :white_check_mark: [假装来电](https://apps.apple.com/cn/app/id1475866564)：设置一定时间后,收到虚假的来电,用于逃离某些场合
@@ -490,13 +490,13 @@
 
 ### 2019年11月6号添加
 ---
-#### lemonTree - [Github](https://github.com/ishare20) 
+#### lemonTree - [Github](https://github.com/ishare20)
 * :white_check_mark: [问题库](https://questionlib.net/)：在线搜索查看试题答案，查看试题解析，讨论试题
 * :white_check_mark: [文字表情制作器](https://www.coolapk.com/apk/79950)：一键制作文字表情
 
 ### 2019年10月30号添加
 ---
-#### 何辉（深圳） - [Github](https://github.com/qq475742653) 
+#### 何辉（深圳） - [Github](https://github.com/qq475742653)
 * :white_check_mark: [相见易](http://www.headset.xin/LHS)：允许用户在手机上、网页上自主设计表单、图表，存储和查询数据、网页与手机端的数据互通（演示用户：13510928305,密码：123456）
 * :white_check_mark: [自由地呼吸](http://www.headset.xin/freebreath)：一款呼吸训练、规律动作训练+心事倾述+呼吸康复学堂,用户可定义呼吸训练和计划
 * :white_check_mark: [街坊情圣](http://www.headset.xin/NLovers)：恋爱学堂，包含土味情话、恋爱攻略文章、恋爱专家音频教学、用户关于爱情问题讨论
@@ -579,7 +579,7 @@
 ### 2019年9月4号添加
 ---
 #### arvinxx(杭州) - [Github](https://github.com/arvinxx)
-* :white_check_mark: [多译](https://duoyi.io)：一款多源翻译效率工具 - [更多介绍](https://v2ex.com/t/597991) 
+* :white_check_mark: [多译](https://duoyi.io)：一款多源翻译效率工具 - [更多介绍](https://v2ex.com/t/597991)
 
 ### 2019年8月20号添加
 ---
@@ -592,12 +592,12 @@
 ### 2019年8月18号添加
 ---
 #### weilaihui(成都) -  [GitHub](https://github.com/weilaihui)
-* :x: [GRLib](https://www.grlib.com/)：收藏优质 GitHub 项目 
+* :x: [GRLib](https://www.grlib.com/)：收藏优质 GitHub 项目
 
 ### 2019年8月11号添加
 ---
 #### Kiddyu(保定) - [Github](https://github.com/kiddyuchina)
-* :white_check_mark: [新趣集](https://xinquji.com)：一个互联网新产品发现社区，36kr next 的替代品  
+* :white_check_mark: [新趣集](https://xinquji.com)：一个互联网新产品发现社区，36kr next 的替代品
 * :x: [独角兽排行](https://dujiaoshou.io)：全球独角兽企业榜单与招聘
 
 ### 2019年8月2号添加
@@ -1318,7 +1318,7 @@
 * :white_check_mark: [饭起](https://itunes.apple.com/cn/app/%E9%A5%AD%E8%B5%B7-%E5%85%B3%E4%BA%8E%E9%A3%9F%E7%89%A9%E7%9A%84%E7%88%B1%E4%B8%8E%E6%95%85%E4%BA%8B/id1209331941?mt=8)：关于食物的爱与故事  - [更多介绍](http://fancymeet.com/)
 
 #### Yuuta - [GitHub](https://github.com/Trumeet), [网站](https://yuuta.moe)
-* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生 - [更多介绍](https://dir.yuuta.moe/zh/)  
+* :white_check_mark: [Dir](https://coolapk.com/apk/kh.android.dir)：一个简单美观的 Android 垃圾清理工具，支持防止文件再生 - [更多介绍](https://dir.yuuta.moe/zh/)
 
 #### 曦莫琅 - [GitHub](https://github.com/ximolang), [博客](http://www.txliang.com/)
 * :white_check_mark: [诗说社](http://shishuo.wesnice.com/)：一个文青、情怀人群的聚集地，原创诗词的发布平台
@@ -1353,8 +1353,8 @@
 
 #### luowei - [GitHub](https://github.com/luowei)
 * :white_check_mark: [万能输入法](http://app.wodedata.com)：一个支持拼音、五笔、笔画、手写、特殊符号及动画表情的输入法
-* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)  
-* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)  
+* :white_check_mark: [我的浏览器](http://app.wodedata.com/myapp/mybrowser.html)：一个支持截图导出 PDF 的可个性化的自定义浏览器 - [更多介绍](https://github.com/luowei/MyBrowser)
+* :white_check_mark: [照片DIY](http://app.wodedata.com/myapp/photodiy.html)：一款可以对图片加滤镜、各种涂鸭、打码塞克、裁剪的 APP - [更多介绍](https://github.com/luowei/PhotoDIY)
 * :white_check_mark: [斗图王](http://app.wodedata.com/myapp/gifemoji.html)：一个 GIF 斗图动画表情制作和搜索 APP，兼具斗图浏览器与斗图编辑器的功能
 * :white_check_mark: [美图王](http://app.wodedata.com/myapp/mywallpaper.html)：一款高清的意向图和壁纸图片应用
 * :white_check_mark: [Mark记事本](http://app.wodedata.com/myapp/mymarkdown.html)：一款 Markdown 记事本，支持从文本图片导入及导出 PDF
@@ -1717,7 +1717,7 @@
 * :white_check_mark: [SwitchHosts!](https://oldj.github.io/SwitchHosts/)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
 
 #### Kenshin
-* :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)    
+* :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)
 * :white_check_mark: [Emoji](http://ksria.com/emoji/)：一个简单、可靠、纯粹、中文语义化的 Emoji 扩展
 
 #### jadeydi
@@ -1753,9 +1753,9 @@
 ---
 
 #### 4. 另外
-推荐一些对独立开发者有帮助的网站：    
+推荐一些对独立开发者有帮助的网站：
 
-[英文]        
+[英文]
 * [Productized Startups](https://productizedstartups.com/interviews/)
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Failory](https://www.failory.com/) - 分享创业失败的故事
@@ -1769,7 +1769,7 @@
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
 
-[中文]    
+[中文]
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
@@ -1777,7 +1777,7 @@
 
 #### 5. 值得关注的 Twitter 账号
 * [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
-* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152) 
+* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
 * [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
 
 #### 6. 最后
