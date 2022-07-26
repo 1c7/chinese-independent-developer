@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年7月26号添加
+---
+#### mark420524 - [GitHub](https://github.com/mark420524)
+* :white_check_mark: [早晚答小程序](https://github.com/mark420524) - 小程序进行答题，增加了汉字查询、成语查询、英汉词典等功能
+
 ### 2022年7月14号添加
 ---
 #### sorakylin(广州) - [Github](https://github.com/sorakylin), [博客](https://www.skypyb.com/2022/07/rizhi/suibi/1996/)
