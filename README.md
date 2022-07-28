@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年7月28号添加
+---
+#### yellownight - [博客](https://www.caiqilian.top)
+* :white_check_mark: [智能翻译器](https://github.com/yellownight) - 微信翻译小程序，提供多语言文本翻译，图片翻译，语音翻译。支持英语、日语、韩语、俄语、德语、法语、泰语、葡萄牙语、西班牙语、阿拉伯语等。
+
 ### 2022年7月26号添加
 ---
 #### mark420524 - [GitHub](https://github.com/mark420524)
