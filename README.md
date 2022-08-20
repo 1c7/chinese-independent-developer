@@ -512,14 +512,14 @@
 ### 2019年10月30号添加
 ---
 #### 何辉（深圳） - [Github](https://github.com/qq475742653)
-* :white_check_mark: [相见易](http://www.headset.xin/LHS)：允许用户在手机上、网页上自主设计表单、图表，存储和查询数据、网页与手机端的数据互通（演示用户：13510928305,密码：123456）
-* :white_check_mark: [自由地呼吸](http://www.headset.xin/freebreath)：一款呼吸训练、规律动作训练+心事倾述+呼吸康复学堂,用户可定义呼吸训练和计划
-* :white_check_mark: [街坊情圣](http://www.headset.xin/NLovers)：恋爱学堂，包含土味情话、恋爱攻略文章、恋爱专家音频教学、用户关于爱情问题讨论
-* :white_check_mark: [死亡时间预测](http://www.headset.xin/dieDate)：包含死亡时间预测工具、养生知识学堂、每日养生任务计划、定时提醒。
-* :white_check_mark: [密码生成管理器](http://www.headset.xin/mypassword)：包含云端存储、智能的问题密码的生成、密码搜索、复制、密码期限管理提醒（演示用户：13510920000,密码：123456）
-* :white_check_mark: [mypassword](https://www.headset.xin/mypassword)：一款根据熟悉问题产生的易记且超强密码的生成工具、管理工具。演示用户：13510920000,密码：123456
-* :white_check_mark: [中国诗人](http://www.headset.xin/tangsongsc)：一款收录80万首，远古、古代、当代、近现代的古诗网站，支持用户上传创作诗词
-* :white_check_mark: [VR+360全景图展示](http://www.headset.xin/VR)：一款360度VR现场模式全景展示卖房案例。支持flash和h5两种模式。VR模式需要配带VR设备支持
+* :x: [相见易](http://www.headset.xin/LHS)：允许用户在手机上、网页上自主设计表单、图表，存储和查询数据、网页与手机端的数据互通（演示用户：13510928305,密码：123456）
+* :x: [自由地呼吸](http://www.headset.xin/freebreath)：一款呼吸训练、规律动作训练+心事倾述+呼吸康复学堂,用户可定义呼吸训练和计划
+* :x: [街坊情圣](http://www.headset.xin/NLovers)：恋爱学堂，包含土味情话、恋爱攻略文章、恋爱专家音频教学、用户关于爱情问题讨论
+* :x: [死亡时间预测](http://www.headset.xin/dieDate)：包含死亡时间预测工具、养生知识学堂、每日养生任务计划、定时提醒。
+* :x: [密码生成管理器](http://www.headset.xin/mypassword)：包含云端存储、智能的问题密码的生成、密码搜索、复制、密码期限管理提醒（演示用户：13510920000,密码：123456）
+* :x: [mypassword](https://www.headset.xin/mypassword)：一款根据熟悉问题产生的易记且超强密码的生成工具、管理工具。演示用户：13510920000,密码：123456
+* :x: [中国诗人](http://www.headset.xin/tangsongsc)：一款收录80万首，远古、古代、当代、近现代的古诗网站，支持用户上传创作诗词
+* :x: [VR+360全景图展示](http://www.headset.xin/VR)：一款360度VR现场模式全景展示卖房案例。支持flash和h5两种模式。VR模式需要配带VR设备支持
 
 ### 2019年10月28号添加
 ---
@@ -1458,30 +1458,30 @@
 
 #### xu42 - [GitHub](http://github.com/xu42)
 * :white_check_mark: [qrcode-chrome](https://chrome.google.com/webstore/detail/qr-code-generation/imabbihlfpmlpobbfhmliilagnjeoija)：生成当前页面二维码的极简 Chrome 插件 - [更多介绍](https://github.com/xu42/qrcode-chrome)
-* :white_check_mark: [个人即时收款方案](https://pay.xu42.cn/)：个人可用的即时收款解决方案 - [更多介绍](https://github.com/xu42/pay)
+* :x: [个人即时收款方案](https://pay.xu42.cn/)：个人可用的即时收款解决方案 - [更多介绍](https://github.com/xu42/pay)
 
 #### kujian - [博客](http://caibaojian.com/), [GitHub](http://github.com/kujian)
-* :white_check_mark: [码农头条](http://hao.caibaojian.com)：每日自动抓取开发者文章并推荐 - [更多介绍](http://hao.caibaojian.com/about)
-* :white_check_mark: [GitHub热榜](http://news.caibaojian.com)：每日自动抓取 GitHub 前端热门项目并推荐
+* :x: [码农头条](http://hao.caibaojian.com)：每日自动抓取开发者文章并推荐 - [更多介绍](http://hao.caibaojian.com/about)
+* :x: [GitHub热榜](http://news.caibaojian.com)：每日自动抓取 GitHub 前端热门项目并推荐
 
 #### Jack Cherng - [GitHub](https://github.com/jfcherng)
 * :white_check_mark: [繁化姬](https://zhconvert.org)：一个强大的「繁简转换」与「本地化」工具 - [更多介绍](https://docs.zhconvert.org)
 
 #### biezhi - [GitHub](https://github.com/biezhi)
-* :white_check_mark: [Findor](https://findor.me/)：分享你的个人社交信息
-* :white_check_mark: [开发者秘籍](https://dev-cheats.com/)：系统的开发者指南、教程
+* :x: [Findor](https://findor.me/)：分享你的个人社交信息
+* :x: [开发者秘籍](https://dev-cheats.com/)：系统的开发者指南、教程
 
 #### Caldis - [GitHub](https://github.com/Caldis)
-* :white_check_mark: [Mos](http://mos.u2sk.com/)：一个在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
+* :x: [Mos](http://mos.u2sk.com/)：一个在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
 
 #### neal1991 - [GitHub](https://github.com/neal1991)
-* :white_check_mark: [上海地铁线路图](https://neal1991.github.io/subway-shanghai)：上海地铁线路图，包括站点时刻表信息，卫生间信息，出入口信息，无障碍电梯信息
+* :x: [上海地铁线路图](https://neal1991.github.io/subway-shanghai)：上海地铁线路图，包括站点时刻表信息，卫生间信息，出入口信息，无障碍电梯信息
 * :white_check_mark: [七牛云图床](https://chrome.google.com/webstore/detail/%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/fmpbbmjlniogoldpglopponaibclkjdg?utm_source=chrome-ntp-icon)：基于七牛云存储对象实现的私有图床 - [更多介绍](https://segmentfault.com/a/1190000013374209)
 * :white_check_mark: [export-to-markdown](https://chrome.google.com/webstore/detail/export-to-markdown/dodkihcbgpjblncjahodbnlgkkflliim?utm_source=chrome-ntp-icon)：将博文转化成 Markdown 格式，目前支持 Medium 和 elastic 官博 - [更多介绍](https://segmentfault.com/a/1190000011324821)
 * :white_check_mark: [去哪拍照片](http://ozfo4jjxb.bkt.clouddn.com/gh_900fd73a1fd0_258.jpg)：微信小程序，主要是上海市落户拍照地点，包括免费和收费两种
 
 #### GitIssue - [GitHub](https://github.com/git-issue)
-* :white_check_mark: [GitIssue](https://gitissue.com): GitHub Issue 博客平台 - [更多介绍](https://gitissue.com/about)
+* :x: [GitIssue](https://gitissue.com): GitHub Issue 博客平台 - [更多介绍](https://gitissue.com/about)
 
 
 #### Haocold - [GitHub](https://github.com/xjh093)
@@ -1500,10 +1500,10 @@
 * :white_check_mark: [翻译侠](https://chrome.google.com/webstore/detail/translate-man/fapgabkkfcaejckbfmfcdgnfefbmlion)：一款超棒的翻译插件（支持 Chrome + Firefox） - [更多介绍](https://github.com/magic-FE/translate-man)
 
 #### Windson - [GitHub](https://github.com/Windsooon)
-* :white_check_mark: [Channelshunt](https://www.channelshunt.com/)：YouTube 频道推荐站
-* :white_check_mark: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
+* :x: [Channelshunt](https://www.channelshunt.com/)：YouTube 频道推荐站
+* :x: [Thank you, Open source](https://www.thankyouopensource.com/)：给开源项目的感谢信
 * :white_check_mark: [OpenSource Jobs](https://www.osjobs.net/)：根据开源项目的贡献推荐工作
-* :clock8: [EngineGo](https://www.enginego.org/)：计算机基础教程
+* :x: [EngineGo](https://www.enginego.org/)：计算机基础教程
 
 
 #### yaoleifly - [GitHub](https://github.com/yaoleifly)
@@ -1518,7 +1518,7 @@
 * :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南
 
 #### H1ac0k - [博客](http://xrong.net)
-* :white_check_mark: [斗图啦](https://www.doutula.com)：斗图装逼必备
+* :x: [斗图啦](https://www.doutula.com)：斗图装逼必备
 
 #### Tolecen - [博客](https://xinle.co/)
 * :white_check_mark: [白描](https://itunes.apple.com/cn/app/id1249901692)：高效的文字识别与翻译软件 - [更多介绍](https://sspai.com/post/42065)
@@ -1530,7 +1530,7 @@
 
 #### hanks - [GitHub](https://github.com/hanks-zyh)
 * :white_check_mark: [便签](https://www.coolapk.com/apk/xyz.hanks.note)：体积不足 2M，功能却全面到令人惊喜的 Android 便签应用 - [更多介绍](https://sspai.com/post/41323)
-* :white_check_mark: [氢应用](https://www.coolapk.com/apk/pub.hydrogen.android)：一款 Android 插件容器应用
+* :x: [氢应用](https://www.coolapk.com/apk/pub.hydrogen.android)：一款 Android 插件容器应用
 
 #### CoderDwang - [GitHub](https://github.com/CoderDwang)
 * :clock8: [MoreiTunesConnect_iOS](https://github.com/CoderDwang/MoreiTunesConnect_iOS)：允许多开的非苹果官方的 App 审核状态查询
@@ -1601,14 +1601,14 @@
 * :white_check_mark: [OnlyTalk](https://itunes.apple.com/cn/app/id1462516460?mt=8)：亲情语音对讲 - [更多介绍](https://sspai.com/post/55560)
 
 #### Tuluobo - [GitHub](https://github.com/Tuluobo)
-* :white_check_mark: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet)
+* :x: [玩客钱包](https://itunes.apple.com/cn/app/%E7%8E%A9%E5%AE%A2%E9%92%B1%E5%8C%85/id1302778851)：迅雷玩客币（改名链克）的非官方查询管理钱包 APP - [更多介绍](https://github.com/Tuluobo/LKWallet)
 
 #### forecho - [GitHub](https://github.com/forecho)
-* :white_check_mark: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
+* :x: [三立三](https://3li3.com/): 提供 Kindle 电子书和 iOS App 降价提醒和购买服务 - [更多介绍](http://blog.3li3.com/releases-v2/)
 
 #### JonyFang - [GitHub](https://github.com/JonyFang), [微博](http://weibo.com/u/3034766044),[Twitter](https://twitter.com/jony_chunfang)
 
-* :white_check_mark: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议：）
+* :x: [Shots 精简壁纸](https://shoots.coding.me/)：一款精简壁纸应用，最原本的方式，最简朴的体验，只为在你挑选壁纸时，给予小小的建议：）
 
 #### oasisfeng - [GitHub](https://github.com/oasisfeng)
 * :white_check_mark: [绿色守护 (Greenify)](https://www.coolapk.com/apk/com.oasisfeng.greenify)：帮助甄别那些对系统性能和耗电有不良影响的程序，阻止它们 （省略原描述20字）
@@ -1624,7 +1624,7 @@
 * :white_check_mark: [aidou](https://chrome.google.com/webstore/detail/aidou/kidfkhcacngpkgkagdmbkncecbnadajb?hl=zh-CN)： (Chrome 插件) 社区回帖 Code review 斗图插件，一键生成表情链接 - [了解更多](https://github.com/kinglisky/aidou)
 
 #### tinyao - [GitHub](https://github.com/tinyao)
-* :white_check_mark: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
+* :x: [有饭](https://fan.zico.im/)：一款白白的饭否 Android 客户端
 
 
 ### 2018年3月18号添加
@@ -1635,20 +1635,20 @@
 * :white_check_mark: [Page.qy](https://github.com/HuQingyang/Page.qy)：一款针对小白(~~懒人~~)的自动化管理、生成、部署个人博客的工具
 
 #### zomco - [GitHub](https://github.com/zomco)
-* :white_check_mark: [路几](http://www.ruki.pw)：分享精彩的行车记录仪视频
+* :x: [路几](http://www.ruki.pw)：分享精彩的行车记录仪视频
 
 #### Akring - [GitHub](https://github.com/akring)
-* :white_check_mark: [Star Order for Mac/iOS](https://star-order.com/)：Mac/iOS 双平台的 GitHub Star 管理工具
+* :x: [Star Order for Mac/iOS](https://star-order.com/)：Mac/iOS 双平台的 GitHub Star 管理工具
 
 #### Jinya - [GitHub](https://github.com/JinyaX), [微博](https://weibo.com/934249787)
 * :white_check_mark: [短信卫士](https://itunes.apple.com/cn/app/%E7%9F%AD%E4%BF%A1%E5%8D%AB%E5%A3%AB/id1317407948?mt=8)：iOS 垃圾短信过滤工具（需要 iOS 11.0 或更高版本）
-* :clock8: [Key Master]()：iOS 密码管理工具
+* :x: [Key Master]()：iOS 密码管理工具
 
 #### Collider LI - [GitHub](https://github.com/lhc70000)
 * :white_check_mark: [IINA](https://github.com/lhc70000/iina)：一个现代的 macOS 媒体播放器
 
 #### lijianqiang12 - [博客](http://lijianqiang12.com)
-* :white_check_mark: [远离手机](http://www.offphone.net)：一个能将手机锁定一段时间的 App
+* :x: [远离手机](http://www.offphone.net)：一个能将手机锁定一段时间的 App
 
 #### Jason - [博客](https://atjason.com/)
 * :white_check_mark: [Klib](https://itunes.apple.com/cn/app/id1196268448?mt=12)：Kindle、iBooks、多看标注与笔记管理 - [更多介绍](https://toolinbox.net/Klib/)
@@ -1659,7 +1659,7 @@
 
 
 #### 潇涧 - [GitHub](https://github.com/hujiaweibujidao)
-* :white_check_mark: [诗鲸](https://tab.leancloud.cn/1/stats/track/2lkBXY)：诗鲸是一款简洁而呆萌的诗词学习应用 - [更多介绍](http://zuimeia.com/app/5772/?platform=2)
+* :x: [诗鲸](https://tab.leancloud.cn/1/stats/track/2lkBXY)：诗鲸是一款简洁而呆萌的诗词学习应用 - [更多介绍](http://zuimeia.com/app/5772/?platform=2)
 * :white_check_mark: [干货集中营Mac客户端](https://github.com/hujiaweibujidao/Gank-for-Mac)：『Gank for Mac』 可能是唯一的干货集中营 Mac 客户端
 
 #### tomasy - [GitHub](https://github.com/solobat)
@@ -1667,7 +1667,7 @@
 * :white_check_mark: [单词小卡片](https://github.com/solobat/wordcard)：单词查询、例句收集、单词记忆于一体的浏览器扩展，支持 Chrome / Firefox
 
 #### NextStack - [GitHub](https://github.com/safe-dog), [博客](https://blog.nextstack.xyz)
-* :white_check_mark: [下一栈](https://nextstack.xyz)：把你的博客网站制作成 APP 进行更爽阅读浏览
+* :x: [下一栈](https://nextstack.xyz)：把你的博客网站制作成 APP 进行更爽阅读浏览
 
 #### zyx0814 - [GitHub](https://github.com/zyx0814/dzzoffice)
 * :white_check_mark: [DzzOffice](http://dzzoffice.com)：类似 Office365, Google 企业应用套件的开源私有方案
@@ -1697,7 +1697,7 @@
 #### ymark - [GitHub](https://github.com/ymma)
 * :white_check_mark: [易词云](http://yciyun.com)：根据各种图片模板生成词云图片
 * :white_check_mark: [易LOGO](http://yeelogo.com/)：简单的在线生成 Logo 网站
-* :clock8: [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
+* :x: [二维码梦工厂](http://qrdream.ymark.cc/)：专注于个性、动态、扁平、表情二维码生成
 
 #### GhostSKB - [GitHub](https://github.com/dingmingxin/GhostSKB)
 * :white_check_mark: [GhostSKB](https://itunes.apple.com/cn/app/ghostskb/id1134384859?mt=12)：(Mac) 可根据应用设置默认输入法，应用切换时，输入法也跟随切换
@@ -1739,7 +1739,7 @@
 * :white_check_mark: [TopTalkedBooks](https://toptalkedbooks.com/)：收集 Hacker News, Stack Overflow, Reddit 书，展示推荐最多的书 - [更多介绍](https://wanqu.io/t/hacker-news-stack-overflow-reddit-2017-09-04/)
 
 #### soasme
-* :white_check_mark: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
+* :x: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
 
 #### wwayne
 * :white_check_mark: [Cominsoon](https://cominsoon.io/)：快速搭建『即将上线』页面 - [更多介绍](https://wanqu.io/t/cominsoon/7676/4)
@@ -1759,9 +1759,9 @@
 
 #### 糖醋陈皮 - [GitHub](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
 * :white_check_mark: [字幕组机翻小助手](https://translation-helper.1c7.me/)：机器翻译 .srt .ass 字幕文件
-* :white_check_mark: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
+* :x: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
-* :white_check_mark: [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
+* :x: [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
 * :x: youtube-sumup.com：总结 Youtube 视频内容
 * :x: 月可(onereco.com)：写短总结推荐好文
 
