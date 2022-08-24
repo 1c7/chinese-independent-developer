@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年8月24号添加
+---
+#### Wins for macOS(合肥) - [mac 软件](https://wins.cool)
+* :white_check_mark: [Wins](https://wins.cool) - 为Mac带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
+
+
 ### 2022年7月28号添加
 ---
 #### yellownight - [博客](https://www.caiqilian.top)
