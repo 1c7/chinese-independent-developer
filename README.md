@@ -23,7 +23,7 @@
 
 ### 2022年8月24号添加
 ---
-#### Wins for macOS(合肥) - [mac 软件](https://wins.cool)
+#### Denny Wang(合肥) - [GitHub](https://github.com/eggsblue),[Twitter](https://twitter.com/DennyWang99)
 * :white_check_mark: [Wins](https://wins.cool) - 为Mac带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
 
 
@@ -1804,5 +1804,4 @@
 #### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
-
 
