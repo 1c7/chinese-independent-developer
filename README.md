@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年8月24号添加
+---
+#### Denny Wang(合肥) - [GitHub](https://github.com/eggsblue),[Twitter](https://twitter.com/DennyWang99)
+* :white_check_mark: [Wins](https://wins.cool) - 为Mac带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
+
+
 ### 2022年7月28号添加
 ---
 #### yellownight - [博客](https://www.caiqilian.top)
@@ -1798,5 +1804,4 @@
 #### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
-
 
