@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年10月11号添加
+---
+#### Evancohe(惠州) - [Github](https://github.com/evancohe), [Twitter](https://twitter.com/evancohe)
+* :white_check_mark: [Kake日记](https://apps.apple.com/us/app/kake-journal-password-diary/id1515415906)：一款极简风格的日记 App, 多设备适配, 曾上 Apple 推荐。
+* :white_check_mark: [Je Focus](https://apps.apple.com/sg/app/je-focus/id1486865992)：一款极简风格的专注 App, 用重力感应检测用户拿手机并暴力提醒.
+
 ### 2022年9月4号添加
 ---
 #### Tw93 - [Github](https://github.com/tw93), [博客](https://tw93.fun)
