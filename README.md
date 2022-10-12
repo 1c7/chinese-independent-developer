@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2022年10月12号添加
+---
+#### ExistOrlive - [Github](https://github.com/ExistOrLive), [博客](https://gitbook.existorlive.cn/)
+* :white_check_mark: [ZLGithubClient](https://apps.apple.com/app/gorillas/id1498787032)：基于 Github 官方 API 开发的 Github iOS 客户端 - [更多介绍](https://github.com/ExistOrLive/GithubClient)
+
 ### 2022年10月11号添加
 ---
 #### Evancohe(惠州) - [Github](https://github.com/evancohe), [Twitter](https://twitter.com/evancohe)
