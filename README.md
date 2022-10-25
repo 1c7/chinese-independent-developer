@@ -22,6 +22,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2022年10月25号添加
+---
+#### 染河(杭州) - [Github](https://github.com/hewenguang)
+* :white_check_mark: [Circle 阅读助手](http://circlereader.com/)：一款提供沉浸式阅读的扩展，拥有强大智能的识别和排版能力，让你爱上在网页上阅读
+
 ### 2022年10月12号添加
 ---
 #### ExistOrlive - [Github](https://github.com/ExistOrLive), [博客](https://gitbook.existorlive.cn/)
