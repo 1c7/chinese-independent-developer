@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年10月28号添加
+---
+#### huangjx(广州) - [Github](https://github.com/zhandouxiaojiji), [博客](https://blog.coding1024.com/)
+* :white_check_mark: [Tesla Light Show Creator](https://tesla.coding1024.com/)：特斯拉灯光秀制作工具，导入背景音乐一键生成炫酷的自定义灯光秀。
+
+#### Likun(杭州) - [Github](https://github.com/Likunone), [博客](https://onelk.cn)
+* :white_check_mark: [爱吖去水印](https://user-images.githubusercontent.com/15193414/198528969-868cd864-f462-46e8-91ef-e90fd8201bbb.png)：免费去水印、抖音去水印、快手去水印，一键保存无水印视频到相册。
 
 ### 2022年10月25号添加
 ---
