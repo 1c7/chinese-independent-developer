@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年11月12号添加
+---
+#### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
+* :clock8: [PicHoro](https://github.com/Kuingsmile/PicHoro)：一款用于上传图片和管理云存储/图床平台的安卓APP，与电脑端的PicGo配置互通，正在准备上架 - [更多介绍](https://pichoro.horosama.com)
+
 ### 2022年11月8号添加
 ---
 #### Zeffon(广州) - [Github](https://github.com/zeffon/english)
