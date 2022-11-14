@@ -17,7 +17,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2022年11月12日添加
 ---
 #### zhennann（健哥/郑州） - [Github](https://github.com/zhennann)
-* :CabloyJS: [CabloyJS](https://github.com/zhennann/cabloy): CabloyJS 是一款自带工作流引擎的 Node.js 全栈框架，一款面向开发者的低代码开发平台，更是一款兼具低代码的开箱即用和专业代码的灵活定制的 PAAS 平台。
+* :white_check_mark: [CabloyJS](https://github.com/zhennann/cabloy): CabloyJS 是一款自带工作流引擎的 Node.js 全栈框架，一款面向开发者的低代码开发平台，更是一款兼具低代码的开箱即用和专业代码的灵活定制的 PAAS 平台。
 
 ### 2022年10月24日添加
 ---
