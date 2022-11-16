@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年11月16号添加
+---
+#### kongkongye(台州) - [Github](https://github.com/kongkongye)
+* :white_check_mark: [ssstab](https://ssstab.com)：ssstab新标签页,你的网络书签管理工具.
+
 ### 2022年11月12号添加
 ---
 #### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
