@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年11月22号添加
+---
+#### 一刀(杭州) - [Github](https://github.com/laosanyuan)
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫Windows客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。 
+
 ### 2022年11月16号添加
 ---
 #### kongkongye(台州) - [Github](https://github.com/kongkongye)
