@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2022年12月2号添加
+---
+#### Vio(深圳) - [Github](https://github.com/vioao),[博客](https://blog.vioao.site/)
+* :white_check_mark: [智能水印工具箱](https://github.com/vioao)：一个图片/短视频处理的 AI 小程序。能够一键去水印、画质增强、背景移除、图集提取。
+* :white_check_mark: [临时邮箱小助手](https://github.com/vioao)：一个提供临时、安全、匿名、免费的一次性电子邮箱的小程序。支持自定义邮箱地址和附件下载。
+
 ### 2022年11月30号添加
 ---
 #### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong), 
