@@ -22,6 +22,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2022年12月3号添加
+---
+#### kongkongye(台州) - [Github](https://github.com/kongkongye)
+* :white_check_mark: [sssbar](https://bar.ssstab.com)：浏览器快捷搜索框扩展,在线工具网页搜索.
+
 ### 2022年12月2号添加
 ---
 #### Vio(深圳) - [Github](https://github.com/vioao),[博客](https://blog.vioao.site/)
