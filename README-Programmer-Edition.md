@@ -23,6 +23,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ---
 #### KID-joker - [Github](https://github.com/KID-joker)
 * :white_check_mark: [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage): 借助 proxy，扩展了 web storage 的功能，使用起来，更加方便快捷，也更加强大。主要功能为保持值类型不变，可直接操控 Object、Array，支持监听数据变化和设置过期时间。
+* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check): 检查当前项目、全局或者指定安装包是否已弃用。
 
 ### 2022年5月18日添加
 ---
