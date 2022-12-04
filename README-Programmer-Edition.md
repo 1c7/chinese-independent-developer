@@ -14,16 +14,18 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+### 2022年12月4日添加
+---
+#### KID-joker - [Github](https://github.com/KID-joker)
+* :white_check_mark: [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage): 借助 proxy，扩展了 web storage 的功能，使用起来，更加方便快捷，也更加强大。主要功能为保持值类型不变，可直接操控 Object、Array，支持监听数据变化和设置过期时间。
+* :white_check_mark: [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check): 检查当前项目、全局或者指定安装包是否已弃用。
+
 ### 2022年11月12日添加
 ---
 #### zhennann（健哥/郑州） - [Github](https://github.com/zhennann)
 * :white_check_mark: [CabloyJS](https://github.com/zhennann/cabloy): CabloyJS 是一款自带工作流引擎的 Node.js 全栈框架，一款面向开发者的低代码开发平台，更是一款兼具低代码的开箱即用和专业代码的灵活定制的 PAAS 平台。
 
-### 2022年10月24日添加
----
-#### KID-joker - [Github](https://github.com/KID-joker)
-* :white_check_mark: [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage): 借助 proxy，扩展了 web storage 的功能，使用起来，更加方便快捷，也更加强大。主要功能为保持值类型不变，可直接操控 Object、Array，支持监听数据变化和设置过期时间。
-* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check): 检查当前项目、全局或者指定安装包是否已弃用。
 
 ### 2022年5月18日添加
 ---
