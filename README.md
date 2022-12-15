@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年12月15号添加
+---
+#### 亦也（武汉）
+* :white_check_mark: [挖线索](https://waxiansuo.com/)：致力于解决线上线下活动潜在客户不愿留资难题
+
 ### 2022年12月13号添加
 ---
 #### xiaoluoboding(大理) - [Github](https://github.com/xiaoluoboding)
@@ -30,6 +35,9 @@
 ---
 #### Mekal(Wuhan) - [Github](https://github.com/mekalz)
 * :white_check_mark: [iOS App：怪兽音符 - 五线谱识谱练习卡](https://apps.apple.com/cn/app/%E6%80%AA%E5%85%BD%E9%9F%B3%E7%AC%A6-%E4%BA%94%E7%BA%BF%E8%B0%B1%E8%AF%86%E8%B0%B1%E7%BB%83%E4%B9%A0%E5%8D%A1/id1641497474)：可以连接电钢琴的五线谱识谱训练工具，适用于钢琴初学者训练五线谱的读谱反应速度
+* :white_check_mark: [iOS App：可沐心语 - 通过 Emoji 随时记录心情，阅读精美治愈与激励好句子](https://apps.apple.com/cn/app/%E5%8F%AF%E6%B2%90%E5%BF%83%E6%83%85%E8%AF%AD%E5%BD%95/id6444787701)：每日语录与心情记录小工具。
+精美的图片配合绝伦的语录，能够不经意间治愈你内心的创伤，亦或为你注入能量；
+你还可以使用一个 eMoji 表情来代表并记录你此刻的心情，之后更是可以根据心情指数曲线来跟踪回顾自己一段时间以来的心情变化情况，不断调整自己的情绪，让自己每天都能够轻松摆脱负面情绪，让自己每天都可以能量满满的生活和工作。
 
 ### 2022年12月8号添加
 ---
