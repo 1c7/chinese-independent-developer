@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2022年12月13号添加
+---
+#### xiaoluoboding(大理) - [Github](https://github.com/xiaoluoboding)
+* :white_check_mark: [One Tab Group](https://onetab.group)：一款集多功能于一身的代替 `OneTab`/`Session Buddy` 的下一代标签页/标签组管理器, 帮助你有效地管理、组织您的浏览器标签页，支持云同步以及同步到 Notion 等功能。
+
 ### 2022年12月12号添加
 ---
 #### Mekal(Wuhan) - [Github](https://github.com/mekalz)
