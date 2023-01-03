@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年1月3号添加
+---
+#### zcf0508(上海) - [Github](https://github.com/zcf0508), [博客](https://huali.cafe/)
+* :white_check_mark: [AutoCut Client](https://github.com/zcf0508/autocut-client)：该项目为 [AutoCut](https://github.com/mli/autocut) 提供一个开箱即用的客户端。- [更多介绍](https://github.com/zcf0508/autocut-client/blob/master/README_zh.md)
+
 ### 2023年1月1号添加
 ---
 #### FanChenIO(北京)
