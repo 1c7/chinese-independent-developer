@@ -62,7 +62,7 @@
 ### 2022年12月5号添加
 ---
 #### ch3ng(成都) - [官网](https://www.ohmymd.app)
-* :white_check_mark: [Hibiscus](https://www.ohmymd.app)：一个支持本地与云同步的markdown编辑器.
+* :white_check_mark: [Oh Mymd](https://www.ohmymd.app)：一个支持本地与云同步的markdown编辑器.
 
 ### 2022年12月3号添加
 ---
