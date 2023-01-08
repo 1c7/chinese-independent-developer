@@ -29,7 +29,7 @@
 ### 2023年1月7号添加
 ---
 #### 游雨的鱼cc(杭州) - [博客](https://vipvan.cc/archives/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6#toc-head-0)
-* :white_check_mark: [Workflow](https://vipvan.cc/upload/Workflow.zip)：一款实现自动化Excel操作的中文框架 - [更多介绍](https://space.bilibili.com/14481495/)
+* :white_check_mark: [Workflow](https://vipvan.cc/upload/Workflow.zip)：一款实现自动化 Excel 操作的中文框架 - [更多介绍](https://space.bilibili.com/14481495/)
 
 ### 2023年1月3号添加
 ---
@@ -39,12 +39,12 @@
 ### 2023年1月1号添加
 ---
 #### FanChenIO(北京)
-* :white_check_mark: [Dawn Launcher](https://dawnlauncher.com/)：Dawn Launcher Windows快捷启动工具，解决桌面杂乱无章的问题，让您的桌面干净整洁。
+* :white_check_mark: [Dawn Launcher](https://dawnlauncher.com/)：Dawn Launcher Windows 快捷启动工具，解决桌面杂乱无章的问题，让您的桌面干净整洁。
 
 ### 2022年12月30号添加
 ---
 #### Loui(长沙)
-* :white_check_mark: [PPT批量处理百宝箱](http://www.batchtoolset.com/)：高效强悍的PPT文件批量处理工具，致力于为使用者提供可靠、安全、高效、简洁、省时省力的PPT文件批量处理解决方案
+* :white_check_mark: [PPT批量处理百宝箱](http://www.batchtoolset.com/)：高效强悍的PPT文件批量处理工具，致力于为使用者提供可靠、安全、高效、简洁、省时省力的 PPT 文件批量处理解决方案
 
 ### 2022年12月15号添加
 ---
@@ -72,7 +72,7 @@
 ### 2022年12月5号添加
 ---
 #### ch3ng(成都) - [官网](https://www.ohmymd.app)
-* :white_check_mark: [Oh Mymd](https://www.ohmymd.app)：一个支持本地与云同步的markdown编辑器.
+* :white_check_mark: [Oh Mymd](https://www.ohmymd.app)：一个支持本地与云同步的 Markdown 编辑器.
 
 ### 2022年12月3号添加
 ---
@@ -93,7 +93,7 @@
 ### 2022年11月22号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫Windows客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。 
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。 
 
 ### 2022年11月16号添加
 ---
@@ -103,7 +103,7 @@
 ### 2022年11月12号添加
 ---
 #### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
-* :clock8: [PicHoro](https://github.com/Kuingsmile/PicHoro)：一款用于上传图片和管理云存储/图床平台的安卓APP，与电脑端的PicGo配置互通，正在准备上架 - [更多介绍](https://pichoro.horosama.com)
+* :clock8: [PicHoro](https://github.com/Kuingsmile/PicHoro)：一款用于上传图片和管理云存储/图床平台的安卓 APP，与电脑端的 PicGo 配置互通，正在准备上架 - [更多介绍](https://pichoro.horosama.com)
 
 ### 2022年11月8号添加
 ---
@@ -137,12 +137,12 @@
 ### 2022年9月4号添加
 ---
 #### Tw93 - [Github](https://github.com/tw93), [博客](https://tw93.fun)
-* :white_check_mark: [妙言](https://miaoyan.app)：一个简洁好看的开源的 Mac  Markdown 编辑器；[更多介绍](https://github.com/tw93/MiaoYan#%E7%89%B9%E7%82%B9)
+* :white_check_mark: [妙言](https://miaoyan.app)：一个简洁好看的开源的 Mac Markdown 编辑器；[更多介绍](https://github.com/tw93/MiaoYan#%E7%89%B9%E7%82%B9)
 
 ### 2022年8月24号添加
 ---
 #### Denny Wang(合肥) - [GitHub](https://github.com/eggsblue),[Twitter](https://twitter.com/DennyWang99)
-* :white_check_mark: [Wins](https://wins.cool) - 为Mac带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
+* :white_check_mark: [Wins](https://wins.cool) - 为 Mac 带来系统级的分屏功能，主打悬浮分屏、系统级集成、流畅动画、低功耗等特点。
 
 
 ### 2022年7月28号添加
@@ -198,7 +198,7 @@
 ### 2022年5月31号添加
 ---
 #### 酱咸(广州) - [Github](https://github.com/Maxbee)
-* :white_check_mark: [金橘记账](https://apps.apple.com/cn/app/%E9%87%91%E6%A2%A8-%E4%B8%AA%E4%BA%BA%E8%B5%84%E4%BA%A7%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8B/id1551523441)：多人一起记账 股票基金自动记账的记账App - [更多介绍](https://app.xgmm.me:3002/md_h5/front)
+* :white_check_mark: [金橘记账](https://apps.apple.com/cn/app/%E9%87%91%E6%A2%A8-%E4%B8%AA%E4%BA%BA%E8%B5%84%E4%BA%A7%E8%AE%B0%E8%B4%A6%E5%8A%A9%E6%89%8B/id1551523441)：多人一起记账 股票基金自动记账的记账 App - [更多介绍](https://app.xgmm.me:3002/md_h5/front)
 
 ### 2022年5月28号添加
 ---
@@ -245,9 +245,9 @@
 #### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
 * :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：一款简单快速的iOS泛用型播客App。
 
-* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
+* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图 App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
 
-* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的RSS iOS阅读器，给RSS用户提供一种新的阅读体验。
+* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：一款全新的 RSS iOS 阅读器，给RSS用户提供一种新的阅读体验。
 
 
 ### 2022年1月29号添加
@@ -299,7 +299,7 @@
 ### 2021年6月28号添加
 ---
 #### SuperMonster003(北京) - [Github](https://github.com/SuperMonster003/Ant-Forest)
-* :white_check_mark: [Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)：基于Auto.js的蚂蚁森林能量自动收取脚本 - [更多介绍](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest))
+* :white_check_mark: [Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收取脚本 - [更多介绍](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest))
 
 ### 2021年6月17号添加
 ---
@@ -324,12 +324,12 @@
 ### 2021年5月14号添加
 ---
 #### 一粒豆子(深圳)
-* :x: [魔豆车主](https://www.yilidouzi.com)：更适合国人使用的特斯拉车主app，记录特斯拉车辆行程及充电费用。 - [更多介绍](http://www.yilidouzi.com/)
+* :x: [魔豆车主](https://www.yilidouzi.com)：更适合国人使用的特斯拉车主 App，记录特斯拉车辆行程及充电费用。 - [更多介绍](http://www.yilidouzi.com/)
 
 ### 2021年4月9号添加
 ---
 #### LisenH - [Github](https://github.com/LisenH)
-* :white_check_mark: [网页视频下载](https://m3w.cn/wyspxz)：支持几乎所有网页视频的下载，包括M3U8
+* :white_check_mark: [网页视频下载](https://m3w.cn/wyspxz)：支持几乎所有网页视频的下载，包括 M3U8
 
 ### 2021年4月6号添加
 ---
@@ -367,7 +367,7 @@
 #### getjennyli - [Github](https://github.com/getjennyli)
 * :white_check_mark: [Bucket](https://apps.apple.com/cn/app/bucket-achieve-your-goals/id1534447271)：愿望清单 App
 #### ZhongYuanDong(佛山市) - [Github](https://github.com/yuandongzhong//)
-* :white_check_mark: [白菜录屏](https://www.bakchoi.com)：简洁、功能强大的Mac录屏软件。
+* :white_check_mark: [白菜录屏](https://www.bakchoi.com)：简洁、功能强大的 Mac 录屏软件。
 #### ysykzheng(成都)
 * :x: [我比你强问答](https://wobiniqiang.com/)：常见知识问答收集，不用到处找了。
 
@@ -400,7 +400,7 @@
 ### 2020年10月28号添加
 ---
 #### Vove7(上海) - [Github](https://github.com/Vove7)
-* :white_check_mark: [VAssistant](https://www.coolapk.com/apk/cn.vove7.vassistant)：Android平台强大的自定义语音助手 - [博客](https://vove.gitee.io)
+* :white_check_mark: [VAssistant](https://www.coolapk.com/apk/cn.vove7.vassistant)：Android 平台强大的自定义语音助手 - [博客](https://vove.gitee.io)
 * :white_check_mark: [EnergyRing](https://www.coolapk.com/apk/cn.vove7.energy_ring)：挖孔屏福利，电量指示环
 
 ### 2020年10月24号添加
@@ -461,7 +461,7 @@
 ### 2020年6月5号添加
 ---
 #### ZhongYuanDong (佛山) - [Github](https://github.com/yuandongzhong/), [博客](https://www.zhongyuandong.com)
-* :white_check_mark: [Jsonman](https://jsonman.bakchoi.com/?ref=1c7)：零代码快速创建JSON API (Mac App) - [更多介绍](https://apps.apple.com/us/app/jsonman-mock-api-in-seconds/id1514363623)
+* :white_check_mark: [Jsonman](https://jsonman.bakchoi.com/?ref=1c7)：零代码快速创建 JSON API (Mac App) - [更多介绍](https://apps.apple.com/us/app/jsonman-mock-api-in-seconds/id1514363623)
 
 
 ### 2020年6月2号添加
