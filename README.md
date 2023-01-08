@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年1月8号添加
+---
+#### Arxiv Search - [Github](https://github.com/goodnlp)
+* :white_check_mark: [Arxiv Search](https://www.arxiv.dev)： 一个用于追踪各个领域最新 Arxiv 论文的搜索引擎和浏览网站。目前包含两大功能：(1) 一个网站, 包含各个领域最新文章的检索，和任意时间段的研究趋势的分析；包含搜索功能，分领域的论文浏览功能，还有更多数据分析的功能正在开发中。(2) 基于微信搜索获取最新arxiv论文推送。- [更多介绍](https://github.com/goodnlp/all-you-need-is-arxiv-search)
+
+
 ### 2023年1月7号添加
 ---
 #### 游雨的鱼cc(杭州) - [博客](https://vipvan.cc/archives/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6#toc-head-0)
