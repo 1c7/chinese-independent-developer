@@ -25,6 +25,9 @@
 
 ### 2023年1月9号添加
 ---
+#### shenpvip - [Github](https://github.com/shenpvip)
+* :white_check_mark: [羽毛球助手](https://s3.bmp.ovh/imgs/2023/01/09/0ba2aa198f7e8a33.jpg)：一键参与、发起羽毛球活动 - [更多介绍](https://github.com/shenpvip)
+
 #### Jokerlsss(福州) - [Github](https://github.com/fjykTec/ModernWMS)
 * :white_check_mark: [ModernWMS](https://wmsonline.ikeyly.com/#/login)：精简而充满现代化的 **仓库管理系统**，支持快速收发货、库存、仓内作业等功能。开箱即用、完全开源、十分钟即可上手！（标题链接可直达体验环境）
 
