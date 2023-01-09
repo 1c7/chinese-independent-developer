@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年1月9日添加
+---
+#### 释慧利(上海) - [Github](https://github.com/shihuili1218)
+* :clock8:  [Klein](https://github.com/shihuili1218/klein)：🔥 Klein 是一个基于 Paxos 的分布式集合工具库，包括分布式ArrayList、分布式 HashMap、分布式缓存、分布式锁等。
 
 ### 2023年1月7日添加
 ---
