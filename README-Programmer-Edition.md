@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年1月11日添加
+---
+#### opensug(北京) - [Github](https://github.com/opensug/wp-opensug "https://github.com/opensug/wp-opensug"), [博客](https://www.opensug.org "https://www.opensug.org")
+* :white_check_mark: [openSug - WordPress插件](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")：为访问者提供搜索建议，方便用户搜索。 - [更多介绍](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")
+
 ### 2023年1月9日添加
 ---
 #### 释慧利(上海) - [Github](https://github.com/shihuili1218)
