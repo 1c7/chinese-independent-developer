@@ -17,16 +17,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年1月11日添加
 ---
 #### liudf0716(北京) - [Github](https://github.com/liudf0716), [推特](https://twitter.com/staylightblow8)
-* :white_check_mark: [apfree-wifidog](https://github.com/liudf0716/apfree_wifidog): 高性能轻量级的portal解决方案
-* :white_check_mark: [xfrpc](https://github.com/liudf0716/xfrpc): c 语言实现的内网穿透客户端，配合frp服务端使用。
+* :white_check_mark: [apfree-wifidog](https://github.com/liudf0716/apfree_wifidog): 高性能轻量级的 portal 解决方案。
+* :white_check_mark: [xfrpc](https://github.com/liudf0716/xfrpc): C 语言实现的内网穿透客户端，配合 frp 服务端使用。
 
 #### opensug(北京) - [Github](https://github.com/opensug/wp-opensug "https://github.com/opensug/wp-opensug"), [博客](https://www.opensug.org "https://www.opensug.org")
-* :white_check_mark: [openSug - WordPress插件](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")：为访问者提供搜索建议，方便用户搜索。 - [更多介绍](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")
+* :white_check_mark: [openSug - WordPress插件](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")：为访问者提供搜索建议，方便用户搜索 - [更多介绍](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")
 
 ### 2023年1月9日添加
 ---
 #### 释慧利(上海) - [Github](https://github.com/shihuili1218)
-* :clock8:  [Klein](https://github.com/shihuili1218/klein)：🔥 Klein 是一个基于 Paxos 的分布式集合工具库，包括分布式ArrayList、分布式 HashMap、分布式缓存、分布式锁等。
+* :clock8:  [Klein](https://github.com/shihuili1218/klein)：🔥 Klein 是一个基于 Paxos 的分布式集合工具库，包括分布式 ArrayList、分布式 HashMap、分布式缓存、分布式锁等。
 
 ### 2023年1月7日添加
 ---
@@ -73,24 +73,24 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2021年11月6号添加
 ---
 #### xnat9(成都) - [Github](https://github.com/xnat9)
-* :white_check_mark: [tiny](https://github.com/xnat9/tiny)：小巧的java应用微内核框架, 可用于构建小工具项目，web项目，各种大大小小的项目
+* :white_check_mark: [tiny](https://github.com/xnat9/tiny)：小巧的 Java 应用微内核框架, 可用于构建小工具项目，web 项目，各种大大小小的项目
 
 ### 2021年10月28号添加
 ---
 #### Mizhousoft(赣州) - [Github](https://github.com/mizhousoft)
-* :white_check_mark: [开源选型](https://open.mizhousoft.com)：为Java、Golang、前端、Swift、Android开发人员提供业界流行的组件
+* :white_check_mark: [开源选型](https://open.mizhousoft.com)：为 Java、Golang、前端、Swift、Android 开发人员提供业界流行的组件
 
 
 ### 2021年10月23号添加
 ---
 #### xnat9(成都) - [Github](https://github.com/xnat9)
-* :white_check_mark: [GRule](https://github.com/xnat9/grule)：自创Groovy DSL 动态规则(rule)执行引擎, 流程引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)
+* :white_check_mark: [GRule](https://github.com/xnat9/grule)：自创 Groovy DSL 动态规则(rule)执行引擎, 流程引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)
 
 
 ### 2021年8月26号添加
 ---
 #### montisan(长沙) - [Github](https://github.com/montisan)
-* :white_check_mark: [极客编辑器](https://www.geekeditor.com)：极客编辑器是一个所见即所得（WYSIWYG）富文本沉浸式深度写作编辑器，它注重效率创作，可多开文档编辑，同时支持Markdown语法输入。它重视写作者内容隐私及数据安全，目前已支持浏览器本地、Github及Gitee仓库文档存储，支持Github、Gitee仓库图片资源存储。在线版访问：[https://www.geekeditor.com](https://www.geekeditor.com) 。当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以一键复制到微信公众号、知乎及掘金等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
+* :white_check_mark: [极客编辑器](https://www.geekeditor.com)：极客编辑器是一个所见即所得（WYSIWYG）富文本沉浸式深度写作编辑器，它注重效率创作，可多开文档编辑，同时支持Markdown语法输入。它重视写作者内容隐私及数据安全，目前已支持浏览器本地、Github及Gitee仓库文档存储，支持 Github、Gitee 仓库图片资源存储。在线版访问：[https://www.geekeditor.com](https://www.geekeditor.com) 。当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以一键复制到微信公众号、知乎及掘金等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
 
 ### 2021年5月20号添加
 ---
@@ -110,7 +110,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年10月24号添加
 ---
 #### RiverTwilight(成都) - [Github](https://github.com/RiverTwilight), [博客](https://blog.yungeeker.com)
-* :white_check_mark: [NBlog](https://blog.yungeeker.com)：支持多语言和评论的静态Markdown博客系统，无需服务器，响应式 - [更多介绍](https://github.com/RiverTwilight/NBlog)
+* :white_check_mark: [NBlog](https://blog.yungeeker.com)：支持多语言和评论的静态 Markdown 博客系统，无需服务器，响应式 - [更多介绍](https://github.com/RiverTwilight/NBlog)
 
 ### 2020年9月23号添加
 ---
@@ -130,7 +130,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年6月30号添加
 ---
 #### doho(北京) - [Github](https://github.com/zwh1666258377)
-* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将gitbook导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)
+* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将 Gitbook 导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)
 
 ### 2020年4月14号添加
 ---
@@ -168,7 +168,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
 * :white_check_mark: [国家节假日解析爬虫](https://github.com/imlinhanchao/chinese_holiday_spider_module)：从国务院网站解析获取国家节假日公布页面的节假日安排。
 * :white_check_mark: [维基百科全站镜像](https://github.com/imlinhanchao/ngx_proxy_wiki)：通过 Nginx 反向代理制作维基百科全站镜像的配置档
-* :white_check_mark: [GitHub Page 图床](https://www.npmjs.com/package/github-picbed)：借助于GitHub Page 和 GitHub Api 做图床 - [更多介绍](https://github.com/imlinhanchao/github-picbed)
+* :white_check_mark: [GitHub Page 图床](https://www.npmjs.com/package/github-picbed)：借助于 GitHub Page 和 GitHub Api 做图床 - [更多介绍](https://github.com/imlinhanchao/github-picbed)
 * :white_check_mark: [Google 翻译 node 库](https://www.npmjs.com/package/translator-promise)：通过模拟请求实现 Google 翻译功能 - [更多介绍](https://github.com/imlinhanchao/translator-promise)
 
 ### 2019年12月17号添加
@@ -237,7 +237,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ---
 #### CloudOpenDevOps - [Github](https://github.com/opendevops-cn/opendevops)
-- :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
+- :white_check_mark: [opendevops](http://www.opendevops.cn)：CODO 是为用户提供企业多混合云、自动化运维、完全开源的云管理平台 - [更多介绍](https://github.com/opendevops-cn/opendevops)
 
 ### 2019年4月20号添加
 ---
