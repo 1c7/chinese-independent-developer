@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2023年1月11日添加
 ---
+#### liudf0716(北京) - [Github](https://github.com/liudf0716), [推特](https://twitter.com/staylightblow8)
+* :white_check_mark: [apfree-wifidog](https://github.com/liudf0716/apfree_wifidog): 高性能轻量级的portal解决方案
+* :white_check_mark: [xfrpc](https://github.com/liudf0716/xfrpc): c 语言实现的内网穿透客户端，配合frp服务端使用。
+
 #### opensug(北京) - [Github](https://github.com/opensug/wp-opensug "https://github.com/opensug/wp-opensug"), [博客](https://www.opensug.org "https://www.opensug.org")
 * :white_check_mark: [openSug - WordPress插件](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")：为访问者提供搜索建议，方便用户搜索。 - [更多介绍](https://wordpress.org/plugins/opensug/ "https://wordpress.org/plugins/opensug/")
 
