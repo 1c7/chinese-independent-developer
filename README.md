@@ -24,6 +24,9 @@
 
 ### 2023年1月12号添加
 ---
+#### weekendproject - [Github](https://github.com/weekend-project-space), [博客](http://weekendproject.space/)
+* :white_check_mark: [webfollow](https://webfollow.cc/)：RSS 阅读器，md 风格，支持个人自定义内容顺序，pwa 可直接添加到桌面，响应式，多端运行
+
 #### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
 * :white_check_mark: [codeck](https://codeck.moonrailgun.com/): 基于JS的可视化蓝图编程引擎，让不懂得编程的用户也能通过可视化的方式进行编程，只要掌握最基本的逻辑即可。同时支持插件形式编写适用于不同场景的代码块，产品灵感来自于`unreal`的蓝图编程引擎与`google`的`blockly`。
 
