@@ -24,7 +24,6 @@
 ### 2023年1月13号添加
 ---
 #### dsy4567 - [Github](https://github.com/dsy4567)
-* ✅ [4399 on vscode](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode) - 在 vscode 上玩 4399 小游戏, 帮助你劳逸结合, 提高开发效率
 * ✅ [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
 
 #### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
