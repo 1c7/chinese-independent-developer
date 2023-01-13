@@ -23,6 +23,9 @@
 
 ### 2023年1月13号添加
 ---
+#### dsy4567 - [Github](https://github.com/dsy4567)
+* ✅ [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
+
 #### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
 * ✅ [eagleuse](https://rao.pics) - 把 Eagle App (一个管理UI素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
 
