@@ -21,10 +21,15 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年1月22号添加
+
+#### Sworld(温州) - [Github](https://github.com/mcthesw), [博客](http://blog.sworld.club/)
+* :white_check_mark: [游戏存档管理器](https://github.com/mcthesw/game-save-manager)：一个简单、美观的游戏存档管理软件 - [更多介绍](https://www.bilibili.com/read/cv15774558)
+
 ### 2023年1月14号添加
 
 #### GeorgeZou - [Github](https://github.com/georgezouq)
-* ✅ [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
+* :white_check_mark: [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
 
 
 ### 2023年1月13号添加
@@ -36,10 +41,10 @@
 * :white_check_mark: [make-money](https://make-money.hanzhengrong.cn)：好用的PC端理财工具系统（基金） - [更多介绍](https://github.com/hzr1140521792/make-money-fund)
 
 #### dsy4567 - [Github](https://github.com/dsy4567)
-* ✅ [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
+* :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
 
 #### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
-* ✅ [eagleuse](https://rao.pics) - 把 Eagle App (一个管理UI素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
+* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (一个管理UI素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
 
 ### 2023年1月12号添加
 ---
