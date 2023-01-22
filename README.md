@@ -22,12 +22,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2023年1月22号添加
-
+---
 #### Sworld(温州) - [Github](https://github.com/mcthesw), [博客](http://blog.sworld.club/)
 * :white_check_mark: [游戏存档管理器](https://github.com/mcthesw/game-save-manager)：一个简单、美观的游戏存档管理软件 - [更多介绍](https://www.bilibili.com/read/cv15774558)
 
 ### 2023年1月14号添加
-
+---
 #### GeorgeZou - [Github](https://github.com/georgezouq)
 * :white_check_mark: [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
 
