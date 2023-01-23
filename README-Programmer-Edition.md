@@ -14,10 +14,15 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年1月23号添加
+---
+#### Tsonglew(杭州) - [Github](https://github.com/tsonglew)
+* :white_check_mark: [intellij-etcdhelper](https://github.com/tsonglew/intellij-etcdhelper)：支持 JetBrains 全家桶的 etcd GUI 插件 - [更多介绍](https://plugins.jetbrains.com/plugin/19924-etcdhelper)
+
 ### 2023年1月13号添加
 ---
 #### dsy4567 - [Github](https://github.com/dsy4567)
-* ✅ [4399 on vscode](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode) - 在 vscode 上玩 4399 小游戏, 帮助你劳逸结合, 提高开发效率
+* :white_check_mark: [4399 on vscode](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode) - 在 vscode 上玩 4399 小游戏, 帮助你劳逸结合, 提高开发效率
 
 ### 2023年1月11日添加
 ---
