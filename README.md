@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年1月24号添加
+---
+#### shartoo - [Github](https://github.com/shartoo)
+* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：一个<b>管理</b>和<b>分享</b>优质网站收藏的网站，不仅限于博客，希望包含全网各个领域 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-1400422591)
+
 ### 2023年1月22号添加
 ---
 #### Sworld(温州) - [Github](https://github.com/mcthesw), [博客](http://blog.sworld.club/)
