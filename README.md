@@ -22,6 +22,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 
+### 2023年1月25号添加
+---
+#### MrZenW - [Github](https://github.com/MrZenW)
+* :white_check_mark: [G-侠客 | BPC.js](https://g-xiake.com)：可以生成能够给电波表对时的电磁波的 JS 库，并且用此搭建了一个免费帮大家对时的网站，它可以帮助拥有电波表（如卡西欧）的朋友在没有电波的地方对时 - [更多介绍](https://github.com/MrZenW/BPC.js)
+
 ### 2023年1月24号添加
 ---
 #### shartoo - [Github](https://github.com/shartoo)
