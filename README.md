@@ -27,6 +27,9 @@
 #### MrZenW - [Github](https://github.com/MrZenW)
 * :white_check_mark: [G-侠客 | BPC.js](https://g-xiake.com)：可以生成能够给电波表对时的电磁波的 JS 库，并且用此搭建了一个免费帮大家对时的网站，它可以帮助拥有电波表（如卡西欧）的朋友在没有电波的地方对时 - [更多介绍](https://github.com/MrZenW/BPC.js)
 
+#### lencx - [Github](https://github.com/lencx)
+* :white_check_mark: [ChatGPT](https://github.com/lencx/ChatGPT)：ChatGPT 跨平台桌面应用，支持 Mac、Windows 和 Linux。主要功能有斜杠指令，系统托盘，快捷键，系统菜单，聊天记录导出（PNG，PDF，Markdown），加载任意网站 URL 作为应用程序窗口（URL 桌面化，可以借助系统 API 做更多有趣的事情）- [更多介绍](https://github.com/lencx/ChatGPT/blob/main/README.md)
+
 ### 2023年1月24号添加
 ---
 #### shartoo - [Github](https://github.com/shartoo)
@@ -73,7 +76,7 @@
 #### Jokerlsss(福州) - [Github](https://github.com/fjykTec/ModernWMS)
 * :white_check_mark: [ModernWMS](https://wmsonline.ikeyly.com/#/login)：精简而充满现代化的 **仓库管理系统**，支持快速收发货、库存、仓内作业等功能。开箱即用、完全开源、十分钟即可上手！（标题链接可直达体验环境）
 
-#### yiuman(广州) - [Github](https://github.com/Yiuman), 
+#### yiuman(广州) - [Github](https://github.com/Yiuman),
 * :white_check_mark: [docod](http://42.192.95.146:3000)：智能文档比对-支持 Word、PDF 交叉比对、双屏展示、效果一目了然
 一键导出差异报告、word 修订文档
 
@@ -143,13 +146,13 @@
 
 ### 2022年11月30号添加
 ---
-#### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong), 
+#### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong),
 * :white_check_mark: [UnderThink](https://underthink.cc/)：一个危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
 
 ### 2022年11月22号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。 
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。
 
 ### 2022年11月16号添加
 ---
@@ -1973,4 +1976,3 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 #### 6. 最后
 本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
 **sideidea - 独立开发者分享做产品盈利的故事**<br/>
-
