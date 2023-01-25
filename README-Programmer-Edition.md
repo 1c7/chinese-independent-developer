@@ -15,6 +15,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
 
+### 2023年1月26号添加
+---
+#### Robert1037(清远) - [Github](https://github.com/Robert1037), [博客](https://rbtblog.com/)
+* :white_check_mark: [sha256full/fast/min](https://rbtblog.com/posts/SHA256%E7%AE%97%E6%B3%95%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0/)：C 实现轻量命令行执行的 SHA256 散列值计算程序，加进用户路径可快捷 hash 字符串或文件
 
 ### 2023年1月24号添加
 ---
