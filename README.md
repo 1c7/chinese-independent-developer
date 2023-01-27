@@ -21,7 +21,7 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2023年1月25号添加
+### 2023年1月27号添加
 ---
 #### syt - [Github](https://github.com/syt2)
 * :white_check_mark: [Tracepad](https://apps.apple.com/app/id1658454999)：将iPhone/iPad变为控制Mac的Trackpad，支持Trackpad的绝大部分手势 - [更多介绍](https://www.tracepad.site/tracepad/)
