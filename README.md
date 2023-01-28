@@ -24,7 +24,7 @@
 ### 2023年1月27号添加
 ---
 #### syt - [Github](https://github.com/syt2)
-* :white_check_mark: [Tracepad](https://apps.apple.com/app/id1658454999)：将iPhone/iPad变为控制Mac的Trackpad，支持Trackpad的绝大部分手势 - [更多介绍](https://www.tracepad.site/tracepad/)
+* :white_check_mark: [Tracepad](https://apps.apple.com/app/id1658454999)：将 iPhone/iPad 变为控制 Mac 的 Trackpad，支持 Trackpad 的绝大部分手势 - [更多介绍](https://www.tracepad.site/tracepad/)
 
 ### 2023年1月25号添加
 ---
@@ -47,7 +47,7 @@
 ### 2023年1月14号添加
 ---
 #### GeorgeZou - [Github](https://github.com/georgezouq)
-* :white_check_mark: [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
+* :white_check_mark: [星搭 MtBird](https://github.com/staringos/mtbird) - 💻 小程序、H5 网站 无/低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
 
 
 ### 2023年1月13号添加
@@ -62,7 +62,7 @@
 * :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
 
 #### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
-* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (一个管理UI素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
+* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (一个管理 UI 素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
 
 ### 2023年1月12号添加
 ---
@@ -70,7 +70,7 @@
 * :white_check_mark: [webfollow](https://webfollow.cc/)：RSS 阅读器，md 风格，支持个人自定义内容顺序，pwa 可直接添加到桌面，响应式，多端运行
 
 #### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
-* :white_check_mark: [codeck](https://codeck.moonrailgun.com/): 基于JS的可视化蓝图编程引擎，让不懂得编程的用户也能通过可视化的方式进行编程，只要掌握最基本的逻辑即可。同时支持插件形式编写适用于不同场景的代码块，产品灵感来自于`unreal`的蓝图编程引擎与`google`的`blockly`。
+* :white_check_mark: [codeck](https://codeck.moonrailgun.com/): 基于 JS 的可视化蓝图编程引擎，让不懂得编程的用户也能通过可视化的方式进行编程，只要掌握最基本的逻辑即可。同时支持插件形式编写适用于不同场景的代码块，产品灵感来自于`unreal`的蓝图编程引擎与`google`的`blockly`。
 
 ### 2023年1月9号添加
 ---
@@ -1028,7 +1028,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2019年3月5号添加
 ---
 #### z-song(上海) - [Github](https://github.com/z-song)
-* :white_check_mark: [implode.io](https://implode.io/)： 一个在线运行、记录、分享PHP代码的网站
+* :white_check_mark: [implode.io](https://implode.io/)： 一个在线运行、记录、分享 PHP 代码的网站
 
 ### 2019年3月4号添加
 ---
@@ -1088,7 +1088,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2018年12月20号 & 21号添加
 ---
 #### Alex Cui(上海) - [Github](https://github.com/AlexJason/Zilch-Editor), [博客](https://alexcui.blog.luogu.org/)
-* :clock8: [Zilch Editor](https://github.com/AlexJason/Zilch-Editor)：使用C++开发的Scratch编辑器(少儿编程工具) - [更多介绍](https://alexcui.blog.luogu.org/why-to-develop-ze)
+* :clock8: [Zilch Editor](https://github.com/AlexJason/Zilch-Editor)：使用 C++ 开发的 Scratch 编辑器(少儿编程工具) - [更多介绍](https://alexcui.blog.luogu.org/why-to-develop-ze)
 
 #### Minsc (北京) - [Github](https://github.com/circleapps/sourceplayer)
 * :white_check_mark: [Source Player](https://circleapps.co)：为英语学习者设计的视频播放器 - [更多介绍](https://www.zhihu.com/question/21430286/answer/540663876)
@@ -1116,7 +1116,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2018年10月11号添加
 ---
 #### itning - [Github](https://github.com/itning), [博客](https://blog.itning.top)
-* :x: [云舒课表](https://www.coolapk.com/apk/top.itning.yunshuclassschedule)：遵循Material Design的课程表APP，包含课程提醒，上课自动静音等实用功能 - [更多介绍](https://github.com/itning/YunShuClassSchedule)
+* :x: [云舒课表](https://www.coolapk.com/apk/top.itning.yunshuclassschedule)：遵循 Material Design 的课程表APP，包含课程提醒，上课自动静音等实用功能 - [更多介绍](https://github.com/itning/YunShuClassSchedule)
 
 ### 2018年10月8号添加
 ---
@@ -1139,7 +1139,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2018年9月11号添加
 ---
 ####  feisuzhu - [GitHub](https://github.com/feisuzhu)
-* :white_check_mark: [东方符斗祭](http://thbattle.net)：Python 写的卡牌游戏，规则基本是三国杀的规则，有修改，人物设定取自东方Project，技能设定大多是自己做的，少量复刻原版三国杀 - [更多介绍](https://github.com/feisuzhu/thbattle)
+* :white_check_mark: [东方符斗祭](http://thbattle.net)：Python 写的卡牌游戏，规则基本是三国杀的规则，有修改，人物设定取自东方 Project，技能设定大多是自己做的，少量复刻原版三国杀 - [更多介绍](https://github.com/feisuzhu/thbattle)
 
 ### 2018年9月9号添加
 ---
