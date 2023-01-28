@@ -613,7 +613,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2020年1月16号添加
 ---
 #### SanJin(北京) - [Github](https://github.com/sanjinhub), [博客](https://geek.lc)
-* :white_check_mark: [Thief-Book](https://github.com/cteamx/Thief-Book)：在任务栏、桌面、TouchBar 上进行摸鱼的神器 - [更多介绍](https://github.com/cteamx/Thief-Book/blob/master/README.md)
+* :white_check_mark: [Thief](https://github.com/cteamx/Thief)：在任务栏、桌面、TouchBar 上进行摸鱼的神器 - [更多介绍](https://github.com/cteamx/Thief/blob/master/README.md)
 
 ### 2019年1月10号添加
 ---
