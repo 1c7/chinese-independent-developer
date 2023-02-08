@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年2月8号添加
+---
+#### miniits(厦门) - [Github](https://github.com/hy4101)
+* :white_check_mark: [BdTab新标签页扩展](www.bdtab.cn)：：一个浏览器扩展程序，高度自定义，组件化，跨平台等功能的工具。
+
 ### 2023年1月27号添加
 ---
 #### syt - [Github](https://github.com/syt2)
