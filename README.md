@@ -25,7 +25,7 @@
 ### 2023年2月8号添加
 ---
 #### miniits(厦门) - [Github](https://github.com/hy4101)
-* :white_check_mark: [BdTab新标签页扩展](https://www.bdtab.cn)：一个浏览器扩展程序，高度自定义，组件化，跨平台等功能的工具
+* :white_check_mark: [BdTab新标签页扩展](http://www.bdtab.cn)：一个浏览器扩展程序，高度自定义，组件化，跨平台等功能的工具
 
 ### 2023年1月27号添加
 ---
