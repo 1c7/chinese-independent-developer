@@ -21,6 +21,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年2月11号添加
+
+---
+
+#### createitv(武汉) - [博客](https://www.panghuang.tech)
+
+* :white_check_mark: [每日工具箱随身助手](https://typora-1300715298.cos.ap-shanghai.myqcloud.com//blog扫码_搜索联合传播样式-标准色版.png)：一个集成去水印、电子木鱼、房贷计算、小孩取名、壁纸下载等多种功能的小程序
+
 
 ### 2023年2月8号添加
 ---
