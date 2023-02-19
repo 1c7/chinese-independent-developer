@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年2月19号添加
+---
+#### tangshimin（深圳）- [Github](https://github.com/tangshimin)
+* :white_check_mark: [幕境](https://github.com/tangshimin/MuJing): 沉浸式学英语,使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词，使得单词记忆不再是一件乏味的事。 
+
+
 ### 2023年2月18号添加
 ---
 #### Darkce(北京) - [Github](https://github.com/luoxuhai)
@@ -241,11 +247,6 @@
 ---
 #### sorakylin(广州) - [Github](https://github.com/sorakylin), [博客](https://www.skypyb.com/2022/07/rizhi/suibi/1996/)
 * :white_check_mark: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是一个能让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
-
-### 2022年6月22号添加
----
-#### tangshimin（深圳）- [Github](https://github.com/tangshimin)
-* :white_check_mark: [Typing Learner](https://github.com/tangshimin/typing-learner): 通过键盘肌肉记忆单词，句子，字幕。可以用 MKV 视频生成词库（生词本），让每个单词都有具体的语境。
 
 ### 2022年6月17号添加
 ---
