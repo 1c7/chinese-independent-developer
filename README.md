@@ -664,6 +664,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [Storage Editor](https://chrome.google.com/webstore/detail/lpmmcjhefcghagdhnpbodfdamfmlicfn)：网页 LocalStorage 和 SessionStorage 解析与编辑工具。 - [更多介绍](https://github.com/imlinhanchao/crx_storage_editor)
 * :white_check_mark: [摸鱼大闯关](https://p.hancel.org/)：摸鱼闯关网页解谜游戏，结合了多种计算机技术与计算机社区梗。摸鱼也要学技术！
 * :white_check_mark: [摸鱼派聊天室 客户端](https://github.com/imlinhanchao/pwl-chat)：摸鱼派聊天室的桌面客户端，摸鱼聊天更方便啦！
 * :white_check_mark: [摸鱼派聊天室 VSCode 扩展](https://marketplace.visualstudio.com/items?itemName=hancel.pwl-chat)：支持在 VSCode 中摸鱼聊天的扩展应用，开启摸鱼新姿势。 [更多介绍](https://github.com/imlinhanchao/vsc-pwl-chat)
