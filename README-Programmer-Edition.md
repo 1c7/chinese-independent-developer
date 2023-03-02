@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年3月2号添加
+---
+#### S1NH - [博客](http://s1nh.org/)
+* :white_check_mark: [gpu-based-image-stitching](https://github.com/duchengyao/gpu-based-image-stitching)：一个快速图像拼接算法 -  [介绍1](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/), [介绍2](http://s1nh.org/post/image-stitching-post-process/)
+
 ### 2023年2月23号添加
 ---
 #### 方楠(合肥) - [Github](https://github.com/Fangnan700), [博客](https://www.yvling.top/)
