@@ -21,10 +21,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年3月4号添加
+---
+#### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
+* :white_check_mark: [PicList](https://github.com/Kuingsmile/PicList)：一款云存储/图床管理和图片上传工具，基于 PicGo 项目的深度二次开发- [更多介绍](https://piclist.cn)
+
 ### 2023年2月24号添加
 ---
 #### Lessimore - [官网](https://supercoder.lessimore.cn/)
-* :white_check_mark: [Super Coder](https://apps.apple.com/cn/app/super-coder-%E5%89%AA%E5%88%87%E6%9D%BF-%E6%9C%AC%E5%9C%B0%E5%8C%96-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E8%A1%8C/id1663425686?mt=12)：剪切板管理、Swift代码生成、Xcode本地化样样都行 - [更多介绍](https://supercoder.lessimore.cn/)
+* :white_check_mark: [Super Coder](https://apps.apple.com/cn/app/super-coder-%E5%89%AA%E5%88%87%E6%9D%BF-%E6%9C%AC%E5%9C%B0%E5%8C%96-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%A0%B7%E6%A0%B7%E9%83%BD%E8%A1%8C/id1663425686?mt=12)：剪切板管理、Swift 代码生成、Xcode 本地化样样都行 - [更多介绍](https://supercoder.lessimore.cn/)
 
 ### 2023年2月22号添加
 ---
