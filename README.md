@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年3月8号添加
+---
+#### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
+* :white_check_mark: [Tailchat](https://github.com/msgbyte/tailchat)：您自己工作区中的下一代 noIM 应用程序 - [更多介绍](https://tailchat.msgbyte.com/)
 
 ### 2023年3月4号添加
 ---
