@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+### 2023年3月19号添加
+---
+#### J。z(广州) - [Github](https://github.com/Jezemy/MASystem)
+* :white_check_mark: [MASystem](https://github.com/Jezemy/MASystem)：基于知识图谱的中文医疗问答系统
+
 ### 2023年3月2号添加
 ---
 #### S1NH - [博客](http://s1nh.org/)
