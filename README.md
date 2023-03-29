@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年3月30号添加
+---
+#### weijarz(杭州) - [主页](https://www.oxyry.com/)
+* :white_check_mark: [QiReader](https://www.qireader.com)：全平台网页 RSS 阅读器，同时支持推送文章到 Kindle。
+
 ### 2023年3月8号添加
 ---
 #### moonrailgun(上海) - [Github](https://github.com/moonrailgun), [博客](http://moonrailgun.com/)
