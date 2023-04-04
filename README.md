@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年4月4号添加
+---
+#### 静彦齐(吉林)
+* :white_check_mark: [WriteDeck](https://apps.apple.com/cn/app/writedeck/id6446620450)：一款写作训练 App，利用随机生成的提示词卡片进行故事创作。
+
 ### 2023年3月30号添加
 ---
 #### weijarz(杭州) - [主页](https://www.oxyry.com/)
@@ -34,7 +39,7 @@
 ### 2023年3月4号添加
 ---
 #### Kuingsmile(杭州) - [Github](https://github.com/Kuingsmile), [博客](https://www.horosama.com)
-* :white_check_mark: [PicList](https://github.com/Kuingsmile/PicList)：一款云存储/图床管理和图片上传工具，基于 PicGo 项目的深度二次开发- [更多介绍](https://piclist.cn)
+* :white_check_mark: [PicList](https://github.com/Kuingsmile/PicList)：一款云存储/图床管理和图片上传工具，基于 PicGo 项目的深度二次开发 - [更多介绍](https://piclist.cn)
 
 ### 2023年2月24号添加
 ---
