@@ -14,12 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
-### 2023年4月7日 添加
+### 2023年4月7号添加
 ---
-### KissesJun - [GitHub](https://github.com/GWillS163)
-* ⬜: [MASystem](https://github.com/GWillS163/howUseAIInAppEnginnering)：基于chatGPT+plantUML 的 软件工程UML图生成工具（demo，后续版本未开源）
-
-
+#### KissesJun - [GitHub](https://github.com/GWillS163)
+* :white_check_mark: [MASystem](https://github.com/GWillS163/howUseAIInAppEnginnering)：基于 ChatGPT+plantUML 的 软件工程 UML 图生成工具（demo，后续版本未开源）
 
 ### 2023年3月19号添加
 ---
