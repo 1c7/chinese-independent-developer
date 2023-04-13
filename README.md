@@ -31,6 +31,9 @@
 #### mark420524 - [GitHub](https://github.com/mark420524)
 * :white_check_mark: [早晚猜](https://github.com/mark420524/guess): 猜成语微信小程序，看图猜成语
 
+#### Gomi(成都) - [GitHub](https://github.com/gxy5202) [主页](https://gomi.site)
+* :white_check_mark: [Video Roll](https://github.com/VideoRoll/VideoRoll): 一款帮助你旋转、缩放、移动、调整比例、镜像翻转、调节音调、专注和滤镜任意网页中 HTML5 视频的浏览器插件（Chrome/Edge/Firefox）- [更多介绍](https://github.com/VideoRoll/VideoRoll/blob/main/README-zh_CN.md)
+
 ### 2023年4月4号添加
 ---
 #### 静彦齐(吉林)
