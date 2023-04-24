@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年4月24号添加
+---
+#### weekend-project-space - [Github](https://github.com/undb-xyz/undb)
+* :white_check_mark: [aihub](https://aihub.bitmagic.space/)：收集 AI 相关应用和提示与源码
+
 ### 2023年4月14号添加
 ---
 #### nichenqin(上海) - [Github](https://github.com/undb-xyz/undb)
