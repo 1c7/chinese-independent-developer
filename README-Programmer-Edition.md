@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年4月27号添加
+---
+#### jahnli - [Github](https://github.com/jahnli)
+* :white_check_mark: [awesome-flutter-plugins](https://github.com/jahnli/awesome-flutter-plugins)：好用的Flutter插件以便更效率的开发 - [更多介绍](https://github.com/jahnli/awesome-flutter-plugins)
+
 ### 2023年4月7号添加
 ---
 #### KissesJun - [GitHub](https://github.com/GWillS163)
