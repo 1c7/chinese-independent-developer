@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年4月30号添加
+---
+#### cxxsucks(徐州)
+* :white_check_mark: [orient](https://github.com/cxxsucks/orient/releases/tag/v0.3.1)：Linux, macOS 与 Windows 上的*命令行*文件检索工具，含有`find`以及`Everything`的各种功能，外加内容查找、上下层目录查找等 - [更多介绍](https://github.com/cxxsucks/orient)
+
 ### 2023年4月27号添加
 ---
 #### jahnli - [Github](https://github.com/jahnli)
