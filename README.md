@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年5月8号添加
+---
+### aizuzi - [Github](https://github.com/aizuzi) 
+* :white_check_mark: [减肥小助手](https://apps.apple.com/cn/app/id1583776291)：减肥期间的小工具，帮助记录体重和卡路里 - [更多介绍](https://ohee.cn/static/download/index.html)
+
 ### 2023年4月30号添加
 ---
 #### cxxsucks(徐州)
