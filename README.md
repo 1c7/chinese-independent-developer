@@ -24,7 +24,7 @@
 ### 2023年5月13号添加
 ---
 #### 飞刀(北京)
-* :white_check_mark: [五彩插件](https://www.dotalk.cn/product/wucai): 网页划线高亮批注笔记工具
+* :white_check_mark: [五彩插件](https://www.dotalk.cn/product/wucai): 网页划线高亮批注笔记工具 - [更多介绍](https://www.yuque.com/makediff/wucai)
 
 ### 2023年5月9号添加
 ---
