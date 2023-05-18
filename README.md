@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年5月18号添加
+---
+#### IndieKKY(浙江) - [Github](https://github.com/IndieKKY)
+* :white_check_mark: [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle)：字幕显示,下载,总结,翻译
+
 ### 2023年5月13号添加
 ---
 #### 飞刀(北京)
