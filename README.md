@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年5月24号添加
+---
+#### 糖伴西红柿
+* :white_check_mark: [海报图生成 - Foolstack](https://foolstack.net)： 使用 API 将网页/HTML 渲染成高质量图片
+
 ### 2023年5月18号添加
 ---
 #### IndieKKY(浙江) - [Github](https://github.com/IndieKKY)
@@ -29,7 +34,7 @@
 ### 2023年5月13号添加
 ---
 #### 飞刀(北京)
-* :white_check_mark: [五彩插件](https://www.dotalk.cn/product/wucai): 网页划线高亮批注笔记工具，支持同步到Obsidian - [更多介绍](https://www.yuque.com/makediff/wucai)
+* :white_check_mark: [五彩插件](https://www.dotalk.cn/product/wucai): 网页划线高亮批注笔记工具，支持同步到 Obsidian - [更多介绍](https://www.yuque.com/makediff/wucai)
 
 ### 2023年5月9号添加
 ---
@@ -159,7 +164,7 @@
 * :white_check_mark: [SiYuan](https://b3log.org/siyuan)：思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得 - [更多介绍](https://b3log.org/siyuan)
 
 #### 程序猿韩三皮(北京) - [Github](https://github.com/hzr1140521792)
-* :white_check_mark: [make-money](https://make-money.hanzhengrong.cn)：好用的PC端理财工具系统（基金） - [更多介绍](https://github.com/hzr1140521792/make-money-fund)
+* :white_check_mark: [make-money](https://make-money.hanzhengrong.cn)：好用的 PC 端理财工具系统（基金） - [更多介绍](https://github.com/hzr1140521792/make-money-fund)
 
 #### dsy4567 - [Github](https://github.com/dsy4567)
 * :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
