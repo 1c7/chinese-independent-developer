@@ -28,6 +28,12 @@
 * :white_check_mark: [好色相机](https://apps.apple.com/cn/app/id1151401197)： 从照片中提取关键色彩值，为你的设计提供色彩灵感。
 * :white_check_mark: [IconShop](https://apps.apple.com/cn/app/id6443592678)：快速生成Xcode直接可以使用的icon格式，支持云存储。
 
+### 2023年5月27号添加
+---
+#### Sunner(北京) - [Github](https://github.com/sunner)
+* :white_check_mark: [ChatALL](http://chatall.ai)：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
+
+
 ### 2023年5月24号添加
 ---
 #### 糖伴西红柿
