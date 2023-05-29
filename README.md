@@ -21,10 +21,18 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年5月28号添加
+---
+#### Abenx
+* :white_check_mark: [开心果节拍器](https://apps.apple.com/cn/app/id1538268059)： 首款支持Apple Watch的节拍器。学琴，跑步配速的好帮手。
+* :white_check_mark: [好色相机](https://apps.apple.com/cn/app/id1151401197)： 从照片中提取关键色彩值，为你的设计提供色彩灵感。
+* :white_check_mark: [IconShop](https://apps.apple.com/cn/app/id6443592678)：快速生成Xcode直接可以使用的icon格式，支持云存储。
+
 ### 2023年5月27号添加
 ---
 #### Sunner(北京) - [Github](https://github.com/sunner)
 * :white_check_mark: [ChatALL](http://chatall.ai)：同时和 10+ 个大模型（ChatGPT、Bing Chat、文心一言、讯飞星火等）对话，找到最佳回答
+
 
 ### 2023年5月24号添加
 ---
