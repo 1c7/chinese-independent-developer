@@ -21,6 +21,21 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年6月8号添加
+---
+#### Jinke Du（上海）- [个人网站](https://dujinke.com)
+
+* :white_check_mark: [行动日](https://apps.apple.com/app/id6444159859)：一个待办/不办清单应用。
+* :white_check_mark: [好天气](https://apps.apple.com/app/id1658473170)：查看现在、未来与过去的天气。
+* :white_check_mark: [生或死](https://apps.apple.com/app/id1498862402)：康威生命游戏（Conway’s Game of Life）。
+* :white_check_mark: [白边框](https://apps.apple.com/app/id1659350166)：为照片添加边框。
+* :white_check_mark: [计数器](https://apps.apple.com/app/id1533504378)：记录一切计数。
+* :white_check_mark: [卅六问](https://apps.apple.com/app/id1541439969)：让陌生人迅速相爱的 36 个问题。
+* :white_check_mark: [猜文字](https://apps.apple.com/app/id1606194420)：中文 Wordle，在 6 次机会中，通过笔画、笔顺猜出正确文字。
+* :white_check_mark: [伊摩基](https://apps.apple.com/app/id1619616706)：用 Emoji 记录生活日记。
+* :white_check_mark: [相机印](https://apps.apple.com/app/id6447237830)：为照片添加参数水印边框。
+
 ### 2023年6月4号添加
 ---
 #### Grant 
