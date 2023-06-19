@@ -21,6 +21,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年6月19号添加
+---
+#### 甘小蔗（重庆） - [个人网站](https://gxzv.com/?chinese-independent-developer)
+* :white_check_mark: [GPEG 九型人格测试系统](https://gxzv.com/know-yourself/enneagram/)：九型人格专业测试与分析 - [更多介绍](https://gxzv.com/know-yourself/enneagram/all-types/)
+* :white_check_mark: [ChiauFarm](https://www.chiau.net/farm/)：Chia Token 跨平台可视化多功能自动耕种客户端
+* :white_check_mark: [MetorChat](https://chat.metauit.com/)：对话基于 NLP 和 ML 的大型语言模型
+* :clock8: [工业上位机](https://gxzv.com/blog/review-2022-12/#%E5%A4%A7%E5%89%8D%E7%AB%AF)：一些基于大前端开发的上位机应用
+* :x: [MCAdmin](https://www.mcadmin.cn/)：面向 Minecraft 内容提供者的垂直社区
 
 ### 2023年6月8号添加
 ---
