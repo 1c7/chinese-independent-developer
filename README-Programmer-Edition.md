@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年6月29号添加
+---
+#### tomsun28(绵阳) - [Github](https://github.com/tomsun28). 
+* :white_check_mark: [HertzBeat](https://hertzbeat.com/)：[开源实时监控工具](https://github.com/dromara/hertzbeat) + [云服务](https://console.tancloud.cn/), 支持对应用网站，数据库，操作系统，中间件，云原生，网络等的监控告警通知，类似于 Zabbix 和 Prometheus - [更多介绍](https://github.com/dromara/hertzbeat)
+
 ### 2023年6月16号添加
 ---
 #### Fangnan700(合肥) - [Github](https://github.com/Fangnan700), [博客](https://blog.yvling.icu/)
