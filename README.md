@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年6月29号添加
+---
+#### Airsaid（武汉） - [个人网站](http://airsaid.com/)
+* :white_check_mark: [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)：原生 Android ChatGPT 客户端
+* :white_check_mark: [数字华容道](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle)：经典数字拼图智力小游戏
+* :white_check_mark: [点点](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot)：连点成线休闲小游戏
+
 ### 2023年6月19号添加
 ---
 #### 甘小蔗（重庆） - [个人网站](https://gxzv.com/?chinese-independent-developer)
