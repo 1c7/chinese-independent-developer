@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月5号添加
+---
+#### River(深圳) - [Github](https://github.com/hepengwei/visualization-collection)
+* :white_check_mark: [visualization-collection](http://hepengwei.cn)：一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例
+
 ### 2023年6月29号添加
 ---
 #### Airsaid（武汉） - [个人网站](http://airsaid.com/)
