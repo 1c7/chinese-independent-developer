@@ -21,8 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-
-
+### 2023年7月12号添加
+---
+#### GGBond - [个人网站](https://boxopened.github.io/)
+* :white_check_mark: [雨巷](https://apps.apple.com/us/app/%E9%9B%A8%E5%B7%B7/id1619940076)：为程序员打造的专属白噪音工具，精选钢琴曲混合自然音帮助保持专注，提高效率
+* :white_check_mark: [文曲星记单词](https://apps.apple.com/us/app/%E6%96%87%E6%9B%B2%E6%98%9F%E8%AE%B0%E5%8D%95%E8%AF%8D/id1618265393)：灵感来源于古老的文曲星电子辞典，经典复古的单词记忆软件
+* :white_check_mark: [预算笔记](https://apps.apple.com/us/app/budget-note/id1623043447)：一个有预算功能的记事簿，免注册，数据本地存储，同时支持Web多端访问
 
 ### 2023年7月5号添加
 ---
