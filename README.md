@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月17号添加
+---
+#### 张土福(上海) - [Github](https://github.com/tufook), [博客](https://tufook.com/)
+* :white_check_mark: [Foresee](https://apps.apple.com/cn/app/foresee-predictions-tracker/id6447700092)：iOS App，跟踪你的预测以提升你的判断力
+
 ### 2023年7月12号添加
 ---
 #### GGBond - [个人网站](https://boxopened.github.io/)
