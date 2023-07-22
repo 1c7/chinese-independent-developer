@@ -25,8 +25,6 @@
 ---
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
 * :white_check_mark: [妙言](https://github.com/tw93/MiaoYan)：轻灵的 Markdown 笔记本伴你写出妙言
-* :white_check_mark: [Pake](https://github.com/tw93/Pake)：利用 Rust 轻松构建轻量级桌面应用
-* :white_check_mark: [潮流周刊](https://weekly.tw93.fun/)：潮流技术资讯，好用开源工具推荐的周刊
 
 ### 2023年7月21号添加
 ---
