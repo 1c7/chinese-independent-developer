@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月22号添加
+---
+#### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
+* :white_check_mark: [妙言](https://github.com/tw93/MiaoYan)：轻灵的 Markdown 笔记本伴你写出妙言
+* :white_check_mark: [Pake](https://github.com/tw93/Pake)：利用 Rust 轻松构建轻量级桌面应用
+* :white_check_mark: [潮流周刊](https://weekly.tw93.fun/)：潮流技术资讯，好用开源工具推荐的周刊
+
 ### 2023年7月21号添加
 ---
 #### Tan(佛山) - [Github](https://github.com/tans)
@@ -377,11 +384,6 @@
 #### Evancohe(惠州) - [Github](https://github.com/evancohe), [Twitter](https://twitter.com/evancohe)
 * :white_check_mark: [Kake日记](https://apps.apple.com/us/app/kake-journal-password-diary/id1515415906)：一款极简风格的日记 App, 多设备适配, 曾上 Apple 推荐。
 * :white_check_mark: [Je Focus](https://apps.apple.com/sg/app/je-focus/id1486865992)：一款极简风格的专注 App, 用重力感应检测用户拿手机并暴力提醒.
-
-### 2022年9月4号添加
----
-#### Tw93 - [Github](https://github.com/tw93), [博客](https://tw93.fun)
-* :white_check_mark: [妙言](https://miaoyan.app)：一个简洁好看的开源的 Mac Markdown 编辑器；[更多介绍](https://github.com/tw93/MiaoYan#%E7%89%B9%E7%82%B9)
 
 ### 2022年8月24号添加
 ---
