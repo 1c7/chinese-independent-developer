@@ -14,6 +14,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+### 2023年7月22号添加
+---
+#### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
+* :white_check_mark: [Pake](https://github.com/tw93/Pake)：利用 Rust 轻松构建轻量级桌面应用
+* :white_check_mark: [潮流周刊](https://weekly.tw93.fun/)：潮流技术资讯，好用开源工具推荐的周刊
+
 ### 2023年7月12号添加
 ---
 #### Leafer(北京) - [Github](https://github.com/leaferjs/ui)
