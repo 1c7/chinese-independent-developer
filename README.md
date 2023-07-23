@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月23号添加
+---
+#### 招振涛(佛山) - [Github](https://github.com/zhaozhentao)
+* :white_check_mark: [读书计划](http://coding.bozhen.live/#/books/10)：古老 Linux 内核 0.11 版拆解与重组学习网站
+
 ### 2023年7月22号添加
 ---
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
