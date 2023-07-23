@@ -25,7 +25,6 @@
 ---
 #### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [Bilibili](https://space.bilibili.com/65858958), [知乎](https://www.zhihu.com/people/SPeakShen)
 * :white_check_mark: [KHistory](https://github.com/Sunrisepeak/KHistory)：🔥一个**优雅**&跨平台的**键盘/🎮手柄按键**检测及历史记录显示工具, 无需安装单可执行文件(**约900kb大小**)即点即用
-![](https://github.com/Sunrisepeak/KHistory/blob/main/docs/imgs/khistory-gamepad.demo.gif)
 
 ### 2023年7月22号添加
 ---
