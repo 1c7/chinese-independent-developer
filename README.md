@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月23号添加
+---
+#### hoochanlon - [Github](https://github.com/hoochanlon), [博客](https://hoochanlon.github.io)
+* :white_check_mark: [Nigate](https://github.com/hoochanlon/Free-NTFS-For-Mac)：一款支持苹果芯片的Free NTFS for Mac小工具软件。
+
 ### 2023年7月22号添加
 ---
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://twitter.com/HiTw93), [博客](https://tw93.fun)
