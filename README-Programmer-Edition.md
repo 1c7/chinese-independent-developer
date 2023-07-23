@@ -17,7 +17,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年7月23日添加
 ---
 #### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [Bilibili](https://space.bilibili.com/65858958), [知乎](https://www.zhihu.com/people/SPeakShen)
-* :white_check_mark: [KHistory](https://github.com/Sunrisepeak/KHistory)：🔥一个**优雅**&跨平台的**键盘/🎮手柄按键**检测及历史记录显示工具, 可二次开发按键可视化面板插件
 * :clock8:  [DStruct](https://github.com/Sunrisepeak/DStruct)：🔥 一个**易于移植/使用/学习且结构简洁**的**数据结构模板库**
 * :clock8:  [DSVisual](https://github.com/Sunrisepeak/DSVisual)：一个**数据结构可视化**组件库
 
