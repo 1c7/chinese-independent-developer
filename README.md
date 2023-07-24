@@ -23,6 +23,10 @@
 
 ### 2023年7月23号添加
 ---
+
+#### 五块一 - [Github](https://github.com/WuKaiYi/AI_painter), [Bilibili](https://space.bilibili.com/3430120)
+* :机画师-AI绘图app: [机画师](https://apps.apple.com/us/app/id1644645946)：一个基于stable diffusion的AI绘图app
+
 #### hoochanlon - [Github](https://github.com/hoochanlon), [博客](https://hoochanlon.github.io)
 * :white_check_mark: [Nigate](https://github.com/hoochanlon/Free-NTFS-For-Mac)：一款支持苹果芯片的 Free NTFS for Mac 小工具软件
 
