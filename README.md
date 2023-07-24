@@ -21,9 +21,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年7月24号添加
+---
+#### colin - [Github](https://github.com/f43310)
+[简明打卡](https://github-production-user-asset-6210df.s3.amazonaws.com/7396681/255596677-616394e6-49ec-470c-892d-cbbaf1bab16f.jpg)：（微信小程序) 一个简单的任务打卡小程序，每天打卡，如果遗忘打卡的话，还可以补打卡。日历方式查看打卡记录。多任务管理等。
+
 ### 2023年7月23号添加
 ---
-
 #### 五块一 - [Github](https://github.com/WuKaiYi/AI_painter), [Bilibili](https://space.bilibili.com/3430120)
 * :white_check_mark: [机画师](https://apps.apple.com/us/app/id1644645946)：一个基于 Stable Diffusion 的 AI 绘图 App
 
