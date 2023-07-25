@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年7月26号添加
+---
+#### heygsc - [Github](https://github.com/heygsc)
+* :white_check_mark: [单词之风](https://word-wind.pages.dev/)：简洁的背单词页面，词库丰富，有标记列表等功能
+
 ### 2023年7月23号添加
 ---
 #### 五块一 - [Github](https://github.com/WuKaiYi/AI_painter), [Bilibili](https://space.bilibili.com/3430120)
