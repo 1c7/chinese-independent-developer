@@ -21,8 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+
 ### 2023年7月26号添加
 ---
+#### discountry - [Github](https://github.com/discountry), [博客](https://yubolun.com/)
+* :white_check_mark: [SigniFi](https://www.signifi.life/)：AI 塔罗牌占卜，DApp
+
 #### heygsc - [Github](https://github.com/heygsc)
 * :white_check_mark: [单词之风](https://word-wind.pages.dev/)：简洁的背单词页面，词库丰富，有标记列表等功能
 
