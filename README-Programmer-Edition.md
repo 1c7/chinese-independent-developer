@@ -17,7 +17,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年7月29日添加
 ---
 #### JingMatrix - [Github](https://github.com/JingMatrix)
-* :white_check_mark: [ChromeXt](https://github.com/JingMatrix/ChromeXt) 让用户可以在基于 Chromium 或 WebView 的浏览器上运行用户脚本以及打开开发者工具的 Xposed 模块 - [更多介绍](https://www.bilibili.com/video/BV1TV4y1b7zR/)。
+* :white_check_mark: [ChromeXt](https://github.com/JingMatrix/ChromeXt)：让用户可以在基于 Chromium 或 WebView 的浏览器上运行用户脚本以及打开开发者工具的 Xposed 模块 - [更多介绍](https://www.bilibili.com/video/BV1TV4y1b7zR/)
 
 ### 2023年7月23日添加
 ---
