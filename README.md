@@ -25,7 +25,6 @@
 ---
 #### booboosui(北京) - [Github](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
 * :white_check_mark: [DevOpsGPT](http://www.kuafuai.net/devopsgpt)：面向任何人，AI 将需求转化为可工作软件 - [更多介绍](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
-* 
 #### Thawne - [Github](https://github.com/aiguoli)
 * 🕗 [SimpleList](https://github.com/aiguoli/SimpleList)：管理 OneDrive 文件 (基于 WinUI3 开发的桌面端 App)
 
