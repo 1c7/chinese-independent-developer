@@ -21,7 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-
+### 2023年7月29号添加
+---
+#### booboosui(北京) - [Github](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
+* :white_check_mark: [DevOpsGPT](http://www.kuafuai.net/devopsgpt)：面向任何人，AI 将需求转化为可工作软件 - [更多介绍](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
+* 
+#### Thawne - [Github](https://github.com/aiguoli)
+* 🕗 [SimpleList](https://github.com/aiguoli/SimpleList)：管理 OneDrive 文件 (基于 WinUI3 开发的桌面端 App)
 
 ### 2023年7月26号添加
 ---
