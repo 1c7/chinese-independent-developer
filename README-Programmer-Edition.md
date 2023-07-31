@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年7月31日添加
+---
+#### RockChinQ(桂林) - [Github](https://github.com/RockChinQ)
+* :white_check_mark: [QChatGPT](https://github.com/RockChinQ/QChatGPT/blob/master/README.md)：😎高稳定性、🐒低耦合、🧩支持插件的 ChatGPT New Bing QQ 机器人🤖
+
 ### 2023年7月29日添加
 ---
 #### JingMatrix - [Github](https://github.com/JingMatrix)
