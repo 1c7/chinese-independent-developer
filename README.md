@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年8月1号添加
+---
+#### Dreamer365 - [Github](https://github.com/Dreamer365/topspeed-image-compressor), [Gitee](https://gitee.com/dreamer365/topspeed-image-compressor)
+* :white_check_mark: [极速图片压缩器](https://github.com/Dreamer365/topspeed-image-compressor)：一款速度极快的图片压缩软件
+
 ### 2023年7月29号添加
 ---
 #### booboosui(北京) - [Github](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
