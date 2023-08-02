@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年8月2日添加
+---
+#### WuKongIM - [Github](https://github.com/tangtaoit)
+:white_check_mark: [唐僧叨叨](https://tangsengdaodao.com/)：仿 Telegram 的自研开源聊天软件 - [更多介绍](https://github.com/TangSengDaoDao/TangSengDaoDaoServer)
+
 ### 2023年8月1日添加
 ---
 #### kalcaddle(杭州) - [Github](https://github.com/kalcaddle)
