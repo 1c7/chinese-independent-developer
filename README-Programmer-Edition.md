@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+### 2023年8月4日添加
+---
+#### Morestrive - [Github](https://github.com/more-strive)
+:white_check_mark: [vue-fabric-design](https://more-strive.github.io/design/)：基于 Canvas 的开源版"创客贴"，在线生成名片、海报、宣传单，支持 文字、图片、形状、线条、二维码 、条形码等 - [更多介绍](https://github.com/more-strive/vue-fabric-design)
+
 ### 2023年8月2日添加
 ---
 #### WuKongIM - [Github](https://github.com/tangtaoit)
