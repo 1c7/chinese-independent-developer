@@ -16,6 +16,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2023年8月12日添加
 ---
+#### hncboy(杭州) - [Github](https://github.com/hncboy)
+* :white_check_mark: [AI 蜂巢](https://github.com/hncboy/ai-beehive)：基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 
 #### kingwrcy - [Github](https://github.com/kingwrcy)
 * :white_check_mark: [mblog](https://mblog.club) 开源自部署的个人微博平台,支持单人/多人/评论/审核,支持markdown,支持前后分离/不分离 - [更多介绍](https://github.com/mblog-backend/backend)
