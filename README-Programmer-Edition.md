@@ -16,14 +16,18 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2023年8月12日添加
 ---
-### zcf0508 - [Github](https://github.com/zcf0508)
-:white_check_mark: [vue-hook-optimizer](https://hook.huali.cafe)：用来分析和展示 Vue3 组件中变量和函数的调用关系，便于重构代码 - [更多介绍](https://github.com/zcf0508/vue-hook-optimizer)
+
+#### kingwrcy - [Github](https://github.com/kingwrcy)
+* :white_check_mark: [mblog](https://mblog.club) 开源自部署的个人微博平台,支持单人/多人/评论/审核,支持markdown,支持前后分离/不分离 - [更多介绍](https://github.com/mblog-backend/backend)
+
+#### zcf0508 - [Github](https://github.com/zcf0508)
+* :white_check_mark: [vue-hook-optimizer](https://hook.huali.cafe)：用来分析和展示 Vue3 组件中变量和函数的调用关系，便于重构代码 - [更多介绍](https://github.com/zcf0508/vue-hook-optimizer)
 
 
 ### 2023年8月4日添加
 ---
 #### Morestrive - [Github](https://github.com/more-strive)
-:white_check_mark: [vue-fabric-design](https://more-strive.github.io/design/)：基于 Canvas 的开源版"创客贴"，在线生成名片、海报、宣传单，支持 文字、图片、形状、线条、二维码 、条形码等 - [更多介绍](https://github.com/more-strive/vue-fabric-design)
+* :white_check_mark: [vue-fabric-design](https://more-strive.github.io/design/)：基于 Canvas 的开源版"创客贴"，在线生成名片、海报、宣传单，支持 文字、图片、形状、线条、二维码 、条形码等 - [更多介绍](https://github.com/more-strive/vue-fabric-design)
 
 ### 2023年8月2日添加
 ---
