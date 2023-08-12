@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年8月12日添加
+---
+### zcf0508 - [Github](https://github.com/zcf0508)
+:white_check_mark: [vue-hook-optimizer](https://hook.huali.cafe)：用来分析和展示 Vue3 组件中变量和函数的调用关系，便于重构代码 - [更多介绍](https://github.com/zcf0508/vue-hook-optimizer)
+
 
 ### 2023年8月4日添加
 ---
