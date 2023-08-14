@@ -21,6 +21,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年8月15号添加
+---
+#### JustAIGithub(北京) - [Github](https://github.com/JustAIGithub/AI-Code-Convert)
+* :white_check_mark: [AICodeConvert](https://aicodeconvert.com/)：将自然语言转代码,将一种代码语言转另一种代码语言实现 - [更多介绍](https://blog.aicodeconvert.com/)
+
+#### limaoyi1(长沙) - [Github](https://github.com/limaoyi1), [博客](http://www.limaoyi.top/)
+* :white_check_mark: [Genshin-GPT](http://www.limaoyi.top:4400/)：基于langchain和向量知识库模仿原神角色的对话GPT,让三次元的人可以和游戏中的角色自由的对话 - [更多介绍](https://github.com/limaoyi1/Genshin-GPT)
 
 ### 2023年8月4号添加
 ---
