@@ -24,7 +24,7 @@
 ### 2023年8月17号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具Hamibot的三方工具，支持远程操控脚本，弥补官方控制端的不足。
+*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具Hamibot的三方工具APP，可编译iOS和Andriod包。支持远程操控脚本，弥补官方控制端的不足。
 *  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。
 
 ### 2023年8月15号添加
