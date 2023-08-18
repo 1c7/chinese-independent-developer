@@ -24,8 +24,8 @@
 ### 2023年8月17号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具Hamibot的三方工具APP，可编译iOS和Andriod包。支持远程操控脚本，弥补官方控制端的不足。
-*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。
+*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具 Hamibot 的三方工具 APP，可编译 iOS 和 Andriod 包。支持远程操控脚本，弥补官方控制端的不足
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包
 
 ### 2023年8月15号添加
 ---
@@ -33,7 +33,7 @@
 * :white_check_mark: [AICodeConvert](https://aicodeconvert.com/)：将自然语言转代码,将一种代码语言转另一种代码语言实现 - [更多介绍](https://blog.aicodeconvert.com/)
 
 #### limaoyi1(长沙) - [Github](https://github.com/limaoyi1), [博客](http://www.limaoyi.top/)
-* :white_check_mark: [Genshin-GPT](http://www.limaoyi.top:4400/)：基于langchain和向量知识库模仿原神角色的对话GPT,让三次元的人可以和游戏中的角色自由的对话 - [更多介绍](https://github.com/limaoyi1/Genshin-GPT)
+* :white_check_mark: [Genshin-GPT](http://www.limaoyi.top:4400/)：基于 LangChain 和向量知识库模仿原神角色的对话 GPT,让三次元的人可以和游戏中的角色自由的对话 - [更多介绍](https://github.com/limaoyi1/Genshin-GPT)
 
 ### 2023年8月4号添加
 ---
