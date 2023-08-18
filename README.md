@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年8月18号添加
+---
+#### 极客学伟(北京) - [Github](https://github.com/qxuewei)
+*  :white_check_mark: [加一](https://apps.apple.com/cn/app/id1477743089)：习惯养成打卡，追踪生活小事，记录日常情绪，计数、统计
+*  :white_check_mark: [学伟扫描](https://apps.apple.com/cn/app/id1468603429)：OCR、识别图片文字、翻译、图片转PDF、打印、相册资料整理
+
 ### 2023年8月17号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
