@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年8月17号添加
+---
+#### 一刀(杭州) - [Github](https://github.com/laosanyuan)
+*  :white_check_mark: [Hamibot遥控器](https://github.com/laosanyuan/HamibotRemoteControl)：手机自动化工具Hamibot的三方工具APP，可编译iOS和Andriod包。支持远程操控脚本，弥补官方控制端的不足。
+*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。
+
 ### 2023年8月15号添加
 ---
 #### JustAIGithub(北京) - [Github](https://github.com/JustAIGithub/AI-Code-Convert)
@@ -383,11 +389,6 @@
 ---
 #### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong),
 * :white_check_mark: [UnderThink](https://underthink.cc/)：一个危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
-
-### 2022年11月22号添加
----
-#### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-*  :white_check_mark: [火浣](https://github.com/laosanyuan/HuoHuan)：一款微信群爬虫 Windows 客户端工具，用于获取网络中他人公开并且有效的微信群聊二维码图片。提供安装包。
 
 ### 2022年11月16号添加
 ---
