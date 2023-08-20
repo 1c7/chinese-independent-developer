@@ -17,7 +17,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年8月20日添加
 ---
 #### cyan0714 - [Github](https://github.com/cyan0714)
-* :white_check_mark: [vitepress-blog](https://github.com/cyan0714/vitepress-blog)：基于 vitepress-blog 开发的个人博客和知识库, 用于记录开发中遇到的问题等
+* :white_check_mark: [vitepress-blog](https://github.com/cyan0714/vitepress-blog)：基于 vitepress 开发的个人博客和知识库, 用于记录开发中遇到的问题等
 
 
 ### 2023年8月12日添加
