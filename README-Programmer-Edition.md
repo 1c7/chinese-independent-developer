@@ -19,6 +19,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### HildaM(广东) - [Github](https://github.com/HildaM)
 * :white_check_mark: [sparkdesk-api](https://github.com/HildaM/sparkdesk-api)：讯飞星火大模型 Python API
 
+#### 百年孤独(成都) - [Github](https://github.com/everydoc)
+* :white_check_mark: [jrebel激活服务](https://github.com/everydoc/jrebel-license-server)：基于 SpringBoot 的 JRebel 激活服务，支持Docker，也可直接使用我提供的地址（只支持IPv6） - [更多介绍](https://jrebel.imjcker.com:1314/)
+
+
 ### 2023年8月12日添加
 ---
 #### hncboy(杭州) - [Github](https://github.com/hncboy)
