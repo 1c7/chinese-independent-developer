@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年8月21日添加
+---
+#### HildaM(广东) - [Github](https://github.com/HildaM)
+* :white_check_mark: [sparkdesk-api](https://github.com/HildaM/sparkdesk-api)：讯飞星火大模型 Python API
+
 ### 2023年8月12日添加
 ---
 #### hncboy(杭州) - [Github](https://github.com/hncboy)
