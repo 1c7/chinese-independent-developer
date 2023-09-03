@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年9月3号添加
+---
+#### 陈建利 - [博客](https://jianlichen.blog/)
+* :white_check_mark: [DeskWidgets](https://apps.apple.com/us/app/deskwidgets/id6446226257?mt=12)：macOS 桌面组件库
+* :white_check_mark: [Twitter Classic Logo](https://chrome.google.com/webstore/detail/twitter-classic-logo/ldimicjoagopeeflheigbfaoopenobbn)：恢复 Twitter 原来蓝鸟 Logo
+
 ### 2023年8月18号添加
 ---
 #### 极客学伟(北京) - [Github](https://github.com/qxuewei)
