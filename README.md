@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年9月5号添加
+---
+#### Leon(武汉) - [博客](https://cl8023.com)
+* :white_check_mark: [情侣100件事](https://apps.apple.com/app/%E6%83%85%E4%BE%A3100%E4%BB%B6%E4%BA%8B/id6461458836)：不止100件浪漫小事，爱情旅程的完美伴侣 - [更多介绍](https://cl8023.com/detailed?id=ycbqfOCLU)
+
 ### 2023年9月3号添加
 ---
 #### 陈建利 - [博客](https://jianlichen.blog/)
