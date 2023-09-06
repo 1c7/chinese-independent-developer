@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年9月6日添加
+---
+#### gngpp - [Github](https://github.com/gngpp)
+* :white_check_mark: [opengpt](https://github.com/gngpp/opengpt)：逆向工程的 `ChatGPT` 代理（绕过 Cloudflare 403 Access Denied） - [更多介绍](https://github.com/gngpp/opengpt/blob/main/README_zh.md)
+* :white_check_mark: [xunlei](https://github.com/gngpp/xunlei)：`Linux` 迅雷下载服务（支持OpenWrt/Alpine/Docker）- [更多介绍](https://github.com/gngpp/xunlei/blob/main/README.md)
+
 ### 2023年8月21日添加
 ---
 #### HildaM(广东) - [Github](https://github.com/HildaM)
