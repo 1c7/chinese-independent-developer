@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年9月11号添加
+---
+#### Lost(深圳) - [Github](https://github.com/wangpinggang)
+* :white_check_mark: [MyNotes Keeper](https://www.mynoteskeeper.com)：Windows平台原生大纲笔记软件，强大流畅，提供免费版本 - [更多介绍](https://www.mynoteskeeper.com/features.html)
+
 ### 2023年9月5号添加
 ---
 #### Leon(武汉) - [博客](https://cl8023.com)
