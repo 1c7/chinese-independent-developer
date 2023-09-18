@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年9月18号添加
+---
+#### 风逝 
+* :white_check_mark: [Tabs-Fast-Easy](https://chrome.google.com/webstore/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil)：更轻松 快捷管理标签页，及快速释放内存 - [更多介绍](https://meta.appinn.net/t/topic/46029)
+
 ### 2023年9月11号添加
 ---
 #### Lost(深圳) - [Github](https://github.com/wangpinggang)
