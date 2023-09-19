@@ -373,11 +373,6 @@
 #### Loui(长沙)
 * :white_check_mark: [PPT批量处理百宝箱](http://www.batchtoolset.com/)：高效强悍的PPT文件批量处理工具，致力于为使用者提供可靠、安全、高效、简洁、省时省力的 PPT 文件批量处理解决方案
 
-### 2022年12月15号添加
----
-#### 亦也（武汉）
-* :white_check_mark: [挖线索](https://waxiansuo.com/)：致力于解决线上线下活动潜在客户不愿留资难题
-
 ### 2022年12月13号添加
 ---
 #### xiaoluoboding(大理) - [Github](https://github.com/xiaoluoboding)
