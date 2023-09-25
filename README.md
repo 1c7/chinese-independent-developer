@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年9月25号添加
+---
+#### xerduo(重庆)
+* :white_check_mark: [iChat](https://ichatt.cn)：智能AI助手，支持 ChatGPT 3.5、4.0、文心一言，内置90+行业AI角色，多国语言朗读，有网页版，App、Windows应用 - [更多介绍](https://ichatt.cn)
+* :white_check_mark: [tetris](https://tetris.duqing.ink)：俄罗斯方块游戏，支持AI，适配h5 - [更多介绍](https://tetris.duqing.ink)
+
 ### 2023年9月18号添加
 ---
 #### 风逝 
