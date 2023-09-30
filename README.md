@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年10月1号添加
+---
+#### marticztn / FuzzyEra Softworks LLC (浙江金华)
+* :white_check_mark: [简约木鱼 (iOS)](https://apps.apple.com/cn/app/id6445845846)：最简单好用不卡顿的敲木鱼app
+* :white_check_mark: [简约木鱼 (Android - Google Play)](https://play.google.com/store/apps/details?id=com.marticztn.woodenfish)：最简单好用不卡顿的敲木鱼app
+
 ### 2023年9月29号添加
 ---
 #### 简具科技(杭州) -  [官网](http://jianju.3ddysj.com/)
