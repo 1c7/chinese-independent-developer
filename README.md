@@ -171,8 +171,7 @@
 
 ### 2023年6月8号添加
 ---
-#### Jinke Du（上海）- [个人网站](https://dujinke.com)
-
+#### Jinke Du（上海）- [个人网站](https://kinnoukabokudo.com/)
 * :white_check_mark: [行动日](https://apps.apple.com/app/id6444159859)：一个待办/不办清单应用。
 * :white_check_mark: [好天气](https://apps.apple.com/app/id1658473170)：查看现在、未来与过去的天气。
 * :white_check_mark: [生或死](https://apps.apple.com/app/id1498862402)：康威生命游戏（Conway’s Game of Life）。
