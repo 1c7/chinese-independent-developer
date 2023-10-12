@@ -29,10 +29,10 @@
 ### 2023年10月11号添加
 ---
 #### codelover - [Github](https://github.com/lovercode)
-* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/) - 一个 App 监控管理你所有的服务器以及各种服务端个人应用
+* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/)：一个 App 监控管理你所有的服务器以及各种服务端个人应用
 
 #### sx1989827 - [Github](https://github.com/sx1989827)
-* :white_check_mark: [Teamlinker](https://team-linker.com/): 集成了不同功能和模块的团队协作平台。你可以联系你的团队成员，分配你的任务，开始一个会议，安排各项事务，管理你的文件等。
+* :white_check_mark: [Teamlinker](https://team-linker.com/): 团队协作平台。可以联系成员，分配任务，开始会议，安排各项事务，管理文件等。
 
 ### 2023年10月7号添加
 ---
@@ -66,12 +66,12 @@
 ### 2023年9月11号添加
 ---
 #### Lost(深圳) - [Github](https://github.com/wangpinggang)
-* :white_check_mark: [MyNotes Keeper](https://www.mynoteskeeper.com)：Windows平台原生大纲笔记软件，强大流畅，提供免费版本 - [更多介绍](https://www.mynoteskeeper.com/features.html)
+* :white_check_mark: [MyNotes Keeper](https://www.mynoteskeeper.com)：Windows 平台原生大纲笔记软件，强大流畅，提供免费版本 - [更多介绍](https://www.mynoteskeeper.com/features.html)
 
 ### 2023年9月5号添加
 ---
 #### Leon(武汉) - [博客](https://cl8023.com)
-* :white_check_mark: [情侣100件事](https://apps.apple.com/app/%E6%83%85%E4%BE%A3100%E4%BB%B6%E4%BA%8B/id6461458836)：不止100件浪漫小事，爱情旅程的完美伴侣 - [更多介绍](https://cl8023.com/detailed?id=ycbqfOCLU)
+* :white_check_mark: [情侣100件事](https://apps.apple.com/app/%E6%83%85%E4%BE%A3100%E4%BB%B6%E4%BA%8B/id6461458836)：不止 100 件浪漫小事，爱情旅程的完美伴侣 - [更多介绍](https://cl8023.com/detailed?id=ycbqfOCLU)
 
 ### 2023年9月3号添加
 ---
@@ -113,6 +113,7 @@
 ---
 #### booboosui(北京) - [Github](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
 * :white_check_mark: [DevOpsGPT](http://www.kuafuai.net/devopsgpt)：面向任何人，AI 将需求转化为可工作软件 - [更多介绍](https://github.com/kuafuai/DevOpsGPT/blob/master/docs/README_CN.md)
+
 #### Thawne - [Github](https://github.com/aiguoli)
 * 🕗 [SimpleList](https://github.com/aiguoli/SimpleList)：管理 OneDrive 文件 (基于 WinUI3 开发的桌面端 App)
 
