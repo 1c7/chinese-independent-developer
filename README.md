@@ -24,12 +24,12 @@
 ### 2023年10月12号添加
 ---
 #### hefengbao(成都) - [Github](https://github.com/hefengbao), [8ug.icu](https://www.8ug.icu)
-* :white_check_mark: [京墨](https://github.com/hefengbao/jingmo/releases)：『京墨』开源免费的古诗词文（名句）、歇后语、成语阅读 Android APP - [更多介绍](https://github.com/hefengbao/jingmo)
+* :white_check_mark: [京墨](https://github.com/hefengbao/jingmo/releases)：古诗词文（名句）、歇后语、成语阅读 Android APP (开源免费) - [更多介绍](https://github.com/hefengbao/jingmo)
 
 ### 2023年10月11号添加
 ---
 #### codelover - [Github](https://github.com/lovercode)
-* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/) - 一个App监控管理你所有的服务器以及各种服务端个人应用
+* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/) - 一个 App 监控管理你所有的服务器以及各种服务端个人应用
 
 #### sx1989827 - [Github](https://github.com/sx1989827)
 * :white_check_mark: [Teamlinker](https://team-linker.com/): 集成了不同功能和模块的团队协作平台。你可以联系你的团队成员，分配你的任务，开始一个会议，安排各项事务，管理你的文件等。
@@ -44,8 +44,8 @@
 ### 2023年10月1号添加
 ---
 #### marticztn / FuzzyEra Softworks LLC (浙江金华)
-* :white_check_mark: [简约木鱼 (iOS)](https://apps.apple.com/cn/app/id6445845846)：最简单好用不卡顿的敲木鱼app
-* :white_check_mark: [简约木鱼 (Android - Google Play)](https://play.google.com/store/apps/details?id=com.marticztn.woodenfish)：最简单好用不卡顿的敲木鱼app
+* :white_check_mark: [简约木鱼 (iOS)](https://apps.apple.com/cn/app/id6445845846)：最简单好用不卡顿的敲木鱼 App
+* :white_check_mark: [简约木鱼 (Android - Google Play)](https://play.google.com/store/apps/details?id=com.marticztn.woodenfish)：最简单好用不卡顿的敲木鱼 App
 
 ### 2023年9月29号添加
 ---
