@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年10月16号添加
+---
+#### Jessen Wang(上海) - [博客](https://www.jessenbox.com/)
+* :white_check_mark: [极简换算](https://apps.apple.com/cn/app/id6448924181)：高效简洁的单位换算和效率计算器, iOS App  - [更多介绍](https://www.jessenbox.com/index.php/2023/06/07/%e5%a4%9a%e5%85%83%e5%b7%a5%e5%85%b7%e7%ae%b1/)
+
 ### 2023年10月12号添加
 ---
 #### hefengbao(成都) - [Github](https://github.com/hefengbao), [8ug.icu](https://www.8ug.icu)
