@@ -41,8 +41,8 @@
 
 ### 2023年10月7号添加
 ---
-#### 未道科技(杭州) - [Github](https://github.com/wytxer), [博客](https://blog.bszhct.com/)
-* :white_check_mark: [百晓生AI](https://helper.aiwave.cc/chat)：AI 能力聚合站，支持 GPT4、Llama2 等大模型 AI 对话，支持 Stable Diffusion XL 绘画，支持图片压缩、图片元素消除等图像处理
+#### 未道科技(杭州) - [官网](https://helper.aiwave.cc)
+* :white_check_mark: [未道帮](https://helper.aiwave.cc/)：AI 能力聚合站，支持微软 GPT4、Llama2 等大模型 AI 对话，支持 Stable Diffusion XL 绘画，支持图片压缩、图片元素消除等图像处理
 * :white_check_mark: [AIGC工具导航](https://nav.aiwave.cc/)：海量 AI 工具，总有一款是你需要的
 * :white_check_mark: [AI抠图](https://cutout.aiwave.cc/)：只需上传图片，无需其他操作即可自动去除图片背景
 
