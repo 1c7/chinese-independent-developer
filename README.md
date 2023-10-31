@@ -23,6 +23,9 @@
 
 ### 2023年10月31号添加
 ---
+#### 菩提尘埃(厦门)
+* :white_check_mark: [AI导航](https://ai.dreamthere.cn)：搜集最新 AI 站点，推荐优质 AI 网站，推广优质人工智能各类网站 - [更多介绍](https://nav.dreamthere.cn/about)
+
 #### beijing(北京) - [Github](https://github.com/Gavin888888)
 * :white_check_mark: [表情小程序-前后台源码](https://ext.dcloud.net.cn/plugin?id=14972)：斗图表情小程序前后台都有 (开源免费) 后台管理系统可批量管理前端小程序形成矩阵
 
