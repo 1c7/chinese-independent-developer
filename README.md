@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年11月1号添加
+---
+#### assmdx - [推特](https://x.com/assmdx)
+* :white_check_mark:  [文丑](https://wenchou.top)：更好用的 AI 助手平台, [App 端](https://wenchou.top/laxin.html): 
+
 ### 2023年10月31号添加
 ---
 #### 菩提尘埃(厦门)
