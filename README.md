@@ -23,8 +23,11 @@
 
 ### 2023年11月2号添加
 ---
-### changwu - [GitHub](https://github.com/changwu/)
-* :white_check_mark:  [虾答](https://xiada.cn)：BestGPT + 知识库AI：只要3分钟，拥有属于自己的智能代理
+#### marmot-z(杭州) - [GitHub](https://github.com/marmot-z)
+* :white_check_mark:  [百词斩助手](https://www.bilibili.com/video/BV1zj411Z7LM)：一款可以实时与百词斩 APP 协同操作的浏览器翻译插件
+
+#### changwu - [GitHub](https://github.com/changwu/)
+* :white_check_mark:  [虾答](https://xiada.cn)：BestGPT + 知识库 AI：只要3分钟，拥有属于自己的智能代理
 
 #### soar - [推特](https://twitter.com/codersoar)
 * :white_check_mark:  [偷懒爱好者周刊](https://toolight.zhubai.love/)：分享产品、工具、新鲜事，每周三发布
