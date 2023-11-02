@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2023年11月2号添加
+---
+#### soar - [推特](https://twitter.com/codersoar)
+* :white_check_mark:  [偷懒爱好者周刊](https://toolight.zhubai.love/)：分享产品、工具、新鲜事，每周三发布
+
 ### 2023年11月1号添加
 ---
 #### assmdx - [推特](https://x.com/assmdx)
