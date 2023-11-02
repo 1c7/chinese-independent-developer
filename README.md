@@ -21,9 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-
 ### 2023年11月2号添加
 ---
+### changwu - [GitHub](https://github.com/changwu/)
+* :white_check_mark:  [虾答](https://xiada.cn)：BestGPT + 知识库AI：只要3分钟，拥有属于自己的智能代理
+
 #### soar - [推特](https://twitter.com/codersoar)
 * :white_check_mark:  [偷懒爱好者周刊](https://toolight.zhubai.love/)：分享产品、工具、新鲜事，每周三发布
 
