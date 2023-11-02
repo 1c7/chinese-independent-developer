@@ -23,6 +23,9 @@
 
 ### 2023年11月2号添加
 ---
+#### Selenium39(广州) - [Github](http://github.com/Selenium39)
+* :white_check_mark: [ChatPPT](http://chatppt.closeai.red)：用 ChatGPT-4 快速创建 PowerPoint
+
 #### marmot-z(杭州) - [GitHub](https://github.com/marmot-z)
 * :white_check_mark:  [百词斩助手](https://www.bilibili.com/video/BV1zj411Z7LM)：一款可以实时与百词斩 APP 协同操作的浏览器翻译插件
 
