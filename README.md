@@ -23,6 +23,9 @@
 
 ### 2023年11月3号添加
 ---
+#### 硬地骇客(杭州) - [官网](https://hardhacker.com) 
+* :white_check_mark: [Podwise](https://podwise.xyz/)：专为播客听友设计的 AI 知识管理应用
+
 #### yesmore(成都) - [Github](https://github.com/yesmore)
 * :white_check_mark: [Inke笔记](https://inke.app)：一个集成 AI 写作/润色和多人协作的 Web 笔记本
 
