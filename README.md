@@ -23,6 +23,9 @@
 
 ### 2023年11月4号添加
 ---
+#### 林建彧 - [GitHub](https://github.com/CheneyLin)
+* :white_check_mark: [DevShots](https://devshots.gpwzw.com)：Online Developer Tool to Create Code Share Image - [更多介绍](https://github.com/70Apps/DevShots)
+
 #### VOME(澳大利亚)  
 * :white_check_mark: [VOME](https://apps.apple.com/au/app/vome/id6468956601)：一款极简的语音转文字 Memo 应用 - [更多介绍](https://iduo.ai)
 
