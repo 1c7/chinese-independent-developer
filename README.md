@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年11月4号添加
+---
+#### VOME(澳大利亚)  
+* :white_check_mark: [VOME](https://apps.apple.com/au/app/vome/id6468956601)：一款极简的语音转文字 Memo 应用 - [更多介绍](https://iduo.ai)
+
 ### 2023年11月3号添加
 ---
 #### 硬地骇客(杭州) - [官网](https://hardhacker.com) 
