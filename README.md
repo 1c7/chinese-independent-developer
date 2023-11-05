@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年11月5号添加
+---
+#### yvonuk - [推特](https://x.com/mcwangcn?s=21)
+* :white_check_mark: [StockAI.Trade](https://stockai.trade/)： AI 选股分析网站（基于 ChatGPT），完全免费，无需注册 - [更多介绍](https://xueqiu.com/2012445484/263058893)
+
 ### 2023年11月4号添加
 ---
 #### 林建彧 - [GitHub](https://github.com/CheneyLin)
