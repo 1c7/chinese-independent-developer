@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年11月13号添加
+---
+#### 控Kong(广州) - [小红书](https://www.xiaohongshu.com/user/profile/5b5c7e7e4eacab25f7faa410)
+* :white_check_mark: AI食谱：(微信小程序搜索"AI食谱") 根据体重与万能减脂/增肌公式自动生成食谱，达到效果
+
 ### 2023年11月5号添加
 ---
 #### yvonuk - [推特](https://x.com/mcwangcn?s=21)
