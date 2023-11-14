@@ -21,6 +21,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年11月14号添加
+---
+#### ysnows(北京) - [Github](https://github.com/ysnows), [Twitter](https://twitter.com/FrostyEveing)
+* :white_check_mark: [Enconvo](https://enconvo.com)：AI Launcher，Mac Copilot 客户端
+
+#### 简具科技(杭州) -  [官网](http://jianju.3ddysj.com)
+* :white_check_mark: [抖音高转化精准词获取工具](http://jianju.3ddysj.com/douyinxialachi.html)：一键自动挖掘抖音下拉热词,分析计算出综合得分高的抖音高转化精准免费流量词获取工具 - [更多介绍](https://ba0k26ibyp.feishu.cn/docx/AyaqdVqk8oKSk3x9dOxc99hHnCd)
+
 ### 2023年11月13号添加
 ---
 #### 控Kong(广州) - [小红书](https://www.xiaohongshu.com/user/profile/5b5c7e7e4eacab25f7faa410)
