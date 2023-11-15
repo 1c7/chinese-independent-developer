@@ -156,9 +156,10 @@
 
 ### 2023年8月18号添加
 ---
-#### 极客学伟(北京) - [Github](https://github.com/qxuewei)
-*  :white_check_mark: [加一](https://apps.apple.com/cn/app/id1477743089)：习惯养成打卡，追踪生活小事，记录日常情绪，计数、统计
-*  :white_check_mark: [学伟扫描](https://apps.apple.com/cn/app/id1468603429)：OCR、识别图片文字、翻译、图片转PDF、打印、相册资料整理
+#### 极客学伟(北京) - [Github](https://github.com/qxuewei/), [博客](https://qiuxuewei.com/) ,[Twitter](https://twitter.com/qxuewei/)
+*  :white_check_mark: [Island Widgets - 灵动岛&锁屏小组件](https://apps.apple.com/cn/app/id6464542768)：灵动岛/锁屏小组件，下班倒计时、手机拿起次数、步数、心率、热搜、待办、天气、抢票倒计时等 (iOS)
+*  :white_check_mark: [加一 - 自律打卡](https://apps.apple.com/cn/app/id1477743089)：习惯养成打卡，追踪生活小事，记录日常情绪，计数、统计 (iOS)
+*  :white_check_mark: [学伟扫描 - OCR&PDF扫描打印](https://apps.apple.com/cn/app/id1468603429)：OCR、识别图片文字、翻译、图片转PDF、打印、相册资料整理 (iOS)
 
 ### 2023年8月17号添加
 ---
