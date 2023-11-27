@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年11月27日添加
+---
+#### Leo Song(上海) - [Github](https://github.com/LHRUN/bubble)
+* :white_check_mark: [Bubble](https://bubble-awesome-profile.vercel.app/)：一款收录 Github Profile 和 Readme Component 的网站
+
 ### 2023年11月2日添加
 ---
 ### changwu - [Github](https://github.com/changwu/)
