@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月1号添加
+---
+#### ThinkStu(上海) - [Github](https://github.com/Bistutu)
+* :white_check_mark: [音乐歌单迁移助手](https://music.unmeta.cn/)：迁移网易云/QQ音乐歌单到 Apple Music、Youtube Music、Spotify
+
 ### 2023年11月17号添加
 ---
 #### bimohxh(成都) - [Github](https://github.com/bimohxh)
