@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月4号添加
+---
+#### CSBuyer(江西) - [官网](https://www.csbuyer.com)
+* :white_check_mark: [Steam自动捡漏机器人](https://www.csbuyer.com)：一款在Steam市场自动购买低磨损、特殊模板CSGO饰品的工具 - [更多介绍](https://support.qq.com/product/611323/faqs-more/?id=147296)
+* :white_check_mark: [美国免税地址生成器](https://www.csbuyer.com/workbench/address)：自动生成美国免税地址，可用于填写Steam美区账号账单地址
+
 ### 2023年12月1号添加
 ---
 #### ThinkStu(上海) - [Github](https://github.com/Bistutu)
