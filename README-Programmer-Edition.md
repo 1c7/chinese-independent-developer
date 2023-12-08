@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2023年12月8日添加
+---
+#### jianchang512(青岛) - [Github](https://github.com/jianchang512/pyvideotrans)
+* :white_check_mark: [pyvideotrans](https://github.com/jianchang512/pyvideotrans)：视频翻译和配音桌面软件，可将视频从一种语言翻译为另一种语言并配音，集成openai-whisper语音识别、openai-tts/edgeTTS语音合成、google/deepl/chatGPT/baidu字幕翻译、音视频分离合并等功能
+
+
 ### 2023年11月27日添加
 ---
 #### Leo Song(上海) - [Github](https://github.com/LHRUN/bubble)
