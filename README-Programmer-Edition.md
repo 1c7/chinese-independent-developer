@@ -14,8 +14,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+
 ### 2023年12月8日添加
 ---
+#### Meekdai(杭州) - [Github](https://github.com/Meekdai/), [博客](https://meekdai.com/)
+* :white_check_mark: [Gmeek](https://github.com/Meekdai/Gmeek)：超轻量级个人博客框架，只需 2 步配置轻松搭建。
+
 #### jianchang512(青岛) - [Github](https://github.com/jianchang512)
 * :white_check_mark: [pyvideotrans](https://github.com/jianchang512/pyvideotrans)：视频翻译和配音桌面软件，可将视频从一种语言翻译为另一种语言并配音，集成 OpenAI Whisper 语音识别、OpenAI-TTS/edgeTTS 语音合成、Google/Deepl/ChatGPT/Baidu 字幕翻译、音视频分离合并等功能
 
