@@ -21,6 +21,15 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月11号添加
+---
+#### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
+* :white_check_mark: [什么值得看](https://smzdk.top)：简洁干净的高质量全球热点资讯网站
+
+#### heygsc - [Github](https://github.com/heygsc)
+* :white_check_mark: [数数游戏](https://count-puzzle.pages.dev/)：数数游戏，简洁但不简单，交互细节人性化 (PC) 
+
+
 ### 2023年12月5号添加
 ---
 #### gorpeln(北京) - [Github](https://github.com/gorpeln), [博客](https://gorpeln.top/)
