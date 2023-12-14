@@ -21,6 +21,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月14号添加
+---
+#### PengChen96 - [Github](https://github.com/PengChen96)
+* :white_check_mark: [ajax-tools](https://chromewebstore.google.com/detail/ajax-interceptor-tools/kphegobalneikdjnboeiheiklpbbhncm)：修改 Ajax 请求及响应的Chrome 扩展插件
+
 ### 2023年12月11号添加
 ---
 #### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
