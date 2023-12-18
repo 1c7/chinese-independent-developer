@@ -24,6 +24,9 @@
 
 ### 2023年12月18号添加
 ---
+#### webjuzi(杭州) - [博客](https://www.inav.site)
+* :white_check_mark: [变量命名](https://www.inav.site/tools/#/p/var/var)：输入中文自动翻译为各种格式的变量名,可设置一种格式自动复制到剪切板
+
 #### mengxianliang(北京) - [主页](https://mengxianliang.com)
 * :white_check_mark: [一休](https://apps.apple.com/cn/app/%E4%B8%80%E4%BC%91-%E4%BC%91%E6%81%AF%E4%B8%80%E4%BC%9A%E5%84%BF/id6467176005)：macOS 休息提醒工具
 
