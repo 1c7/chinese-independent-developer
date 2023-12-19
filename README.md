@@ -21,6 +21,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月19号添加
+---
+#### 风逝
+* :white_check_mark: [Tabs Fast Easy](https://chromewebstore.google.com/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil)：改变你的 Tab 页浏览方式：简化 、分组、聚焦专注和分屏管理等体验 - [更多介绍](https://www.producthunt.com/posts/tabs-fast-easy-2)
 
 ### 2023年12月18号添加
 ---
