@@ -23,6 +23,9 @@
 
 ### 2023年12月29号添加
 ---
+#### GenOuka(湖南) - [Github](https://github.com/GenOuka)
+* :white_check_mark: [Rare计划](https://rare.genouka.rr.nu/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如RareBox可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
+
 #### ThinkStu(上海) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：一款浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
 
