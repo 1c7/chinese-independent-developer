@@ -21,6 +21,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月29号添加
+---
+#### ThinkStu(上海) - [[Github](https://github.com/Bistutu)]
+* :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：一款浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
+
+
 ### 2023年12月27号添加
 ---
 #### jianchang512(青岛) - [Github](https://github.com/jianchang512)
@@ -29,11 +35,11 @@
 * :white_check_mark: [CV声音克隆工具](https://github.com/jianchang512/clone-voice)：一个声音克隆工具，可使用任何人类音色，将一段文字合成为使用该音色说话的声音，或者将一个声音使用该音色转换为另一个声音。
 
 
-
 ### 2023年12月19号添加
 ---
 #### 风逝
 * :white_check_mark: [Tabs Fast Easy](https://chromewebstore.google.com/detail/tabs-fast-easy/falglioamaogaliloglbhkannkjlpjil)：改变你的 Tab 页浏览方式：简化 、分组、聚焦专注和分屏管理等体验 - [更多介绍](https://www.producthunt.com/posts/tabs-fast-easy-2)
+
 
 ### 2023年12月18号添加
 ---
@@ -46,10 +52,12 @@
 #### menglike - [Github](https://github.com/menglike)
 * :white_check_mark: [免费API共享平台](https://www.liangmlk.cn)：给广大开发者提供一个免费 API 共享平台,目前共计 400+ 个API接口，欢迎大家使用
 
+
 ### 2023年12月14号添加
 ---
 #### PengChen96 - [Github](https://github.com/PengChen96)
 * :white_check_mark: [ajax-tools](https://chromewebstore.google.com/detail/ajax-interceptor-tools/kphegobalneikdjnboeiheiklpbbhncm)：修改 Ajax 请求及响应的 Chrome 扩展插件
+
 
 ### 2023年12月11号添加
 ---
