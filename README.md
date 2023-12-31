@@ -24,21 +24,26 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2023年12月31号添加
+---
+#### MrXujiang(重庆) [Github](https://github.com/MrXujiang)
+* :white_check_mark: [h5-dooring](https://github.com/MrXujiang/h5-Dooring) : 开箱即用的零代码搭建平台, 致力于让页面制作更简单
+
 ### 2023年12月29号添加
 ---
 #### GenOuka(湖南) - [Github](https://github.com/GenOuka)
 * :white_check_mark: [Rare计划](https://rare.genouka.rr.nu/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如RareBox可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
 
 #### ThinkStu(上海) - [Github](https://github.com/Bistutu)
-* :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：一款浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
+* :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
 
 
 ### 2023年12月27号添加
 ---
 #### jianchang512(青岛) - [Github](https://github.com/jianchang512)
-* :white_check_mark: [人声和背景音乐分离工具](https://github.com/jianchang512/vocal-separate)：这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网，使用 2stems/4stems/5stems 模型。
+* :white_check_mark: [人声和背景音乐分离工具](https://github.com/jianchang512/vocal-separate)：极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网，使用 2stems/4stems/5stems 模型。
 
-* :white_check_mark: [CV 声音克隆工具](https://github.com/jianchang512/clone-voice)：一个声音克隆工具，可使用任何人类音色，将一段文字合成为使用该音色说话的声音，或者将一个声音使用该音色转换为另一个声音。
+* :white_check_mark: [CV 声音克隆工具](https://github.com/jianchang512/clone-voice)：声音克隆工具，可使用任何人类音色，将一段文字合成为使用该音色说话的声音，或者将一个声音使用该音色转换为另一个声音。
 
 
 ### 2023年12月19号添加
