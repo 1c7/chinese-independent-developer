@@ -24,8 +24,8 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024年1月5号添加 - [Github](https://github.com/peacefullmind)
-#### peacefullmind
+### 2024年1月5号添加
+#### peacefullmind - [Github](https://github.com/peacefullmind)
 * :white_check_mark: [https://yipipei.com](https://www.yipipei.com/) 面向"表哥表姐"的表格匹配工具,只需要在网页上点点点,就可以实现数据匹配,还可以自定义阈值,实现模糊匹配.
 
 ### 2023年12月31号添加
