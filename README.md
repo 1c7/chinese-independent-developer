@@ -26,12 +26,12 @@
 
 ### 2024年1月5号添加
 #### peacefullmind - [Github](https://github.com/peacefullmind)
-* :white_check_mark: [易匹配](https://www.yipipei.com/) 面向"表哥表姐"的表格匹配工具,只需要在网页上点点点,就可以实现数据匹配,还可以自定义阈值,实现模糊匹配.
+* :white_check_mark: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
 
 ### 2023年12月31号添加
 ---
 #### MrXujiang(重庆) - [Github](https://github.com/MrXujiang)
-* :white_check_mark: [h5-dooring](https://github.com/MrXujiang/h5-Dooring) : 开箱即用的零代码搭建平台, 致力于让页面制作更简单
+* :white_check_mark: [h5-dooring](https://github.com/MrXujiang/h5-Dooring): 开箱即用的零代码搭建平台, 致力于让页面制作更简单
 
 ### 2023年12月29号添加
 ---
