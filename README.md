@@ -24,6 +24,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年1月9号添加
+#### lizhichao - [Github](https://github.com/lizhichao)
+* :white_check_mark: [在线甘特图工具](https://zz-plan.com): 可以在线使用, 也可以私有化部署 - [更多介绍](https://zz-plan.com/share/87f1340286f1343ba5)
+
 ### 2024年1月5号添加
 #### peacefullmind - [Github](https://github.com/peacefullmind)
 * :white_check_mark: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
