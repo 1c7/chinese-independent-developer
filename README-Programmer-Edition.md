@@ -13,7 +13,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
-
+### 2024年1月12日添加
+---
+#### Aooohan(北京) - [主页](https://github.com/aooohan)
+* :white_check_mark: [VersionFox](https://github.com/version-fox/vfox)：跨平台、可拓展的 SDK 版本管理工具, 支持Nodejs、Java、Dart、Flutter等多种SDK.
 
 ### 2023年12月18日添加
 ---
