@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年1月18号添加
+#### yesmore(成都) - [Github](https://github.com/yesmore)
+* :white_check_mark: [iconce](https://iconce.com)：在线SVG图标生成器
+
+#### ddd702(广州) - [Github](https://github.com/ddd702) ,[博客](https://qtcat.cn)
+* :white_check_mark: [DE好图壁纸](https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png): 分享一些图片，壁纸的小程序
+
 ### 2024年1月12号添加
 #### Leo(上海) - [Github](https://github.com/LHRUN/paint-board)
 * :white_check_mark: [Paint Board](https://songlh.top/paint-board/)：功能强大的创意画板，支持多端
