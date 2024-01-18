@@ -15,18 +15,16 @@
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
-<!--
-### 社区投票
-<a href="https://creatorsdaily.com/c2102b74-878e-4a2b-9c86-caf7bdf14cb9?utm_source=vote" target="_blank"><img src="https://creatorsdaily.com/api/c2102b74-878e-4a2b-9c86-caf7bdf14cb9/vote.svg?theme=light" /></a>
--->
-
-
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年1月12号添加
+#### Leo(上海) - [Github](https://github.com/LHRUN/paint-board)
+* :white_check_mark: [Paint Board](https://songlh.top/paint-board/)：功能强大的创意画板，支持多端
+
+### 2024年1月12号添加
 #### 罗伊 - [Twitter](https://twitter.com/LuoSays)
-* :white_check_mark: [EarlyBird](https://earlybird.im)：一款专用于快速搭建落地页验证产品 idea 的低代码建站工具
+* :white_check_mark: [EarlyBird](https://earlybird.im)：快速搭建落地页验证产品 idea 的低代码建站工具
 * :white_check_mark: [Jing Bio](https://jingle.bio) - 轻松创建优雅的个人品牌页面
 * :white_check_mark: [HeyForm](https://heyform.net) - 对话式表单
 * :white_check_mark: [TinySnap](https://tinysnap.app) - 截图美化工具
