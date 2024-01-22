@@ -18,13 +18,17 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年1月22号添加
+#### Lykin(广州) - [Github](https://github.com/tiny-craft/tiny-rdm)
+* :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
+
 ### 2024年1月20号添加
 #### Fun(广州) - [Github](https://github.com/17fun)
 * :white_check_mark: [17fei.fun](https://17fei.fun): 情侣互动小游戏集合
 
 ### 2024年1月18号添加
 #### yesmore(成都) - [Github](https://github.com/yesmore)
-* :white_check_mark: [iconce](https://iconce.com)：在线SVG图标生成器
+* :white_check_mark: [iconce](https://iconce.com)：在线 SVG 图标生成器
 
 #### ddd702(广州) - [Github](https://github.com/ddd702) ,[博客](https://qtcat.cn)
 * :white_check_mark: [DE好图壁纸](https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png): 分享一些图片，壁纸的小程序
