@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年1月31号添加
+#### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
+* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 web app，提供极高质量的简历排版和 PDF 输出
+
 ### 2024年1月30号添加
 #### windowye(北京) - [Github](https://github.com/windowye)
 * :white_check_mark: [CoSS](https://w-coss.space)：聚合主流文件存储服务和文件操作服务
