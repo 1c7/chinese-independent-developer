@@ -723,11 +723,13 @@
 ### 2022年6月6号添加
 ---
 #### hzlzh自力（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://twitter.com/hzlzh)
-* :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：一款强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [锁屏启动 (iOS)](https://LockLauncher.app)：丰富小组件、灵动岛网速/天气/步数等
+* :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：一款强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [ChatX (iOS/macOS)](https://6x.studio/chatx/)：一款强大的 ChatGPT 客户端
+* :white_check_mark: [DockX (macOS)](https://dockx.app/)：在程序坞显示任意状态，如：网速、CPU、时钟等
+* :white_check_mark: [桌面计算器 (iOS)](https://desktop-calculator.com/)：一款超强的桌面计算器，无需打开App，随时随地计算
 * :white_check_mark: [念念不忘 (iOS)](https://buwang.app/)：一款简单粗暴的 iOS 提醒小组件
-* :white_check_mark: [WordleX (微信小程序)](https://wordlex.app/)：一款 Wordle 游戏的练习工具
+* :white_check_mark: [WordleX (微信小程序)](https://6x.studio/wordlex/img/644eac00gy1gza0ma0rfkj20nw0nwgoc.jpg)：一款 Wordle 游戏的练习工具
 
 ### 2022年6月5号添加
 ---
