@@ -15,6 +15,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
 
+### 2024年2月2日添加
+---
+#### beavailable - [Github](https://github.com/beavailable)
+- :white_check_mark: [apt.sh](https://github.com/beavailable/apt.sh)：为 msys2 中的 pacman 提供一个用户友好的 shell 包装器
+
 ### 2024年1月22日添加
 ---
 #### Zen Huifer(浙江) - [Github](https://github.com/huifer)
