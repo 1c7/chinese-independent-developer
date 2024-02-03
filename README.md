@@ -2465,7 +2465,3 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
 * [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
 * [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
-
-#### 6. 最后
-本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
-**sideidea - 独立开发者分享做产品盈利的故事**<br/>
