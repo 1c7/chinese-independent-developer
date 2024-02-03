@@ -2453,6 +2453,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
+* [OkJob](https://okjob.io) - 每周工作 4 天的工作委员会/4 day week job board
 
 [中文]
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
