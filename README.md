@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年2月18号添加
-#### ThinkStu(北京) - [[Github](https://github.com/Bistutu)]
+#### ThinkStu(北京) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读-浏览器翻译插件](https://github.com/Bistutu/FluentRead)：一款拥有人工智能翻译引擎的浏览器插件，支持 OpenAI、Gemini、通义千问、文心一言、智谱清言等模型，可以为网站提供更加友好的翻译，让所有人都能拥有母语般的阅读体验。
 
 ### 2024年1月31号添加
