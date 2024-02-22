@@ -1046,8 +1046,9 @@
 OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :x: [MPAA 电影分级插件](https://old-panda.com/projects/mpaa-rating-extension-project/)：在豆瓣电影、腾讯视频页面显示该片的 MPAA 分级 - [更多介绍](https://creatorsdaily.com/posts/f3510a80-6c40-494d-9404-a158c283c140)
 * :white_check_mark: [Bamboo](https://old-panda.com/projects/bamboo-parquet-viewer/)：可能是 macOS 上最好用的 Parquet 文件查看器
-* :white_check_mark: [Douban Book+](https://old-panda.com/douban-book-plus.html)：打破豆瓣读书与微信读书之间的壁障 - [更多介绍](https://www.appinn.com/weread-on-douban/)
-* :white_check_mark: [Green Tiles](https://green-tiles.vercel.app/): 统计程序员在 GitHub 上贴过的所有瓷砖
+* :white_check_mark: [Douban Book+](https://doubanbook.plus/)：打破豆瓣读书与各种电子书平台之间的壁障
+* :white_check_mark: [Green Tiles](https://green-tiles.vercel.app/)：统计程序员在 GitHub 上贴过的所有瓷砖
+* :white_check_mark: [小地瓜](https://xiaodigua.app/)：一键下载小红书帖子的图片视频
 
 ### 2020年5月14号添加
 ---
