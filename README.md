@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年2月23号添加
+#### Tans(佛山)
+* :white_check_mark: [Photo Mint](https://github.com/tans/photo-mint.git)：图片批量压缩工具 (基于 Tauri, 开源)
+
 ### 2024年2月21号添加
 #### 王君敕(南京) - [Github](https://github.com/stardust), [博客](https://wangxuan.me)
 * :white_check_mark: [拼拼古诗](https://wangxuan.me/chinese_poem/)：古诗拼图小游戏，涵盖唐诗三百首和小学初中高中教科书中的古诗 - [更多介绍](https://mp.weixin.qq.com/s/G5Swlt7hH_3tWZDZ1ffgqw)
