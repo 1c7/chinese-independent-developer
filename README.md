@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年2月25号添加
+#### 刚师傅(长沙) - [Github](https://github.com/margox)
+* :white_check_mark: [简约简历](https://jianli.online)：简约风格的在线简历创建工具，支持在线预览、评论和生成高清PDF
+* :white_check_mark: [RepicApp](https://repic.cc)：基于Electron的图片压缩工具，通过插件形式支持各种格式的图片压缩，支持压缩前后细节对比
+
 ### 2024年2月23号添加
 #### Tans(佛山)
 * :white_check_mark: [Photo Mint](https://github.com/tans/photo-mint.git)：图片批量压缩工具 (基于 Tauri, 开源)
