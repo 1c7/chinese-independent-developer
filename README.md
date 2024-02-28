@@ -20,6 +20,12 @@
 
 ### 2024年2月28号添加
 
+#### Qiwei(上海) - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Markdown Sticky Note](https://chrome.google.com/webstore/detail/aiakblgmlabokilgljkglggnpflljdgp) 浏览器插件，可以在任何网页创建 Markdown 便签并保存 - [源代码](https://github.com/qiweiii/markdown-sticky-notes)
+
+#### Fooying(福建) - [Github](https://github.com/fooying),
+* :white_check_mark: [SEC.CAFE安全咖啡](https://sec.cafe)：安全漏洞情报聚合去重、订阅平台
+
 #### AILOOKME (江苏)
 * :white_check_mark: [AI工具箱](https://www.ailookme.com)：人工智能领域工具导航网站
 
