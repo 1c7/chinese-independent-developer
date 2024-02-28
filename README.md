@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年2月28号添加
+#### 潮汐表表(青岛) - [博客](http://blog.75271.com)
+* :white_check_mark: [潮汐表表](http://images.75271.com/wp-content/uploads/2024/01/2024012208223581.jpg)：看潮汐,查天气就在潮汐表表,出行必备小程序 - [更多介绍](https://blog.75271.com/55685.html)
+
 #### flyun(北京) - [Github](https://github.com/flyun)
 * :white_check_mark: [ChatAir](https://github.com/flyun/chatAir)：OpenAI 和 Gemini 的原生 Android 客户端（开源）
 
