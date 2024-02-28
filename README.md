@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年2月28号添加
+#### flyun(北京) - [Github](https://github.com/flyun)
+* :white_check_mark: [ChatAir](https://github.com/flyun/chatAir)：OpenAI 和 Gemini 的原生 Android 客户端（开源）
+
 #### Jebberwocky - [Github](https://github.com/jebberwocky)
 * :white_check_mark: [我不会说出去](http://chat.colbt.cc/)：匿名心理咨询/宣泄（和 AI 对话）
 
