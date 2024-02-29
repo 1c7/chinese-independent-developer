@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年2月29号添加
+
+#### Zoyou(上海)
+* :white_check_mark: [PhotoFun](https://www.photofun.cn/)：📷高效的在线图片编辑压缩处理工具。
+
 ### 2024年2月28号添加
 
 #### Qiwei(上海) - [GitHub](https://github.com/qiweiii)
