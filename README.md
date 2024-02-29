@@ -19,6 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年2月29号添加
+#### zhenming(上海)
+* :white_check_mark: [xldream](https://www.xldream.com)：免费 AIGC 图片素材网
+
+#### shartoo(上海) - [Github](https://github.com/shartoo), [博客](https://www.zhihu.com/people/xia-zhi-66-34)
+* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：跨站收藏夹，网站收录管理和分享
 
 #### Zoyou(上海)
 * :white_check_mark: [PhotoFun](https://www.photofun.cn/)：📷高效的在线图片编辑压缩处理工具。
