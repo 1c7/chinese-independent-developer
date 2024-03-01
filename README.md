@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月1号添加
+#### AtlanticF(成都) - [GitHub](https://github.com/AtlanticF)
+* :white_check_mark: [AI语音记账](https://github.com/AtlanticF/chinese-independent-developer/assets/14820026/83165766-9dca-47fb-a475-49892f1f719c)：(微信小程序) AI语音识别记账
+
 ### 2024年2月29号添加
 #### zhenming(上海)
 * :white_check_mark: [xldream](https://www.xldream.com)：免费 AIGC 图片素材网
