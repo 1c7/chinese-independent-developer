@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年3月1号添加
+#### morestrive(武汉) - [Github](https://github.com/dromara/yft-design)  
+* :white_check_mark: [yft在线设计](https://yft.design)：基于 canvas 的开源版【稿定设计】。  导入稿定 PDF 模板完美还原，导入PSD，支持导出为图片/PDF/SVG - [更多介绍](https://github.com/dromara/yft-design)
+
 #### meetqy(成都) - [Github](https://github.com/meetqy)
 * :white_check_mark: [aspoem](https://aspoem.com)： 现代化诗词学习网站
 
