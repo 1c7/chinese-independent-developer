@@ -52,9 +52,6 @@
 #### Jebberwocky - [Github](https://github.com/jebberwocky)
 * :white_check_mark: [我不会说出去](http://chat.colbt.cc/)：匿名心理咨询/宣泄（和 AI 对话）
 
-### 2024年2月26号添加
-#### 诸葛子房
-* :white_check_mark: [AI好物](https://www.ai-code.online/)：好物推荐网站，当你有需求又不知道买什么的时候，可以根据输入内容给你推荐商品 - [更多介绍](https://www.ai-code.online/story)
 
 ### 2024年2月25号添加
 #### 刚师傅(长沙) - [Github](https://github.com/margox)
