@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月2号添加
+#### H1DDENADM1N (邯郸) - [Github](https://github.com/H1DDENADM1N)
+* :white_check_mark: [CapsWriter-Offline-GUI](https://github.com/H1DDENADM1N/CapsWriter-Offline)：Windows 端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板。 - [更多介绍](https://github.com/H1DDENADM1N/CapsWriter-Offline?tab=readme-ov-file#-%E7%9B%AE%E5%BD%95)
+
 ### 2024年3月1号添加
 #### TrumanDu(西安) - [Github](https://github.com/TrumanDu), [博客](http://blog.trumandu.top/)
 * :white_check_mark: [Toolkit](http://toolkit.trumandu.top/)：一个极简、插件化的工具集！utools 对标开源版
