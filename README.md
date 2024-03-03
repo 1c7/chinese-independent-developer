@@ -20,7 +20,7 @@
 
 ### 2024年3月3号添加
 #### 程序员热水 - [Github](https://github.com/acmenlei)
-* :white_check_mark:CodeCV简历: [CodeCV简历](https://codecv.top)：超高颜值的简历制作工具，界面简洁不花哨，支持 Markdown 和 所见即所得 两种编辑模式，专注内容，布局排版自动生成
+* :white_check_mark: CodeCV简历: [CodeCV简历](https://codecv.top)：超高颜值的简历制作工具，界面简洁不花哨，支持 Markdown 和 所见即所得 两种编辑模式，专注内容，布局排版自动生成
 
 ### 2024年3月3号添加
 #### LucasChenZQ
