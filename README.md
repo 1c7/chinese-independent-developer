@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年3月3号添加
+#### 程序员热水 - [Github](https://github.com/acmenlei)
+* :white_check_mark: CodeCV简历: [CodeCV简历](https://codecv.top)：超高颜值的简历制作工具，界面简洁不花哨，支持 Markdown 和 所见即所得 两种编辑模式，专注内容，布局排版自动生成
+
 #### huanghanzhilian(北京) - [Github](https://github.com/huanghanzhilian), [博客](https://blog.huanghanlian.com/)
 * :white_check_mark: [C-Shopping](http://shop.huanghanlian.com/)：c-shopping 是一个精美的 Web 电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含一个电商平台 MVP 完整功能，具备良好的审美风格与编码设计 - [更多介绍](https://github.com/huanghanzhilian/c-shopping)
 
