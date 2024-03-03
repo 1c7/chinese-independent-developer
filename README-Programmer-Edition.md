@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年3月3号添加
+#### huanghanzhilian(北京) - [Github](https://github.com/huanghanzhilian), [博客](https://blog.huanghanlian.com/)
+* :white_check_mark: [C-Shopping](https://github.com/huanghanzhilian/c-shopping)：c-shopping 是一个精美的 Web 电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含一个电商平台 MVP 完整功能，具备良好的审美风格与编码设计
+* :white_check_mark: [C-Shopping-RN APP](https://github.com/huanghanzhilian/c-shopping-rn)：是一个 React Native(Expo) 开发的完 整App 应用，是一个精美的电商购物应用
+* :white_check_mark: [H-BLOG](https://github.com/huanghanzhilian/h-blog)：基于 Node.js, Express.js 开发同时适配 Desktop、Tablet、Phone 多种设备的 精简博客系统
+* :white_check_mark: [H-Widget](https://github.com/huanghanzhilian/widget)：一个基于原生 JavaScript 开发的组件库，包含：轮播、标签页、下拉框、对话框等组件
 
 ### 2024年2月2日添加
 ---
