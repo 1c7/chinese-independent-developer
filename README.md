@@ -19,6 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年3月3号添加
+#### huanghanzhilian(北京) - [Github](https://github.com/huanghanzhilian), [博客](https://blog.huanghanlian.com/)
+* :white_check_mark: [C-Shopping](http://shop.huanghanlian.com/)：c-shopping是一个精美的web电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含一个电商平台MVP完整功能，具备良好的审美风格与编码设计。（开源）
+* :white_check_mark: [H-BLOG](https://blog.huanghanlian.com/)：基于node.js, express.js 开发同时适配Desktop、Tablet、Phone多种设备的 精简博客系统（开源）
+* :white_check_mark: [H-Widget](https://widget.huanghanlian.com/)：一个基于原生JavaScript开发的组件库，包含：轮播、标签页、下拉框、对话框等组件（开源）
+
 #### LucasChenZQ
 * :white_check_mark: [小旅星 App](https://apps.apple.com/cn/app/id6468434010)：旅行指南与行程规划 App，提供众多开箱即用的旅行路线、目的地旅行资讯（完善中），也可以制定自己的行程。可以添加地点、航班、列车到旅行计划中，并且自动为用户预估日程时间安排。如果与朋友一起出行，还可以邀请朋友加入旅行、共同编辑, [Android 版下载地址](https://static.triplenty.com/xiaolvxing.apk)
 
