@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月3号添加
+#### huanghanzhilian(北京) - [Github](https://github.com/huanghanzhilian), [博客](https://blog.huanghanlian.com/)
+* :white_check_mark: [C-Shopping](https://github.com/huanghanzhilian/c-shopping)：c-shopping是一个精美的web电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含一个电商平台MVP完整功能，具备良好的审美风格与编码设计。（开源）
+* :white_check_mark: [C-Shopping-RN APP](https://github.com/huanghanzhilian/c-shopping-rn)：是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用（开源）
+* :white_check_mark: [H-BLOG](https://github.com/huanghanzhilian/h-blog)：基于node.js, express.js 开发同时适配Desktop、Tablet、Phone多种设备的 精简博客系统（开源）
+* :white_check_mark: [H-Widget](https://github.com/huanghanzhilian/widget)：一个基于原生JavaScript开发的组件库，包含：轮播、标签页、下拉框、对话框等组件（开源）
+
 ### 2024年3月2号添加
 #### H1DDENADM1N (邯郸) - [Github](https://github.com/H1DDENADM1N)
 * :white_check_mark: [CapsWriter-Offline-GUI](https://github.com/H1DDENADM1N/CapsWriter-Offline)：Windows 端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板。 - [更多介绍](https://github.com/H1DDENADM1N/CapsWriter-Offline?tab=readme-ov-file#-%E7%9B%AE%E5%BD%95)
