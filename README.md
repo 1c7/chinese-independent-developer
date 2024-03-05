@@ -20,7 +20,7 @@
 
 ### 2024年3月5号添加
 #### iyuhang - [Github](https://github.com/iyuhang)
-* :white_check_mark: [犬岛 交友APP] Appstore下载(https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581): 通过深度问答建立社交画像的高质量交友 APP，纯银作品。[安卓下载地址](https://www.quandao.chat)
+* :white_check_mark: [犬岛 交友APP](https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581): 通过深度问答建立社交画像的高质量交友 APP，纯银作品。 [iOS 下载地址](https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581) [安卓下载地址](https://www.quandao.chat)
 
 ### 2024年3月4号添加
 #### gitbobobo - [Github](https://github.com/gitbobobo), [博客](https://aqzscn.cn/)
