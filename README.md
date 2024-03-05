@@ -17,6 +17,9 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+### 2024年3月5号添加
+#### 犬岛 APP
+* :white_check_mark: 一个通过问答来建立社交画像的高质量交友 APP，纯银独立作品 [犬岛 App](https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581)：, [Android 版下载地址](https://www.quandao.chat)
 
 ### 2024年3月4号添加
 #### gitbobobo - [Github](https://github.com/gitbobobo), [博客](https://aqzscn.cn/)
