@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月5号添加
+#### iyuhang - [Github](https://github.com/iyuhang)
+* :white_check_mark: [犬岛 交友APP] Appstore下载(https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581): 通过深度问答建立社交画像的高质量交友 APP，纯银作品。[安卓下载地址](https://www.quandao.chat)
+
 ### 2024年3月4号添加
 #### gitbobobo - [Github](https://github.com/gitbobobo), [博客](https://aqzscn.cn/)
 * :white_check_mark: [音流](https://github.com/gitbobobo/StreamMusic)：NAS 音乐播放器，支持多种音乐服务，可在安卓/iOS/macOS/Windows平台运行 - [AppStore](https://apps.apple.com/cn/app/%E9%9F%B3%E6%B5%81-%E8%BF%9E%E6%8E%A5%E4%BD%A0%E7%9A%84%E9%9F%B3%E4%B9%90/id6449966496), [下载地址](https://aqzscn.cn/archives/stream-music-versions)
