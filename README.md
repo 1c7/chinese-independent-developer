@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年3月5号添加
+#### honwhy
+* :white_check_mark: [Welibrary](https://chromewebstore.google.com/detail/ffcdmbkbdhoplncikkpdcgknacckookm)：将图书网站与城市图书馆联动起来 - [更多介绍](https://welibrary.pages.dev/intro)
+
 #### iyuhang - [Github](https://github.com/iyuhang)
 * :white_check_mark: [犬岛 交友APP](https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581): 通过深度问答建立社交画像的高质量交友 APP，纯银作品。[安卓](https://www.quandao.chat)
 
