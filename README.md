@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月6号添加
+#### 甘小蔗(重庆) - [博客](https://gxzv.com/)
+* :white_check_mark: [人格九道](https://enneatao.com/)：人格九道是基于 Enneagram 理论学说的数字化产品，皆在帮助人们实现自我探索的精神需求 - [更多介绍](https://enneatao.com/blog/enneagram/introduce/)
+
 ### 2024年3月5号添加
 #### j20cc(武汉)
 * :white_check_mark: [小狗听听](https://podcast.j20.cc/)：将在线视频转为本地播客的 iOS 应用
