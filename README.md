@@ -20,7 +20,7 @@
 
 ### 2024年3月7号添加
 #### oBlank [Twitter](https://twitter.com/oBlankX)
-* :white_check_mark: [简单记](https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001)：本地私密日记/记事本，自动标签，集成OpenAI，iOS 应用
+* :white_check_mark: [简单记](https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001)：本地私密日记/记事本，智能标签，集成OpenAI，iOS 应用
 
 ### 2024年3月6号添加
 #### 甘小蔗(重庆) - [博客](https://gxzv.com/)
