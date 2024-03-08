@@ -20,7 +20,7 @@
 
 ### 2024年3月9号添加
 #### work7z [GitHub](https://github.com/work7z)
-* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费安全开源跨平台的程序员工具箱，涵盖各类转换加解密解析等功能，并且还将提供开发常用的各类离线手册和资源页。 - [更多介绍](https://my.laf-tools.com)
+* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费安全开源跨平台的程序员工具箱，涵盖各类转换加解密解析等功能，还提供常用开发手册和资源页。除此之外，还将不断融入AI、笔记、时间管理等功能加入到这个工具箱，旨在帮助程序员更快更好的完成手头上的工作，期待成为程序员界的瑞士军刀。 - [更多介绍](https://my.laf-tools.com)
 
 ### 2024年3月7号添加
 #### oBlank [Twitter](https://twitter.com/oBlankX)
