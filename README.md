@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月15号添加
+#### Ethan Sunray（纽约）
+* :white_check_mark: [Remove Bg](https://removebg.one/)：100% 免费的在线 AI 抠图工具
+* :white_check_mark: [Restore Photos](https://restorephotos.one/)：100% 免费的 AI 修复黑白照片和模糊人脸照片工具
+* :white_check_mark: [Content Credentials](https://contentcredentials.io/)：是一种旨在揭示你在线遇到的内容的真实性和来源的创新开放技术。随着深度伪造、语音克隆和合成媒体的兴起，准确判断内容的真实性变得越来越具有挑战性。[Content Credentials](https://contentcredentials.io/) 基于 C2PA 协议通过提供关于内容创建过程、是否涉及 AI 及其编辑历史的重要信息，帮助解决了这一问题。
+* :white_check_mark: Sora Build](https://sora.build)：是一个可以搜索 OpenAI Sora 视频的在线网站，每天都在收录新的 Sora 视频，目前已收录 280+
+
 ### 2024年3月13号添加
 #### 诸葛子房
 * :white_check_mark: [AI好物](https://www.ai-code.online/)：好物推荐网站，当你有需求又不知道买什么的时候，可以根据输入内容给你推荐商品 - [更多介绍](https://www.ai-code.online/story)
