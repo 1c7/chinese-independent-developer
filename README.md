@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月16号添加
+#### yesmore(成都) - [Github](https://github.com/yesmore)
+* :white_check_mark: [vmail](https://vmail.dev)：临时邮箱生成 - [更多介绍](https://github.com/yesmore/vmail)
+
 ### 2024年3月15号添加
 #### Ethan Sunray（纽约）
 * :white_check_mark: [Remove Bg](https://removebg.one/)：100% 免费的在线 AI 抠图工具
