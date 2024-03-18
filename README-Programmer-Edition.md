@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年3月18号添加
+### 程序员鱼皮 - [Github](https://github.com/liyupi)
+* :white_check_mark: [Yuindex](https://github.com/liyupi/yuindex﻿) ：极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+* :white_check_mark: [AI 自动回复工具](https://github.com/liyupi/yu-auto-reply)：可用于知识星球的 AI 问答机器人﻿
+
 ### 2024年3月13号添加
 #### chaos-zhu [GitHub](https://github.com/chaos-zhu)
 * :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：一个简易的个人Linux服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过websocket实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP。 - [更多介绍](https://github.com/chaos-zhu/easynode)
