@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月20号添加
+#### zzzmh (上海) - [Blog](https://zzzmh.cn)
+* :white_check_mark: [极简壁纸](https://bz.zzzmh.cn)：PC 壁纸在线预览下载网站 - [更多介绍](https://bz.zzzmh.cn/about)
+* :white_check_mark: [极简插件](https://chrome.zzzmh.cn)：Chrome 浏览器插件下载网站 - [更多介绍](https://chrome.zzzmh.cn/about)
+
 ### 2024年3月18号添加
 #### 程序员鱼皮 - [Github](https://github.com/liyupi)
 * :white_check_mark: [SQL 闯关式自学网](https://github.com/liyupi/sql-mother)：交互式 SQL 入门学习网站
