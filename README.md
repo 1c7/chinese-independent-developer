@@ -22,7 +22,6 @@
 #### MarkZhao - [Twitter](https://twitter.com/mark_zhao_)
 * :white_check_mark: [浏览器书签同步Notion](https://www.bookmarkstonotion.com)：将浏览器书签同步至 Notion 数据库。自动同步书签增删改。支持子文件夹、多连接。
 
-### 2024年3月26号添加
 #### DawnRiver - [Twitter](https://twitter.com/LuTcdspring)
 * :white_check_mark: [Meebox](https://meebox.io)：集文本、密码、图片、视频、文件于一身的加密存储 APP - [更多介绍](https://meebox.io/docs/)
 
