@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年3月30日添加
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Github 自定义消息提示插件](https://github.com/qiweiii/github-custom-notifier)：支持一些 GitHub 官方不支持的事件的消息提示。比如：创建 label 事件、其他人被 @、issue 评论包含了某些关键词 - [更多介绍](https://github.com/ruanyf/weekly/issues/4199)
+
+
 ### 2024年3月26日添加
 #### MarkZhao - [Twitter](https://twitter.com/mark_zhao_)
 * :white_check_mark: [浏览器书签同步Notion](https://www.bookmarkstonotion.com)：将浏览器书签同步至 Notion 数据库。自动同步书签增删改。支持子文件夹、多连接。
