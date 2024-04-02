@@ -20,7 +20,7 @@
 
 ### 2024年4月2日添加
 #### Framist - [GitHub](https://github.com/framist)
-* :white_check_mark: [SAFC](https://framist.github.io/safc/)：telegram 平台上的导师评价网 — 元平台、弱中心 — 不只是评价导师 - [更多介绍](https://github.com/framist/SAFC-bot)
+* :white_check_mark: [SAFC](https://framist.github.io/safc/)：又一个研究生导师评价平台。不同的是此平台完全公益、共享、开放，在 telegram 上匿名查询和评价导师以保护隐私，支持楼中楼回复。开发目标是形成一个面向大学生研究生的元平台、弱中心的评价交流社群 - [更多介绍](https://github.com/framist/SAFC-bot)
 
 
 ### 2024年3月30日添加
