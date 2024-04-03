@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月3日添加
+#### 李志博(beijing)
+* :white_check_mark: [Youtube Dubbing](https://www.youtube-dubbing.com/)：打破在线观看视频的语言障碍
+
 ### 2024年4月2日添加
 #### Framist - [GitHub](https://github.com/framist)
 * :white_check_mark: [SAFC](https://framist.github.io/safc/)：又一个研究生导师评价平台。不同的是此平台完全公益、共享、开放，在 telegram 上匿名查询和评价导师以保护隐私，支持楼中楼回复。开发目标是形成一个面向大学生研究生的元平台、弱中心的评价交流社群 - [更多介绍](https://github.com/framist/SAFC-bot)
