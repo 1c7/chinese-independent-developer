@@ -19,12 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月3日添加
-#### 李志博(beijing)
+#### 李志博(北京)
 * :white_check_mark: [Youtube Dubbing](https://www.youtube-dubbing.com/)：打破在线观看视频的语言障碍
 
 ### 2024年4月2日添加
 #### Framist - [GitHub](https://github.com/framist)
-* :white_check_mark: [SAFC](https://framist.github.io/safc/)：又一个研究生导师评价平台。不同的是此平台完全公益、共享、开放，在 telegram 上匿名查询和评价导师以保护隐私，支持楼中楼回复。开发目标是形成一个面向大学生研究生的元平台、弱中心的评价交流社群 - [更多介绍](https://github.com/framist/SAFC-bot)
+* :white_check_mark: [SAFC](https://framist.github.io/safc/)：又一个研究生导师评价平台。不同的是此平台完全公益、共享、开放，在 Telegram 上匿名查询和评价导师以保护隐私，支持楼中楼回复。开发目标是形成一个面向大学生研究生的元平台、弱中心的评价交流社群 - [更多介绍](https://github.com/framist/SAFC-bot)
 
 
 ### 2024年3月30日添加
@@ -34,7 +34,7 @@
 
 ### 2024年3月26日添加
 #### MarkZhao - [Twitter](https://twitter.com/mark_zhao_)
-* :white_check_mark: [浏览器书签同步Notion](https://www.bookmarkstonotion.com)：将浏览器书签同步至 Notion 数据库。自动同步书签增删改。支持子文件夹、多连接。
+* :white_check_mark: [浏览器书签同步 Notion](https://www.bookmarkstonotion.com)：将浏览器书签同步至 Notion 数据库。自动同步书签增删改。支持子文件夹、多连接。
 
 #### DawnRiver - [Twitter](https://twitter.com/LuTcdspring)
 * :white_check_mark: [Meebox](https://meebox.io)：集文本、密码、图片、视频、文件于一身的加密存储 APP - [更多介绍](https://meebox.io/docs/)
