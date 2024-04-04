@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月4日添加
+#### 变当(广州市) - [博客](https://xgmm.me)
+* :white_check_mark: [记一杯](https://apps.apple.com/cn/app/%E8%AE%B0%E4%B8%80%E6%9D%AF/id6478443878)：奶茶、咖啡、饮品全记录 App
+
 ### 2024年4月3日添加
 #### 李志博(北京)
 * :white_check_mark: [Youtube Dubbing](https://www.youtube-dubbing.com/)：打破在线观看视频的语言障碍
