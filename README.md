@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月6日添加
+#### Touchumind - [Github](https://github.com/thundernet8)
+* :white_check_mark: [VoxScripts](https://voxscripts.com)：专注于自动化视频转录文本、字幕制作、字幕翻译和配音、短视频创作的桌面软件。适用于多种学习、工作、娱乐场景，如英语学习、外语慕课视频观看、外语生肉视频抢先观看、视频翻译搬运、剧本配音或配视频。
+
 ### 2024年4月4日添加
 #### 变当(广州市) - [博客](https://xgmm.me)
 * :white_check_mark: [记一杯](https://apps.apple.com/cn/app/%E8%AE%B0%E4%B8%80%E6%9D%AF/id6478443878)：奶茶、咖啡、饮品全记录 App
