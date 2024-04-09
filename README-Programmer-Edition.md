@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月9号添加
+#### lonnywong - [Github](https://github.com/trzsz/trzsz), [博客](https://trzsz.github.io/)
+* :white_check_mark: [trzsz](https://github.com/trzsz/trzsz)：trzsz ( trz / tsz ) 是一款优秀的文件传输工具，和 lrzsz ( rz / sz ) 类似的、兼容 tmux 的文件传输工具。 - [更多介绍](https://trzsz.github.io/)
+
 ### 2024年3月18号添加
 #### 程序员鱼皮 - [Github](https://github.com/liyupi)
 * :white_check_mark: [Yuindex](https://github.com/liyupi/yuindex)：极客范儿的浏览器主页 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
