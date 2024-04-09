@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月10日添加
+#### W1ndys (山东) - [GitHub](https://github.com/W1ndys/), [个人网页](https://w1ndys.top/)
+* :clock8: [Easy-QFNU](https://ezqfnu.w1ndys.top/): Easy-QFNU官方文档，QFNU的开源信息汇集文档，致力于收集你在QFNU可能遇到的各种问题
+
 ### 2024年4月9日添加
 #### 鸭鸭「カモ」(厦门) - [Github](https://github.com/DuckDuckStudio/), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/zh_cn/index.html)
 * :white_check_mark: [芙芙工具箱](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/)：Windows 上的开源实用工具箱，支持各种快捷操作
