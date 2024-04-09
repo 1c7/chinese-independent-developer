@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年4月9号添加
 #### lonnywong - [Github](https://github.com/trzsz/trzsz), [博客](https://trzsz.github.io/)
-* :white_check_mark: [trzsz](https://github.com/trzsz/trzsz)：trzsz ( trz / tsz ) 是一款优秀的文件传输工具，和 lrzsz ( rz / sz ) 类似的、兼容 tmux 的文件传输工具。 - [更多介绍](https://trzsz.github.io/)
+* :white_check_mark: [trzsz](https://github.com/trzsz/trzsz)：trzsz ( trz / tsz ) 是一款优秀的文件传输工具，和 lrzsz ( rz / sz ) 类似的、兼容 tmux 的文件传输工具 - [更多介绍](https://trzsz.github.io/)
 
 ### 2024年3月18号添加
 #### 程序员鱼皮 - [Github](https://github.com/liyupi)
@@ -25,11 +25,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年3月13号添加
 #### chaos-zhu [GitHub](https://github.com/chaos-zhu)
-* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：一个简易的个人Linux服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过websocket实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP。 - [更多介绍](https://github.com/chaos-zhu/easynode)
+* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：一个简易的个人 Linux 服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
 
 ### 2024年3月9号添加
 #### work7z [GitHub](https://github.com/work7z)
-* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费安全开源跨平台的程序员工具箱，涵盖各类转换加解密解析等功能，还提供常用开发手册和资源页。除此之外，还将不断融入AI、笔记、时间管理等功能加入到这个工具箱，旨在帮助程序员更快更好的完成手头上的工作，期待成为程序员界的瑞士军刀。 - [更多介绍](https://my.laf-tools.com)
+* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费安全开源跨平台的程序员工具箱，涵盖各类转换加解密解析等功能，还提供常用开发手册和资源页。除此之外，还将不断融入AI、笔记、时间管理等功能加入到这个工具箱，旨在帮助程序员更快更好的完成手头上的工作，期待成为程序员界的瑞士军刀 - [更多介绍](https://my.laf-tools.com)
 
 ### 2024年2月2日添加
 ---
