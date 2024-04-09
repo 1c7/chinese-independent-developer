@@ -18,6 +18,15 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月9日添加
+#### SleepyZone(杭州) - [Github](https://github.com/sleepy-zone), [博客](https://sleepy-zone.github.io/)
+* :white_check_mark: [Photor - 截图美化](https://www.photor.fun/)：实用、美观、强大的截图美化工具，同时提供在线版、浏览器插件、uTools 插件。
+* :white_check_mark: [fabritor](https://fabritor.surge.sh/)：开源的创意图片编辑器，可以应用于海报设计、小红书公众号封面设计、banner 设计等场景。
+
+#### Wesley(上海) - [Github](https://github.com/westlinkin)
+* 🕗 [White80 Football](https://white80.football)：AI橄榄球 🏈 助理教练，战术识别、分析、预测及生成
+* :white_check_mark: [InterviewAI](https://interviewai.me)：AI模拟面试，轻松通过下一次面试
+
 ### 2024年4月8日添加
 #### Airclap - [Github](https://github.com/Gentleflow/Airclap)
 * :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输APP。
