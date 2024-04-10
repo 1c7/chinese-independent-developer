@@ -83,8 +83,8 @@
 * :white_check_mark: [结构化 SQL 语句生成器](https://github.com/liyupi/sql-generator)：(用更优雅的方式)快速生成复杂的嵌套 SQL 
 
 ### 2024年3月16号添加
-#### yesmore(成都) - [Github](https://github.com/yesmore)
-* :white_check_mark: [vmail](https://vmail.dev)：临时邮箱生成 - [更多介绍](https://github.com/yesmore/vmail)
+#### oiov(成都) - [Github](https://github.com/oiov)
+* :white_check_mark: [vmail](https://vmail.dev)：临时邮箱生成 - [更多介绍](https://github.com/oiov/vmail)
 
 ### 2024年3月15号添加
 #### Ethan Sunray（纽约）
