@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月10日添加
+#### 奔跑的小山猪 - [Github](https://github.com/uestccokey), [Twiter](https://twitter.com/uestccokey), [官网](http://www.ezandroid.cn/)
+* :white_check_mark: [阿Q专业版](https://www.pgyer.com/aqgo)：手机上具有职业九段水平的围棋 AI 软件！
+* :white_check_mark: [阿Q连线器](https://www.pgyer.com/connector)：手机上的通用围棋 AI 连线器，看棋、遛狗必备！
+* :white_check_mark: [阿Q对弈宝](https://www.pgyer.com/aqrecorder)：通过摄像头自动记谱，让你的棋盘升级为智能棋盘！
+* :white_check_mark: [阿Q棋钟](https://www.pgyer.com/aqclock)：美观又易用的围棋、象棋棋钟软件
+
 ### 2024年4月9日添加
 #### 鸭鸭「カモ」(厦门) - [Github](https://github.com/DuckDuckStudio/), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/zh_cn/index.html)
 * :white_check_mark: [芙芙工具箱](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/)：Windows 上的开源实用工具箱，支持各种快捷操作
