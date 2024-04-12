@@ -19,6 +19,15 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月12日添加
+#### 爱心发电丶(湖南) - [Blog](https://nicen.cn/)
+* :white_check_mark: [DIY制作手机壳](https://nicen.cn/wp-content/uploads/replace/2023/06/14/069586ca1329da288259ce9e6fc3e7c6.jpeg)：在线 DIY 制作手机壳的小程序 - [更多介绍](https://gitee.com/friend-nicen/DIY)
+* :white_check_mark: [文件收集小程序](https://nicen.cn/wp-content/uploads/2022/07/gh_3a8e81971071_430.jpg)：在线收集文件的微信小程序
+* :white_check_mark: [万物皆可DIY](https://douyin.nicen.cn/m.html)：在线 DIY 制作手机壳、衣服、抱枕、水杯等物品的 H5 应用
+
+#### seven - [Github](https://github.com/SGAMERyu)
+* :white_check_mark: [SaaStores](https://sasstores.top/): 收录网上优秀的 SaaS 软件，AI 知识，截图资源的网站
+
+### 2024年4月12日添加
 #### BindBook - [主页](https://khaos.net.cn)
 * :white_check_mark: [BindBook](https://s21.ax1x.com/2024/03/31/pF7mmKx.png)：社交关系记录小程序，同时提供微信提醒倒数日等功能。
 
