@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月12日添加
+#### BindBook - [主页](https://khaos.net.cn)
+* :white_check_mark: [BindBook](https://s21.ax1x.com/2024/03/31/pF7mmKx.png)：社交关系记录小程序，同时提供微信提醒倒数日等功能。
+
 ### 2024年4月10日添加
 #### H寒峰(杭州) - [博客](https://hagerhu.com/)，[Twiter](https://twitter.com/hagerhu),
 * :white_check_mark: [TTW: Travel Memoir from Photos](https://apps.apple.com/us/app/ttw-travel-memoir-from-photos/id6473322389)：旅行🗺️，使用手机中的照片生成你的旅行时间线，看过的风景，去过的地方！
