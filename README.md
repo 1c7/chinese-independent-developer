@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月12日添加
+#### 阿禅 Jason Ng - [主页](http://wujiaxian.com/)
+* :white_check_mark: [MyIP](https://ipcheck.ing/) : 瑞士军刀般的多功能的 IP 工具箱 - [更多介绍](https://github.com/jason5ng32/MyIP) 
+* :white_check_mark: [OhEarningsCal](https://stock.retire.money/) : 自动化的美股财报日历订阅器 - [更多介绍](https://github.com/jason5ng32/OhEarningsCal)
+* :white_check_mark: [Macify](https://chromewebstore.google.com/detail/macify-macos-screensaver/lgdipcalomggcjkohjhkhkbcpgladnoe?hl=en) : 将 Chrome 的新标签页变成 macOS 屏保的华丽航拍视频 - [更多介绍](https://github.com/jason5ng32/macOS-Screen-Saver-as-Chrome-New-Tab)。
+* :white_check_mark: [躺平计算器](https://retire.money/) : 根据当前的资产、收入水平、负债，以及所在国家通胀率的情况，计算立即躺平的可行性
+
 #### 爱心发电丶(湖南) - [Blog](https://nicen.cn/)
 * :white_check_mark: [DIY制作手机壳](https://nicen.cn/wp-content/uploads/replace/2023/06/14/069586ca1329da288259ce9e6fc3e7c6.jpeg)：在线 DIY 制作手机壳的小程序 - [更多介绍](https://gitee.com/friend-nicen/DIY)
 * :white_check_mark: [文件收集小程序](https://nicen.cn/wp-content/uploads/2022/07/gh_3a8e81971071_430.jpg)：在线收集文件的微信小程序
