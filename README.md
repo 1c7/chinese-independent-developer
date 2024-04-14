@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月14日添加
+#### 欧维Ove（西安）
+* :white_check_mark: [简单设计](https://www.jiandan.link)：简单好用的设计工具，支持设计海报、LOGO、封面图，支持图片压缩、裁剪、格式转换等
+
 ### 2024年4月13日添加
 #### didid - [Github](https://github.com/dodid)
 * :white_check_mark: [Minitrade](https://dodid.github.io/minitrade/)：为个人投资者设计的量化回测交易系统
