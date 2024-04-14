@@ -19,6 +19,13 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月14日添加
+#### 为大宝宝（北京）
+* :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：一款集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
+
+#### Mose - [Github](https://github.com/1003715231)
+* :white_check_mark: [AI Undetect](https://www.aiundetect.com/)：能绕过 AI 检测器的、生产不可检测内容的人工智能写作工具
+* :white_check_mark: [AI Humanizer](https://aihumanize.io/)：也是 AI 改写工具，不过和 aiundetect 交互不一样，面向的 SEO 词汇不同
+
 #### 欧维Ove（西安）
 * :white_check_mark: [简单设计](https://www.jiandan.link)：简单好用的设计工具，支持设计海报、LOGO、封面图，支持图片压缩、裁剪、格式转换等
 
