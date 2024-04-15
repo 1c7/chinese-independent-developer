@@ -21,6 +21,8 @@
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
 * :white_check_mark: [海棠诗社](https://pocketpoetry.club)：一个古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
+#### Hu Shenghao (南京) - [Github](https://github.com/hushenghao)
+* :white_check_mark: [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs)：一个 Android 系统复活节彩蛋集合 App，包含了所有 Android 版本的系统彩蛋，并兼容到 Android 5.0 系统
 
 ### 2024年4月14日添加
 #### 为大宝宝（北京）
