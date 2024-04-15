@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月15日添加
+#### javayhu（深圳）- [Github](https://github.com/javayhu)
+* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：一个古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
+
 ### 2024年4月14日添加
 #### 为大宝宝（北京）
 * :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：一款集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
