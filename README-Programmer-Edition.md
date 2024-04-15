@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月15号添加
+#### Hu Shenghao (南京) - [Github](https://github.com/hushenghao)
+* :white_check_mark: [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs)：Android 系统复活节彩蛋集合 App，包含了所有 Android 版本的系统彩蛋，并兼容到 Android 5.0 系统
+
 ### 2024年4月9号添加
 #### lonnywong - [Github](https://github.com/trzsz/trzsz), [博客](https://trzsz.github.io/)
 * :white_check_mark: [trzsz](https://github.com/trzsz/trzsz)：trzsz ( trz / tsz ) 是一款优秀的文件传输工具，和 lrzsz ( rz / sz ) 类似的、兼容 tmux 的文件传输工具 - [更多介绍](https://trzsz.github.io/)
