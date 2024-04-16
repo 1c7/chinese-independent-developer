@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月16日添加
+#### eilong (昆明) - [Github](https://github.com/nniai/ViBoard)
+* :white_check_mark: [ViBoard](https://nniai.com)：跨平台数据可视化大屏软件，让高端图表不再依赖开发人员、数据库和服务器。
+
 #### Hikayo（北京）
 * :white_check_mark: [了然清单](https://apps.apple.com/cn/app/id6474304009)：P 型人友好的待办 App，不仅能一目了然地轻松管理日常生活，还可以智能匹配 emoji 和标签
 
