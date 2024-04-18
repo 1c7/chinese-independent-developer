@@ -18,9 +18,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月18日添加
+#### mydearcc - [Github](https://github.com/mydearcc/tools)
+* :white_check_mark: [fly63 工具箱](https://www.fly63.com/tool/home.html)：工具箱集合网站(在线、免费、高效、好用)包含：开发文档、格式转换、加密/解密、站长工具、代码生成、CSS 样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具
+
 ### 2024年4月17日添加
 #### lee森（德国）
-* :white_check_mark: [haiwai](https://haiwai.info)：搜索海外的娱乐资源，电影，动画，电视剧，etc。
+* :white_check_mark: [haiwai](https://haiwai.info)：搜索海外的娱乐资源，电影，动画，电视剧，等等。
+
 #### Shichao（北京）
 * :white_check_mark: [sunost](https://sunost.com)：基于 SUNO 生成背景音乐的工具，专门适用于电影、游戏、短视频做无版权背景音乐使用
 * :white_check_mark: [toolss.ai](https://www.toolss.ai)：AI 工具导航网站，收录 12000+ 个AI工具，支持分类搜索，每日更新
@@ -30,7 +35,7 @@
 * :white_check_mark: [ViBoard](https://nniai.com)：跨平台数据可视化大屏软件，让高端图表不再依赖开发人员、数据库和服务器。
 
 #### Hikayo（北京）
-* :white_check_mark: [了然清单](https://apps.apple.com/cn/app/id6474304009)：P 型人友好的待办 App，不仅能一目了然地轻松管理日常生活，还可以智能匹配 emoji 和标签
+* :white_check_mark: [了然清单](https://apps.apple.com/cn/app/id6474304009)：P 型人友好的待办 App，不仅能一目了然地轻松管理日常生活，还可以智能匹配 Emoji 和标签
 
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
