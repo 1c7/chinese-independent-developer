@@ -19,8 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月18日添加
-#### smind.app - [smind](https://www.smind.app)
-* :white_check_mark: [smind.app](https://www.smind.app)：思维脑图，包含：自定义主题、禅定模式、导入导出、结构化、导入图片、icon、贴纸等
+#### ChengKeJ - [Github](https://github.com/ChengKeJ)
+* :white_check_mark: [smind.app](https://www.smind.app)：思维脑图：自定义主题、禅定模式、导入导出、结构化、导入图片、icon、贴纸等
 
 #### mydearcc - [Github](https://github.com/mydearcc/tools)
 * :white_check_mark: [fly63 工具箱](https://www.fly63.com/tool/home.html)：工具箱集合网站(在线、免费、高效、好用)包含：开发文档、格式转换、加密/解密、站长工具、代码生成、CSS 样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具
