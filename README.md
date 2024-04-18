@@ -19,6 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月17日添加
+#### lee森（德国）
+* :white_check_mark: [haiwai](https://haiwai.info)：搜索海外的娱乐资源，电影，动画，电视剧，etc。
 #### Shichao（北京）
 * :white_check_mark: [sunost](https://sunost.com)：基于 SUNO 生成背景音乐的工具，专门适用于电影、游戏、短视频做无版权背景音乐使用
 * :white_check_mark: [toolss.ai](https://www.toolss.ai)：AI 工具导航网站，收录 12000+ 个AI工具，支持分类搜索，每日更新
