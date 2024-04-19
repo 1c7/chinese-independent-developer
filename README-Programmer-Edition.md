@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月19号添加
+#### wujunwei928(北京) - [Github](https://github.com/wujunwei928)
+* :white_check_mark: [edge-tts-go](https://github.com/wujunwei928/edge-tts-go)：基于微软 Edge 浏览器的大声朗读接口，开发的 TTS 文字转语音 Golang 工具，包含晓晓、云扬、云希等"网红主播"。
+* :white_check_mark: [parse-video](https://github.com/wujunwei928/parse-video)：Golang 短视频去水印工具：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,Acfun,好看视频等
+
 ### 2024年4月15号添加
 #### Hu Shenghao (南京) - [Github](https://github.com/hushenghao)
 * :white_check_mark: [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs)：Android 系统复活节彩蛋集合 App，包含了所有 Android 版本的系统彩蛋，并兼容到 Android 5.0 系统
