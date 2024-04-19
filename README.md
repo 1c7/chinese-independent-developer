@@ -19,12 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月19日添加
-#### 新百词斩助手
+#### Honwhy Wang - [Github](https://github.com/honwhy)
 * :white_check_mark: [新百词斩助手](https://100-words.pages.dev/)：新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩APP中）
 
 ### 2024年4月18日添加
 #### ChengKeJ - [Github](https://github.com/ChengKeJ)
-* :white_check_mark: [smind.app](https://www.smind.app)：思维脑图：自定义主题、禅定模式、导入导出、结构化、导入图片、icon、贴纸等
+* :white_check_mark: [smind.app](https://www.smind.app)：思维脑图：自定义主题、禅定模式、导入导出、结构化、导入图片、Icon、贴纸等
 
 #### mydearcc - [Github](https://github.com/mydearcc/tools)
 * :white_check_mark: [fly63 工具箱](https://www.fly63.com/tool/home.html)：工具箱集合网站(在线、免费、高效、好用)包含：开发文档、格式转换、加密/解密、站长工具、代码生成、CSS 样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具
@@ -46,11 +46,11 @@
 
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
-* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：一个古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
+* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
 
 ### 2024年4月14日添加
 #### 为大宝宝（北京）
-* :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：一款集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
+* :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
 
 #### Mose - [Github](https://github.com/1003715231)
 * :white_check_mark: [AI Undetect](https://www.aiundetect.com/)：能绕过 AI 检测器的、生产不可检测内容的人工智能写作工具
@@ -108,7 +108,7 @@
 
 ### 2024年4月8日添加
 #### Airclap - [Github](https://github.com/Gentleflow/Airclap)
-* :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输APP。
+* :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输 App
 
 ### 2024年4月6日添加
 #### Touchumind - [Github](https://github.com/thundernet8)
