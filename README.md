@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月19日添加
+#### 新百词斩助手
+* :white_check_mark: [新百词斩助手](https://100-words.pages.dev/)：新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩APP中）
+
 ### 2024年4月18日添加
 #### ChengKeJ - [Github](https://github.com/ChengKeJ)
 * :white_check_mark: [smind.app](https://www.smind.app)：思维脑图：自定义主题、禅定模式、导入导出、结构化、导入图片、icon、贴纸等
