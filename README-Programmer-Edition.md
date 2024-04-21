@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月22号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :clock8: [中文Git](https://duckduckstudio.github.io/yazicbs.github.io/Tools/chinese_git/)：中文Git 是一个使用中文命令操作 Git 的简单工具，旨在使不熟悉英文的用户更轻松地使用 Git。
+* :white_check_mark: [Power by 虚空终端](https://github.com/DuckDuckStudio/power_by_akasha_terminal)：一个简单的命令行装饰配置，让你的Windows终端变成虚空终端(或者其他自定义的内容)。
+
 ### 2024年4月19号添加
 #### wujunwei928(北京) - [Github](https://github.com/wujunwei928)
 * :white_check_mark: [edge-tts-go](https://github.com/wujunwei928/edge-tts-go)：基于微软 Edge 浏览器的大声朗读接口，开发的 TTS 文字转语音 Golang 工具，包含晓晓、云扬、云希等"网红主播"。
