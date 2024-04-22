@@ -102,7 +102,7 @@
 * :white_check_mark: [阿Q棋钟](https://www.pgyer.com/aqclock)：美观又易用的围棋、象棋棋钟软件
 
 ### 2024年4月9日添加
-#### 鸭鸭「カモ」(厦门) - [Github](https://github.com/DuckDuckStudio/), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/zh_cn/index.html)
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
 * :white_check_mark: [芙芙工具箱](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/)：Windows 上的开源实用工具箱，支持各种快捷操作。
 
 #### SleepyZone(杭州) - [Github](https://github.com/sleepy-zone), [博客](https://sleepy-zone.github.io/)
