@@ -1390,6 +1390,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [Vue 国际化开发助手](https://marketplace.visualstudio.com/items?itemName=hancel.front-i18n)：VSCode 扩展，快速为中文 Vue 项目添加国际化支持。
+* :white_check_mark: [Sticky Notes](https://github.com/imlinhanchao/sticky_notes)：一个 Windows 桌面应用，可以用来记录你的工作事项，然后钉在桌面上，随时可以查看修改。
 * :white_check_mark: [迷宫游戏Maze](https://maze.hancel.org/)：摸鱼小游戏迷宫 Maze，真实体验探索迷宫的乐趣！
 * :white_check_mark: [Storage Editor](https://chrome.google.com/webstore/detail/lpmmcjhefcghagdhnpbodfdamfmlicfn)：网页 LocalStorage 和 SessionStorage 解析与编辑工具。 - [更多介绍](https://github.com/imlinhanchao/crx_storage_editor)
 * :white_check_mark: [摸鱼大闯关](https://p.hancel.org/)：摸鱼闯关网页解谜游戏，结合了多种计算机技术与计算机社区梗。摸鱼也要学技术！
