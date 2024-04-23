@@ -17,7 +17,9 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
-
+### 2024年4月23日添加
+#### UnionAi
+* :white_check_mark: [kimi小助手](https://chromewebstore.google.com/detail/kimi%E5%B0%8F%E5%8A%A9%E6%89%8B/lcmnamhindlgdelifemnmkecaabdglle)：帮你在浏览器中更好使用kimi，让它成为你的AI全能生产力工具，具备搜索增强、聊天、页面总结、选中翻译、代码解释等功能
 ### 2024年4月19日添加
 #### ideasworkcn
 * :white_check_mark: [创想家 视频拍摄管理](https://vms.ideaswork.cn)：提升独立视频制作人创作生产力！视频项目管理：制作进度、AI 创作、脚本拍摄待办工具库：提词器、语音生成、封面制作、配乐库
