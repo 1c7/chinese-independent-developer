@@ -18,8 +18,21 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月23日添加
+
+#### Ethan Sunray（纽约）
+- :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/)：免费的在线 AI 文本到图像生成工具，支持 AI 纹身生成器、AI 动漫生成器、AI 3D 表情生成器、AI 宝可梦生成器等，无需登录，不限使用次数。
+- :clock8: [AI Video Generator](https://videoai.cc/)：AI 视频生成器，很快会支持 Stable Video Diffusion (SVD) 和 AnimateDiff 在线使用，视频风格转换功能也在加急开发中。
+
+#### 射手科技(珠海) 
+* :white_check_mark: [自记账app](https://www.zijizhang.com/)：适用于创业初期，注册公司、需要零申报业务的创业者。自己做老板，自己记账，自动报税
+* :white_check_mark: [自开票app](https://www.zikaipiao.com)：开票一整年，只扫一次脸
+
+#### MrPan(成都) - [Github](https://github.com/easepan), [博客](https://myrest.top/zh-cn/blog)
+* :white_check_mark: [RunFlow](https://myrest.top/zh-cn/myflow)：类 Wox 和 Alfred 的跨平台效率工具，可以启动应用程序和搜索文件等等，功能通过关键字触发，支持通过插件扩展程序功能 - [更多介绍](https://myrest.top/zh-cn/blog)
+
 #### Tutu（香港）
-* :white_check_mark: [kimi小助手](https://chromewebstore.google.com/detail/kimi%E5%B0%8F%E5%8A%A9%E6%89%8B/lcmnamhindlgdelifemnmkecaabdglle)：帮你在浏览器中更好使用kimi，让它成为你的AI全能生产力工具，具备搜索增强、聊天、页面总结、选中翻译、代码解释等功能
+* :white_check_mark: [kimi小助手](https://chromewebstore.google.com/detail/kimi%E5%B0%8F%E5%8A%A9%E6%89%8B/lcmnamhindlgdelifemnmkecaabdglle)：帮你在浏览器中更好使用 kimi，让它成为你的 AI 全能生产力工具，具备搜索增强、聊天、页面总结、选中翻译、代码解释等功能
+
 ### 2024年4月19日添加
 #### ideasworkcn
 * :white_check_mark: [创想家 视频拍摄管理](https://vms.ideaswork.cn)：提升独立视频制作人创作生产力！视频项目管理：制作进度、AI 创作、脚本拍摄待办工具库：提词器、语音生成、封面制作、配乐库
