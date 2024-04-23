@@ -18,6 +18,8 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月23日添加
+#### Ayden - [Twitter](https://twitter.com/aydengen)
+- :white_check_mark: [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna)：捕获网页元素，转化为图片自动美化的浏览器插件
 
 #### Ethan Sunray（纽约）
 - :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/)：免费的在线 AI 文本到图像生成工具，支持 AI 纹身生成器、AI 动漫生成器、AI 3D 表情生成器、AI 宝可梦生成器等，无需登录，不限使用次数。
