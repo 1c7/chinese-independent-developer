@@ -18,6 +18,9 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月24日添加
+#### 诸葛子房
+* :white_check_mark: [谷歌浏览器OCR插件](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0)：截图识别图片为文字的 OCR 插件 - [更多介绍](https://www.bilibili.com/video/BV1Xz4216756)
+
 #### hanaTsuk1 - [Github](https://github.com/hanaTsuk1), [掘金](https://juejin.cn/user/2327027529037352)
 * :clock8: [shion](https://shion.app/zh/)：时间追踪软件，定格生活中的瞬间🍂
 
