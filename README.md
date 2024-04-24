@@ -17,6 +17,13 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+### 2024年4月24日添加
+#### hanaTsuk1 - [Github](https://github.com/hanaTsuk1), [掘金](https://juejin.cn/user/2327027529037352)
+* :clock8: [shion](https://shion.app/zh/)：时间追踪软件，定格生活中的瞬间🍂
+
+#### Yu-Core
+* :white_check_mark: [侠客日记](https://github.com/Yu-Core/SwashbucklerDiary)：本地日记 App（开源、跨平台）
+
 ### 2024年4月23日添加
 #### Ayden - [Twitter](https://twitter.com/aydengen)
 - :white_check_mark: [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna)：捕获网页元素，转化为图片自动美化的浏览器插件
