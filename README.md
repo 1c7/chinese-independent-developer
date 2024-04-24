@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月24日添加
 #### Quanzhitong - [Github](https://github.com/Quanzhitong)
-* :white_check_mark: [Honey Tab](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN)：简单易用的浏览器标签、窗口管理工具，只需三个快捷键
+* :white_check_mark: [Honey Tab](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar)：简单易用的浏览器标签、窗口管理工具，只需三个快捷键
 
 #### 诸葛子房
 * :white_check_mark: [谷歌浏览器 OCR 插件](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0)：截图识别图片为文字的 OCR 插件 - [更多介绍](https://www.bilibili.com/video/BV1Xz4216756)
