@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月24日添加
+#### zggsong - [Github](https://github.com/ZGGSONG), [博客](https://zggsong.com)
+* :white_check_mark: [STranslate](https://stranslate.zggsong.com)：即开即用、即用即走的翻译(OCR)工具
+
+#### Aissen
+* :white_check_mark: [实时金价](https://goldprice.fun)：简洁直观的黄金价格查询网站
+
 #### Quanzhitong - [Github](https://github.com/Quanzhitong)
 * :white_check_mark: [Honey Tab](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar)：简单易用的浏览器标签、窗口管理工具，只需三个快捷键
 
