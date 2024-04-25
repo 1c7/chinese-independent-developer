@@ -19,8 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月25号添加
+#### 7small7(成都) - [GitHub](https://github.com/7small7)
+*  [兔兔答题](https://www.tutudati.com)：个人独立研发的在线考试答题系统，可用于微信考试、付费考试、社会调查问卷、明星知识问答、员工培训考核、模拟自测、企业面试、试题库等多种场景。支持一键导入、智能判卷、试后分析、不限终端等功能。
+
 #### waylonzheng (深圳) - [博客](https://www.waylon.online/)
-* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF 转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
 
 ### 2024年4月25日添加
 #### octopus331 - [Github](https://github.com/octopus331)
