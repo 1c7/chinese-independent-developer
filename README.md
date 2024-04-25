@@ -17,12 +17,62 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+### 2024年4月24日添加
+#### zggsong - [Github](https://github.com/ZGGSONG), [博客](https://zggsong.com)
+* :white_check_mark: [STranslate](https://stranslate.zggsong.com)：即开即用、即用即走的翻译(OCR)工具
+
+#### Aissen
+* :white_check_mark: [实时金价](https://goldprice.fun)：简洁直观的黄金价格查询网站
+
+#### Quanzhitong - [Github](https://github.com/Quanzhitong)
+* :white_check_mark: [Honey Tab](https://chromewebstore.google.com/detail/honey-tab/ecopjmjelpndnffeaionilmoiocbjcii?hl=zh-CN&utm_source=ext_sidebar)：简单易用的浏览器标签、窗口管理工具，只需三个快捷键
+
+#### 诸葛子房
+* :white_check_mark: [谷歌浏览器 OCR 插件](https://chromewebstore.google.com/detail/ocr/cglnhoallkkhcelfbcdaglcioccollfb?hl=zh-CN&authuser=0)：截图识别图片为文字的 OCR 插件 - [更多介绍](https://www.bilibili.com/video/BV1Xz4216756)
+
+#### hanaTsuk1 - [Github](https://github.com/hanaTsuk1), [掘金](https://juejin.cn/user/2327027529037352)
+* :clock8: [shion](https://shion.app/zh/)：时间追踪软件，定格生活中的瞬间🍂
+
+#### Yu-Core
+* :white_check_mark: [侠客日记](https://github.com/Yu-Core/SwashbucklerDiary)：本地日记 App（开源、跨平台）
+
+### 2024年4月23日添加
+#### Ayden - [Twitter](https://twitter.com/aydengen)
+- :white_check_mark: [ElemSnap](https://chromewebstore.google.com/detail/elemsnap/mblkhbaakhbhiimkbcnmeciblfhmafna)：捕获网页元素，转化为图片自动美化的浏览器插件
+
+#### Ethan Sunray（纽约）
+- :white_check_mark: [AI Image Generator](https://aiimagegenerator.io/)：免费的在线 AI 文本到图像生成工具，支持 AI 纹身生成器、AI 动漫生成器、AI 3D 表情生成器、AI 宝可梦生成器等，无需登录，不限使用次数。
+- :clock8: [AI Video Generator](https://videoai.cc/)：AI 视频生成器，很快会支持 Stable Video Diffusion (SVD) 和 AnimateDiff 在线使用，视频风格转换功能也在加急开发中。
+
+#### 射手科技(珠海) 
+* :white_check_mark: [自记账app](https://www.zijizhang.com/)：适用于创业初期，注册公司、需要零申报业务的创业者。自己做老板，自己记账，自动报税
+* :white_check_mark: [自开票app](https://www.zikaipiao.com)：开票一整年，只扫一次脸
+
+#### MrPan(成都) - [Github](https://github.com/easepan), [博客](https://myrest.top/zh-cn/blog)
+* :white_check_mark: [RunFlow](https://myrest.top/zh-cn/myflow)：类 Wox 和 Alfred 的跨平台效率工具，可以启动应用程序和搜索文件等等，功能通过关键字触发，支持通过插件扩展程序功能 - [更多介绍](https://myrest.top/zh-cn/blog)
+
+#### Tutu（香港）
+* :white_check_mark: [kimi小助手](https://chromewebstore.google.com/detail/kimi%E5%B0%8F%E5%8A%A9%E6%89%8B/lcmnamhindlgdelifemnmkecaabdglle)：帮你在浏览器中更好使用 kimi，让它成为你的 AI 全能生产力工具，具备搜索增强、聊天、页面总结、选中翻译、代码解释等功能
+
+### 2024年4月19日添加
+#### ideasworkcn
+* :white_check_mark: [创想家 视频拍摄管理](https://vms.ideaswork.cn)：提升独立视频制作人创作生产力！视频项目管理：制作进度、AI 创作、脚本拍摄待办工具库：提词器、语音生成、封面制作、配乐库
+
+#### Kevin不会写代码(成都)
+* :white_check_mark: [节点导航站](https://sitee.bnyer.cn/)：独立开发者出海工具首选 | 自媒体人的运营黑科技 | 跨境电商小白集散站 | 汇集各类先进的人工智能产品，帮助用户更快了解和使用这些产品, 浏览不同领域的 AI 产品，包括语音识别、图像处理、自然语言处理
+* :white_check_mark: [节点链接](https://links.bnyer.cn)：短链接生成器,一条短链接精准触达你的目标客户,安全引流获客,公域到私域流量转化黑科技
+
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+* :white_check_mark: [新百词斩助手](https://100-words.pages.dev/)：新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩 App 中）
 
 ### 2024年4月25号添加
 #### waylonzheng (深圳) - [博客](https://www.waylon.online/)
 * :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
 
 ### 2024年4月18日添加
+#### ChengKeJ - [Github](https://github.com/ChengKeJ)
+* :white_check_mark: [smind.app](https://www.smind.app)：思维脑图：自定义主题、禅定模式、导入导出、结构化、导入图片、Icon、贴纸等
+
 #### mydearcc - [Github](https://github.com/mydearcc/tools)
 * :white_check_mark: [fly63 工具箱](https://www.fly63.com/tool/home.html)：工具箱集合网站(在线、免费、高效、好用)包含：开发文档、格式转换、加密/解密、站长工具、代码生成、CSS 样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具
 
@@ -43,11 +93,11 @@
 
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
-* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：一个古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
+* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
 
 ### 2024年4月14日添加
 #### 为大宝宝（北京）
-* :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：一款集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
+* :white_check_mark: [DS Cloud](https://apps.apple.com/cn/app/id6476057278)：集文件管理、视频播放和音频播放于一身的 NAS 融合怪 App，支持文件管理和文件分享，支持群晖和 Emby 登录，支持全视频格式和无损音频播放
 
 #### Mose - [Github](https://github.com/1003715231)
 * :white_check_mark: [AI Undetect](https://www.aiundetect.com/)：能绕过 AI 检测器的、生产不可检测内容的人工智能写作工具
@@ -92,8 +142,8 @@
 * :white_check_mark: [阿Q棋钟](https://www.pgyer.com/aqclock)：美观又易用的围棋、象棋棋钟软件
 
 ### 2024年4月9日添加
-#### 鸭鸭「カモ」(厦门) - [Github](https://github.com/DuckDuckStudio/), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/zh_cn/index.html)
-* :white_check_mark: [芙芙工具箱](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/)：Windows 上的开源实用工具箱，支持各种快捷操作
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [芙芙工具箱](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/)：Windows 上的开源实用工具箱，支持各种快捷操作。
 
 #### SleepyZone(杭州) - [Github](https://github.com/sleepy-zone), [博客](https://sleepy-zone.github.io/)
 * :white_check_mark: [Photor - 截图美化](https://www.photor.fun/)：实用、美观、强大的截图美化工具，同时提供在线版、浏览器插件、uTools 插件。
@@ -105,7 +155,7 @@
 
 ### 2024年4月8日添加
 #### Airclap - [Github](https://github.com/Gentleflow/Airclap)
-* :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输APP。
+* :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输 App
 
 ### 2024年4月6日添加
 #### Touchumind - [Github](https://github.com/thundernet8)
@@ -1380,6 +1430,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [Vue 国际化开发助手](https://marketplace.visualstudio.com/items?itemName=hancel.front-i18n)：VSCode 扩展，快速为中文 Vue 项目添加国际化支持。
+* :white_check_mark: [Sticky Notes](https://github.com/imlinhanchao/sticky_notes)：一个 Windows 桌面应用，可以用来记录你的工作事项，然后钉在桌面上，随时可以查看修改。
 * :white_check_mark: [迷宫游戏Maze](https://maze.hancel.org/)：摸鱼小游戏迷宫 Maze，真实体验探索迷宫的乐趣！
 * :white_check_mark: [Storage Editor](https://chrome.google.com/webstore/detail/lpmmcjhefcghagdhnpbodfdamfmlicfn)：网页 LocalStorage 和 SessionStorage 解析与编辑工具。 - [更多介绍](https://github.com/imlinhanchao/crx_storage_editor)
 * :white_check_mark: [摸鱼大闯关](https://p.hancel.org/)：摸鱼闯关网页解谜游戏，结合了多种计算机技术与计算机社区梗。摸鱼也要学技术！
