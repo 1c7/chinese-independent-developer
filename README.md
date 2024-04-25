@@ -28,7 +28,6 @@
 #### waylonzheng (深圳) - [博客](https://www.waylon.online/)
 * :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html)：管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF 转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
 
-### 2024年4月25日添加
 #### octopus331 - [Github](https://github.com/octopus331)
 * :white_check_mark: [图生代码](https://www.octopus31.com/code/generate)：根据网页截图、网页 URL 生成前端页面代码
 
@@ -331,7 +330,7 @@
 
 ### 2024年1月31号添加
 #### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
-* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 web app，提供极高质量的简历排版和 PDF 输出
+* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出
 
 ### 2024年1月30号添加
 #### windowye(北京) - [Github](https://github.com/windowye)
@@ -384,7 +383,7 @@
 ### 2023年12月29号添加
 ---
 #### GenOuka(湖南) - [Github](https://github.com/GenOuka)
-* :white_check_mark: [Rare计划](https://rare.genouka.rr.nu/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如RareBox可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
+* :white_check_mark: [Rare计划](https://rare.genouka.rr.nu/)：发布了一系列使智能手表更好用、更易用、更实用的程序。例如 RareBox 可以让手表用户在手表上更便捷地安装程序。适用于普通用户和开发者，主要面向普通用户。
 
 #### ThinkStu(上海) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读](https://github.com/Bistutu/FluentRead)：浏览器油猴插件，基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
