@@ -19,11 +19,14 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月25号添加
+#### R1ckShi - [Github](https://github.com/R1ckShi) 
+* :white_check_mark: [FunClip](https://github.com/alibaba-damo-academy)：全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [快速使用](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary)
+
 #### 7small7(成都) - [GitHub](https://github.com/7small7)
-*  [兔兔答题](https://www.tutudati.com)：个人独立研发的在线考试答题系统，可用于微信考试、付费考试、社会调查问卷、明星知识问答、员工培训考核、模拟自测、企业面试、试题库等多种场景。支持一键导入、智能判卷、试后分析、不限终端等功能。
+*  [兔兔答题](https://www.tutudati.com)：在线考试答题系统，可用于微信考试、付费考试、社会调查问卷、明星知识问答、员工培训考核、模拟自测、企业面试、试题库等多种场景。支持一键导入、智能判卷、试后分析、不限终端等功能。
 
 #### waylonzheng (深圳) - [博客](https://www.waylon.online/)
-* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF 转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html)：管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF 转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
 
 ### 2024年4月25日添加
 #### octopus331 - [Github](https://github.com/octopus331)
