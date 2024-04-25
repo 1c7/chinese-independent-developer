@@ -17,6 +17,11 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+
+### 2024年4月25号添加
+#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+
 ### 2024年4月24日添加
 #### zggsong - [Github](https://github.com/ZGGSONG), [博客](https://zggsong.com)
 * :white_check_mark: [STranslate](https://stranslate.zggsong.com)：即开即用、即用即走的翻译(OCR)工具
@@ -64,10 +69,6 @@
 
 #### Honwhy Wang - [Github](https://github.com/honwhy)
 * :white_check_mark: [新百词斩助手](https://100-words.pages.dev/)：新百词斩网页助手，支持取词翻译、收藏单词等操作（可同步至百词斩 App 中）
-
-### 2024年4月25号添加
-#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
-* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
 
 ### 2024年4月18日添加
 #### ChengKeJ - [Github](https://github.com/ChengKeJ)
