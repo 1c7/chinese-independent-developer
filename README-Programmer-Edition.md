@@ -16,11 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年4月25号添加
 #### qwqcode(杭州) - [Github](https://github.com/qwqcode)
-* :white_check_mark: [Artalk](https://github.com/ArtalkJS/Artalk)：开源博客评论系统 - [更多介绍](https://artalk.js.org/)
+* :white_check_mark: [Artalk](https://artalk.js.org/)：开源博客评论系统 - [更多介绍](https://github.com/ArtalkJS/Artalk)
 
 ### 2024年4月22号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
-* :clock8: [中文 Git](https://duckduckstudio.github.io/yazicbs.github.io/Tools/chinese_git/)：用中文命令操作 Git，旨在使不熟悉英文的用户更轻松地使用 Git
+* :clock8: [中文 Git](https://duckduckstudio.github.io/yazicbs.github.io/Tools/chinese_git/)：用中文命令操作 Git，使不熟悉英文的用户更轻松地使用 Git
 * :white_check_mark: [Power by 虚空终端](https://github.com/DuckDuckStudio/power_by_akasha_terminal)：简单的命令行装饰配置，把 Windows 终端变成虚空终端(或其他自定义内容)
 
 ### 2024年4月19号添加
