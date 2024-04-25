@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 ### 2024年4月25日添加
 #### octopus331 - [Github](https://github.com/octopus331)
-* :octopus_ai: [图生代码](https://www.octopus31.com/code/generate)：根据网页截图、网页URL生成前端页面代码
+* :white_check_mark: [图生代码](https://www.octopus31.com/code/generate)：根据网页截图、网页URL生成前端页面代码
 
 ### 2024年4月24日添加
 #### zggsong - [Github](https://github.com/ZGGSONG), [博客](https://zggsong.com)
