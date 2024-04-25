@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月25号添加
+#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+
 ### 2024年4月15号添加
 #### Hu Shenghao (南京) - [Github](https://github.com/hushenghao)
 * :white_check_mark: [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs)：Android 系统复活节彩蛋集合 App，包含了所有 Android 版本的系统彩蛋，并兼容到 Android 5.0 系统

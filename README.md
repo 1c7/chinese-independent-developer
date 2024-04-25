@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月25号添加
+#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+
 ### 2024年4月18日添加
 #### mydearcc - [Github](https://github.com/mydearcc/tools)
 * :white_check_mark: [fly63 工具箱](https://www.fly63.com/tool/home.html)：工具箱集合网站(在线、免费、高效、好用)包含：开发文档、格式转换、加密/解密、站长工具、代码生成、CSS 样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具
