@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月25号添加
+#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+
 ### 2024年4月22号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
 * :clock8: [中文 Git](https://duckduckstudio.github.io/yazicbs.github.io/Tools/chinese_git/)：用中文命令操作 Git，旨在使不熟悉英文的用户更轻松地使用 Git

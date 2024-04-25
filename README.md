@@ -17,9 +17,14 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+
+### 2024年4月25号添加
+#### waylonzheng (深圳) - [博客](https://www.waylon.online/)
+* :white_check_mark: [OVO Tab](https://www.waylon.online/ovotab/newtab.html):管理您的新标签页，支持免费的 ChatGPT、管理书签、海量壁纸、PDF转换、数据云同步等多种功能 - [更多介绍](https://waylon.online/ovo-tab/)
+
 ### 2024年4月25日添加
 #### octopus331 - [Github](https://github.com/octopus331)
-* :white_check_mark: [图生代码](https://www.octopus31.com/code/generate)：根据网页截图、网页URL生成前端页面代码
+* :white_check_mark: [图生代码](https://www.octopus31.com/code/generate)：根据网页截图、网页 URL 生成前端页面代码
 
 ### 2024年4月24日添加
 #### zggsong - [Github](https://github.com/ZGGSONG), [博客](https://zggsong.com)
