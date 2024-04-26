@@ -20,7 +20,7 @@
 
 ### 2024年4月26号添加
 #### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
-- [typing-word](https://typing-word.ttentau.top/): 在电脑上背单词、学英语、练习文章的网站 - [更多介绍](https://github.com/zyronon/typing-word)
+- :white_check_mark: [typing-word](https://typing-word.ttentau.top/): 在电脑上背单词、学英语、练习文章的网站 - [更多介绍](https://github.com/zyronon/typing-word)
 
 ### 2024年4月25号添加
 #### qwqcode(杭州) - [Github](https://github.com/qwqcode)
