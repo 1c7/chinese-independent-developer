@@ -14,6 +14,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月26号添加
+####  zhangdi - [Github](https://github.com/zhangdi168)
+- :white_check_mark: [VitePressSimple-github](https://github.com/zhangdi168/VitePressSimple):基于 Wails2 开发的 Vitepress 可视化写作、可视化配置编辑的客户端工具，助力独立开发者快速搭建自己的产品手册或博客（开源、免费！） - [更多介绍](http://vpsimple.xiaod.co/)
+
+#### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
+- :white_check_mark: [douyin](https://zyronon.gitee.io/douyin/)：Vue3 + Pinia + Vite5 仿抖音，完全度90% (Imitate TikTok with 90% completeness) [更多介绍](https://github.com/zyronon/douyin)
+
 ### 2024年4月25号添加
 #### qwqcode(杭州) - [Github](https://github.com/qwqcode)
 * :white_check_mark: [Artalk](https://artalk.js.org/)：开源博客评论系统 - [更多介绍](https://github.com/ArtalkJS/Artalk)
@@ -408,7 +415,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年11月4号添加
 ---
 #### 何辉(深圳) - [Github](https://github.com/qq475742653)
-* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台+echarts做前端集成演示：所有数据皆出后台报表获取，构造成ECHARTS所需要的JSON数组（一维数据、二维数据、三维数据等），传给前端的ECHARTS，支持大屏显示、实时刷新。展示了24类，上百张echarts报表
+* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台 + ECharts 做前端集成演示：所有数据皆出后台报表获取，构造成 ECharts 所需要的 JSON 数组（一维数据、二维数据、三维数据等），传给前端的 ECharts，支持大屏显示、实时刷新。展示了24类，上百张 ECharts 报表
 
 ### 2019年10月13号添加
 ---
@@ -420,9 +427,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ---
 #### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net)
 * :white_check_mark: [plugin4j](https://github.com/MagicLu550/plugin4j)：简易的统一规范插件开发框架
-* :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏SCP: 秘密实验室创作的Java插件开发框架
-* :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于AES加密的字节码加密解密API和远程授权控制程序
-* :white_check_mark: [oaml](https://github.com/noyark-system/noyark_oaml_java)：oaml配置文件规范解析器
+* :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏 SCP: 秘密实验室创作的Java插件开发框架
+* :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于 AES 加密的字节码加密解密API和远程授权控制程序
+* :white_check_mark: [oaml](https://github.com/noyark-system/noyark_oaml_java)：oaml 配置文件规范解析器
 
 ### 2019年7月7号添加
 ---
@@ -442,7 +449,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### Akkariin - [Github](https://github.com/kasuganosoras), [博客](https://blog.natfrp.org/)
 - :white_check_mark: [Cloudflare Workers Blog](https://blog.natfrp.org/)：利用 Cloudflare workers 边缘计算服务和 Github Pages 实现的无服务器博客系统 - [更多介绍](https://github.com/kasuganosoras/cloudflare-worker-blog)
 - :white_check_mark: [Sakura Frp](https://www.natfrp.org/)：基于 Frp 的免费内网穿透平台
-- :white_check_mark: [Pigeon](https://github.com/kasuganosoras/Pigeon)：一个轻量化的留言板 / 记事本 / 社交系统 / 博客
+- :white_check_mark: [Pigeon](https://github.com/kasuganosoras/Pigeon)：轻量化的留言板 / 记事本 / 社交系统 / 博客
 
 ### 2019年5月21号添加
 ---
@@ -456,7 +463,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年4月20号添加
 ---
 #### xiaohulu - [GitHub](https://github.com/blocklang)
-* :white_check_mark: [BlockLang-Installer](https://github.com/blocklang/blocklang-installer)：一款自动化部署工具，专用于部署 Spring boot 项目
+* :white_check_mark: [BlockLang-Installer](https://github.com/blocklang/blocklang-installer)：自动化部署工具，专用于部署 Spring boot 项目
 
 ### 2019年4月19号添加
 ---
