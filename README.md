@@ -20,7 +20,7 @@
 
 ### 2024年4月28号添加
 #### Shalom(上海) - [Github](https://github.com/shalom-lab), [博客](https://blog.rlearner.com)
-* :white_check_mark:[微思文稿](https://vslide.cn/dataviz/)：零代码快速制作交互式数据可视化图表
+* :white_check_mark: [微思文稿](https://vslide.cn/dataviz/)：零代码快速制作交互式数据可视化图表
 
 #### ShurshanX（成都）- [Github](https://github.com/ShurshanX) 
 - :white_check_mark: [AI Image Description Generator](https://imagedescriptiongenerator.xyz/)：精准提取图片中的主要元素，解读图片创作目的；可用于科研、艺术创作中图文互搜领域
@@ -283,7 +283,7 @@
 
 ### 2024年3月1号添加
 #### TrumanDu(西安) - [Github](https://github.com/TrumanDu), [博客](http://blog.trumandu.top/)
-* :white_check_mark: [Toolkit](http://toolkit.trumandu.top/)：一个极简、插件化的工具集！utools 对标开源版
+* :white_check_mark: [Toolkit](http://toolkit.trumandu.top/)：极简、插件化的工具集！utools 对标开源版
 
 #### morestrive(武汉) - [Github](https://github.com/dromara/yft-design)  
 * :white_check_mark: [yft在线设计](https://yft.design)：基于 canvas 的开源版【稿定设计】。  导入稿定 PDF 模板完美还原，导入PSD，支持导出为图片/PDF/SVG - [更多介绍](https://github.com/dromara/yft-design)
@@ -430,7 +430,7 @@
 * :white_check_mark: [一休](https://apps.apple.com/cn/app/%E4%B8%80%E4%BC%91-%E4%BC%91%E6%81%AF%E4%B8%80%E4%BC%9A%E5%84%BF/id6467176005)：macOS 休息提醒工具
 
 #### menglike - [Github](https://github.com/menglike)
-* :white_check_mark: [免费API共享平台](https://www.liangmlk.cn)：给广大开发者提供一个免费 API 共享平台,目前共计 400+ 个API接口，欢迎大家使用
+* :white_check_mark: [免费API共享平台](https://www.liangmlk.cn)：给广大开发者提供免费 API 共享平台,目前共计 400+ 个API接口，欢迎大家使用
 
 
 ### 2023年12月14号添加
@@ -866,7 +866,7 @@
 ### 2023年1月24号添加
 ---
 #### shartoo - [Github](https://github.com/shartoo)
-* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：一个<b>管理</b>和<b>分享</b>优质网站收藏的网站，不仅限于博客，希望包含全网各个领域 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-1400422591)
+* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：管理和分享优质网站收藏的网站，不仅限于博客，希望包含全网各个领域 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-1400422591)
 
 ### 2023年1月22号添加
 ---
@@ -888,10 +888,10 @@
 * :white_check_mark: [make-money](https://make-money.hanzhengrong.cn)：好用的 PC 端理财工具系统（基金） - [更多介绍](https://github.com/hzr1140521792/make-money-fund)
 
 #### dsy4567 - [Github](https://github.com/dsy4567)
-* :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 一个能干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
+* :white_check_mark: [防沉迷终结者](https://fcmsb250.github.io/) - 干掉防沉迷, 帮助您实现游戏自由的浏览器扩展
 
 #### meetqy(成都) - [Github](https://github.com/meetqy/eagleuse)
-* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (一个管理 UI 素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
+* :white_check_mark: [eagleuse](https://rao.pics) - 把 Eagle App (管理 UI 素材/图片的桌面应用) 打造成本地后台管理系统，快速构建 WEB 图片站。
 
 ### 2023年1月12号添加
 ---
@@ -969,13 +969,13 @@
 ### 2022年12月2号添加
 ---
 #### Vio(深圳) - [Github](https://github.com/vioao),[博客](https://blog.vioao.site/)
-* :white_check_mark: [智能水印工具箱](https://github.com/vioao)：一个图片/短视频处理的 AI 小程序。能够一键去水印、画质增强、背景移除、图集提取。
-* :white_check_mark: [临时邮箱小助手](https://github.com/vioao)：一个提供临时、安全、匿名、免费的一次性电子邮箱的小程序。支持自定义邮箱地址和附件下载。
+* :white_check_mark: [智能水印工具箱](https://github.com/vioao)：图片/短视频处理的 AI 小程序。能够一键去水印、画质增强、背景移除、图集提取。
+* :white_check_mark: [临时邮箱小助手](https://github.com/vioao)：提供临时、安全、匿名、免费的一次性电子邮箱的小程序。支持自定义邮箱地址和附件下载。
 
 ### 2022年11月30号添加
 ---
 #### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong),
-* :white_check_mark: [UnderThink](https://underthink.cc/)：一个危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
+* :white_check_mark: [UnderThink](https://underthink.cc/)：危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
 
 ### 2022年11月16号添加
 ---
@@ -1035,7 +1035,7 @@
 ### 2022年7月14号添加
 ---
 #### sorakylin(广州) - [Github](https://github.com/sorakylin), [博客](https://www.skypyb.com/2022/07/rizhi/suibi/1996/)
-* :white_check_mark: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是一个能让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
+* :white_check_mark: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
 
 ### 2022年6月17号添加
 ---
@@ -2473,7 +2473,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :x: [开发者秘籍](https://dev-cheats.com/)：系统的开发者指南、教程
 
 #### Caldis - [GitHub](https://github.com/Caldis)
-* :x: [Mos](http://mos.u2sk.com/)：一个在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
+* :x: [Mos](http://mos.u2sk.com/)：在 MacOS 上平滑鼠标滚动效果与单独设置滚动方向的小工具 - [更多介绍](https://github.com/Caldis/Mos)
 
 #### neal1991 - [GitHub](https://github.com/neal1991)
 * :x: [上海地铁线路图](https://neal1991.github.io/subway-shanghai)：上海地铁线路图，包括站点时刻表信息，卫生间信息，出入口信息，无障碍电梯信息
@@ -2540,7 +2540,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [Monkey for GitHub](https://itunes.apple.com/cn/app/monkey-for-github/id1003765407)：以 GitHub 排名为主的 GitHub App，支持iOS/Android - [更多介绍](https://github.com/coderyi/Monkey)
 
 #### bugulink - [GitHub](https://github.com/bugulink)
-* :white_check_mark: [BuguLink](https://bugu.link)：一个快速安全的文件分享网站
+* :white_check_mark: [BuguLink](https://bugu.link)：快速安全的文件分享网站
 
 #### Larry - [码力全开科技工作室](http://maliquankai.com)
 * :white_check_mark: [MiniHour](https://itunes.apple.com/us/app/minihour/id1383208731?mt=8)：时刻关注你的目标时间 - [更多介绍](http://maliquankai.com/2018/05/24/2018-05-24-minihour-product/)
