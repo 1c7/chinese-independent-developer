@@ -14,8 +14,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年4月28号添加
+#### hzn6426 - [Github](https://github.com/hzn6426)
+- :white_check_mark: [Snapper 权限系统微服务版](https://github.com/hzn6426/snam-boot) 专注系统权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
+- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snam-standalone) 专注系统权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 snapper/123456
+
 ### 2024年4月26号添加
-####  zhangdi - [Github](https://github.com/zhangdi168)
+#### zhangdi - [Github](https://github.com/zhangdi168)
 - :white_check_mark: [VitePressSimple-github](https://github.com/zhangdi168/VitePressSimple):基于 Wails2 开发的 Vitepress 可视化写作、可视化配置编辑的客户端工具，助力独立开发者快速搭建自己的产品手册或博客（开源、免费！） - [更多介绍](http://vpsimple.xiaod.co/)
 
 #### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
