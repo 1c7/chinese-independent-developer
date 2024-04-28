@@ -19,7 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年4月28号添加
-#### ShurshanX（成都）- [**Github**](https://github.com/ShurshanX) 
+#### Shalom(上海) - [Github](https://github.com/shalom-lab), [博客](https://blog.rlearner.com)
+* :white_check_mark:[微思文稿](https://vslide.cn/dataviz/)：零代码快速制作交互式数据可视化图表
+
+#### ShurshanX（成都）- [Github](https://github.com/ShurshanX) 
 - :white_check_mark: [AI Image Description Generator](https://imagedescriptiongenerator.xyz/)：精准提取图片中的主要元素，解读图片创作目的；可用于科研、艺术创作中图文互搜领域
 
 #### 谢广志 - [Twitter](https://twitter.com/Lumosous)
