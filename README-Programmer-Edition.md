@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年4月28号添加
 #### kisslove - [Github](https://github.com/kisslove/web-monitoring)
-- :white_check_mark:[前端性能监控平台](https://hubing.online/)：(开源)日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据
+- :white_check_mark: [前端性能监控平台](https://hubing.online/)：日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据（开源）
 
 #### hzn6426 - [Github](https://github.com/hzn6426)
 - :white_check_mark: [Snapper 权限系统微服务版](https://github.com/hzn6426/snam-boot) 专注系统权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
@@ -24,7 +24,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年4月26号添加
 #### zhangdi - [Github](https://github.com/zhangdi168)
-- :white_check_mark: [VitePressSimple-github](https://github.com/zhangdi168/VitePressSimple):基于 Wails2 开发的 Vitepress 可视化写作、可视化配置编辑的客户端工具，助力独立开发者快速搭建自己的产品手册或博客（开源、免费！） - [更多介绍](http://vpsimple.xiaod.co/)
+- :white_check_mark: [VitePressSimple](https://github.com/zhangdi168/VitePressSimple):基于 Wails2 开发的 Vitepress 可视化写作、可视化配置编辑的客户端工具，助力独立开发者快速搭建自己的产品手册或博客（开源、免费！） - [更多介绍](http://vpsimple.xiaod.co/)
 
 #### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
 - :white_check_mark: [douyin](https://zyronon.gitee.io/douyin/)：Vue3 + Pinia + Vite5 仿抖音，完全度90% (Imitate TikTok with 90% completeness) [更多介绍](https://github.com/zyronon/douyin)
@@ -462,7 +462,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年5月21号添加
 ---
 #### ChineseBQB - [Github](https://github.com/zhaoolee/ChineseBQB)
-- :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 这是一个专门用于收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
+- :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
 
 ---
 #### CloudOpenDevOps - [Github](https://github.com/opendevops-cn/opendevops)
@@ -489,7 +489,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年4月12号添加
 ---
 #### star7th(深圳) - [Github](https://github.com/star7th)
-* :white_check_mark: [ShowDoc](https://www.showdoc.cc/)：非常适合IT团队的在线API文档、技术文档工具 - [更多介绍](https://github.com/star7th/showdoc)
+* :white_check_mark: [ShowDoc](https://www.showdoc.cc/)：非常适合 IT 团队的在线API文档、技术文档工具 - [更多介绍](https://github.com/star7th/showdoc)
 
 ### 2019年4月11号添加
 ---
