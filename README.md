@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月28号添加
+#### 谢广志 - [Twitter](https://twitter.com/Lumosous)
+- :white_check_mark: [小作卡片](https://kosaku.imxie.club/)：专为生成优雅的卡片而设计的 App
+- :white_check_mark: [几枝](https://jz.imxie.club/)：小众诗词应用
+
 ### 2024年4月26号添加
 #### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
 - :white_check_mark: [typing-word](https://typing-word.ttentau.top/): 在电脑上背单词、学英语、练习文章的网站 - [更多介绍](https://github.com/zyronon/typing-word)
