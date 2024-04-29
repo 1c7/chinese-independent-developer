@@ -2749,7 +2749,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
 #### 像素君
-* :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
+* :x: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### wichna
 * :white_check_mark: [Paybase](https://paybase.cn)：专注于支付领域的垂直论坛 - [更多介绍](https://paybase.cn/d/35-paybase)
