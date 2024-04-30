@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年4月30号添加
+#### Aissen - [Github](https://github.com/AissenLiu)
+* :white_check_mark: [IP Address Lookup](https://ipaddress.fun/)：IP 地址查询工具（免费快捷），展示全面的 IP 信息（地理位置、连接信息、安全信息、货币、时区、经纬度等）
+
 ### 2024年4月28号添加
 #### Shalom(上海) - [Github](https://github.com/shalom-lab), [博客](https://blog.rlearner.com)
 * :white_check_mark: [微思文稿](https://vslide.cn/dataviz/)：零代码快速制作交互式数据可视化图表
