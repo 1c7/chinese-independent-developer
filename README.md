@@ -121,7 +121,7 @@
 
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
-* :white_check_mark: [海棠诗社](https://pocketpoetry.club)：古诗词学习和创作的网站，数据丰富，界面干净，全站响应式布局，兼容移动端，支持暗黑模式，支持诗词搜索
+* :white_check_mark: [海棠诗社](https://haitang.app)：古诗词学习和创作的网站，数据丰富，界面干净，支持全局搜索、每日一诗、暗黑模式、诗词收藏，兼容移动端。
 
 ### 2024年4月14日添加
 #### 为大宝宝（北京）
