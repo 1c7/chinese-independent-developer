@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月1号添加
+#### yvonuk - [推特](https://twitter.com/mcwangcn)
+* :white_check_mark: [iMessage AI 助手](https://stockai.trade/chat)：无需安装 App，无需翻墙，用苹果设备的 iMessage 直接与原生 ChatGPT 对话
+
 ### 2024年4月30号添加
 #### Dilettante258(南京) - [Github](https://github.com/Dilettante258)
 * :white_check_mark: [tieba-toolbox](https://tbt.dilettante258.cyou/)：贴吧工具箱 (Node.js 全栈实现)，可查发言和数据可视化，二开 API 接口已开源，高性能的爬虫替代 - [更多介绍](https://github.com/Dilettante258/tieba-toolbox)
