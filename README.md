@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月5号添加
+#### wish - [Github](https://github.com/Shouheng88), [掘金](https://juejin.cn/user/3685218704691469)
+- :white_check_mark: [英语汪](https://meiyan.tech/app/home?app=english&lang=en)：英语单词查询、句子翻译和复习工具，个人英语单词本。应用基于热力图设计，支持 Android 和 iOS 版本，支持沉浸式翻译和文字扫描。
+- :white_check_mark: [言叶](https://meiyan.tech/app/home?app=note&lang=zh_CN)：Android 笔记软件、Markdown 笔记、快速笔记，支持云同步，笔记以 md 或者其他格式文件的形式进行存储，支持多层级目录和标签两种笔记管理方式，可以用来和其他平台的笔记软件通过数据同步搭配使用。
+- :white_check_mark: [Any Secret](https://apps.apple.com/cn/app/any-secret/id6448714682)：适用于 iOS 平台的密码管理软件，支持云同步、独立密码。
+
 ### 2024年5月1号添加
 #### yvonuk - [推特](https://twitter.com/mcwangcn)
 * :white_check_mark: [iMessage AI 助手](https://stockai.trade/chat)：无需安装 App，无需翻墙，用苹果设备的 iMessage 直接与原生 ChatGPT 对话
