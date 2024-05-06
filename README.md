@@ -18,6 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月6号添加
+#### fengfeng(成都) - [Github](https://github.com/iOSFDTeam), [官网](https://dreamforge.top)
+* :white_check_mark: [梦幻工坊](https://apps.apple.com/cn/app/id6483932773)：AI 绘画，基于MJ/SD/DallE，免翻墙，免费
+
+#### handsometong(厦门) - [Twitter](https://twitter.com/Handsometo45560)
+* :white_check_mark: [ImageTools](https://ai-image.tools)：去除肖像背景、去除常见物体背景以及替换背景等功能的免费 AI 工具
+
+#### 星辰(吉林) - [博客](https://lvxianchao.com)
+* :white_check_mark: [微寻](https://weixunlogin.com)：为个人网站提供微信扫码登录能力
+
 ### 2024年5月5号添加
 #### wish - [Github](https://github.com/Shouheng88), [掘金](https://juejin.cn/user/3685218704691469)
 - :white_check_mark: [英语汪](https://meiyan.tech/app/home?app=english&lang=en)：英语单词查询、句子翻译和复习工具，个人英语单词本。应用基于热力图设计，支持 Android 和 iOS 版本，支持沉浸式翻译和文字扫描。
