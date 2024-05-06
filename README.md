@@ -22,6 +22,10 @@
 #### fengfeng(成都) - [Github](https://github.com/iOSFDTeam), [官网](https://dreamforge.top)
 * :white_check_mark: [梦幻工坊](https://apps.apple.com/cn/app/id6483932773)：AI 绘画，基于MJ/SD/DallE，免翻墙，免费
 
+#### rookie-luochao - [Github](https://github.com/rookie-luochao)
+* :white_check_mark: [openapi-ui](http://www.openapi-ui.com/login)：基于 swagger/openapi 规范的接口文档和接口测试工具，支持后端框架接入，平替 swagger-ui，欢迎 pr 一起共同建设
+* :white_check_mark: [openapi-ui-postman](http://www.openapi-ui.com/postman)：简化版 postman 接口测试工具，无需登录
+
 #### handsometong(厦门) - [Twitter](https://twitter.com/Handsometo45560)
 * :white_check_mark: [ImageTools](https://ai-image.tools)：去除肖像背景、去除常见物体背景以及替换背景等功能的免费 AI 工具
 
