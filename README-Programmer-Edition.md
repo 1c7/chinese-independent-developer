@@ -18,6 +18,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### Bess Croft(武汉) - [Github](https://github.com/besscroft), [博客](https://besscroft.com/)
 * :white_check_mark: [PicImpact](https://github.com/besscroft/PicImpact)：摄影佬专用 ⌈相片集⌋，基于 Next.js 开发。
 
+#### rookie-luochao - [Github](https://github.com/rookie-luochao)
+* :white_check_mark: [openapi-ui](https://github.com/rookie-luochao/openapi-ui) 基于 swagger/openapi 规范的接口文档和接口测试工具, 支持后端框架接入，平替 swagger-ui，欢迎 pr 一起共同建设
+* :white_check_mark: [go-openapi-ui](https://github.com/rookie-luochao/go-openapi-ui) openapi-ui 的 golang 实现，支持常用 golang 后端开发框架，例如：gin、fiber、echo(欢迎提 pr 补充其他 golang 后端框架)，欢迎补充其他编程语言的后端框架接入包
+
 ### 2024年4月28号添加
 #### kisslove - [Github](https://github.com/kisslove/web-monitoring)
 - :white_check_mark: [前端性能监控平台](https://hubing.online/)：日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据（开源）
