@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月9号添加
+#### Q-Sansan
+* :white_check_mark: [Brick Center](https://www.brickcenter.net/)：如果您是一位乐高爱好者，热衷与创造各种乐高形象，BrickCenter 可以将您的创意，自动生成乐高设计图。AI 乐高生成器可以将你的文字转换成定制的乐高套装。轻松地从照片创建你自己的小人偶，如果您觉得乐高头像很酷，也可以将您的自拍图片，生成乐高头像。还可以来网站浏览由爱好者精心制作的独一无二的乐高作品 - [更多介绍](https://www.bilibili.com/video/BV1VS411c7oG)
+
 ### 2024年5月6号添加
 #### fengfeng(成都) - [Github](https://github.com/iOSFDTeam), [官网](https://dreamforge.top)
 * :white_check_mark: [梦幻工坊](https://apps.apple.com/cn/app/id6483932773)：AI 绘画，基于MJ/SD/DallE，免翻墙，免费
