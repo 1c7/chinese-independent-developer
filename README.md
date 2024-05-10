@@ -147,9 +147,6 @@
 #### eilong (昆明) - [Github](https://github.com/nniai/ViBoard)
 * :white_check_mark: [ViBoard](https://nniai.com)：跨平台数据可视化大屏软件，让高端图表不再依赖开发人员、数据库和服务器。
 
-#### Hikayo（北京）
-* :white_check_mark: [了然清单](https://apps.apple.com/cn/app/id6474304009)：P 型人友好的待办 App，不仅能一目了然地轻松管理日常生活，还可以智能匹配 Emoji 和标签
-
 ### 2024年4月15日添加
 #### javayhu（深圳）- [Github](https://github.com/javayhu)
 * :white_check_mark: [海棠诗社](https://haitang.app)：古诗词学习和创作的网站，数据丰富，界面干净，支持全局搜索、每日一诗、暗黑模式、诗词收藏，兼容移动端。
