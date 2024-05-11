@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月11号添加
+#### bairdhh(武汉) - [Github](https://github.com/huhan-123)
+* :white_check_mark: [Rap Generator](https://rapgenerator.net/)：生成说唱歌词和歌曲的免费 AI 工具，用户可以输入提示词，选择情绪，生成符合描述的个性化的歌词，并可以根据歌词选择免费创建两首定制的说唱歌曲。可以免费下载和收听人工智能生成的说唱歌曲。希望让每一个 Rap 音乐爱好者能轻松地创作自己喜欢的音乐
+
 ### 2024年5月9号添加
 #### Q-Sansan
 * :white_check_mark: [Brick Center](https://www.brickcenter.net/)：如果您是一位乐高爱好者，热衷与创造各种乐高形象，BrickCenter 可以将您的创意，自动生成乐高设计图。AI 乐高生成器可以将你的文字转换成定制的乐高套装。轻松地从照片创建你自己的小人偶，如果您觉得乐高头像很酷，也可以将您的自拍图片，生成乐高头像。还可以来网站浏览由爱好者精心制作的独一无二的乐高作品 - [更多介绍](https://www.bilibili.com/video/BV1VS411c7oG)
