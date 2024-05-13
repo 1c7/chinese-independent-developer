@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月13号添加
+#### azhubaby（上海） - [Github](https://github.com/johanazhu), [博客](https://blog.azhubaby.com/)
+* :white_check_mark: [中国色](https://chinese-colors.com)：中国传统色，后续会添加故宫色等功能
+
 ### 2024年5月11号添加
 #### bairdhh(武汉) - [Github](https://github.com/huhan-123)
 * :white_check_mark: [Rap Generator](https://rapgenerator.net/)：生成说唱歌词和歌曲的免费 AI 工具，用户可以输入提示词，选择情绪，生成符合描述的个性化的歌词，并可以根据歌词选择免费创建两首定制的说唱歌曲。可以免费下载和收听人工智能生成的说唱歌曲。希望让每一个 Rap 音乐爱好者能轻松地创作自己喜欢的音乐
