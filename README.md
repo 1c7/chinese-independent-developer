@@ -22,7 +22,7 @@
 
 ### 2024年5月13号添加
 #### kisslove
-* :white_check_mark: [中国独立开发者项目列表](https://developer.hubing.online/home)：基于本项目数据制作的网页版（备注：网站的开发者为第三方，和本仓库的拥有者无关） - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/353)
+* :white_check_mark: [中国独立开发者项目列表（网页版)](https://developer.hubing.online/home)：基于本项目数据制作的网页版（备注：网站开发者为第三方，因为喜爱本项目提供的信息所以开发了网页版，此网站和本仓库的拥有者无关，双方没有合作关系，本列表将永久以 Github 仓库形式存在，请读者不要误会，本项目不会做商业化运作） - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/353)
 
 #### azhubaby（上海） - [Github](https://github.com/johanazhu), [博客](https://blog.azhubaby.com/)
 * :white_check_mark: [中国色](https://chinese-colors.com)：中国传统色，后续会添加故宫色等功能
