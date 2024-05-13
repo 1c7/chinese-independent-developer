@@ -18,7 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+
 ### 2024年5月13号添加
+#### kisslove
+* :white_check_mark: [中国独立开发者项目列表](https://developer.hubing.online/home)：第三方开发者基于本项目数据制作出来的网页版 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/353)
+
 #### azhubaby（上海） - [Github](https://github.com/johanazhu), [博客](https://blog.azhubaby.com/)
 * :white_check_mark: [中国色](https://chinese-colors.com)：中国传统色，后续会添加故宫色等功能
 
