@@ -22,8 +22,11 @@
 
 ### 2024年5月13号添加
 
+#### gofxas - [Github](https://github.com/gofxas)
+* :white_check_mark: [厨房定时器](https://timing.cpdd.cool/)：针对移动端，滑动操作。
+
 #### fengmao(广州) - [Github](https://github.com/fengmao)
-* :white_check_mark: [APK DOWNLOAD](https://apk.bot/)：免费的安卓apk下载站，无广告绿色版，完美替代google play store - [更多介绍](https://apk.bot/faq/)
+* :white_check_mark: [APK DOWNLOAD](https://apk.bot/)：安卓 apk 下载站 (免费)，无广告绿色版，完美替代 Google Play Store - [更多介绍](https://apk.bot/faq/)
 
 #### hacker233(成都) - [Github](https://github.com/Hacker233/resume-design), [博客](https://juejin.cn/post/7121691642469285918#comment)
 * :white_check_mark: [91化简-开源简历设计制作神器](https://91huajian.cn/)：内置两款设计器、快速设计、简历、封面、海报均可免费制作，支持一键导出高清 PDF、JSON 数据等 - [更多介绍](https://github.com/Hacker233/resume-design)
