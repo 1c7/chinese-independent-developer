@@ -18,10 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-
+### 2024年5月14号添加
+#### nini22P - [GitHub](https://github.com/nini22P)
+* :white_check_mark: [OMP](https://nini22p.github.io/omp/)：网页端 OneDrive 媒体播放器
 
 ### 2024年5月13号添加
-
 #### gofxas - [Github](https://github.com/gofxas)
 * :white_check_mark: [厨房定时器](https://timing.cpdd.cool/)：针对移动端，滑动操作。
 
