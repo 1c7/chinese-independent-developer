@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月15号添加
+#### wells2333(广州) - [Github](https://github.com/wells2333/sg-exam)
+* :white_check_mark: [sg-exam](https://yunmianshi.com.cn/#/home)：教学管理平台（便捷、高效)，涵盖在线考试、日常练习、互动学习等核心功能。
+
+#### Aissen
+* :white_check_mark: [Miko AI 翻译](https://chatmiko.com)：AI翻译工具，每次支持 10 万字，30 种语言，次数不限且完全免费
+
 ### 2024年5月14号添加
 #### nini22P - [GitHub](https://github.com/nini22P)
 * :white_check_mark: [OMP](https://nini22p.github.io/omp/)：网页端 OneDrive 媒体播放器
