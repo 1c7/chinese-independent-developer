@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月16号添加
+#### luhaifeng666 - [Github](https://github.com/luhaifeng666)
+* :white_check_mark: [Bunpou](https://luhaifeng666.github.io/bunpou/): 日语语法整理，收录N5-N1阶段的语法，目前在持续更新。
+* :white_check_mark: [Kana playground](https://luhaifeng666.github.io/kana-playground/): 用于练习假名的网站，适合日语学习新手。
+
 ### 2024年5月15号添加
 #### wells2333(广州) - [Github](https://github.com/wells2333/sg-exam)
 * :white_check_mark: [sg-exam](https://yunmianshi.com.cn/#/home)：教学管理平台（便捷、高效)，涵盖在线考试、日常练习、互动学习等核心功能。
