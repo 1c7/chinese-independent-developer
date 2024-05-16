@@ -19,8 +19,14 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月16号添加
+#### jiao (杭州)
+* :white_check_mark: [小咪影视](https://tv.loufubao.com)：给大家提供无广告、无登录、更新及时的影视网站。
+
+#### 诸葛子房
+* :white_check_mark: [bilibili 视频下载谷歌浏览器插件](https://chromewebstore.google.com/detail/bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E2%80%94%E2%80%94%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/bjoodghhkboffngfjancdaplbjjibjnp?hl=zh-CN&authuser=0)：bilibili 视频和封面下载 - [更多介绍](https://www.bilibili.com/video/BV1Xm421T7ns/?spm_id_from=333.999.0.0)
+
 #### luhaifeng666 - [Github](https://github.com/luhaifeng666)
-* :white_check_mark: [Bunpou](https://luhaifeng666.github.io/bunpou/): 日语语法整理，收录N5-N1阶段的语法，目前在持续更新。
+* :white_check_mark: [Bunpou](https://luhaifeng666.github.io/bunpou/): 日语语法整理，收录 N5-N1 阶段的语法，目前在持续更新。
 * :white_check_mark: [Kana playground](https://luhaifeng666.github.io/kana-playground/): 用于练习假名的网站，适合日语学习新手。
 
 ### 2024年5月15号添加
