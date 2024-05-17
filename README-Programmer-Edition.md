@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年5月17号添加
+#### lalilu (深圳) - [Github](https://github.com/cy745)
+* :white_check_mark: [LMusic](https://github.com/cy745/LMusic)：简洁好看，回归听歌本质的本地音乐播放器
+
 ### 2024年5月6号添加
 #### Bess Croft(武汉) - [Github](https://github.com/besscroft), [博客](https://besscroft.com/)
 * :white_check_mark: [PicImpact](https://github.com/besscroft/PicImpact)：摄影佬专用 ⌈相片集⌋，基于 Next.js 开发。
