@@ -22,10 +22,6 @@
 #### Dataflare - [X/Twitter](https://x.com/DataflareApp)
 * :white_check_mark: [Dataflare](https://dataflare.app)：简单、易于使用的数据库管理工具，支持 `PostgreSQL` `MySQL` `SQLite` `SQL Server` `libSQL` `Cloudflare D1` 等数十种数据库。
 
-### 2024年5月16号添加
-#### jiao (杭州)
-* :white_check_mark: [小咪影视](https://tv.loufubao.com)：给大家提供无广告、无登录、更新及时的影视网站。
-
 #### 诸葛子房
 * :white_check_mark: [bilibili 视频下载谷歌浏览器插件](https://chromewebstore.google.com/detail/bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E2%80%94%E2%80%94%E6%9C%80%E6%96%B0%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/bjoodghhkboffngfjancdaplbjjibjnp?hl=zh-CN&authuser=0)：bilibili 视频和封面下载 - [更多介绍](https://www.bilibili.com/video/BV1Xm421T7ns/?spm_id_from=333.999.0.0)
 
