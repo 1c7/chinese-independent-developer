@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月20号添加
+#### Dataflare - [X/Twitter](https://x.com/DataflareApp)
+* :white_check_mark: [AIMangaTranslator](https://aimangatranslator.com/)：用 AI 翻译漫画 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2120097059)
+
 ### 2024年5月17号添加
 #### Dataflare - [X/Twitter](https://x.com/DataflareApp)
 * :white_check_mark: [Dataflare](https://dataflare.app)：简单、易于使用的数据库管理工具，支持 `PostgreSQL` `MySQL` `SQLite` `SQL Server` `libSQL` `Cloudflare D1` 等数十种数据库。
