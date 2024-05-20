@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月20号添加
-#### Dataflare - [X/Twitter](https://x.com/DataflareApp)
+#### sagasu - [Github](https://github.com/s87343472)
 * :white_check_mark: [AIMangaTranslator](https://aimangatranslator.com/)：用 AI 翻译漫画 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2120097059)
 
 ### 2024年5月17号添加
