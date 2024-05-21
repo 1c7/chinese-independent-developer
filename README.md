@@ -19,6 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月21号添加
+#### 诸葛子房
+* :white_check_mark: [小宇宙播客下载谷歌浏览器插件](https://chromewebstore.google.com/detail/%E5%B0%8F%E5%AE%87%E5%AE%99%E6%92%AD%E5%AE%A2%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E5%85%8D%E8%B4%B9%E6%92%AD%E5%AE%A2%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/fmhjloodnnppohffjjpjghekafcjdgml?hl=zh-CN&authuser=0)：小宇宙播客下载 - [使用教程](https://www.bilibili.com/video/BV1BM4m1k7Ph/)
+* :white_check_mark: [小红书视频封面下载谷歌浏览器插件](https://chromewebstore.google.com/detail/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A7%86%E9%A2%91%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E5%85%8D%E8%B4%B9%E8%A7%86%E9%A2%91%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/lfkdbogbagdclonopjbdbclpagbkdfal?hl=zh-CN&authuser=0)：小红书视频封面下载 - [使用教程](https://www.bilibili.com/video/BV1Gz421e7rA/?spm_id_from=333.999.0.0)
+
 #### Larry Zhu - [Github](https://github.com/LarryZhu-dev)
 * :white_check_mark: [AutoFit 浏览器插件](https://chromewebstore.google.com/detail/autofit/ablniobpojpaihhohacpjhgcbnkhmfeo?hl=zh-CN&utm_source=ext_sidebar)：使网页根据浏览器窗口缩放
 
