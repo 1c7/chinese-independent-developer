@@ -19,8 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月21号添加
-#### LarryZhu-dev
-* :white_check_mark: [AutoFit 浏览器插件](https://chromewebstore.google.com/detail/autofit/ablniobpojpaihhohacpjhgcbnkhmfeo?hl=zh-CN&utm_source=ext_sidebar) 使网页根据浏览器窗口缩放
+#### Larry Zhu - [Github](https://github.com/LarryZhu-dev)
+* :white_check_mark: [AutoFit 浏览器插件](https://chromewebstore.google.com/detail/autofit/ablniobpojpaihhohacpjhgcbnkhmfeo?hl=zh-CN&utm_source=ext_sidebar)：使网页根据浏览器窗口缩放
 
 ### 2024年5月20号添加
 #### sagasu - [Github](https://github.com/s87343472)
