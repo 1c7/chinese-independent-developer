@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月22号添加
+#### 倒霉狐狸 [Github](https://github.com/evildao)
+* :white_check_mark: [便签喵](https://www.zhimiaox.cn/images/bqm.jpg) 一款联动桌面设备的便签待办小工具
+
 #### 诸葛喵 (宁波)
 * :white_check_mark: [千盒工具](https://1000tool.com/)：简洁好用，优质在线工具大全，包含图片/音视频/文本/办公/开发等类目。
 
