@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月22号添加
+#### 诸葛喵 (宁波)
+* :white_check_mark: [千盒工具](https://1000tool.com/)：简洁好用，优质在线工具大全，包含图片/音视频/文本/办公/开发等类目。
+
 ### 2024年5月21号添加
 #### 诸葛子房
 * :white_check_mark: [小宇宙播客下载谷歌浏览器插件](https://chromewebstore.google.com/detail/%E5%B0%8F%E5%AE%87%E5%AE%99%E6%92%AD%E5%AE%A2%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94%E5%85%8D%E8%B4%B9%E6%92%AD%E5%AE%A2%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/fmhjloodnnppohffjjpjghekafcjdgml?hl=zh-CN&authuser=0)：小宇宙播客下载 - [使用教程](https://www.bilibili.com/video/BV1BM4m1k7Ph/)
