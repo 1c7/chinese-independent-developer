@@ -18,10 +18,6 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024年5月23号添加
-#### LIGHT CHASER - [Github](https://github.com/xiaopujun)
-* :white_check_mark: [xiaopujun(DAGU)](https://github.com/xiaopujun/light-chaser)：开源、免费、简单、高效的web端数据可视化设计工具。可用于数据分析、数据看板、数据大屏等（内置蓝图事件编辑器）
-
 #### 倒霉狐狸 - [Github](https://github.com/evildao)
 * :white_check_mark: [便签喵](https://www.zhimiaox.cn/images/bqm.jpg)：联动桌面设备的便签待办小工具(微信小程序)
 
