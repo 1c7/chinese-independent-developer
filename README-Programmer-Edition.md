@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年5月23号添加
+#### LIGHT CHASER - [Github](https://github.com/xiaopujun)
+* :white_check_mark: [xiaopujun(DAGU)](https://github.com/xiaopujun/light-chaser)：开源、免费、简单、高效的 Web 端数据可视化设计工具。可用于数据分析、数据看板、数据大屏等（内置蓝图事件编辑器）
+
 ### 2024年5月17号添加
 #### lalilu (深圳) - [Github](https://github.com/cy745)
 * :white_check_mark: [LMusic](https://github.com/cy745/LMusic)：简洁好看，回归听歌本质的本地音乐播放器
