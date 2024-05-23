@@ -19,8 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年5月23号添加
-#### 倒霉狐狸 [Github](https://github.com/evildao)
-* :white_check_mark: [便签喵](https://www.zhimiaox.cn/images/bqm.jpg) 一款联动桌面设备的便签待办小工具(微信小程序)
+#### 倒霉狐狸 - [Github](https://github.com/evildao)
+* :white_check_mark: [便签喵](https://www.zhimiaox.cn/images/bqm.jpg)：联动桌面设备的便签待办小工具(微信小程序)
 
 ### 2024年5月22号添加
 #### Yefei(苏州)
