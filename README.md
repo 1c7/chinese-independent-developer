@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年5月24号添加
+#### 李铁军 - [Github](https://github.com/margox)
+* :white_check_mark: [好说](https://haoshuo.jianli.online/)：二次元AI口语陪练，支持英语、日语、韩语、法语(APP)
+
 ### 2024年5月23号添加
 #### 倒霉狐狸 - [Github](https://github.com/evildao)
 * :white_check_mark: [便签喵](https://www.zhimiaox.cn/images/bqm.jpg)：联动桌面设备的便签待办小工具(微信小程序)
