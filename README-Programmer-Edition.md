@@ -14,6 +14,71 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年5月23号添加
+#### LIGHT CHASER - [Github](https://github.com/xiaopujun)
+* :white_check_mark: [xiaopujun(DAGU)](https://github.com/xiaopujun/light-chaser)：开源、免费、简单、高效的 Web 端数据可视化设计工具。可用于数据分析、数据看板、数据大屏等（内置蓝图事件编辑器）
+
+### 2024年5月17号添加
+#### lalilu (深圳) - [Github](https://github.com/cy745)
+* :white_check_mark: [LMusic](https://github.com/cy745/LMusic)：简洁好看，回归听歌本质的本地音乐播放器
+
+### 2024年5月6号添加
+#### Bess Croft(武汉) - [Github](https://github.com/besscroft), [博客](https://besscroft.com/)
+* :white_check_mark: [PicImpact](https://github.com/besscroft/PicImpact)：摄影佬专用 ⌈相片集⌋，基于 Next.js 开发。
+
+#### rookie-luochao - [Github](https://github.com/rookie-luochao)
+* :white_check_mark: [openapi-ui](https://github.com/rookie-luochao/openapi-ui) 基于 swagger/openapi 规范的接口文档和接口测试工具, 支持后端框架接入，平替 swagger-ui，欢迎 pr 一起共同建设
+* :white_check_mark: [go-openapi-ui](https://github.com/rookie-luochao/go-openapi-ui) openapi-ui 的 golang 实现，支持常用 golang 后端开发框架，例如：gin、fiber、echo(欢迎提 pr 补充其他 golang 后端框架)，欢迎补充其他编程语言的后端框架接入包
+
+### 2024年4月28号添加
+#### kisslove - [Github](https://github.com/kisslove/web-monitoring)
+- :white_check_mark: [前端性能监控平台](https://hubing.online/)：日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据（开源）
+
+#### hzn6426 - [Github](https://github.com/hzn6426)
+- :white_check_mark: [Snapper 权限系统微服务版](https://github.com/hzn6426/snam-boot) 专注系统权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
+- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snam-standalone) 专注系统权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 snapper/123456
+
+### 2024年4月26号添加
+#### zhangdi - [Github](https://github.com/zhangdi168)
+- :white_check_mark: [VitePressSimple](https://github.com/zhangdi168/VitePressSimple):基于 Wails2 开发的 Vitepress 可视化写作、可视化配置编辑的客户端工具，助力独立开发者快速搭建自己的产品手册或博客（开源、免费！） - [更多介绍](http://vpsimple.xiaod.co/)
+
+#### zyronon - [Github](https://github.com/zyronon), [博客](https://juejin.cn/user/377887729139502/posts)
+- :white_check_mark: [douyin](https://zyronon.gitee.io/douyin/)：Vue3 + Pinia + Vite5 仿抖音，完全度90% (Imitate TikTok with 90% completeness) [更多介绍](https://github.com/zyronon/douyin)
+
+### 2024年4月25号添加
+#### qwqcode(杭州) - [Github](https://github.com/qwqcode)
+* :white_check_mark: [Artalk](https://artalk.js.org/)：开源博客评论系统 - [更多介绍](https://github.com/ArtalkJS/Artalk)
+
+### 2024年4月22号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [中文 Git](https://duckduckstudio.github.io/yazicbs.github.io/Tools/chinese_git/)：用中文命令操作 Git，使不熟悉英文的用户更轻松地使用 Git
+* :white_check_mark: [Power by 虚空终端](https://github.com/DuckDuckStudio/power_by_akasha_terminal)：简单的命令行装饰配置，把 Windows 终端变成虚空终端(或其他自定义内容)
+
+### 2024年4月19号添加
+#### wujunwei928(北京) - [Github](https://github.com/wujunwei928)
+* :white_check_mark: [edge-tts-go](https://github.com/wujunwei928/edge-tts-go)：基于微软 Edge 浏览器的大声朗读接口，开发的 TTS 文字转语音 Golang 工具，包含晓晓、云扬、云希等"网红主播"。
+* :white_check_mark: [parse-video](https://github.com/wujunwei928/parse-video)：Golang 短视频去水印工具：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,Acfun,好看视频等
+
+### 2024年4月15号添加
+#### Hu Shenghao (南京) - [Github](https://github.com/hushenghao)
+* :white_check_mark: [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs)：Android 系统复活节彩蛋集合 App，包含了所有 Android 版本的系统彩蛋，并兼容到 Android 5.0 系统
+
+### 2024年4月9号添加
+#### lonnywong - [Github](https://github.com/trzsz/trzsz), [博客](https://trzsz.github.io/)
+* :white_check_mark: [trzsz](https://github.com/trzsz/trzsz)：trzsz ( trz / tsz ) 优秀的文件传输工具，和 lrzsz ( rz / sz ) 类似的、兼容 tmux 的文件传输工具 - [更多介绍](https://trzsz.github.io/)
+
+### 2024年3月18号添加
+#### 程序员鱼皮 - [Github](https://github.com/liyupi)
+* :white_check_mark: [Yuindex](https://github.com/liyupi/yuindex)：极客范儿的浏览器主页 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+* :white_check_mark: [AI 自动回复工具](https://github.com/liyupi/yu-auto-reply)：可用于知识星球的 AI 问答机器人﻿
+
+### 2024年3月13号添加
+#### chaos-zhu [GitHub](https://github.com/chaos-zhu)
+* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：简易的个人 Linux 服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
+
+### 2024年3月9号添加
+#### work7z [GitHub](https://github.com/work7z)
+* :clock8: [LafTools工具箱](https://github.com/work7z/LafTools)：免费安全开源跨平台的程序员工具箱，涵盖各类转换加解密解析等功能，还提供常用开发手册和资源页。除此之外，还将不断融入AI、笔记、时间管理等功能加入到这个工具箱，旨在帮助程序员更快更好的完成手头上的工作，期待成为程序员界的瑞士军刀 - [更多介绍](https://my.laf-tools.com)
 
 ### 2024年2月2日添加
 ---
@@ -52,7 +117,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年11月27日添加
 ---
 #### Leo Song(上海) - [Github](https://github.com/LHRUN/bubble)
-* :white_check_mark: [Bubble](https://bubble-awesome-profile.vercel.app/)：一款收录 Github Profile 和 Readme Component 的网站
+* :white_check_mark: [Bubble](https://bubble-awesome-profile.vercel.app/)：收录 Github Profile 和 Readme Component 的网站
 
 ### 2023年11月2日添加
 ---
@@ -131,7 +196,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2023年6月29号添加
 ---
-#### tomsun28(绵阳) - [Github](https://github.com/tomsun28). 
+#### tomsun28(绵阳) - [Github](https://github.com/tomsun28).
 * :white_check_mark: [HertzBeat](https://hertzbeat.com/)：[开源实时监控工具](https://github.com/dromara/hertzbeat) + [云服务](https://console.tancloud.cn/), 支持对应用网站，数据库，操作系统，中间件，云原生，网络等的监控告警通知，类似于 Zabbix 和 Prometheus - [更多介绍](https://github.com/dromara/hertzbeat)
 
 ### 2023年6月16号添加
@@ -162,17 +227,17 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年3月2号添加
 ---
 #### S1NH - [博客](http://s1nh.org/)
-* :white_check_mark: [gpu-based-image-stitching](https://github.com/duchengyao/gpu-based-image-stitching)：一个快速图像拼接算法 -  [介绍1](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/), [介绍2](http://s1nh.org/post/image-stitching-post-process/)
+* :white_check_mark: [gpu-based-image-stitching](https://github.com/duchengyao/gpu-based-image-stitching)：快速图像拼接算法 -  [介绍1](http://s1nh.org/post/A-survey-on-image-mosaicing-techniques/), [介绍2](http://s1nh.org/post/image-stitching-post-process/)
 
 ### 2023年2月23号添加
 ---
 #### 方楠(合肥) - [Github](https://github.com/Fangnan700), [博客](https://www.yvling.top/)
-* :white_check_mark: [AI-aides](https://github.com/Fangnan700/AI-aides)：一个基于接入了 ChatGPT 的人工智能助手。
+* :white_check_mark: [AI-aides](https://github.com/Fangnan700/AI-aides)：接入了 ChatGPT 的人工智能助手。
 
 ### 2023年2月10号添加
 ---
 #### 一刀(杭州) - [Github](https://github.com/laosanyuan)
-* :white_check_mark: [DaoLang](https://github.com/laosanyuan/DaoLang)：简单易用的C#客户端多语言国际化应用框架
+* :white_check_mark: [DaoLang](https://github.com/laosanyuan/DaoLang)：简单易用的 C# 客户端多语言国际化应用框架
 
 ### 2023年1月26号添加
 ---
@@ -192,7 +257,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年1月13号添加
 ---
 #### dsy4567 - [Github](https://github.com/dsy4567)
-* :white_check_mark: [4399 on vscode](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode) - 在 vscode 上玩 4399 小游戏, 帮助你劳逸结合, 提高开发效率
+* :white_check_mark: [4399 on vscode](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode) - 在 VScode 上玩 4399 小游戏, 帮助你劳逸结合, 提高开发效率
 
 ### 2023年1月11日添加
 ---
@@ -206,7 +271,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年1月9日添加
 ---
 #### 释慧利(上海) - [Github](https://github.com/shihuili1218)
-* :clock8:  [Klein](https://github.com/shihuili1218/klein)：🔥 Klein 是一个基于 Paxos 的分布式集合工具库，包括分布式 ArrayList、分布式 HashMap、分布式缓存、分布式锁等。
+* :clock8:  [Klein](https://github.com/shihuili1218/klein)：基于 Paxos 的分布式集合工具库，包括分布式 ArrayList、分布式 HashMap、分布式缓存、分布式锁等。
 
 ### 2023年1月7日添加
 ---
@@ -222,28 +287,28 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2022年11月12日添加
 ---
 #### zhennann（健哥/郑州） - [Github](https://github.com/zhennann)
-* :white_check_mark: [CabloyJS](https://github.com/zhennann/cabloy): CabloyJS 是一款自带工作流引擎的 Node.js 全栈框架，一款面向开发者的低代码开发平台，更是一款兼具低代码的开箱即用和专业代码的灵活定制的 PAAS 平台。
+* :white_check_mark: [CabloyJS](https://github.com/zhennann/cabloy): 自带工作流引擎的 Node.js 全栈框架，面向开发者的低代码开发平台，更是一款兼具低代码的开箱即用和专业代码的灵活定制的 PAAS 平台
 
 
 ### 2022年5月18日添加
 ---
 #### haoziqaq(成都/无锡) - [Github](https://github.com/haoziqaq)
-* :white_check_mark: [Varlet UI](https://github.com/varletjs/varlet)：一个基于 Vue3 开发的 Material 风格移动端组件库。
+* :white_check_mark: [Varlet UI](https://github.com/varletjs/varlet)：基于 Vue3 开发的 Material 风格移动端组件库。
 
 ### 2022年3月12号添加
 ---
 #### mnikn(广州) - [Github](https://github.com/mnikn)
-* :white_check_mark: [General Data Manager](https://github.com/mnikn/general-data-manager)：一个通用配置数据管理软件，能够根据数据格式自定义定制对应的编辑面板。支持 json 数据的可视化。
+* :white_check_mark: [General Data Manager](https://github.com/mnikn/general-data-manager)：通用配置数据管理软件，能够根据数据格式自定义定制对应的编辑面板。支持 JSON 数据的可视化
 
 ### 2022年2月21号添加
 ---
 #### Yxliam(广州) - [Github](https://github.com/Yxliam)
-* :white_check_mark: [优工具](https://www.toolbon.com/)：一个在线工具箱。
+* :white_check_mark: [优工具](https://www.toolbon.com/)：在线工具箱
 
 ### 2022年1月29号添加
 ---
 #### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
-* :white_check_mark: [蝉语](https://cicada-lang.org)：一个可以用来形式化数学定理的程序语言。
+* :white_check_mark: [蝉语](https://cicada-lang.org)：形式化数学定理的程序语言。
 
 ### 2021年11月11号添加
 ---
@@ -270,7 +335,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2021年8月26号添加
 ---
 #### montisan(长沙) - [Github](https://github.com/montisan)
-* :white_check_mark: [极客编辑器](https://www.geekeditor.com)：极客编辑器是一个所见即所得（WYSIWYG）富文本沉浸式深度写作编辑器，它注重效率创作，可多开文档编辑，同时支持Markdown语法输入。它重视写作者内容隐私及数据安全，目前已支持浏览器本地、Github及Gitee仓库文档存储，支持 Github、Gitee 仓库图片资源存储。在线版访问：[https://www.geekeditor.com](https://www.geekeditor.com) 。当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以一键复制到微信公众号、知乎及掘金等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
+* :white_check_mark: [极客编辑器](https://www.geekeditor.com)：所见即所得（WYSIWYG）富文本沉浸式深度写作编辑器，它注重效率创作，可多开文档编辑，同时支持Markdown语法输入。它重视写作者内容隐私及数据安全，目前已支持浏览器本地、Github及Gitee仓库文档存储，支持 Github、Gitee 仓库图片资源存储。在线版访问：[https://www.geekeditor.com](https://www.geekeditor.com) 。当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以一键复制到微信公众号、知乎及掘金等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
 
 ### 2021年5月20号添加
 ---
@@ -310,7 +375,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2020年6月30号添加
 ---
 #### doho(北京) - [Github](https://github.com/zwh1666258377)
-* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：一个将 Gitbook 导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)
+* :white_check_mark: [gitbook2spa](https://github.com/tigergraph/gitbook2spa)：将 Gitbook 导出的原数据转换成单页面应用的工具，像素级还原。 - [更多介绍](https://github.com/tigergraph/gitbook2spa)
 
 ### 2020年4月14号添加
 ---
@@ -363,7 +428,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 
 #### Jiang-Xuan(Hangzhou) - [Github](https://github.com/Jiang-Xuan)
-* :white_check_mark: [tuchuang.space](https://github.com/Jiang-Xuan/tuchuang.space)：一个测试驱动的开源图床系统, 免费存储图片
+* :white_check_mark: [tuchuang.space](https://github.com/Jiang-Xuan/tuchuang.space)：测试驱动的开源图床系统, 免费存储图片
 
 ### 2019年11月21号添加
 ---
@@ -374,21 +439,21 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年11月4号添加
 ---
 #### 何辉(深圳) - [Github](https://github.com/qq475742653)
-* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台+echarts做前端集成演示：所有数据皆出后台报表获取，构造成ECHARTS所需要的JSON数组（一维数据、二维数据、三维数据等），传给前端的ECHARTS，支持大屏显示、实时刷新。展示了24类，上百张echarts报表
+* :white_check_mark: [皕杰报表](http://www.headset.xin/BIOSREP/)：做后台 + ECharts 做前端集成演示：所有数据皆出后台报表获取，构造成 ECharts 所需要的 JSON 数组（一维数据、二维数据、三维数据等），传给前端的 ECharts，支持大屏显示、实时刷新。展示了24类，上百张 ECharts 报表
 
 ### 2019年10月13号添加
 ---
 #### panjf2000(潘少) - [Github](https://github.com/panjf2000), [博客](https://taohuawu.club/)
-* :white_check_mark: [gnet](https://github.com/panjf2000/gnet)：一个高性能且轻量级的 Go 网络框架
-* :white_check_mark: [ants](https://github.com/panjf2000/ants)：一个高性能的 Go 协程池，已在字节跳动的线上使用
+* :white_check_mark: [gnet](https://github.com/panjf2000/gnet)：高性能且轻量级的 Go 网络框架
+* :white_check_mark: [ants](https://github.com/panjf2000/ants)：高性能的 Go 协程池，已在字节跳动的线上使用
 
 ### 2019年9月15号添加
 ---
 #### magiclu(青岛) - [Github](https://github.com/MagicLu550),[博客](http://blog.noyark.net)
 * :white_check_mark: [plugin4j](https://github.com/MagicLu550/plugin4j)：简易的统一规范插件开发框架
-* :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏SCP: 秘密实验室创作的Java插件开发框架
-* :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于AES加密的字节码加密解密API和远程授权控制程序
-* :white_check_mark: [oaml](https://github.com/noyark-system/noyark_oaml_java)：oaml配置文件规范解析器
+* :white_check_mark: [JSmod2](https://github.com/jsmod2-java-c/JSmod2-Core)：基于游戏 SCP: 秘密实验室创作的Java插件开发框架
+* :white_check_mark: [edclass4j](https://github.com/MagicLu550/edclass4j)：基于 AES 加密的字节码加密解密API和远程授权控制程序
+* :white_check_mark: [oaml](https://github.com/noyark-system/noyark_oaml_java)：oaml 配置文件规范解析器
 
 ### 2019年7月7号添加
 ---
@@ -408,12 +473,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### Akkariin - [Github](https://github.com/kasuganosoras), [博客](https://blog.natfrp.org/)
 - :white_check_mark: [Cloudflare Workers Blog](https://blog.natfrp.org/)：利用 Cloudflare workers 边缘计算服务和 Github Pages 实现的无服务器博客系统 - [更多介绍](https://github.com/kasuganosoras/cloudflare-worker-blog)
 - :white_check_mark: [Sakura Frp](https://www.natfrp.org/)：基于 Frp 的免费内网穿透平台
-- :white_check_mark: [Pigeon](https://github.com/kasuganosoras/Pigeon)：一个轻量化的留言板 / 记事本 / 社交系统 / 博客
+- :white_check_mark: [Pigeon](https://github.com/kasuganosoras/Pigeon)：轻量化的留言板 / 记事本 / 社交系统 / 博客
 
 ### 2019年5月21号添加
 ---
 #### ChineseBQB - [Github](https://github.com/zhaoolee/ChineseBQB)
-- :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 这是一个专门用于收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
+- :white_check_mark: [ChineseBQB](https://zhaoolee.github.io/ChineseBQB/)：中国人聊天表情包大集合, 收录表情包的仓库, 所有收录的表情包均可在线查看下载! - [更多介绍](https://github.com/zhaoolee/ChineseBQB/blob/master/README.md)
 
 ---
 #### CloudOpenDevOps - [Github](https://github.com/opendevops-cn/opendevops)
@@ -422,17 +487,17 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年4月20号添加
 ---
 #### xiaohulu - [GitHub](https://github.com/blocklang)
-* :white_check_mark: [BlockLang-Installer](https://github.com/blocklang/blocklang-installer)：一款自动化部署工具，专用于部署 Spring boot 项目
+* :white_check_mark: [BlockLang-Installer](https://github.com/blocklang/blocklang-installer)：自动化部署工具，专用于部署 Spring boot 项目
 
 ### 2019年4月19号添加
 ---
 #### xianfeng92 - [Github](https://github.com/xianfeng92)
-* :white_check_mark: [Love-Ethereum](https://github.com/xianfeng92/Love-Ethereum)：一个关于区块链技术的学习项目 - [更多介绍](https://github.com/xianfeng92/Love-Ethereum/blob/master/version/Frontier.md)
+* :white_check_mark: [Love-Ethereum](https://github.com/xianfeng92/Love-Ethereum)：关于区块链技术的学习项目 - [更多介绍](https://github.com/xianfeng92/Love-Ethereum/blob/master/version/Frontier.md)
 
 ### 2019年4月15号添加
 ---
 #### yutiansut - [Github](https://github.com/yutiansut)
-* :white_check_mark: [QUANTAXIS](https://github.com/quantaxis/quantaxis)：一个股票/期货/多市场的闭环解决方案
+* :white_check_mark: [QUANTAXIS](https://github.com/quantaxis/quantaxis)：股票/期货/多市场的闭环解决方案
 
 #### zhanghuanchong - [Github](https://github.com/zhanghuanchong)
 * :white_check_mark: [icon-workshop](https://github.com/zhanghuanchong/icon-workshop)：移动应用图标生成工具，一键生成所有尺寸的应用图标
@@ -440,12 +505,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2019年4月12号添加
 ---
 #### star7th(深圳) - [Github](https://github.com/star7th)
-* :white_check_mark: [ShowDoc](https://www.showdoc.cc/)：一个非常适合IT团队的在线API文档、技术文档工具 - [更多介绍](https://github.com/star7th/showdoc)
+* :white_check_mark: [ShowDoc](https://www.showdoc.cc/)：非常适合 IT 团队的在线API文档、技术文档工具 - [更多介绍](https://github.com/star7th/showdoc)
 
 ### 2019年4月11号添加
 ---
 #### Wang Shidong - [Github](https://github.com/wsdjeg)
-* :white_check_mark: [SpaceVim](https://spacevim.org/)：一个模块化、支持多种编程语言的 Vim 开发环境 - [更多介绍](https://github.com/SpaceVim/SpaceVim)
+* :white_check_mark: [SpaceVim](https://spacevim.org/)：模块化、支持多种编程语言的 Vim 开发环境 - [更多介绍](https://github.com/SpaceVim/SpaceVim)
 
 #### Aquanlerou - [Github](https://github.com/aquanlerou), [博客](https://blog.eunji.cn)
 * :white_check_mark: [WeHalo](https://github.com/aquanlerou/WeHalo)：WeHalo 简约风 的微信小程序版博客 :sparkles:
