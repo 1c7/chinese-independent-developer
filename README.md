@@ -18,6 +18,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2024年5月28号添加
+#### 微芒计划 - [Github](https://github.com/kestrela)
+* :white_check_mark: [微芒计划](https://kestrel-task.cn)：简洁方便的效率待办管理工具
+
+#### fantingsheng - [Github](https://github.com/fantingsheng)
+* :white_check_mark: [封面图](https://spacexcode.com/coverview)：封面图在线制作工具
+
 ### 2024年5月24号添加
 #### 刚师傅 - [Github](https://github.com/margox)
 * :white_check_mark: [好说](https://haoshuo.jianli.online/)：二次元AI口语陪练，支持英语、日语、韩语、法语(APP)
