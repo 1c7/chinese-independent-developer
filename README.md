@@ -20,7 +20,7 @@
 
 
 ### 2024年5月28号添加
-#### 微芒计划 - [Github](https://github.com/kestrela)
+#### Kestrel - [Github](https://github.com/kestrela)
 * :white_check_mark: [微芒计划](https://kestrel-task.cn)：简洁方便的效率待办管理工具
 
 #### fantingsheng - [Github](https://github.com/fantingsheng)
@@ -28,7 +28,7 @@
 
 ### 2024年5月24号添加
 #### 刚师傅 - [Github](https://github.com/margox)
-* :white_check_mark: [好说](https://haoshuo.jianli.online/)：二次元AI口语陪练，支持英语、日语、韩语、法语(APP)
+* :white_check_mark: [好说](https://haoshuo.jianli.online/)：二次元 AI 口语陪练，支持英语、日语、韩语、法语(APP)
 
 ### 2024年5月23号添加
 #### 倒霉狐狸 - [Github](https://github.com/evildao)
