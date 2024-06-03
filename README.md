@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月3号添加
+#### heora(天津) - [Github](https://github.com/yzqzy)
+* :white_check_mark: [微信助手](https://github.com/yzqzy/wechat-assistant)：支持群发消息、定时任务、消息防撤回、聊天记录备份等功能 - [更多介绍](https://yzqzy.github.io/wechat-assistant/features.html)
+
 
 ### 2024年5月28号添加
 #### Kestrel - [Github](https://github.com/kestrela)
