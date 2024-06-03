@@ -20,7 +20,7 @@
 
 ### 2024年6月3号添加
 #### 禄眠(杭州)
-* :white_check_mark: [原色](https://r0jo31c9rsb.feishu.cn/docx/YcSzdcXkGoymXbxsJIAcWB7ZnwU)：简洁的颜色查询工具，基于中国传统色 - [更多介绍](https://r0jo31c9rsb.feishu.cn/docx/YcSzdcXkGoymXbxsJIAcWB7ZnwU)
+* :white_check_mark: [原色](https://r0jo31c9rsb.feishu.cn/docx/YcSzdcXkGoymXbxsJIAcWB7ZnwU)：简洁的颜色查询工具，基于中国传统色
 
 #### heora(天津) - [Github](https://github.com/yzqzy)
 * :white_check_mark: [微信助手](https://github.com/yzqzy/wechat-assistant)：支持群发消息、定时任务、消息防撤回、聊天记录备份等功能 - [更多介绍](https://yzqzy.github.io/wechat-assistant/features.html)
