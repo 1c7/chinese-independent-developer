@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年6月4号添加
 #### 0x676e67 - [Github](https://github.com/0x676e67)
-* [vproxy](https://github.com/0x676e67/vproxy)：简单而强大的 Rust HTTP/Socks5 代理，允许使用从 CIDR 地址计算的 IP 绑定发起网络请求 - [更多介绍](https://github.com/0x676e67/vproxy)
+* :white_check_mark: [vproxy](https://github.com/0x676e67/vproxy)：简单而强大的 Rust HTTP/Socks5 代理，允许使用从 CIDR 地址计算的 IP 绑定发起网络请求 - [更多介绍](https://github.com/0x676e67/vproxy)
 
 ### 2024年5月29号添加
 #### 鬼画符 - [主页](http://www.guanleiming.com)
@@ -84,7 +84,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年3月13号添加
 #### chaos-zhu [GitHub](https://github.com/chaos-zhu)
-* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：简易的个人 Linux 服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
+* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：简易的个人 Linux 服务器 ssh 管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
 
 ### 2024年3月9号添加
 #### work7z [GitHub](https://github.com/work7z)
@@ -103,7 +103,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2024年1月12日添加
 ---
 #### Aooohan(北京) - [主页](https://github.com/aooohan)
-* :white_check_mark: [VersionFox](https://github.com/version-fox/vfox)：跨平台、可拓展的 SDK 版本管理工具, 支持Nodejs、Java、Dart、Flutter等多种SDK.
+* :white_check_mark: [VersionFox](https://github.com/version-fox/vfox)：跨平台、可拓展的 SDK 版本管理工具, 支持 Nodejs、Java、Dart、Flutter 等多种SDK.
 
 ### 2023年12月18日添加
 ---
