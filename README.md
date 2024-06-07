@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月7号添加
+#### G (广东) - [Github](https://github.com/Subdue0)
+* :white_check_mark: [全王探测-直播源搜索神器](https://isus.cc/)：针对特定的区域范围进行 IP 探测，挖掘互联网中的价值 IP，相当于增强版 [fofa](https://fofa.info/)。内置多种功能：直播源搜索，直播源解析，直播源探测，直播源追踪，也支持非直播源的其他类型的IP查找，如漏洞捕获、优选IP、CDN 溯源等 - [更多介绍](https://isus.cc/frontend/about)
+
 ### 2024年6月6号添加
 #### 猫九壁纸（广州） - [Github](https://github.com/xiaocp)
 * :white_check_mark: [猫九壁纸精选](http://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cat9.jpeg)：精选高清手机壁纸、美女壁纸、情侣壁纸、锁屏壁纸、头像、表情包、风景壁纸、情侣头像。(微信小程序)
