@@ -19,6 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年6月14号添加
+
+#### Godow - [GitHub](https://github.com/Godow)
+* :white_check_mark: [html2image](https://html2image.online/)：通过提供的在线代码编辑器，轻松将 HTML 和 CSS 代码转换为及时预览图像，并可以下载存储为 SVG、PNG 和 JPEG 格式的图像文件
+
 #### jpgHi / IDjpg（广州）
 * :white_check_mark: [jpgHi 图片魔法放大](https://jpghi.com)：无损放大加增强图片，恢复图像极致细节和纹理
 * :white_check_mark: [IDjpg 图片风格化](https://idjpg.com)：将人像图片转换成任意风格，同时保持人物一致性
