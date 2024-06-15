@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月14号添加
+#### jpgHi / IDjpg（广州）
+* :white_check_mark: [jpgHi 图片魔法放大](https://jpghi.com)：无损放大加增强图片，恢复图像极致细节和纹理
+* :white_check_mark: [IDjpg 图片风格化](https://idjpg.com)：将人像图片转换成任意风格，同时保持人物一致性
+
 ### 2024年6月7号添加
 #### wtechec(北京) - [Github](https://github.com/WtecHtec), [博客](https://blog.csdn.net/weixin_42429220?spm=1010.2135.3001.5343)
 * :white_check_mark: [HelthPal](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)：自定义健康提醒以及多色便签条提醒功能的 Chrome 插件
