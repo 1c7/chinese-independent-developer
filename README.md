@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月17号添加
+#### 秦少卫(邯郸) - [Github](https://github.com/nihaojob), [博客](https://juejin.cn/user/3843548383549214/posts)
+* :white_check_mark: [快图批量图片设计工具](https://www.kuaitu.cc/)：可通过表格 + 设计模板来批量生成图片 - [更多介绍](https://www.bilibili.com/video/BV12m421375X/#reply1605907760)
+
 ### 2024年6月14号添加
 
 #### Godow - [GitHub](https://github.com/Godow)
