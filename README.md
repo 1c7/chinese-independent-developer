@@ -20,7 +20,7 @@
 
 ### 2024年6月18号添加
 #### Civilpy(西安) - [Github](https://github.com/yeayee), [博客](https://intumu.com/)
-* :white_check_mark: [Trace - 封装QQ+微信聊天记录分析的Windows桌面应用](https://github.com/yeayee/Trace)：封装QQ+微信聊天记录分析、B站、小红书竞调数据分析、Selenium+谷歌浏览器（准指纹浏览器，不限登录账号数量）
+* :white_check_mark: [Trace](https://github.com/yeayee/Trace)：封装 QQ + 微信聊天记录分析的 Windows 桌面应用，封装 QQ + 微信聊天记录分析、B站、小红书竞调数据分析、Selenium+谷歌浏览器（准指纹浏览器，不限登录账号数量）
 
 * :white_check_mark: [aifly.tools](https://aifly.tools/)：最好的 AI 工具站 - 收集最全最新的 AI 工具站
 
