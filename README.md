@@ -19,8 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年6月18号添加
-* :white_check_mark: [aifly.tools](https://aifly.tools/)：最好的AI工具站 - 收集最全最新的AI工具站
+#### Civilpy(西安) - [Github](https://github.com/yeayee), [博客](https://intumu.com/)
+* :white_check_mark: [Trace - 封装QQ+微信聊天记录分析的Windows桌面应用](https://github.com/yeayee/Trace)：封装QQ+微信聊天记录分析、B站、小红书竞调数据分析、Selenium+谷歌浏览器（准指纹浏览器，不限登录账号数量）
 
+* :white_check_mark: [aifly.tools](https://aifly.tools/)：最好的 AI 工具站 - 收集最全最新的 AI 工具站
 
 ### 2024年6月17号添加
 #### 秦少卫(邯郸) - [Github](https://github.com/nihaojob), [博客](https://juejin.cn/user/3843548383549214/posts)
