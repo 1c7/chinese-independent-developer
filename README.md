@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月19号添加
+#### 诸葛子房
+* :white_check_mark: [小红书去水印图片视频下载](https://www.xhs-download.online/)：小红书去水印图片视频下载工具网站
+
+#### 没想好(北京) - [Github](https://github.com/shixixiyue/MermaidHelp), [博客](https://blog.shizhuoran.top/)
+* :white_check_mark: [MermaidHelp](https://mermaid.shizhuoran.top/)：Mermaid + AI绘制流程图，免翻墙，免费，目前用的 KIMI
+
 ### 2024年6月18号添加
 #### Civilpy(西安) - [Github](https://github.com/yeayee), [博客](https://intumu.com/)
 * :white_check_mark: [Trace](https://github.com/yeayee/Trace)：封装 QQ + 微信聊天记录分析的 Windows 桌面应用，封装 QQ + 微信聊天记录分析、B站、小红书竞调数据分析、Selenium+谷歌浏览器（准指纹浏览器，不限登录账号数量）
