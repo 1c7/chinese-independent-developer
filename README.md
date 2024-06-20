@@ -18,6 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月20号添加
+#### August - [Github](https://github.com/august-xu)
+* :white_check_mark: [Case Convert Online](https://convertcase.indiehacker.online/)：英文大小写转换工具
+
+#### someu
+* :white_check_mark: [AigoTools](https://www.aigotools.com)：导航站，用 AI 自动收录网站信息 - [更多介绍](https://github.com/someu/aigotools/)
+
+#### qiaolin(长沙) - [Github](https://github.com/qiaolin-li)
+* :white_check_mark: [Dubbo-Desktop-Manager](https://github.com/qiaolin-li/dubbo-desktop-manager)：Dubbo 的桌面管理软件
+
 ### 2024年6月19号添加
 #### 诸葛子房
 * :white_check_mark: [小红书去水印图片视频下载](https://www.xhs-download.online/)：小红书去水印图片视频下载工具网站
