@@ -19,6 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年6月20号添加
+#### hsslive - [Github](https://github.com/galaxy-s10), [博客](https://www.hsslive.cn)
+* :white_check_mark: [billd-live](https://live.hsslive.cn)：仿 B 站的个人直播间
+* :white_check_mark: [billd-desk](https://desk.hsslive.cn)：仿 todesk 的远程桌面
+
 #### August - [Github](https://github.com/august-xu)
 * :white_check_mark: [Case Convert Online](https://convertcase.indiehacker.online/)：英文大小写转换工具
 
