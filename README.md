@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月21号添加
+#### Q-Sansan
+* :white_check_mark: [PixarAI](https://www.pixarai.com/)：为您最喜欢的角色或宠物 生成令人惊叹的迪士尼皮克斯风格的海报。
+
 ### 2024年6月20号添加
 #### hsslive - [Github](https://github.com/galaxy-s10), [博客](https://www.hsslive.cn)
 * :white_check_mark: [billd-live](https://live.hsslive.cn)：仿 B 站的个人直播间
