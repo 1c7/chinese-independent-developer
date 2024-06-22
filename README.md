@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月22号添加
+#### wtechtec(北京) - [Github](https://github.com/WtecHtec), [博客](https://blog.csdn.net/weixin_42429220?spm=1000.2115.3001.5343)
+* :white_check_mark: [saysnap](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?authuser=0&hl=zh-CN)：Chrome 插件，帮助用户在网上冲浪时轻松发现并保存有趣的观点和句子到卡片中。
+* :white_check_mark: [Group Tab Tree](https://marketplace.visualstudio.com/items?itemName=Herzshen.mgtab)：VSCode插件，帮助用户轻松找到自己打开的Tab标签。
+
 ### 2024年6月21号添加
 #### Q-Sansan
 * :white_check_mark: [PixarAI](https://www.pixarai.com/)：为您最喜欢的角色或宠物 生成令人惊叹的迪士尼皮克斯风格的海报。
