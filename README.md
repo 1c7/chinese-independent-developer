@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月23号添加
+* :white_check_mark: [m3u8下载器](https://github.com/youwen21/flybird-m3u8downloader)：下载m3u8视频、直播、批量检测 IPTV m3u8有效性，release有安装包。 支持 Windows,MacOS 双系统。
+
+  
 ### 2024年6月22号添加
 #### wtechtec(北京) - [Github](https://github.com/WtecHtec), [博客](https://blog.csdn.net/weixin_42429220?spm=1000.2115.3001.5343)
 * :white_check_mark: [saysnap](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?authuser=0&hl=zh-CN)：Chrome 插件，帮助用户在网上冲浪时轻松发现并保存有趣的观点和句子到卡片中。
