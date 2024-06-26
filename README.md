@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年6月26号添加
+#### Chaosflutter - [Github](https://github.com/chaosflutter), [博客](https://zhengchao.dev)
+* :white_check_mark: [Siphon 吸词](https://siphon.ink/)，安装 siphon 浏览器插件后，在线英文阅读中如果遇到生词，只要双击单词即可翻译并自动加入到生词本中，记录生词的同时会记录上下文句子。然后可以在 siphon 网站通过多种方式复习生词。 能够帮用户养成微习惯：双击查单词->自动收藏单词->卡片复习记忆。更多功能介绍可以参见 [siphon 文档](https://siphon.ink/docs/)。
+
 ### 2024年6月24号添加
 #### Johnny Yang - [Github](https://github.com/yangbishang)
 * :white_check_mark: [AITOOLIST](https://aitoolist.com/)：AI信息聚合平台，在一个网站获取所有AI信息 -  [更多介绍](https://x.com/yangbishang)
