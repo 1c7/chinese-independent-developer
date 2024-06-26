@@ -19,15 +19,18 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年6月26号添加
+#### 路人甲 - [Github](https://github.com/mumuy)
+* :white_check_mark: [亲戚称呼计算器](https://passer-by.com/relationship/) “中国亲戚关系计算器”为你避免了叫错、不会叫亲戚的尴尬，收录了中国亲戚关系称呼大全，只需简单的输入即可完成称呼计算。称呼计算器同时兼容了不同地域的方言叫法，你可以称呼父亲为：“老爸”、“爹地”、“老爷子”等等。让您准确的叫出亲戚称谓，理清亲属之间的亲戚关系，轻松掌握中国式的亲戚关系换算，让你更了解中国文化 - [更多介绍](https://github.com/mumuy/relationship)
+
 #### Chaosflutter - [Github](https://github.com/chaosflutter), [博客](https://zhengchao.dev)
-* :white_check_mark: [Siphon 吸词](https://siphon.ink/)，安装 siphon 浏览器插件后，在线英文阅读中如果遇到生词，只要双击单词即可翻译并自动加入到生词本中，记录生词的同时会记录上下文句子。然后可以在 siphon 网站通过多种方式复习生词。 能够帮用户养成微习惯：双击查单词->自动收藏单词->卡片复习记忆。更多功能介绍可以参见 [siphon 文档](https://siphon.ink/docs/)。
+* :white_check_mark: [Siphon 吸词](https://siphon.ink/)，安装 siphon 浏览器插件后，在线英文阅读中如果遇到生词，只要双击单词即可翻译并自动加入到生词本中，记录生词的同时会记录上下文句子。然后可以在 siphon 网站通过多种方式复习生词。 能够帮用户养成微习惯：双击查单词->自动收藏单词->卡片复习记忆 - [更多介绍](https://siphon.ink/docs/)。
 
 ### 2024年6月24号添加
 #### Johnny Yang - [Github](https://github.com/yangbishang)
 * :white_check_mark: [AITOOLIST](https://aitoolist.com/)：AI信息聚合平台，在一个网站获取所有AI信息 -  [更多介绍](https://x.com/yangbishang)
 
 ### 2024年6月23号添加
-* :white_check_mark: [m3u8下载器](https://github.com/youwen21/flybird-m3u8downloader)：下载m3u8视频、直播、批量检测 IPTV m3u8有效性，release有安装包。 支持 Windows,MacOS 双系统。
+* :white_check_mark: [m3u8下载器](https://github.com/youwen21/flybird-m3u8downloader)：下载m3u8视频、直播、批量检测 IPTV m3u8 有效性，release有安装包。 支持 Windows, macOS 系统。
 
 ### 2024年6月22号添加
 #### wtechtec(北京) - [Github](https://github.com/WtecHtec), [博客](https://blog.csdn.net/weixin_42429220?spm=1000.2115.3001.5343)
