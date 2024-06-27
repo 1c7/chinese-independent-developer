@@ -18,9 +18,9 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024年6月26号添加
+### 2024年6月27号添加
 #### Andres Rivas - [Github](https://github.com/AndresRivas0)
-* :white_check_mark: [微软 tts Text-to-Speech 文字转语音下载器](https://www.microsoft-tts-downloader.com)：一键播放或 下载 微软 TTS 文字转语音 合成的音频。支持所有官方提供的语音和声音选项。支持SSML语法。每月享免费用量。量大者可升级Pro plan，固定便宜费用无限使用。摒弃按量收费。支持支付宝。 -  [更多介绍](https://www.microsoft-tts-downloader.com)
+* :white_check_mark: [微软 TTS (Text-to-Speech) 文字转语音下载器](https://www.microsoft-tts-downloader.com)：一键播放或下载 微软 TTS 文字转语音 合成的音频。支持所有官方提供的语音和声音选项。支持SSML语法。每月享免费用量。量大者可升级Pro Plan，固定便宜费用无限使用。摒弃按量收费。支持支付宝
 
 ### 2024年6月26号添加
 #### 路人甲 - [Github](https://github.com/mumuy)
