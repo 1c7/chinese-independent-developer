@@ -19,6 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年6月26号添加
+#### Andres Rivas - [Github](https://github.com/AndresRivas0)
+* :white_check_mark: [微软 tts Text-to-Speech 文字转语音下载器](https://www.microsoft-tts-downloader.com)：一键播放或 下载 微软 TTS 文字转语音 合成的音频。支持所有官方提供的语音和声音选项。支持SSML语法。每月享免费用量。量大者可升级Pro plan，固定便宜费用无限使用。摒弃按量收费。支持支付宝。 -  [更多介绍](https://www.microsoft-tts-downloader.com)
+
+### 2024年6月26号添加
 #### 路人甲 - [Github](https://github.com/mumuy)
 * :white_check_mark: [亲戚称呼计算器](https://passer-by.com/relationship/) “中国亲戚关系计算器”为你避免了叫错、不会叫亲戚的尴尬，收录了中国亲戚关系称呼大全，只需简单的输入即可完成称呼计算。称呼计算器同时兼容了不同地域的方言叫法，你可以称呼父亲为：“老爸”、“爹地”、“老爷子”等等。让您准确的叫出亲戚称谓，理清亲属之间的亲戚关系，轻松掌握中国式的亲戚关系换算，让你更了解中国文化 - [更多介绍](https://github.com/mumuy/relationship)
 
