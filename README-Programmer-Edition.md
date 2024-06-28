@@ -17,7 +17,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年6月28号添加
 #### LeoCodeEasy - [Github](https://github.com/LeoCodeEasy)
-* :white_check_mark: [tinrh](https://tinrh.vercel.app)：无需路由即可实现页面切换，适用于Vue3
+* :white_check_mark: [tinrh](https://tinrh.vercel.app)：无需路由即可实现页面切换，适用于Vue3
 
 ### 2024年6月25号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
