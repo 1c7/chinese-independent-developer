@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+
+### 2024年6月28号添加
+#### LeoCodeEasy - [Github](https://github.com/LeoCodeEasy)
+* :white_check_mark: [tinrh](https://tinrh.vercel.app)：无需路由即可实现页面切换，适用于 Vue3
+
 ### 2024年6月25号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
 * :white_check_mark: [GitHub Labels Manager](https://github.com/DuckDuckStudio/GitHub-Labels-Manager/)：自动帮你复制仓库标签、获取仓库标签、清空已有标签的工具
