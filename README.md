@@ -372,10 +372,6 @@
 * 🕗 [White80 Football](https://white80.football)：AI橄榄球 🏈 助理教练，战术识别、分析、预测及生成
 * :white_check_mark: [InterviewAI](https://interviewai.me)：AI模拟面试，轻松通过下一次面试
 
-### 2024年4月8日添加
-#### Airclap - [Github](https://github.com/Gentleflow/Airclap)
-* :white_check_mark: [Airclap](https://github.com/Gentleflow/Airclap): 任何文件，任意设备，随意发送。简单好用的跨平台高速文件传输 App
-
 ### 2024年4月6日添加
 #### Touchumind - [Github](https://github.com/thundernet8)
 * :white_check_mark: [VoxScripts](https://voxscripts.com)：专注于自动化视频转录文本、字幕制作、字幕翻译和配音、短视频创作的桌面软件。适用于多种学习、工作、娱乐场景，如英语学习、外语慕课视频观看、外语生肉视频抢先观看、视频翻译搬运、剧本配音或配视频。
