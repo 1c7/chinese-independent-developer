@@ -19,6 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年7月2号添加
+
+#### wtechtec(北京)
+* :white_check_mark: [Replay Text Actions](https://chromewebstore.google.com/detail/replay-text-actions/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)：能缓存输入文案、操作流程自动化的 Chrome 插件 - [更多介绍](https://www.bilibili.com/video/BV1ZE3aegE2g/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
+
 #### xvoy(广州)
 * :white_check_mark: [Midjourney 样式代码库](https://srefhunter.top/)：SrefHunter 汇集各种社交媒体平台的 Midjourney 样式代码
 
