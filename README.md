@@ -109,7 +109,7 @@
 * :white_check_mark: [HelthPal](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)：自定义健康提醒以及多色便签条提醒功能的 Chrome 插件
 
 #### G (广东) - [Github](https://github.com/Subdue0)
-* :white_check_mark: [全王探测-直播源搜索神器](https://isus.cc/)：针对特定的区域范围进行 IP 探测，挖掘互联网中的价值 IP，相当于增强版 [fofa](https://fofa.info/)。内置多种功能：直播源搜索，直播源解析，直播源探测，直播源追踪，也支持非直播源的其他类型的IP查找，如漏洞捕获、优选IP、CDN 溯源等 - [更多介绍](https://isus.cc/frontend/about)
+* :white_check_mark: [全王探测-直播源搜索神器](https://qwtc.cc/)：网站的核心是针对特定的区域范围进行 IP 探测，用于挖掘互联网中各种各样的价值 IP，相当于增强版 [fofa](https://fofa.info/)。内置多种黑科技功能：直播源搜索，直播源解析，直播源探测，直播源追踪，也支持非直播源的其他类型的IP查找，比如，漏洞捕获、优选IP、CDN溯源等等 - [更多介绍](https://qwtc.cc/frontend/about)
 
 ### 2024年6月6号添加
 #### 猫九壁纸（广州） - [Github](https://github.com/xiaocp)
