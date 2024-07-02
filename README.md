@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年7月2号添加
+#### xvoy(广州)
+* :white_check_mark: [Midjourney 样式代码库](https://srefhunter.top/)：SrefHunter 汇集各种社交媒体平台的 Midjourney 样式代码
+
 ### 2024年6月30号添加
 #### Honwhy Wang - [Github](https://github.com/honwhy/md)
 * :white_check_mark: [mpmd](https://mpmd.pages.dev)：利用 Markdown 编辑微信公众号文章的浏览器插件，轻松创作引人入胜的微信公众号图文内容。该插件集成了功能强大的 Markdown 编辑器和主流图片托管平台，并支持使用官方微信公众号图片托管服务，让您免费存储图片，助您高效创作图文内容
