@@ -19,6 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年7月2号添加
+#### Frank(上海) - [Github](https://github.com/FrankZhai367)
+* :white_check_mark: [内容农场](http://122.51.11.251:29189/home)：帮助短视频内容生产者提高100倍产量，使用 AIGC，Web自动化，赋能内容创作各个环节
 
 #### wtechtec(北京)
 * :white_check_mark: [Replay Text Actions](https://chromewebstore.google.com/detail/replay-text-actions/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)：能缓存输入文案、操作流程自动化的 Chrome 插件 - [更多介绍](https://www.bilibili.com/video/BV1ZE3aegE2g/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
