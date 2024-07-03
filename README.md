@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年7月3号添加
+#### Ethan Sunray（纽约）
+* :white_check_mark: [AI Filter](https://aifilter.net): 用 AI 滤镜将你的照片变换为动漫、粘土、3D、像素、表情符号、视频游戏、贴纸等多种滤镜风格。
+
 ### 2024年7月2号添加
 #### Frank(上海) - [Github](https://github.com/FrankZhai367)
 * :white_check_mark: [内容农场](http://122.51.11.251:29189/home)：帮助短视频内容生产者提高100倍产量，使用 AIGC，Web自动化，赋能内容创作各个环节
