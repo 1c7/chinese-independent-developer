@@ -19,8 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024年7月6号添加
+#### Funny
+* :white_check_mark: [即时热点](http://nowhots.com)： 热门信息聚合站，帮助您轻松了解正在发生的事
+
 #### AwesomeYang（深圳）
-* :white_check_mark: [AI WITH.ME](https://aiwith.me): AI 导航站，现在是免费提交，自动化截图，站点信息 AI 汇总生成，Google 登录，仅收录 AI 产品。
+* :white_check_mark: [AI WITH.ME](https://aiwith.me): AI 导航站，现在是免费提交，自动化截图，站点信息 AI 汇总生成，Google 登录，仅收录 AI 产品
 
 ### 2024年7月3号添加
 #### Ethan Sunray（纽约）
