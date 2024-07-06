@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年7月6号添加
+#### AwesomeYang（深圳）
+* :white_check_mark: [AI WITH.ME](https://aiwith.me): AI 导航站，现在是免费提交，自动化截图，站点信息 AI 汇总生成，Google 登录，仅收录 AI 产品。
+
 ### 2024年7月3号添加
 #### Ethan Sunray（纽约）
 * :white_check_mark: [AI Filter](https://aifilter.net)：用 AI 滤镜将你的照片变换为动漫、粘土、3D、像素、表情符号、视频游戏、贴纸等多种滤镜风格
