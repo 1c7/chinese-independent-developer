@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年7月8号添加
+#### 风决子（北京） - [github](https://github.com/KEYIERYI/FengJueZi-DevProcess)
+* :white_check_mark: [Work Panel](https://chromewebstore.google.com/detail/work-panel/blomlkfbgepjlmmggfkegbgielelocef?hl=zh-CN&utm_source=ext_sidebar)：可视化时间流逝工作面板，致力于每日高效工作四小时，工作生活平衡，拒绝996文化 - [更多介绍](https://fengjuezi.lihu666.com/)
+
 ### 2024年7月6号添加
 #### Funny
 * :white_check_mark: [即时热点](http://nowhots.com)： 热门信息聚合站，帮助您轻松了解正在发生的事
