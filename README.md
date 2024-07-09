@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024年7月9号添加
+#### Q-Sansan
+* :white_check_mark: [FurryAI](https://www.furryaiart.com)：生成毛茸茸艺术品的 AI 创作平台，根据文本描述生成毛茸茸的艺术品。
+
 ### 2024年7月8号添加
 #### 风决子（北京） - [github](https://github.com/KEYIERYI/FengJueZi-DevProcess)
 * :white_check_mark: [Work Panel](https://chromewebstore.google.com/detail/work-panel/blomlkfbgepjlmmggfkegbgielelocef?hl=zh-CN&utm_source=ext_sidebar)：可视化时间流逝工作面板，致力于每日高效工作四小时，工作生活平衡，拒绝996文化 - [更多介绍](https://fengjuezi.lihu666.com/)
