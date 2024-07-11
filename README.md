@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 11 号添加
+## xiaosong gao - [Github](https://github.com/xiaoosnggao)
+* :white_check_mark: [韶光日记](https://gxspp.site/)：记录故事的时间轴日记 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/389)
+
 ### 2024 年 7 月 10 号添加
 #### ayangweb - [github](https://github.com/ayangweb)
 * :white_check_mark: [EcoPaste](https://github.com/ayangweb/EcoPaste)：多平台剪切板管理工具（开源）- [更多介绍](https://github.com/ayangweb/EcoPaste?tab=readme-ov-file#%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
