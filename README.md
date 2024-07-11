@@ -19,11 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 7 月 11 号添加
-#### xiaosong gao - [Github](https://github.com/xiaoosnggao)
+#### xiaosong gao - [GitHub](https://github.com/xiaoosnggao)
 * :white_check_mark: [韶光日记](https://gxspp.site/)：记录故事的时间轴日记 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/389)
 
 ### 2024 年 7 月 10 号添加
-#### ayangweb - [github](https://github.com/ayangweb)
+#### ayangweb - [GitHub](https://github.com/ayangweb)
 * :white_check_mark: [EcoPaste](https://github.com/ayangweb/EcoPaste)：多平台剪切板管理工具（开源）- [更多介绍](https://github.com/ayangweb/EcoPaste?tab=readme-ov-file#%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)
 
 ### 2024年7月9号添加
@@ -31,7 +31,7 @@
 * :white_check_mark: [FurryAI](https://www.furryaiart.com)：生成毛茸茸艺术品的 AI 创作平台，根据文本描述生成毛茸茸的艺术品。
 
 ### 2024年7月8号添加
-#### 风决子（北京） - [github](https://github.com/KEYIERYI/FengJueZi-DevProcess)
+#### 风决子（北京） - [GitHub](https://github.com/KEYIERYI/FengJueZi-DevProcess)
 * :white_check_mark: [Work Panel](https://chromewebstore.google.com/detail/work-panel/blomlkfbgepjlmmggfkegbgielelocef?hl=zh-CN&utm_source=ext_sidebar)：可视化时间流逝工作面板，致力于每日高效工作四小时，工作生活平衡，拒绝996文化 - [更多介绍](https://fengjuezi.lihu666.com/)
 
 ### 2024年7月6号添加
