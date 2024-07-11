@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 7 月 11 号添加
-## xiaosong gao - [Github](https://github.com/xiaoosnggao)
+#### xiaosong gao - [Github](https://github.com/xiaoosnggao)
 * :white_check_mark: [韶光日记](https://gxspp.site/)：记录故事的时间轴日记 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/389)
 
 ### 2024 年 7 月 10 号添加
