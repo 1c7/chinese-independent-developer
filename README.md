@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 13 号添加
+#### 约翰 - [Github](https://github.com/johanazhu)，[博客](https://blog.azhubaby.com/)
+* :white_check_mark: [小报童专栏导航](https://xiaobot.tools/)：为你筛选最优质最全面的小报童专栏
+
 ### 2024 年 7 月 11 号添加
 #### xiaosong gao - [GitHub](https://github.com/xiaoosnggao)
 * :white_check_mark: [韶光日记](https://gxspp.site/)：记录故事的时间轴日记 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/389)
