@@ -169,7 +169,7 @@
 
 ### 2024年5月24号添加
 #### 刚师傅 - [Github](https://github.com/margox)
-* :white_check_mark: [好说](https://haoshuo.jianli.online/)：二次元 AI 口语陪练，支持英语、日语、韩语、法语(APP)
+* :white_check_mark: [好说](https://haoshuo.cc/)：二次元数字人 AI 口语陪练，支持英语、日语、韩语、法语(APP)
 
 ### 2024年5月23号添加
 #### 倒霉狐狸 - [Github](https://github.com/evildao)
