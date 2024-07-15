@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 15 号添加
+#### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
+* :white_check_mark: [X Detector](https://xdetector.ai/)：用于检测 AI 写作的最值得信赖的多语言 AI ​​内容检测器
+* :white_check_mark: [RIZZ AI](https://rizzai.ai/)：一款有趣又免费的AI约会助手，你的约会好助手。
+
 ### 2024 年 7 月 14 号添加
 #### Shawn(扬州) - [Github](https://github.com/imsgao)，[小红书](https://www.xiaohongshu.com/user/profile/5f3b48670000000001008b24?xhsshare=CopyLink&appuid=5f3b48670000000001008b24&apptime=1720886673&share_id=5af7cb111ea84fad822fd4d4576523dd)
 * :white_check_mark: [壁纸千寻](https://apps.apple.com/app/id6504430291)：免费下载手机壁纸，每日自动更新
