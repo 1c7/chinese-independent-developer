@@ -2,9 +2,9 @@
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
 
-**程序员版和主版面的区别是**：
-* 程序员版：用户是程序员，懂得使用命令行，知道怎么 `npm install` 等。列表里的东西是开源博客/命令行工具等
-* 主版面：用户不是程序员是普通人，列表里的东西是网站/App/桌面端应用，必须打开即用
+**程序员版和主版面的区别**：
+* 程序员版：用户是程序员，会用命令行，知道什么是 `npm install` 等。列表里的产品是开源博客/命令行工具等
+* 主版面：用户不是程序员是普通人，列表里的产品是网站/App/桌面端应用，必须打开即用
 
 **为什么开这个列表**：
 Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不是普通用户能用的东西，
@@ -14,6 +14,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024年7月15号添加
+#### 0x676e67 - [Github](https://github.com/0x676e67)
+* :white_check_mark: [reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate)：简单而强大的 Rust HTTP/WebSocket 客户端（模拟 TLS/JA3/JA4/HTTP2 指纹）
 
 ### 2024年6月28号添加
 #### LeoCodeEasy - [Github](https://github.com/LeoCodeEasy)
