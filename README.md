@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 17 号添加
+#### chlinlearn（江西）
+* :white_check_mark: [值得一读技术博客](https://daily-blog.chlinlearn.top): 每日分享高质量技术博客，为您精选值得一读的技术博客、技术文档、产品创意。
+
 ### 2024 年 7 月 15 号添加
 #### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
 * :white_check_mark: [X Detector](https://xdetector.ai/)：检测文字是否由 AI 编写，AI ​​内容检测器
