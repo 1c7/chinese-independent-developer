@@ -20,7 +20,7 @@
 
 ### 2024 年 7 月 18 号添加
 #### fengfeng - [GitHub](https://github.com/iOSFDTeam), [App 官网](https://resonanceai.top)
-* :white_check_mark: [共鸣 Chat](https://apps.apple.com/cn/app/id6476399027)：基于 ChatGPT 的 iOS App，你可以用语音或文字跟 GPT 聊天，支持 GPT-3.5，GPT-4，GPT-4o 模型。Token 保持跟官方API1:1 比例消耗。下载送 2000 Token，每日签到 500 Token，也可以做任务获取 Token，就算不购买 Token 也可以一直白嫖。另外支持多语音模型，除了 GPT 模型语音，还有 miniMAX 模型语音
+* :white_check_mark: [共鸣 Chat](https://apps.apple.com/cn/app/id6476399027)：基于 ChatGPT 的 iOS App，你可以用语音或文字跟 GPT 聊天，支持 GPT-3.5，GPT-4，GPT-4o 模型。Token 保持跟官方API 1:1 比例消耗。下载送 2000 Token，每日签到 500 Token，也可以做任务获取 Token，就算不购买 Token 也可以一直白嫖。支持多语音模型，有 GPT 模型和 miniMAX 模型
 
 #### ilgnefz - [GitHub](https://github.com/ilgnefz)
 * :white_check_mark: [OncePower](https://github.com/ilgnefz/once_power)：文件和文件夹批量重命名工具，额外添加了批量删除空文件夹和批量移动文件的功能，用户无需学正则表达式既可进行高级匹配。
