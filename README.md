@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 20 号添加
+#### onesthink - [博客](https://blog.csdn.net/php_php_hxw)
+* :white_check_mark: [电商优惠券查找脚本](https://greasyfork.org/zh-CN/scripts/489212)：淘宝、天猫、聚划算、京东商品优惠券查询领取
+
+#### sjdeak - [Github](https://github.com/sjdeak)
+* :white_check_mark: [Airtable iOS Shortcuts Library](https://shortcuts.sequentialroutine.com)：为 iOS 设备 Airtable 用户设计的快捷指令库，旨在通过一系列快捷指令来简化 Airtable 的使用流程。减少用户手动操作 Airtable 应用，用户可通过设置快捷指令直接创建新记录或执行其他重复性任务
+
 ### 2024 年 7 月 18 号添加
 #### fengfeng - [GitHub](https://github.com/iOSFDTeam), [App 官网](https://resonanceai.top)
 * :white_check_mark: [共鸣 Chat](https://apps.apple.com/cn/app/id6476399027)：基于 ChatGPT 的 iOS App，你可以用语音或文字跟 GPT 聊天，支持 GPT-3.5，GPT-4，GPT-4o 模型。Token 保持跟官方API 1:1 比例消耗。下载送 2000 Token，每日签到 500 Token，也可以做任务获取 Token，就算不购买 Token 也可以一直白嫖。支持多语音模型，有 GPT 模型和 miniMAX 模型
