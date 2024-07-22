@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024 年 7 月 22 号添加
+####  ufo5260987423 - [Github](https://github.com/ufo5260987423)
+* :white_check_mark: [scheme-langserver](https://github.com/ufo5260987423/scheme-langserver)：主打 Scheme 语言局部变量自动补全的语言服务器，还有类型推断功能。
+
 ### 2024 年 7 月 17 号添加
 #### Zen Huifer - [Github](http://github.com/huifer)
 * :white_check_mark: [go-iot-platform](https://gitee.com/pychfarm_admin/go-iot-platform)：Go IoT 平台，高效、可扩展的物联网解决方案，用 Go 语言开发。专注于提供稳定、可靠的 MQTT 客户端管理，以及对 MQTT上报数据的全面处理和分析 - [更多介绍](https://gitee.com/pychfarm_admin/go-iot-platform/milestones/202872), [GitHub](https://github.com/iot-ecology/go-iot-platform)
