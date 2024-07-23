@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 23 号添加
+#### 小草林(太原) - [Github](https://github.com/xuegao-tzx)
+* :white_check_mark: [诶嘿(EI)](https://ei.xcl.ink/)：加密智慧聊天 APP,包含 AI 对话功能、在线、离线语音转文本，跨平台社交 APP - [Android](https://ei.xcl.ink/get-android.html)，[iOS](https://ei.xcl.ink/get-ios.html)
+
 ### 2024 年 7 月 20 号添加
 #### onesthink - [博客](https://blog.csdn.net/php_php_hxw)
 * :white_check_mark: [电商优惠券查找脚本](https://greasyfork.org/zh-CN/scripts/489212)：淘宝、天猫、聚划算、京东商品优惠券查询领取
