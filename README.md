@@ -18,11 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024年7月24号添加
-#### 7SaiWen(成都)
-* :white_check_mark: [Network Sniffer](https://apps.apple.com/cn/app/id6450956188)：Network Sniffer 网络抓包工具 HTTP(S)/Socket抓包,重放重写,网络调试,脚本
-
 ### 2024 年 7 月 24 号添加
+#### 7SaiWen(成都)
+* :white_check_mark: [Network Sniffer](https://apps.apple.com/cn/app/id6450956188)：Network Sniffer 网络抓包工具 HTTP(S)/Socket 抓包,重放重写,网络调试,脚本
+
 #### Joans(上海) - [Github](https://github.com/joansnotion)
 * :white_check_mark: [Notion Mate](https://www.notionmate.top/)：为 Notion 提供 30 多种自定义功能，如大纲（TOC）、小文本、全宽、图像查看器、滚动到顶部、主题等 - [Chrome](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn)，[Edge](https://microsoftedge.microsoft.com/addons/detail/notion-mate/dfpnkdcllpohpikeedpejodbloiimdib)
 
