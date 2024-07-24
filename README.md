@@ -20,7 +20,7 @@
 
 ### 2024 年 7 月 24 号添加
 #### Joans(上海) - [Github](https://github.com/joansnotion)
-* :white_check_mark: [Notion Mate](https://www.notionmate.top/)：为 Notion 提供具有 30 种以上的自定义功能，如大纲（TOC）、小文本、全宽、图像查看器、滚动到顶部、主题等。 - [Chrome](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn)，[Edge](https://microsoftedge.microsoft.com/addons/detail/notion-mate/dfpnkdcllpohpikeedpejodbloiimdib)
+* :white_check_mark: [Notion Mate](https://www.notionmate.top/)：为 Notion 提供 30 多种自定义功能，如大纲（TOC）、小文本、全宽、图像查看器、滚动到顶部、主题等 - [Chrome](https://chromewebstore.google.com/detail/notion-mate/pplckfedebdimphneohkmhlmhompgpmn)，[Edge](https://microsoftedge.microsoft.com/addons/detail/notion-mate/dfpnkdcllpohpikeedpejodbloiimdib)
 
 ### 2024 年 7 月 23 号添加
 #### 小草林(太原) - [Github](https://github.com/xuegao-tzx)
