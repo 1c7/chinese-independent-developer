@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 26 号添加
+#### Sean(成都)
+* :white_check_mark: [Animate Old Photos](https://animateoldphotos.org/)：利用 AI 让那些定格在老照片中的回忆再次“动起来”，让记忆变得更加生动，回到了过去的美好时光。
+
+#### 7SaiWen(成都)
+* :white_check_mark: [MyTracks](https://apps.apple.com/cn/app/id1464666446)：MyTracks 我的足迹: GPS 记录仪，支持户外地图导航和轨迹记录、徒步登山滑雪路径回溯
+
 ### 2024 年 7 月 24 号添加
 #### 7SaiWen(成都)
 * :white_check_mark: [Network Sniffer](https://apps.apple.com/cn/app/id6450956188)：Network Sniffer 网络抓包工具 HTTP(S)/Socket 抓包,重放重写,网络调试,脚本
