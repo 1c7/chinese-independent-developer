@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 29 号添加
+#### Owen Chen
+* :white_check_mark: [PackPack](https://packpack.ai): AI 驱动的书签管理工具，专为新闻和社交媒体等网络资源定制保存功能。它利用AI清理并保存内容。使用PackPack，彻底改变你的书签管理方式，更智能地管理你的收藏。
+
 ### 2024 年 7 月 26 号添加
 #### Sean(成都)
 * :white_check_mark: [Animate Old Photos](https://animateoldphotos.org/)：利用 AI 让那些定格在老照片中的回忆再次“动起来”，让记忆变得更加生动，回到了过去的美好时光。
