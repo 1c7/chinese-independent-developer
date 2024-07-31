@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 7 月 31 日添加
+#### Blox 水果
+* :Bloxfruitsfree: [水果](https://bloxfruitsfree.com/): bloxfruits 游戏物品商店: 使用 AI 改善游戏购物
+
 ### 2024 年 7 月 30 号添加
 #### 疯狂的小波
 * :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：使用 AI 提升图片质量至10倍或12K
