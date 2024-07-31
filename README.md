@@ -19,12 +19,18 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 8 月 1 号添加
+#### Oiov(成都) - [Github](https://github.com/oiov)
+* :white_check_mark: [WR.DO](https://wr.do)：基于 Cloudflare 的多租户 DNS 分发系统 - [仓库](https://github.com/oiov/wr.do)
+
+#### Xigong(郑州) - [Github](https://github.com/Xigong93)
+* :clock8: [小篆传包](https://github.com/Xigong93/XiaoZhuan)：一键更新安卓 Apk 到华为、小米等多个应用市场，助力 App 发版
+
 #### 木木木
 * :white_check_mark: [SVG to PNG](https://svgzz.com/)：SVG 转 PNG、JPG、WebP 格式，支持多文件，支持设置宽度或高度
 
 ### 2024 年 7 月 30 号添加
 #### 疯狂的小波
-* :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：使用 AI 提升图片质量至10倍或12K
+* :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：用 AI 将图片放大 10 倍，最高提升到 12K 分辨率
 
 ### 2024 年 7 月 29 号添加
 #### Owen Chen
