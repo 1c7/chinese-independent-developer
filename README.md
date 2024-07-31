@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 1 号添加
+#### 木木木
+* :white_check_mark: [SVG to PNG](https://svgzz.com/)：SVG 转 PNG、JPG、WebP 格式，支持多文件，支持设置宽度或高度
+
 ### 2024 年 7 月 30 号添加
 #### 疯狂的小波
 * :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：使用 AI 提升图片质量至10倍或12K
