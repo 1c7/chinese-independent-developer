@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 3 号添加
+#### Airyland - [Github](https://github.com/airyland)
+* :white_check_mark: [Query.Domains](https://query.domains)：极速域名注册状态及 whois 批量查询
+* :white_check_mark: [Favicon.im](https://favicon.im): 获取网站 Favicon
+
 ### 2024 年 8 月 2 号添加
 #### 瓶水之冰(澳洲布里斯班) - [Github](https://github.com/zzAlexzz), [网站](https://geilio.com/), [小红书](http://xhslink.com/tXLmAR)
 * :white_check_mark: [Geilio Timer](https://geilio.com/)：高度可定制的计时器，适用于考试单题计时提醒等，[App Store](https://apps.apple.com/lt/app/geilio-timer/id6446805524)，[Google Play](https://play.google.com/store/apps/details?id=com.geilio.android.timer)
