@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 8 月 3 号添加
+#### 7SaiWen(成都)
+* :white_check_mark: [GPS测速仪 - 速度表](https://apps.apple.com/cn/app/id1497060416)：GPS测速仪 - 跟踪您的速度和行程！Tesla Model 3 车主最爱速度表！
+
 #### Airyland - [Github](https://github.com/airyland)
 * :white_check_mark: [Query.Domains](https://query.domains)：极速域名注册状态及 whois 批量查询
 * :white_check_mark: [Favicon.im](https://favicon.im): 获取网站 Favicon
