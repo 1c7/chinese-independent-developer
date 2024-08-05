@@ -14,8 +14,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024 年 8 月 5 号添加
+#### OpenDataLab(上海) - [Github](https://github.com/opendatalab)
+* :white_check_mark: [LabelU](https://github.com/opendatalab/labelU)：开源标注工具（轻量级） - [更多介绍](https://github.com/opendatalab/labelU/blob/main/README_zh-CN.md)
+* :white_check_mark: [LabelLLM](https://github.com/opendatalab/LabelLLM)：大模型对话标注平台（开源免费） - [更多介绍](https://github.com/opendatalab/LabelLLM/wiki/README%E2%80%90zh)
+
 ### 2024 年 7 月 22 号添加
-####  ufo5260987423 - [Github](https://github.com/ufo5260987423)
+#### ufo5260987423 - [Github](https://github.com/ufo5260987423)
 * :white_check_mark: [scheme-langserver](https://github.com/ufo5260987423/scheme-langserver)：主打 Scheme 语言局部变量自动补全的语言服务器，还有类型推断功能。
 
 ### 2024 年 7 月 17 号添加
