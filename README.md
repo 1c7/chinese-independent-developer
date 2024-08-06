@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 6 号添加
+#### tutorial0 - [GitHub](https://github.com/tutorial0)
+* :white_check_mark: [One-Click SEO Links](https://chromewebstore.google.com/detail/jllecdngjonjinaffdjdcojfdikimdlj?authuser=0&hl=zh-TW) (Chrome 插件）帮助站长进行 SEO 外链推广。包含全自动模式、半自动模式和人工模式，在外链推广的复杂填表场景能节省大量时间。
+
 ### 2024 年 8 月 5 号添加
 #### underwood
 * :white_check_mark: [Midjourney Sref code 精选库](https://midjourneysref.com/)：在 Midjourney 的 prompt 输入 `--sref xxx` ，可以固定生成某种特定风格的图片。这对很多人来说非常方便，不用写一堆效果词，只要记住几位数字就可以。但 `--sref xxx` 有大概 40 亿个，其中重复或者质量不佳的不在少数。因此做了一个网站把一些个人觉得不错的 sref code 收集起来并进行分类，方便新人或设计师检索
