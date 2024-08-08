@@ -18,6 +18,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 8 号添加
+#### zxcHolmes
+* :white_check_mark: [SpeakGo 实时同声传译工具](https://speakgo.app)：高效便捷的实时同声传译工具
+
+ #### Airyland - [Github](https://github.com/airyland)
+* :white_check_mark: [IP.network](https://www.ip.network)：IP 地址查询
+* :white_check_mark: [DNS.fish](https://dns.fish): 域名 DNS 记录查询
+
 ### 2024 年 8 月 6 号添加
 #### tutorial0 - [GitHub](https://github.com/tutorial0)
 * :white_check_mark: [One-Click SEO Links](https://chromewebstore.google.com/detail/jllecdngjonjinaffdjdcojfdikimdlj?authuser=0&hl=zh-TW) (Chrome 插件）帮助站长进行 SEO 外链推广。包含全自动模式、半自动模式和人工模式，在外链推广的复杂填表场景能节省大量时间。
