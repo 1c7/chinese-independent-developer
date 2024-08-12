@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 12 号添加
+
+#### blank - [Twitter](https://x.com/blankwebdev)
+* :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：免费的 All-in-One SEO 浏览器插件，支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
+* :white_check_mark: [Comment Fast](https://commentfast.com/)：一款基于 AI 的快速评论工具，可以为任意帖子或文章生成高质量的评论
+
 ### 2024 年 8 月 10 号添加
 
 #### 木木木
