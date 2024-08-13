@@ -18,14 +18,22 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024 年 8 月 12 号添加
+### 2024 年 8 月 13 号添加
+#### biboom(广州) - [Github](https://github.com/li150/mapping_scanning)
+* :white_check_mark: [配图扫描 App](https://github.com/li150/mapping_scanning)：基于本地 OCR 配图扫描的文字识别 App
 
+ #### Avery (广州) 
+* :white_check_mark: [AI Tool Trek](https://aitooltrek.com/)：AI 工具导航站 & 实时 AI 新闻预览
+
+ #### Airyland - [Github](https://github.com/airyland)
+* :white_check_mark: [Logo.surf](https://www.logo.surf)：文字生成 Logo & Favicon
+
+### 2024 年 8 月 12 号添加
 #### blank - [Twitter](https://x.com/blankwebdev)
 * :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：免费的 All-in-One SEO 浏览器插件，支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
 * :white_check_mark: [Comment Fast](https://commentfast.com/)：一款基于 AI 的快速评论工具，可以为任意帖子或文章生成高质量的评论
 
 ### 2024 年 8 月 10 号添加
-
 #### 木木木
 * :white_check_mark: [MP4 to MP3](https://mp4t.com/zh/)：免费、安全、快速的 MP4 转 MP3 工具
 
