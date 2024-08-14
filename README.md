@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 14 号添加
+#### zane12580 - [即刻](https://jike.city/zane12580)
+* :white_check_mark: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供GPU内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
+* 
 ### 2024 年 8 月 13 号添加
 #### biboom(广州) - [Github](https://github.com/li150/mapping_scanning)
 * :white_check_mark: [配图扫描 App](https://github.com/li150/mapping_scanning)：基于本地 OCR 配图扫描的文字识别 App
