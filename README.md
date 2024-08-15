@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 8 月 15 号添加
+#### Ethan Sunray（纽约）
+* :white_check_mark: [Perchance AI](https://perchanceai.cc)：无需注册即可在线使用 18 个 AI 图片生成器和体验 75 个文生图绘画风格，还支持在线使用 Flux AI、SDXL、SDXL Lightning 和 SDXL Flash 模型
+
+#### 诸葛子房 
+* :white_check_mark: [TikTok 收益计算器](https://tiktok-money-calculator.online/zh)：帮助用户估算在 TikTok 上发布视频可能获得的收入。输入关键数据，如粉丝数量、平均观看量等，快速计算出预期收益额。
+
 #### 微芒不朽(长沙) - [Gitee](https://gitee.com/zhanhongzhu/zhanhongzhu)
 * :white_check_mark: [微芒计划](https://kestrel-task.cn)：待办效率管理工具（Windows 平台）（使用 Tauri 构建）
 
