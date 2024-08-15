@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 15 号添加
+#### 微芒不朽(长沙) - [Gitee](https://gitee.com/zhanhongzhu/zhanhongzhu)
+* :white_check_mark: [微芒计划](https://kestrel-task.cn)：待办效率管理工具（Windows 平台）（使用 Tauri 构建）
+
 ### 2024 年 8 月 14 号添加
 #### zane12580 - [即刻](https://jike.city/zane12580)
 * :white_check_mark: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供GPU内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
