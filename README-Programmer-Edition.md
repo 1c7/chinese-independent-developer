@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024 年 8 月 14 号添加
+#### zane12580 - [即刻](https://jike.city/zane12580)
+* :white_check_mark: [LLM GPU Helper](https://llmgpuhelper.com/)：大模型资源平台：提供GPU内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。 - [更多介绍](https://llmgpuhelper.com/zh/index)
+
 ### 2024 年 8 月 5 号添加
 #### OpenDataLab(上海) - [Github](https://github.com/opendatalab)
 * :white_check_mark: [LabelU](https://github.com/opendatalab/labelU)：开源标注工具（轻量级） - [更多介绍](https://github.com/opendatalab/labelU/blob/main/README_zh-CN.md)
