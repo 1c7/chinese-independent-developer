@@ -17,6 +17,9 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+### 2024 年 8 月 16 号添加
+#### mabengda（北京）
+* :white_check_mark: [Watch together](https://chromewebstore.google.com/detail/watch-together/lghnmgibkhmfeiiekigddnimaaabdmhk)：帮助身处异地的多个用户观看一个视频时同步进度的谷歌插件。打开相同视频网站->连接线通房间->拖动进度条或者暂停播放。
 
 ### 2024 年 8 月 15 号添加
 #### Ethan Sunray（纽约）
