@@ -17,6 +17,14 @@
 
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
+
+### 2024 年 8 月 19 号添加
+#### seeeeal - [Github](https://github.com/seeeeal)
+* :white_check_mark: [下一本读什么](https://xiayibendushenme.com/)：汇总优质书单，解决书荒；按照书单主题与名人推荐进行分类，绝大多数图书在豆瓣都属于8.0以上 - [更多介绍](https://xiayibendushenme.com/about)
+
+#### Airyland - [Github](https://github.com/airyland)
+* :white_check_mark: [Awesome Flux AI](https://www.awesomefluxai.com)：Flux AI LoRA 和资料导航
+
 ### 2024 年 8 月 16 号添加
 #### mabengda（北京）
 * :white_check_mark: [Watch together](https://chromewebstore.google.com/detail/watch-together/lghnmgibkhmfeiiekigddnimaaabdmhk)：帮助身处异地的多个用户观看一个视频时同步进度的谷歌插件。打开相同视频网站->连接线通房间->拖动进度条或者暂停播放。
