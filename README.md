@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 21 号添加
+#### 91化简 - [Github](https://github.com/Hacker233/resume-design)
+* :white_check_mark: [91化简](https://91huajian.cn/)：简历设计生成器（开源），内置两款设计器，多种免费模板，支持导出 PDF、JSON
+
 ### 2024 年 8 月 19 号添加
 #### seeeeal - [Github](https://github.com/seeeeal)
 * :white_check_mark: [下一本读什么](https://xiayibendushenme.com/)：汇总优质书单，解决书荒；按照书单主题与名人推荐进行分类，绝大多数图书在豆瓣都属于8.0以上 - [更多介绍](https://xiayibendushenme.com/about)
