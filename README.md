@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2024 年 8 月 22 号添加
+#### 木木木
+* :white_check_mark: [Text Compare & Merge](https://diffsuite.com)：在线文本对比与合并工具
+* :white_check_mark: [SVG to ICO](https://svg2ico.com/zh/)：在线 SVG、PNG 转 ICO 工具
+
 ### 2024 年 8 月 22 号添加
 #### shaoyangliu(广州) - [Github](https://github.com/fengmao)
 * :white_check_mark: [流沙 SEO](https://liusha.com)：分享谷歌 SEO 相关知识
