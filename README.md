@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 22 号添加
+#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
+* :white_check_mark: [奇异字体生成器](https://freakyfontgenerator.top)：帮助用户创建和转换各种独特的字体样式 (通过 unicode 编码转换) - [更多介绍](https://juejin.cn/post/7404777095623622666)
+
 ### 2024 年 8 月 21 号添加
 #### 91化简 - [Github](https://github.com/Hacker233/resume-design)
 * :white_check_mark: [91化简](https://91huajian.cn/)：简历设计生成器（开源），内置两款设计器，多种免费模板，支持导出 PDF、JSON
