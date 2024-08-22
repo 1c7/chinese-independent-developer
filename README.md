@@ -19,6 +19,12 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 8 月 22 号添加
+#### shaoyangliu(广州) - [Github](https://github.com/fengmao)
+* :white_check_mark: [流沙 SEO](https://liusha.com)：分享谷歌 SEO 相关知识
+
+#### tutorial0 - [Github](https://github.com/tutorial0)
+* :white_check_mark: [撩妹神器](https://dirtypickuplines.org/)：AI 约会辅助工具，帮助你生成一些搭讪用语。其他都无所谓，只希望各位用完了挨打的时候不要把我说出来就行
+
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
 * :white_check_mark: [奇异字体生成器](https://freakyfontgenerator.top)：帮助用户创建和转换各种独特的字体样式 (通过 unicode 编码转换) - [更多介绍](https://juejin.cn/post/7404777095623622666)
 
