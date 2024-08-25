@@ -18,6 +18,8 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 25 号添加
+* :white_check_mark: [AI Anime Generator](https://aianimegen.org)：免费的 AI 动漫图片生成器
 
 ### 2024 年 8 月 22 号添加
 #### 木木木
