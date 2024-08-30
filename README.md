@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 30 号添加
+#### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
+* :white_check_mark:[番石榴实验室AI智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR文字提取，表格结构识别，文档比对
+
 ### 2024 年 8 月 29 号添加
 #### 诸葛子房
 * :white_check_mark: [酒店协议代码——Hotel Corporate Codes](https://corporate-codes.online)：酒店协议代码是关于IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用。免费且支持多语言。
