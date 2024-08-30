@@ -20,14 +20,14 @@
 
 ### 2024 年 8 月 30 号添加
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
-* :white_check_mark:[番石榴实验室AI智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR文字提取，表格结构识别，文档比对
+* :white_check_mark:[番石榴实验室 AI 智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR 文字提取，表格结构识别，文档比对
 
 ### 2024 年 8 月 29 号添加
 #### 诸葛子房
-* :white_check_mark: [酒店协议代码——Hotel Corporate Codes](https://corporate-codes.online)：酒店协议代码是关于IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用。免费且支持多语言。
+* :white_check_mark: [酒店协议代码——Hotel Corporate Codes](https://corporate-codes.online)：酒店协议代码是关于 IHG、希尔顿、万豪、凯悦等酒店品牌的特别折扣代码。这些代码提供给企业，以便以优惠价格预订酒店。公司可以利用这些代码为员工的出差节省旅行费用。免费且支持多语言。
 
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
-* :white_check_mark: [网站地图sitemap生成及数据可视化分析平台](https://sitemap.top)：不仅可以按需生成网站地图（sitemap），还允许用户获取网站地图的统计数据，并以图形化的方式查看和分析网站的结构 - [更多介绍]( https://juejin.cn/post/7407999205493178418)
+* :white_check_mark: [网站地图 sitemap 生成及数据可视化分析平台](https://sitemap.top)：不仅可以按需生成网站地图（sitemap），还允许用户获取网站地图的统计数据，并以图形化的方式查看和分析网站的结构 - [更多介绍]( https://juejin.cn/post/7407999205493178418)
 
 #### YiXinCoding(武汉)
 * :white_check_mark: [Kite 待办](https://kite.kitlib.cn/)：桌面待办清单应用（简洁轻量）
@@ -80,7 +80,7 @@
 
 ### 2024 年 8 月 14 号添加
 #### zane12580 - [即刻](https://jike.city/zane12580)
-* :white_check_mark: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供GPU内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
+* :white_check_mark: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供 GPU 内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
   
 ### 2024 年 8 月 13 号添加
 #### biboom(广州) - [Github](https://github.com/li150/mapping_scanning)
@@ -95,7 +95,7 @@
 ### 2024 年 8 月 12 号添加
 #### blank - [Twitter](https://x.com/blankwebdev)
 * :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：免费的 All-in-One SEO 浏览器插件，支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
-* :white_check_mark: [Comment Fast](https://commentfast.com/)：一款基于 AI 的快速评论工具，可以为任意帖子或文章生成高质量的评论
+* :white_check_mark: [Comment Fast](https://commentfast.com/)：基于 AI 的快速评论工具，为任意帖子或文章生成高质量评论
 
 ### 2024 年 8 月 10 号添加
 #### 木木木
