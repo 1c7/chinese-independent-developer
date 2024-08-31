@@ -20,14 +20,13 @@
 
 ### 2024 年 8 月 31 号添加
 #### 名翠软件(云南德宏)
-* :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：简单好用的免费记账 App
+* :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：记账 App（简单好用免费）
 
 #### virgoone(上海) - [Github](https://github.com/virgoone), [网站主页](https://blog.douni.one)
-* :white_check_mark:[Flux AI Image Generator ](https://fluxaipro.art)：开源的基于 fluxai 包含 prompt 翻译优化的文生图网站
+* :white_check_mark:[Flux AI Image Generator](https://fluxaipro.art)：文生图网站，基于 fluxai 包含 prompt 翻译优化功能（开源）
 
 ### 2024 年 8 月 30 号添加
-#### ToolList.ai - [ToolList.Ai](https://toollist.ai/), [目录](https://toollist.ai/)
-* :white_check_mark:[找到每个任务的最佳AI工具](https://toollist.ai/)：找到最好的 AI 工具。
+* :white_check_mark:[找到每个任务的最佳 AI 工具](https://toollist.ai)：找到最好的 AI 工具
 
 ### 2024 年 8 月 30 号添加
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
