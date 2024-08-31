@@ -20,19 +20,19 @@
 
 ### 2024 年 8 月 31 号添加
 #### fatalor(深圳) - [Github](https://github.com/fatalor)
-* :white_check_mark: [IT摇篮曲](https://www.itylq.com)：聚焦于计算机网络、计算机操作系统（Linux/Win）、项目部署实战、开源项目及软件、IT科普类等知识内容
+* :white_check_mark: [IT 摇篮曲](https://www.itylq.com)：聚焦于计算机网络、计算机操作系统（Linux/Win）、项目部署实战、开源项目及软件、IT科普类等知识内容
 
 #### 名翠软件(云南德宏)
 * :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：记账 App（简单好用免费）
 
 #### virgoone(上海) - [Github](https://github.com/virgoone), [网站主页](https://blog.douni.one)
-* :white_check_mark:[Flux AI Image Generator](https://fluxaipro.art)：文生图网站，基于 fluxai 包含 prompt 翻译优化功能（开源）
+* :white_check_mark: [Flux AI Image Generator](https://fluxaipro.art)：文生图网站，基于 fluxai 包含 prompt 翻译优化功能（开源）
 
 ### 2024 年 8 月 30 号添加
-* :white_check_mark:[找到每个任务的最佳 AI 工具](https://toollist.ai)：找到最好的 AI 工具
+* :white_check_mark: [找到每个任务的最佳 AI 工具](https://toollist.ai)：找到最好的 AI 工具
 
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
-* :white_check_mark:[番石榴实验室 AI 智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR 文字提取，表格结构识别，文档比对
+* :white_check_mark: [番石榴实验室 AI 智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR 文字提取，表格结构识别，文档比对
 
 ### 2024 年 8 月 29 号添加
 #### 诸葛子房
