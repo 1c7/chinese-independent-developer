@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 8 月 31 号添加
+#### 名翠软件(云南德宏)
+* :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：简单好用的免费记账 App
+
+#### virgoone(上海) - [Github](https://github.com/virgoone), [网站主页](https://blog.douni.one)
+* :white_check_mark:[Flux AI Image Generator ](https://fluxaipro.art)：开源的基于 fluxai 包含 prompt 翻译优化的文生图网站
+
 ### 2024 年 8 月 30 号添加
 #### ToolList.ai - [ToolList.Ai](https://toollist.ai/), [目录](https://toollist.ai/)
 * :white_check_mark:[找到每个任务的最佳AI工具](https://toollist.ai/)：找到最好的 AI 工具。
