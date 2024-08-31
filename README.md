@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 8 月 31 号添加
+#### fatalor(深圳) - [Github](https://github.com/fatalor)
+* :white_check_mark: [IT摇篮曲](https://www.itylq.com)：聚焦于计算机网络、计算机操作系统（Linux/Win）、项目部署实战、开源项目及软件、IT科普类等知识内容
+
 #### 名翠软件(云南德宏)
 * :white_check_mark: [美丽记账](https://www.mingcui.cn/meili/)：记账 App（简单好用免费）
 
