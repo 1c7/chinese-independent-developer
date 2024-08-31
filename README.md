@@ -31,7 +31,6 @@
 ### 2024 年 8 月 30 号添加
 * :white_check_mark:[找到每个任务的最佳 AI 工具](https://toollist.ai)：找到最好的 AI 工具
 
-### 2024 年 8 月 30 号添加
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
 * :white_check_mark:[番石榴实验室 AI 智能应用](https://ai.maogoujiaoliuqi.com/)：图片文字提取，OCR 文字提取，表格结构识别，文档比对
 
