@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 3 号添加
+#### keycheung - [Github](https://github.com/keycheung)
+* :white_check_mark: [海德时钟（苹果应用）](https://apps.apple.com/cn/app/hyde-clock-time-widget/id6476807443) 集精美时钟、番茄计时以及白噪音的专注类 App
+
+
 ### 2024 年 9 月 2 号添加
 #### 94r7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
 * :white_check_mark: [放大镜录屏](https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN)：Chrome 录屏插件,可放大区域 - [更多介绍](https://www.bilibili.com/video/BV1g9noedECb/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
