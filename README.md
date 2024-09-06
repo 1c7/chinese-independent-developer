@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 4 号添加
+#### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
+* :white_check_mark: [Flux AI](https://fluxaiweb.com/)：AI图片生成器
+* :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io/)：免费人工智能歌词生成器和人工智能歌曲作家
+
 ### 2024 年 9 月 3 号添加
 #### keycheung - [Github](https://github.com/keycheung)
 * :white_check_mark: [海德时钟](https://apps.apple.com/cn/app/hyde-clock-time-widget/id6476807443)：集精美时钟、番茄计时以及白噪音的专注类 App（苹果应用）
