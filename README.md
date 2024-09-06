@@ -20,8 +20,8 @@
 
 ### 2024 年 9 月 6 号添加
 #### Cloudchewie(武汉) - [Github](https://github.com/Robert-Stackflow), [博客](https://blog.cloudchewie.com)
-* :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器，支持 Android 和 Windows 平台，支持从第三方软件导入和云备份 - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
-* :white_check_mark: [Moment](https://moment.cloudchewie.com/)：支持自托管的现代化相册博客 - [更多介绍][https://apps.cloudchewie.com/zh_CN/moment/introduction](https://github.com/Robert-Stackflow/Moment)
+* :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器（支持 Android 和 Windows 平台，支持从第三方软件导入和云备份） - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
+* :white_check_mark: [Moment](https://moment.cloudchewie.com/)：相册博客（支持自托管） - [更多介绍](https://github.com/Robert-Stackflow/Moment)
 
 #### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
 * :white_check_mark: [Flux AI](https://fluxaiweb.com/)：AI 图片生成器
