@@ -18,9 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
-### 2024 年 9 月 4 号添加
+### 2024 年 9 月 6 号添加
+#### Cloudchewie(武汉) - [Github](https://github.com/Robert-Stackflow), [博客](https://blog.cloudchewie.com)
+* :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器，支持 Android 和 Windows 平台，支持从第三方软件导入和云备份 - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
+* :white_check_mark: [Moment](https://moment.cloudchewie.com/)：支持自托管的现代化相册博客 - [更多介绍][https://apps.cloudchewie.com/zh_CN/moment/introduction](https://github.com/Robert-Stackflow/Moment)
+
 #### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
-* :white_check_mark: [Flux AI](https://fluxaiweb.com/)：AI图片生成器
+* :white_check_mark: [Flux AI](https://fluxaiweb.com/)：AI 图片生成器
 * :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io/)：免费人工智能歌词生成器和人工智能歌曲作家
 
 ### 2024 年 9 月 3 号添加
