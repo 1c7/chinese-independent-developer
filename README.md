@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 9 号添加
+#### biboom(广州) - [Github](https://github.com/li150/li150)
+* :white_check_mark: [天命打工人插件](https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah)：倒计时的时间摸鱼浏览器插件
+
 ### 2024 年 9 月 6 号添加
 #### Cloudchewie(武汉) - [Github](https://github.com/Robert-Stackflow), [博客](https://blog.cloudchewie.com)
 * :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器（支持 Android 和 Windows 平台，支持从第三方软件导入和云备份） - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
