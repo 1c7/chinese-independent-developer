@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 10 号添加
+#### Saga (Guangzhou) - [Github](https://github.com/s87343472)
+* :white_check_mark: [Show HN Today](https://showhntoday.com)：汇集 HackerNews 中热门项目的网站。每天从 Hacker News 平台中提取最有趣、最创新的项目和新闻，并通过简洁的界面展示，帮助用户轻松跟踪技术界的最新趋势。无论你是开发者、创业者还是技术爱好者，Show HN Today 都为你提供一个了解前沿技术和创意项目的便捷窗口。
+
+#### 陆永剑 - [Github](https://github.com/deer-code)
+* :white_check_mark: [桌面新宠(NewPet) ](https://apps.apple.com/cn/app/%E6%A1%8C%E9%9D%A2%E6%96%B0%E5%AE%A0/id6499423794?mt=12) : 与效率工具深度互动的桌面宠物
+
 ### 2024 年 9 月 9 号添加
 #### biboom(广州) - [Github](https://github.com/li150/li150)
 * :white_check_mark: [天命打工人插件](https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah)：倒计时的时间摸鱼浏览器插件
