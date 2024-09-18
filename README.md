@@ -20,7 +20,7 @@
 
 ### 2024 年 9 月 18 号添加
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
-* :white_check_mark: [改革后法定延迟退休年龄计算器 & 退休倒计时工具](https://daojishi.fun)：改革后法定延迟退休年龄计算器 & 退休倒计时工具是一款独特的在线工具，旨在帮助用户轻松计算退休时间并以有趣的方式倒数至退休日。我们的目标是让用户以积极乐观的态度面对工作和生活 - [更多介绍](https://juejin.cn/post/7415651555120824354)
+* :white_check_mark: [改革后法定延迟退休年龄计算器 & 退休倒计时工具](https://daojishi.fun)：帮助用户轻松计算退休时间并以有趣的方式倒数至退休日。我们的目标是让用户以积极乐观的态度面对工作和生活 - [更多介绍](https://juejin.cn/post/7415651555120824354)
 
 ### 2024 年 9 月 14 号添加
 #### Kestrel - [Github](https://github.com/kestrela)
