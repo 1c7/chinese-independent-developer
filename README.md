@@ -20,7 +20,7 @@
 
 ### 2024 年 9 月 20 号添加
 #### Q-Sansan
-* :white_check_mark: [OC Maker](https://www.ocmaker.net) 根据用户提供的文本描述生成原创角色图像。
+* :white_check_mark: [OC Maker](https://www.ocmaker.net)：用 AI 生成原创角色图像
 
 ### 2024 年 9 月 18 号添加
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
