@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 9 月 21 号添加
+#### ConstantLove - [Github](https://github.com/ConstantLove)
+* :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com/)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
+
 #### Amyang(美国) - [Github](https://github.com/AmyangXYZ), [博客](https://amyang.dev)
 * :white_check_mark: [MiKaPo](https://mikapo.amyang.dev)：AI 在线动捕控制 MMD 纸片人模型 - [更多介绍](https://github.com/AmyangXYZ/MiKaPo)
 
