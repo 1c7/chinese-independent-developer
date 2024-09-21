@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 22 号添加
+#### Ethan Sunray（纽约）
+* :white_check_mark: [Compress JPG](https://compressjpg.io)：免费图片压缩工具，支持压缩 JPG、JPEG、PNG、WebP、GIF、AVIF、JXL 和 QOI 格式的图片，无需注册或登录。压缩过程在浏览器端完成，最多可同时处理多达 1000 个图片文件。文件永远不会离开您的设备，确保完全的隐私。可将压缩结果下载为 ZIP 压缩包。
+
 ### 2024 年 9 月 21 号添加
 #### ConstantLove - [Github](https://github.com/ConstantLove)
 * :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com/)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
