@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 21 号添加
+#### Amyang(美国) - [Github](https://github.com/AmyangXYZ), [博客](https://amyang.dev)
+* :white_check_mark: [MiKaPo](https://mikapo.amyang.dev)：AI 在线动捕控制 MMD 纸片人模型 - [更多介绍](https://github.com/AmyangXYZ/MiKaPo)
+
 ### 2024 年 9 月 20 号添加
 #### Q-Sansan
 * :white_check_mark: [OC Maker](https://www.ocmaker.net)：用 AI 生成原创角色图像
