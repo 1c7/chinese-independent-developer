@@ -18,9 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 24 号添加
+#### Nebula
+* :white_check_mark: [Tabbiy](https://tyruslockwood.github.io/)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
+
 ### 2024 年 9 月 23 号添加
 #### loggerhead - [Github](https://github.com/loggerhead)
-* :white_check_mark: [JSON For You](https://json4u.cn)：超好用的 JSON 在线可视化与处理工具。不仅支持常规的 JSON 处理，包括格式化/美化、最小化、校验、比较。还支持用图或表可视化浏览 JSON 数据，支持语义化/结构化比较两个 JSON 数据的差异，支持文本比较非 JSON 文本，支持将 JSON 与 CSV 互转，并且支持在线使用jq。
+* :white_check_mark: [JSON For You](https://json4u.cn)：JSON 在线可视化与处理工具。不仅支持常规的 JSON 处理，包括格式化/美化、最小化、校验、比较。还支持用图或表可视化浏览 JSON 数据，支持语义化/结构化比较两个 JSON 数据的差异，支持文本比较非 JSON 文本，支持将 JSON 与 CSV 互转，并且支持在线使用 jq。
 
 ### 2024 年 9 月 22 号添加
 #### Ethan Sunray（纽约）
