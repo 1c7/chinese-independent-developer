@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 9 月 24 号添加
+#### Ethan Sunray
+* :white_check_mark: [Random Pokemon Generator](https://randompokemongenerator.me)：宝可梦图片生成器，支持从 1400+ 宝可梦角色中随机生成，可自由修改类型、区域和生成数量等。输入你想象中的宝可梦，一键生成，支持 2D 和 3D 风格。
+
 #### Nebula
 * :white_check_mark: [Tabbiy](https://tyruslockwood.github.io/)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
 
