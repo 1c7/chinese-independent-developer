@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 23 号添加
+#### loggerhead - [Github](https://github.com/loggerhead)
+* :white_check_mark: [JSON For You](https://json4u.cn)：超好用的 JSON 在线可视化与处理工具。不仅支持常规的 JSON 处理，包括格式化/美化、最小化、校验、比较。还支持用图或表可视化浏览 JSON 数据，支持语义化/结构化比较两个 JSON 数据的差异，支持文本比较非 JSON 文本，支持将 JSON 与 CSV 互转，并且支持在线使用jq。
+
 ### 2024 年 9 月 22 号添加
 #### Ethan Sunray（纽约）
 * :white_check_mark: [Compress JPG](https://compressjpg.io)：免费图片压缩工具，支持压缩 JPG、JPEG、PNG、WebP、GIF、AVIF、JXL 和 QOI 格式的图片，无需注册或登录。压缩过程在浏览器端完成，最多可同时处理多达 1000 个图片文件。文件永远不会离开您的设备，确保完全的隐私。可将压缩结果下载为 ZIP 压缩包。
