@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 25 号添加
+#### Sawana Huang
+* :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com/): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
+
 ### 2024 年 9 月 24 号添加
 #### Ethan Sunray
 * :white_check_mark: [Random Pokemon Generator](https://randompokemongenerator.me)：宝可梦图片生成器，支持从 1400+ 宝可梦角色中随机生成，可自由修改类型、区域和生成数量等。输入你想象中的宝可梦，一键生成，支持 2D 和 3D 风格。
