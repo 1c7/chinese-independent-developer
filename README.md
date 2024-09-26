@@ -19,22 +19,22 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 9 月 26 号添加
-#### xiaocui723(佛山)
+#### xiaocui723 (佛山)
 * :white_check_mark: [OkeiAI](https://okeiai.com)：AI 导航站，内容有 AI 生成。目前免费收录，只需添加我们的 dofollow 反链即可。收录产品不限于 AI 产品
 
-#### benjamin （北京）- [Github](https://github.com/settings/profile)
-* :white_check_mark: [TikTok Voice Generator](https://tiktokvoice.net) 生成 TikTok 热门配音音效的文本转语音工具
+#### benjamin（北京）- [Github](https://github.com/settings/profile)
+* :white_check_mark: [TikTok Voice Generator](https://tiktokvoice.net)：生成 TikTok 热门配音音效的文本转语音工具
 
 ### 2024 年 9 月 25 号添加
 #### Sawana Huang
-* :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com/): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
+* :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
 
 ### 2024 年 9 月 24 号添加
 #### Ethan Sunray
 * :white_check_mark: [Random Pokemon Generator](https://randompokemongenerator.me)：宝可梦图片生成器，支持从 1400+ 宝可梦角色中随机生成，可自由修改类型、区域和生成数量等。输入你想象中的宝可梦，一键生成，支持 2D 和 3D 风格。
 
 #### Nebula
-* :white_check_mark: [Tabbiy](https://tyruslockwood.github.io/)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
+* :white_check_mark: [Tabbiy](https://tyruslockwood.github.io)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
 
 ### 2024 年 9 月 23 号添加
 #### loggerhead - [Github](https://github.com/loggerhead)
@@ -46,7 +46,7 @@
 
 ### 2024 年 9 月 21 号添加
 #### ConstantLove - [Github](https://github.com/ConstantLove)
-* :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com/)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
+* :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
 
 #### Amyang(美国) - [Github](https://github.com/AmyangXYZ), [博客](https://amyang.dev)
 * :white_check_mark: [MiKaPo](https://mikapo.amyang.dev)：AI 在线动捕控制 MMD 纸片人模型 - [更多介绍](https://github.com/AmyangXYZ/MiKaPo)
@@ -80,8 +80,8 @@
 * :white_check_mark: [Moment](https://moment.cloudchewie.com/)：相册博客（支持自托管） - [更多介绍](https://github.com/Robert-Stackflow/Moment)
 
 #### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
-* :white_check_mark: [Flux AI](https://fluxaiweb.com/)：AI 图片生成器
-* :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io/)：免费人工智能歌词生成器和人工智能歌曲作家
+* :white_check_mark: [Flux AI](https://fluxaiweb.com)：AI 图片生成器
+* :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io)：免费人工智能歌词生成器和人工智能歌曲作家
 
 ### 2024 年 9 月 3 号添加
 #### keycheung - [Github](https://github.com/keycheung)
