@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 26 号添加
+#### xiaocui723(佛山)
+* :white_check_mark: [OkeiAI](https://okeiai.com)：AI 导航站，内容有 AI 生成。目前免费收录，只需添加我们的 dofollow 反链即可。收录产品不限于 AI 产品
+
+#### benjamin （北京）- [Github](https://github.com/settings/profile)
+* :white_check_mark: [TikTok Voice Generator](https://tiktokvoice.net) 生成 TikTok 热门配音音效的文本转语音工具
+
 ### 2024 年 9 月 25 号添加
 #### Sawana Huang
 * :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com/): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
