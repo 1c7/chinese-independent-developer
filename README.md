@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 27 号添加
+#### 风巢森淼(北京) - [Github](https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
+* :white_check_mark: [主打“高颜值”、“说人话”的开源许可证选择器]( https://open-source-license-chooser.toolsnav.top/ )：通过一系列 通俗易懂 问题帮助用户选择适合自己的开源许可证。网站另外包含 许可证比较器 和 许可证使用情况图表，为用户提供直观且立体的开源许可证信息 - [更多介绍]( https://juejin.cn/post/7418548134593527817)
+
+#### yuesheng zheng(深圳)
+* :white_check_mark: [SoColoring](https://www.socoloring.com/)：AI 驱动的可打印填色稿生成平台，支持文本生成填色稿、AI一键上色等功能，同时还有丰富的免费填色稿图库供用户自由下载，欢迎来这里寻找填色的乐趣
+
 ### 2024 年 9 月 26 号添加
 #### xiaocui723 (佛山)
 * :white_check_mark: [OkeiAI](https://okeiai.com)：AI 导航站，内容有 AI 生成。目前免费收录，只需添加我们的 dofollow 反链即可。收录产品不限于 AI 产品
