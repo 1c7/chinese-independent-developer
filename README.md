@@ -18,12 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 28 号添加
+#### xurenda(北京) - [Github](https://github.com/xurenda)
+* :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player)：在线视频播放器，支持 Web 网页和 Windows、Mac、Linux 桌面应用。主要用于 CMS 视频采集站资源的在线浏览，实现了 HLS 视频流（m3u8）的在线播放
+
 ### 2024 年 9 月 27 号添加
 #### 风巢森淼(北京) - [Github](https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
-* :white_check_mark: [主打“高颜值”、“说人话”的开源许可证选择器]( https://open-source-license-chooser.toolsnav.top/ )：通过一系列 通俗易懂 问题帮助用户选择适合自己的开源许可证。网站另外包含 许可证比较器 和 许可证使用情况图表，为用户提供直观且立体的开源许可证信息 - [更多介绍]( https://juejin.cn/post/7418548134593527817)
+* :white_check_mark: [主打“高颜值”、“说人话”的开源许可证选择器](https://open-source-license-chooser.toolsnav.top)：通过一系列 通俗易懂 问题帮助用户选择适合自己的开源许可证。网站另外包含 许可证比较器 和 许可证使用情况图表，为用户提供直观且立体的开源许可证信息 - [更多介绍]( https://juejin.cn/post/7418548134593527817)
 
 #### yuesheng zheng(深圳)
-* :white_check_mark: [SoColoring](https://www.socoloring.com/)：AI 驱动的可打印填色稿生成平台，支持文本生成填色稿、AI一键上色等功能，同时还有丰富的免费填色稿图库供用户自由下载，欢迎来这里寻找填色的乐趣
+* :white_check_mark: [SoColoring](https://www.socoloring.com)：AI 驱动的可打印填色稿生成平台，支持文本生成填色稿、AI一键上色等功能，同时还有丰富的免费填色稿图库供用户自由下载，欢迎来这里寻找填色的乐趣
 
 ### 2024 年 9 月 26 号添加
 #### xiaocui723 (佛山)
