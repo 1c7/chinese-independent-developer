@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 9 月 30 号添加
+#### Frey(深圳) -  [博客](https://5ea.org)
+* :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的IP查询，支持 curl
+
 ### 2024 年 9 月 28 号添加
 #### xurenda(北京) - [Github](https://github.com/xurenda)
 * :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player)：在线视频播放器，支持 Web 网页和 Windows、Mac、Linux 桌面应用。主要用于 CMS 视频采集站资源的在线浏览，实现了 HLS 视频流（m3u8）的在线播放
