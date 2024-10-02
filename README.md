@@ -18,9 +18,19 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 2 号添加
+#### xiaocui723(佛山) 
+* :white_check_mark: [Sprunki Incredibox](https://sprunkiincredibox.net/)：在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化
+
+#### 0xJoanne - [Github](https://github.com/0xjoanne)
+* :white_check_mark: [QRCode.fun](https://qrcode.fun)：在线二维码生成工具
+
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [高亮“广告”](https://github.com/DuckDuckStudio/highlight-ad-extension)：用于高亮特定页面中的“广告”二字的扩展 - [效果文档](https://duckduckstudio.github.io/highlight-ad-extension/#/effect)
+
 ### 2024 年 9 月 30 号添加
 #### Frey(深圳) -  [博客](https://5ea.org)
-* :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的IP查询，支持 curl
+* :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的 IP 查询，支持 curl
 
 ### 2024 年 9 月 28 号添加
 #### xurenda(北京) - [Github](https://github.com/xurenda)

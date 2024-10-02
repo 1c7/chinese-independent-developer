@@ -14,6 +14,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
+### 2024 年 10 月 2 号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [芙芙工具箱开发工具](https://github.com/DuckDuckStudio/Fufu_Dev_Tools/)：芙芙工具箱的开发工具包，可以进行一些代码检查和连续尝试操作，后续也会添加更多的功能。
 
 ### 2024 年 8 月 5 号添加
 #### OpenDataLab(上海) - [Github](https://github.com/opendatalab)
@@ -38,7 +41,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年6月25号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
-* :white_check_mark: [GitHub Labels Manager](https://github.com/DuckDuckStudio/GitHub-Labels-Manager/)：自动帮你复制仓库标签、获取仓库标签、清空已有标签的工具
+* :clock8: [GitHub Labels Manager](https://github.com/DuckDuckStudio/GitHub-Labels-Manager/)：自动帮你复制仓库标签、获取仓库标签、清空已有标签的工具 - 因与 [GitHub Cil](https://cli.github.com/manual/gh_label_clone) 重复关闭
 
 ### 2024年6月4号添加
 #### 0x676e67 - [Github](https://github.com/0x676e67)
