@@ -25,6 +25,9 @@
 #### 0xJoanne - [Github](https://github.com/0xjoanne)
 * :white_check_mark: [QRCode.fun](https://qrcode.fun)：在线二维码生成工具
 
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [高亮“广告”](https://github.com/DuckDuckStudio/highlight-ad-extension)：用于高亮特定页面中的“广告”二字的扩展 - [效果文档](https://duckduckstudio.github.io/highlight-ad-extension/#/effect)
+
 ### 2024 年 9 月 30 号添加
 #### Frey(深圳) -  [博客](https://5ea.org)
 * :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的 IP 查询，支持 curl
