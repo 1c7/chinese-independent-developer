@@ -19,7 +19,7 @@
 （名字按时间排序，最新添加的在最上面）
 ### 2024 年 10 月 9 号添加
 #### huiwan-code - [Github](https://github.com/huiwan-code)
-- :white_check_mark: [EzyGraph](https://www.ezygraph.com)：利用AI将博客内容快速转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传 - [查看更多](https://www.ezygraph.com)
+- :white_check_mark: [EzyGraph](https://www.ezygraph.com)：用 AI 将博客内容转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传
 
 ### 2024 年 10 月 8 号添加
 #### heora - [Github](https://github.com/yzqzy)
