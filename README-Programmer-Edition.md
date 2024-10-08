@@ -14,10 +14,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于2019年4月11号, 主版面开始于2018年3月
 
-### 2024 年 10 月 9 号添加
-#### huiwan-code - [Github](https://github.com/huiwan-code)
-- :white_check_mark: [EzyGraph](https://www.ezygraph.com)：利用AI将博客内容快速转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传 - [查看更多](https://www.ezygraph.com)
-
 ### 2024 年 10 月 7 号添加
 * :white_check_mark: [Awesome-Iwb](https://github.com/kriastans/Awesome-Iwb)：一体机和电子白板实用软件合集
 
