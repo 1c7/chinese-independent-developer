@@ -18,13 +18,20 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 8 号添加
+#### heora - [Github](https://github.com/yzqzy)
+- :white_check_mark: [微信助手 Pro](https://wxbot.dev/)：帮助你轻松管理微信，让你更专注于工作 - [查看更多](https://wxbot.dev/docs/intro)
+
+#### Kevin（长沙）
+- :white_check_mark: [海投简历](https://mengsi.online)：一键海投简历的工具，提升找工作的效率，节省心智负担
+
 ### 2024 年 10 月 6 号添加
 #### Song(广东)
-* :white_check_mark: [Colorbox Mustard](https://colorbox-mustard.com/)：受 Incredibox 启发的互动音乐创作平台,结合了生动的视觉效果和有趣的声音设计,为用户提供独特的创意体验
+- :white_check_mark: [Colorbox Mustard](https://colorbox-mustard.com/)：受 Incredibox 启发的互动音乐创作平台,结合了生动的视觉效果和有趣的声音设计,为用户提供独特的创意体验
 
 ### 2024 年 10 月 2 号添加
 #### yvonuk - [推特](https://twitter.com/mcwangcn)
-* :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
+- :white_check_mark: [Web AI助手](https://web.stockai.trade)：极简、免费、易用的 ChatGPT。无需注册，Email 接码登录，GPT-4o-mini 模型免费使用，支持 GPT-4o 模型，支持实时联网
 
 #### xiaocui723(佛山) 
 * :white_check_mark: [Sprunki Incredibox](https://sprunkiincredibox.net)：在线互动创作音乐的游戏，Sprunki Incredibox 提供简单的拖放系统，允许玩家将不同的声音、人声和节拍混合到他们的自定义曲目中。每个角色都代表着独特的音乐元素，使每首作品都真正个性化
