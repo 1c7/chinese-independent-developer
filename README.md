@@ -19,8 +19,14 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 10 号添加
+#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
+* :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
+
+#### 诸葛子房
+- :white_check_mark: [Image Splitter](https://image-splitter.online)：免费在线图像分割工具，将图片切分多块并下载
+
 #### whinc - [Github](https://github.com/whinc)
-- :white_check_mark: [小而美工具](https://whinc.github.io/ucalc-website) 一款有温度的小程序，万年历/老黄历/公历/农历/佛历/道历/节气/节日/儿童(0-7岁)生长评估/青少年(7-18岁)生长评估/成人肥胖评估/亲戚称呼/科学计算器/法定退休年龄计算器/手电筒/DNF小助手 - [Github](https://github.com/whinc/ucalc-website)
+- :white_check_mark: [小而美工具](https://whinc.github.io/ucalc-website)：一款有温度的微信小程序，万年历/老黄历/公历/农历/佛历/道历/节气/节日/儿童(0-7岁)生长评估/青少年(7-18岁)生长评估/成人肥胖评估/亲戚称呼/科学计算器/法定退休年龄计算器/手电筒/DNF小助手 - [Github](https://github.com/whinc/ucalc-website)
 
 #### handsometong(厦门)
 - :white_check_mark: [Poster Generator](https://postergenerator.online)：海报生成器，用 Poster Generator 创建令人惊叹的定制海报，个人或商业用途均可免费使用
