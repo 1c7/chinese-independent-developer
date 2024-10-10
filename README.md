@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 10 号添加
+#### handsometong(厦门)
+- :white_check_mark: [Poster Generator](https://postergenerator.online)：海报生成器，用 Poster Generator 创建令人惊叹的定制海报，个人或商业用途均可免费使用
+
 #### caorushizi - [Github](https://github.com/caorushizi/mediago)
 - :white_check_mark: [mediago](https://downloader.caorushizi.cn/?form=github)：在线视频下载，m3u8 视频提取工具 - [更多介绍](https://github.com/caorushizi/mediago)
 
