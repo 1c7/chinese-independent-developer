@@ -20,7 +20,7 @@
 
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
-* :white_check_mark: [免费的AI形象照应用](https://luna-headshot.sodair.top/)：1张照片轻松制作您的AI简历照/企业高管形象照，支持电脑摄像头拍摄 - 基于[LunaAI开源换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建
+* :white_check_mark: [免费的AI形象照应用](https://luna-headshot.sodair.top/)：1张照片轻松制作您的AI简历照形象照，支持电脑摄像头拍摄 - 基于[开源AI换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建
 
 ### 2024 年 10 月 10 号添加
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
