@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
-* :white_check_mark: [开源的AI换脸应用解决方案 - LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：仅需一张照片快速生成高质量AI写真照，对标妙鸭相机的一站式AI换脸系统。小程序端、服务端、管理后全套代码
+* :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的AI换脸应用解决方案。仅需一张照片快速生成高质量AI写真照，对标妙鸭相机的一站式AI换脸系统。小程序端、服务端、管理后全套代码
   开源。后台内置10w+高清写真模板，可自定义模板管理。提供基础AI换脸能力，可构建如盲盒情侣、高管证件照、多人合照换脸等多场景玩法。
 
 ### 2024 年 10 月 7 号添加
