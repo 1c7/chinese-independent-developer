@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 13 号添加
+#### 阿凯呵 - [博客]( https://www.sodair.top)
+* :white_check_mark: [免费的AI形象照应用](https://luna-headshot.sodair.top/)：1张照片轻松制作您的AI简历形象照，支持电脑摄像头拍摄 - 基于[开源AI换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建
+
 ### 2024 年 10 月 10 号添加
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
 * :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
