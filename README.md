@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 14 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Hawthorn Game](https://hawthorngame.org/)：介绍(最新的)沙盒游戏 Hawthorn，还可以在线玩相似游戏
+
 #### biboom(广州)
 * :white_check_mark: [Ranking Tabs](https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa)：浏览网站次数排行榜 Chrome 插件
 
