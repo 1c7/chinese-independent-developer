@@ -18,9 +18,17 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2024 年 10 月 15 号添加
+#### qiweiii - [Github](https://github.com/qiweiii)
+- :white_check_mark: [Text Search Pro](https://chromewebstore.google.com/detail/lfknakglefggmdkjdfhhofkjnnolffkh)：文本搜索 Chrome 插件，支持网页中进行大小写敏感和整词的文本搜索
+
+#### 咕噜不爱猫(杭州) - [Github](https://github.com/wangjiegulu)
+* :white_check_mark: [Biofy](https://Biofy.cn)：定制你的个人主页，聚合你的社交信息，展示你的个人作品 - [示例主页](https://biofy.cn/wangjiegulu)
+
 ### 2024 年 10 月 14 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Hawthorn Game](https://hawthorngame.org/)：介绍(最新的)沙盒游戏 Hawthorn，还可以在线玩相似游戏
+* :white_check_mark: [Hawthorn Game](https://hawthorngame.org)：介绍最新的沙盒游戏 Hawthorn，还可以在线玩相似游戏
 
 #### biboom(广州)
 * :white_check_mark: [Ranking Tabs](https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa)：浏览网站次数排行榜 Chrome 插件
