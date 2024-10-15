@@ -12,11 +12,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 没法加到主版面里去，不是因为不好，只是因为类型不合。
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
-程序员版开始于2019年4月11号, 主版面开始于2018年3月
+程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
-* :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的AI换脸应用解决方案。1张照片快速生成高质量AI写真照，提供小程序端、服务端、管理后全套代码。内置10w+高清写真模板，可自定义模板管理。提供基础AI换脸能力，可构建等多场景玩法。
+* :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的 AI 换脸应用解决方案。1 张照片快速生成高质量 AI 写真照，提供小程序端、服务端、管理后全套代码。内置 10万+ 高清写真模板，可自定义模板管理。提供基础 AI 换脸能力，可构建等多场景玩法。
 
 ### 2024 年 10 月 7 号添加
 * :white_check_mark: [Awesome-Iwb](https://github.com/kriastans/Awesome-Iwb)：一体机和电子白板实用软件合集
@@ -57,7 +57,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2024年5月29号添加
 #### 鬼画符 - [主页](http://www.guanleiming.com)
 * :white_check_mark: [translate.js](https://github.com/xnx3/translate)：两行 JS 实现 HTML 全自动翻译。无需改动页面、无语言配置文件、无 API Key、对 SEO 友好！
-* :white_check_mark: [templatespider](https://github.com/xnx3/templatespider)：扒网站工具，看好哪个网站，指定好URL，自动扒下来做成HTML模版。所见网站，皆可为我所用！
+* :white_check_mark: [templatespider](https://github.com/xnx3/templatespider)：扒网站工具，看好哪个网站，指定好 URL，自动扒下来做成HTML模版。所见网站，皆可为我所用！
 * :white_check_mark: [wangmarket](https://github.com/xnx3/wangmarket)：私有化部署自己的 SAAS 云建站系统，后台开通管理网站，每个网站独立管理。不需任何服务器及后端知识。一台1核2G 服务器可建上万独立网站。
 
 ### 2024年5月23号添加
