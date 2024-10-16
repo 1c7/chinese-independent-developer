@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 16 号添加
+#### xingstarx(北京) - [Github](https://github.com/xingstarx), [博客](https://www.xingstarx.top/)
+* :white_check_mark: [图片分割器](https://imagesplitter.vip/zh)：创建 Instagram 拼图效果以及微信九宫格效果以及有图片分割需求的场景。支持批量分割
+
 #### xiaocui723(广东) 
 * :white_check_mark: [Abgerny](https://abgerny.net)：Abgerny 是一款粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。
 
