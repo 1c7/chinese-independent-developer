@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2024 年 10 月 16 号添加
+#### xibobo - [Github]( https://github.com/my19940202),[X(Twitter)](https://x.com/xishengbo),[即刻](https://web.okjike.com/u/4930384A-ABE5-4856-BB23-E4A9DC2BE526)
+* :white_check_mark: [iFinder](https://www.ifinder.one/): 一款网页关键词高亮插件，支持多个关键词高亮和定位，在google搜索关键词时会自动高亮
+* :white_check_mark: [网页微信书评插件](https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep): 一款为微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者。
+  
+
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
 * :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的 AI 换脸应用解决方案。1 张照片快速生成高质量 AI 写真照，提供小程序端、服务端、管理后全套代码。内置 10万+ 高清写真模板，可自定义模板管理。提供基础 AI 换脸能力，可构建等多场景玩法。
