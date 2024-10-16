@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 16 号添加
+#### xiaocui723(广东) 
+* :white_check_mark: [Abgerny](https://abgerny.net)：Abgerny 是一款粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Fast Food Simulator](https://fastfoodsimulator.co/)：快餐店模拟经营游戏，可在线免费玩
 
 ### 2024 年 10 月 15 号添加
 #### qiweiii - [Github](https://github.com/qiweiii)
