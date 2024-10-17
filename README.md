@@ -20,8 +20,8 @@
 
 ### 2024 年 10 月 16 号添加
 #### xibobo(上海) - [Github]( https://github.com/my19940202),[X(Twitter)](https://x.com/xishengbo),[即刻](https://web.okjike.com/u/4930384A-ABE5-4856-BB23-E4A9DC2BE526)
-* :white_check_mark: [iFinder](https://www.ifinder.one/): 一款网页关键词高亮插件，支持多个关键词高亮和定位，在google搜索关键词时会自动高亮
-* :white_check_mark: [网页微信书评插件](https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep): 一款为微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者。
+* :white_check_mark: [iFinder](https://www.ifinder.one/): 网页关键词高亮插件，支持多个关键词高亮和定位，在 Google 搜索关键词时会自动高亮
+* :white_check_mark: [网页微信书评插件](https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep): 微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者
 
 ### 2024 年 10 月 16 号添加
 #### xingstarx(北京) - [Github](https://github.com/xingstarx), [博客](https://www.xingstarx.top/)
