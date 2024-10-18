@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 18 号添加
+#### Ethan Sunray
+* :white_check_mark: [Inpodcast AI](https://inpodcast.ai)：将文档转成播客音频，支持 PDF、Word、Markdown 和 TXT 文件格式
+
+#### Kajian(佛山)
+* :white_check_mark: [MvpFast](https://www.mvpfast.top)：帮助独立开发者快速构建 MVP 的开发模板，包含文字+视频教程，从0到1构建网站应用
+
 ### 2024 年 10 月 17 号添加
 #### xibobo(上海) - [Github]( https://github.com/my19940202),[X(Twitter)](https://x.com/xishengbo),[即刻](https://web.okjike.com/u/4930384A-ABE5-4856-BB23-E4A9DC2BE526)
 * :white_check_mark: [iFinder](https://www.ifinder.one)：网页关键词高亮插件，支持多个关键词高亮和定位，在 Google 搜索关键词时会自动高亮
