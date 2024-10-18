@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 18 号添加
+#### 扇贝单词助手V3 - [Github](https://github.com/honwhy/shanbay-ext)
+* :white_check_mark: [扇贝单词助手V3](https://shanbay.pages.dev)：专为扇贝网用户打造的 Chrome 插件，帮助您在任何网页上轻松高效地学习英语
+
 #### Ethan Sunray
 * :white_check_mark: [Inpodcast AI](https://inpodcast.ai)：将文档转成播客音频，支持 PDF、Word、Markdown 和 TXT 文件格式
 
