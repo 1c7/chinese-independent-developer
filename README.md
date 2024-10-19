@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 19 号添加
+#### xiaocui723(广东) - [Github](https://github.com/webgamehub/sprunked)
+* :white_check_mark: [Sprunked](https://sprunked.online/)：基于 Scratch 的在线音乐游戏（免费），为 Incredibox 引入创新的玩法和新角色，探索无限创造可能
+
+#### Shanshi - [Github](https://github.com/Shanshi66)
+* :white_check_mark: [Notion Exporter](https://notionexporter.com/)：将 Notion 内容转成卡片，方便在社交媒体分享 - [更多介绍](https://notionexporter.com/zh-hans/post/zh-hans-notion-to-redbook)
+
 ### 2024 年 10 月 18 号添加
 #### Honwhy Wang - [Github](https://github.com/honwhy)
 * :white_check_mark: [扇贝单词助手V3](https://shanbay.pages.dev)：专为扇贝网用户打造的 Chrome 插件，帮助您在任何网页上轻松高效地学习英语 - [Github](https://github.com/honwhy/shanbay-ext)
