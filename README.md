@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 20 号添加
+#### zhiya(武汉)
+* :white_check_mark: [Image to excel](https://itexcel.izhiyakeji.com/zh-Hans/)：识别图片中的表格并转成可编辑的 Excel 文档
+
 ### 2024 年 10 月 19 号添加
 #### xiaocui723(广东) - [Github](https://github.com/webgamehub/sprunked)
 * :white_check_mark: [Sprunked](https://sprunked.online/)：基于 Scratch 的在线音乐游戏（免费），为 Incredibox 引入创新的玩法和新角色，探索无限创造可能
