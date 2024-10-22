@@ -20,7 +20,7 @@
 
 ### 2024 年 10 月 22 号添加
 #### fengmao(广州)
-* :white_check_mark: [liusha tech detector](https://liusha.org/)：分析网站用的技术栈细节，是否 CMS，用了什么编程语言和数据分析工具等
+* :white_check_mark: [liusha tech detector](https://liusha.org/)：提交一个网址，分析该网站用到的技术栈，是否 CMS，用什么编程语言，数据分析工具等
 
  #### QC2168(揭阳) - [Github](https://github.com/QC2168), [博客](https://island-record.vercel.app/)
 * :white_check_mark: [MIB](https://github.com/QC2168/mib)：安卓数据备份软件，根据配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份，节点配置
