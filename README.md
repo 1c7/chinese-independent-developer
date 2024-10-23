@@ -20,7 +20,7 @@
 
 ### 2024 年 10 月 23 号添加
 #### meetqy(成都) - [Github](https://github.com/meetqy)
-* :white_check_mark: [aiseka.com](https://aiseka.com): 色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
+* :white_check_mark: [aiseka.com](https://aiseka.com)：色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
 
 ### 2024 年 10 月 22 号添加
 #### fengmao(广州)
@@ -62,14 +62,14 @@
 * :white_check_mark: [网页微信书评插件](https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep)：微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者
 
 ### 2024 年 10 月 16 号添加
-#### xingstarx(北京) - [Github](https://github.com/xingstarx), [博客](https://www.xingstarx.top/)
+#### xingstarx(北京) - [Github](https://github.com/xingstarx), [博客](https://www.xingstarx.top)
 * :white_check_mark: [图片分割器](https://imagesplitter.vip/zh)：创建 Instagram 拼图效果以及微信九宫格效果以及有图片分割需求的场景。支持批量分割
 
 #### xiaocui723(广东) 
 * :white_check_mark: [Abgerny](https://abgerny.net)：Abgerny 是一款粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。
 
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Fast Food Simulator](https://fastfoodsimulator.co/)：快餐店模拟经营游戏，可在线免费玩
+* :white_check_mark: [Fast Food Simulator](https://fastfoodsimulator.co)：快餐店模拟经营游戏，可在线免费玩
 
 ### 2024 年 10 月 15 号添加
 #### qiweiii - [Github](https://github.com/qiweiii)
