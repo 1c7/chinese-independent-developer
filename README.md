@@ -21,6 +21,8 @@
 ### 2024 年 10 月 23 号添加
 #### meetqy(成都) - [Github](https://github.com/meetqy)
 * :white_check_mark: [aiseka.com](https://aiseka.com)：色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
+#### Blushyes(北京) - [Github](https://github.com/blushyes)
+* :white_check_mark: [如快](https://sofast.fun)：基于Tauri开发的一款跨平台的启动器软件，支持Windows和Mac，采用类Raycast风格的UI，对键盘操作友好，大幅提高平时办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展。
 
 ### 2024 年 10 月 22 号添加
 #### fengmao(广州)
