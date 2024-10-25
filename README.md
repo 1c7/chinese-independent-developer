@@ -20,14 +20,14 @@
 
 ### 2024 年 10 月 25 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输 入Bluesky 文章地址，即可将文章中的视频下载到本地
+* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输入 Bluesky 文章地址，即可将文章中的视频下载到本地
 
 #### Yue - [Github](https://github.com/yuegao04)
-* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得“是”与“否”解答
+* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得"是"与"否"解答
 * :white_check_mark: [ProjectHunt](https://projecthunt.me/)：发现与分享独立项目
 
-#### kevin不会写代码([twitter](https://x.com/PennyJoly))
-* :white_check_mark: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：稳定、高效、高并发、便宜的企业级的 AI 接口调用平台，支持 OpenAI、Claude、Gemini 等主流 AI 大模型
+#### kevin 不会写代码 - [Twitter](https://x.com/PennyJoly)
+* :white_check_mark: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：AI 接口调用平台 (稳定、高效、高并发、便宜、企业级）支持 OpenAI、Claude、Gemini 等主流 AI 大模型
 
 ### 2024 年 10 月 23 号添加
 #### Blushyes(北京) - [Github](https://github.com/blushyes)
