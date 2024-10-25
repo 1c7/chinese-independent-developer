@@ -18,6 +18,17 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 25 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输 入Bluesky 文章地址，即可将文章中的视频下载到本地
+
+#### Yue - [Github](https://github.com/yuegao04)
+* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得“是”与“否”解答
+* :white_check_mark: [ProjectHunt](https://projecthunt.me/)：发现与分享独立项目
+
+#### kevin不会写代码([twitter](https://x.com/PennyJoly))
+* :white_check_mark: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：稳定、高效、高并发、便宜的企业级的 AI 接口调用平台，支持 OpenAI、Claude、Gemini 等主流 AI 大模型
+
 ### 2024 年 10 月 23 号添加
 #### Blushyes(北京) - [Github](https://github.com/blushyes)
 * :white_check_mark: [如快](https://sofast.fun)：启动器软件（基于 Tauri 开发，支持 Windows 和 Mac），UI 风格类似 Raycast，对键盘操作友好，大幅提高办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展
