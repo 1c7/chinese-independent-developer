@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 10 月 26 号添加
+#### 小学后生(杭州) - [Github](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
+* :white_check_mark: [X-Comfort-Browser-浏览器插件](https://chromewebstore.google.com/detail/x-comfort-browse/okfbbbhfbomoeobfifgjnclkdhknccgn)：用于推特浏览时模糊媒体资源，专注信息获取，减少视觉干扰，避免在公共场合出现尴尬的场景，同时在互联网噪音中夺取注意力阵地。
+
 ### 2024 年 10 月 25 号添加
 #### JARK006 - [Github](https://github.com/jark006)
 * :white_check_mark: [jarkViewer](https://github.com/jark006/jarkViewer)：Windows 平台看图软件
