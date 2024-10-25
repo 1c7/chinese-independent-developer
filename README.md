@@ -19,6 +19,11 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 25 号添加
+#### JARK006 - [Github](https://github.com/jark006)
+* :white_check_mark: [jarkViewer](https://github.com/jark006/jarkViewer)：Windows 平台看图软件
+* :white_check_mark: [FtpServer](https://github.com/jark006/FtpServer)：Windows 平台 FTP 服务器
+* :white_check_mark: [小天气](https://github.com/jark006/weather_widget)：安卓平台桌面天气小部件
+
 #### Q-Sansan
 * :white_check_mark: [Img2Video](https://img2video.ai/)：用文本或图像生成短视频（AI）非常适合社交媒体，立即开始创作爆款内容吧！
 
