@@ -19,8 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 10 月 27 号添加
-#### MrHuZhi - [Github](https://github.com/MrHuZhi), [Github Issue](https://github.com/1c7/chinese-independent-developer/issues/439?notification_referrer_id=NT_kwDOABuJ07MxMzA2NzY1NzU0MzoxODA0NzU1)
-* :white_check_mark: [文件禅](https://fileneatai.com/?lang=zh-cn)：AI 文件整理工具，电脑中不断积累文件，每次想整理时，却总是发现这项任务既耗时又费力。为了解决这一痛点，我开发了一款可以自动化整理和分类杂乱文件的AI工具——FileNeatAI，它可以根据文件夹里的文件内容，通过AI自动的将文件进行分类并整理到不同的文件夹中，同时还可以对一些命名不规则的文件进行智能命名，帮助用户轻松、高效地管理文件，提升工作效率
+#### MrHuZhi - [Github](https://github.com/MrHuZhi)
+* :white_check_mark: [文件禅](https://fileneatai.com/?lang=zh-cn)：AI 文件整理工具，电脑中不断积累文件，每次想整理时，却总是发现这项任务既耗时又费力。为了解决这一痛点，我开发了一款可以自动化整理和分类杂乱文件的AI工具——FileNeatAI，它可以根据文件夹里的文件内容，通过AI自动的将文件进行分类并整理到不同的文件夹中，同时还可以对一些命名不规则的文件进行智能命名，帮助用户轻松、高效地管理文件，提升工作效率 - [图文介绍](https://github.com/1c7/chinese-independent-developer/issues/439?notification_referrer_id=NT_kwDOABuJ07MxMzA2NzY1NzU0MzoxODA0NzU1)
 
 ### 2024 年 10 月 26 号添加
 #### Ethan Sunray
