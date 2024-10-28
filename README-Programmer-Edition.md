@@ -14,6 +14,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2024 年 10 月 28 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd)
+* :white_check_mark: [RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)：RSS Impact 是一个支持 Hook 的 RSS 订阅工具，支持 推送通知、Webhook 、下载、BitTorrent、AI 大模型 等多种形式的 Hook 。
+为什么做这个工具：在使用 RSS 的过程中，我产生了一些需求，例如 推送通知、AI 总结、下载图片、下载 BitTorrent 等，为此还分别写了不同的工具。
+然后我就意识到，这些需求都可以概括为 `RSS 轮询` + `执行某个操作`，因此，将这些操作抽象出来，作为一个 Hook，是更合适的选择，也更容易复用。
+
 ### 2024 年 10 月 13 号添加
 #### 阿凯呵 - [博客]( https://www.sodair.top)
 * :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的 AI 换脸应用解决方案。1 张照片快速生成高质量 AI 写真照，提供小程序端、服务端、管理后全套代码。内置 10万+ 高清写真模板，可自定义模板管理。提供基础 AI 换脸能力，可构建等多场景玩法。
