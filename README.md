@@ -32,7 +32,7 @@
 * :white_check_mark: [AI Detector](https://aidetector.tech/)：验证文本和图片是否由 AI 生成，图片和 PDF 等文档已支持 [C2PA](https://c2pa.org/) 内容凭证校验。（[C2PA](https://c2pa.org/) 是一项创新的开放技术，旨在提供在线内容的详细背景信息，增强数字内容的可信度和透明度，目前 OpenAI、Microsoft、Heygen 等知名公司都已经支持）
 
 #### 小学后生(杭州) - [Github](https://github.com/Dnevend), [个人主页](https://dnevend.site/)
-* :white_check_mark: [X-Comfort-Browser-浏览器插件](https://chromewebstore.google.com/detail/x-comfort-browse/okfbbbhfbomoeobfifgjnclkdhknccgn)：用于推特浏览时模糊媒体资源，专注信息获取，减少视觉干扰，避免在公共场合出现尴尬的场景，同时在互联网噪音中夺取注意力阵地。- [项目开源地址](https://github.com/dnevend/x-comfort-browse/)
+* :white_check_mark: [X-Comfort-Browser-浏览器插件](https://x-comfort-browser.dnevend.site/)：用于浏览内容平台时，模糊媒体资源。专注于信息获取，减少视觉干扰，避免公共场合出现尴尬的场景，在泛滥的互联网噪音中获得注意力主动权。- [项目开源地址](https://github.com/dnevend/x-comfort-browse/)
 
 ### 2024 年 10 月 25 号添加
 #### JARK006 - [Github](https://github.com/jark006)
