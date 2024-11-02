@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 2 号添加
+#### 食谱甄选（广州） - [Github](https://github.com/xiaocp)
+* :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐。(微信小程序)
+
 ### 2024 年 10 月 31 号添加
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
 * :white_check_mark: [AI Best Tools导航站](https://aibest.tools/)：网站汇集收录各种优质的 AI 产品工具，帮助用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具
