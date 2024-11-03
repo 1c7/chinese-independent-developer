@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2024 年 11 月 3 号添加
+#### d2learn - [Github](https://github.com/d2learn), [论坛](https://forum.d2learn.org/category/9/xlings)
+* :white_check_mark: [xlings](https://github.com/d2learn/xlings)： 一个 `⌈软件安装、一键环境配置、AI代码提示、实时编译运行、教程教学项目搭建和管理⌋` 编程学习和课程搭建工具🛠️ - [更多介绍](https://d2learn.org/xlings)
+
 ### 2024 年 10 月 28 号添加
 #### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd)
 * :white_check_mark: [RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)：RSS Impact 是一个支持 Hook 的 RSS 订阅工具，支持 推送通知、Webhook 、下载、BitTorrent、AI 大模型 等多种形式的 Hook 。
