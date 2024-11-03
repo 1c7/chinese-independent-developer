@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 3 号添加
+#### Zero24 - [Github](https://github.com/Liu-Lixin)
+* :white_check_mark: [Recap 网站](https://recapall.app/)：帮助你整理杂乱的内容，节省时间的 Chrome 插件！我们把网页和PDF转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！
+
 ### 2024 年 11 月 2 号添加
 #### 食谱甄选（广州） - [Github](https://github.com/xiaocp)
 * :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐。(微信小程序)
