@@ -18,6 +18,14 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 9 号添加
+#### Leo - [Github](https://github.com/andylearnai)
+- :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
+
+#### Leo - [Github](https://github.com/luyaohwang)
+- :white_check_mark: [AI塔罗耳语](https://tarotap.com/)：基于 AI 的在线塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和神谕卡祝福功能
+- :white_check_mark: [AI雷诺曼占卜](https://lenormand.life/)：专业 AI 雷诺曼牌在线占卜平台，支持经典大十字牌阵、九宫格及多种主题牌阵，为用户提供精准的事业感情指引
+
 ### 2024 年 11 月 5 号添加
 #### 94R7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
 * :white_check_mark: [SparkleEasy](https://sparkleeasy.pages.dev/)：macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单。 - [更多介绍](https://sparkleeasy.pages.dev)
