@@ -23,23 +23,23 @@
 - :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
 
 #### Leo - [Github](https://github.com/luyaohwang)
-- :white_check_mark: [AI塔罗耳语](https://tarotap.com/)：基于 AI 的在线塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和神谕卡祝福功能
-- :white_check_mark: [AI雷诺曼占卜](https://lenormand.life/)：专业 AI 雷诺曼牌在线占卜平台，支持经典大十字牌阵、九宫格及多种主题牌阵，为用户提供精准的事业感情指引
+- :white_check_mark: [AI 塔罗耳语](https://tarotap.com/)：基于 AI 的在线塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和神谕卡祝福功能
+- :white_check_mark: [AI 雷诺曼占卜](https://lenormand.life/)：专业 AI 雷诺曼牌在线占卜平台，支持经典大十字牌阵、九宫格及多种主题牌阵，为用户提供精准的事业感情指引
 
 ### 2024 年 11 月 5 号添加
 #### 94R7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
-* :white_check_mark: [SparkleEasy](https://sparkleeasy.pages.dev/)：macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单。 - [更多介绍](https://sparkleeasy.pages.dev)
+* :white_check_mark: [SparkleEasy](https://sparkleeasy.pages.dev/)：macOS 开发者的效率工具，一键生成 Sparkle 更新配置，快速管理应用权限，让开发更简单 - [更多介绍](https://sparkleeasy.pages.dev)
 
 #### eddilexiok(上海)
 * :white_check_mark: [拾音簿 pickupnote](https://apps.apple.com/cn/app/%E6%8B%BE%E9%9F%B3%E7%B0%BF-pickupnote-%E6%88%91%E7%9A%84%E9%9F%B3%E4%B9%90%E6%94%B6%E8%97%8F%E5%BA%93/id6478777973)：专为"记录声音场景"而生。将每一条笔记与特定的音乐绑定，3 秒内便可以完成。用标签和检索功能，则可以轻松找到那些与音乐相伴的重要时刻 - [官网](https://pickupnote.com/zh/about)
 
 ### 2024 年 11 月 3 号添加
 #### Zero24 - [Github](https://github.com/Liu-Lixin)
-* :white_check_mark: [Recap](https://recapall.app/)：帮助你整理杂乱的内容，节省时间的 Chrome 插件！把网页和PDF转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！
+* :white_check_mark: [Recap](https://recapall.app/)：帮助你整理杂乱的内容，节省时间的 Chrome 插件！把网页和 PDF 转化为有趣的视觉摘要，包括思维导图、时间线和表格总结。适合学生、专业人士和内容创作者！
 
 ### 2024 年 11 月 2 号添加
 #### 食谱甄选（广州） - [Github](https://github.com/xiaocp)
-* :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐 (微信小程序)
+* :white_check_mark: [食谱甄选](https://xiaocp.oss-cn-shenzhen.aliyuncs.com/images/applet/wx_cookbook.png)：百万菜谱任君选择，专为下厨房而设计的菜谱 APP，菜谱精心甄选佳而全。每天纠结吃啥菜谱，根据个人口味食材智能推荐 (微信小程序)
 
 ### 2024 年 10 月 31 号添加
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
