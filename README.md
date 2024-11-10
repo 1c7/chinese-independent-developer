@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 10 号添加
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer)：SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
+
+#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
+- :white_check_mark: [Best Directories](https://bestdirectories.org)：导航站的导航站，网站汇集收录各类别各领域的优质导航站，帮助用户发现各领域优质的导航站，从而找到好用的产品。并且收录各类优质打榜平台，不止 ProductHunt，帮助产品更快启动。
+
 ### 2024 年 11 月 9 号添加
 #### Leo - [Github](https://github.com/andylearnai)
 - :white_check_mark: [TalkingAvatar](https://www.talkingavatar.ai/)：一键生成 AI 数字人视频的平台，支持多语言对话、表情动作定制，可快速创建个性化数字分身用于营销、教育等场景
