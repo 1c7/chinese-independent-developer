@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 12 号添加
+#### vlv - [Github](https://github.com/livv)
+* :white_check_mark: [vPaste](https://apps.apple.com/cn/app/vpaste/id6444913968)：Mac 平台上一款优秀的剪切板工具。
+
 ### 2024 年 11 月 10 号添加
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
 * :white_check_mark: [Sheas Cealer](https://github.com/SpaceTimee/Sheas-Cealer)：SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
