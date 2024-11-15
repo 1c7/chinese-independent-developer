@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2024 年 11 月 15 号添加
+#### xtthaop(北京) - [Github](https://github.com/xtthaop), [博客](https://zxctb.top)
+* :white_check_mark: [知行笔记 - Note, Share, Possess](https://github.com/xtthaop/zxnote-web)：开源内容管理系统，可组合开源博客 [知行博客](https://github.com/xtthaop/zxblog-web) 搭建个人博客，记录，分享，拥有！
+
 ### 2024 年 11 月 3 号添加
 #### d2learn - [Github](https://github.com/d2learn), [论坛](https://forum.d2learn.org/category/9/xlings)
 * :white_check_mark: [xlings](https://github.com/d2learn/xlings)： 一个 `⌈软件安装、一键环境配置、AI代码提示、实时编译运行、教程教学项目搭建和管理⌋` 编程学习和课程搭建工具🛠️ - [更多介绍](https://d2learn.org/xlings)
