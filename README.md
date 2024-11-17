@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 17 号添加
+#### javayhu - [Github](https://github.com/javayhu)
+* :white_check_mark: [导航站模板](https://www.mkdirs.com)：一个可以轻松创建并部署上线的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能。
+
 ### 2024 年 11 月 16 号添加
 #### my19940202 - [Github](https://github.com/my19940202)
 * :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)：网页版屏保小工具
