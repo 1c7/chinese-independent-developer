@@ -19,8 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 11 月 16 号添加
-#### 网页版屏保小工具 - [Github](https://github.com/my19940202)
-* :网页版屏保小工具: [网页版屏保小工具](https://www.screensaver.top/zh)：web在线屏保小工具。
+#### my19940202 - [Github](https://github.com/my19940202)
+* :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)：网页版屏保小工具
 
 ### 2024 年 11 月 12 号添加
 #### vlv - [Github](https://github.com/livv)
