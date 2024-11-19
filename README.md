@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 19 号添加
+#### khaos - [Github](https://github.com/cxykhaos), [博客](https://khaos.net.cn)
+* :white_check_mark: [khaos电吉他社](https://www.khaos.net.cn)：一个有电吉他爱好的程序员做的电吉他谱分享网站
+
 ### 2024 年 11 月 17 号添加
 #### javayhu - [Github](https://github.com/javayhu)
 * :white_check_mark: [导航站模板](https://mkdirs.com/)：轻松创建并部署上线的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
