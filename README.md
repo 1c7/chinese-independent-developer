@@ -2937,7 +2937,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [App 计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
 
 #### sobbingman
-:x: [Vue 资源精选](http://vue.awesometiny.com/)：Vue 精选组件分享, 手工精选出一百来个最优秀的组件库/独立组件
+- :x: [Vue 资源精选](http://vue.awesometiny.com/)：Vue 精选组件分享, 手工精选出一百来个最优秀的组件库/独立组件
 
 #### aisnote - [Github](https://github.com/aisnote)
 * :white_check_mark: [PicZoomer](http://aisnote.com/2010/12/14/%E6%89%B9%E9%87%8F%E7%85%A7%E7%89%87%E7%BC%A9%E5%B0%8F%E5%B7%A5%E5%85%B7-%E6%97%A0%E9%9C%80%E4%BB%BB%E4%BD%95%E8%AE%BE%E7%BD%AE-%E5%82%BB%E7%93%9C%E6%93%8D%E4%BD%9C/)：批量照片缩小工具, 无需任何设置, 傻瓜操作
