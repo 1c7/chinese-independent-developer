@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 21 号添加
+#### Q-Sansan - [Github](https://github.com/Q-Sansan)
+* :white_check_mark: [OnlyFansKit](https://www.onlyfanskit.com/)：专为 OnlyFans 创作者设计的免费工具平台。其目的是帮助创作者轻松创建和管理自己的内容和账户，提升在 OnlyFans 上的成功机会。通过这个平台，用户可以生成独特的名字、用户名以及吸引人的个人简介。此外，OnlyFansKit 还提供自动生成欢迎消息的功能，让粉丝初次访问时便能感受到创作者的独特魅力。同时，该平台配有税收计算器，帮助创作者轻松完成财务规划与管理，为创作者节省时间与精力。
+
 ### 2024 年 11 月 19 号添加
 #### khaos - [Github](https://github.com/cxykhaos), [博客](https://khaos.net.cn)
 * :white_check_mark: [khaos电吉他社](https://www.khaos.net.cn)：一个有电吉他爱好的程序员做的电吉他谱分享网站
