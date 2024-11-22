@@ -33,7 +33,7 @@
 
 ### 2024 年 11 月 19 号添加
 #### khaos - [Github](https://github.com/cxykhaos), [博客](https://khaos.net.cn)
-* :white_check_mark: [khaos电吉他社](https://www.khaos.net.cn)：一个有电吉他爱好的程序员做的电吉他谱分享网站
+* :white_check_mark: [khaos 电吉他社](https://www.khaos.net.cn)：电吉他谱分享网站（有电吉他爱好的程序员做的）
 
 ### 2024 年 11 月 17 号添加
 #### javayhu - [Github](https://github.com/javayhu)
@@ -41,7 +41,7 @@
 
 ### 2024 年 11 月 16 号添加
 #### my19940202 - [Github](https://github.com/my19940202)
-* :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)：网页版屏保小工具
+* :white_check_mark: [网页版屏保小工具](https://www.screensaver.top/zh)
 
 ### 2024 年 11 月 12 号添加
 #### vlv - [Github](https://github.com/livv)
