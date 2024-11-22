@@ -18,6 +18,12 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 22 号添加
+#### jianpingliu - [Github](https://github.com/jianpingliu)
+* :white_check_mark: [ExtensionsFox](https://extensionsfox.store)：几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)
+* :white_check_mark: [AMZ Downloader](https://amzdownloader.com)：Amazon 产品图片和视频下载小工具 - [更多介绍](https://github.com/asterism-software/amzdownloader.com)
+* :white_check_mark: [docgenie](https://docgenie.co.uk)：将 Kindle Scribe 笔记本直接分享至各种云存储服务 - [更多介绍](https://github.com/asterism-software/docgenie.co.uk)
+
 ### 2024 年 11 月 21 号添加
 #### AlkaidWaong - [Github](https://github.com/AlkaidWaong)
 * :white_check_mark: [BestAffiliate](https:www.bestaffiliate.link)：精选的软件联盟计划的目录，帮助科技数码创作者获取更好的收益。
