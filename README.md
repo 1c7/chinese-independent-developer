@@ -19,7 +19,10 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 11 月 24 号添加
-#### zebrapixel - [twitter](https://x.com/xdkc2000)
+#### 玩具工匠 - [Github](https://github.com/HiToysMaker)
+* :white_check_mark: [字玩](https://www.font-player.com)：字体设计工具 - [源代码](https://github.com/HiToysMaker/fontplayer)
+
+#### zebrapixel - [Twitter](https://x.com/xdkc2000)
 * :white_check_mark: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
 
 ### 2024 年 11 月 22 号添加
