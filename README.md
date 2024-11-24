@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 11 月 24 号添加
+#### zebrapixel - [twitter](https://x.com/xdkc2000)
+* :white_check_mark: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
+
 ### 2024 年 11 月 22 号添加
 #### jianpingliu - [Github](https://github.com/jianpingliu)
 * :white_check_mark: [ExtensionsFox](https://extensionsfox.store)：几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)
