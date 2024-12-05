@@ -18,6 +18,16 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 6 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Genie 2](https://genie2.co/)：大规模基础世界模型，能将单张图像转换为完全交互式的 3D 环境
+
+#### Fooying - [Github](https://github.com/fooying), [博客](fooying.com/?ref=chinese-independent-developer)
+* :white_check_mark: [SECSOSO 安全搜搜](https://secsoso.com/)：网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)
+
+#### Yue - [Github](https://github.com/yuegao04)
+* :white_check_mark: [BlockBlastCheat](https://blockblastcheat.com/)：为你的 Block Blast 游戏提供最佳解法
+
 ### 2024 年 11 月 24 号添加
 #### 玩具工匠 - [Github](https://github.com/HiToysMaker)
 * :white_check_mark: [字玩](https://www.font-player.com)：字体设计工具 - [源代码](https://github.com/HiToysMaker/fontplayer)
