@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 12 月 6 号添加
+#### canghaicheng(苏州) 
+* :white_check_mark: [桌面世界](https://www.zhuomianshijie.com/)：3D 聊天机器人桌面应用
+
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [Genie 2](https://genie2.co/)：大规模基础世界模型，能将单张图像转换为完全交互式的 3D 环境
 
