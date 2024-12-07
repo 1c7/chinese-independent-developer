@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 7 号添加
+#### Ovelv（西安）-[Github](https://github.com/ovelv)
+* :white_check_mark: [OnionAI](https://onionai.so)：AI 聚合搜索引擎，轻松在不同的 AI 搜索引擎间切换
+
 ### 2024 年 12 月 6 号添加
 #### canghaicheng(苏州) 
 * :white_check_mark: [桌面世界](https://www.zhuomianshijie.com/)：3D 聊天机器人桌面应用
