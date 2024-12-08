@@ -18,6 +18,13 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 8 号添加
+#### chrox - [Github](https://github.com/chrox/readest)
+* :white_check_mark: [Readest](https://readest.com?utm_source=indiecn&utm_medium=referral&utm_campaign=post)：阅读软件（极简设计、开源、跨平台） - [更多介绍](https://github.com/chrox/readest)
+
+#### underwoodxie - [Github](https://github.com/underwoodxie)
+* :white_check_mark: [一键将 Youtube 视频转成 SEO 友好的文章](https://video-to-article.com/)：自己在做网站时发现有些 Youtube 视频的质量很好，想把内容变成文字放在自己的网站上，每次都需要转好几个工具，因此做了一个解决自己问题的工具，如果大家有需要可以使用。
+
 ### 2024 年 12 月 7 号添加
 #### Ovelv（西安）- [Github](https://github.com/ovelv)
 * :white_check_mark: [OnionAI](https://onionai.so)：AI 聚合搜索引擎，轻松切换不同的 AI 搜索引擎
