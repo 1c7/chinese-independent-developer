@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 10 号添加
+#### cuiheng511 - [Github](https://github.com/cuiheng511)
+* :white_check_mark: [Autoppt](https://autoppt.com)：Autoppt 是一款革命性的AI驱动演示文稿生成工具，彻底改变了您创建演示文稿的方式。凭借丰富的模板和强大的功能，让您轻松在几分钟内制作出令人惊叹的演示文稿
+
 ### 2024 年 12 月 8 号添加
 #### chrox - [Github](https://github.com/chrox/readest)
 * :white_check_mark: [Readest](https://readest.com?utm_source=indiecn&utm_medium=referral&utm_campaign=post)：阅读软件（极简设计、开源、跨平台） - [更多介绍](https://github.com/chrox/readest)
