@@ -23,7 +23,7 @@
 * :white_check_mark: [UnblurImage AI](https://unblurimage.ai/zh)：图片无损放大变清晰网站（免费无广）
 
 #### Terry(上海) - [Github](https://github.com/jamieme)
-* :white_check_mark: [PodExtra AI](https://www.podextra.ai/)：带有文字稿和思维导图的播客内容摘要生成器 - [更多介绍](https://www.podextra.ai/)
+* :white_check_mark: [PodExtra AI](https://www.podextra.ai/)：播客内容摘要生成器（有文字稿和思维导图） - [更多介绍](https://www.podextra.ai/)
 
 ### 2024 年 12 月 10 号添加
 #### cuiheng511 - [Github](https://github.com/cuiheng511)
