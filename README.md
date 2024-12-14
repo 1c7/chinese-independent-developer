@@ -19,9 +19,8 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 12 月 14 号添加
-#### Leo（上海）
-* :BskyInfo: [BlueSky 工具目录站点](https://bskyinfo.com)：目前最完整的BlueSky工具收录站点。
-  
+#### Leo (上海)
+* :white_check_mark: [BlueSky 工具目录站点](https://bskyinfo.com)：目前最完整的 BlueSky 工具收录站点
 
 ### 2024 年 12 月 12 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
