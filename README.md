@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 17 号添加
+#### joyoyao(上海) - [Github](https://github.com/joyoyao)
+* :white_check_mark: [帽子云](https://www.maoziyun.com/)：GitHub Pages / Cloudflare Pages 的国产替代方案，集成化的静态网站快速创建平台 - [更多介绍](https://www.maoziyun.com/docs/introduction)
+
 ### 2024 年 12 月 14 号添加
 #### Leo (上海)
 * :white_check_mark: [BlueSky 工具目录站点](https://bskyinfo.com)：目前最完整的 BlueSky 工具收录站点
