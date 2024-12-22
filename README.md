@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 22 号添加
+#### javayhu - [Github](https://github.com/javayhu)
+* :white_check_mark: [Mkdirs](https://mkdirs.com/)：最好的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
+* :white_check_mark: [IndieHub](https://indiehub.best/)：最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品
+
 ### 2024 年 12 月 17 号添加
 #### joyoyao(上海) - [Github](https://github.com/joyoyao)
 * :white_check_mark: [帽子云](https://www.maoziyun.com/)：GitHub Pages / Cloudflare Pages 的国产替代方案，集成化的静态网站快速创建平台 - [更多介绍](https://www.maoziyun.com/docs/introduction)
