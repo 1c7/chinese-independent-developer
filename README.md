@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 23 号添加
+#### Corey Chiu - [GitHub](https://github.com/iamcorey), [博客](https://coreychiu.com)
+* :white_check_mark: [GitHub Cards](https://github.cards)：将你的 GitHub 数据转换成漂亮易分享的卡片图
+
 ### 2024 年 12 月 22 号添加
 #### javayhu - [Github](https://github.com/javayhu)
 * :white_check_mark: [Mkdirs](https://mkdirs.com/)：最好的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
