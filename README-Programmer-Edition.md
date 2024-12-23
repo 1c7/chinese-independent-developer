@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2024 年 12 月 23 号添加
+#### 喻灵(合肥) - [Github](https://github.com/yv1ing), [博客](https://yvling.cn/)
+* :white_check_mark: [MollyBlog](https://github.com/yv1ing/MollyBlog)：个人博客系统（简单易用）
+
 ### 2024 年 11 月 15 号添加
 #### xtthaop(北京) - [Github](https://github.com/xtthaop), [博客](https://zxctb.top)
 * :white_check_mark: [知行笔记 - Note, Share, Possess](https://github.com/xtthaop/zxnote-web)：开源内容管理系统，可组合开源博客 [知行博客](https://github.com/xtthaop/zxblog-web) 搭建个人博客，记录，分享，拥有！
