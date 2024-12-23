@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 12 月 23 号添加
+#### 前端小周(郑州) - [github](https://github.com/webjuzi), [博客](https://www.inav.site/)
+* :white_check_mark: [短剧大王](https://www.inav.site/v)：短剧爱好者的免费观影神器，带你畅享短剧盛宴！本应用完全免费！即可尽情观看海量短剧。如寻觅无果？别担心！只需轻松留言告知您心仪的短剧名称，我们会尽快为您找到资源 - [API 免费开放](https://www.inav.site/mp#/pageC/api/api)
+
 #### Corey Chiu - [GitHub](https://github.com/iamcorey), [博客](https://coreychiu.com)
 * :white_check_mark: [GitHub Cards](https://github.cards)：将你的 GitHub 数据转换成漂亮易分享的卡片图
 
