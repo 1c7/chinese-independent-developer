@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 24 号添加
+#### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
+* :white_check_mark: [Free Open Graph Generator](https://og.indiehub.best/)：在线Open Graph图片制作工具，支持多种布局，支持调整文字+背景，支持导出PNG，免费无水印
+
 ### 2024 年 12 月 23 号添加
 #### 前端小周(郑州) - [github](https://github.com/webjuzi), [博客](https://www.inav.site/)
 * :white_check_mark: [短剧大王](https://www.inav.site/v)：短剧爱好者的免费观影神器，带你畅享短剧盛宴！本应用完全免费！即可尽情观看海量短剧。如寻觅无果？别担心！只需轻松留言告知您心仪的短剧名称，我们会尽快为您找到资源 - [API 免费开放](https://www.inav.site/mp#/pageC/api/api)
@@ -26,7 +30,7 @@
 * :white_check_mark: [GitHub Cards](https://github.cards)：将你的 GitHub 数据转换成漂亮易分享的卡片图
 
 ### 2024 年 12 月 22 号添加
-#### javayhu - [Github](https://github.com/javayhu)
+#### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
 * :white_check_mark: [Mkdirs](https://mkdirs.com/)：最好的导航站模板，默认集成注册登录、支付、邮件、博客、导航站等所有功能
 * :white_check_mark: [IndieHub](https://indiehub.best/)：最好的独立开发者导航站，收录400+独立开发工具，支持开发者提交产品
 
