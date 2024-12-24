@@ -37,7 +37,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的 AI 换脸应用解决方案。1 张照片快速生成高质量 AI 写真照，提供小程序端、服务端、管理后全套代码。内置 10万+ 高清写真模板，可自定义模板管理。提供基础 AI 换脸能力，可构建等多场景玩法。
 
 ### 2024 年 10 月 7 号添加
-* :white_check_mark: [Awesome-Iwb](https://github.com/kriastans/Awesome-Iwb)：一体机和电子白板实用软件合集
+* :white_check_mark: [Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb/)：一体机和电子白板实用软件合集
 
 ### 2024 年 10 月 2 号添加
 #### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
