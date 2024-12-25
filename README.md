@@ -19,6 +19,9 @@
 （名字按时间排序，最新添加的在最上面）
 
 ### 2024 年 12 月 24 号添加
+#### KIAN
+* :white_check_mark: [XShorts](https://xshorts.pro/)：一键将优质Tweet转换为数字人短视频。定制化声音、AI背景图片，自动化发布。轻松创作内容优质的短视频。
+
 #### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
 * :white_check_mark: [Free Open Graph Generator](https://og.indiehub.best/)：在线Open Graph图片制作工具，支持多种布局，支持调整文字+背景，支持导出PNG，免费无水印
 
