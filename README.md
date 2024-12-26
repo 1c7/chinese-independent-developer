@@ -20,14 +20,14 @@
 
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像。
+* :white_check_mark: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像
 
-#### 简具科技(杭州) - [官网](https://www.bzysn.top)
-* :white_check_mark: [八爪鱼收纳](https://www.bzysn.top)：专为现代家庭打造的智能物品管理小程序，它能帮助您轻松管理家中各类物品，让生活更加井然有序
+#### 简具科技(杭州)
+* :white_check_mark: [八爪鱼收纳](https://www.bzysn.top)：智能物品管理小程序，帮助您轻松管理家中各类物品，让生活更加井然有序
 
 ### 2024 年 12 月 24 号添加
 #### KIAN
-* :white_check_mark: [XShorts](https://xshorts.pro/)：一键将优质 Tweet 转换为数字人短视频。定制化声音、AI背景图片，自动化发布。轻松创作内容优质的短视频。
+* :white_check_mark: [XShorts](https://xshorts.pro/)：一键将优质 Tweet 转换为数字人短视频。定制化声音、AI背景图片，自动化发布。轻松创作内容优质的短视频
 
 #### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
 * :white_check_mark: [Free Open Graph Generator](https://og.indiehub.best/)：在线Open Graph图片制作工具，支持多种布局，支持调整文字+背景，支持导出PNG，免费无水印
