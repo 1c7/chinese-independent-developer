@@ -20,6 +20,7 @@
 
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [TRELLIS 3D AI](https://trellis3d.co/)：将图片转换为 3D 资产的免费 AI 工具
 * :white_check_mark: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像
 
 #### 简具科技(杭州)
