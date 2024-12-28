@@ -18,6 +18,11 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 28 号添加
+#### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
+* :white_check_mark: [Free Directory Boilerplate](https://github.com/javayhu/free-directory-boilerplate)：开源的导航站模板，Nextjs+Authjs+Sanity+ShadcnUI
+
+
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [TRELLIS 3D AI](https://trellis3d.co/)：将图片转换为 3D 资产的免费 AI 工具
