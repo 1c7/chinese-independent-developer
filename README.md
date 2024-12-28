@@ -16,7 +16,10 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
-（名字按时间排序，最新添加的在最上面）
+
+### 2024 年 12 月 28 号添加
+#### david_bai - [推特](https://x.com/David_vision66)
+* :white_check_mark: [SecureShare](https://www.securityshare.xyz/?ref=github_CID)：数据在本地,隐私优先,速度超快的 P2P 文件传输工具 (无需注册、打开即用；可以分享文本、图片、文件、文件夹）
 
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
