@@ -18,6 +18,10 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+### 2024 年 12 月 30 号添加
+#### Justin3go(重庆) - [Github](https://github.com/Justin3go)， [Twitter](https://x.com/Justin1024go)
+* :white_check_mark: [Template0](https://template0.com/)：收录了近千份免费的网站模板，包含用途、技术栈、预览截图、描述等信息，方便开发者快速找到适合自己的模板以快速上线
+
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像
