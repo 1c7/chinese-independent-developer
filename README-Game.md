@@ -4,6 +4,9 @@
 
 
 ### 2025 年 1 月 4 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Sprunki Pyramixed](https://sprunkipyramixed.net/)：创新的音乐节奏游戏，是 Sprunki 的 MOD
+
 #### 前端小周(郑州) -  [个人主页](https://www.inav.site/)
 * :white_check_mark: [情侣飞行棋小程序](https://www.inav.site/static/mp/chess.png)：情侣飞行棋 情侣升温小游戏 可自定义棋盘 让你们的感情更进一步的小tips～
 
