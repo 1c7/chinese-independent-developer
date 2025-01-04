@@ -26,6 +26,10 @@
 #### david_bai - [推特](https://x.com/David_vision66)
 * :white_check_mark: [SecureShare](https://www.securityshare.xyz/?ref=github_CID)：数据在本地,隐私优先,速度超快的 P2P 文件传输工具 (无需注册、打开即用；可以分享文本、图片、文件、文件夹）
 
+### 2024 年 12 月 30 号添加
+#### Justin3go(重庆) - [Github](https://github.com/Justin3go)， [Twitter](https://x.com/Justin1024go)
+* :white_check_mark: [Template0](https://template0.com/)：收录了近千份免费的网站模板，包含用途、技术栈、预览截图、描述等信息，方便开发者快速找到适合自己的模板以快速上线
+
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [TRELLIS 3D AI](https://trellis3d.co/)：将图片转换为 3D 资产的免费 AI 工具
