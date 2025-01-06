@@ -19,6 +19,10 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 1 月 6 号添加
+#### pang-xf - [Github](https://github.com/pang-xf)
+- :white_check_mark: [去水印去多多](https://img.pxfe.top/v2/8BjjwDX.jpeg)：复制链接存去水印视频的小程序，支持批量解析转存（免费）
+
 ### 2025 年 1 月 4 号添加
 #### GFE - [Github](https://github.com/duanze)
 - :white_check_mark: [InkComic](https://play.google.com/store/apps/details?id=com.feiwen.inkcomic)：专为平板、墨水屏设计的漫画阅读器。超低占用，超高性能 - [更多介绍](https://www.xiaohongshu.com/user/profile/5db006100000000001007dc3), [Pro version](https://play.google.com/store/apps/details?id=com.feiwen.inkcomicpro)
