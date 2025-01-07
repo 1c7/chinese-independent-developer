@@ -19,6 +19,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2025 年 1 月 7 号添加
+#### 韩老师脑暴
+* :white_check_mark: [aihinto](https://aihinto.com/)：为日语市场提供 AI 导航和 AI 资讯
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Arnis](https://arnis.app/)：将现实世界地点转变为 Minecraft 场景地图的工具
+
 ### 2025 年 1 月 6 号添加
 #### pang-xf - [Github](https://github.com/pang-xf)
 - :white_check_mark: [去水印去多多](https://img.pxfe.top/v2/8BjjwDX.jpeg)：复制链接存去水印视频的小程序，支持批量解析转存（免费）
