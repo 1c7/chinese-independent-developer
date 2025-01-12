@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 1 月 12 号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: Sitemap Creator ([Stable](https://github.com/marketplace/actions/sitemap-creator-stable) | [Pre-Release](https://github.com/marketplace/actions/sitemap-creator-pre-release))：用 GitHub Action 🚀 在你的仓库中创建和更新网站地图
+
 ### 2024 年 12 月 28 号添加
 #### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
 * :white_check_mark: [Free Directory Boilerplate](https://github.com/javayhu/free-directory-boilerplate)：开源的导航站模板，Nextjs + Authjs + Sanity + ShadcnUI
