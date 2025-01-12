@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 12 号添加
+#### RolloTomasi
+* :white_check_mark: [whatDoILookLike](https://whatdoilooklike.online/)：在电影或剧集中找出与你相似的角色并一键换脸
+
 ### 2025 年 1 月 7 号添加
 #### 韩老师脑暴
 * :white_check_mark: [aihinto](https://aihinto.com/)：为日语市场提供 AI 导航和 AI 资讯
