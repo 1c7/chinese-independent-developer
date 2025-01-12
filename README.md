@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 1 月 12 号添加
+#### SEEEEAL(西安) - [Github](https://github.com/seeeeal)
+* :white_check_mark: [仓鼠工具箱](https://www.hamstertools.org)：各类在线工具，用完即走 - [更多介绍](https://www.hamstertools.org/all_tools)
+
+#### Ethan
+* :white_check_mark: [Crop Image](https://cropimage.me/)：图片裁剪工具（免费），所有操作都在本地完成，更加隐私和安全。支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，内置常见的裁剪框比例，缩放时始终保持比例不变，使用更省心
+
 #### RolloTomasi
 * :white_check_mark: [whatDoILookLike](https://whatdoilooklike.online/)：在电影或剧集中找出与你相似的角色并一键换脸
 
