@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 13 号添加
+#### zijiuok - [Github](https://github.com/zijiuok), [Twitter/X](https://x.com/zijiuok)
+* :white_check_mark: [小报童排行榜](https://xiaobaoto.com/ranking/)：哪些付费专栏最赚钱
+
 ### 2025 年 1 月 12 号添加
 #### SEEEEAL(西安) - [Github](https://github.com/seeeeal)
 * :white_check_mark: [仓鼠工具箱](https://www.hamstertools.org)：各类在线工具，用完即走 - [更多介绍](https://www.hamstertools.org/all_tools)
