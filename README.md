@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 14 号添加
+#### lezhu(上海)
+* :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
+
+#### Sean(成都) - [Github](https://github.com/ShurshanX)
+* :white_check_mark: [Image Describer](https://imagedescriber.app/)：提供对艺术作品的深入分析（背景、寓意、构图元素），帮助用户更深层次地理解和欣赏艺术创作和评价编写
+
+#### 天之蓝源(成都) - [Github](https://github.com/Hacker233/resume-design)
+* :white_check_mark: [猫步简历](https://maobucv.com/)：简历制作神器（开源免费）
+
 ### 2025 年 1 月 13 号添加
 #### zijiuok - [Github](https://github.com/zijiuok), [Twitter/X](https://x.com/zijiuok)
 * :white_check_mark: [小报童排行榜](https://xiaobaoto.com/ranking/)：哪些付费专栏最赚钱
