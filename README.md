@@ -22,7 +22,7 @@
 
 ### 2025 年 1 月 14 号添加
 #### lezhu(上海)
-* :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
+* :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript 代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
 
 #### Sean(成都) - [Github](https://github.com/ShurshanX)
 * :white_check_mark: [Image Describer](https://imagedescriber.app/)：提供对艺术作品的深入分析（背景、寓意、构图元素），帮助用户更深层次地理解和欣赏艺术创作和评价编写
