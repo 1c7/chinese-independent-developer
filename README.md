@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 22 号添加
+#### moldav(上海) - [Github](https://github.com/HahaHa0099/MinuteTimer) 
+* :white_check_mark: [Minute Timer](https://minutetimers.net/)：在线计时器（轻量级且用户友好）
+
 ### 2025 年 1 月 14 号添加
 #### lezhu(上海)
 * :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript 代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
