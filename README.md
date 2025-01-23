@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 23 号添加
+#### 前端小周(郑州) -  [个人主页](https://www.inav.site/)
+* :white_check_mark: [酒桌游戏789](https://www.inav.site/static/mp/789.png)：适合多人一起玩，掷出7点的倒酒(随意量)，掷出8点的喝杯中酒的一半，掷出9点的把杯中酒全部喝完。掷出两个点数相同轮换顺序颠倒，两个1可以指定人喝酒。可切换二人情侣模式
+
+#### wo-zx(广州) 
+* :white_check_mark: [优好搜·SEO优化工具](https://www.uhaoseo.com)：免费精准诊断网站 SEO 状况，提供专业审查报告，致力保障网站和品牌在搜索引擎内的可见性 - [更多介绍](https://www.uhaoseo.com/seo-analyzer)
+
 ### 2025 年 1 月 22 号添加
 #### moldav(上海) - [Github](https://github.com/HahaHa0099/MinuteTimer) 
 * :white_check_mark: [Minute Timer](https://minutetimers.net/)：在线计时器（轻量级且用户友好）
