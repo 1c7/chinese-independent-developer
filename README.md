@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 24 号添加
+#### Benson Gao(北京) 
+* :white_check_mark: [Supametas.AI](https://supametas.ai)：从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)
+
+#### JasmineChzI(深圳) 
+* :white_check_mark: [PhotoG](https://photog.art/)：PhotoG 是专为电商卖家打造的AI摄影工具。轻松制作出专业级产品图片，自定义背景，优化视觉效果，助力销售增长
+
 ### 2025 年 1 月 23 号添加
 #### 前端小周(郑州) -  [个人主页](https://www.inav.site/)
 * :white_check_mark: [酒桌游戏789](https://www.inav.site/static/mp/789.png)：适合多人一起玩，掷出7点的倒酒(随意量)，掷出8点的喝杯中酒的一半，掷出9点的把杯中酒全部喝完。掷出两个点数相同轮换顺序颠倒，两个1可以指定人喝酒。可切换二人情侣模式
