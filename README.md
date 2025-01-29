@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 1 月 29 号添加
+#### Xibobo(上海) 
+* :white_check_mark: [在线计数器](https://www.clickcounter.online/)：一个在线计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
+
 ### 2025 年 1 月 24 号添加
 #### Benson Gao(北京) 
 * :white_check_mark: [Supametas.AI](https://supametas.ai)：从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)
