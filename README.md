@@ -21,8 +21,11 @@
 ## 3. 项目列表
 
 ### 2025 年 1 月 29 号添加
+#### geektao1024 - [Github](https://github.com/geektao1024)
+* :white_check_mark: [学习 Cursor](https://learn-cursor.com/)：Cursor AI 编程助手学习平台——专业、全面，完全开源！Learn Cursor 是一个致力于帮助中文开发者更好地使用 Cursor AI 编程助手的专业文档平台。无论您是刚接触 Cursor 的新手，还是想深入了解高级功能的资深用户，这里都能为您提供清晰详实的中文教程和实用指南
+
 #### Xibobo(上海) 
-* :white_check_mark: [在线计数器](https://www.clickcounter.online/)：一个在线计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
+* :white_check_mark: [在线计数器](https://www.clickcounter.online/)：计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
 
 ### 2025 年 1 月 24 号添加
 #### Benson Gao(北京) 
