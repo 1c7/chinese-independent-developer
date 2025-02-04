@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 4 号添加
+#### 罗一蛋(广州)
+* :white_check_mark: [慢图浏览](https://relaxpic.com/)：安卓相册（快速、简洁），内置相机、隐私空间、文件传输助手等功能，保护用户隐私
+
+#### wmin(北京)
+* :white_check_mark: [Crop Image](https://cropimage.app)：图片裁剪工具（免费），支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，可以裁剪不用的图形、圆形、方形、心形、多边形等裁剪形状
+
 ### 2025 年 1 月 29 号添加
 #### geektao1024 - [Github](https://github.com/geektao1024)
 * :white_check_mark: [学习 Cursor](https://learn-cursor.com/)：Cursor AI 编程助手学习平台——专业、全面，完全开源！Learn Cursor 是一个致力于帮助中文开发者更好地使用 Cursor AI 编程助手的专业文档平台。无论您是刚接触 Cursor 的新手，还是想深入了解高级功能的资深用户，这里都能为您提供清晰详实的中文教程和实用指南
