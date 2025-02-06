@@ -22,7 +22,7 @@
 
 ### 2025 年 2 月 6 号添加
 #### yuesheng zheng(香港)
-* :white_check_mark: [SoBricks](https://sobricks.com/)：SoBricks 是极具创意的在线平台，上传照片，即可将其转化为独一无二的 3D 积木。用户可以在线 3D 预览积木设计，和自由调整积木模型。此外，平台提供可交互的积木搭建教程网页，帮助用户轻松完成创作，快来体验吧！ - [更多介绍](https://sobricks.com/pages/about-us)
+* :white_check_mark: [SoBricks](https://sobricks.com/)：上传照片，即可将其转化为独一无二的 3D 积木。用户可以在线 3D 预览积木设计，和自由调整积木模型。平台提供可交互的积木搭建教程网页，帮助用户轻松完成创作，快来体验吧！ - [更多介绍](https://sobricks.com/pages/about-us)
 
 ### 2025 年 2 月 4 号添加
 #### 罗一蛋(广州)
