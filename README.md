@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 7 号添加
+#### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
+* :white_check_mark: [BoilerplateHunt](https://boilerplatehunt.com)：SaaS模板导航站，找到最合适的模板，加速你的SaaS上线。
+
+
 ### 2025 年 2 月 6 号添加
 #### yuesheng zheng(香港)
 * :white_check_mark: [SoBricks](https://sobricks.com/)：上传照片，即可将其转化为独一无二的 3D 积木。用户可以在线 3D 预览积木设计，和自由调整积木模型。平台提供可交互的积木搭建教程网页，帮助用户轻松完成创作，快来体验吧！ - [更多介绍](https://sobricks.com/pages/about-us)
