@@ -19,6 +19,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2025 年 2 月 10 号添加
+#### nanshan(北京) 
+* :white_check_mark: [NavFolders导航站](https://navfolders.com/)： 发现、组织和分享跨类别的最佳网站。您获取重要在线资源的一站式目的地
+
+#### ZHIYA(武汉)
+* :white_check_mark: [视频分割专业版](https://llcut.zhiyakeji.com/)：快速无损精准分割长视频音频, 手机版的 lossless-cut
+
 ### 2025 年 2 月 8 号添加
 #### Q-Sansan
 * :white_check_mark: [Al Visibility](https://www.aivisibility.io/)：提供SEO、内容营销、网站分析等领域信息和工具的网站
