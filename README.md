@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 2 月 12 号添加
+#### nanshan(北京) - [Github](https://github.com/nansshan)
+* :white_check_mark: [图片切割神器 GridMaker ](https://gridmaker.co)：一键切割图片，完美适配社交媒体多图发布！
+
 #### yaolifeng0629 - [Github](https://github.com/yaolifeng0629)
 * :white_check_mark: [INDIE TOOLS](https://www.indietools.work/)：独立开发出海精选、高质量工具 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/476), [开源地址](https://github.com/yaolifeng0629/Awesome-independent-tools)
 
