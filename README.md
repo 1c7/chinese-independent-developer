@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 12 号添加
+#### yaolifeng0629 - [Github](https://github.com/yaolifeng0629)
+* :white_check_mark: [INDIE TOOLS](https://www.indietools.work/)：独立开发出海精选、高质量工具 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/476), [开源地址](https://github.com/yaolifeng0629/Awesome-independent-tools)
+
+#### jianpingliu(上海)
+* :white_check_mark: [WikiTok](https://wikitok.cc)：抖音风格的维基百科文章信息流
+
 ### 2025 年 2 月 10 号添加
 #### nanshan(北京) 
 * :white_check_mark: [NavFolders导航站](https://navfolders.com/)： 发现、组织和分享跨类别的最佳网站。您获取重要在线资源的一站式目的地
