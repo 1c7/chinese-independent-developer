@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 16 号添加
+#### Sen Zheng 郑越升 - [Github](https://github.com/dayinji)
+* :white_check_mark: [freaky-fonts.com](http://freaky-fonts.com/)：怪异字体生成工具，可以把普通的字符变成吸人眼球的字符，发到 Facebook/Instagram/Whatsapp/Twitter 等社交媒体，还有字符变换工具，可以按你喜欢的字体风格随机搭配，自定义字符的映射表/反转文本/打乱文本等
+
 ### 2025 年 2 月 12 号添加
 #### nanshan(北京) - [Github](https://github.com/nansshan)
 * :white_check_mark: [图片切割神器 GridMaker ](https://gridmaker.co)：一键切割图片，完美适配社交媒体多图发布！
