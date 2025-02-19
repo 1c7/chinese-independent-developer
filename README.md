@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 19 号添加
+#### 邱比特(大连) - [Github](https://github.com/MQbit)
+* :white_check_mark: [aiagents42.com](https://aiagents42.com/)：AI Agents 导航站
+
 ### 2025 年 2 月 16 号添加
 #### Sen Zheng 郑越升 - [Github](https://github.com/dayinji)
 * :white_check_mark: [freaky-fonts.com](http://freaky-fonts.com/)：怪异字体生成工具，可以把普通的字符变成吸人眼球的字符，发到 Facebook/Instagram/Whatsapp/Twitter 等社交媒体，还有字符变换工具，可以按你喜欢的字体风格随机搭配，自定义字符的映射表/反转文本/打乱文本等
