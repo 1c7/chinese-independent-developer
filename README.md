@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 20 号添加
+#### Ryan(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小帖](https://apps.apple.com/us/app/xiaotie-batch-image-generator/id6741154916)：iOS 端的模板批量生成图片的工具，支持表格文件和飞书多维表格同步 - [更多介绍](https://apps.apple.com/us/app/xiaotie-batch-image-generator/id6741154916)
+
 ### 2025 年 2 月 19 号添加
 #### 邱比特(大连) - [Github](https://github.com/MQbit)
 * :white_check_mark: [aiagents42.com](https://aiagents42.com/)：AI Agents 导航站
