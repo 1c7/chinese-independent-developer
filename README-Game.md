@@ -2,6 +2,9 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 2 月 20 号添加
+#### 奥利弗(北京) - [Github](https://github.com/Oliverwqcwrw), [博客](https://www.aolifu.org/)
+* :white_check_mark: [摸鱼小栈](https://moyu.aolifu.org)：小游戏集合 - [更多介绍](https://www.aolifu.org/article/moyu)
 
 ### 2025 年 1 月 4 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
