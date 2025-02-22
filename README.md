@@ -22,7 +22,7 @@
 
 ### 2025 年 2 月 22 号添加
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com/)
-* :white_check_mark:[Image Translate AI](https://imagetranslate.ai)：翻译 70 多种语言的图片文本。保持原始布局，扩大全球影响力，并简化本地化流程——专为专业人士，电商商家打造的 AI 图片翻译软件
+* :white_check_mark: [Image Translate AI](https://imagetranslate.ai)：AI 图片翻译软件，翻译 70 多种语言的图片文本，专为专业人士，电商商家打造。保持图片原始布局，扩大全球影响力，并简化本地化流程
 
 ### 2025 年 2 月 20 号添加
 #### Ryan(北京) - [Github](https://github.com/Leochens)
