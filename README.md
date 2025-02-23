@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 23 号添加
+#### sinpo - [Github](https://github.com/JapaneseNameGenerator/JapaneseNameGenerator)
+* :white_check_mark: [日语名字生成器](https://japanesename-generator.com)：免费 AI 日文名字生成器！生成平假名、片假名、含义和发音
+
 ### 2025 年 2 月 22 号添加
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com/)
 * :white_check_mark: [Image Translate AI](https://imagetranslate.ai)：AI 图片翻译软件，翻译 70 多种语言的图片文本，专为专业人士，电商商家打造。保持图片原始布局，扩大全球影响力，并简化本地化流程
