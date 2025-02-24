@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 24 号添加
+#### Sawana(上海) - [Github](https://github.com/waitlistSawana)
+* :white_check_mark: [高能闪刻 | Highlight Pulse](https://highlightpulse.site/)：实时标记B站直播的高光时刻，一键导出记录数据，查看切片工具箱
+
+#### BHznJNs - [GitHub](https://github.com/BHznJNs)
+* :white_check_mark: [NFC PLinkD (中文名：电纸链接)](https://github.com/BHznJNs/NFC-PLinkD): 能把 NFC 卡片、贴纸当作实体的链接，将电子资料链接到纸质资料中的 App - [更多介绍](https://bhznjns.github.io/#static/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91/%E8%BF%9B%E8%A1%8C%E4%B8%AD/NFC-PLinkD/)
+
+#### Moldav(ShangHai) - [Github](https://github.com/[WebClocks](https://github.com/WebClocks))
+* :white_check_mark: [Online Web Clock](https://webclock.online/)：网页时钟 - 免费在线时钟和时间工具
+
 ### 2025 年 2 月 23 号添加
 #### sinpo - [Github](https://github.com/JapaneseNameGenerator/JapaneseNameGenerator)
 * :white_check_mark: [日语名字生成器](https://japanesename-generator.com)：免费 AI 日文名字生成器！生成平假名、片假名、含义和发音
