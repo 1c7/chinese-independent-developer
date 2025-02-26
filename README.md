@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 2 月 26 号添加
+#### 木易(武汉)
+* :white_check_mark: [DeepSeek Chat](https://ai-chatbot.top/)：DeepSeek R1/V3 671B 满血版在线免费使用
+
+#### damaodog - [Github](https://github.com/damaodog)
+* :white_check_mark: [Midjourney Sref code 收集](https://mjsrefcode.com/)：Midjourney 的sref（风格一致性代码）收集库，现阶段已收集sref代码3000+
+
 #### Sven(昆明) - [Github](https://github.com/shensven)
 * :white_check_mark: [Swads](https://swads.app/)：群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS
 
