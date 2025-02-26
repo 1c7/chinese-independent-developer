@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 26 号添加
+#### Sven(昆明) - [Github](https://github.com/shensven)
+* :white_check_mark: [Swads](https://swads.app/)：群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS
+
 ### 2025 年 2 月 24 号添加
 #### Sawana(上海) - [Github](https://github.com/waitlistSawana)
 * :white_check_mark: [高能闪刻 | Highlight Pulse](https://highlightpulse.site/)：实时标记B站直播的高光时刻，一键导出记录数据，查看切片工具箱
@@ -1779,7 +1783,7 @@
 
 ### 2023年2月22号添加
 ---
-#### SvenFE（昆明）- [Github](https://github.com/shensven)
+#### Sven（昆明）- [Github](https://github.com/shensven)
 * :white_check_mark: [Morphling](https://github.com/shensven/Morphling): 将 Hex、RGB 或者 HSL 色值转换为 CSS filter 属性的 macOS 桌面工具。
 
 ### 2023年2月19号添加
