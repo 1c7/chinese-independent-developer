@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 27 号添加
+#### Synexa AI - [Github](https://github.com/synexa-ai)
+* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码即可部署 AI 模型 (Replicate 50% 低价平替)，Synexa是运行无服务器AI API最具性价比的解决方案，我们提供业界最具竞争力的A100 GPU价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
+
+#### SeaEpoch(安徽) - [Github](https://github.com/SeaYJ)
+* :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick)：鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化 
+
 ### 2025 年 2 月 26 号添加
 #### 木易(武汉)
 * :white_check_mark: [DeepSeek Chat](https://ai-chatbot.top/)：DeepSeek R1/V3 671B 满血版在线免费使用
