@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 2 月 28 号添加
+#### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
+* :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
+* :white_check_mark: [Dynamic-photo-video-display-wall](https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall)：多宫格动态播放视频/照片
+
 ### 2025 年 2 月 27 号添加
 #### Synexa AI - [Github](https://github.com/synexa-ai)
 * :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码即可部署 AI 模型 (Replicate 50% 低价平替)，Synexa是运行无服务器AI API最具性价比的解决方案，我们提供业界最具竞争力的A100 GPU价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
