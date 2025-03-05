@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 6 号添加
+#### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
+* :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
+
 ### 2025 年 2 月 28 号添加
 #### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
 * :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
