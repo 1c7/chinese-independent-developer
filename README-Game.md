@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 3 月 5 号添加
+#### zoe(武汉) - [Github](https://github.com/dragonsweepers/)
+* :white_check_mark: [dragonsweeper](https://dragonsweepers.com)：创新型的扫雷游戏，融合了经典FC时代日式角色扮演和现代即时游戏元素
+
 ### 2025 年 2 月 28 号添加
 #### suwen(广州) - [Github](https://github.com/sprunkicorruptbox3)
 * :white_check_mark: [Sprunki Corruptbox 3](https://corrupt-box.net)：Sprunki Corruptbox系列游戏MOD网站，可以免费在线玩。
