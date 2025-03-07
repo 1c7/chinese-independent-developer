@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 3 月 7 号添加
+#### Peter - [Github](https://github.com/hx23840),
+* :white_check_mark: [JustSEO](https://justseo.org/)：导航站，发现最佳SEO工具与资源，用于发现和比较顶级SEO工具、插件、软件和资源，以提升您的搜索排名
+
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
 * :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)：中英文完美 2:1 宽的 JetBrains Mono + Maple Mono 无衬线合成字体，工整，优雅，超高可读性
 
