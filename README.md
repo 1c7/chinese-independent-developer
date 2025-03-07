@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 7 号添加
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)：中英文完美 2:1 宽的 JetBrains Mono + Maple Mono 无衬线合成字体，工整，优雅，超高可读性
+
+#### howoii(上海) - [Github](https://github.com/howoii/SmartBookmark)
+* :white_check_mark: [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa)：AI 智能书签管理插件，自动生成标签，语义化搜索，告别繁琐管理——用AI重构你的书签管理体验
+
 ### 2025 年 3 月 6 号添加
 #### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
 * :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
