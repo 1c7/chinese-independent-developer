@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+
+### 2025 年 3 月 8 号添加
+#### timerring - [Github](https://github.com/timerring)
+* :white_check_mark: [bilive](https://bilive.timerring.com/)：自动监听并录制B站直播和弹幕，7 x 24 小时无人监守录制、渲染弹幕、识别字幕、自动切片、自动上传、启动项目，人人都是录播员 - [开源地址](https://github.com/timerring/bilive)
+
 ### 2025 年 3 月 7 号添加
 #### Peter - [Github](https://github.com/hx23840),
 * :white_check_mark: [JustSEO](https://justseo.org/)：导航站，发现最佳SEO工具与资源，用于发现和比较顶级SEO工具、插件、软件和资源，以提升您的搜索排名
