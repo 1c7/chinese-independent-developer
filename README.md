@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 12 号添加
+#### suwenly(广州) - [Github](https://github.com/TravelTranslator/)
+* :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，可以实时语音转文字并且翻译成多国语言，还可以朗读翻译的结果，与外国友人无缝沟通
+
+#### CrisChr - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
+* :white_check_mark: [JSON Translator](https://jsontrans.vercel.app/)：用 DeepSeek-V3 帮助网站进行多语言翻译的工具，支持几十种国家的语言，只需提供 DeepSeek API key 并上传 i18n JSON 文件，选择要翻译的语言即可。服务于前端开发者。
 
 ### 2025 年 3 月 8 号添加
 #### timerring - [Github](https://github.com/timerring)
