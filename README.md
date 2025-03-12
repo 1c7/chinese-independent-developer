@@ -22,18 +22,18 @@
 
 ### 2025 年 3 月 12 号添加
 #### suwenly(广州) - [Github](https://github.com/TravelTranslator/)
-* :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，可以实时语音转文字并且翻译成多国语言，还可以朗读翻译的结果，与外国友人无缝沟通
+* :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，实时语音转文字并翻译成多国语言，朗读翻译的结果，与外国友人无缝沟通
 
 #### CrisChr - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
 * :white_check_mark: [JSON Translator](https://jsontrans.vercel.app/)：用 DeepSeek-V3 帮助网站进行多语言翻译的工具，支持几十种国家的语言，只需提供 DeepSeek API key 并上传 i18n JSON 文件，选择要翻译的语言即可。服务于前端开发者。
 
 ### 2025 年 3 月 8 号添加
 #### timerring - [Github](https://github.com/timerring)
-* :white_check_mark: [bilive](https://bilive.timerring.com/)：自动监听并录制B站直播和弹幕，7 x 24 小时无人监守录制、渲染弹幕、识别字幕、自动切片、自动上传、启动项目，人人都是录播员 - [开源地址](https://github.com/timerring/bilive)
+* :white_check_mark: [bilive](https://bilive.timerring.com/)：自动监听并录制 B 站直播和弹幕，7 x 24 小时无人监守录制、渲染弹幕、识别字幕、自动切片、自动上传、启动项目，人人都是录播员 - [开源地址](https://github.com/timerring/bilive)
 
 ### 2025 年 3 月 7 号添加
 #### Peter - [Github](https://github.com/hx23840),
-* :white_check_mark: [JustSEO](https://justseo.org/)：导航站，发现最佳SEO工具与资源，用于发现和比较顶级SEO工具、插件、软件和资源，以提升您的搜索排名
+* :white_check_mark: [JustSEO](https://justseo.org/)：导航站，发现最佳 SEO 工具与资源，用于发现和比较顶级 SEO 工具、插件、软件和资源，以提升您的搜索排名
 
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
 * :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)：中英文完美 2:1 宽的 JetBrains Mono + Maple Mono 无衬线合成字体，工整，优雅，超高可读性
@@ -52,7 +52,7 @@
 
 ### 2025 年 2 月 27 号添加
 #### Synexa AI - [Github](https://github.com/synexa-ai)
-* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码即可部署 AI 模型 (Replicate 50% 低价平替)，Synexa是运行无服务器AI API最具性价比的解决方案，我们提供业界最具竞争力的A100 GPU价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
+* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码部署 AI 模型 (Replicate 50% 低价平替)，Synexa 是运行无服务器 AI API 最具性价比的解决方案，提供业界最具竞争力的 A100 GPU 价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
 
 #### SeaEpoch(安徽) - [Github](https://github.com/SeaYJ)
 * :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick)：鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化 
