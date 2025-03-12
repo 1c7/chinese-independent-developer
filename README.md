@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 3 月 12 号添加
+
+#### 超杰(河南)
+* :white_check_mark: [SlideBrowser](https://deepthinkapps.com/zh/apps/slide-browser/)：是一个轻量的滑动浏览器，给你一个不一样的浏览器交互体验
+
 #### suwenly(广州) - [Github](https://github.com/TravelTranslator/)
 * :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，实时语音转文字并翻译成多国语言，朗读翻译的结果，与外国友人无缝沟通
 
