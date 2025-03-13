@@ -22,11 +22,11 @@
 
 ### 2025 年 3 月 13 号添加
 #### Go7hic - [Github](https://github.com/Go7hic)
-* :white_check_mark: [涂色乐园](https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad) 通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)
+* :white_check_mark: [涂色乐园](https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad)：通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)
 
 #### 7SaiWen(成都)
 * :white_check_mark: [SSH Monitor: SSH终端与服务器监控](https://apps.apple.com/cn/app/id6479361680)：SSH 远程云服务器/容器监控管理终端
-* :white_check_mark: [OpenTerm](https://apps.apple.com/cn/app/openterm/id1481149807)：终端模拟器, Linux in your pocket!
+* :white_check_mark: [OpenTerm](https://apps.apple.com/cn/app/openterm/id1481149807)：终端模拟器, 口袋里的 Linux
 
 ### 2025 年 3 月 12 号添加
 #### 超杰(河南)
