@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 14 号添加
+#### jzhone(佛山)
+* :white_check_mark: [反斗限免](https://free.apprcn.com)：软件、游戏限免资讯网站
+* :white_check_mark: [BFP Calculator](https://bfpcalculator.com)：免费计算你的体脂率，并提供相应解决方案
+
 ### 2025 年 3 月 13 号添加
 #### Go7hic - [Github](https://github.com/Go7hic)
 * :white_check_mark: [涂色乐园](https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad)：通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)
