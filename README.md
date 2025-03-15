@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 15 号添加
+#### Someuxyz - [Github](github.com/someu/aigotools) 
+* :white_check_mark:  [Aigotools](https://github.com/someu/aigotools/blob/main/README.zh-CN.md)：开源导航站
+* :white_check_mark: [Similarlabs](http://similarlabs.com/)：洞察需求和流量，发现和对比你的下一个心仪工具
+
 ### 2025 年 3 月 14 号添加
 #### jzhone(佛山)
 * :white_check_mark: [反斗限免](https://free.apprcn.com)：软件、游戏限免资讯网站
