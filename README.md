@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 3 月 16 号添加
+#### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
+* :white_check_mark:[海嘉 AI 实验室智能应用](http://117.72.40.129:8001/)：表格问答，文字 OCR，表格图片结构识别等
+
 #### Jeremyym - [Github](https://github.com/Jeremyymxiao)
 * :white_check_mark: [AI Agents Directory](https://ai-agents-directory.com): AI 智能体导航站
 * :white_check_mark: [Harry Potter House Quiz](https://harrypotterhousequiz.pro): 哈利波特分院测试
