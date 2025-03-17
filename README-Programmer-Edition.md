@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 3 月 17 号添加
+#### dodid - [Github](https://github.com/dodid)
+* :white_check_mark: [PAC代理自动配置管理器](https://github.com/dodid/pac-proxy-manager)：管理代理自动配置文件（PAC），支持灵活的代理规则设置
+
 ### 2025 年 2 月 10 号添加
 #### yvling(合肥) - [Github](https://github.com/yv1ing), [博客](https://blog.yvling.cn)
 * :white_check_mark: [茉莉审计](https://github.com/yv1ing/MollyAudit)：LangChain 驱动的自动代码审计工具
