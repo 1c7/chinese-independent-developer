@@ -23,7 +23,7 @@
 ### 2025 年 3 月 19 号添加
 #### Ryan - [Github](https://github.com/Ryan10Yu)
 * :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/)：基于 Flux 的图像生成网站
-* :white_check_mark: [AI Hairstyle](https://aihairstyle.net/)：上传您的照片，查看不同发型的效果（基于 AI）
+* :white_check_mark: [AI Hairstyle](https://aihairstyle.net/)：上传照片，用 AI 生成不同发型的图片，帮助您选择合适的发型
 
 ### 2025 年 3 月 16 号添加
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
