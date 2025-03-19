@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 19 号添加
+#### Ryan - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/)：基于 Flux 的图像生成网站
+* :white_check_mark: [AI Hairstyle](https://aihairstyle.net/)：上传您的照片，查看不同发型的效果（基于 AI）
+
 ### 2025 年 3 月 16 号添加
 #### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
 * :white_check_mark: [海嘉 AI 实验室智能应用](http://117.72.40.129:8001/)：表格问答，文字 OCR，表格图片结构识别等
