@@ -46,7 +46,7 @@
 
 ### 2025 年 3 月 15 号添加
 #### 橘子哥
-* :white_check_mark: [Secure TempMail](https://tempmail.fastbytelab.com)：即用即走的临时邮箱，保护你的个人隐私安全 
+* :white_check_mark: [TempMail.Love](https://tempmail.love/)：即用即走的临时邮箱，保护你的个人隐私安全 
 
 #### Someuxyz - [Github](github.com/someu/aigotools) 
 * :white_check_mark:  [Aigotools](https://github.com/someu/aigotools/blob/main/README.zh-CN.md)：开源导航站
