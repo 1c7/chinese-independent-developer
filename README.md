@@ -20,15 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 24 号添加
+#### 参要字帖 - [Github](https://github.com/giroudg)
+* :white_check_mark: [参要 AI - 诗词字帖](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer)：用诗词作为练字内容，又练字又温习诗词，双倍收获
+
 ### 2025 年 3 月 20 号添加
-
 #### Duan - [Github](https://github.com/duanduanhh)
-
 * :white_check_mark: [VIEW PRE](https://viewpre.com/)：中国观景指数预测，当前提供泰山、黄山、武功山云海近三日指数预测，后续扩展更多景点指数预测。期待大家的旅行都不扫兴而归！
-* :white_check_mark: [Tool Hut](https://tool-hut.com/)：在线工具箱，内页支持文本DIFF、JSON序列化、时间戳转换等小工具，让天下没有难用的工具。
+* :white_check_mark: [Tool Hut](https://tool-hut.com/)：在线工具箱，内页支持文本 DIFF、JSON 序列化、时间戳转换等小工具，让天下没有难用的工具。
 
 ### 2025 年 3 月 19 号添加
-
 #### Ryan - [Github](https://github.com/Ryan10Yu)
 * :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/)：基于 Flux 的图像生成网站
 * :white_check_mark: [AI Hairstyle](https://aihairstyle.net/)：上传照片，用 AI 生成不同发型的图片，帮助您选择合适的发型
