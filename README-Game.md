@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 3 月 24 号添加
+#### 隋十一(北京) - [Github](https://github.com/Hazards10)
+* :white_check_mark: [Car Games Unblocked](https://cargamesunblocked.net/)：汽车驾驶类HTML5游戏网站
+
 ### 2025 年 3 月 5 号添加
 #### zoe(武汉) - [Github](https://github.com/dragonsweepers/)
 * :white_check_mark: [dragonsweeper](https://dragonsweepers.com)：创新型的扫雷游戏，融合了经典FC时代日式角色扮演和现代即时游戏元素
