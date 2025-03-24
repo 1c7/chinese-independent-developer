@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 3 月 24 号添加
+## underwoodxie
+* :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无需注册即可使用。它以简洁的界面和专业级的效果处理能力著称，特别是其独特的半色调效果和CRT像素效果。无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
+
 #### 参要字帖 - [Github](https://github.com/giroudg)
 * :white_check_mark: [参要 AI - 诗词字帖](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer)：用诗词作为练字内容，又练字又温习诗词，双倍收获
 
