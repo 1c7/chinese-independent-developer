@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 25 号添加
+#### 超能刚哥 - [Github](https://github.com/margox/)
+* :white_check_mark: [音之梦](https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%8B%E6%A2%A6-%E5%8A%A9%E4%BD%A0%E4%B8%80%E5%A4%9C%E5%A5%BD%E6%A2%A6/id6742869783)：简单纯粹的轻音乐、白噪声和环境声App，提供数十首轻音乐、几十种环境声，数十亿种搭配混合结果，用于辅助睡眠或者冥想，目前已上架iOS App Store。
+
 ### 2025 年 3 月 24 号添加
 #### underwoodxie
 * :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
