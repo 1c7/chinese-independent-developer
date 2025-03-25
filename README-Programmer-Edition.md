@@ -2,9 +2,9 @@
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
 
-**程序员版和主版面的区别是**：
-* 程序员版：用户是程序员，懂得使用命令行，知道怎么 `npm install` 等。列表里的东西是开源博客/命令行工具等
-* 主版面：用户不是程序员是普通人，列表里的东西是网站/App/桌面端应用，必须打开即用
+**程序员版和主版面的区别**：
+* 程序员版：用户是程序员，会用命令行，知道什么是 `npm install` 等。列表里的产品是开源博客/命令行工具等
+* 主版面：用户不是程序员是普通人，列表里的产品是网站/App/桌面端应用，必须打开即用
 
 **为什么开这个列表**：
 Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不是普通用户能用的东西，
@@ -12,7 +12,87 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 没法加到主版面里去，不是因为不好，只是因为类型不合。
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
-程序员版开始于2019年4月11号, 主版面开始于2018年3月
+程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
+
+### 2025 年 3 月 17 号添加
+#### dodid - [Github](https://github.com/dodid)
+* :white_check_mark: [PAC代理自动配置管理器](https://github.com/dodid/pac-proxy-manager)：管理代理自动配置文件（PAC），支持灵活的代理规则设置
+
+### 2025 年 2 月 10 号添加
+#### yvling(合肥) - [Github](https://github.com/yv1ing), [博客](https://blog.yvling.cn)
+* :white_check_mark: [茉莉审计](https://github.com/yv1ing/MollyAudit)：LangChain 驱动的自动代码审计工具
+
+### 2025 年 1 月 12 号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: Sitemap Creator ([Stable](https://github.com/marketplace/actions/sitemap-creator-stable) | [Pre-Release](https://github.com/marketplace/actions/sitemap-creator-pre-release))：用 GitHub Action 🚀 在你的仓库中创建和更新网站地图
+
+### 2024 年 12 月 28 号添加
+#### javayhu - [Github](https://github.com/javayhu), [Twitter](https://x.com/javay_hu)
+* :white_check_mark: [Free Directory Boilerplate](https://github.com/javayhu/free-directory-boilerplate)：开源的导航站模板，Nextjs + Authjs + Sanity + ShadcnUI
+
+### 2024 年 12 月 23 号添加
+#### 喻灵(合肥) - [Github](https://github.com/yv1ing), [博客](https://yvling.cn/)
+* :white_check_mark: [MollyBlog](https://github.com/yv1ing/MollyBlog)：个人博客系统（简单易用）
+
+### 2024 年 11 月 15 号添加
+#### xtthaop(北京) - [Github](https://github.com/xtthaop), [博客](https://zxctb.top)
+* :white_check_mark: [知行笔记 - Note, Share, Possess](https://github.com/xtthaop/zxnote-web)：开源内容管理系统，可组合开源博客 [知行博客](https://github.com/xtthaop/zxblog-web) 搭建个人博客，记录，分享，拥有！
+
+### 2024 年 11 月 3 号添加
+#### d2learn - [Github](https://github.com/d2learn), [论坛](https://forum.d2learn.org/category/9/xlings)
+* :white_check_mark: [xlings](https://github.com/d2learn/xlings)： 一个 `⌈软件安装、一键环境配置、AI代码提示、实时编译运行、教程教学项目搭建和管理⌋` 编程学习和课程搭建工具🛠️ - [更多介绍](https://d2learn.org/xlings)
+
+### 2024 年 10 月 28 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd)
+* :white_check_mark: [RSS Impact](https://github.com/CaoMeiYouRen/rss-impact-server)：RSS Impact 是一个支持 Hook 的 RSS 订阅工具，支持 推送通知、Webhook 、下载、BitTorrent、AI 大模型 等多种形式的 Hook 。
+为什么做这个工具：在使用 RSS 的过程中，我产生了一些需求，例如 推送通知、AI 总结、下载图片、下载 BitTorrent 等，为此还分别写了不同的工具。
+然后我就意识到，这些需求都可以概括为 `RSS 轮询` + `执行某个操作`，因此，将这些操作抽象出来，作为一个 Hook，是更合适的选择，也更容易复用。
+
+### 2024 年 10 月 13 号添加
+#### 阿凯呵 - [博客]( https://www.sodair.top)
+* :white_check_mark: [LunaSwapping](https://github.com/loxi-opensource/luna-swapping)：开源的 AI 换脸应用解决方案。1 张照片快速生成高质量 AI 写真照，提供小程序端、服务端、管理后全套代码。内置 10万+ 高清写真模板，可自定义模板管理。提供基础 AI 换脸能力，可构建等多场景玩法。
+
+### 2024 年 10 月 7 号添加
+* :white_check_mark: [Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb/)：一体机和电子白板实用软件合集
+
+### 2024 年 10 月 2 号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [芙芙工具箱开发工具](https://github.com/DuckDuckStudio/Fufu_Dev_Tools/)：芙芙工具箱的开发工具包，可以进行一些代码检查和连续尝试操作，后续也会添加更多的功能。
+
+### 2024 年 8 月 5 号添加
+#### OpenDataLab(上海) - [Github](https://github.com/opendatalab)
+* :white_check_mark: [LabelU](https://github.com/opendatalab/labelU)：开源标注工具（轻量级）- [更多介绍](https://github.com/opendatalab/labelU/blob/main/README_zh-CN.md)
+* :white_check_mark: [LabelLLM](https://github.com/opendatalab/LabelLLM)：大模型对话标注平台（开源免费）- [更多介绍](https://github.com/opendatalab/LabelLLM/wiki/README%E2%80%90zh)
+
+### 2024 年 7 月 22 号添加
+#### ufo5260987423 - [Github](https://github.com/ufo5260987423)
+* :white_check_mark: [scheme-langserver](https://github.com/ufo5260987423/scheme-langserver)：主打 Scheme 语言局部变量自动补全的语言服务器，还有类型推断功能。
+
+### 2024 年 7 月 17 号添加
+#### Zen Huifer - [Github](http://github.com/huifer)
+* :white_check_mark: [go-iot-platform](https://gitee.com/pychfarm_admin/go-iot-platform)：Go IoT 平台，高效、可扩展的物联网解决方案，用 Go 语言开发。专注于提供稳定、可靠的 MQTT 客户端管理，以及对 MQTT上报数据的全面处理和分析 - [更多介绍](https://gitee.com/pychfarm_admin/go-iot-platform/milestones/202872), [GitHub](https://github.com/iot-ecology/go-iot-platform)
+
+### 2024年7月15号添加
+#### 0x676e67 - [Github](https://github.com/0x676e67)
+* :white_check_mark: [reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate)：简单而强大的 Rust HTTP/WebSocket 客户端（模拟 TLS/JA3/JA4/HTTP2 指纹）
+
+### 2024年6月28号添加
+#### LeoCodeEasy - [Github](https://github.com/LeoCodeEasy)
+* :white_check_mark: [tinrh](https://tinrh.vercel.app)：无需路由即可实现页面切换，适用于Vue3
+
+### 2024年6月25号添加
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :clock8: [GitHub Labels Manager](https://github.com/DuckDuckStudio/GitHub-Labels-Manager/)：自动帮你复制仓库标签、获取仓库标签、清空已有标签的工具 - 因与 [GitHub Cil](https://cli.github.com/manual/gh_label_clone) 重复关闭
+
+### 2024年6月4号添加
+#### 0x676e67 - [Github](https://github.com/0x676e67)
+* :white_check_mark: [vproxy](https://github.com/0x676e67/vproxy)：简单而强大的 Rust HTTP/Socks5 代理，允许使用从 CIDR 地址计算的 IP 绑定发起网络请求 - [更多介绍](https://github.com/0x676e67/vproxy)
+
+### 2024年5月29号添加
+#### 鬼画符 - [主页](http://www.guanleiming.com)
+* :white_check_mark: [translate.js](https://github.com/xnx3/translate)：两行 JS 实现 HTML 全自动翻译。无需改动页面、无语言配置文件、无 API Key、对 SEO 友好！
+* :white_check_mark: [templatespider](https://github.com/xnx3/templatespider)：扒网站工具，看好哪个网站，指定好 URL，自动扒下来做成HTML模版。所见网站，皆可为我所用！
+* :white_check_mark: [wangmarket](https://github.com/xnx3/wangmarket)：私有化部署自己的 SAAS 云建站系统，后台开通管理网站，每个网站独立管理。不需任何服务器及后端知识。一台1核2G 服务器可建上万独立网站。
 
 ### 2024年5月23号添加
 #### LIGHT CHASER - [Github](https://github.com/xiaopujun)
@@ -74,7 +154,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2024年3月13号添加
 #### chaos-zhu [GitHub](https://github.com/chaos-zhu)
-* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：简易的个人 Linux 服务器ssh管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
+* :white_check_mark: [EasyNode](https://github.com/chaos-zhu/easynode)：简易的个人 Linux 服务器 ssh 管理面板(webSSH&webSFTP)。多服务器管理; 通过 WebSocket 实时更新服务器基本信息: 系统、公网IP、CPU、内存、硬盘、网卡等；基于浏览器解决SSH&SFTP跨端烦恼——Web SSH&Web SFTP - [更多介绍](https://github.com/chaos-zhu/easynode)
 
 ### 2024年3月9号添加
 #### work7z [GitHub](https://github.com/work7z)
@@ -93,7 +173,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2024年1月12日添加
 ---
 #### Aooohan(北京) - [主页](https://github.com/aooohan)
-* :white_check_mark: [VersionFox](https://github.com/version-fox/vfox)：跨平台、可拓展的 SDK 版本管理工具, 支持Nodejs、Java、Dart、Flutter等多种SDK.
+* :white_check_mark: [VersionFox](https://github.com/version-fox/vfox)：跨平台、可拓展的 SDK 版本管理工具, 支持 Nodejs、Java、Dart、Flutter 等多种SDK.
 
 ### 2023年12月18日添加
 ---
@@ -154,7 +234,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2023年8月4日添加
 ---
 #### Morestrive - [Github](https://github.com/more-strive)
-* :white_check_mark: [vue-fabric-design](https://more-strive.github.io/design/)：基于 Canvas 的开源版"创客贴"，在线生成名片、海报、宣传单，支持 文字、图片、形状、线条、二维码 、条形码等 - [更多介绍](https://github.com/more-strive/vue-fabric-design)
+* :white_check_mark: [vue-fabric-design](https://yft.design/)：基于 Canvas 的开源版"创客贴"，在线生成名片、海报、宣传单，支持 文字、图片、形状、线条、二维码 、条形码等 - [更多介绍](https://github.com/dromara/yft-design)
 
 ### 2023年8月2日添加
 ---
