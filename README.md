@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 25 号添加
+#### Lingglee - [Github](https://github.com/lingglee)
+* :white_check_mark: [Pronunciation Exercises](https://pronunciationexercises.com/)：AI 全球发音训练平台
+
 ### 2025 年 3 月 24 号添加
 #### underwoodxie
 * :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
