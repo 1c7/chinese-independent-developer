@@ -22,7 +22,7 @@
 
 ### 2025 年 3 月 26 号添加
 #### PixelBear - [GitHub](https://github.com/JobYu)
-* :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/) 图片转像素画工具，已上架 Steam
+* :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/)：图片转像素画工具，已上架 Steam
 
 #### 超能刚哥 - [Github](https://github.com/margox/)
 * :white_check_mark: [音之梦](https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%8B%E6%A2%A6-%E5%8A%A9%E4%BD%A0%E4%B8%80%E5%A4%9C%E5%A5%BD%E6%A2%A6/id6742869783)：轻音乐、白噪声和环境声 App，提供数十首轻音乐、几十种环境声，数十亿种搭配混合结果，用于辅助睡眠或者冥想，已上架 iOS App Store - [作者提供了一些兑换码](https://github.com/1c7/chinese-independent-developer/pull/485#issue-2945709859)
