@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 3 月 27 号添加
+#### Yasuomang(杭州)
+* :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
+
+#### Sawyer(上海) - [Github](https://github.com/Sawyer-G)
+* :white_check_mark: [idiom.today-中文成语学习工具](https://idiom.today/)：帮助英文用户学习中文成语的网站，通过脑图的形式拆分中文成语，提供词义解释，成语故事以及使用案例
+
 ### 2025 年 3 月 26 号添加
 #### PixelBear - [GitHub](https://github.com/JobYu)
 * :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/)：图片转像素画工具，已上架 Steam
