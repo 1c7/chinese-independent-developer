@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+
+### 2025 年 3 月 28 号添加
+### zhushen - [Github](https://github.com/zhushen12580)
+* :white_check_mark: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
+
 ### 2025 年 3 月 27 号添加
 #### Yasuomang(杭州)
 * :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
