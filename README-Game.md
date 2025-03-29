@@ -2,6 +2,11 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+
+### 2025 年 3 月 29 号添加
+#### rain(深圳) - [Github](https://github.com/wang1309)
+* :white_check_mark: [shopaholic game](https://shopaholic-game.com/) 体验购物的游戏（免费）
+
 ### 2025 年 3 月 24 号添加
 #### 隋十一(北京) - [Github](https://github.com/Hazards10)
 * :white_check_mark: [Car Games Unblocked](https://cargamesunblocked.net/)：汽车驾驶类HTML5游戏网站
