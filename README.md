@@ -22,7 +22,10 @@
 
 
 ### 2025 年 3 月 28 号添加
-### zhushen - [Github](https://github.com/zhushen12580)
+#### jess(广州)- [Github](https://github.com/4o-image-gen)
+* :white_check_mark: [4oimage](https://4o-image.com/)：文生图网站，基于 Gemini 和 GPT4o
+
+#### zhushen - [Github](https://github.com/zhushen12580)
 * :white_check_mark: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
 
 ### 2025 年 3 月 27 号添加
