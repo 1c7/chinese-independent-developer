@@ -22,6 +22,9 @@
 
 
 ### 2025 年 3 月 29 号添加
+#### jaywongX(广州) 
+* :white_check_mark: [UFreeTools - 你的免费工具集](https://ufreetools.com)：综合工具平台，提供高质量、易用的在线工具，解决开发和设计的各种需求
+
 #### jess(广州)- [Github](https://github.com/4o-image-gen)
 * :white_check_mark: [4oimage](https://4o-image.com/)：文生图网站，基于 Gemini 和 GPT4o
 
