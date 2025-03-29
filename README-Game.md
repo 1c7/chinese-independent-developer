@@ -5,11 +5,11 @@
 
 ### 2025 年 3 月 29 号添加
 #### rain(深圳) - [Github](https://github.com/wang1309)
-* :white_check_mark: [shopaholic game](https://shopaholic-game.com/) 体验购物的游戏（免费）
+* :white_check_mark: [shopaholic game](https://shopaholic-game.com/)：体验购物的游戏（免费）
 
 ### 2025 年 3 月 24 号添加
 #### 隋十一(北京) - [Github](https://github.com/Hazards10)
-* :white_check_mark: [Car Games Unblocked](https://cargamesunblocked.net/)：汽车驾驶类HTML5游戏网站
+* :white_check_mark: [Car Games Unblocked](https://cargamesunblocked.net/)：汽车驾驶类游戏网站
 
 ### 2025 年 3 月 5 号添加
 #### zoe(武汉) - [Github](https://github.com/dragonsweepers/)
