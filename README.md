@@ -20,6 +20,9 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 1 号添加
+#### XuanXu - [官网](https://aiverything.me/)
+* :white_check_mark: [Aiverything](https://aiverything.me/)：本地文件搜索。结合 GPU 并行计算、智能索引和优化排序算法，提供更快、更精准的本地文件搜索体验，有扩展可实现更多功能 - [更多介绍](https://meta.appinn.net/t/topic/66229)
 
 ### 2025 年 3 月 29 号添加
 #### jaywongX(广州) 
