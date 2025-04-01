@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 1 号添加
+#### zeikia(广州)
+* :white_check_mark: [Face Shape AI](https://detectorfaceshape.com/)：AI脸型检测
+
 #### swiftzl(深圳)
 * :white_check_mark: [snapmail - 临时邮箱](https://snapmail100.com)：临时无限邮箱保护你的隐私安全
 
