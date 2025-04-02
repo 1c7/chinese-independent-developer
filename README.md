@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 2 号添加
+#### Leochens(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小贴](https://apps.apple.com/cn/app/%E5%B0%8F%E8%B4%B4-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E6%A8%A1%E6%9D%BF%E5%8D%A1%E7%89%87%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/id6741154916)：智能设计模板卡片生成工具 (iOS App)
+
 ### 2025 年 4 月 1 号添加
 #### Selenium39(广州) - [Github](https://github.com/Selenium39)
 * :white_check_mark: [ChatTempMail](https://chat-tempmail.com)：AI 驱动的临时邮箱服务
