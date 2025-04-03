@@ -22,10 +22,10 @@
 
 ### 2025 年 4 月 3 号添加
 #### nogeek(杭州) - [Github](https://github.com/nogeek-cn), [博客](https://nogeek.cn)
-* :white_check_mark: [javaguide](https://javaguide.net/)：「Java学习 + 面试指南」涵盖 Java 程序员、架构师需要掌握的核心知识 - [更多介绍](https://javaguide.net/)
-* :white_check_mark: [chequewriting](https://chequewriting.com/)：将金额转成大小写的工具站 - [更多介绍](https://chequewriting.com/)
-* :white_check_mark: [acodenav](https://acodenav.com)：只收集编程导航，程序员导航的导航站 - [更多介绍](https://acodenav.com)
-* :white_check_mark: [atemplate](https://atemplate.com)：只收集完全免费的网页模板的导航站 - [更多介绍](https://atemplate.com)
+* :white_check_mark: [javaguide](https://javaguide.net/)：「Java学习 + 面试指南」涵盖 Java 程序员、架构师需要掌握的核心知识
+* :white_check_mark: [chequewriting](https://chequewriting.com/)：将金额转成大小写的工具站
+* :white_check_mark: [acodenav](https://acodenav.com)：只收集编程导航，程序员导航的导航站
+* :white_check_mark: [atemplate](https://atemplate.com)：只收集完全免费的网页模板的导航站
 
 #### Leochens(北京) - [Github](https://github.com/Leochens) 
 * :white_check_mark: [PNG贴纸切割器](https://tools.xiaotie.top/sticker-crop.html)：贴纸素材不规整，它来帮你自动切割成单个的，省时又省力！
