@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 7 号添加
+#### 疯狂的小波(武汉)
+* :white_check_mark: [Logent AI](https://logent.ai/zh)：全球首个 AI Agent Logo 生成器；只需要输入产品名称/主要功能，自动生成合适的精美 Logo
+
+#### Jay
+* :white_check_mark: [ghibliimage图像转换](https://ghibliimage.art/) :免费将您的照片转换为 ghibli 风格
+* :white_check_mark: [Voice Cloning](https://aiclonevoicefree.com/)：只需要5秒语音，就可以免费克隆你的声音，无需等待。
+
 ### 2025 年 4 月 4 号添加
 #### JasmineChzI(深圳) 
 * :white_check_mark: [PhotoG V2](https://photog.art/)：世界上第一个人工智能营销代理：从一张图片生成广告、视频和 SEO 内容 — 您的电子商务成功永远在线的团队
