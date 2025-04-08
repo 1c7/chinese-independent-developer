@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 8 号添加
+#### vampirewyi
+* :white_check_mark: [免费在线 AI 卡通图片生成工具](https://aicartoongenerator.org/zh)：将文本和照片转换为令人惊艳的卡通风格图像。它提供多种艺术风格、丰富的自定义选项和高质量的输出，让用户轻松创建独特的头像、社交媒体内容和品牌插画
+
+#### Link (广州) - [Github](https://github.com/LinkTBF)
+* :white_check_mark: [动猫相机](https://apps.apple.com/cn/app/%E5%8A%A8%E7%8C%AB%E7%9B%B8%E6%9C%BA/id6449184105)：一键拍猫表情包的相机 APP
+
+#### i365dev - [Github](https://github.com/madawei2699)
+* :white_check_mark: [策引](https://www.myinvestpilot.com/)：全球市场技术分析工具，可以创建多个市场的模拟组合并做深度回测分析。同时正在开发 AI Agent 功能，可帮助用户使用大模型自动生成基于不同交易策略的模拟组合。
+
 ### 2025 年 4 月 7 号添加
 #### 疯狂的小波(武汉)
 * :white_check_mark: [Logent AI](https://logent.ai/zh)：全球首个 AI Agent Logo 生成器；只需要输入产品名称/主要功能，自动生成合适的精美 Logo
