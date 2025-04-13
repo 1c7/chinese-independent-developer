@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 4 月 13 号添加
+#### Qiwei - [github](https://github.com/qiweiii)
+* :white_check_mark: [Flappy-minimal](https://flappy.buildin.fun/): 极简版 web flappy bird（100% AI 作品），纯娱乐项目，快来玩吧
+
 ### 2025 年 4 月 1 号添加
 #### zeikia(广州) - [Github](https://github.com/zeikia)
 * :white_check_mark: [Kour io](https://kourio.online/)：在线FPS游戏网站（免费）
