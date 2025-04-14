@@ -21,8 +21,13 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 14 号添加
+
+#### vampirewyi
+* :white_check_mark: [Ai Affiliate 分销目录](https://aiaffiliatelist.com/)：收录支持 Affiliate 分销的AI 应用
+  
 #### daya0576(上海) - [博客](https://changchen.me)
 * :white_check_mark: [beaverhabits](https://github.com/daya0576/beaverhabits)：无需设定目标的习惯追踪工具。这是一款基于 Python 开发的自托管习惯追踪 web 应用，帮助用户轻松记录和管理日常习惯。它提供适配移动端的直观界面，专注于习惯的持续养成，而非单纯追求目标达成，让养成好习惯变得更自然。
+
 
 ### 2025 年 4 月 8 号添加
 #### vampirewyi
