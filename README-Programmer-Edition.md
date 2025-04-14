@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 4 月 15 号添加
+#### daya0576(上海) - [博客](https://changchen.me)
+* :white_check_mark: [beaverhabits](https://github.com/daya0576/beaverhabits)：无需设定目标的习惯追踪工具。基于 Python 开发的自托管习惯追踪 Web 应用，帮助用户轻松记录和管理日常习惯。它提供适配移动端的直观界面，专注于习惯的持续养成，而非单纯追求目标达成，让养成好习惯变得更自然
+
 ### 2025 年 3 月 17 号添加
 #### dodid - [Github](https://github.com/dodid)
 * :white_check_mark: [PAC代理自动配置管理器](https://github.com/dodid/pac-proxy-manager)：管理代理自动配置文件（PAC），支持灵活的代理规则设置
