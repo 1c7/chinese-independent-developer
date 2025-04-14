@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 14 号添加
+#### vampirewyi
+* :Ai Affiliate List: [Ai Affiliate 分销目录](https://aiaffiliatelist.com/)：收录支持 Affiliate 分销的AI 应用
+  
 ### 2025 年 4 月 8 号添加
 #### vampirewyi
 * :white_check_mark: [免费在线 AI 卡通图片生成工具](https://aicartoongenerator.org/zh)：将文本和照片转换为令人惊艳的卡通风格图像。它提供多种艺术风格、丰富的自定义选项和高质量的输出，让用户轻松创建独特的头像、社交媒体内容和品牌插画
