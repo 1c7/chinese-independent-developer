@@ -19,6 +19,9 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 4 月 15 号添加
+#### snows_l(杭州) - [Gitee](https://gitee.com/snows_l), [博客](http://snows-l.site)
+*:white_check_mark:[snows_l's BLOG](http://snows-l.site)：一个基于前端（vue3+vite+pinia） + 后端（nodejs+exporess） + 数据库（mysql） 全手搓、移动端适配的个人博客 - [更多介绍](https://blog.csdn.net/snows_l/article/details/141089679?spm=1001.2014.3001.5502)
 
 ### 2025 年 4 月 14 号添加
 #### vampirewyi
