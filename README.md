@@ -24,6 +24,8 @@
 #### Leo(上海)
 * :white_check_mark: [教育类 AI 应用目录](https://aiteach.tools/)：教育类 AI 应用目录
 
+#### inno(上海)
+* :white_check_mark: [Gitto](https://www.gitto.ltd/)：基于 Git 理念开发的 Todo 类 App
 
 ### 2025 年 4 月 14 号添加
 #### Leo (上海)
