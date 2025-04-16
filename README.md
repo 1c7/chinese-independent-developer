@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 16 号添加
+#### lizhichao - [Github](https://github.com/lizhichao)
+* :white_check_mark: [报告汇](https://www.vicsdf.com/)：各行个业、电子书、论文各种数据报告
+ 
 #### Leo(上海)
 * :white_check_mark: [教育类 AI 应用目录](https://aiteach.tools/)：教育类 AI 应用目录
 
