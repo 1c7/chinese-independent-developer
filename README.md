@@ -21,7 +21,7 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 14 号添加
-#### vampirewyi
+#### Leo (上海)
 * :white_check_mark: [AI Affiliate 分销目录](https://aiaffiliatelist.com/)：收录支持 Affiliate 分销的 AI 应用
 
 ### 2025 年 4 月 8 号添加
