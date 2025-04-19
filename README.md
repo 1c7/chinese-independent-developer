@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 19 号添加
+#### jianpingliu
+* :white_check_mark: [Qwikrank](https://qwikrank.com/)：自动调研 SEO 关键词、生成高质量 SEO 长文章、发布到博客、获取自然搜索流量，并且添加图片、内链、外链。适合独立创业者，无需 SEO 知识
+* :white_check_mark: [SupportMatic](https://supportmatic.co/)：基于邮件的智能客服，自动索引历史邮件、支持添加知识库、免费 Help Desk 网站，大幅降低邮件客服工作量
+
 ### 2025 年 4 月 18 号添加
 #### Ayden - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [ImageToAny](https://imagetoany.com/)：图片转化类型网站
