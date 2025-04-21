@@ -31,6 +31,9 @@
 #### Ayden - [Github](https://github.com/Ayden-123)
 - :white_check_mark: [ImageToBlackAndWhite](https://imagetoblackandwhite.org/)：把彩色图片转成黑白图片
 
+#### alttextai-net - [GitHub](alttextai-net)
+- :white_check_mark: [AI Alt Text Generator](https://svgviewer.app/svg-converter) ：免费生成 alt 文本，创建 SEO 友好且易于理解的图片描述，支持多语言，无需登录。
+
 ### 2025 年 4 月 19 号添加
 #### jianpingliu
 * :white_check_mark: [Qwikrank](https://qwikrank.com/)：自动调研 SEO 关键词、生成高质量 SEO 长文章、发布到博客、获取自然搜索流量，并且添加图片、内链、外链。适合独立创业者，无需 SEO 知识
