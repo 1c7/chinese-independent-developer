@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 4 月 21 号添加
+#### LudwigChan - [github](https://github.com/ludwig-chan)
+* :clock8: [sunrise](https://ludwig-chan.github.io/sunrise/): 一个集养成、经营、回合制、肉鸽、策略于一体的，以饥荒、星铁、牧场物语为原型的一个极简风格的mud游戏。
+
 ### 2025 年 4 月 13 号添加
 #### Qiwei - [github](https://github.com/qiweiii)
 * :white_check_mark: [Flappy-minimal](https://flappy.buildin.fun/): 极简版 web flappy bird（100% AI 作品），纯娱乐项目，快来玩吧
