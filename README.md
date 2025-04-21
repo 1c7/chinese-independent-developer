@@ -21,8 +21,8 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 21 号添加
-### thence(深圳) - [Github](https://github.com/x-thence)
-:white_check_mark: [临时邮箱](https://temp-email.top/))：快速安全的临时邮箱, 保护您的隐私
+#### thence(深圳) - [Github](https://github.com/x-thence)
+:white_check_mark: [临时邮箱](https://temp-email.top/)：快速安全的临时邮箱, 保护您的隐私
 
 #### Ayden - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [ImageToBlackAndWhite](https://imagetoblackandwhite.org/)：把彩色图片转化成黑白图片
