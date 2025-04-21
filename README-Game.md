@@ -4,7 +4,7 @@
 
 ### 2025 年 4 月 21 号添加
 #### LudwigChan - [github](https://github.com/ludwig-chan)
-* :clock8: [sunrise](https://ludwig-chan.github.io/sunrise/): 一个集养成、经营、回合制、肉鸽、策略于一体的，以饥荒、星铁、牧场物语为原型的一个极简风格的mud游戏。
+* :clock8: [sunrise](https://ludwig-chan.github.io/sunrise/): 集养成、经营、回合制、肉鸽、策略于一体的，以饥荒、星铁、牧场物语为原型的一个极简风格的 mud 游戏
 
 ### 2025 年 4 月 13 号添加
 #### Qiwei - [github](https://github.com/qiweiii)
