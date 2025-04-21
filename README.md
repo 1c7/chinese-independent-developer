@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 4 月 21 号添加
+#### sing1ee - [GitHub](https://github.com/sing1ee)
+- :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览svg，svg转png，webp，ico等，不需要登录
+- :white_check_mark: [QWQ AI Assistant](https://qwq32.com/) ：免费提供经过深思熟虑且富有详细推理的答案的 AI 助手，不需要登录
+
 #### thence(深圳) - [Github](https://github.com/x-thence)
 - :white_check_mark: [临时邮箱](https://temp-email.top/)：快速安全的临时邮箱, 保护您的隐私
 
