@@ -15,8 +15,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
 ### 2025 年 4 月 22 号添加
-#### zhtyyx(上海) - [Github](https://github.com/zhtyyx), 
-* :white_check_mark: [ioe](https://github.com/zhtyyx/ioe)：基于 Django 开发的综合性库存管理系统，专为零售商店、小型仓库和商品销售场所设计。系统提供了完整的商品管理、库存跟踪、销售记录、会员管理和数据分析功能，帮助企业高效管理库存和销售流程。
+#### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
+* :white_check_mark: [ioe 库存管理系统](https://github.com/zhtyyx/ioe)：基于 Django 开发的综合性库存管理系统，专为零售商店、小型仓库和商品销售场所设计。系统提供了完整的商品管理、库存跟踪、销售记录、会员管理和数据分析功能，帮助企业高效管理库存和销售流程
 
 ### 2025 年 4 月 15 号添加
 #### daya0576(上海) - [博客](https://changchen.me)
