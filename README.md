@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 23 号添加
+#### chuyanghui8 - [GitHub](https://github.com/chuyanghui8)
+- :white_check_mark: [二维码解码器](https://qrfrompic.com/zh) ：扫描图片或使用摄像头提取二维码中的信息，不限量免费使用
+
 ### 2025 年 4 月 21 号添加
 #### sing1ee - [GitHub](https://github.com/sing1ee)
 - :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览svg，svg转png，webp，ico等，不需要登录
