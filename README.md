@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 24 号添加
+#### heygsc - [GitHub](https://github.com/heygsc)
+- :white_check_mark: [circle net](https://circle-net.vercel.app) ：等分圆并连线的动画效果，支持点数编辑，支持点的拖拽
+
 ### 2025 年 4 月 23 号添加
 #### chuyanghui8 - [GitHub](https://github.com/chuyanghui8)
 - :white_check_mark: [二维码解码器](https://qrfrompic.com/zh) ：扫描图片或使用摄像头提取二维码中的信息，不限量免费使用
