@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 25 号添加
+#### Ayden-123 - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Character Headcanon Generator](https://characterheadcanongenerator.online/)：角色文本生成网站
+
+#### Sean - [Github](https://github.com/ShurshanX)
+* :white_check_mark: [Action Figure AI](https://actionfigureai.online)：用 AI 将照片转成手办图
+
 ### 2025 年 4 月 24 号添加
 #### heygsc - [GitHub](https://github.com/heygsc)
 - :white_check_mark: [circle net](https://circle-net.vercel.app) ：等分圆并连线的动画效果，支持点数编辑，支持点的拖拽
