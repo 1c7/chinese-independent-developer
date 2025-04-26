@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 4 月 25 号添加
 #### 西风逍遥游(湾区) - [Github](https://github.com/sunxfancy/SSUI)
-* :white_check_mark: [SSUI](https://github.com/sunxfancy/SSUI)：一款脚本化可编程的AI生图工具
+* :white_check_mark: [SSUI](https://github.com/sunxfancy/SSUI)：基于安全 Python 脚本的 stable diffusion AI 绘图工具，可以根据脚本中函数的类型自动生成 UI 界面，能方便快捷地复现其他用户的工作流
 
 ### 2025 年 4 月 22 号添加
 #### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
