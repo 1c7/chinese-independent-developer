@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 27 号添加
+#### wanghongenpin(北京) - [Github](https://github.com/wanghongenpin)
+* :white_check_mark: [ProxyPin](https://github.com/wanghongenpin/proxypin/blob/main/README_CN.md)：全平台系统开源免费抓包软件
+
+#### handsometong- [Github](https://github.com/handsometong2020)
+* :white_check_mark: [Action Figure AI Generator](https://actionfigureai.co/)：将您的照片转成动作人偶玩具图像。只需上传照片，添加配件和产品名称，选择喜欢的风格，即可生成专业级别的动作人偶包装盒效果图，适合收藏、分享或用作创意礼物
+
+#### FluxStrive- [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Pet To Human](https://pettohuman.com/)：用人工智能把你的宠物照片变成人像，保留宠物独有的表情与个性
+
 ### 2025 年 4 月 25 号添加
 #### Ayden-123 - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [Character Headcanon Generator](https://characterheadcanongenerator.online/)：角色文本生成网站
