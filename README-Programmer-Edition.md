@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 4 月 29 号添加
+#### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
+* :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.
+
 ### 2025 年 4 月 25 号添加
 #### 西风逍遥游(湾区) - [Github](https://github.com/sunxfancy/SSUI)
 * :white_check_mark: [SSUI](https://github.com/sunxfancy/SSUI)：基于安全 Python 脚本的 stable diffusion AI 绘图工具，可以根据脚本中函数的类型自动生成 UI 界面，能方便快捷地复现其他用户的工作流
