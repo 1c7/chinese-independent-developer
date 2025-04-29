@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 4 月 29 号添加
+#### dodid - [Github](https://github.com/dodid) 
+* :white_check_mark: [CFA Essentials](https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137)：高效复习CFA考试的手机APP，可以随时随地学习的笔记内容
+
+#### vzt7 - [Github](https://github.com/vzt7/canvave)
+* :white_check_mark: [Canvave](https://canvave.com)：🎨⚡️简单图形设计和动画制作平台。无须专业技能也能做出任意尺寸的精美设计；最高支持图片 3x 或动画 240FPS 导出；内置基于 Flux 的 AI 文生图、图生图；适合电商卖家、广告设计、社媒运营、独立开发等有设计需求的群体。
+
 ### 2025 年 4 月 27 号添加
 #### wanghongenpin(北京) - [Github](https://github.com/wanghongenpin)
 * :white_check_mark: [ProxyPin](https://github.com/wanghongenpin/proxypin/blob/main/README_CN.md)：全平台系统开源免费抓包软件
