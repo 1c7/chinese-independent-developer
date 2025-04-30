@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 4 月 30 号添加
 #### ysykzheng - [github](https://github.com/ysykzheng)
-* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：TextReadTTS.com-免费文本转语音接口（free tts api），有一定限制。
+* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
 
 ### 2025 年 4 月 29 号添加
 #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
