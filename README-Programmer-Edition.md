@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 4 月 30 号添加
+#### ysykzheng - [github](https://github.com/ysykzheng)
+* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：TextReadTTS.com-免费文本转语音接口（free tts api），有一定限制。
+
 ### 2025 年 4 月 29 号添加
 #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
 * :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.
