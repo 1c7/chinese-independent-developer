@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 2 号添加
+#### Allen(深圳) 
+* :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
+* :white_check_mark: [Style Ai](https://styleai.art)：免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D盲盒等功能
+
 ### 2025 年 4 月 29 号添加
 #### dodid - [Github](https://github.com/dodid) 
 * :white_check_mark: [CFA Essentials](https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137)：高效复习 CFA 考试的手机 App，可以随时随地学习的笔记内容
