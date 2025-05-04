@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 5 月 4 号添加
+#### wang1309(深圳) - [github](https://github.com/wang1309)
+* :white_check_mark: [Funny Shooter 2](https://www.funny-shooter2.org/)：enjoy unblocked shooting games for free! Dive into exciting gun games with funny shooting action. Perfect for shooter game fans!
+
 ### 2025 年 4 月 21 号添加
 #### LudwigChan - [github](https://github.com/ludwig-chan)
 * :clock8: [sunrise](https://ludwig-chan.github.io/sunrise/): 集养成、经营、回合制、肉鸽、策略于一体的，以饥荒、星铁、牧场物语为原型的一个极简风格的 mud 游戏
