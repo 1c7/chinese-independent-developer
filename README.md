@@ -3984,7 +3984,6 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 推荐一些对独立开发者有帮助的网站：
 
 [英文]
-* [Productized Startups](https://productizedstartups.com/interviews/)
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Failory](https://www.failory.com/) - 分享创业失败的故事
 * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
