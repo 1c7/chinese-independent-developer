@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 6 号添加
+#### yiquan00 - [GitHub](https://github.com/yiquan00)
+* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
+
+#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
+* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
+
 ### 2025 年 5 月 2 号添加
 #### Allen(深圳) 
 * :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
