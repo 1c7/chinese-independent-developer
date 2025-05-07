@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 7 号添加
+#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
+* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
+
+#### Caron77 - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
+
 ### 2025 年 5 月 6 号添加
 #### yiquan00 - [GitHub](https://github.com/yiquan00)
 * :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
