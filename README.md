@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 9 号添加
+#### underwoodxie - [Github](https://github.com/underwoodxie)
+* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI颜值测试，提供给你个性化的建议
+
 ### 2025 年 5 月 7 号添加
 #### jerrybi(深圳) - [Github](https://github.com/jerrybi)
 * :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
