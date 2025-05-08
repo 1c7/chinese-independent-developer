@@ -22,7 +22,7 @@
 
 ### 2025 年 5 月 9 号添加
 #### underwoodxie - [Github](https://github.com/underwoodxie)
-* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI颜值测试，提供给你个性化的建议
+* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
 
 ### 2025 年 5 月 7 号添加
 #### jerrybi(深圳) - [Github](https://github.com/jerrybi)
@@ -41,14 +41,14 @@
 ### 2025 年 5 月 2 号添加
 #### Allen(深圳) 
 * :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
-* :white_check_mark: [Style Ai](https://styleai.art)：免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D盲盒等功能
+* :white_check_mark: [Style Ai](https://styleai.art)：免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D 盲盒等功能
 
 ### 2025 年 4 月 29 号添加
 #### dodid - [Github](https://github.com/dodid) 
 * :white_check_mark: [CFA Essentials](https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137)：高效复习 CFA 考试的手机 App，可以随时随地学习的笔记内容
 
 #### vzt7 - [Github](https://github.com/vzt7/canvave)
-* :white_check_mark: [Canvave](https://canvave.com)：简单图形设计和动画制作平台。无须专业技能也能做出任意尺寸的精美设计；最高支持图片 3x 或动画 240FPS 导出；内置基于 Flux 的 AI 文生图、图生图；适合电商卖家、广告设计、社媒运营、独立开发等有设计需求的群体
+* :white_check_mark: [Canvave](https://canvave.com)：简单图形设计和动画制作平台。无须专业技能也能做出任意尺寸的精美设计；最高支持图片 3x 或动画 240 FPS 导出；内置基于 Flux 的 AI 文生图、图生图；适合电商卖家、广告设计、社媒运营、独立开发等有设计需求的群体
 
 ### 2025 年 4 月 27 号添加
 #### wanghongenpin(北京) - [Github](https://github.com/wanghongenpin)
@@ -77,7 +77,7 @@
 
 ### 2025 年 4 月 21 号添加
 #### sing1ee - [GitHub](https://github.com/sing1ee)
-- :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览svg，svg转png，webp，ico等，不需要登录
+- :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览 SVG，SVG 转png，webp，ico等，不需要登录
 - :white_check_mark: [QWQ AI Assistant](https://qwq32.com/) ：免费提供经过深思熟虑且富有详细推理的答案的 AI 助手，不需要登录
 
 #### thence(深圳) - [Github](https://github.com/x-thence)
