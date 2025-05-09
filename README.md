@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 9 号添加
+#### jzhone(佛山) 
+* :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
+
+#### Alex Li(苏州) 
+* :white_check_mark: [信风 AI 外贸获客智能体](https://www.trade-wind.co)：每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)
+
 #### underwoodxie - [Github](https://github.com/underwoodxie)
 * :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
 
