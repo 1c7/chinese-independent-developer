@@ -22,7 +22,7 @@
 
 ### 2025 年 5 月 9 号添加
 #### samzong(上海):
-* :white_check_mark: [TabBoost](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： 一个 Chrome 扩展，旨在提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验。  [关注开源项目了解更多](https://github.com/samzong/chrome-tabboost)
+* :white_check_mark: [TabBoost](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： Chrome 扩展，提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)
 
 #### jzhone(佛山) 
 * :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
