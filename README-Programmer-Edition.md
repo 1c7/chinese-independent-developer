@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 5 月 9 号添加
+#### Crayon - [GitHub](https://github.com/ZhuoZhuoCrayon)
+* :white_check_mark: [throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py)：Python 限流工具，支持多种算法（固定窗口，滑动窗口，令牌桶，漏桶 & GCRA）及存储（Redis、内存），高性能
+
 ### 2025 年 4 月 30 号添加
 #### ysykzheng - [github](https://github.com/ysykzheng)
 * :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
