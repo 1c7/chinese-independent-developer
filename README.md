@@ -20,8 +20,11 @@
 
 ## 3. 项目列表
 
-### 2025 年 5 月 10 号添加
+### 2025 年 5 月 11 号添加
+#### Ayden - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Calligraphy Font Generator](https://calligraphyfontgenerator.org/)：免费在线书法字体生成工具，一键将普通文字转换为优雅的艺术字体，提供50多种风格选择，适用于设计、社交媒体等多种场景。
 
+### 2025 年 5 月 10 号添加
 #### Qiwei - [GitHub](https://github.com/qiweiii)
 * :white_check_mark: [Bilibili “换一换” 历史插件](https://chromewebstore.google.com/detail/bilibili-%E2%80%9D%E6%8D%A2%E4%B8%80%E6%8D%A2%E2%80%9C-%E5%8E%86%E5%8F%B2/npfopljnjbamegincfjelhjhnonnjloo)：查看 B 站首页的换一换历史。有时不小心点太快导致错过了想看的视频，这个插件可以让你往回走，查看前几组推荐视频
 
