@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 5 月 11 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
+* :white_check_mark: [afdian-linker](https://github.com/CaoMeiYouRen/afdian-linker)：集成了爱发电 API，提供统一的订单管理、赞助支付和外部查询能力。基于 Nuxt 3 & TypeScript 的全栈项目。
+
 ### 2025 年 5 月 10 号添加
 #### xiaohanyu - [github](https://github.com/xiaohanyu)
 * :white_check_mark: [YAMLResume](https://yamlresume.dev/)：Resumes as Code in YAML，用 YAML 格式来撰写简历并生成精美专业的 PDF
