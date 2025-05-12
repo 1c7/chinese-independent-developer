@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 12 号添加
+#### sing1ee - [Github](https://github.com/sing1ee)
+* :white_check_mark: [PapyrusFont.com](https://papyrusfont.com/): 用 Papyrus 字体创建精美的文字设计，可保存为 PNG
+
+#### vampirewy - [Github](https://github.com/vampirewy)
+* :white_check_mark: [免费在线 AI 角色脑洞生成工具](https://characterheadcanongen.com/zh)：借助先进 AI 技术，一键生成多维度角色设定——性格、成长经历、人际关系、价值观等一应俱全。无需注册，完全免费，适用于小说、漫画、游戏等创作场景，智能解析人物特征，助你轻松突破瓶颈，打造鲜活立体的角色。
+
 ### 2025 年 5 月 11 号添加
 #### Ayden - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [Calligraphy Font Generator](https://calligraphyfontgenerator.org/)：免费在线书法字体生成工具，一键将普通文字转换为优雅的艺术字体，提供50多种风格选择，适用于设计、社交媒体等多种场景。
