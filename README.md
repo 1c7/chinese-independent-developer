@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 13 号添加
+#### Brice(南京) 
+* :white_check_mark: [Attractiveness Scale](https://attractivenessscale.com/)：颜值打分网站（基于 AI）
+
 ### 2025 年 5 月 12 号添加
 #### cmdragon(广州) - [Github](https://[github.com/Amd794](https://github.com/Amd794))
 * :white_check_mark: [在线工具箱](https://tools.cmdragon.cn/zh)：满足各种任务需求的在线工具，强大的AI驱动工具，提升您的工作效率
