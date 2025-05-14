@@ -21,11 +21,11 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 14 号添加
-#### [bear-clicker](https://github.com/bear-clicker) 
+#### bear-clicker - [Github](https://github.com/bear-clicker) 
 * :white_check_mark: [ACE-Step](https://acestep.app/)：音乐生成，文本转音乐 歌词生成
 
-#### [lkunxyz](https://github.com/lkunxyz) 
-* :white_check_mark: [graffitiart app](https://graffitiart.app/)：涂鸦生成工具，可以生成各种不同风格的涂鸦
+#### lkunxyz - [Github](https://github.com/lkunxyz) 
+* :white_check_mark: [Graffitiart app](https://graffitiart.app/)：涂鸦生成工具，可以生成各种不同风格的涂鸦
 * :white_check_mark: [Musci](https://musci.app)：AI 音乐生成，文本转音乐 歌词生成
 
 ### 2025 年 5 月 13 号添加
