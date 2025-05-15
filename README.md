@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 15 号添加
+#### lwj973 - [Github](https://github.com/lwj973)
+* :white_check_mark: [SafeWrite AI](https://safewrite.ai/)：结合 AI Humanizer 与 AI 检测功能的写作工具，帮助用户生成更自然、难以被检测为 AI 的内容。支持训练私有化的 Humanizer，模拟个人文风并确保隐私不泄露。同时整合 GPTZero、Turnitin 等检测器，一键获取多平台检测结果。通过“改写-检测-再改写”的自动流程，有效提升内容通过率，适用于学生、自由写手及内容创作者。
+
+#### Sarkory(广州)
+* :white_check_mark: [FramePack AI](https://frame-pack.video)：AI 视频生成
+
 ### 2025 年 5 月 14 号添加
 #### bear-clicker - [Github](https://github.com/bear-clicker) 
 * :white_check_mark: [ACE-Step](https://acestep.app/)：音乐生成，文本转音乐 歌词生成
