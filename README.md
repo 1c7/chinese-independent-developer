@@ -21,7 +21,7 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 16 号添加
-#### apple1413 [Github](https://github.com/apple1413)
+#### apple1413 - [Github](https://github.com/apple1413)
 * :white_check_mark: [Free Voice Cloning](https://aiclonevoicefree.com/)：仅需 5 秒音频样本，即可克隆你的声音 无需登录 免费无限制使用
 
 #### Ayden - [Github](https://github.com/Ayden-123)
