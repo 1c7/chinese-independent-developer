@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 17 号添加
+#### SAM-TTS-Tool - [Github](https://github.com/SAM-TTS-Tool)
+* :white_check_mark: [Microsoft SAM TTS](https://samtts.com/)：复刻 Microsoft SAM 的文本转语音工具，支持文字输入并生成极具复古感的电子语音。用户可自定义音高、语速、嘴型、喉咙共鸣等参数，还可下载生成的语音（WAV 格式），无需登录，适合内容创作、游戏配音、搞笑语音等多种场景。
+
 ### 2025 年 5 月 16 号添加
 #### apple1413 - [Github](https://github.com/apple1413)
 * :white_check_mark: [Free Voice Cloning](https://aiclonevoicefree.com/)：仅需 5 秒音频样本，即可克隆你的声音 无需登录 免费无限制使用
