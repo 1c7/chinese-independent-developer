@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 18 号添加
+#### worminone - [Github](https://github.com/worminone)
+* :white_check_mark: [AI Image Editor](https://aiimageeditor.me/)：AI 图片处理工具，支持图片增强、去水印、抠图、风格转换、线稿提取等十余种功能。无需下载软件，无需注册，上传图片即可一键生成专业效果。适用于电商设计、社交内容创作、摄影后期、教育教学等多种场景，让图片编辑变得更智能、更高效、更简单！
+
 ### 2025 年 5 月 17 号添加
 #### SAM-TTS-Tool - [Github](https://github.com/SAM-TTS-Tool)
 * :white_check_mark: [Microsoft SAM TTS](https://samtts.com/)：复刻 Microsoft SAM 的文本转语音工具，支持文字输入并生成极具复古感的电子语音。用户可自定义音高、语速、嘴型、喉咙共鸣等参数，还可下载生成的语音（WAV 格式），无需登录，适合内容创作、游戏配音、搞笑语音等多种场景。
