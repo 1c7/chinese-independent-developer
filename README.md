@@ -22,11 +22,11 @@
 
 ### 2025 年 5 月 18 号添加
 #### Rainlin - [Github](https://github.com/Rainlin007)
-* :white_check_mark: [FaceRatingAI](https://faceratingai.com/): AI 颜值打分网站，包括不同维度评分、整体排名等
-* :white_check_mark: [AIPoemGenerator](https://aipoemgenerator.cc/): AI 写诗网站
+* :white_check_mark: [FaceRatingAI](https://faceratingai.com/)：AI 颜值打分网站，包括不同维度评分、整体排名等
+* :white_check_mark: [AIPoemGenerator](https://aipoemgenerator.cc/)：AI 写诗网站
 
 #### lkunemail - [Github](https://github.com/lkunemail)
-* :white_check_mark: [AI Tool Kit](https://aitoolkit.io/)：AI 工具聚合站，通过不同类别找到你想要的的 AI 工具
+* :white_check_mark: [AI Tool Kit](https://aitoolkit.io/)：AI 工具聚合站，通过不同类别找到你想要的 AI 工具
 
 #### worminone - [Github](https://github.com/worminone)
 * :white_check_mark: [AI Image Editor](https://aiimageeditor.me/)：AI 图片处理工具，支持图片增强、去水印、抠图、风格转换、线稿提取等十余种功能。无需下载软件，无需注册，上传图片即可一键生成专业效果。适用于电商设计、社交内容创作、摄影后期、教育教学等多种场景，让图片编辑变得更智能、更高效、更简单！
