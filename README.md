@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 19 号添加
+#### Will(杭州) - [Github](https://github.com/will-deeplearn)
+* :white_check_mark: [TarotQA](https://tarotqa.com)：AI 塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和语音解读等
+
 ### 2025 年 5 月 18 号添加
 #### Rainlin - [Github](https://github.com/Rainlin007)
 * :white_check_mark: [FaceRatingAI](https://faceratingai.com/)：AI 颜值打分网站，包括不同维度评分、整体排名等
