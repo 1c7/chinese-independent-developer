@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 20 号添加
+#### Lee - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [bratgenerator](https://bratgenerator.dev/)：可以设置字体，背景颜色等
+
 #### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
 * :white_check_mark: [WriteHybrid](https://writehybrid.com/)：可绕过所有顶级 AI 检测器的 AI 人性化工具
 
