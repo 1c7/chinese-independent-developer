@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 20 号添加
+
+#### Leo(上海)
+* :white_check_mark: [Firsto](https://firsto.co/)：你的产品，从这里出发
+* :white_check_mark: [Raffle Blue](https://rafffle.blue/)：针对bluesky post 的一个抽奖工具
+* :white_check_mark: [AI teach tools](https://aiteach.tools/)：针对对教育类AI工具的目录站点
+* :white_check_mark: [BlueSky SDK](https://bskyinfo.com/sdks/)：Bluesky & AT Protocol SDKs Directory
+  
 ### 2025 年 5 月 19 号添加
 #### Will(杭州) - [Github](https://github.com/will-deeplearn)
 * :white_check_mark: [TarotQA](https://tarotqa.com)：AI 塔罗占卜平台，提供多位 AI 塔罗师风格、智能牌阵推荐、每日运势和语音解读等
