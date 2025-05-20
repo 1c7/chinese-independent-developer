@@ -21,10 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 20 号添加
+#### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
+* :white_check_mark: [WriteHybrid](https://writehybrid.com/) 可绕过所有顶级 AI 检测器的 AI 人性化工具
 
 #### Leo(上海)
 * :white_check_mark: [Firsto](https://firsto.co/)：你的产品，从这里出发
-* :white_check_mark: [Raffle Blue](https://raffle.blue/)：针对bluesky post 的一个抽奖工具
+* :white_check_mark: [Raffle Blue](https://raffle.blue/)：针对 bluesky post 的抽奖工具
 * :white_check_mark: [AI teach tools](https://aiteach.tools/)：针对对教育类AI工具的目录站点
 * :white_check_mark: [BlueSky SDK](https://bskyinfo.com/sdks/)：Bluesky & AT Protocol SDKs Directory
   
