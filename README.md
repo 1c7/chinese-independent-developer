@@ -26,6 +26,7 @@
 
 #### Leo(上海)
 * :white_check_mark: [Firsto](https://firsto.co/)：你的产品，从这里出发
+* :white_check_mark: [Raffle Blue](https://raffle.blue/)：针对 bluesky post 的抽奖工具
 * :white_check_mark: [AI teach tools](https://aiteach.tools/)：针对对教育类AI工具的目录站点
 * :white_check_mark: [BlueSky SDK](https://bskyinfo.com/sdks/)：Bluesky & AT Protocol SDKs Directory
   
