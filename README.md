@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 21 号添加
+#### Axis Wang(深圳) - [Github](https://github/wangxs404)
+* :white_check_mark: [video2ppt.com](https://video2ppt.com)：将任意来源的视频转换为 PPT 演示文档
+
 #### Rns - [Github](https://github.com/rnsss)
 * :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
 
