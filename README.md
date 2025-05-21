@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 21 号添加
+#### Rns - [Github](https://github.com/rnsss)
+* :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
+
 ### 2025 年 5 月 20 号添加
 #### Lee - [Github](https://github.com/lkunxyz)
 * :white_check_mark: [bratgenerator](https://bratgenerator.dev/)：可以设置字体，背景颜色等
