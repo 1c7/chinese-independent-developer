@@ -25,7 +25,7 @@
 * :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
 
 #### hanlaoshinb - [Github](https://github.com/hanlaoshinb)
-* :white_check_mark: [TarotDreamHub](https://www.tarotdreamhub.com/)：TarotDreamHub是一个提供免费AI塔罗牌占卜的网站。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！
+* :white_check_mark: [TarotDreamHub](https://www.tarotdreamhub.com/)：免费 AI 塔罗牌占卜。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！
 
 ### 2025 年 5 月 20 号添加
 #### Lee - [Github](https://github.com/lkunxyz)
