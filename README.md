@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 22 号添加
+#### Sawana Huang
+* :white_check_mark: [Board Foot Calculator](https://boardfootcalculator.cc/)：简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家
+
 #### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
 * :white_check_mark: [mksaas.com](https://mksaas.com)：最好的AI SaaS模板，只需1个周末就可以上线你的AI SaaS
 
