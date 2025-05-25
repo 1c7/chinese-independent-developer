@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 25 号添加
+#### 3d-animation - [Github](https://github.com/3d-animation)
+- :white_check_mark: [buzz-cut AI](https://buzz-cut.me)：上传您的照片，用 AI 变成"寸头"(buzz cut）发型。预览发型效果
+
 ##### Sarkory(广州)
 - :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
 
