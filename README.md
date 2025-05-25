@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 25 号添加
+##### Sarkory(广州)
+- :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
+
 ### 2025 年 5 月 24 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
 - :white_check_mark: [TradeSignal](https://tradersignal.org/)：整合多维度市场数据，提供专业的投资分析工具
