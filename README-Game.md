@@ -2,6 +2,10 @@
 
 本版面存放的产品都是游戏，本列表起始于2025年1月4号
 
+### 2025 年 5 月 26 号添加
+#### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
+* :white_check_mark: [mergefellasAI](https://mergefellas.fun/)：merge fellas - Italian Brainrot Merge Game 2025
+
 ### 2025 年 5 月 4 号添加
 #### wang1309(深圳) - [github](https://github.com/wang1309)
 * :white_check_mark: [Funny Shooter 2](https://www.funny-shooter2.org/)：enjoy unblocked shooting games for free! Dive into exciting gun games with funny shooting action. Perfect for shooter game fans!
