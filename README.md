@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 26 号添加
+#### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
+* :white_check_mark: [AI今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
+
 ### 2025 年 5 月 25 号添加
 #### 3d-animation - [Github](https://github.com/3d-animation)
 - :white_check_mark: [buzz-cut AI](https://buzz-cut.me)：上传您的照片，用 AI 变成"寸头"(buzz cut）发型。预览发型效果
