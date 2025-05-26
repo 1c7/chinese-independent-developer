@@ -22,7 +22,7 @@
 
 ### 2025 年 5 月 26 号添加
 #### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
-* :white_check_mark: [AI今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
+* :white_check_mark: [AI 今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
 
 ### 2025 年 5 月 25 号添加
 #### 3d-animation - [Github](https://github.com/3d-animation)
@@ -40,7 +40,7 @@
 * :white_check_mark: [Board Foot Calculator](https://boardfootcalculator.cc/)：简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家
 
 #### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
-* :white_check_mark: [mksaas.com](https://mksaas.com)：最好的AI SaaS模板，只需1个周末就可以上线你的AI SaaS
+* :white_check_mark: [mksaas.com](https://mksaas.com)：最好的 AI SaaS 模板，只需1个周末就可以上线你的 AI SaaS
 
 ### 2025 年 5 月 21 号添加
 #### Axis Wang(深圳) - [Github](https://github/wangxs404)
