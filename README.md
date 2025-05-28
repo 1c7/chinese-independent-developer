@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 28 号添加
+#### Lingglee - [Github](https://github.com/lingglee)
+* :white_check_mark: [English Daily](https://englishdaily.ai/)：AI 每日英语学习平台
+
 ### 2025 年 5 月 26 号添加
 #### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
 * :white_check_mark: [AI 今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
