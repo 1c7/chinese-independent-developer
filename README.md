@@ -26,6 +26,10 @@
 * :white_check_mark: [TeachAny](https://www.teachany.com/)：使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)
 * :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能AI图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
 
+#### zane - [Github](https://github.com/littleblackone)
+* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的AI Agent目录和新闻
+
+
 ### 2025 年 5 月 28 号添加
 #### Lingglee - [Github](https://github.com/lingglee)
 * :white_check_mark: [English Daily](https://englishdaily.ai/)：AI 每日英语学习平台
