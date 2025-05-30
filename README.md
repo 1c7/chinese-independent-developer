@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 5 月 30 号添加
+#### NoteGen - [Github](https://github.com/codexu/note-gen)
+* :white_check_mark: [NoteGen](https://notegen.top/) 跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
+
 #### Anna - [Github](https://github.com/fluxstrive)
 * :white_check_mark: [Mii Maker](https://miimaker.net/)：免费的在线角色创建者，可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
 
