@@ -20,6 +20,18 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 30 号添加
+#### Anna - [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Mii Maker](https://miimaker.net/)：免费的在线角色创建者，可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
+
+#### Corey Chiu - [Github](https://github.com/iamcorey)
+* :white_check_mark: [JSON Merge](https://jsonmerge.com/)：JSON 合并工具
+
+#### ShownHacks - [Github](https://github.com/ShawnHacks), 北京
+* :white_check_mark: [AIHuntList](https://aihuntlist.com/)：发现最佳 AI 产品和工具的搜索导航
+* :white_check_mark: [NestSaaS](https://nestsaas.com): 构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具
+* :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容。
+
 ### 2025 年 5 月 29 号添加
 #### Charlie(上海) - [Github](https://github.com/weight567)
 * :white_check_mark: [Transmonkey](https://www.transmonkey.ai/)：所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)
