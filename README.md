@@ -22,7 +22,7 @@
 
 ### 2025 年 5 月 30 号添加
 #### NoteGen - [Github](https://github.com/codexu/note-gen)
-* :white_check_mark: [NoteGen](https://notegen.top/) 跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
+* :white_check_mark: [NoteGen](https://notegen.top/)：跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
 
 #### Anna - [Github](https://github.com/fluxstrive)
 * :white_check_mark: [Mii Maker](https://miimaker.net/)：免费的在线角色创建者，可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
@@ -33,16 +33,16 @@
 #### ShownHacks - [Github](https://github.com/ShawnHacks), 北京
 * :white_check_mark: [AIHuntList](https://aihuntlist.com/)：发现最佳 AI 产品和工具的搜索导航
 * :white_check_mark: [NestSaaS](https://nestsaas.com): 构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具
-* :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容。
+* :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容
 
 ### 2025 年 5 月 29 号添加
 #### Charlie(上海) - [Github](https://github.com/weight567)
 * :white_check_mark: [Transmonkey](https://www.transmonkey.ai/)：所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)
 * :white_check_mark: [TeachAny](https://www.teachany.com/)：使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)
-* :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能AI图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
+* :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能 AI 图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
 
 #### zane - [Github](https://github.com/littleblackone)
-* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的AI Agent目录和新闻
+* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的 AI Agent 目录和新闻
 
 
 ### 2025 年 5 月 28 号添加
