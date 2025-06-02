@@ -20,6 +20,19 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 2 号添加
+#### Allen(深圳) 
+* :white_check_mark: [FLUX Kontext](https://kontextflux.com)：FLUX 图片生成工具，简单图文指令实现专业级视觉创作
+
+#### sing1ee- [Github](https://github.com/sing1ee)
+* :white_check_mark: [Veo3 video](https://veo3.directory/)：收集 Veo3 生成的最新视频，每天更新
+
+#### [Github](https://github.com/bear-clicker)
+* :white_check_mark: [LoraAI](https://loraai.io/)：flux lora 图片生成工具，用户可以选择不同的 lora 风格实时生成对应的风格图片，价格便宜
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Ask Me Anything](https://ama.stockai.trade/)：世界上最简单的问答网站，内置实时联网搜索，你可以问它任何问题，还可以查询任何推特/X用户的最新动态，例如输入@elonmusk即可获得马斯克的最新X动态
+
 ### 2025 年 5 月 30 号添加
 #### NoteGen - [Github](https://github.com/codexu/note-gen)
 * :white_check_mark: [NoteGen](https://notegen.top/)：跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
