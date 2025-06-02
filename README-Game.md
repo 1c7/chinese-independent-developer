@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 6 月 2 号添加
+#### wenyue(深圳) - [Github](https://github.com/chanmankong)
+* :white_check_mark: [无畏契约准星库和生成器](https://valorantcrosshair.org/zh-CN/)：无畏契约准星库和生成器，玩家的得力帮手
+
 ### 2025 年 5 月 26 号添加
 #### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
 * :white_check_mark: [mergefellasAI](https://mergefellas.fun/)：merge fellas - Italian Brainrot Merge Game 2025
