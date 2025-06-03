@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 3 号添加
+#### Amyang - [Github](https://github.com/AmyangXYZ)
+* :white_check_mark: [Proof of Awesome](https://proof-of-awesome.app)：AI 辅助的学术同行评审的共识机制，将你的真实成就永久记录在区块链上，用有意义的人类成就取代传统挖矿 - [更多介绍](https://proof-of-awesome.app/call-for-achievement)
+
 ### 2025 年 6 月 2 号添加
 #### Allen(深圳) 
 * :white_check_mark: [FLUX Kontext](https://kontextflux.com)：FLUX 图片生成工具，简单图文指令实现专业级视觉创作
