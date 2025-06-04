@@ -20,6 +20,19 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 4 号添加
+#### mao wei - [Github](https://github.com/mw138)
+* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：免费的AI随机图片生成器，支持数字艺术、抽象背景、概念插图等多种风格
+
+#### Anna- [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Bypass Turnitin](https://bypassturnitin.net/)：将 AI 生成的内容转换为自然的文本，绕过 Turnitin 和 AI 检测，同时保留原文的含义和质量
+
+#### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
+* :white_check_mark: [product-rule](https://product-rule.com)：探索并发现最具创新性的人工智能产品、工具和解决方案，以改变您的工作流程并提升生产力，汇聚了大量的优秀 AI 产品
+
+#### dy 
+* :white_check_mark: [AI Line Art Generator](https://lineart.app/)：功能强大的 AI 线稿生成平台，为用户提供多样化的线稿创作与获取服务 - [更多介绍](https://lineart.app/about)
+
 ### 2025 年 6 月 3 号添加
 #### Amyang - [Github](https://github.com/AmyangXYZ)
 * :white_check_mark: [Proof of Awesome](https://proof-of-awesome.app)：AI 辅助的学术同行评审的共识机制，将你的真实成就永久记录在区块链上，用有意义的人类成就取代传统挖矿 - [更多介绍](https://proof-of-awesome.app/call-for-achievement)
