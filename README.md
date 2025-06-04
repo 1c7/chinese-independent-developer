@@ -22,9 +22,9 @@
 
 ### 2025 年 6 月 4 号添加
 #### mao wei - [Github](https://github.com/mw138)
-* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：免费的AI随机图片生成器，支持数字艺术、抽象背景、概念插图等多种风格
+* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：免费的 AI 随机图片生成器，支持数字艺术、抽象背景、概念插图等多种风格
 
-#### Anna- [Github](https://github.com/fluxstrive)
+#### Anna - [Github](https://github.com/fluxstrive)
 * :white_check_mark: [Bypass Turnitin](https://bypassturnitin.net/)：将 AI 生成的内容转换为自然的文本，绕过 Turnitin 和 AI 检测，同时保留原文的含义和质量
 
 #### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
