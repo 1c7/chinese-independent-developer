@@ -24,6 +24,7 @@
 #### pytpo 
 * :white_check_mark: [壁響桌布](https://wallecho.com/ )：可以根据任意文本，免费生成手机或电脑桌布的工具 只需要短短十几秒就可以完成心中想要的手机或电脑壁纸 - [更多介绍](https://wallecho.com/about)
 
+#### sagasu - [Github](https://github.com/s87343472)
 * :white_check_mark: [特殊符号复制工具](https://special-characters.aitoolshubs.com/)：专业的特殊符号复制工具，包含1000+特殊字符，支持数学符号、货币符号、箭头、希腊字母等多种分类。一键复制，提升Word文档编辑效率。
 
 #### FINE（赣州） - [Github](https://github.com/fine54)
