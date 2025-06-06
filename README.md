@@ -20,6 +20,18 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 6 号添加
+#### pytpo 
+* :white_check_mark: [壁響桌布](https://wallecho.com/ )：可以根据任意文本，免费生成手机或电脑桌布的工具 只需要短短十几秒就可以完成心中想要的手机或电脑壁纸 - [更多介绍](https://wallecho.com/about)
+
+* :white_check_mark: [特殊符号复制工具](https://special-characters.aitoolshubs.com/)：专业的特殊符号复制工具，包含1000+特殊字符，支持数学符号、货币符号、箭头、希腊字母等多种分类。一键复制，提升Word文档编辑效率。
+
+#### FINE（赣州） - [Github](https://github.com/fine54)
+* :white_check_mark: [OC Maker](https://ocmaker.app)：基于 GPT4o 的 OC（原创角色）生成器，出图质量好，效果不错
+
+#### Schopenlaam - [博客](https://schopenlaam.com/)
+* :white_check_mark: [Mouse Pro](https://mousepro.app)：鼠标高亮、放大、聚焦、阅读，适用于视频会议屏幕共享、演示和视频教程录制等
+
 ### 2025 年 6 月 4 号添加
 #### CodaPrime 
 * :white_check_mark: [AI 取名网](https://bbname.cc/)：用 AI 帮助宝宝取名服务，依据中国传统命理学为您的宝宝提供最为合适的名字。这款扩展功能融合了八字、生肖、五行以及三才五格等多种传统命理因素，为您的宝宝量身打造吉祥如意的好名字 - [更多介绍](https://bbname.cc/about)
