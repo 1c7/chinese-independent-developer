@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 6 号添加
+#### xxuan - [Github](https://github.com/xuanxuan96)
+* :white_check_mark: [Image Converter](https://image-1.org/): 从图片中提取文字。还可以翻译图片
+
 #### pytpo 
 * :white_check_mark: [壁響桌布](https://wallecho.com/ )：可以根据任意文本，免费生成手机或电脑桌布的工具 只需要短短十几秒就可以完成心中想要的手机或电脑壁纸 - [更多介绍](https://wallecho.com/about)
 
