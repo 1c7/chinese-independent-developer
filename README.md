@@ -20,6 +20,19 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 10 号添加
+#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
+* :white_check_mark: [Imagetopixel](https://imagetopixel.art)：把图片转换成像素画
+
+#### 萝卜(南昌)
+* :white_check_mark: [Ruleta.games](https://ruleta.games)：大转盘工具，适合抽奖、决定谁上台发言、选惩罚任务、做课堂游戏
+
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec)
+* :white_check_mark: [在线二维码🧨](https://xujingyichang.top/)：专业的二维码生成工具，为用户提供免费、高质量的QR码制作服务。 支持多种内容类型和自定义样式，满足各种使用场景需求
+
+#### Chris
+* :white_check_mark: [Brat Generator](https://www.brat-generator.pro/)：图像生成工具，灵感来自流行歌手 Charli XCX 的专辑《BRAT》的视觉风格。只需输入一句话，即可一键生成具有“BRAT”美学的专辑风封面图，包括标志性的荧光绿背景、极简无衬线字体和强烈的视觉冲击力。
+
 ### 2025 年 6 月 6 号添加
 #### xxuan - [Github](https://github.com/xuanxuan96)
 * :white_check_mark: [Image Converter](https://image-1.org/): 从图片中提取文字。还可以翻译图片
