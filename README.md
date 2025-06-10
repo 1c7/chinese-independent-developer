@@ -22,7 +22,7 @@
 
 ### 2025 年 6 月 10 号添加
 #### dfyfc
-* :white_check_mark: [Face To Many](https://facetomany.fun/)：用 AI 把您的脸部照片转换成不同的艺术风格，甚至是不同种族和不同角色。
+* :white_check_mark: [Face To Many](https://facetomany.fun/)：用 AI 把您的脸部照片转换成不同的艺术风格，不同种族，不同角色
 
 #### zhugezifang
 * :white_check_mark: [临时邮箱](https://tempmailto.online/zh/)：安全且匿名的临时电子邮件服务，告别垃圾邮件，保护您的隐私，免费、安全、私密的一次性邮箱服务！
