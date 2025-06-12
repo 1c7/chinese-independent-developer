@@ -21,8 +21,22 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 12 号添加
+#### sing1ee- [Github](https://github.com/sing1ee)
+* :white_check_mark: [Random Letter Generator](https://randomlettergenerator.app/)：随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等
+
+#### TuShenmei - [Github](https://github.com/TuShenmei-xiannv)
+* :white_check_mark: [职场沟通小诸葛](https://procommai.com/)：告别职场说错话焦虑，AI助你掌握高效沟通技巧，提升职场表达力。  
+如果你是以下人群，那么职场沟通小诸葛将是你的得力助手：  
+职场新人/下属： 面对领导和前辈，常常在汇报工作、提出请求时感到压力，担心言辞不妥，显得不专业或冒犯。  
+团队管理者/上级： 需要向下属布置任务、提供反馈甚至批评，希望能做到既清晰有力，又不打击团队士气。  
+跨部门协作者： 在与不同背景的同事沟通时，需要频繁切换沟通风格，以确保信息准确传达，并推动项目顺利进行。  
+所有追求高效的职场人： 厌倦了将宝贵的时间浪费在遣词造句的内耗上，希望将精力聚焦于更有创造性的核心工作。  
+
+#### Anna - [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Veo3 AI](https://aiveo3.net/)：使用 Veo3 AI，根据文本提示或图像生成专业视频，并提供本地音频和逼真的物理效果
+
 #### chasays
-* :white_check_mark: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过AI生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成。
+* :white_check_mark: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过 AI 生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成
 
 ### 2025 年 6 月 10 号添加
 #### dfyfc
