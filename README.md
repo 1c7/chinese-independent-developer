@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 12 号添加
+#### chasays
+* :white_check_mark: [veo3 AI video generator](https://zacose.com/veo3_ai_video_generator)：通过AI生成的音频和视觉完全同步，效果彻底改变视频的创作，使用VEO 3 AI API解锁视频创建的未来 - 与音频同步的无缝视频生成。
+
 ### 2025 年 6 月 10 号添加
 #### dfyfc
 * :white_check_mark: [Face To Many](https://facetomany.fun/)：用 AI 把您的脸部照片转换成不同的艺术风格，不同种族，不同角色
