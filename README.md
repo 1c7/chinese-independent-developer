@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 13 号添加
+#### Anna - [Github](https://github.com/fluxstrive)
+* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：文字生成视频，或图片生成视频。用 Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
+
 ### 2025 年 6 月 12 号添加
 #### sing1ee - [Github](https://github.com/sing1ee)
 * :white_check_mark: [Random Letter Generator](https://randomlettergenerator.app/)：随机生成指定数量的序列,适用密码生成、游戏开发中的随机元素序列等等
