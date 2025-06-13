@@ -22,7 +22,7 @@
 
 ### 2025 年 6 月 13 号添加
 #### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：文字生成视频，或图片生成视频。用 Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
+* :white_check_mark: [Seedance AI Video Generator](https://seedanceai.net/)：用 文字/图片 生成视频，Seedance AI 将您的想法转化为令人惊叹的视频（Seedance 1.0 Pro 模型）
 
 ### 2025 年 6 月 12 号添加
 #### sing1ee - [Github](https://github.com/sing1ee)
