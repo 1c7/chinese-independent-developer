@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 18 号添加
+#### md2card (深圳) - [Github](https://github.com/JsonChao)、[博客](https://juejin.cn/user/4318537403878167/posts)
+* :white_check_mark: [md2card](https://www.md2card.online/)：MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播
+
+#### Alex - [Github](https://github.com/C-Jeril)
+* :white_check_mark: [Kuakua夸夸](https://kuakua.app/)： 全网最全的心理学资源网站，用简单心理学与AI工具带来幸福激发内在力量 | 成为更好的自己 | 简单心理学，目前还在持续更新中，做更多可体验的心理学内容 - [更多介绍](https://github.com/C-Jeril/kuakua)
+
 ### 2025 年 6 月 16 号添加
 #### handsometom
 * :white_check_mark: [Labubu Wallpaper](https://labubulivewallpaper.com/)：下载高级 Labubu 动态壁纸合集，免费获取精美动画 Labubu 动态壁纸设计。适用于所有设备的高品质 Labubu 动态壁纸，动画流畅。
