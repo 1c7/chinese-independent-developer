@@ -21,6 +21,13 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 18 号添加
+#### Caron77 - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
+* :white_check_mark: [Flux Kontext AI Image Editor ](https://flux-kontext.xyz)：基于 Black Forest Labs 多模态技术的专业图像转换工具，支持风格迁移、背景替换等功能，2-5秒完成高质量编辑。
+
+#### LuSrackhall(深圳) - [Github](https://github.com/LuSrackhall)
+* :white_check_mark: [KeyTone](https://keytone.xuanhall.com/)：简单易用、高度可定制的开源按键声音应用，帮助你通过载入自制音频打造独一无二的键音体验，支持多合一 ***高级声音*** 的随机或顺序触发，支持 ***高级声音*** 间的 ***组合与继承***，力求每次敲击都充满创意，释放你的键音艺术。 - [更多介绍](https://github.com/LuSrackhall/KeyTone)
+
 #### md2card (深圳) - [Github](https://github.com/JsonChao)、[博客](https://juejin.cn/user/4318537403878167/posts)
 * :white_check_mark: [md2card](https://www.md2card.online/)：MD2Card 在线工具，支持多主题，一键将 Markdown 拆分并生成知识卡片，支持 AI 魔幻卡片和长文智能拆分功能，可编辑，可导出 PNG/SVG/PDF，适合笔记分享与社媒传播
 
