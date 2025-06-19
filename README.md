@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 19 号添加
+#### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
+* :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
+
 ### 2025 年 6 月 18 号添加
 #### Caron77 - [Github](https://github.com/Caron77ai)
 * :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
