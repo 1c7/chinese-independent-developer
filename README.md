@@ -21,6 +21,11 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 19 号添加
+#### smkwls(深圳) - [Github](https://github.com/smkwls)
+* :white_check_mark: [sound effect generator](https://soundeffectgenerator.org/)：音效生成网站, 生成自定义音效
+* :white_check_mark: [Lip Sync](https://lipsync.studio/)：视频和音频嘴形同步，将视频中人的嘴形进行改变以适配音频
+* :white_check_mark: [Quit Porn AI](https://quitporn.ai/)：帮助人们戒除色情成瘾
+
 #### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
 * :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
 
