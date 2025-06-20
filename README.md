@@ -22,6 +22,9 @@
 
 ### 2025 年 6 月 20 号添加
 
+#### leo(上海)
+* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：Find out if you can stop saving for retirement
+
 #### monsoonw(杭州)
 * :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
 )：一站式聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
