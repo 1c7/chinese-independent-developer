@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 20 号添加
+
+#### monsoonw(杭州)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
+)：一站式聚合所有主流AI图片生成模型，无需登录使用 -[更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
+
+#### DamonTsang986(深圳) 
+* :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
+* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：免费的4-合-1屏幕录制软件
+
 ### 2025 年 6 月 19 号添加
 #### smkwls(深圳) - [Github](https://github.com/smkwls)
 * :white_check_mark: [sound effect generator](https://soundeffectgenerator.org/)：音效生成网站, 生成自定义音效
