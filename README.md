@@ -25,16 +25,16 @@
 * :white_check_mark: [WhatsMyName](https://whatsmyname.me/)：在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)
 
 #### james(杭州)
-* :white_check_mark: [asmrvideo.ai](https://asmrvideo.ai/): Create Stunning ASMR Video with our AI-powered Veo3 generator
+* :white_check_mark: [asmrvideo.ai](https://asmrvideo.ai/): 用 Veo3 生成高质量的 ASMR 视频
 
 #### DeepBlue-杭州
-* :white_check_mark: [AI Rap Generator](https://rapgenerator.io/)：Your All-in-One AI Songwriting Studio: From Rap Names to Lyrics.
+* :white_check_mark: [AI Rap Generator](https://rapgenerator.io/)：Rap 歌曲生成器
 
 #### kkkk-杭州
-* :white_check_mark: [Vogue Veo 3 Generator](https://www.vogueai.net/veo-3-generator)：Cheapest Veo 3 Generator to Power Your Content Creation.
+* :white_check_mark: [Vogue Veo 3 Generator](https://www.vogueai.net/veo-3-generator)：最便宜的 Veo3 文本生成视频
 
 #### leo(上海)
-* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：Find out if you can stop saving for retirement
+* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
 
 #### monsoonw(杭州)
 * :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
