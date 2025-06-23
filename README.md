@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 23 号添加
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
+* :white_check_mark: [whisperkeyboard](https://whisperkeyboard.app/)：灵动岛 + LLM + whisper 语音输入
+
+#### zhucm - [Github](https://github.com/zhucm)
+* :white_check_mark: [金句盲盒](http://jinju.yotooapp.com)：趣站，页面定时随机推荐一条影视、歌曲或书籍等精彩文字内容，自定义配图或AI生成配图，可复制链接或创建卡片分享。
+
 ### 2025 年 6 月 22 号添加
 #### Horatio (广州)
 * :white_check_mark: [Labubu Live Wallpaper](https://labubulivewallpaper.cc)：专为 Labubu 爱好者打造的免费高清动态壁纸宝库，收录超过100款动态壁纸，让可爱的 Labubu 在你的屏幕上动起来，网站提供免费下载获取精美动画 Labubu 动态壁纸设计，并适用于所有设备。
