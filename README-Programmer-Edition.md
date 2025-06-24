@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 6 月 24 号添加
+#### Xiao-zaiyi(广西) - [Github](https://github.com/xiao-zaiyi/illa-helper)
+* :white_check_mark: [浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)：基于"可理解输入"理论的浏览器扩展，帮助你在日常网页浏览中自然地学习语言 - [更多介绍](https://github.com/xiao-zaiyi/illa-helper/blob/master/README_ZH.md)
+
 ### 2025 年 6 月 3 号添加
 #### IndieMakerKevin(成都) - [Github](https://github.com/PennyJoly)
 * :white_check_mark: [NuxtPro开源版本](https://github.com/PennyJoly/NuxtPro)：企业级 SaaS 出海模板（基于 Nuxt3），预集成 Stripe/Cream 支付、谷歌登录、多语言路由和SEO工具。快速构建 SSR 的全球化Web应用，开箱即用。1 小时内快速完成 MVP 开发，验证需求，并出海创收 - [更多介绍](https://nuxtpro.com)
