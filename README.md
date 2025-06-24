@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 24 号添加
+#### Poiybro
+* :white_check_mark: [My Ringtone](https://myringtone.app/zh-cn/)：免费无注册的100w+铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)
+
 ### 2025 年 6 月 23 号添加
 #### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
 * :white_check_mark: [whisperkeyboard](https://whisperkeyboard.app/)：灵动岛 + LLM + whisper 语音输入
