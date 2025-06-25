@@ -24,6 +24,8 @@
 #### DT986(深圳) 
 * :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
 * :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放 4K 蓝光、蓝光、DVD、视频与音频
+### HongZhong(北京)
+* :white_check_mark: [Kmail临时邮箱](https://kmail.pw/)：免费安全的临时邮箱，保护您的个人隐私，告别广告垃圾邮件的骚扰
 
 ### 2025 年 6 月 24 号添加
 #### Poiybro
