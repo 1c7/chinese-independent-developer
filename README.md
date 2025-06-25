@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 25 号添加
+#### DT986(深圳) 
+* :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
+* :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放4K蓝光、蓝光、DVD、视频与音频 - [更多介绍](https://www.leawo.com/blu-ray-player/)
+
 ### 2025 年 6 月 24 号添加
 #### Poiybro
 * :white_check_mark: [My Ringtone](https://myringtone.app/zh-cn/)：免费无注册的100w+铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)
