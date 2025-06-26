@@ -20,9 +20,9 @@
 
 ## 3. 项目列表
 
-### 2025 年 6 月 25 号添加
+### 2025 年 6 月 26 号添加
 #### rns
-* :white_check_mark: [Headcanon生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 即刻为您喜爱的角色创作独特的同人小说创意。
+* :white_check_mark: [Headcanon 生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 为您喜爱的角色创作独特的同人小说创意
 
 ### 2025 年 6 月 25 号添加
 #### DT986(深圳) 
