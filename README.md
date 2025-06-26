@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 25 号添加
+#### rns
+* :white_check_mark: [Headcanon生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 即刻为您喜爱的角色创作独特的同人小说创意。
+
+### 2025 年 6 月 25 号添加
 #### DT986(深圳) 
 * :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
 * :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放 4K 蓝光、蓝光、DVD、视频与音频
