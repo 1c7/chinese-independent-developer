@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 26 号添加
+#### Allen(深圳) 
+* :white_check_mark: [FLUX Kontext](https://kontextflux.com )：上下文感知智能图像编辑平台，内置 FLUX.1 Kontext ，Gpt4o image 图像编辑器。能够保持人物一致性，对画面精修
+
 #### rns
 * :white_check_mark: [Headcanon 生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 为您喜爱的角色创作独特的同人小说创意
 
