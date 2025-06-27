@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 27 号添加
+#### james(杭州）
+* :white_check_mark: [fluxcontext](https://fluxcontext.app/) : Professional Online Image Enhance with FLUX KONTEXT AI
+
 ### 2025 年 6 月 26 号添加
 #### Allen(深圳) 
 * :white_check_mark: [FLUX Kontext](https://kontextflux.com )：上下文感知智能图像编辑平台，内置 FLUX.1 Kontext ，Gpt4o image 图像编辑器。能够保持人物一致性，对画面精修
