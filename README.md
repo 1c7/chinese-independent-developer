@@ -22,7 +22,7 @@
 
 ### 2025 年 6 月 27 号添加
 #### james(杭州）
-* :white_check_mark: [fluxcontext](https://fluxcontext.app/) : Professional Online Image Enhance with FLUX KONTEXT AI
+* :white_check_mark: [fluxcontext](https://fluxcontext.app/) : 用 AI 修改你的图片（使用 FLUX KONTEXT AI），Professional Online Image Enhance with FLUX KONTEXT AI
 
 ### 2025 年 6 月 26 号添加
 #### Allen(深圳) 
