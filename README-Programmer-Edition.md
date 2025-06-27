@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 6 月 27 号添加
+#### sing1ee(上海) 
+* :white_check_mark: [Gemini CLI Docs](https://gemini-cli.xyz/docs/)：Gemini CLI 相关技术文档和开发者资源（持续更新）
+
 ### 2025 年 6 月 24 号添加
 #### Xiao-zaiyi(广西) - [Github](https://github.com/xiao-zaiyi/illa-helper)
 * :white_check_mark: [浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)：基于"可理解输入"理论的浏览器扩展，帮助你在日常网页浏览中自然地学习语言 - [更多介绍](https://github.com/xiao-zaiyi/illa-helper/blob/master/README_ZH.md)
