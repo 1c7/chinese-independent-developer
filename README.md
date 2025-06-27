@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 27 号添加
+#### toby(南京)
+* :white_check_mark: [FantasyGen](https://fantasygen.net/)：奇幻地图和人物生成。
+
 #### sing1ee(上海)
 * :white_check_mark: [Curate Click](https://curateclick.com/)：导航站，收录产品和工具。
 
