@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 27 号添加
+#### sing1ee(上海)
+* :white_check_mark: [Curate Click](https://curateclick.com/)：导航站，收录产品和工具。
+
 #### james(杭州）
 * :white_check_mark: [fluxcontext](https://fluxcontext.app/) : 用 AI 修改你的图片（使用 FLUX KONTEXT AI），Professional Online Image Enhance with FLUX KONTEXT AI
 
