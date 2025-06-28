@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 28 号添加
+#### hjiayu799
+* :white_check_mark: [AI Instagram Username Generator](https://instagramusername.org/)：生成用户名的网站，输入关键词并选择风格快速生成创意名称。
+它还提供匹配的简介建议，特是针对于社交媒体 facebook twitter Instagram...微博之类的，且基于 AI 技术分析流行趋势，生成的内容兼具独特性与吸引力。并且防止重复无法注册 - [更多介绍](https://instagramusername.org/about)
 
 #### leo(上海)
 * :white_check_mark: [Asphalt Calculator](https://asphaltcalculatorhub.com/)：沥青价格计算器
