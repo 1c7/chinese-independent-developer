@@ -19,10 +19,12 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+#### erickkkyt - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [AI  Dog Olympics Generator](https://www.dogolympics.net/)：制作独一无二、爆火的动物奥运会 AI 视频
 
 ### 2025 年 6 月 27 号添加
 #### toby(南京)
-* :white_check_mark: [FantasyGen](https://fantasygen.net/)：奇幻地图和人物生成。
+* :white_check_mark: [FantasyGen](https://fantasygen.net/)：AI 生成奇幻地图和人物
 
 #### sing1ee(上海)
 * :white_check_mark: [Curate Click](https://curateclick.com/)：导航站，收录产品和工具。
