@@ -19,6 +19,9 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+#### Ethan Sunray
+* :white_check_mark: [KKV AI](https://kkv.ai)：KKV 是一站式 AI 创作平台，提供视频生成、图像创作、照片编辑、趣味滤镜、AI 聊天助手等功能，无障碍访问 Veo 3、Flux、Claude Opus 4 等 100+ 顶级模型
+
 #### erickkkyt - [Github](https://github.com/erickkkyt)
 * :white_check_mark: [AI  Dog Olympics Generator](https://www.dogolympics.net/)：制作独一无二、爆火的动物奥运会 AI 视频
 
