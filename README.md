@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 6 月 28 号添加
+
+#### leo(上海)
+* :white_check_mark: [Asphalt Calculator](https://asphaltcalculatorhub.com/)：沥青价格计算器
+  
 #### Ethan Sunray
 * :white_check_mark: [KKV AI](https://kkv.ai)：KKV 是一站式 AI 创作平台，提供视频生成、图像创作、照片编辑、趣味滤镜、AI 聊天助手等功能，无障碍访问 Veo 3、Flux、Claude Opus 4 等 100+ 顶级模型
 
