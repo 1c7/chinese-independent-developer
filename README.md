@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 6 月 30 号添加
+#### seeeeal（西安） - [Github](https://github.com/seeeeal) [Blog](https://seeeeal.fun/)
+* :white_check_mark: [相机水印生成器](https://exifframe.org): 在线为图片添加相机水印。相机水印包含相机品牌 / 型号 / 拍摄时间 / 拍摄地点 / 光圈 / 快门 / ISO 等信息。优雅的展示你的摄影作品。无需注册登录，免费导出。
+
 ### 2025 年 6 月 29 号添加
 #### Dylan Tao(合肥)
 * :white_check_mark: [SaaSGree](https://saasgree.com)：SaaSGree 专为企业间签订各类 SaaS 合同的场景而设计，帮助用户通过专业合同模板快速生成协议，无需高价聘请律师，也避免使用低质量模板带来的法律风险。
