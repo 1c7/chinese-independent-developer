@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 7 月 1 号添加
+#### 一箭（杭州） 
+* :white_check_mark: [随机游戏生成器](https://randomgame.click): 不知道玩什么游戏？试试我们的随机游戏生成器，一键帮你发现有趣、免费的在线游戏，支持多平台，海量精选游戏等你来玩！
+
 ### 2025 年 6 月 2 号添加
 #### wenyue(深圳) - [Github](https://github.com/chanmankong)
 * :white_check_mark: [无畏契约准星库和生成器](https://valorantcrosshair.org/zh-CN/)：无畏契约准星库和生成器，玩家的得力帮手
