@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 7 月 1 号添加
+#### RainbowBird | 洛灵 (上海) - [Github](https://github.com/luoling8192), [博客](https://blog.luoling.moe)
+* :white_check_mark: [Telegram Search](https://github.com/groupultra/telegram-search)：功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配
+
 ### 2025 年 6 月 27 号添加
 #### sing1ee(上海) 
 * :white_check_mark: [Gemini CLI Docs](https://gemini-cli.xyz/docs/)：Gemini CLI 相关技术文档和开发者资源（持续更新）
