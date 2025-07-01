@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 1 号添加
+#### rns
+* :white_check_mark: [Quitar Fondo](https://quitarfondo.cc/)：（西班牙语产品，无中文或英文版）用 AI 删除图片背景
+
 #### iam-tin - [Github](https://github.com/iam-tin)
 * :white_check_mark: [MARS AI](https://marsai.site/)：MARS AI 提供免费的 AI 视频生成和图像生成，用文本或图片创建专业视频和图片，把点子转为视觉内容
 
