@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 2 号添加
+#### yelo1900 - [Github](https://github.com/yelo1900)
+* :white_check_mark: [Crybaby Wallpaper 4K 高清壁纸](https://crybaby-wallpaper.com)
+
 #### tao(杭州) - [Github](https://github.com/nietao2018)
 * :white_check_mark: [Converters.pro](https://www.converters.pro)：基于 AI 的图片和视频转换网站，可以帮你做背景修复、老照片恢复、虚拟换衣
 
