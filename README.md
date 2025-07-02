@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 2 号添加
+#### tao(杭州) - [Github](https://github.com/nietao2018)
+* :white_check_mark: [Converters.pro](https://www.converters.pro)：基于 AI 的图片和视频转换网站，可以帮你做背景修复、老照片恢复、虚拟换衣
+
 ### 2025 年 7 月 1 号添加
 #### rns
 * :white_check_mark: [Quitar Fondo](https://quitarfondo.cc/)：（西班牙语产品，无中文或英文版）用 AI 删除图片背景
@@ -952,7 +956,7 @@
 
 ### 2024 年 10 月 31 号添加
 #### Corey Chiu(深圳) - [Github](https://github.com/iamcorey)
-* :white_check_mark: [AI Best Tools导航站](https://aibest.tools/)：网站汇集收录各种优质的 AI 产品工具，帮助用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具
+* :white_check_mark: [AI Best Tools导航站](https://aibest.tools/)：收录各种优质的 AI 产品工具，帮用户找到最优质且好用的 AI 产品，同时助力 AI 产品开发者展示自己产品。并且网站定时爬取 Product Hunt 等优质产品平台，给 AI 产品开发者提供开发及需求的思路。欢迎大家来提交自己的 AI 产品及发掘更多优质的 AI 工具
 
 ### 2024 年 10 月 27 号添加
 #### MrHuZhi - [Github](https://github.com/MrHuZhi)
