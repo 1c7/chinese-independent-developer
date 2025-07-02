@@ -4,6 +4,7 @@
 
 ### 2025 年 7 月 1 号添加
 #### 一箭（杭州） 
+* :white_check_mark: [种植花园计算器](https://growagardencalculator.click/)：使用“种植花园价值计算器”来规划您的 Roblox 作物，应用金色和彩虹等突变，并在每次收获时增加您的 Sheckles。
 * :white_check_mark: [随机游戏生成器](https://randomgame.click): 不知道玩什么游戏？试试我们的随机游戏生成器，一键帮你发现有趣、免费的在线游戏，支持多平台，海量精选游戏等你来玩！
 
 ### 2025 年 6 月 2 号添加
