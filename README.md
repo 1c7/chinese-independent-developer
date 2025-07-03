@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 3 号添加
+#### ChillWay
+* :white_check_mark: [TwitterDown](https://twitterdown.com/): 下载 Twitter 视频
+* :white_check_mark: [KuaishouVideoDownload](https://kuaishou-video-download.com/): 下载快手视频
+
 #### wdh(杭州) 
 * :white_check_mark: [Veegen](https://veegen.ai/)：图片生成视频工具
 
