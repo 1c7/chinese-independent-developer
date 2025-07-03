@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 7 月 3 号添加
+#### Jsonchao (深圳) - [Github](https://github.com/JsonChao), [博客](https://juejin.cn/user/4318537403878167)
+* :white_check_mark: [growagarden-calculator](https://www.growagarden-calculator.net/)：页面精美、功能强大的 《Grow a Garden》 游戏交易 / 攻略工具，在疯狂圈粉 1600 万 + 玩家的 Roblox 神作《Grow a Garden》中，想靠“三秒算账”闯荡菜市？这就是 Grow a Garden Calculator 存在的意义：帮你秒算作物价值、预测突变收益，还附送一整套天气 / 交易 / 攻略工具，专治“不会算、不想算、算得慢”。
+* :white_check_mark: [SZ Games](https://sz-games.online/)：提供超过 1000 款免费在线游戏的平台，涵盖动作、益智、赛车、模拟等多种类型。无需下载，直接在浏览器中畅玩，支持 PC、手机、平板等多平台设备
+
 ### 2025 年 7 月 1 号添加
 #### 一箭（杭州） 
 * :white_check_mark: [种植花园计算器](https://growagardencalculator.click/)：使用“种植花园价值计算器”来规划您的 Roblox 作物，应用金色和彩虹等突变，并在每次收获时增加您的 Sheckles。
