@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 3 号添加
+#### wdh(杭州) 
+* :white_check_mark: [Veegen](https://veegen.ai/)：图片生成视频工具
+
 ### 2025 年 7 月 2 号添加
 #### yelo1900 - [Github](https://github.com/yelo1900)
 * :white_check_mark: [Crybaby Wallpaper 4K 高清壁纸](https://crybaby-wallpaper.com)
