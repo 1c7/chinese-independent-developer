@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 4 号添加
+#### james（武汉）
+* :white_check_mark: [实时工资计时器](https://www.realtimesalary.info/)：输入你的年薪或月薪，即可实时看到每一秒赚了多少钱。支持多种货币和实时汇率转换，适合远程工作者、自由职业者等，随时感受赚钱的爽感！比如干远程的小伙伴，赚的是美金，可以实时转换成人民币，干活的时候，非常的有爽感。
+
 ### 2025 年 7 月 3 号添加
 #### ChillWay
 * :white_check_mark: [TwitterDown](https://twitterdown.com/): 下载 Twitter 视频
@@ -123,6 +127,7 @@
 * :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
 
 #### monsoonw(杭州)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
 * :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
 )：一站式聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
 
