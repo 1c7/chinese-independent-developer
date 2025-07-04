@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 4 号添加
+#### 欲饮琵琶码上催 - [Github](https://github.com/ajiho)
+* :white_check_mark: [Lravel中文网](https://laravel.wiki)：全球最流行的PHP框架Laravel的中文文档
+
 #### Orion - [Github](https://github.com/OrionTyce)
 * :white_check_mark: [Ries.AI](https://ries.ai/zh/learn-english?c=sP0B)：颠覆你对学英语的认知！英语学不好的最大原因是接触的太少！我们创新地将高频词汇融入你看的视频和文章，把每天接触的大量中文改造一部分成英语接触，渐进低压拓展语言边界。
 
