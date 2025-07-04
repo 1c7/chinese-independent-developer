@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 4 号添加
+#### Orion - [Github](https://github.com/OrionTyce)
+* :white_check_mark: [Ries.AI](https://ries.ai/zh/learn-english?c=sP0B)：颠覆你对学英语的认知！英语学不好的最大原因是接触的太少！我们创新地将高频词汇融入你看的视频和文章，把每天接触的大量中文改造一部分成英语接触，渐进低压拓展语言边界。
+
 #### james（武汉）
 * :white_check_mark: [实时工资计时器](https://www.realtimesalary.info/)：输入你的年薪或月薪，即可实时看到每一秒赚了多少钱。支持多种货币和实时汇率转换，适合远程工作者、自由职业者等，随时感受赚钱的爽感！比如干远程的小伙伴，赚的是美金，可以实时转换成人民币，干活的时候，非常的有爽感。
 
