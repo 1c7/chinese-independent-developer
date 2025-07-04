@@ -127,9 +127,7 @@
 * :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
 
 #### monsoonw(杭州)
-* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
-* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co
-)：一站式聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：一站式聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
 
 #### DamonTsang986(深圳) 
 * :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
