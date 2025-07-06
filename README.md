@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 6 号添加
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Gemlink.app](https://gemlink.app)：集内容收集、整理与社交分享于一体的平台。可以作为“稍后阅读”替代使用。旨在解决信息过载、跨平台内容割裂和深度阅读缺失的问题，打造“个性化互联网精华库与思想交流空间” - [配套浏览器插件](https://chromewebstore.google.com/detail/gemlink-your-space-for-sm/pickcibaiaapcbobgbjgmomocmcdpmmn) 通过插件高效收藏，通过网站灵活整理，通过社交化分享机制形成价值内容网络
+
 ### 2025 年 7 月 5 号添加
 #### zgcoder
 * :white_check_mark: [图片压缩神器](https://www.zgcoder.com/tic/)：对图片进行快速高效的批量压缩和格式转换
