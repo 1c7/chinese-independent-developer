@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 8 号添加
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [Humanizar Text](https://humanizartexto.app/)：一键优化 AI 生成的文本，让AI无法检测到文本是AI所生成，AI时代下“去AI”的本文神器。
+* :white_check_mark: [HIDream AI](https://hidream.online/)：HiDream 大模型在线生成图像，让图像更清晰更逼真。
+* :white_check_mark: [MORSE CODE](https://morsecode-translator.app/)：一键把内容生成对应的摩斯电码的平台，可以通过摩斯电码表达爱意，或者让莫斯电码成为两个人之间的“加密”语言。
+
 ### 2025 年 7 月 7 号添加
 #### sk(广州)
 * :white_check_mark: [摸鱼地图](https://moyumap.com/)：记录和可视化大家"摸鱼"次数的趣味网站。包括摸鱼区域热力图，摸鱼排行榜，看看今天谁在一起摸鱼。
