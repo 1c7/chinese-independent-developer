@@ -21,7 +21,13 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 10 号添加
-#### asui(泉州) - 
+#### 李恩泽 - [GitHub](https://github.com/enzeberg)
+* :white_check_mark: [铜钟](https://tonzhon.whamon.com/)：专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)
+
+#### hcc(北京)
+* :white_check_mark: [分身宝](https://clone.youchong.club)：Android 应用多开工具，支持微信、QQ、抖音、小红书、淘宝、京东、拼多多、美团、快手、咸鱼等绝大多数主流应用以及各类游戏，轻松管理多个账号。
+
+#### asui(泉州)
 * :white_check_mark: [客群采集-微信小程序](https://my-works.oss-cn-beijing.aliyuncs.com/images/download.jpg)：拓客小工具，基于地理位置以及一些开放的api去采集商户信息，并围绕这些信息提供了一系列的小功能，例如：数据导入导出、拨打电话、保存通讯录、导航等等
 
 ### 2025 年 7 月 8 号添加
