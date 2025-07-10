@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 10 号添加
+#### liunice (深圳)
+* :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
+
 #### 李恩泽 - [GitHub](https://github.com/enzeberg)
 * :white_check_mark: [铜钟](https://tonzhon.whamon.com/)：专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)
 
