@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 10 号添加
+#### asui(泉州) - 
+* :white_check_mark: [客群采集-微信小程序](https://my-works.oss-cn-beijing.aliyuncs.com/images/download.jpg)：拓客小工具，基于地理位置以及一些开放的api去采集商户信息，并围绕这些信息提供了一系列的小功能，例如：数据导入导出、拨打电话、保存通讯录、导航等等
+
 ### 2025 年 7 月 8 号添加
 #### iam-tin - [Github](https://github.com/iam-tin)
 * :white_check_mark: [Humanizar Text](https://humanizartexto.app/)：一键优化 AI 生成的文本，让AI无法检测到文本是AI所生成，AI时代下“去AI”的本文神器。
