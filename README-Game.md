@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 7 月 10 号添加
+#### Jsonchao (深圳) - [Github](https://github.com/JsonChao), [博客](https://juejin.cn/user/4318537403878167)
+* :white_check_mark: [Sand Blast Block Puzzle](https://sand-blast-block-puzzle.com/)：《沙爆方块拼图》是一款创新的沙流物理拼图游戏，融合了经典方块拼图的策略性与沙流模拟的沉浸感。玩家需要在方格中放置三种不同形状的彩色方块，方块落下后会转化为沙流，玩家需巧妙布局，形成同色沙流的完整横线以清除并得分。游戏没有时间限制，适合任何年龄段的玩家，既能放松心情，又能锻炼思维。无需下载，支持离线游戏，随时随地畅玩。
+
 ### 2025 年 7 月 3 号添加
 #### Jsonchao (深圳) - [Github](https://github.com/JsonChao), [博客](https://juejin.cn/user/4318537403878167)
 * :white_check_mark: [growagarden-calculator](https://www.growagarden-calculator.net/)：页面精美、功能强大的 《Grow a Garden》 游戏交易 / 攻略工具，在疯狂圈粉 1600 万 + 玩家的 Roblox 神作《Grow a Garden》中，想靠“三秒算账”闯荡菜市？这就是 Grow a Garden Calculator 存在的意义：帮你秒算作物价值、预测突变收益，还附送一整套天气 / 交易 / 攻略工具，专治“不会算、不想算、算得慢”。
