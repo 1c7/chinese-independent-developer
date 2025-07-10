@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 7 月 10 号添加
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [Cealer](https://github.com/SpaceTimee/Sheas-Cealer-Droid)：安卓端 SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
+
 ### 2025 年 7 月 4 号添加
 #### 欲饮琵琶码上催 - [Github](https://github.com/ajiho)
 * :white_check_mark: [Laravel 中文网](https://laravel.wiki)：全球最流行的PHP框架 Laravel 的中文文档
