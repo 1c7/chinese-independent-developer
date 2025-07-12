@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 12 号添加
+#### hjiayu799
+* :white_check_mark: [魔镜歌词网](https://mojigeci.com/)：500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)
+
+#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
+* :white_check_mark: [PoPo](https://popo.love)：LLM 在线生成 MMD 纸片人姿势
+
 #### SSShooter - [GitHub](https://github.com/SSShooter)
 * :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成40+实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
 
