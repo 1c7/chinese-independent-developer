@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 12 号添加
+#### fanison(北京)
+* :white_check_mark: [melhorar imagem](https://melhorarimagem.org)：专注巴西市场的在线图像处理工具，用 AI 帮助用户提升图片分辨率、增强画质、修复模糊和噪点，让您的照片焕然一新。
+
 #### hjiayu799
 * :white_check_mark: [魔镜歌词网](https://mojigeci.com/)：500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)
 
