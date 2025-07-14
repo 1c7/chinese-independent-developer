@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 ### 2025 年 7 月 14 号添加
+#### heyjude(上海）
+* :white_check_mark: [TmpMail](https://www.tmpmail.online): 免费临时邮箱TmpMail
+* :white_check_mark: [Posterfy](https://www.posterfy.art/): 生成音乐海报
+* :white_check_mark: [Avatify](https://www.avatify.online/): 生成头像
+
 #### Selenium39(广州) - [Selenium39](http://github.com/Selenium39)
 * :white_check_mark: [LLMOCR](https://llmocr.com)：基于 AI 的 OCR 服务
 * :white_check_mark: [FWFW](https://fwfw.app)：Find Websites From World
