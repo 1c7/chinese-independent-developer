@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 7 月 14 号添加
+#### 刘三（上海）
+* :white_check_mark: [Grow a Garden Calculator](https://www.growagardencalculator.quest/)：实时计算 Roblox 游戏中水果价值、变异倍率、好友增益等，帮助你快速优化收益！ 
+
 ### 2025 年 7 月 10 号添加
 #### Jsonchao (深圳) - [Github](https://github.com/JsonChao), [博客](https://juejin.cn/user/4318537403878167)
 * :white_check_mark: [Sand Blast Block Puzzle](https://sand-blast-block-puzzle.com/)：《沙爆方块拼图》是一款创新的沙流物理拼图游戏，融合了经典方块拼图的策略性与沙流模拟的沉浸感。玩家需要在方格中放置三种不同形状的彩色方块，方块落下后会转化为沙流，玩家需巧妙布局，形成同色沙流的完整横线以清除并得分。游戏没有时间限制，适合任何年龄段的玩家，既能放松心情，又能锻炼思维。无需下载，支持离线游戏，随时随地畅玩。
