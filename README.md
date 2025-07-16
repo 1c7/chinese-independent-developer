@@ -21,8 +21,8 @@
 ## 3. 项目列表
 
 ### 2025 年 7月16 号添加
-#### james [Github](https://github.com/JamesHuang22)
-
+#### james（武汉） [Github](https://github.com/JamesHuang22)
+* :white_check_mark: [去留助手AI](https://www.huiguo.info/)：是一款专为海外留学生以及在海外发展的华人打造的智能决策辅助工具。通过AI大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。
 
 
 ### 2025 年 7 月 14 号添加
