@@ -21,7 +21,7 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 16 号添加
-#### james（武汉） [Github](https://github.com/JamesHuang22)
+#### james（武汉）- [Github](https://github.com/JamesHuang22)
 * :white_check_mark: [去留助手AI](https://www.huiguo.info/)：专为海外留学生和海外发展的华人打造的智能决策辅助工具。通过 AI 大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。
 
 ### 2025 年 7 月 14 号添加
@@ -49,11 +49,11 @@
 * :white_check_mark: [PoPo](https://popo.love)：LLM 在线生成 MMD 纸片人姿势
 
 #### SSShooter - [GitHub](https://github.com/SSShooter)
-* :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成40+实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
+* :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
 
 ### 2025 年 7 月 10 号添加
 #### liunice (深圳)
-* :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
+* :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI 换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
 
 #### 李恩泽 - [GitHub](https://github.com/enzeberg)
 * :white_check_mark: [铜钟](https://tonzhon.whamon.com/)：专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)
