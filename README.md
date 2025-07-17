@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 17 号添加
+#### ziwu(广州) - [Github](https://github.com/ziwu7)
+* :white_check_mark: [Omnigen2](https://omnigen2.org/)：智源开源的 7B 统一多模态图像生成模型，一句话精准完成风格转换、元素增删、背景替换等高阶 PS 级操作。
+
 #### hnher(郑州)
 * :white_check_mark: [水印相机](https://camera.hnher.com/)：可以拍带水印照片并分享给微信好友。
 
