@@ -19,6 +19,17 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 7 月 19 号添加
+#### Patrick (顺德)
+* :white_check_mark: [怼怼侠](https://www.duiduixia.com/)：小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话。
+
+#### Q.Jin - [Github](https://github.com/qijin-3)
+* :white_check_mark: [好有链接 数字名片](https://links.haoyou.tech) 支持多身份名片管理和中文口令分享的数字名片工具。它帮助你为每一个社交身份创建独立的名片，分别绑定不同的社交账号、内容卡片和联系方式。在不同场合，分享不同的自己，让对方快速了解你，无需反复自我介绍。
+并且在『好有链接』中，除了支持微信分享你的名片。你还可以给每张卡片都绑定中文口令。通过口令搜索和分享卡片，轻巧、便捷，也更有趣 - [小程序二维码](https://links.haoyou.tech/Drawing_bed/Slide_16_9_-_25.png)
+
+#### Hnher(郑州) - [博客](https://www.hnher.com)
+* :white_check_mark: [会员次卡通](https://emember.hnher.com)：会员计次卡管理系统
+* :white_check_mark: [互游侠](https://egame.hnher.com)：游戏卡册收集器
 
 ### 2025 年 7 月 18 号添加
 #### fx(深圳) - [Github](https://github.com/limxfx)
