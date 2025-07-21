@@ -19,6 +19,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2025 年 7 月 21 号添加
+#### fanison(北京) 
+* :white_check_mark: [photo color changer](https://photocolorchanger.com/)：免费在线更改图像颜色，简化图像类型的处理流程。只需使用直观的颜色选择器选择目标区域（前景或背景），然后选择新的颜色即可
+
 ### 2025 年 7 月 19 号添加
 #### Patrick (顺德)
 * :white_check_mark: [怼怼侠](https://www.duiduixia.com/)：小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话
