@@ -19,6 +19,10 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 7 月 23 号添加
+#### 多喝热水 - [GitHub](https://github.com/acmenlei)
+* :white_check_mark: [OfferStar - AI 笔试面试辅助工具](https://www.offerstar.cn)：一款AI笔试面试辅助工具，隐蔽性高，无视屏幕共享，切屏等检测，Ai问答秒级响应。
+
 
 ### 2025 年 7 月 22 号添加
 #### Qiwei - [GitHub](https://github.com/qiweiii)
