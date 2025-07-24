@@ -22,12 +22,12 @@
 
 ### 2025 年 7 月 24 号添加
 #### DT986(深圳) 
-* :white_check_mark: [Photo AI Enhancer - 图片AI增强工具](https://www.leawo.com/image-enhancer/)：图片AI增强器，可自动或手动调整图片效果，如自动校正曝光、增强光线、去除噪点、调整眼睛大小、自动锐化等，支持批量图片效果增强 。
+* :white_check_mark: [Photo AI Enhancer - 图片AI增强工具](https://www.leawo.com/image-enhancer/)：图片 AI 增强器，可自动或手动调整图片效果，如自动校正曝光、增强光线、去除噪点、调整眼睛大小、自动锐化等，支持批量图片效果增强 。
 * :white_check_mark: [DVD刻录](https://www.leawo.com/pro/dvd-creator.html)：帮助把图片或者视频刻录成DVD-9/DVD-5碟片、文件夹或者是ISO镜像文件，允许选择字幕与音轨，添加外部字幕，预置多个菜单模板并允许自定义菜单，提供多个视频编辑功能。
 
 ### 2025 年 7 月 23 号添加
 #### 多喝热水 - [GitHub](https://github.com/acmenlei)
-* :white_check_mark: [OfferStar - AI 笔试面试辅助工具](https://www.offerstar.cn)：一款AI笔试面试辅助工具，隐蔽性高，无视屏幕共享，切屏等检测，Ai问答秒级响应。
+* :white_check_mark: [OfferStar - AI 笔试面试辅助工具](https://www.offerstar.cn)：AI 笔试面试辅助工具，隐蔽性高，无视屏幕共享，切屏等检测，AI 问答秒级响应。
 
 ### 2025 年 7 月 22 号添加
 #### Qiwei - [GitHub](https://github.com/qiweiii)
