@@ -24,9 +24,7 @@
 
 ### 2025 年 7 月 26 号添加
 #### 码上云行科技(上海) - [官网](https://www.jessenbox.com/)
-* :white_check_mark: [极巧立算 (iOS)](https://apps.apple.com/cn/app/id6448924181)：汇集各种计算工具的全能计算器 App
-* :white_check_mark: [极巧立算 (Android - Google Play)](https://play.google.com/store/apps/details?id=com.jessen.unitsconverter)：汇集各种计算工具的全能计算器 App
-* :white_check_mark: [极巧立算 (Android - 国内应用商店)](https://www.jessenbox.com/)：汇集各种计算工具的全能计算器 App (已上线至华为，小米，Oppo， vivo， 魅族， 应用宝等)
+* :white_check_mark: [极巧立算 (iOS)](https://apps.apple.com/cn/app/id6448924181)：汇集各种计算工具的全能计算器 App - [Android - GooglePlay](https://play.google.com/store/apps/details?id=com.jessen.unitsconverter), [Android - 国内应用商店](https://www.jessenbox.com/)
 
 #### **Ch3nyang(南京)** - [Github](https://github.com/wcy-dt), [博客](https://blog.ch3nyang.top/)
 * :white_check_mark: [EasyTransfer](https://file.ch3nyang.top/)：免费、匿名、加密且易于使用的 E2EE 文件传输工具。只需访问一个简单的网页，即可使用设备代码连接到任何网络中的任何设备。支持免费的内网穿透，也可自行部署 - [仓库](https://github.com/WCY-dt/EasyTransfer)
