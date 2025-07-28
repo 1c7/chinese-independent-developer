@@ -21,6 +21,18 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 28 号添加
+#### Brice(南京) 
+* :white_check_mark: [kawaii coloring](https://kawaiicoloring.org/)：专注提供可爱类型的线稿图，持续更新
+
+#### nogeek(南京)
+* :white_check_mark: [Days Launch](https://dayslaunch.com/)：每天构建，每天发布。做一个发布站+目录站，让开发者都可以免费的发布自己的作品，进行获客和宣传
+
+#### Shanshi(武汉) - [Github](https://github.com/Shanshi66)
+* :white_check_mark: [Easy2Text](https://easy2text.app/)：将语音转成文本、字幕等多种格式
+
+#### wmin(北京) - [github](https://github.com/worminone)
+* :white_check_mark: [How To Sketch](https://howtosketch.net/): 图片转素描网站
+
 #### monsoonw(杭州)
 * :white_check_mark: [AI Stem Splitter](https://aistemsplitter.net)：AI 音轨分离器
 
