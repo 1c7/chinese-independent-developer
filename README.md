@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 28 号添加
+#### Ivanvolt(武汉)
+* :white_check_mark: [Aluo AI](https://aluo.ai/)：新一代AI智能图像设计平台，支持类似Photoshop在线图像编辑以及由AI驱动的自然语言图像编辑，无论是设计师还是设计小白，都能通过它创造出媲美专业级水准的商业图像。
+* 
 #### sk(广州)
 * :white_check_mark: [AIColoringPages](https://ai-coloring-pages.fun/)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
 
