@@ -4564,7 +4564,6 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
-<!-- * [OkJob](https://okjob.io) - 每周工作 4 天的工作委员会/4 day week job board -->
 * [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 
 ### 中文
@@ -4582,4 +4581,4 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ## 寻找远程工作
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
-1. [RemoteOK](https://remoteok.io/) - 找远程工作
+1. [RemoteOK](https://remoteok.io/)
