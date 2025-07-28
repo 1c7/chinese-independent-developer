@@ -20,7 +20,9 @@
 
 ## 3. 项目列表
 
-### 2025 年 7 月 26 号添加
+### 2025 年 7 月 28 号添加
+#### monsoonw(杭州)
+* :white_check_mark: [AI Stem Splitter](https://aistemsplitter.net)：AI 音轨分离器
 
 ### 2025 年 7 月 26 号添加
 #### 码上云行科技(上海) - [官网](https://www.jessenbox.com/)
