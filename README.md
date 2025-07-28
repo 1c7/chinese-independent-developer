@@ -4553,30 +4553,33 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 
 ---
 
-#### 4. 另外
-推荐一些对独立开发者有帮助的网站：
+## 推荐一些对独立开发者有帮助的网站：
 
-[英文]
+### 英文
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Failory](https://www.failory.com/) - 分享创业失败的故事
 * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
 * [Awesome Indie](https://github.com/mezod/awesome-indie)
-* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
-* [Remotebond](https://remotebond.com/) - 找远程工作
-* [RemoteOK](https://remoteok.io/) - 找远程工作
 * [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
 * [Stripe Atlas Guide](https://stripe.com/atlas/guides)
 * [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
 * [Master of Scale](https://mastersofscale.com)
-* [OkJob](https://okjob.io) - 每周工作 4 天的工作委员会/4 day week job board
+<!-- * [OkJob](https://okjob.io) - 每周工作 4 天的工作委员会/4 day week job board -->
+* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
 
-[中文]
+### 中文
 * [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
 * [利器](http://liqi.io/creators/)
 * [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
 * [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
 
-#### 5. 值得关注的 Twitter 账号
+## 值得关注的 Twitter 账号
 * [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
 * [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
 * [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
+
+
+## 寻找远程工作
+1. [电鸭](https://eleduck.com/)
+1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
+1. [RemoteOK](https://remoteok.io/) - 找远程工作
