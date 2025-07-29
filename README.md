@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 29 号添加
+#### heyjude(github)
+* :white_check_mark: [freeconvert](https://www.freeconvert.cc/): 提供图片格式转换功能，支持 heic、heif、png、jpg、pdf 等格式
+
 ### 2025 年 7 月 28 号添加
 #### sk(广州)
 * :white_check_mark: [AIColoringPages](https://ai-coloring-pages.fun/)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
