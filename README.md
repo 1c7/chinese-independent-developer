@@ -22,17 +22,17 @@
 
 ### 2025 年 7 月 29 号添加
 #### heyjude(github)
-* :white_check_mark: [freeconvert](https://www.freeconvert.cc/): 提供图片格式转换功能，支持 heic、heif、png、jpg、pdf 等格式
+* :white_check_mark: [FreeConvert](https://www.freeconvert.cc/)：提供图片格式转换功能，支持 heic、heif、png、jpg、pdf 等格式
 
 ### 2025 年 7 月 28 号添加
 #### sk(广州)
 * :white_check_mark: [AIColoringPages](https://ai-coloring-pages.fun/)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
 
 #### minutes
-* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：视频编辑新方式，Runway Aleph 是一款 AI 视频编辑平台，能通过简单的文本提示来改造视频内容。用户可以增删物体、生成新视角、应用风格迁移、调整光线，轻松达到专业级效果。
+* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：视频编辑新方式，Runway Aleph 是 AI 视频编辑平台，能通过简单的文本提示来改造视频内容。用户可以增删物体、生成新视角、应用风格迁移、调整光线，轻松达到专业级效果。
 
 #### Brice(南京) 
-* :white_check_mark: [kawaii coloring](https://kawaiicoloring.org/)：专注提供可爱类型的线稿图，持续更新
+* :white_check_mark: [kawaii coloring](https://kawaiicoloring.org/)：提供可爱类型的线稿图，持续更新
 
 #### nogeek(南京)
 * :white_check_mark: [Days Launch](https://dayslaunch.com/)：每天构建，每天发布。做一个发布站+目录站，让开发者都可以免费的发布自己的作品，进行获客和宣传
