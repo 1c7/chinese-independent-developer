@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 7 月 29 号添加
+#### dallen(武汉) 
+* :white_check_mark: [BirthChartAI](https://birthchartai.com/)：精准星盘分析，AI智能揭示你的性格与命运轨迹
+* :white_check_mark: [HowHotAmI](https://howhotami.org/)：AI颜值评分神器，一键测出你的吸引力与面部黄金比例
+
 #### heyjude(github)
 * :white_check_mark: [FreeConvert](https://www.freeconvert.cc/)：提供图片格式转换功能，支持 heic、heif、png、jpg、pdf 等格式
 
