@@ -34,7 +34,7 @@
 
 ### 2025 年 7 月 28 号添加
 #### sk(广州)
-* :white_check_mark: [AIColoringPages](https://ai-coloring-pages.fun/)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
+* :white_check_mark: [AIColoringPages](https://ai-coloring-pages.art)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
 
 #### minutes
 * :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：视频编辑新方式，Runway Aleph 是 AI 视频编辑平台，能通过简单的文本提示来改造视频内容。用户可以增删物体、生成新视角、应用风格迁移、调整光线，轻松达到专业级效果。
