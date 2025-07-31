@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 7 月 31 号添加
+#### biboom(广州) 
+* :white_check_mark: [smartimagix](http://smartimagix.cloud)：用 AI 修改图片
+
+#### tushenmei(杭州) 
+* :white_check_mark: [Green Screen Remover 免费一键抠图](https://greenscreenremover.online/)：手动抠图太慢太烦？我们都懂。免费AI背景抠图网站，释放你的创作力
+
 ### 2025 年 7 月 30 号添加
 #### Flicker(成都)
 * :white_check_mark: [AI LRC Generator](https://ailrcgenerator.com/)：AI LRC Generator 使用 AI 技术一键生成音频 LRC 文件！支持自动识别音频内容，精准同步时间轴，适用于配音、字幕、K歌、播客等多种场景。做这个起因是因为手里有一些老歌或者一些市面上消失的歌，没有歌词，所以搞了个音频处理+AI生成歌词的网站。
