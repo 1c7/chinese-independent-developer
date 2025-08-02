@@ -20,7 +20,7 @@
 
 ## 3. 项目列表
 
-### 2025 年 7 月 31 号添加
+### 2025 年 8 月 2 号添加
 
 #### gemoonly - [Twitter](https://x.com/gell_moon)
 * :white_check_mark: [Neetoo](https://apps.apple.com/cn/app/neetoo/id6743790550?mt=12)：上班摸鱼小说阅读器，可以在工作之余尽情的阅读小说，不用担心被发现（适用于 macOS，可隐藏）
@@ -28,6 +28,7 @@
 #### Jay6343 - [Github](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-3138860512)
 * :white_check_mark: [AI 亲吻视频生成器](https://kissingai.app/)：用 AI 基于照片创建逼真的接吻视频，从多种亲吻风格中选择，如法式亲吻或雨中亲吻
 
+### 2025 年 7 月 31 号添加
 #### biboom(广州) 
 * :white_check_mark: [smartimagix](http://smartimagix.cloud)：用 AI 修改图片
 
