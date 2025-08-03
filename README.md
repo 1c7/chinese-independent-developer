@@ -20,8 +20,14 @@
 
 ## 3. 项目列表
 
-### 2025 年 8 月 2 号添加
+### 2025 年 8 月 3 号添加
+#### nogeek(南京)
+* :white_check_mark: [The One Startup](https://theonestartup.com)：每个小产品都是一个小公司，发现一些小公司，让每个小产品都有被发现的机会
 
+#### feiyu(北京) 
+* :white_check_mark: [AI剪影生成器](https://silhouettegenerator.app/)：免费 AI 剪影生成器，瞬间将任何照片转换为令人惊艳的剪影
+
+### 2025 年 8 月 2 号添加
 #### gemoonly - [Twitter](https://x.com/gell_moon)
 * :white_check_mark: [Neetoo](https://apps.apple.com/cn/app/neetoo/id6743790550?mt=12)：上班摸鱼小说阅读器，可以在工作之余尽情的阅读小说，不用担心被发现（适用于 macOS，可隐藏）
 
