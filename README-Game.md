@@ -2,8 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 8 月 3 号添加
+#### Ethan Sunray
+* :white_check_mark: [Connections Hint](https://connectionshint.cc/)：收集了《纽约时报》Connections 游戏从上线至今每一期的答案和解谜提示，每日更新。
+
 ### 2025 年 7 月 24 号添加
-#### Eagien(杭州) - [Github](), [博客]()
+#### Eagien(杭州)
 * :white_check_mark: [森林中的99个夜晚攻略](https://99nightsintheforest.online)：掌握《99个森林之夜》全攻略！提供生存策略、制作秘籍、怪物情报和专家技巧，助你成功度过全部99个夜晚。 - [更多介绍]()
 
 ### 2025 年 7 月 14 号添加
