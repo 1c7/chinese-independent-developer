@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 8 月 8 号添加
+#### Nico(长沙) - [Github](https://github.com/yijianbo), [博客]( https://biofy.cn/nico)
+* :white_check_mark: [Wordless](https//wordless.online)：类似 Wordle 的在线猜单词 AI 游戏，6次机会猜出英文单词，既能练英语又能动脑子，完全停不下来！也提供了 [Chrome 插件版本](https://chromewebstore.google.com/detail/wordless-game/ejkdnnekbieingpiciajgpedhplafocp)
+
 ### 2025 年 8 月 3 号添加
 #### Ethan Sunray
 * :white_check_mark: [Connections Hint](https://connectionshint.cc/)：收集了《纽约时报》Connections 游戏从上线至今每一期的答案和解谜提示，每日更新。
