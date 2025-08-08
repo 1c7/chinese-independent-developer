@@ -14,6 +14,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
+### 2025 年 8 月 8 号添加
+#### lizhichao - [Github](https://github.com/lizhichao)
+* :white_check_mark: [根据 sql ddl 生成 gorm model](https://gorm.vicsdf.com/)：支持 mysql 和 pgsql ，根据int bigint 自动映射到go对应的类型。由浏览器 wasm 执行 可以离线使用
+
+
 ### 2025 年 8 月 4 号添加
 #### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki) [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
 * :white_check_mark: [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
