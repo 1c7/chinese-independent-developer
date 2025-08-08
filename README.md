@@ -32,7 +32,7 @@
 
 ### 2025 年 8 月 4 号添加
 #### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki) [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
-* :white_check_mark: [AI资讯日报-后端项目](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)：是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成。 [产出网站](https://ai.hubtoday.app/) 与 [配套前端项目](https://github.com/justlovemaki/Hextra-AI-Insight-Daily)。
+* :white_check_mark: [AI资讯日报](https://ai.hubtoday.app/)：每日精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成 [后端项目](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) 与 [配套前端项目](https://github.com/justlovemaki/Hextra-AI-Insight-Daily)。
 
 ### 2025 年 8 月 3 号添加
 #### nogeek(南京)
