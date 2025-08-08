@@ -3,6 +3,9 @@
 本版面放的都是游戏，起始于2025年1月4号
 
 ### 2025 年 8 月 8 号添加
+#### ckfanzhe（深圳）
+* :white_check_mark: [Minecraft-Easyserver](https://github.com/ckfanzhe/minecraft-easyserver)：Minecraft 游戏的轻量级管理面板，可以通过面板快速下载搭建MC服务器、管理白名单&权限、管理世界&材质资源、日志与命令执行、服务器性能监控，一键搭建MC游戏服务器。
+
 #### Nico(长沙) - [Github](https://github.com/yijianbo), [博客]( https://biofy.cn/nico)
 * :white_check_mark: [Wordless](https//wordless.online)：类似 Wordle 的在线猜单词 AI 游戏，6次机会猜出英文单词，既能练英语又能动脑子，完全停不下来！也提供了 [Chrome 插件版本](https://chromewebstore.google.com/detail/wordless-game/ejkdnnekbieingpiciajgpedhplafocp)
 
