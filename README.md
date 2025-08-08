@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 8 号添加
+#### lio(广东) - [Github](https://github.com/31702160136/ComfyUI-GrsAI)
+* :white_check_mark: [GrsAi ](https://grsai.com/)：GrsAI 国外主流 AI 模型 API平台。提供价格便宜（全网最低价）稳定的 GPT-4o、Gemini、Flux 和 Veo3 AI API，GPT-4o 图像生成仅需 0.02 一张图。
+
 #### Leochens(北京)
 * :white_check_mark: [状态栏小本本 (macOS)](https://apps.apple.com/us/app/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B0%8F%E6%9C%AC%E6%9C%AC/id6749236800)：可以在状态栏调起的小本本，查看备忘或者速记灵感，不需要回到主页面，在任何屏幕上方都可以直接调起。支持富文本编辑、快捷键调出。
 
