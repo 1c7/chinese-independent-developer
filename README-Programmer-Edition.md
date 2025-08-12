@@ -3,8 +3,8 @@
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
 
 **程序员版和主版面的区别**：
-* 程序员版：用户是程序员，会用命令行，知道什么是 `npm install` 等。列表里的产品是开源博客/命令行工具等
-* 主版面：用户不是程序员是普通人，列表里的产品是网站/App/桌面端应用，必须打开即用
+* 程序员版：用户是程序员，会用命令行，知道 `npm install` 等。列表里的产品是开源博客/命令行工具等
+* 主版面：用户不是程序员，产品是 网站/App/桌面端应用 必须打开即用
 
 <!--
 **为什么开这个列表**：
@@ -22,7 +22,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 8 月 8 号添加
 #### lizhichao - [Github](https://github.com/lizhichao)
-* :white_check_mark: [根据 sql ddl 生成 gorm model](https://gorm.vicsdf.com/)：支持 mysql 和 pgsql ，根据int bigint 自动映射到go对应的类型。由浏览器 wasm 执行 可以离线使用
+* :white_check_mark: [根据 sql ddl 生成 gorm model](https://gorm.vicsdf.com/)：支持 mysql 和 pgsql ，根据 int bigint 自动映射到 go 对应的类型。由浏览器 wasm 执行 可以离线使用
 
 ### 2025 年 8 月 4 号添加
 #### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki) [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
