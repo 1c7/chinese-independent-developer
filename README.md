@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 12 号添加
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [LLM from URL](https://818233.xyz/)：通过网址直接使用大模型，完全免费，只需把提问放在[818233.xyz](https://818233.xyz/)之后作为新的网址即可获得大模型的回答，支持中文，也支持从Linux/Mac终端通过wget调用
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [TweetCloner](https://tweetcloner.com/)：为使用 X/Twitter 设计的创意工具。克隆任何推文创意，翻译或再创作，将其改造成你自己的全新原创内容，再发布到X/Twitter
+
+#### heyjude(上海）- https://github.com/heyjude1817
+* :white_check_mark: [MP3TO](https://www.mp3to.cc): mp3 格式转换工具网站
+* :white_check_mark: [MP4TO](https://www.mp4to.cc): mp4 格式转换工具网站
+
 ### 2025 年 8 月 8 号添加
 #### lio(广东) - [Github](https://github.com/31702160136/ComfyUI-GrsAI)
 * :white_check_mark: [GrsAi ](https://grsai.com/)：GrsAI 国外主流 AI 模型 API平台。提供价格便宜（全网最低价）稳定的 GPT-4o、Gemini、Flux 和 Veo3 AI API，GPT-4o 图像生成仅需 0.02 一张图。
