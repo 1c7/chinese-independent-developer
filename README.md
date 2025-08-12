@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 12 号添加
+#### jammy24 - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [PromptArk](https://promptark.net/)：帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词
+
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [LLM from URL](https://818233.xyz/)：通过网址直接使用大模型，完全免费，只需把提问放在 [818233.xyz](https://818233.xyz/) 之后作为新的网址即可获得大模型的回答，支持中文，也支持从 Linux/Mac 终端通过 wget 调用
 
