@@ -15,9 +15,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 
 ### 2025 年 8 月 8 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
+* :white_check_mark: [草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)：草梅 Auth 是基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式 - [更多介绍](https://auth-docs.cmyr.dev/)
+
+### 2025 年 8 月 8 号添加
 #### lizhichao - [Github](https://github.com/lizhichao)
 * :white_check_mark: [根据 sql ddl 生成 gorm model](https://gorm.vicsdf.com/)：支持 mysql 和 pgsql ，根据int bigint 自动映射到go对应的类型。由浏览器 wasm 执行 可以离线使用
-
 
 ### 2025 年 8 月 4 号添加
 #### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki) [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
