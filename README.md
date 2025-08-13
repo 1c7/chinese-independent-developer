@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 13 号添加
+#### Ethan Sunray
+* :white_check_mark: [Wplace Tool](https://wplacetool.com)：基于浏览器的工具集，帮助 wplace.live 玩家设计像素艺术、匹配官方调色板颜色、监控服务器状态，并协调团队构建
+
 ### 2025 年 8 月 12 号添加
 #### jammy24 - [Github](https://github.com/chenminjie24)
 * :white_check_mark: [PromptArk](https://promptark.net/)：帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词
