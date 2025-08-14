@@ -3309,6 +3309,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [红色工具箱](https://apps.apple.com/cn/app/id1473577627)：多个创意实用小工具集合，如肌肉启动，截屏记事，指尖轮盘等
 
 #### Hancel.Lin(深圳) - [GitHub](https://github.com/imlinhanchao), [博客](http://hancel.org/)
+* :white_check_mark: [Adventext & 千屿引擎](https://adventext.fun/)：文字冒险游戏引擎，包含用来创作文字冒险游戏的在线编辑器以及运行游戏的引擎，你可以在这里创作文字冒险游戏，调试运行。然后推送给世界上的任何玩家游玩！ - [更多介绍](https://github.com/imlinhanchao/adventext)
+* :white_check_mark: [Time 时间胶囊](https://time-pack.com/)：封存记忆，送给未来。基于小程序实现的时间胶囊，支持胶囊提醒与赠送胶囊。 - [更多介绍](https://github.com/imlinhanchao/time-pack-miniprogram)
 * :white_check_mark: [Cashflow 钱去哪儿了](https://s.hancel.org/)：个人消费交易记录管理分析网站应用，通过同步微信与支付宝对账单，管理个人消费交易数据。 - [更多介绍](https://github.com/imlinhanchao/cashflow)
 * :white_check_mark: [Maze Endless](https://store.steampowered.com/app/2960080)：基于 Godot 开发的迷宫休闲游戏，从最简单的迷宫开始，逐渐挑战更加复杂的关卡，解开它们的谜团，找到出口。
 * :white_check_mark: [Vue 国际化开发助手](https://marketplace.visualstudio.com/items?itemName=hancel.front-i18n)：VSCode 扩展，快速为中文 Vue 项目添加国际化支持。
