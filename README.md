@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 14 号添加
+#### 出逃向量(杭州)
+* :white_check_mark: [微信小程序-途搭](https://github.com/user-attachments/assets/2437a6c4-b21b-4f00-a7a3-cc8b245106ae): 徒步者的装备搭配系统，可以查看想去路线他人的搭配和热门装备
+
 ### 2025 年 8 月 13 号添加
 #### Ethan Sunray
 * :white_check_mark: [Wplace Tool](https://wplacetool.com)：基于浏览器的工具集，帮助 wplace.live 玩家设计像素艺术、匹配官方调色板颜色、监控服务器状态，并协调团队构建
