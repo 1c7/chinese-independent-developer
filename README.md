@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 15 号添加
+#### BHznJNs
+* :white_check_mark: [狸语字幕助手](https://apps.microsoft.com/store/detail/9PFLDTV29JFV?cid=DevShareMCLPCS) 让你不开麦也能在直播时“开口”互动的小工具
+
+#### fzero17
+* :white_check_mark: [AA小助手](https://apps.apple.com/app/6749556847)：AA 小助手，一键算清谁该付多少，轻松告别手动算错。
+
 ### 2025 年 8 月 14 号添加
 #### 出逃向量(杭州)
 * :white_check_mark: [微信小程序-途搭](https://github.com/user-attachments/assets/2437a6c4-b21b-4f00-a7a3-cc8b245106ae): 徒步者的装备搭配系统，可以查看想去路线他人的搭配和热门装备
