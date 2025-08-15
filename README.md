@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 15 号添加
+#### Selenium39(广州) - [Github](http://github.com/Selenium39)
+* :white_check_mark: [原牛](https://mihoyonb.com)：一站式自媒体工具平台
+
 #### BHznJNs
 * :white_check_mark: [狸语字幕助手](https://apps.microsoft.com/store/detail/9PFLDTV29JFV?cid=DevShareMCLPCS)：让你不开麦也能在直播时“开口”互动的小工具
 
