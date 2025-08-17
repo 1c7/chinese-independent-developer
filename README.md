@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 17 号添加
+#### ftp2010字(北京) - [Github](https://github.com/ftp2010)
+* :white_check_mark: [mypassrecovery](https://www.mypassrecovery.com)：如果您的 word、pdf、rar 等文档的密码忘记了，这个网站可以帮你找回
+
 ### 2025 年 8 月 15 号添加
 #### Selenium39(广州) - [Github](http://github.com/Selenium39)
 * :white_check_mark: [原牛](https://mihoyonb.com)：一站式自媒体工具平台
