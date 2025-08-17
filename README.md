@@ -22,7 +22,7 @@
 
 ### 2025 年 8 月 17 号添加
 #### xibobo(上海) - [Github](https://github.com/my19940202)
-* :white_check_mark: [CelebShout](https://www.celebshout.online/zh)：使用AI生成明星语音为你街头吆喝带货
+* :white_check_mark: [CelebShout](https://www.celebshout.online/zh)：AI 生成明星语音为你街头吆喝带货
 
 
 ### 2025 年 8 月 17 号添加
