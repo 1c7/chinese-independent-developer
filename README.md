@@ -20,12 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 19 号添加
+#### tanchaowen84（深圳） - [Github](https://github.com/tanchaowen84)
+* :white_check_mark:  [Voice Clone - AI 驱动的语音克隆平台](https://voice-clone.org)，用户只需录制或上传一段音频，系统便能在几秒内生成一个属于用户自己的声音模型。支持任意文本的语音生成，听起来自然流畅，几乎接近真人语音。整个流程无需复杂设备，也不需要技术背景，真正实现“用几句话训练出自己的声音” - [GitHub 仓库](https://github.com/tanchaowen84/voice-clone)
+
 ### 2025 年 8 月 17 号添加
 #### xibobo(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [CelebShout](https://www.celebshout.online/zh)：AI 生成明星语音为你街头吆喝带货
 
-
-### 2025 年 8 月 17 号添加
 #### ftp2010字(北京) - [Github](https://github.com/ftp2010)
 * :white_check_mark: [mypassrecovery](https://www.mypassrecovery.com)：如果您的 word、pdf、rar 等文档的密码忘记了，这个网站可以帮你找回
 
