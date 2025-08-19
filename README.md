@@ -25,7 +25,7 @@
 * :white_check_mark: [薪资跳动](https://money-dance.com/)：记录工作和摸鱼的微信小程序，可以实时显示当天收入和进度，可以记录和统计摸鱼多少分钟赚了多少钱，还有各种维度的数据统计和可视化。
 
 #### tanchaowen84（深圳） - [Github](https://github.com/tanchaowen84)
-* :white_check_mark:  [Voice Clone - AI 驱动的语音克隆平台](https://voice-clone.org)，用户只需录制或上传一段音频，系统便能在几秒内生成一个属于用户自己的声音模型。支持任意文本的语音生成，听起来自然流畅，几乎接近真人语音。整个流程无需复杂设备，也不需要技术背景，真正实现“用几句话训练出自己的声音” - [GitHub 仓库](https://github.com/tanchaowen84/voice-clone)
+* :white_check_mark:  [Voice Clone - AI 驱动的语音克隆平台](https://voice-clone.org)：用户只需录制或上传一段音频，系统便能在几秒内生成一个属于用户自己的声音模型。支持任意文本的语音生成，听起来自然流畅，几乎接近真人语音。整个流程无需复杂设备，也不需要技术背景，真正实现“用几句话训练出自己的声音” - [GitHub 仓库](https://github.com/tanchaowen84/voice-clone)
 
 ### 2025 年 8 月 17 号添加
 #### xibobo(上海) - [Github](https://github.com/my19940202)
