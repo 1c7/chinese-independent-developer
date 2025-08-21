@@ -21,6 +21,15 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 21 号添加
+#### kajian(广州)
+* :white_check_mark: [codebox-有趣的二维码平台](https://www.codebox.club)：超萌的免费二维码生成器，每一个二维码都有故事
+
+#### 林悦己(杭州) 
+* :white_check_mark: [Chatrecap AI](https://chatrecap.io)  Chat Recap AI 揭示你對話中隱藏的模式、情緒與紅旗，讓你真正理解你的關係。
+
+#### BOS1980
+* :white_check_mark: [Soulmate Sketch｜AI 灵魂伴侣素描（占星画像生成）](https://soulmatedrawing.live)：用 AI + 占星，为你生成专属的黑白手绘风格“灵魂伴侣画像”；10–20 秒极速呈现，多语言网站，移动端友好。
+
 #### nogeek (杭州)
 * :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：免费的发布站 & 目录站
 
