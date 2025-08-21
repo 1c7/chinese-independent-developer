@@ -22,7 +22,7 @@
 
 ### 2025 年 8 月 21 号添加
 #### nogeek (杭州)
-* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com) 免费的发布站 & 目录站
+* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：免费的发布站 & 目录站
 
 #### Honwhy Wang - [Github](https://github.com/honwhy)
 * :white_check_mark: [公众号阅读增强器](https://wxreader.honwhy.wang/)：让微信公众号阅读体验更舒适，自动生成文章目录，优化图片查看，让阅读长文不再迷失，提升浏览体验 - [更多介绍](https://github.com/honwhy/WeChatReaderEnhancer)
