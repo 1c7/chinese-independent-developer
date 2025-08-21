@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 8 月 21 号添加
+#### Mao Kaiyue - [Github](https://github.com/MKY508)
+* :white_check_mark: [QueryGPT](https://github.com/MKY508/QueryGPT)：自然语言数据库查询系统。基于 OpenInterpreter 开发，让非技术人员也能用中文查询数据库。比如问"上个月销售最好的产品是什么"，系统会自动执行查询并生成图表。目前在生产环境稳定运行，每天处理上百次查询请求
+
 ### 2025 年 8 月 8 号添加
 #### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
 * :white_check_mark: [草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)：草梅 Auth 是基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式 - [更多介绍](https://auth-docs.cmyr.dev/)
