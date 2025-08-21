@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 21 号添加
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+* :white_check_mark: [公众号阅读增强器](https://wxreader.honwhy.wang/)：让微信公众号阅读体验更舒适，自动生成文章目录，优化图片查看，让阅读长文不再迷失，提升浏览体验 - [更多介绍](https://github.com/honwhy/WeChatReaderEnhancer)
+
 ### 2025 年 8 月 19 号添加
 #### Panda (深圳)
 * :white_check_mark: [薪资跳动](https://money-dance.com/)：记录工作和摸鱼的微信小程序，可以实时显示当天收入和进度，可以记录和统计摸鱼多少分钟赚了多少钱，还有各种维度的数据统计和可视化。
