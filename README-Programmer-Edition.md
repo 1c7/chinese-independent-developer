@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 8 月 22 号添加
+#### Safe3(武汉)
+* :white_check_mark: [南墙-WEB应用防火墙](https://waf.uusec.com)：工业级免费、高性能、高扩展，支持AI和语义引擎的 Web 应用和 API 安全防护产品
+* :white_check_mark: [OpenResty Manager](https://om.uusec.com)：现代化、安全、美观的主机管理面板，OpenResty Edge 的开源替代品
+
 ### 2025 年 8 月 21 号添加
 #### Mao Kaiyue - [Github](https://github.com/MKY508)
 * :white_check_mark: [QueryGPT](https://github.com/MKY508/QueryGPT)：自然语言数据库查询系统。基于 OpenInterpreter 开发，让非技术人员也能用中文查询数据库。比如问"上个月销售最好的产品是什么"，系统会自动执行查询并生成图表。目前在生产环境稳定运行，每天处理上百次查询请求
