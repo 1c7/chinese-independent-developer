@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 22 号添加
+#### monsoonw(杭州)
+* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：在线 Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
+
 ### 2025 年 8 月 21 号添加
 #### kajian(广州)
 * :white_check_mark: [codebox-有趣的二维码平台](https://www.codebox.club)：超萌的免费二维码生成器，每一个二维码都有故事
