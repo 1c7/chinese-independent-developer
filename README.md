@@ -20,11 +20,6 @@
 
 ## 3. 项目列表
 
-### 2025 年 8 月 23 号添加
-#### Safe3(武汉)
-* :white_check_mark: [南墙-WEB应用防火墙](https://waf.uusec.com)：一款工业级免费、高性能、高扩展，支持AI和语义引擎的Web应用和API安全防护产品。
-* :white_check_mark: [OpenResty Manager](https://om.uusec.com)：现代化、安全、美观的主机管理面板，OpenResty Edge 的开源替代品。
-
 ### 2025 年 8 月 22 号添加
 #### monsoonw(杭州)
 * :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：在线 Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
