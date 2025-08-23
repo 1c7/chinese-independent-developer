@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 23 号添加
+#### SUOWU(杭州) 
+* :white_check_mark: [morse code translator](https://morsecodetranslator.best/)：摩斯码翻译器，用来将英文或者日语转为摩斯码，有可视化功能
+
 ### 2025 年 8 月 22 号添加
 #### monsoonw(杭州)
 * :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：在线 Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
