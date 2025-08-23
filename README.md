@@ -2954,15 +2954,20 @@
 
 ### 2022年6月6号添加
 ---
-#### 自力hzlzh（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://twitter.com/hzlzh)
+#### 自力6XStudio（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://x.com/hzlzh)
 * :white_check_mark: [锁屏启动 (iOS)](https://LockLauncher.app)：丰富小组件、灵动岛网速/天气/步数等
 * :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [DockX (macOS)](https://dockx.app/)：在程序坞显示任意状态，如：网速、CPU、时钟等
+* :white_check_mark: [钢琴小组件 (iOS)](https://6x.studio/piano-widget/)：无需启动，随时弹奏
 * :white_check_mark: [桌面计算器 (iOS)](https://desktop-calculator.com/)：超强的桌面计算器，无需打开App，随时随地计算
+* :white_check_mark: [StickerX (iOS)](https://6x.studio/stickerx/)：AI 一键抠图，表情包创作工具
+* :white_check_mark: [eyeye (iOS)](https://eyeye.app/)：运用 AR 眼球追踪技术帮助你轻松锻炼视力
+* :white_check_mark: [鸭梨海拔 (iOS)](https://apps.apple.com/cn/app/id6738301793)：精美海拔计，旅行海拔打卡必备
 * :white_check_mark: [念念不忘 (iOS)](https://buwang.app/)：简单粗暴的 iOS 提醒小组件
 * :white_check_mark: [红点杀手 (微信小游戏)](https://hzlzh.app/i/qr/redkiller.jpg)：创意弹幕躲避游戏
 * :white_check_mark: [有幻觉 (微信小游戏)](https://hzlzh.app/i/qr/youhuanjue.jpg)：创意视觉错觉游戏
 * :white_check_mark: [WordleX (微信小程序)](https://hzlzh.app/i/qr/wordlex.jpg)：Wordle 游戏的练习工具
+* :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id888749139)
 
 ### 2022年6月5号添加
 ---
