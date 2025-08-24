@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 23 号添加
+#### hackun666 - [Github](https://github.com/hackun666)
+* :white_check_mark: [AI软著生成器](https://ruanzhu.pro)：帮助用户快速生成软件著作权（软著）申请所需的文档材料
+
+### 2025 年 8 月 23 号添加
 #### 辣条（北京）
 * :white_check_mark: [picture to drawing](https://picturetodrawing.org/) ：免费/无需注册的图片转手绘风格网站
 
