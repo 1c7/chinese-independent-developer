@@ -20,20 +20,20 @@
 
 ## 3. 项目列表
 
-### 2025 年 8 月 23 号添加
+### 2025 年 8 月 24 号添加
 #### hackun666 - [Github](https://github.com/hackun666)
 * :white_check_mark: [AI 软著生成器](https://ruanzhu.pro)：AI 快速生成软件著作权（软著）申请所需的文档材料
 
 ### 2025 年 8 月 23 号添加
 #### 辣条（北京）
-* :white_check_mark: [picture to drawing](https://picturetodrawing.org/) ：免费/无需注册的图片转手绘风格网站
+* :white_check_mark: [picture to drawing](https://picturetodrawing.org/) ：图片转手绘风格网站（免费/无需注册）
 
 #### SUOWU(杭州) 
 * :white_check_mark: [morse code translator](https://morsecodetranslator.best/)：摩斯码翻译器，用来将英文或者日语转为摩斯码，有可视化功能
 
 ### 2025 年 8 月 22 号添加
 #### monsoonw(杭州)
-* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：在线 Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
+* :white_check_mark: [Free Qwen Image Edit AI](https://qwen-image.co)：Qwen Image Edit 网站。高级 AI 图像编辑与完美文本渲染，完美支持中英文文本渲染。
 
 ### 2025 年 8 月 21 号添加
 #### kajian(广州)
