@@ -22,7 +22,7 @@
 
 ### 2025 年 8 月 23 号添加
 #### hackun666 - [Github](https://github.com/hackun666)
-* :white_check_mark: [AI软著生成器](https://ruanzhu.pro)：帮助用户快速生成软件著作权（软著）申请所需的文档材料
+* :white_check_mark: [AI 软著生成器](https://ruanzhu.pro)：AI 快速生成软件著作权（软著）申请所需的文档材料
 
 ### 2025 年 8 月 23 号添加
 #### 辣条（北京）
