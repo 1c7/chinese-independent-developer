@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 25 号添加
+#### 北纬27度
+* :white_check_mark: [ARR（年收入）排行榜](https://arrfounder.com)：爬取了全网公开的 ARR 营收数据做了个 founder ARR 榜单，会定期更新，感兴趣的朋友可以看看，说不定你也在这份榜单上面
+
 #### YILS-LIN - [Github](https://github.com/YILS-LIN)
 * :white_check_mark: [AI Short Video Factory - 短视频工厂](https://github.com/YILS-LIN/short-video-factory)：一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具
 
