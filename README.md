@@ -22,10 +22,10 @@
 
 ### 2025 年 8 月 25 号添加
 #### YILS-LIN - [Github](https://github.com/YILS-LIN)
-* :white_check_mark: [AI Short Video Factory - 短视频工厂](https://github.com/YILS-LIN/short-video-factory)：🚀 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具
+* :white_check_mark: [AI Short Video Factory - 短视频工厂](https://github.com/YILS-LIN/short-video-factory)：一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具
 
 #### AskTao - [Github](https://github.com/ask-tao)
-* :white_check_mark: [Image Splitter](https://github.com/ask-tao/image-splitter)：图集拆分工具。旨在帮助`游戏开发者`或`UI设计师`快速、方便地从一张雪碧图 (`Sprite Sheet`) 中，提取出所有独立的精灵icon资源，或按网格分割图片得到其切片。平台支持：mac/win/linux/web
+* :white_check_mark: [Image Splitter](https://github.com/ask-tao/image-splitter)：图集拆分工具。帮助`游戏开发者`或`UI设计师`快速、方便地从一张雪碧图 (`Sprite Sheet`) 中，提取出所有独立的精灵icon资源，或按网格分割图片得到其切片。平台支持：mac/win/linux/web
 
 ### 2025 年 8 月 24 号添加
 #### hackun666 - [Github](https://github.com/hackun666)
