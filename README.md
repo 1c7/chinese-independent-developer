@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 26 号添加
+#### Lizer(重庆) - [Github](https://github.com/Loverz55)
+* :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
+
 ### 2025 年 8 月 25 号添加
 #### 北纬27度
 * :white_check_mark: [ARR (Annual Recurring Revenue) （年度经常性收入）排行榜](https://arrfounder.com)：爬取了全网公开的 ARR 营收数据做了个 founder ARR 榜单，会定期更新，感兴趣的朋友可以看看，说不定你也在这份榜单上面
