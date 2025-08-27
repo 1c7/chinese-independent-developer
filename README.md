@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 28 号添加
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [Flower Drawing 花卉绘画](https://flowerdrawing.site/)：专注于花卉绘画的网站，有不同的花的种类可以选择，只要你用语言描述出样子，你可以画任何的花卉。
+* :white_check_mark: [Fish Drawing 鱼类绘画](https://fishdrawing.site/)：专注于画各种鱼的网站，你可以随心所欲画出任何你想画的鱼的图片。
+
 ### 2025 年 8 月 27 号添加
 #### flingyp(上海) - [Github](https://github.com/flingyp)
 * :white_check_mark: [简链](https://www.cvlinkhub.online/)：打造个性化简历，赢得理想工作
