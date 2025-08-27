@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 27 号添加
+#### flingyp(上海) - [Github](https://github.com/flingyp)
+* :white_check_mark: [简链](https://www.cvlinkhub.online/)：打造个性化简历，赢得理想工作
+
+#### 小灰雀(北京)
+* :white_check_mark: [EzWebp](https://www.ezwebp.com/)：视频转动图（WebP/GIF）在线工具，本地执行，数据安全。
+
+#### Nico(长沙) - [Github](https://github.com/yijianbo)
+* :white_check_mark: [TimeGuessr](https://timeguessr.online/)：给你一张图片，让你猜测图片发生的时间和地点。我们把 Timeguessr 的玩法原封不动地搬了过来，只是把图库换成了另一批“假照片”——全部由 AI 生成的过去 50 年里可能发生的瞬间
+
 ### 2025 年 8 月 26 号添加
 #### Lizer(重庆) - [Github](https://github.com/Loverz55)
 * :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
