@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 8 月 28 号添加
+#### david_bai(武汉) - [Github](https://github.com/david-bai00/PrivyDrop), [博客](https://www.privydrop.app/blog)
+* :white_check_mark: [PrivyDrop](https://www.privydrop.app)：开源简单易用的 P2P 文本文件传输工具网页，支持传输任意大小的文件 - [更多介绍](https://www.privydrop.app/features)
+
 #### iam-tin - [Github](https://github.com/iam-tin)
 * :white_check_mark: [Flower Drawing 花卉绘画](https://flowerdrawing.site/)：专注于花卉绘画的网站，有不同的花的种类可以选择，只要你用语言描述出样子，你可以画任何的花卉。
 * :white_check_mark: [Fish Drawing 鱼类绘画](https://fishdrawing.site/)：专注于画各种鱼的网站，你可以随心所欲画出任何你想画的鱼的图片。
@@ -1146,9 +1149,6 @@
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
 * :white_check_mark: [Gemini Coder](https://geminicoder.org/)：AI 应用代码生成器，基于提示词一键生成网站应用
 * :white_check_mark: [DeepSeek v3](https://deepseekv3.org/)：DeepSeek v3 是一个拥有 671B 参数规模、突破性的大规模语言模型，这是介绍它的网站
-
-#### david_bai - [推特](https://x.com/David_vision66)
-* :white_check_mark: [SecureShare](https://www.securityshare.xyz/?ref=github_CID)：数据在本地,隐私优先,速度超快的 P2P 文件传输工具 (无需注册、打开即用；可以分享文本、图片、文件、文件夹）
 
 ### 2024 年 12 月 26 号添加
 #### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
