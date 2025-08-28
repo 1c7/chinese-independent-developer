@@ -20,6 +20,9 @@
 
 ## 3. 项目列表
 
+### 2025 年 8 月 29 号添加
+#### david(德国) - AI数字人：女友伴侣/男友伴侣 - [更多介绍](https://ai2soul.com/)
+
 ### 2025 年 8 月 28 号添加
 #### david_bai(武汉) - [Github](https://github.com/david-bai00/PrivyDrop), [博客](https://www.privydrop.app/blog)
 * :white_check_mark: [PrivyDrop](https://www.privydrop.app)：开源简单易用的 P2P 文本文件传输工具网页，支持传输任意大小的文件 - [更多介绍](https://www.privydrop.app/features)
