@@ -23,6 +23,8 @@
 ### 2025 年 8 月 29 号添加
 #### 疯狂的小波(武汉)
 * :white_check_mark: [Nano Banana AI 图像编辑器](https://picir.ai/)：基于最先进的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
+#### david(德国)
+* :white_check_mark: AI数字恋人：创建属于自己的女友伴侣/男友伴侣，分享给他人 - [更多介绍](https://ai2soul.com/)
 
 ### 2025 年 8 月 28 号添加
 #### david_bai(武汉) - [Github](https://github.com/david-bai00/PrivyDrop), [博客](https://www.privydrop.app/blog)
