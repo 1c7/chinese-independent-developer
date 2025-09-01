@@ -22,7 +22,7 @@
 
 ### 2025 年 9 月 1 号添加
 #### yiquan00 - [yiquan00](https://github.com/yiquan00)
-* :white_check_mark: [LaunchitX](https://launchitx.com)  新产品(创意)启动平台，适合新产品宣发。
+* :white_check_mark: [LaunchitX](https://launchitx.com)：新产品(创意)启动平台，适合新产品宣发
 
 #### noGeek（北京）
 * :white_check_mark: [DR checker](https://drchecker.net) ：免费/域名等级 Domain rating 检测工具
@@ -32,7 +32,7 @@
 * :white_check_mark: [Nano Banana](https://usenanobanana.com)：Nano Banana 使用谷歌最新AI技术，提供角色一致性保持、自然语言编辑、多图融合等强大功能。无论是人物换装、场景变换还是精准局部编辑，都能保持原有特征，让您的创意无限可能。
 
 #### laine001（杭州） - [Github](https://github.com/laine001)
-* :white_check_mark: [信息系统项目管理师重点总结itpm](https://www.itpmp.cc/)：信息系统项目管理师高项的知识总结与记录网站，持续更新，软考的部分朋友可用。
+* :white_check_mark: [信息系统项目管理师重点总结itpm](https://www.itpmp.cc/)：信息系统项目管理师高项的知识总结与记录网站，持续更新，软考的部分朋友可用
 
 ### 2025 年 8 月 29 号添加
 #### 疯狂的小波(武汉)
