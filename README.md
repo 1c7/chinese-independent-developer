@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 1 号添加
+#### yiquan00 - [yiquan00](https://github.com/yiquan00)
+* :white_check_mark: [LaunchitX](https://launchitx.com)  新产品(创意)启动平台，适合新产品宣发。
+
+#### noGeek（北京）
+* :white_check_mark: [DR checker](https://drchecker.net) ：免费/域名等级 Domain rating 检测工具
+
 ### 2025 年 8 月 31 号添加
 #### FlickerMi - [Github](https://github.com/FlickerMi)
 * :white_check_mark: [Nano Banana](https://usenanobanana.com)：Nano Banana 使用谷歌最新AI技术，提供角色一致性保持、自然语言编辑、多图融合等强大功能。无论是人物换装、场景变换还是精准局部编辑，都能保持原有特征，让您的创意无限可能。
