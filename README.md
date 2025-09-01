@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 1 号添加
+#### Carol(广州) - [Github](https://github.com/carolgryman-sudo)
+* :white_check_mark: [Nano Banana AI](https://nanobanana-ai.net)：基于市面上最强的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
+
 #### yiquan00 - [yiquan00](https://github.com/yiquan00)
 * :white_check_mark: [LaunchitX](https://launchitx.com)：新产品(创意)启动平台，适合新产品宣发
 
