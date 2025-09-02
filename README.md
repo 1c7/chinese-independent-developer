@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 1 号添加
+#### Jay6343 - [Github](https://github.com/Jay6343)
+* :white_check_mark: [nanobanana.co](https://nanobanana.co/)：AI 图片编辑
+
 #### JR(深圳) 
 * :white_check_mark: [对话翻译器](https://www.talk-translator.com)：将你的耳机变成实时翻译器，支持双语实时语音自动翻译、AI对话问答你的翻译记录
 
