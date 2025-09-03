@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 3 号添加
+#### wbshm(泉州)
+* :white_check_mark: [三角形简易计算器](https://wbshm.github.io/show/mini_triangle/mini_triangle.html)：输入任意三个参数（边长、角度）既可以绘制出对应的三角形，并计算出其他的参数。欢迎体验和吐槽
+
 ### 2025 年 9 月 2 号添加
 #### Jay6343 - [Github](https://github.com/Jay6343)
 * :white_check_mark: [nanobanana.co](https://nanobanana.co/)：Nano Banana AI 图片编辑
