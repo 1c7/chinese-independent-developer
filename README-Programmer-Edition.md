@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 9 月 4 号添加
+#### ChiruMori(辽宁) - [Github](https://github.com/ChiruMori/EffectMidi)
+* :white_check_mark: [EffectMidi](https://github.com/ChiruMori/EffectMidi)：PC+开发板控制MIDI键盘灯（需用户自行接线烧录） - [更多介绍](https://mori.plus/archives/effect-midi-01)
+
 ### 2025 年 8 月 22 号添加
 #### Safe3(武汉)
 * :white_check_mark: [南墙-WEB应用防火墙](https://waf.uusec.com)：工业级免费、高性能、高扩展，支持AI和语义引擎的 Web 应用和 API 安全防护产品
