@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 4 号添加
+#### Ethan Sunray
+* :white_check_mark: [Brave Pink Hero Green](https://bravepinkherogreen.com)：用粉色和绿色双色调照片滤镜美化照片。处理快速、私密，并且完全在您的浏览器中完成。
+
 ### 2025 年 9 月 3 号添加
 #### wbshm(泉州)
 * :white_check_mark: [三角形简易计算器](https://wbshm.github.io/show/mini_triangle/mini_triangle.html)：输入任意三个参数（边长、角度）既可以绘制出对应的三角形，并计算出其他的参数。欢迎体验和吐槽
