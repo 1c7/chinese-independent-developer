@@ -24,6 +24,9 @@
 #### Galen Dai - [Github](https://github.com/galendai)
 * :white_check_mark: [Copy My Text](https://www.copymytxt.com)：将你的 Markdown 文本秒变海报或短链，安全、优雅地分享。
 
+#### leftshine(成都) - [Github](https://github.com/leftshine), [gitee](https://gitee.com/leftshine)
+* :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK导出工具，可以非常方便的导出和分享apk文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
+
 
 ### 2025 年 9 月 4 号添加
 #### AprDeci - [Github](https://github.com/AprDeci)
