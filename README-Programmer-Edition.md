@@ -17,9 +17,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2025 年 9 月 4 号添加
-#### leftshine(成都) - [Github](https://github.com/leftshine), [gitee](https://gitee.com/leftshine)
-* :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK导出工具，可以非常方便的导出和分享apk文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
-
 #### ChiruMori(辽宁) - [Github](https://github.com/ChiruMori/EffectMidi)
 * :white_check_mark: [EffectMidi](https://github.com/ChiruMori/EffectMidi)：PC+开发板控制MIDI键盘灯（需用户自行接线烧录） - [更多介绍](https://mori.plus/archives/effect-midi-01)
 
