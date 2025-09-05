@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 5 号添加
+#### Jazz Jay
+* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：人工智能视频编辑平台，用简单的文本提示转换视频内容。用户可以在几分钟内添加/删除对象，生成新的相机角度，应用风格转移，并修改具有专业质量结果的照明
+
 #### Galen Dai - [Github](https://github.com/galendai)
 * :white_check_mark: [Copy My Text](https://www.copymytxt.com)：将你的 Markdown 文本秒变海报或短链，安全、优雅地分享。
 
