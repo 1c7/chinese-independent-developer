@@ -21,6 +21,11 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 4 号添加
+#### Galen Dai - [Github](https://github.com/galendai)
+* :white_check_mark: [Copy My Text](https://www.copymytxt.com)：将你的markdown文本秒变海报或短链，安全、优雅地分享。
+
+
+### 2025 年 9 月 4 号添加
 #### AprDeci - [Github](https://github.com/AprDeci)
 * :white_check_mark: [OnePractice](https://moon.onepractice.top)：在线英语四六级真题网站
 
