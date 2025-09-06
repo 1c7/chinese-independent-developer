@@ -26,7 +26,7 @@
 * :white_check_mark: [GIF助手 gif-helper](https://gif.uyidev.com)：GIF 合并与分解
 
 #### Jazz Jay
-* :white_check_mark: [https://asmrvideo.ai](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
+* :white_check_mark: [AI ASMR视频生成器](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
 
 #### Jammy(上海) - [Github](https://github.com/chenminjie24)
 * :white_check_mark: [AI Miniatur](https://aiminiatur.com/)：一键制作微缩模型的 AI 图片网站，用户不需要操心提示词，通过预制的提示词模板能快速制作微缩模型图片。
