@@ -44,7 +44,7 @@
 
 ### 2025 年 9 月 2 号添加
 #### Jay6343 - [Github](https://github.com/Jay6343)
-* :white_check_mark: [nanobanana.co](https://nanobanana.co/)：Nano Banana AI 图片编辑
+* :white_check_mark: [nanobanana.co](https://nanobanana.co/)：Nanobanana.co 是革命性的人工智能图像编辑平台，通过智能文本驱动编辑改变创意工作流程。无论您是数字艺术家，内容创作者还是营销专业人士，每次都可以零学习曲线和完美结果体验 AI 图像编辑的未来。
 
 ### 2025 年 9 月 1 号添加
 #### JR(深圳) 
