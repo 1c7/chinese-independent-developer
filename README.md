@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 6 号添加
+#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
+* :white_check_mark: [PDF编辑器 pdf-editor](https://pdf-editor.uyidev.com)：简易的 PDF 编辑器
+* :white_check_mark: [GIF助手 gif-helper](https://gif.uyidev.com)：GIF 合并与分解
+
 #### Jazz Jay
 * :white_check_mark: [https://asmrvideo.ai](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
 
