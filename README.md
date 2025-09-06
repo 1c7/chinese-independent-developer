@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 6 号添加
+#### Jazz Jay
+* :white_check_mark: [https://asmrvideo.ai](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
+
+#### Jammy(上海) - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [AI Miniatur](https://aiminiatur.com/)：一键制作微缩模型的 AI 图片网站，用户不需要操心提示词，通过预制的提示词模板能快速制作微缩模型图片。
+
+#### tianqi - [Github](https://github.com/allenalston)
+* :white_check_mark: [Imagable AI](https://imagable.ai/)：人工智能图片编辑和生成工具，集合大部分 AI 图片工具，用户可以不需要设计的技术即可通过提示词一键生成和编辑照片或图片。
+
 ### 2025 年 9 月 5 号添加
 #### Jazz Jay
 * :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：人工智能视频编辑平台，用简单的文本提示转换视频内容。用户可以在几分钟内添加/删除对象，生成新的相机角度，应用风格转移，并修改具有专业质量结果的照明
