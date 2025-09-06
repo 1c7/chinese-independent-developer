@@ -32,17 +32,17 @@
 * :white_check_mark: [AI Miniatur](https://aiminiatur.com/)：一键制作微缩模型的 AI 图片网站，用户不需要操心提示词，通过预制的提示词模板能快速制作微缩模型图片。
 
 #### tianqi - [Github](https://github.com/allenalston)
-* :white_check_mark: [Imagable AI](https://imagable.ai/)：人工智能图片编辑和生成工具，集合大部分 AI 图片工具，用户可以不需要设计的技术即可通过提示词一键生成和编辑照片或图片。
+* :white_check_mark: [Imagable AI](https://imagable.ai/)：人工智能 图片编辑和生成工具，用户可以不需要设计的技术即可通过提示词一键生成和编辑照片或图片。
 
 ### 2025 年 9 月 5 号添加
 #### Jazz Jay
-* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：人工智能视频编辑平台，用简单的文本提示转换视频内容。用户可以在几分钟内添加/删除对象，生成新的相机角度，应用风格转移，并修改具有专业质量结果的照明
+* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：人工智能 视频编辑平台，用简单的文本提示转换视频内容。用户可以在几分钟内添加/删除对象，生成新的相机角度，应用风格转移，并修改具有专业质量结果的照明
 
 #### Galen Dai - [Github](https://github.com/galendai)
 * :white_check_mark: [Copy My Text](https://www.copymytxt.com)：将你的 Markdown 文本秒变海报或短链，安全、优雅地分享。
 
 #### leftshine(成都) - [Github](https://github.com/leftshine), [gitee](https://gitee.com/leftshine)
-* :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK导出工具，可以非常方便的导出和分享apk文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
+* :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK 导出工具，可以非常方便的导出和分享 apk 文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
 
 
 ### 2025 年 9 月 4 号添加
