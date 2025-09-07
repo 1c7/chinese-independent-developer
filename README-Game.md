@@ -4,7 +4,7 @@
 
 ### 2025 年 9 月 7 号添加
 #### aiinlink
-* :white_check_mark: [partygamelab，](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
+* :white_check_mark: [多人聚会小游戏 bestpartygames](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
 
 ### 2025 年 8 月 8 号添加
 #### ckfanzhe（深圳）
