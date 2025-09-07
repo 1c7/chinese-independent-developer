@@ -21,13 +21,13 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 7 号添加
-#### Prompt2Tool - [Github[(https://github.com/prompt-2-tool)
+#### Prompt2Tool - [Github](https://github.com/prompt-2-tool)
 * :white_check_mark: [AI 驱动的免费在线工具平台](https://prompt2tool.com/)：提供 300+ 实用工具，无需注册即可使用
 
 ### 2025 年 9 月 6 号添加
 #### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
-* :white_check_mark: [PDF编辑器 pdf-editor](https://pdf-editor.uyidev.com)：简易的 PDF 编辑器
-* :white_check_mark: [GIF助手 gif-helper](https://gif.uyidev.com)：GIF 合并与分解
+* :white_check_mark: [PDF 编辑器](https://pdf-editor.uyidev.com)：简易的 PDF 编辑器
+* :white_check_mark: [GIF 助手](https://gif.uyidev.com)：GIF 合并与分解
 
 #### Jazz Jay
 * :white_check_mark: [AI ASMR视频生成器](https://asmrvideo.ai)：AI ASMR视频生成器（采用先进 Veo3 技术）
