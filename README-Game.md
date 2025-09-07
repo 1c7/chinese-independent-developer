@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 9 月 7 号添加
+#### aiinlink
+* :white_check_mark: [partygamelab，](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
+
 ### 2025 年 8 月 8 号添加
 #### ckfanzhe（深圳）
 * :white_check_mark: [Minecraft-Easyserver](https://github.com/ckfanzhe/minecraft-easyserver)：Minecraft 游戏的轻量级管理面板，可以通过面板快速下载搭建MC服务器、管理白名单&权限、管理世界&材质资源、日志与命令执行、服务器性能监控，一键搭建MC游戏服务器。
