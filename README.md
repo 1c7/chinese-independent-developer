@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 8 号添加
+#### wangbing-coder - [Github](https://github.com/wangbing-coder)
+* :white_check_mark: [AI 驱动的智能图片描述生成器](https://image-describer.org/)：提交任意图片，生成对这张图片的详细描述文字
+
 #### leah626888 - [Github](https://github.com/leah626888)
 * :white_check_mark: [Pixel Art Generator](https://imgtopixel.art/)：像素画生成器，将任意图片一键转换为复古风格的像素艺术，支持 JPG、PNG、WebP、GIF、BMP、TIFF 等多种格式，你可以自定义像素尺寸、颜色数量、调色板风格（如 Pico-8、Game Boy、NES 等），还可实时预览转换效果，轻松下载高质量像素画，适合用于社交媒体、游戏、周边设计等场景。
 
