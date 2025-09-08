@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 8 号添加
+#### 景彬(武汉) - [Github](https://github.com/youlookwhat)
+* :white_check_mark: [所思笔记](https://apps.apple.com/cn/app/id1668533045)：日有所思夜有所梦，记录白天的所思和晚上的梦。
+
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
 * :white_check_mark: [Discordtags](https://discordtags.net)：使用高级标签查找 Discord 服务器，浏览游戏、学习小组、创意社区。通过智能标签发现符合您兴趣的服务器。
 
