@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 8 号添加
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [Discordtags](https://discordtags.net)：使用高级标签查找 Discord 服务器，浏览游戏、学习小组、创意社区。通过智能标签发现符合您兴趣的服务器。
+
 #### wangbing-coder - [Github](https://github.com/wangbing-coder)
 * :white_check_mark: [AI 驱动的智能图片描述生成器](https://image-describer.org/)：提交任意图片，生成对这张图片的详细描述文字
 
