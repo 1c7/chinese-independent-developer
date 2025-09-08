@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 8 号添加
+#### asui(泉州市) - [Github](https://github.com/xingxingc/stray_avatar)
+* :white_check_mark:  [潦草头像馆](https://avatar-gen.oss-cn-hangzhou.aliyuncs.com/image/%E6%BD%A6%E8%8D%89%E5%A4%B4%E5%83%8F%E9%A6%86.jpeg)：随机生成多种搞怪风格头像的微信小程序，让你的头像不再 “撞衫” - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/0006a652bc0ac077bed3e03606180c)   
+
 #### 景彬(武汉) - [Github](https://github.com/youlookwhat)
 * :white_check_mark: [所思笔记](https://apps.apple.com/cn/app/id1668533045)：日有所思夜有所梦，记录白天的所思和晚上的梦。
 
