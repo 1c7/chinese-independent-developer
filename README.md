@@ -20,6 +20,21 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 10 号添加
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：在网址上实现的代理服务器，完全免费，只需把任何需要访问的网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
+
+#### George(北京) 
+* :white_check_mark: [ai miniatur](https://aiminiatur.org/)：将照片转换为AI手办模型
+
+#### godow(杭州) - [Github](http://github.com/godow),
+* :white_check_mark: [1desk](https://www.1desk.app/zh-CN)：您的私人订制在线桌面：可添加多个页面空间，每个页面空间可添加并自定义卡片位置与尺寸，添加多种卡片如笔记本、Rss、书签、自定义搜索引擎等 - [更多介绍](https://www.1desk.app/zh-CN)
+
+#### Susu(南京) - Github
+* :white_check_mark: [Backlink Manager](https://backlinkmanager.net)：专注于外链提交管理、SEO问题检测及权重提升
+
+
+
 ### 2025 年 9 月 8 号添加
 #### asui(泉州市) - [Github](https://github.com/xingxingc/stray_avatar)
 * :white_check_mark:  [潦草头像馆](https://avatar-gen.oss-cn-hangzhou.aliyuncs.com/image/%E6%BD%A6%E8%8D%89%E5%A4%B4%E5%83%8F%E9%A6%86.jpeg)：随机生成多种搞怪风格头像的微信小程序，让你的头像不再 “撞衫” - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/0006a652bc0ac077bed3e03606180c)   
