@@ -22,7 +22,7 @@
 
 ### 2025 年 9 月 11 号添加
 #### ai77 - [网站](https://www.ai77.dev)
-* :white_check_mark: [AI 赛事通](https://www.competehub.dev/zh)：全球AI竞赛聚合平台，收录涵盖数据算法竞赛、AI大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场AI赛事，提升技能，赢取奖金
+* :white_check_mark: [AI 赛事通](https://www.competehub.dev/zh)：全球 AI 竞赛聚合平台，收录涵盖数据算法竞赛、AI 大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场 AI 赛事，提升技能，赢取奖金
 
 #### Carys - [Github](https://github.com/Caron77ai)
 * :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球 AI 产品与应用
@@ -32,13 +32,13 @@
 * :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：在网址上实现的代理服务器，完全免费，只需把任何需要访问的网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
 
 #### George(北京) 
-* :white_check_mark: [AI miniatur](https://aiminiatur.org/)：将照片转换为AI手办模型
+* :white_check_mark: [AI miniatur](https://aiminiatur.org/)：将照片转换为 AI 手办模型
 
 #### godow(杭州) - [Github](http://github.com/godow),
 * :white_check_mark: [1desk](https://www.1desk.app/zh-CN)：您的私人订制在线桌面：可添加多个页面空间，每个页面空间可添加并自定义卡片位置与尺寸，添加多种卡片如笔记本、Rss、书签、自定义搜索引擎等 - [更多介绍](https://www.1desk.app/zh-CN)
 
 #### Susu(南京) - Github
-* :white_check_mark: [Backlink Manager](https://backlinkmanager.net)：专注于外链提交管理、SEO问题检测及权重提升
+* :white_check_mark: [Backlink Manager](https://backlinkmanager.net)：专注于外链提交管理、SEO 问题检测及权重提升
 
 
 
