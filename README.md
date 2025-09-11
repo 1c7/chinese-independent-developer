@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 11 号添加
+#### Carys - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球AI产品与应用
+
 ### 2025 年 9 月 10 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：在网址上实现的代理服务器，完全免费，只需把任何需要访问的网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
