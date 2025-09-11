@@ -21,8 +21,11 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 11 号添加
+#### ai77 - [网站](https://www.ai77.dev)
+* :white_check_mark: [AI赛事通](https://www.competehub.dev/zh)：全球AI竞赛聚合平台，收录涵盖数据算法竞赛、AI大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场AI赛事，提升技能，赢取奖金
+
 #### Carys - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球AI产品与应用
+* :white_check_mark: [AIToolsss](https://www.aitoolsss.com/)：AI 工具导航，收录全球 AI 产品与应用
 
 ### 2025 年 9 月 10 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
