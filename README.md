@@ -21,6 +21,20 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 11 号添加
+#### OD-Ice(深圳) - [Github](https://github.com/OD-Ice)
+* :white_check_mark: [Verbord](https://apps.apple.com/us/app/verbord-private-voice-diary/id6751261198): 录音笔记 iOS 应用(纯净、私密），帮你轻松记录生活点滴和创作灵感
+
+#### licon(深圳) - [Github]( https://github.com/licon)
+* :white_check_mark: [EZQuiz](https://ezquiz.online)：AI 智能实时测验，让你快速创建、分享并与观众通过实时互动测验进行互动
+* :white_check_mark: [EZ-translate](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb) ：AI 浏览器翻译插件(免费)，支持页面内翻译，截图翻译，自动检测语言 - [开源仓库](https://github.com/licon/llm-translate)
+
+#### 饭特稀 - [Github](https://github.com/shineforever)
+* :white_check_mark: [SiteData](https://sitedata.dev)：网站流量与 AdSense 反查工具(免费)，无需登录即可使用 - [Chrome 浏览器插件](https://chromewebstore.google.com/detail/emeakbgdecgmdjgegnejpppcnkcnoaen)
+
+#### Ryan - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [AI Song](https://aisong.tech/)：AI 生成歌曲、歌词的音乐网站
+
+### 2025 年 9 月 11 号添加
 #### ai77 - [网站](https://www.ai77.dev)
 * :white_check_mark: [AI 赛事通](https://www.competehub.dev/zh)：全球 AI 竞赛聚合平台，收录涵盖数据算法竞赛、AI 大模型竞赛、AI Agent 挑战赛、工程开发竞赛等多个领域，让你不会错过任何一场 AI 赛事，提升技能，赢取奖金
 
@@ -29,7 +43,7 @@
 
 ### 2025 年 9 月 10 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：在网址上实现的代理服务器，完全免费，只需把任何需要访问的网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
+* :white_check_mark: [Proxied Web from URL](https://web.818233.xyz)：代理服务器，完全免费，把任何网址放在 https://web.818233.xyz/ 后面，这个新的网址就可以作为代理服务器获取原网站的内容，目前只支持内容获取，不支持网站交互操作。
 
 #### George(北京) 
 * :white_check_mark: [AI miniatur](https://aiminiatur.org/)：将照片转换为 AI 手办模型
@@ -39,8 +53,6 @@
 
 #### Susu(南京) - Github
 * :white_check_mark: [Backlink Manager](https://backlinkmanager.net)：专注于外链提交管理、SEO 问题检测及权重提升
-
-
 
 ### 2025 年 9 月 8 号添加
 #### asui(泉州市) - [Github](https://github.com/xingxingc/stray_avatar)
