@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 14 号添加
+#### 饭特稀
+* :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)：去掉图片里面的手写文字
+
 ### 2025 年 9 月 12 号添加
 #### OD-Ice(深圳) - [Github](https://github.com/OD-Ice)
 * :white_check_mark: [Verbord](https://apps.apple.com/us/app/verbord-private-voice-diary/id6751261198)：录音笔记 iOS 应用(纯净、私密），帮你轻松记录生活点滴和创作灵感
