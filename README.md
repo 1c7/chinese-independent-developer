@@ -22,7 +22,7 @@
 
 ### 2025 年 9 月 14 号添加
 #### 饭特稀
-* :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)：去掉图片里面的手写文字
+* :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)
 
 ### 2025 年 9 月 12 号添加
 #### OD-Ice(深圳) - [Github](https://github.com/OD-Ice)
