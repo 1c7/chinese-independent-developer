@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 15 号添加
+#### 小金子(杭州) - [Github](https://github.com/xiaojinzi123), [博客](https://blog.csdn.net/u011692041)
+* :white_check_mark: [一刻记账](https://yike.icxj.cn/)：纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)
+
 #### yangjuzi - [Github](https://github.com/yangjuzi)
 * :white_check_mark: [版权符号](https://copyrightsymbol.app/)：版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入
 
