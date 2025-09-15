@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 15 号添加
+#### Corey（深圳） - [Github](https://github.com/iamcorey)
+* :white_check_mark: [Seedream AI](https://seedreamai.run/)：最新的、免费的 Seedream AI 4.0 AI 图片生成器
+* :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
+
+#### Ronny（深圳）
+* :white_check_mark: [Vidgo AI](https://vidgo.ai)：一站式的图片，视频生成平台
+* :white_check_mark: [Video Translator](https://videotranslator.io/)：短剧视频翻译工具
+* :white_check_mark: [Doculator](https://doculator.org/)：集文档，视频，图片翻译于一身的平台
+
+
 ### 2025 年 9 月 14 号添加
 #### 饭特稀
 * :white_check_mark: [去掉图片里的文字](https://textremoverfromimage.com/)
