@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 15 号添加
+#### yangjuzi - [Github](https://github.com/yangjuzi)
+* :white_check_mark: [版权符号](https://copyrightsymbol.app/)：版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入
+
 #### Corey（深圳） - [Github](https://github.com/iamcorey)
 * :white_check_mark: [Seedream AI](https://seedreamai.run/)：最新的、免费的 Seedream AI 4.0 AI 图片生成器
 * :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
