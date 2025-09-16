@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 9 月 16 号添加
+#### 汉堡可乐 - [Github](https://github.com/berger130706)
+* :white_check_mark: [Hunger Games Simulator](https://hungergamesimulator.org/)：饥饿游戏模拟器，支持自定义 24 个角色、上传头像、设置属性，观看史诗般的生存对战模拟
+
 ### 2025 年 9 月 7 号添加
 #### aiinlink
 * :white_check_mark: [多人聚会小游戏 bestpartygames](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏

@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 16 号添加
+#### 汉堡可乐 - [Github](https://github.com/berger130706)
+* :white_check_mark: [FACEIT Finder](https://fctracker.org/)：CS2 玩家数据查询工具，支持通过 Steam ID 或 FACEIT 用户名查询玩家的 ELO、K/D、胜率等详细数据
+* :white_check_mark: [Yes or No Tarot](https://yes-or-no.me/)：免费的是/否塔罗牌占卜网站，结合 AI 和心理学原理，为你的问题提供精神指引
+
 ### 2025 年 9 月 15 号添加
 #### 小金子(杭州) - [Github](https://github.com/xiaojinzi123), [博客](https://blog.csdn.net/u011692041)
 * :white_check_mark: [一刻记账](https://yike.icxj.cn/)：纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)
