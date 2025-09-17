@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 17 号添加
+#### sing1ee - [Github](https://github.com/sing1ee)
+* :white_check_mark: [Foto Miniatur](https://fotominiatur.com/)：nano banana 图片生成器，提供常用 prompt
+
+#### 饭特稀
+* :white_check_mark: [Thumbnail Downloader](https://thumbnaildownloader.cc)：下载视频网站封面的工具，支持 Youtube，Facebook，Ted，支持网站在逐步添加中
+
 ### 2025 年 9 月 15 号添加
 #### 小金子(杭州) - [Github](https://github.com/xiaojinzi123), [博客](https://blog.csdn.net/u011692041)
 * :white_check_mark: [一刻记账](https://yike.icxj.cn/)：纯净的记账 App - [更多介绍](https://github.com/xiaojinzi123/yike-app)
