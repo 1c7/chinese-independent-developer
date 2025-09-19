@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 19 号添加
+#### NINGSHIQI(深圳)
+* :white_check_mark: [NanoEditor](https://nanoeditor.app/)：普通人也能用的对话式 AI 生图平台
+
 ### 2025 年 9 月 17 号添加
 #### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
 * :white_check_mark: [JSON Translator](https://jsontrans.fun)：为前端开发者打造的国际化（i18n）翻译工具，上传 json 文件，通过 AI（支持DeepSeek、Gemini、OpenAI、Anthropia）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
