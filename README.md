@@ -21,11 +21,16 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 19 号添加
+#### 嗡嗡鱼 - [Github](https://github.com/kindtree)
+* :white_check_mark: [SimpleThumbnail](https://simplethumbnail.com)：YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告
+* :white_check_mark: [YouTubeTitles](https://youtubetitles.com)：YouTube 标题生成器（AI 驱动），提供快速模式与进阶模式，助力提升视频点击率
+
+
 #### xmm（东莞） - [Github](https://github.com/XMM17879829028)
 * :white_check_mark: [Mental Age Test](https://mentalage.org)：心理年龄测试工具，通过科学量表评估用户心理年龄与实际年龄的对比，提供详细且有趣分析报告
 
 #### NINGSHIQI(深圳)
-* :white_check_mark: [NanoEditor](https://nanoeditor.app/)：普通人也能用的对话式 AI 生图平台
+* :white_check_mark: [NanoEditor](https://nanoeditor.app/)：对话式 AI 生图平台
 
 ### 2025 年 9 月 17 号添加
 #### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
