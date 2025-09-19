@@ -34,7 +34,7 @@
 
 ### 2025 年 9 月 17 号添加
 #### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
-* :white_check_mark: [JSON Translator](https://jsontrans.fun)：为前端开发者打造的国际化（i18n）翻译工具，上传 json 文件，通过 AI（支持DeepSeek、Gemini、OpenAI、Anthropia）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
+* :white_check_mark: [JSON Translator](https://jsontrans.fun)：国际化（i18n）翻译工具（为前端开发者打造），上传 json 文件，通过 AI（支持 DeepSeek、Gemini、OpenAI、Anthropic）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
 
 #### sing1ee - [Github](https://github.com/sing1ee)
 * :white_check_mark: [Foto Miniatur](https://fotominiatur.com/)：nano banana 图片生成器，提供常用 prompt
@@ -50,7 +50,7 @@
 * :white_check_mark: [版权符号](https://copyrightsymbol.app/)：版权符号的网站，可以复制版权符号及相关的符号©, ®,℗, and ™. ，生成页面footer的版权，版权符号的各种css、alt code、怎么输入在windows、mac、iphone，在word、excel中输入
 
 #### Corey（深圳） - [Github](https://github.com/iamcorey)
-* :white_check_mark: [Seedream AI](https://seedreamai.run/)：最新的、免费的 Seedream AI 4.0 AI 图片生成器
+* :white_check_mark: [Seedream AI](https://seedreamai.run/)：Seedream AI 4.0 AI 图片生成器（最新，免费）
 * :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
 
 #### Ronny（深圳）
