@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 22 号添加
+#### 萝卜卜(南昌)
+* :white_check_mark: [WheelPage - 在线转盘](https://wheelpage.com/zh/)：简洁好用的在线转盘，支持抽奖、游戏和快速决策。
+
 #### Horace - [Github](https://github.com/lianhr12)
 * :white_check_mark: [SmartCV](https://smartcv.cc)：AI智能简历制作平台，提供简历模板、AI优化建议、多种格式导出等功能
 
