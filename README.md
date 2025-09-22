@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 22 号添加
+#### Horace - [Github](https://github.com/lianhr12)
+* :white_check_mark: [SmartCV](https://smartcv.cc)：AI智能简历制作平台，提供简历模板、AI优化建议、多种格式导出等功能
+
 ### 2025 年 9 月 19 号添加
 #### 嗡嗡鱼 - [Github](https://github.com/kindtree)
 * :white_check_mark: [SimpleThumbnail](https://simplethumbnail.com)：YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告
