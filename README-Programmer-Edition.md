@@ -16,6 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 9 月 24 号添加
+#### hzn6426 - [Github](https://github.com/hzn6426)
+- :white_check_mark: [Snapper 权限系统微服务版](https://gitee.com/ifrog/snapper-boot) 专注系统数据权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
+- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snapper-standalone) 专注系统数据权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 ximen/123456
+
+
 ### 2025 年 9 月 4 号添加
 #### ChiruMori(辽宁) - [Github](https://github.com/ChiruMori/EffectMidi)
 * :white_check_mark: [EffectMidi](https://github.com/ChiruMori/EffectMidi)：PC+开发板控制MIDI键盘灯（需用户自行接线烧录） - [更多介绍](https://mori.plus/archives/effect-midi-01)
@@ -222,10 +228,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2024年4月28号添加
 #### kisslove - [Github](https://github.com/kisslove/web-monitoring)
 - :white_check_mark: [前端性能监控平台](https://hubing.online/)：日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据（开源）
-
-#### hzn6426 - [Github](https://github.com/hzn6426)
-- :white_check_mark: [Snapper 权限系统微服务版](https://github.com/hzn6426/snam-boot) 专注系统权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
-- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snam-standalone) 专注系统权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 snapper/123456
 
 ### 2024年4月26号添加
 #### zhangdi - [Github](https://github.com/zhangdi168)
