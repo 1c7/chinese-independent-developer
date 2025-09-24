@@ -22,8 +22,8 @@
 
 ### 2025 年 9 月 24 号添加
 #### pillow(重庆) 
-* :white_check_mark: [赛博朋克AI](https://cyberpunkai.art)：将任意照片转换为令人惊叹的赛博朋克杰作，使用先进的AI技术体验数字艺术的未来。
-* :white_check_mark: [反应速度测试](https://reaction-time-test.online)：快速测试你的反应速度 -
+* :white_check_mark: [赛博朋克AI](https://cyberpunkai.art)：将任意照片转换为令人惊叹的赛博朋克杰作
+* :white_check_mark: [反应速度测试](https://reaction-time-test.online)：快速测试你的反应速度
 * :white_check_mark: [鼠标灵敏度转换](https://sens-converter.online)：将你熟练的鼠标灵敏度进行转换
 * :white_check_mark: [色盲检测](https://color-blindness-test.com)：测试你是否是色盲 
 
