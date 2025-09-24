@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 24 号添加
+#### Ryan10Yu - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [Image to Image AI](https://imagetoimage.tech/)：基于 AI 的图片修改和重绘工具
+
 #### pillow(重庆) 
 * :white_check_mark: [赛博朋克AI](https://cyberpunkai.art)：将任意照片转换为令人惊叹的赛博朋克杰作
 * :white_check_mark: [反应速度测试](https://reaction-time-test.online)：快速测试你的反应速度
