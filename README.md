@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 24 号添加
+* :white_check_mark: [GPU 性能测试工具](https://www.volumeshader.dev/)：检测显卡性能。测试和评估你电脑显卡（GPU）的3D渲染性能。目标用户：想要了解自己电脑显卡3D渲染能力、对比不同设备性能，或者开发者需要测试WebGL渲染效果的人群
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [White Pic - 白色背景图片](https://whitepic.online)：下载任意分辨率白色背景图片
+
 ### 2025 年 9 月 23 号添加
 #### Sean(成都) 
 * :white_check_mark: [Mushroom Identification](https://mushroomidentification.online)：蘑菇 AI 识别工具（快速、准确)，结果包含毒性、高危相似种警告
