@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 25 号添加
+#### 皮皮卡
+* :white_check_mark: [AI Image Editor](https://aiimageeditor.photos/)：通过文字指令编辑你的照片，AI 图像编辑器是一款由提示词驱动的智能新一代工具，它能让您使用自然语言编辑照片——无需像传统照片编辑器那样进行复杂的手动操作
+
 ### 2025 年 9 月 24 号添加
 #### Ryan10Yu - [Github](https://github.com/Ryan10Yu)
 * :white_check_mark: [Image to Image AI](https://imagetoimage.tech/)：基于 AI 的图片修改和重绘工具
