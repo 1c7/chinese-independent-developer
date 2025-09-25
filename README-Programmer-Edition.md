@@ -18,7 +18,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 9 月 25 号添加
 #### KAY53N - [Github](https://github.com/KAY53N/rusty-req)
-* :white_check_mark: [Rusty-Req](https://github.com/KAY53N/rusty-req)：一个基于 Rust 和 Python 的高性能异步请求库，适用于需要高吞吐量并发 HTTP 请求的场景。核心并发逻辑使用 Rust 实现，并通过 PyO3 和 maturin 封装为 Python 模块，将 Rust 的性能优势与 Python 的易用性结合。
+* :white_check_mark: [Rusty-Req](https://github.com/KAY53N/rusty-req)：基于 Rust 和 Python 的高性能异步请求库，适用于需要高吞吐量并发 HTTP 请求的场景。核心并发逻辑使用 Rust 实现，并通过 PyO3 和 maturin 封装为 Python 模块，将 Rust 的性能优势与 Python 的易用性结合。
 
 
 ### 2025 年 9 月 24 号添加
