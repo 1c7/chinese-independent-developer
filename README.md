@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 26 号添加
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Free AI for Everyone](https://free.stockai.trade)：无需登录、完全免费的AI（模型包括Grok 4 Fast、DeepSeek V3.1等等）。可选择的模型以后可能会有所调整，但这个服务会长期提供，并且完全免费。
+
 ### 2025 年 9 月 25 号添加
 #### 皮皮卡
 * :white_check_mark: [AI Image Editor](https://aiimageeditor.photos/)：通过文字指令编辑你的照片，AI 图像编辑器是一款由提示词驱动的智能新一代工具，它能让您使用自然语言编辑照片——无需像传统照片编辑器那样进行复杂的手动操作
