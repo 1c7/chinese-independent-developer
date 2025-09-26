@@ -22,10 +22,10 @@
 
 ### 2025 年 9 月 26 号添加
 #### 皮皮卡
-:white_check_mark: [Watermarkzero](https://watermarkzero.com/)：AI 免费去除图片水印。它可以擦除您照片上多余的水印、文字或标志。它并非仅仅涂抹或模糊水印，而是智能地重建水印后方的背景。 最终呈现的是一张完美干净、自然的照片，仿佛水印从未存在过
+- :white_check_mark: [Watermarkzero](https://watermarkzero.com/)：AI 免费去除图片水印。擦除您照片上多余的水印、文字或标志。它并非仅仅涂抹或模糊水印，而是智能地重建水印后方的背景。 最终呈现的是一张完美干净、自然的照片，仿佛水印从未存在过
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Free AI for Everyone](https://free.stockai.trade)：无需登录、完全免费的AI（模型包括Grok 4 Fast、DeepSeek V3.1等等）。可选择的模型以后可能会有所调整，但这个服务会长期提供，并且完全免费。
+- :white_check_mark: [Free AI for Everyone](https://free.stockai.trade)：无需登录、完全免费的 AI（模型包括 Grok 4 Fast、DeepSeek V3.1 等）。可选择的模型以后可能会有所调整，但这个服务会长期提供，并且完全免费
 
 ### 2025 年 9 月 25 号添加
 #### 皮皮卡
