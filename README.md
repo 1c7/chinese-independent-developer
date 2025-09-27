@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 27 号添加
+#### PopcornBoom(深圳) - [Github](https://github.com/POPCORNBOOM), [Bilibili](https://space.bilibili.com/271218438)
+* :white_check_mark: [EZHolo](https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest)：轻易从照片和其他平面图像创建手工绘制或机器打印的刮擦全息路径 - [更多介绍](https://github.com/POPCORNBOOM/EZHolodotNet)
+
+#### 虾米 - [博客](https://blog.2pp.link)
+* :white_check_mark: [opus to mp3](https://opustomp3.online)：免费在线音乐格式转换网站。支持全球各地多个语言，免费使用、无需注册、无需下载 APP 即可使用、方便快捷是我们的口号。专为 opus 格式转换 mp3 而生，让每一个人都能听到声音
+
 ### 2025 年 9 月 26 号添加
 #### 皮皮卡
 - :white_check_mark: [Watermarkzero](https://watermarkzero.com/)：AI 免费去除图片水印。擦除您照片上多余的水印、文字或标志。它并非仅仅涂抹或模糊水印，而是智能地重建水印后方的背景。 最终呈现的是一张完美干净、自然的照片，仿佛水印从未存在过
