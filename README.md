@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 28 号添加
+#### anywhereto(beijing) - [Github](https://github.com/anywhereto)
+* :white_check_mark: [banana nana ai](https://bananananoai.net/)：AI 图片工具, AI 换脸，AI 清除背景， AI y2k 风格人像
+
 #### elng12(柳州) - [Github](https://github.com/elng12)
 * :white_check_mark: [Image to Pixel Art](https://pixelartvillage.org/)：图像到像素艺术转换器 – 通过即时预览和调色板控件将 PNG 或 JPG 图像转换为像素艺术，并进行图像到像素的转换帮我生成跟图像那样的
 
