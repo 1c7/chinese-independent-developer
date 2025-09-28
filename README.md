@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 28 号添加
+#### elng12(柳州) - [Github](https://github.com/[elng12](https://github.com/elng12)
+* :white_check_mark: [Image to Pixel Art](https://pixelartvillage.org/)：图像到像素艺术转换器 – 通过即时预览和调色板控件将 PNG 或 JPG 图像转换为像素艺术，并进行图像到像素的转换帮我生成跟图像那样的
+
+#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
+* :white_check_mark: [PDFLance](https://www.pdflance.com)：PDFLance is your 100% offline PDF toolkit. Everything runs locally in your browser, so your files never get uploaded. Freely merge, split, edit, and convert PDFs. We are dedicated to your privacy and handling essential PDF tasks.
+
 ### 2025 年 9 月 27 号添加
 #### PopcornBoom(深圳) - [Github](https://github.com/POPCORNBOOM), [Bilibili](https://space.bilibili.com/271218438)
 * :white_check_mark: [EZHolo](https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest)：轻易从照片和其他平面图像创建手工绘制或机器打印的刮擦全息路径 - [更多介绍](https://github.com/POPCORNBOOM/EZHolodotNet)
