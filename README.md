@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 9 月 29 号添加
+#### pandaupup - [Github](https://github.com/pandaupup)
+* :white_check_mark: [在线 GPU 性能测试网站 - 毒蘑菇显卡测试](https://volumeshaderbm.org/benchmark)：在浏览器里运行3D体积着色器测试GPU渲染能力。实时显示压测性能数据：包括实时的帧率（FPS）、帧时间（Frame Time）和显卡型号。可多渠道分享测试结果，用户点击可使用相同参数进行渲染测试。
+
 ### 2025 年 9 月 28 号添加
 #### anywhereto(beijing) - [Github](https://github.com/anywhereto)
 * :white_check_mark: [banana nana ai](https://bananananoai.net/)：AI 图片工具, AI 换脸，AI 清除背景， AI y2k 风格人像
