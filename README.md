@@ -21,6 +21,18 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 29 号添加
+#### LongZi(深圳)
+* ⏳ [跟我学太极-陈式](https://github.com/dream-approaching/taijiMini)：微信小程序，图文+视频呈现八法五步、八段锦、陈式太极拳等内容，旨在推广太极拳文化
+
+#### 0x4c48 - [Github](https://github.com/LoHhhha)
+* :white_check_mark: [PMoS](https://pmos.lohhhha.cn)：神经网络模型可视化定义平台 - [更多介绍](https://github.com/LoHhhha/pmos_nn)
+
+#### zxcHolmes
+* :white_check_mark: [Git Stars](https://git-stars.org/) 发掘最热门，Stars 数最多的 GitHub 开源项目仓库
+
+#### anywhereto(beijing) - [Github](https://github.com/anywhereto)
+* :white_check_mark: [scream ai](https://screamai.art//)：把你的自拍照转化为电影感十足的千禧年（Y2K）恐怖风照片。
+
 #### pandaupup - [Github](https://github.com/pandaupup)
 * :white_check_mark: [在线 GPU 性能测试网站 - 毒蘑菇显卡测试](https://volumeshaderbm.org/benchmark)：在浏览器里运行3D体积着色器测试GPU渲染能力。实时显示压测性能数据：包括实时的帧率（FPS）、帧时间（Frame Time）和显卡型号。可多渠道分享测试结果，用户点击可使用相同参数进行渲染测试。
 
