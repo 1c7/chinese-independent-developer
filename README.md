@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 9 月 29 号添加
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark:  [实用小工具：时间格式转换和计算器](https://time-to-decimal.org/)：支持时分秒格式和小数表示法双向转换、分钟/秒/天不同单位相互转换、考勤打卡时间四舍五入，工资计算等
+
 #### LongZi(深圳)
 * ⏳ [跟我学太极-陈式](https://github.com/dream-approaching/taijiMini)：微信小程序，图文+视频呈现八法五步、八段锦、陈式太极拳等内容，旨在推广太极拳文化
 
