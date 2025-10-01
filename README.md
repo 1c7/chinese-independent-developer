@@ -21,7 +21,7 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 1 号添加
-#### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel), 
+#### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel)
 * :white_check_mark: [Beardstyle AI](https://beardstyle.org/)：虚拟试戴胡子
 
 ### 2025 年 9 月 29 号添加
