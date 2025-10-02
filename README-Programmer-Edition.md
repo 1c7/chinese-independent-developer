@@ -3,9 +3,10 @@
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
 
 **程序员版和主版面的区别**：
-* 程序员版：用户是程序员，会用命令行，知道什么是 `npm install` 等。列表里的产品是开源博客/命令行工具等
-* 主版面：用户不是程序员是普通人，列表里的产品是网站/App/桌面端应用，必须打开即用
+* 程序员版：用户是程序员，会用命令行，知道 `npm install` 等。列表里的产品是开源博客/命令行工具等
+* 主版面：用户不是程序员，产品是 网站/App/桌面端应用 必须打开即用
 
+<!--
 **为什么开这个列表**：
 Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不是普通用户能用的东西，
 而是要用命令行 `npm install` 以及需要写一些代码。
@@ -13,6 +14,125 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 但是我觉得这些项目也需要曝光度，所以单独开这一个列表。
 
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
+-->
+
+### 2025 年 9 月 25 号添加
+#### KAY53N - [Github](https://github.com/KAY53N/rusty-req)
+* :white_check_mark: [Rusty-Req](https://github.com/KAY53N/rusty-req)：基于 Rust 和 Python 的高性能异步请求库，适用于需要高吞吐量并发 HTTP 请求的场景。核心并发逻辑使用 Rust 实现，并通过 PyO3 和 maturin 封装为 Python 模块，将 Rust 的性能优势与 Python 的易用性结合。
+
+
+### 2025 年 9 月 24 号添加
+#### hzn6426 - [Github](https://github.com/hzn6426)
+- :white_check_mark: [Snapper 权限系统微服务版](https://gitee.com/ifrog/snapper-boot)：专注系统数据权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
+- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snapper-standalone)：专注系统数据权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 ximen/123456
+
+
+### 2025 年 9 月 4 号添加
+#### ChiruMori(辽宁) - [Github](https://github.com/ChiruMori/EffectMidi)
+* :white_check_mark: [EffectMidi](https://github.com/ChiruMori/EffectMidi)：PC+开发板控制MIDI键盘灯（需用户自行接线烧录）- [更多介绍](https://mori.plus/archives/effect-midi-01)
+
+### 2025 年 8 月 22 号添加
+#### Safe3(武汉)
+* :white_check_mark: [南墙-WEB应用防火墙](https://waf.uusec.com)：工业级免费、高性能、高扩展，支持 AI 和语义引擎的 Web 应用和 API 安全防护产品
+* :white_check_mark: [OpenResty Manager](https://om.uusec.com)：现代化、安全、美观的主机管理面板，OpenResty Edge 的开源替代品
+
+### 2025 年 8 月 21 号添加
+#### Mao Kaiyue - [Github](https://github.com/MKY508)
+* :white_check_mark: [QueryGPT](https://github.com/MKY508/QueryGPT)：自然语言数据库查询系统。基于 OpenInterpreter 开发，让非技术人员也能用中文查询数据库。比如问"上个月销售最好的产品是什么"，系统会自动执行查询并生成图表。目前在生产环境稳定运行，每天处理上百次查询请求
+
+### 2025 年 8 月 8 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
+* :white_check_mark: [草梅 Auth](https://github.com/CaoMeiYouRen/caomei-auth)：草梅 Auth 是基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式 - [更多介绍](https://auth-docs.cmyr.dev/)
+
+### 2025 年 8 月 8 号添加
+#### lizhichao - [Github](https://github.com/lizhichao)
+* :white_check_mark: [根据 sql ddl 生成 gorm model](https://gorm.vicsdf.com/)：支持 mysql 和 pgsql ，根据 int bigint 自动映射到 go 对应的类型。由浏览器 wasm 执行 可以离线使用
+
+### 2025 年 8 月 4 号添加
+#### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki) [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
+* :white_check_mark: [AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
+
+### 2025 年 7 月 26 号添加
+#### Ch3nyang(南京) - [Github](https://github.com/wcy-dt), [博客](https://blog.ch3nyang.top/)
+* :white_check_mark: [PongHub](https://github.com/WCY-dt/ponghub)：服务状态监控网站，旨在帮助用户监控和验证服务的可用性。使用 GitHub Actions + GitHub Pages，一键部署、无需服务器。
+
+### 2025 年 7 月 24 号添加
+#### 胡图图不涂涂-[GitHub](https://github.com/hukdoesn)
+* :white_check_mark: [LiteOps](https://github.com/opsre/LiteOps)：CI/CD 平台（专注实用性）。只解决真问题 —— 自动化构建、部署 一体化平台。开源轻量级DevOps平台 - [更多介绍](https://liteops.ext4.cn)
+
+### 2025 年 7 月 10 号添加
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [Cealer](https://github.com/SpaceTimee/Sheas-Cealer-Droid)：安卓端 SNI 伪造工具，无需代理即可合法加速 Github, Steam, Pixiv 等网站的直连，让你的网络冲浪畅快无阻
+
+### 2025 年 7 月 4 号添加
+#### 欲饮琵琶码上催 - [Github](https://github.com/ajiho)
+* :white_check_mark: [Laravel 中文网](https://laravel.wiki)：全球最流行的PHP框架 Laravel 的中文文档
+
+### 2025 年 7 月 1 号添加
+#### RainbowBird | 洛灵 (上海) - [Github](https://github.com/luoling8192), [博客](https://blog.luoling.moe)
+* :white_check_mark: [Telegram Search](https://github.com/groupultra/telegram-search)：功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配
+
+### 2025 年 6 月 27 号添加
+#### sing1ee(上海) 
+* :white_check_mark: [Gemini CLI Docs](https://gemini-cli.xyz/docs/)：Gemini CLI 相关技术文档和开发者资源（持续更新）
+
+### 2025 年 6 月 24 号添加
+#### Xiao-zaiyi(广西) - [Github](https://github.com/xiao-zaiyi/illa-helper)
+* :white_check_mark: [浸入式学语言助手](https://github.com/xiao-zaiyi/illa-helper)：基于"可理解输入"理论的浏览器扩展，帮助你在日常网页浏览中自然地学习语言 - [更多介绍](https://github.com/xiao-zaiyi/illa-helper/blob/master/README_ZH.md)
+
+### 2025 年 6 月 3 号添加
+#### IndieMakerKevin(成都) - [Github](https://github.com/PennyJoly)
+* :white_check_mark: [NuxtPro开源版本](https://github.com/PennyJoly/NuxtPro)：企业级 SaaS 出海模板（基于 Nuxt3），预集成 Stripe/Cream 支付、谷歌登录、多语言路由和SEO工具。快速构建 SSR 的全球化Web应用，开箱即用。1 小时内快速完成 MVP 开发，验证需求，并出海创收 - [更多介绍](https://nuxtpro.com)
+
+### 2025 年 5 月 21 号添加
+#### 韩数 - [Github](https://github.com/hanshuaikang)
+* :white_check_mark: [AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc)：一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档
+
+### 2025 年 5 月 17 号添加
+#### WeNext - [Github](https://github.com/weijunext)
+* :white_check_mark: [Nexty.dev](https://nexty.dev): 多场景全栈 SaaS 开发模板。主要特性：1. 内置完整的一次性支付和订阅支付加积分、续订更新积分和退订扣积分的流程
+2. 内置可视化界面管理定价卡片的管理功能，轻松且安全地创建和修改你的定价卡片
+3. 内置高级CMS模块，不仅支持必备的文章信息，还支持设置置顶、文章状态和访问权限，适用于免费博客和付费newsletter场景
+4. 提供 AI Demo，帮助不熟悉AI功能开发的开发者快速学习和应用
+
+### 2025 年 5 月 13 号添加
+#### masz
+* :white_check_mark: [ui2vue](https://www.ui2vue.cn)：生成 vue3 代码的工具网站，支持拖拽&编辑方式添加组件，可直接导出vue3代码
+
+### 2025 年 5 月 11 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
+* :white_check_mark: [afdian-linker](https://github.com/CaoMeiYouRen/afdian-linker)：集成了爱发电 API，提供统一的订单管理、赞助支付和外部查询能力。基于 Nuxt 3 & TypeScript 的全栈项目。
+
+### 2025 年 5 月 10 号添加
+#### xiaohanyu - [github](https://github.com/xiaohanyu)
+* :white_check_mark: [YAMLResume](https://yamlresume.dev/)：Resumes as Code in YAML，用 YAML 格式来撰写简历并生成精美专业的 PDF
+
+### 2025 年 5 月 9 号添加
+#### Crayon - [GitHub](https://github.com/ZhuoZhuoCrayon)
+* :white_check_mark: [throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py)：Python 限流工具，支持多种算法（固定窗口，滑动窗口，令牌桶，漏桶 & GCRA）及存储（Redis、内存），高性能
+
+### 2025 年 4 月 30 号添加
+#### ysykzheng - [github](https://github.com/ysykzheng)
+* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
+
+#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
+* :white_check_mark: [Sundry](https://github.com/DuckDuckStudio/Sundry)：WinGet 本地清单管理工具，让您更方便地查看、移除清单。
+
+### 2025 年 4 月 29 号添加
+#### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
+* :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.
+
+### 2025 年 4 月 25 号添加
+#### 西风逍遥游(湾区) - [Github](https://github.com/sunxfancy/SSUI)
+* :white_check_mark: [SSUI](https://github.com/sunxfancy/SSUI)：基于安全 Python 脚本的 stable diffusion AI 绘图工具，可以根据脚本中函数的类型自动生成 UI 界面，能方便快捷地复现其他用户的工作流
+
+### 2025 年 4 月 22 号添加
+#### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
+* :white_check_mark: [ioe 库存管理系统](https://github.com/zhtyyx/ioe)：基于 Django 开发的综合性库存管理系统，专为零售商店、小型仓库和商品销售场所设计。系统提供了完整的商品管理、库存跟踪、销售记录、会员管理和数据分析功能，帮助企业高效管理库存和销售流程
+
+### 2025 年 4 月 15 号添加
+#### daya0576(上海) - [博客](https://changchen.me)
+* :white_check_mark: [beaverhabits](https://github.com/daya0576/beaverhabits)：无需设定目标的习惯追踪工具。基于 Python 开发的自托管习惯追踪 Web 应用，帮助用户轻松记录和管理日常习惯。它提供适配移动端的直观界面，专注于习惯的持续养成，而非单纯追求目标达成，让养成好习惯变得更自然
 
 ### 2025 年 3 月 17 号添加
 #### dodid - [Github](https://github.com/dodid)
@@ -113,10 +233,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2024年4月28号添加
 #### kisslove - [Github](https://github.com/kisslove/web-monitoring)
 - :white_check_mark: [前端性能监控平台](https://hubing.online/)：日活跃、用户行为记录、访问日志、JS 错误日志、API 请求详情、访问性能评估，开发者和运营必须关心的各种数据（开源）
-
-#### hzn6426 - [Github](https://github.com/hzn6426)
-- :white_check_mark: [Snapper 权限系统微服务版](https://github.com/hzn6426/snam-boot) 专注系统权限（数据权限、业务权限、列权限），让权限更简单，让数据更安全
-- :white_check_mark: [Snapper 权限单机版](https://gitee.com/ifrog/snam-standalone) 专注系统权限，让权限更简单，让数据更安全 - [演示地址](https://admin.baomibing.com/user/login) 演示账号 snapper/123456
 
 ### 2024年4月26号添加
 #### zhangdi - [Github](https://github.com/zhangdi168)
@@ -495,6 +611,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [维基百科全站镜像](https://github.com/imlinhanchao/ngx_proxy_wiki)：通过 Nginx 反向代理制作维基百科全站镜像的配置档
 * :white_check_mark: [GitHub Page 图床](https://www.npmjs.com/package/github-picbed)：借助于 GitHub Page 和 GitHub Api 做图床 - [更多介绍](https://github.com/imlinhanchao/github-picbed)
 * :white_check_mark: [Google 翻译 node 库](https://www.npmjs.com/package/translator-promise)：通过模拟请求实现 Google 翻译功能 - [更多介绍](https://github.com/imlinhanchao/translator-promise)
+* :white_check_mark: [VitePress JS 代码预览插件](https://www.npmjs.com/package/vitepress-script-preview)：VitePress 插件，增加一个可预览 JS 代码执行结果的 markdown 容器。 - [更多介绍](https://imlinhanchao.github.io/vitepress-script-preview/)
 
 ### 2019年12月17号添加
 ---
