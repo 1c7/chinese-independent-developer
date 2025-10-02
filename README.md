@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 2 号添加
+#### Margox(北京) - [Github](https://github.com/margox)
+* :white_check_mark: [萌宠计划（iOS）](https://apps.apple.com/cn/app/%E8%90%8C%E5%AE%A0%E8%AE%A1%E5%88%92-%E5%AE%A0%E7%89%A9%E6%97%A5%E8%AE%B0%E4%B8%8E%E6%B6%88%E8%B4%B9%E8%AE%B0%E8%B4%A6/id6748669989)：清新易用的宠物陪伴管家，包含宠物档案、图文日记、消费记账等功能
+
 ### 2025 年 10 月 1 号添加
 #### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel)
 * :white_check_mark: [Beardstyle AI](https://beardstyle.org/)：虚拟试戴胡子
