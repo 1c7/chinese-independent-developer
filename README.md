@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 4 号添加
+#### pillow(重庆)
+* :white_check_mark: [Teleprompter](https://teleprompteronline.org)：在线提词器，适用于视频创作者、演讲者和教育工作者
+
+#### 詹姆斯 周
+* :white_check_mark: [sora2ai.ai](https://sora2ai.ai)：最新的 AI 视频生成模型。创建具有同步音频、对话和效果的逼真且物理准确的视频。
+
+#### fanison(北京)
+* :white_check_mark: [NanoImg](https://nanoimg.net/)：基于 Nano Banana 的 AI 图像引擎，带来简单高效的图片编辑体验。上传图片，输入需求，即刻生成你想要的视觉效果。
+
 ### 2025 年 10 月 2 号添加
 #### SUNJL（长春）：
 * :white_check_mark: [AI Lyrics Generator](https://ai-lyrics-generator.net/)：AI 歌词生成 & 改进
