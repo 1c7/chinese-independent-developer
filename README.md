@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 5 号添加
+#### Leon(杭州)
+* :white_check_mark: [AI-NanoBanana](https://www.ai-nanobanana.net/)：AI 图像工作室，让你轻松把创意变成高质量视觉作品
+
 ### 2025 年 10 月 4 号添加
 #### pillow(重庆)
 * :white_check_mark: [Teleprompter](https://teleprompteronline.org)：在线提词器，适用于视频创作者、演讲者和教育工作者
