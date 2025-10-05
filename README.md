@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 5 号添加
+#### Jesen(马来西亚)
+* :white_check_mark: [eCNH 分布式小账本](https://ecnh.base44.app/))：eCNH华人分布式小账本，Andromeda 1 eCNH=1 eCNH,Foreign trade+science fiction+games, +AI + energy etc.
+
+### 2025 年 10 月 5 号添加
 #### Leon(杭州)
 * :white_check_mark: [AI-NanoBanana](https://www.ai-nanobanana.net/)：AI 图像工作室，让你轻松把创意变成高质量视觉作品
 
