@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 7 号添加
+#### Ryan
+* :white_check_mark: [图像去模糊](https://unblurimg.ai/)：用人工智能技术消除图像模糊，恢复清晰度和细节。即时提升照片清晰度，修复模糊照片，提高分辨率
+
 #### Jali - [Github](https://github.com/qqxufo)
 * :white_check_mark: [NanaVis](https://nanavis.com/zh)：Nano Banana 驱动的 AI 图片编辑工具
 
