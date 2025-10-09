@@ -21,7 +21,7 @@
 ## 3. 项目列表
 ### 2025 年 10 月 9 号添加
 #### 黑查理(长沙) - [Github](https://github.com/clhey), [博客](https://ruanzhubao.com)
-* :white_check_mark: [软著宝](https://ruanzhubao.com)：AI生成全套软著材料（包括8张软件截图、详细图文文档鉴别材料、60页原创源代码等） - [更多介绍](https://ruanzhubao.com/blogs/ruanzhubao-shuomingshu)
+* :white_check_mark: [软著宝](https://ruanzhubao.com)：AI 生成全套软著材料（包括 8 张软件截图、详细图文文档鉴别材料、60 页原创源代码等）- [更多介绍](https://ruanzhubao.com/blogs/ruanzhubao-shuomingshu)
 
 ### 2025 年 10 月 7 号添加
 #### Ryan
