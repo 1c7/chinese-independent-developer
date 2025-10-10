@@ -1,4 +1,4 @@
-![img_v3_02qu_b42dce1d-ba08-4a9b-9ea4-11360340afcg](https://github.com/user-attachments/assets/b97ce097-8bb7-485d-91b6-764f07c19221)## 中国独立开发者项目列表
+## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目
 
 ### 子版面
