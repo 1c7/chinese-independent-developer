@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 10 号添加
+#### Leo(成都) 
+* :white_check_mark: [Gemini Storybook Gallery](https://geministorybook.gallery/)：Gemini Storybook 汇总，分类，保留原生的交互式阅读体验
+
 #### Ethan Sunray
 * :white_check_mark: [TO MD](https://tomd.io)：将 Word、PDF、表格、演示、网页、图片、音频、压缩包、代码、RSS 和网址转成结构化的 Markdown，秒级转换，无需注册，长期免费，注重隐私与安全。
 
