@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 12 号添加
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [Bulk Resize Images Online](https://bulkresizeimages.online/)：批量调整多张图片的大小。快速、安全，完全在浏览器中运行——无需上传 - [更多介绍](https://bulkresizeimages.online/zh/about)
+
+#### sing1ee(上海) - [Github](https://github.com/sing1ee)
+* :white_check_mark: [Sora Video Downloader](https://soravideodownloader.com/)：从共享链接下载 Sora AI 生成的视频。获取原始提示和高质量视频文件
+
 ### 2025 年 10 月 10 号添加
 #### Leo(成都) 
 * :white_check_mark: [Gemini Storybook Gallery](https://geministorybook.gallery/)：Gemini Storybook 汇总，分类，保留原生的交互式阅读体验
