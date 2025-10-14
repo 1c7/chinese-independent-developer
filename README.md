@@ -34,8 +34,8 @@
 #### Ethan Sunray
 * :white_check_mark: [TO MD](https://tomd.io)：将 Word、PDF、表格、演示、网页、图片、音频、压缩包、代码、RSS 和网址转成结构化的 Markdown，秒级转换，无需注册，长期免费，注重隐私与安全。
 
-#### servanter(北京)
-* :white_check_mark: [图片风格转换](https://ai-magic-ten.vercel.app/)：🔥上传任意照片就能快速生成各种风格的卡通头像，轻松满足所有社交平台的头像需求
+#### Archer(北京)
+* :white_check_mark: [AI照片渲染](https://www.aimage.top/)：🔥上传任意照片就能快速生成各种风格的头像，轻松满足所有社交平台的头像需求
 
 ### 2025 年 10 月 9 号添加
 #### 黑查理(长沙) - [Github](https://github.com/clhey), [博客](https://ruanzhubao.com)
