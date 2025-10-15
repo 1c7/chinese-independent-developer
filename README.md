@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 15 号添加
+#### oddboy(杭州) - [Github](https://github.com/liuShuZhu), [博客](http://www.oddboy.top)
+* :white_check_mark: [Sora2 AI](https://sora2-ai.net/)：体验 Sora 2 视频生成 – 创建 1080p 无水印视频，配备同步音频
+
 ### 2025 年 10 月 14 号添加
 #### xiaobin(北京) - [Github](https://github.com/pangxiaobin)
 * :white_check_mark: [灵象工具箱](https://www.lingxiangtools.top/)：AI 智能图像处理工具，视频抠图换背景、视频去水印、AI抠图、智能擦除、截图美化、OCR文字识别、在线拼图、视频智能镜头分割、图片压缩、图片格式转换，几乎所有功能都支持批量操作，不限制文件数量和大小（支持 win 和 mac 平台，所有处理都是本地模式保证用户隐私） - [更多介绍](https://www.lingxiangtools.top/#features)
