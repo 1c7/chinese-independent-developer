@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 16 号添加
+#### lanmo(武汉) - [Github](https://github.com/oddboy0152-create)
+* :white_check_mark: [Veo 3.1 AI](https://veo3-1.co/zh)：使用 Veo3.1 创作电影级视频，配备 1080p 原生音频、首尾帧控制及免费试用额度
+
 ### 2025 年 10 月 15 号添加
 #### oddboy(杭州) - [Github](https://github.com/liuShuZhu), [博客](http://www.oddboy.top)
 * :white_check_mark: [Sora2 AI](https://sora2-ai.net/)：体验 Sora 2 视频生成 – 创建 1080p 无水印视频，配备同步音频
