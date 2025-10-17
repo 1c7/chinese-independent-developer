@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 10 月 17 号添加
+#### Johnson(上海) - [Github](https://github.com/johnson-eddie)
+* :white_check_mark: [PVZ Fusion](https://pvzfusion.io/)：  植物大战僵尸的创新粉丝版本,引入革命性的植物融合系统,玩家可以组合经典植物创造强大的混合防御者,提供无限阳光资源和全新战略玩法
+
 ### 2025 年 9 月 7 号添加
 #### aiinlink
 * :white_check_mark: [多人聚会小游戏 bestpartygames](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
