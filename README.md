@@ -20,6 +20,18 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 17 号添加
+
+#### samtts(杭州) - [Github](https://github.com/samtts-voice)
+* :white_check_mark: [SAM TTS](https://samtts.com/)：微软 SAM 语音合成工具，重现经典 Windows XP 系统的标志性机器人语音，支持浏览器直接使用无需下载。
+* :white_check_mark: [AI Hairstlye Changer](https://aihairstylechanger.net/)：AI 发型虚拟试换工具，上传照片即可在线试戴50+种发型和30+种发色，帮助用户找到完美造型。
+* :white_check_mark: [顔文字屋](https://www.kaomojiya.org/)：颜文字网站，提供丰富的表情符号分类（哭泣、开心、生气等），一键复制即可在聊天软件中使用。
+
+#### indiehack(北京) - [Github](https://github.com/aitoolcentert-del)
+* :white_check_mark: [Image Inverter](https://imageinverter.app/) ： 图片颜色反转工具,可将黑色转为白色、创建照片负片效果,无需注册即可在浏览器中即时处理。
+* :white_check_mark: [Circle Crop Image](https://circle-crop-image.net/)：圆形裁剪工具,可快速制作完美的圆形头像和社交媒体图片,支持透明背景导出。
+* :white_check_mark: [Grayscale Image](https://grayscaleimage.org/)：图片灰度转换工具,可将彩色照片转为黑白灰度图像,适合制作复古效果和减小文件大小。
+
 ### 2025 年 10 月 16 号添加
 #### lanmo(武汉) - [Github](https://github.com/oddboy0152-create)
 * :white_check_mark: [Veo 3.1 AI](https://veo3-1.co/zh)：使用 Veo3.1 创作电影级视频，配备 1080p 原生音频、首尾帧控制及免费试用额度
