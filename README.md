@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 17 号添加
+#### 饭特稀
+* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora Watermark Remover,提供在线sora一键去水印,5秒以内完成,操作简单
+
+### 2025 年 10 月 17 号添加
 #### Damon986
 * :white_check_mark: [SongGet](https://songget.com/)：多合1的音乐下载软件，可从 Amazon, YouTube, Apple, Spotify, SoundCloud, Line, Tidal, Deezer 等音乐流媒体平台下载高质量音乐，支持批量下载
 * :white_check_mark: [Moyea Downloader](https://www.moyeasoft.com/downloader/)：多合1的视频下载软件，可从 Amazon Prime, YouTube, Apple TV+, Instagram, TikTok, Facebook, Twitter/X, Disney+, Netflix, Hulu 等视频流媒体平台下载点播视频与直播视频，支持批量下载
