@@ -20,9 +20,9 @@
 
 ## 3. 项目列表
 
-### 2025 年 10 月 17 号添加
+### 2025 年 10 月 18 号添加
 #### 饭特稀
-* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora Watermark Remover,提供在线sora一键去水印,5秒以内完成,操作简单
+* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora一键去水印，5秒内完成，操作简单
 
 ### 2025 年 10 月 17 号添加
 #### Damon986
