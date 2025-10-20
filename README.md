@@ -38,7 +38,7 @@
 * :white_check_mark: [Liquid Glass HQ](https://liquidglasshq.com/)： 液态玻璃资源收集站
 
 #### nnpyro(武汉) - [Github](https://github.com/nnpyro1/SyncTunnel/), [博客](nnpyro.fwh.is)
-*:white_check_mark:[SyncTunnel](nnpyro.fwh.is)：跨平台高效文件同步和远程管理软件
+* :white_check_mark: [SyncTunnel](nnpyro.fwh.is)：跨平台高效文件同步和远程管理软件
 
 #### Ting
 * :white_check_mark: [Turbo Learn](https://turbo-learn.com/)：从文档、图片、拼音文件生成笔记的 AI 学习工具网站
