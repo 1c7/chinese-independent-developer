@@ -23,17 +23,17 @@
 
 ### 2025 年 10 月 20 号添加
 #### monsoonw(杭州) 
-* :white_check_mark: [Free Sora Watermark Adder](https://sorawatermarkadder.online)：为任何视频添加 Sora 水印，将你的视频秒变 Sora 视频
+* :white_check_mark: [Free Sora Watermark Adder](https://sorawatermarkadder.online)：为任何视频添加 Sora 水印
 
 #### zhugezifang
-* :white_check_mark: [Online Notepad – Free Online Text Editor & Notes Sharing](https://onlinenotepad101.org/)：The best Online Notepad in web browser for distraction-free writing, note-taking, and text editing. Free, no registration required, can share notes with others
+* :white_check_mark: [在线记事本 – 免费在线文本编辑器与笔记分享](https://onlinenotepad101.org/)：在线记事本，用于无干扰写作、记笔记和文本编辑。免费，无需注册，可与他人分享笔记
 
 #### Aris(美国) - [Github](https://github.com/AriesApp)
 * :white_check_mark: [Elisi](https://www.elisiapp.com/)：AI + All in one 个人日程效率软件
 
 #### 阿歪(上海) - [Github](https://github.com/iyhub), [Blog](https://iwhy.dev/)
-* :white_check_mark: [AI Detector](https://gptdetect.ai/)： 检查你的文本是否AI生成
-* :white_check_mark: [Image to Image](https://imagetoimage.app/)： AI图片编辑
+* :white_check_mark: [AI Detector](https://gptdetect.ai/)： 检查你的文本是否 AI 生成
+* :white_check_mark: [Image to Image](https://imagetoimage.app/)： AI 图片编辑
 * :white_check_mark: [Image Describer](https://imagedescriber.cc/)： 利用AI为图片生成智能描述
 * :white_check_mark: [Liquid Glass HQ](https://liquidglasshq.com/)： 液态玻璃资源收集站
 
@@ -43,15 +43,15 @@
 #### Ting
 * :white_check_mark: [Turbo Learn](https://turbo-learn.com/)：从文档、图片、拼音文件生成笔记的 AI 学习工具网站
 * :white_check_mark: [nano banana](https://nano-banana.pro/)：AI 驱动的图像编辑器
-* :white_check_mark: [List Difference](https://list-difference.com/)：数据比较工具，它对两个列表执行SET操作，以查找惟一项、交集和联合，从而为不同行业的专业人员提供高效的数据协调
+* :white_check_mark: [List Difference](https://list-difference.com/)：数据比较工具，它对两个列表执行SET操作，以查找惟一项、交集和联合，提供高效的数据协调
 * :white_check_mark: [ai review generator](https://reviewgenerator.org/)：生成商品评论的 AI 工具
 
 #### Ethan Sunray
-* :white_check_mark: [Sora Watermark Adder](https://sorawatermarkadder.org)：几秒钟即可为视频添加专业的 Sora AI 同款水印，浏览器本地完成，无需上传，保护您的隐私，永久免费使用
+* :white_check_mark: [Sora Watermark Adder](https://sorawatermarkadder.org)：为视频添加专业的 Sora AI 同款水印，浏览器本地完成，无需上传，保护您的隐私，永久免费使用
 
 ### 2025 年 10 月 18 号添加
 #### 饭特稀 - [Github](https://github.com/shineforever)
-* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora 视频去水印，5秒内完成，操作简单
+* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora 视频去水印，5 秒内完成，操作简单
 
 ### 2025 年 10 月 17 号添加
 #### Damon986
