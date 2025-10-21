@@ -21,8 +21,8 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 21 号添加
-#### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki)
-* :white_check_mark: [AI 播客生成器](https://podcast.hubtoday.app/)：播客音频生成cli ，python服务端 和 web前端，支持单人和多人对话。支持原文智能配音 - [Github 仓库](https://github.com/justlovemaki/Podcast-Generator)
+#### 何夕2077 (武汉)- [GitHub](https://github.com/justlovemaki)
+* :white_check_mark: [AI 播客生成器](https://podcast.hubtoday.app/)：生成播客音频，支持单人和多人对话。支持原文智能配音 - [GitHub 仓库](https://github.com/justlovemaki/Podcast-Generator)
 * :white_check_mark: [PromptHub提示词管理优化使用工具](https://prompt.hubtoday.app)：AI 提示词管理平台，支持浏览器插件，多平台客户端
 
 #### haocheng - [Github](https://github.com/cabbagehao)
