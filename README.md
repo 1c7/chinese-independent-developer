@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 21 号添加
+#### haocheng - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [GenColoring AI](https://gencoloring.ai)：AI 生成涂色页平台 - [博客介绍](https://blog.csdn.net/weixin_52314137/article/details/152511285)
+* :white_check_mark: [Morse Coder](https://morse-coder.com)：摩斯密码在线转换工具
 
 ### 2025 年 10 月 20 号添加
 #### monsoonw(杭州) 
