@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 25 号添加
+#### Echo（北京）
+* :white_check_mark: [Yomu manga translator]((https://yomumangatranslator.com/)： 一个专为“生肉”漫画和韩漫设计的AI在线翻译工具。能完美保留原版布局、识别竖排文字。无需注册。
+
+
 ### 2025 年 10 月 23 号添加
 #### viga（福建）
 * :white_check_mark: [CSS2TW](https://www.css2tw.online/)：将常规 CSS 转成 Tailwind CSS 的网站
