@@ -20,6 +20,20 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 26 号添加
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indition.com)
+* :white_check_mark: [ResizeImage.dev](https://resizeimage.dev/)：在浏览器中直接调整图片尺寸。无需上传即可下载 - [更多介绍](https://resizeimage.dev/zh/about)
+* :white_check_mark: [ImageConverter.dev](https://imageconverter.dev/)：免费在线图像转换工具。在您的浏览器中立即在 PNG、JPG、WebP 之间转换图像格式。无需上传 - [更多介绍](https://imageconverter.dev/zh/about)
+
+#### fzero17
+* :white_check_mark: [OpenFolder](https://apps.apple.com/cn/app/openfolder/id6753940577?l=en-GB&mt=12): 在 macOS 菜单栏快速打开常用文件夹
+
+#### suio03 (成都)
+* :white_check_mark: [AI 图像编辑器](https://pixfy.io/)：图像编辑工具套件，集多种功能于一体。从照片质量、放大低分辨率图像、进行创意设计等等
+
+#### grhuang87-hue
+* :white_check_mark: [AI Photo Prompt](https://aiphotoprompt.me)：任何图像转换为详细的 AI 提示词，为 Gemini、Midjourney 和 Stable Diffusion 即时生成照片和图像提示词 - [更多介绍](https://aiphotoprompt.me/about)
+
 ### 2025 年 10 月 23 号添加
 #### viga（福建）
 * :white_check_mark: [CSS2TW](https://www.css2tw.online/)：将常规 CSS 转成 Tailwind CSS 的网站
