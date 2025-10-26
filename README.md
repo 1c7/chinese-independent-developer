@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 10 月 26 号添加
+#### Horace(深圳) - [Github](github.com/lianhr12/), [博客](https://www.hrope.cn/)
+* :white_check_mark: [Full Page Screenshot](https://www.fullpagescreenshot.top/zh)：5 秒一键生成精美推广截图插件。完整网页长截图：自动滚动拼接，无需手动操作。精准元素截取：点击即可截取按钮、图片、文字段落。自由区域选择：拖拽框选，只要你想要的部分。可视区域快照：当前所见即所得。重点标注：箭头、方框、文字说明，一目了然。背景设置：多个精美模板，一键设置精致截图。一键复制：截图完成复制立即发给同事朋友
+
 #### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indition.com)
 * :white_check_mark: [ResizeImage.dev](https://resizeimage.dev/)：在浏览器中直接调整图片尺寸。无需上传即可下载 - [更多介绍](https://resizeimage.dev/zh/about)
 * :white_check_mark: [ImageConverter.dev](https://imageconverter.dev/)：免费在线图像转换工具。在您的浏览器中立即在 PNG、JPG、WebP 之间转换图像格式。无需上传 - [更多介绍](https://imageconverter.dev/zh/about)
