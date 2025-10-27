@@ -19,6 +19,9 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2025 年 10 月 27 号添加
+#### Ryan(shanghai) 
+* :white_check_mark: [melhorar imagem](https://melhorarimagem.me/)：针对葡萄牙地区的图片网站
 
 ### 2025 年 10 月 26 号添加
 #### Horace(深圳) - [Github](github.com/lianhr12/), [博客](https://www.hrope.cn/)
