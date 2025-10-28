@@ -19,6 +19,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2025 年 10 月 28 号添加
+#### LinightX(苏州)
+* :white_check_mark: [AimtrainerX](https://aimtrainerx.com/)：专为 FPS 爱好者打造的瞄准训练网站，免费、上班可玩，丰富的训练模式，支持自定义训练样式
+
 ### 2025 年 10 月 27 号添加
 #### Ryan(shanghai) 
 * :white_check_mark: [melhorar imagem](https://melhorarimagem.me/)：针对葡萄牙地区的图片网站
