@@ -2,6 +2,13 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 10 月 30 号添加
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Anime Last Stand Calculator](https://anime-last-stand.com)：Anime Last Stand 游戏计算器，帮助玩家快速做出组队策略。
+
+#### lucen
+* :white_check_mark: [Icebreaker Games](https://icebreaker-games.org/zh)：破冰游戏：搜索、筛选、按步骤直接开玩。
+
 ### 2025 年 10 月 22 号添加
 #### 水无痕(杭州) 
 * :white_check_mark: [WaHaGameStore](https://wahagamestore.com)：在线 HTML 游戏，免登录、免下载
