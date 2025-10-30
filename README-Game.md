@@ -3,6 +3,10 @@
 本版面放的都是游戏，起始于2025年1月4号
 
 ### 2025 年 10 月 30 号添加
+#### dvyutou - [Github](https://github.com/dvyutou)
+* :white_check_mark: [Scritchy Scratchy](https://scritchyscratchy.org)：Free Online Scratch Card Game | Play Now
+* :white_check_mark: [Blue White Flag](https://bluewhiteflag.org)：Play Blue Flag White Flag Games Online Free
+
 #### 290713469 - [Github](https://github.com/290713469)
 * :white_check_mark: [Anime Last Stand Calculator](https://anime-last-stand.com)：Anime Last Stand 游戏计算器，帮助玩家快速做出组队策略。
 
