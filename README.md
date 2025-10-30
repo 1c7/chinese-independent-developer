@@ -22,7 +22,7 @@
 
 ### 2025 年 10 月 30 号添加
 #### zxcHolmes
-* :white_check_mark: [FilingInsight](https://filing-insight.com/): 快速解读美股财报的AI工具，1万多份财报解读，多语言支持，免费阅读。
+* :white_check_mark: [FilingInsight](https://filing-insight.com/): 快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
 
 #### KryoWang（广州）- [Github](https://github.com/wangxiaosu)
 * :white_check_mark: [image-to-sketch](https://www.imagetosketch.app/): 图片转素描 AI 小工具
@@ -34,7 +34,7 @@
 * :white_check_mark: [音频转文字工具](https://audio2textai.com)：AI 音频转文字，快速、精准、安全的转写服务
 
 #### oroKAKA - [Github](https://github.com/oroKAKA)
-* :white_check_mark: [Leawo free-screen-recorder](https://ja.leawo.com/free-screen-recorder/)：免费录像软件，支持 4K，无时长限制，无水印。
+* :white_check_mark: [Leawo free-screen-recorder](https://ja.leawo.com/free-screen-recorder/)：免费录像软件，支持 4K，无时长限制，无水印
 
 ### 2025 年 10 月 28 号添加
 #### LinightX(苏州)
