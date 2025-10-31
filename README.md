@@ -22,14 +22,14 @@
 
 ### 2025 年 10 月 31 号添加
 #### dodid
-* :white_check_mark: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777): Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
+* :white_check_mark: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777)：Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
 
 ### 2025 年 10 月 30 号添加
 #### zxcHolmes
-* :white_check_mark: [FilingInsight](https://filing-insight.com/): 快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
+* :white_check_mark: [FilingInsight](https://filing-insight.com/)：快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
 
 #### KryoWang（广州）- [Github](https://github.com/wangxiaosu)
-* :white_check_mark: [image-to-sketch](https://www.imagetosketch.app/): 图片转素描 AI 小工具
+* :white_check_mark: [image-to-sketch](https://www.imagetosketch.app/)：图片转素描 AI 小工具
 
 #### SparkHo(广州) 
 * :white_check_mark: [媒发](https://mediaput.cn/?utm_source=1c7)：内容分发工具，将内容发布/同步到各个媒体平台，只需 1 分钟
