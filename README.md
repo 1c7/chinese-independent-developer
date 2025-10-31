@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 10 月 31 号添加
+#### dodid
+* :white_check_mark: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777): Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
+
 ### 2025 年 10 月 30 号添加
 #### zxcHolmes
 * :white_check_mark: [FilingInsight](https://filing-insight.com/): 快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
