@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 1 号添加
+#### Yif(上海)
+* :white_check_mark: [Magic Animal Generator](https://animalgenerator.net/)：尽情发挥你的想象力 用 AI 混合两种动物，创造前所未见的新物种
+
 ### 2025 年 10 月 31 号添加
 #### dodid
 * :white_check_mark: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777)：Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
