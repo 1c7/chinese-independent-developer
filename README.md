@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 2 号添加
+#### LexTang(上海) - [Github](https://github.com/lexrus)
+* :white_check_mark: [SwiftyMenu](https://apps.apple.com/app/swiftymenu/id1567748223)：Finder 扩展自定义菜单，脚本执行、快速打开各种命令行工具。
+* :white_check_mark: [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814)：快捷键开关 Mac 蓝牙设备，脚本触发，低电量提醒。
+* :white_check_mark: [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762)：为 Mac 提供 command+x, command+v 剪切文件的功能。
+* :white_check_mark: [LiveExtractor](https://apps.apple.com/app/liveextractor/id6746672642)：导出实况照片里的照片和视频的小工具。
+* :white_check_mark: [RegEx+](https://apps.apple.com/app/regex/id1511763524)：调试正则表达试的 app。
+
 ### 2025 年 11 月 1 号添加
 #### Yif(上海)
 * :white_check_mark: [Magic Animal Generator](https://animalgenerator.net/)：尽情发挥你的想象力 用 AI 混合两种动物，创造前所未见的新物种
