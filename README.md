@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 2 号添加
+#### Lee - [GitHub](https://github.com/lkunxyz)
+* :white_check_mark: [Seedream Image Generator](https://seedreamimage.com/)：Seedream 图片生成
+
 #### LexTang(上海) - [Github](https://github.com/lexrus)
 * :white_check_mark: [SwiftyMenu](https://apps.apple.com/app/swiftymenu/id1567748223)：Finder 扩展自定义菜单，脚本执行、快速打开各种命令行工具。
 * :white_check_mark: [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814)：快捷键开关 Mac 蓝牙设备，脚本触发，低电量提醒。
