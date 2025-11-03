@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 3 号添加
+#### Ricky Lee(深圳) 
+* :white_check_mark: [KidsBedroomIdeas](https://kidsbedroomideas.org/)：AI 驱动的儿童房设计工具，根据孩子的年龄、兴趣和喜好颜色，即时生成个性化创意儿童房设计
+
 ### 2025 年 11 月 2 号添加
 #### Lee - [GitHub](https://github.com/lkunxyz)
 * :white_check_mark: [Seedream Image Generator](https://seedreamimage.com/)：Seedream 图片生成
