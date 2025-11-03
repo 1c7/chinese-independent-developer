@@ -24,6 +24,9 @@
 #### Ricky Lee(深圳) 
 * :white_check_mark: [KidsBedroomIdeas](https://kidsbedroomideas.org/)：AI 驱动的儿童房设计工具，根据孩子的年龄、兴趣和喜好颜色，即时生成个性化创意儿童房设计
 
+#### Scarlett Won(杭州)
+* :white_check_mark: [Flow Fiction](https://www.flowfiction.com/)：故事生成器，选定分类、标签和篇幅，跟 AI 协同生成属于自己的故事作品
+
 ### 2025 年 11 月 2 号添加
 #### Lee - [GitHub](https://github.com/lkunxyz)
 * :white_check_mark: [Seedream Image Generator](https://seedreamimage.com/)：Seedream 图片生成
