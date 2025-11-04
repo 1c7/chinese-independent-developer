@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 4 号添加
+#### Roger Zhang (上海)
+* :white_check_mark: [StreamWindow](https://apps.apple.com/cn/app/streamwindow/id6752313155?mt=12) : macOS 平台全新设计的3D窗口管理应用，基于轻量级3D办公理念，直观，所见即所得，拥有更漂亮、更炫酷的界面，丰富可玩性，增加乐趣。
+
+#### 出逃向量（杭州）
+* :white_check_mark: [厕所淘金](https://github.com/user-attachments/assets/c9dc2625-202b-4bb6-96af-7ed4e5d4c23c)：带薪拉屎计薪器，记录你每一次拉屎摸鱼所得报酬，可视化每一次拉屎的价值 - [更多介绍](https://apps.apple.com/cn/app/toilet-pay/id6752701889)
+
 ### 2025 年 11 月 3 号添加
 #### Ricky Lee(深圳) 
 * :white_check_mark: [KidsBedroomIdeas](https://kidsbedroomideas.org/)：AI 驱动的儿童房设计工具，根据孩子的年龄、兴趣和喜好颜色，即时生成个性化创意儿童房设计
