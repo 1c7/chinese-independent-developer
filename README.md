@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+
+### 2025 年 11 月 5 号添加
+#### 翟应康(深圳)
+* :graffiti-generator: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：在线创建自定义涂鸦艺术(免费，不限次数)
+
 ### 2025 年 11 月 4 号添加
 #### ljxyaly(深圳)
 * :white_check_mark: [Rednote Video Download](https://www.rednote-video-download.com)：Rednote (小红书) 视频、图片去水印下载（免费、不限次数）
