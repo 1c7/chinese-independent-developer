@@ -23,16 +23,16 @@
 
 ### 2025 年 11 月 5 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Telegram AI助手](https://t.me/iMessageAI_bot)：Telegram ChatGPT 机器人(完全免费、没有广告)，GPT-4o-mini模型，支持图片识别，在Telegram中给 @iMessageAI_bot 发消息即可使用。
+* :white_check_mark: [Telegram AI助手](https://t.me/iMessageAI_bot)：Telegram ChatGPT 机器人(完全免费、没有广告)，GPT-4o-mini 模型，支持图片识别，在 Telegram 中给 @iMessageAI_bot 发消息即可使用。
 
 #### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
-* :white_check_mark: [Syncvoice](https://www.syncvoice.ai/)：超逼真的声音克隆，文本转语音，支持8种语言，不同语言转语音保留克隆声音的独特音色
+* :white_check_mark: [Syncvoice](https://www.syncvoice.ai/)：声音克隆(超逼真)，文本转语音，支持 8 种语言，不同语言转语音保留克隆声音的独特音色
 
 #### xxk1323
 * :white_check_mark: [ai image combine](https://aiimagecombine.com/) : AI 图像站，预设了一些场景的 prompt ，不用编写复杂的 prompt 直接使用。
 
 #### 翟应康(深圳)
-* :white_check_mark: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：在线创建自定义涂鸦艺术(免费，不限次数)
+* :white_check_mark: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：自定义涂鸦艺术(免费，不限次数)
 
 ### 2025 年 11 月 4 号添加
 #### ljxyaly(深圳)
