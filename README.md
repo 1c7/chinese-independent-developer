@@ -20,6 +20,21 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 8 号添加
+#### Ri-vai - [Github](https://github.com/Ri-vai)
+* :white_check_mark: [ai world generator](https://aiworldgenerator.com/)：用文本和照片生成自然风光视频的 AI 工具网站
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [novavideo.ai](https://novavideo.ai/):使用领先的图片转视频 AI 模型和热门视频特效模板，将照片转化为视频
+
+#### ncgg-cyber - [Github](https://github.com/ncgg-cyber)
+* :white_check_mark: [gempix-2](https://gempix-2.org/)：收录最新的 gempix-2 模型新闻，并第一时间提供 gempix-2（nano banana2) 模型体验
+
+#### zhang xinke - [Github](https://github.com/zxk1323)
+* :white_check_mark: [photo to prompt](https://phototoprompt.org/)：将图片转化为提示词，以及图像生成
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [TAO tracker](https://taotracker.org)：TAO 子网交易监控与快捷导航工具
 
 ### 2025 年 11 月 5 号添加
 #### yvonuk - [推特](https://x.com/mcwangcn)
