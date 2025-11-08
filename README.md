@@ -25,7 +25,7 @@
 * :white_check_mark: [ai world generator](https://aiworldgenerator.com/)：用文本和照片生成自然风光视频的 AI 工具网站
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [novavideo.ai](https://novavideo.ai/):使用领先的图片转视频 AI 模型和热门视频特效模板，将照片转化为视频
+* :white_check_mark: [novavideo.ai](https://novavideo.ai/)：使用领先的图片转视频 AI 模型和热门视频特效模板，将照片转化为视频
 
 #### ncgg-cyber - [Github](https://github.com/ncgg-cyber)
 * :white_check_mark: [gempix-2](https://gempix-2.org/)：收录最新的 gempix-2 模型新闻，并第一时间提供 gempix-2（nano banana2) 模型体验
@@ -44,7 +44,7 @@
 * :white_check_mark: [Syncvoice](https://www.syncvoice.ai/)：声音克隆(超逼真)，文本转语音，支持 8 种语言，不同语言转语音保留克隆声音的独特音色
 
 #### xxk1323
-* :white_check_mark: [ai image combine](https://aiimagecombine.com/) : AI 图像站，预设了一些场景的 prompt ，不用编写复杂的 prompt 直接使用。
+* :white_check_mark: [ai image combine](https://aiimagecombine.com/) : AI 图像站，预设了一些场景的 prompt ，不用编写复杂的 prompt 直接使用
 
 #### 翟应康(深圳)
 * :white_check_mark: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：自定义涂鸦艺术(免费，不限次数)
