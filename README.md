@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 10 号添加
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [musci](https://musci.io)：一站式 music 生成平台 
+
+#### randompaga - [Github](https://github.com/randompaga)
+* :white_check_mark: [Sora 2](https://forvideo.ai/sora2)：For Video AI 一站式视频生成平台，使用Sora 2、Sora 2 Pro、Sora 2 Storyboard、Veo 3.1、Veo 3、Wan 2.5、Wan 2.2、Kling AI、Hailuo AI、Midjourney Video创建带音频的视频。
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nanobana.net](https://github.com/1c7/chinese-independent-developer/issues/url)：一站式 AI 图像、视频生成平台网站，集合了目前世界最先进的模型，如：Nano banana、sora2 等
+
 ### 2025 年 11 月 8 号添加
 #### Ri-vai - [Github](https://github.com/Ri-vai)
 * :white_check_mark: [ai world generator](https://aiworldgenerator.com/)：用文本和照片生成自然风光视频的 AI 工具网站
