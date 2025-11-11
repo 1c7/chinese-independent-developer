@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 11 号添加
+#### monsoonw(杭州) 
+* :white_check_mark: [Nano Banana 2](https://nanobanana-2.net)：收录最新的 Nano Banana 2 模型推特，油管资讯，并第一时间提供 nano banana 2 模型体验
+
 ### 2025 年 11 月 10 号添加
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
 * :white_check_mark: [musci](https://musci.io)：一站式 music 生成平台 
