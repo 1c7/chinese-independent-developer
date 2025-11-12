@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 12 号添加
+#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
+* :white_check_mark: [Reze-Engine](https://reze.one)： 原生 WebGPU 实现的动画 MMD 人物渲染引擎，除物理引擎外没有第三方库 - [Github](https://github.com/AmyangXYZ/reze-engine)
+
+####  h3(广州) 
+* :white_check_mark: [AI 图像站](https://www.gempix2.org)：用 nanobanana 模型的生成&编辑网站
+
 ### 2025 年 11 月 11 号添加
 #### monsoonw(杭州) 
 * :white_check_mark: [Nano Banana 2](https://nanobanana-2.net)：收录最新的 Nano Banana 2 模型推特，油管资讯，并第一时间提供 nano banana 2 模型体验
