@@ -21,10 +21,10 @@
 ## 3. 项目列表
 ### 2025 年 11 月 13 号添加
 #### 老木棍(上海) - [Github](https://github.com/buhuijiaojiao/jianxiaopai)
-:white_check_mark: [简小派](https://jianlipai.com/)：求职助手平台（AI 驱动），通过智能简历生成、岗位匹配、面试模拟、薪资分析和自动投递，帮助求职者系统性提升、全流程加速拿 offer - [更多介绍](https://docs.jianlipai.com/)
+- :white_check_mark: [简小派](https://jianlipai.com/)：求职助手平台（AI 驱动），通过智能简历生成、岗位匹配、面试模拟、薪资分析和自动投递，帮助求职者系统性提升、全流程加速拿 offer - [更多介绍](https://docs.jianlipai.com/)
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
-:white_check_mark: [YTB Download](https://ytbdd.cc/)：YouTube下载工具（Windows平台，免费无广告），支持下载 4K 视频、音频提取和字幕保存 
+- :white_check_mark: [YTB Download](https://ytbdd.cc/)：YouTube 下载工具（Windows平台，免费无广告），支持下载 4K 视频、音频提取和字幕保存 
 
 #### amierhan - [Github](https://github.com/amierhan)
 * :white_check_mark: [sara2.io](https://www.sara2.io) ：AI 图像、视频一站式生成平台，内置Nano Banana、sora2 等优秀大模型。高效实现您的创意、告别多平台切换
