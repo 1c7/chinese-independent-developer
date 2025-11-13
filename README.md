@@ -29,6 +29,9 @@
 #### amierhan - [Github](https://github.com/amierhan)
 * :white_check_mark: [sara2.io](https://www.sara2.io) ：AI 图像、视频一站式生成平台，内置Nano Banana、sora2 等优秀大模型。高效实现您的创意、告别多平台切换
 
+#### House(珠海) [github](https://github.com/wosuxiongmao)
+* :white_check_mark:  [ShotAI](https://shotai.org)：一键生成多个 AI 模型的图片，方便对比效果
+
 #### JohnnyXu(襄阳) - [Github](https://github.com/qwe00921)
 * :white_check_mark: [AI 图片转视频站](https://photoanimate.net/)：用图片生成视频的网站, 包括各种模板, 最新的视频模型, 后面还会加入多图片生成长视频功能
 
