@@ -19,7 +19,17 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
 ### 2025 年 11 月 13 号添加
+#### biboom(广州) 
+* :white_check_mark: [在线图片处理工具](https://imageonline.online/zh)：在线图片像素化工具(免费)，提供智能图片切割等功能
+
+#### zhang xinke - [Github](https://github.com/zxk1323)
+- :white_check_mark: [fanfic generator](https://fanficgenerator.com/)：AI 同人小说创作工具
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+- :white_check_mark: [sora2](https://sora2videogenerator.com/)：sora2 视频生成工具，支持 story board
+
 #### 老木棍(上海) - [Github](https://github.com/buhuijiaojiao/jianxiaopai)
 - :white_check_mark: [简小派](https://jianlipai.com/)：求职助手平台（AI 驱动），通过智能简历生成、岗位匹配、面试模拟、薪资分析和自动投递，帮助求职者系统性提升、全流程加速拿 offer - [更多介绍](https://docs.jianlipai.com/)
 
