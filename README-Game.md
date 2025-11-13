@@ -2,10 +2,14 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+
+### 2025 年 11 月 13 号添加
+#### zhang xinke - [Github](https://github.com/zxk1323)
+* :white_check_mark: [loldle](https://loldle.lol/)：英雄联盟猜谜小游戏
+
 ### 2025 年 11 月 5 号添加
 #### shuiwuhen - [Github](https://github.com/290713469)
 * :white_check_mark: [Dispatch Calculator](https://dispatchcalculator.com)：Steam 上 Dispatch 这个游戏的计算器助手，帮助玩家针对不同任务进行分配人员信息。
-
 
 ### 2025 年 10 月 30 号添加
 #### dvyutou - [Github](https://github.com/dvyutou)
