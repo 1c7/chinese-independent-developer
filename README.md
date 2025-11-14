@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 14 号添加
+#### zpng(北京) - [Github](https://github.com/zpng)
+* :white_check_mark: [MakeManga](https://www.makemanga.ai/)：AI 生成漫画，支持 Nano Banana 和 Seedream 4.0 模型，只需提供故事，剩下的分镜和角色生成等都交给 AI
+
 ### 2025 年 11 月 13 号添加
 #### biboom(广州) 
 * :white_check_mark: [在线图片处理工具](https://imageonline.online/zh)：在线图片像素化工具(免费)，提供智能图片切割等功能
