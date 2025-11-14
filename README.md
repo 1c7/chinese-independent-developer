@@ -22,14 +22,14 @@
 
 ### 2025 年 11 月 14 号添加
 #### xiaoxiao(南昌)
-* :white_check_mark: [小故事铺](https://storynook.cn/)：专为儿童及家庭设计的故事平台，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)
+* :white_check_mark: [小故事铺](https://storynook.cn/)：故事平台，专为儿童及家庭设计，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)
 
 #### zpng(北京) - [Github](https://github.com/zpng)
 * :white_check_mark: [MakeManga](https://www.makemanga.ai/)：AI 生成漫画，支持 Nano Banana 和 Seedream 4.0 模型，只需提供故事，剩下的分镜和角色生成等都交给 AI
 
 ### 2025 年 11 月 13 号添加
 #### biboom(广州) 
-* :white_check_mark: [在线图片处理工具](https://imageonline.online/zh)：在线图片像素化工具(免费)，提供智能图片切割等功能
+* :white_check_mark: [在线图片处理工具](https://imageonline.online/zh)：图片像素化工具(免费)，提供智能图片切割等功能
 
 #### zhang xinke - [Github](https://github.com/zxk1323)
 - :white_check_mark: [fanfic generator](https://fanficgenerator.com/)：AI 同人小说创作工具
