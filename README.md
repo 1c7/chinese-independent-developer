@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 14 号添加
+#### xiaoxiao(南昌)
+* :white_check_mark: [小故事铺](https://storynook.cn/)：专为儿童及家庭设计的故事平台，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)
+
 #### zpng(北京) - [Github](https://github.com/zpng)
 * :white_check_mark: [MakeManga](https://www.makemanga.ai/)：AI 生成漫画，支持 Nano Banana 和 Seedream 4.0 模型，只需提供故事，剩下的分镜和角色生成等都交给 AI
 
