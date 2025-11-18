@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 18 号添加
+#### basulee(上海) - [Github](https://github.com/BasuLee)
+* :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为gif图，可控制时间间隔及尺寸
+
 #### levan(深圳) - [Github](https://github.com/L-Evan)
 * :white_check_mark: [trygempix2.pro](https://trygempix2.pro)：gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
 * :white_check_mark: [veo-ai.cloud](https://veo-ai.cloud)：veo 视频站（Free）
