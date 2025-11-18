@@ -22,11 +22,10 @@
 
 ### 2025 年 11 月 18 号添加
 #### levan(深圳) - [Github](https://github.com/L-Evan)
-* :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
-* :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
-* :white_check_mark: [nokiasnakegame.org](https://nokiasnakegame.org)：贪吃蛇游戏站（Free）
 * :white_check_mark: [trygempix2.pro](https://trygempix2.pro)：gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
 * :white_check_mark: [veo-ai.cloud](https://veo-ai.cloud)：veo 视频站（Free）
+* :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
+* :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
 
 ### 2025 年 11 月 14 号添加
 #### xiaoxiao(南昌)
