@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 11 月 18 号添加
+#### levan(深圳) - [Github](https://github.com/L-Evan)
+* :white_check_mark: [nokiasnakegame.org](https://nokiasnakegame.org)：贪吃蛇游戏站（Free）
+
 ### 2025 年 11 月 17 号添加
 #### Chaowen(深圳) - [Github](https://github.com/tanchaowen84/ice-breaker-games)
 * :white_check_mark: [IceBreakerGames](https://icebreakergame.net)：破冰游戏转盘，帮你快速决定聚会选什么破冰游戏，并帮你快速了解和准备对应破冰游戏
