@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 18 号添加
+#### levan(深圳) - [Github](https://github.com/L-Evan)
+* :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
+* :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
+* :white_check_mark: [nokiasnakegame.org](https://nokiasnakegame.org)：贪吃蛇游戏站（Free）
+* :white_check_mark: [trygempix2.pro](https://trygempix2.pro)：gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
+* :white_check_mark: [veo-ai.cloud](https://veo-ai.cloud)：veo 视频站（Free）
+
 ### 2025 年 11 月 14 号添加
 #### xiaoxiao(南昌)
 * :white_check_mark: [小故事铺](https://storynook.cn/)：故事平台，专为儿童及家庭设计，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)
