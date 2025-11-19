@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 11 月 19 号添加
+#### 肥萝卜(南昌) - [网站](https://wheelpage.com/)
+* :white_check_mark: [Coin Flip](https://wheelpage.com/coin-flip/)：抛硬币 · 用最简单的方式做决定
+
 ### 2025 年 11 月 18 号添加
 #### levan(深圳) - [Github](https://github.com/L-Evan)
 * :white_check_mark: [nokiasnakegame.org](https://nokiasnakegame.org)：贪吃蛇游戏站（Free）
