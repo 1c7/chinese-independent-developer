@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 19 号添加
+#### Ronald
+* :white_check_mark: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，dns解析等功能的免费工具，支持 1000 + 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
+
 ### 2025 年 11 月 18 号添加
 #### basulee(上海) - [Github](https://github.com/BasuLee)
 * :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为gif图，可控制时间间隔及尺寸
