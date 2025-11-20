@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 19 号添加
+#### JL
+* :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
+
+### 2025 年 11 月 19 号添加
 #### Ronald
 * :white_check_mark: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，dns解析等功能的免费工具，支持 1000 + 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
 
