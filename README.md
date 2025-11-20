@@ -20,21 +20,21 @@
 
 ## 3. 项目列表
 
-### 2025 年 11 月 19 号添加
+### 2025 年 11 月 20 号添加
 #### JL
 * :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
 
 ### 2025 年 11 月 19 号添加
 #### Ronald
-* :white_check_mark: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，dns解析等功能的免费工具，支持 1000 + 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
+* :white_check_mark: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，DNS 解析等功能的免费工具，支持 1000+ 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
 
 ### 2025 年 11 月 18 号添加
 #### basulee(上海) - [Github](https://github.com/BasuLee)
-* :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为gif图，可控制时间间隔及尺寸
+* :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为 GIF 图，可控制时间间隔及尺寸
 
 #### levan(深圳) - [Github](https://github.com/L-Evan)
-* :white_check_mark: [trygempix2.pro](https://trygempix2.pro)：gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
-* :white_check_mark: [veo-ai.cloud](https://veo-ai.cloud)：veo 视频站（Free）
+* :white_check_mark: [trygempix2.pro](https://trygempix2.pro)：Gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
+* :white_check_mark: [veo-ai.cloud](https://veo-ai.cloud)：Veo 视频站（Free）
 * :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
 * :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
 
