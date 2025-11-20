@@ -21,6 +21,15 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 20 号添加
+#### zhugezifang
+* :white_check_mark: [公共网络记事本](https://share-text.org/)：在线网络记事本，支持创建，以及链接和二维码分享
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Word to Time Calculator](https://wordtotime.org)：根据稿子字数快速计算阅读，演讲，汇报时间的小工具
+
+#### Eminlin(厦门) - [Github](https://github.com/eminlin), [博客](https://www.eminlin.com)
+* :white_check_mark: [屿乐春城邮](https://www.springcitypost.cn)：真实信箱代理，轻松管理您的信件 - [更多介绍](https://www.springcitypost.cn/zh-CN/qna)
+
 #### JL
 * :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
 
