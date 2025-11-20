@@ -24,6 +24,10 @@
 #### JL
 * :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
 
+#### SoftRoyals
+* :white_check_mark: [可愛い絵文字と顔文字](https://kawaiiemoji.com/)： 可愛い絵文字と顔文字网站，精选的可爱表情符号和表情文字合集（如可愛い、キラキラ），用于SNS社交媒体和聊天消息。一键点击即可复制使用！
+* :white_check_mark: [Web Accessibility Pro](https://web-accessibility-pro.app/)： Web Accessibility Pro 提供强大的浏览器扩展程序，使网站对所有用户都更加易于访问，提升无障碍访问体验。
+
 ### 2025 年 11 月 19 号添加
 #### Ronald
 * :white_check_mark: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，DNS 解析等功能的免费工具，支持 1000+ 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
