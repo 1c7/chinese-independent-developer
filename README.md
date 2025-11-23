@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 23 号添加
+#### rosicky(杭州)
+* :white_check_mark: [Nano Banana Pro](https://nanobananapro.art/)：AI 图像生成和编辑工具，支持4k画质生成,集成多种图像风格模版.
+
 ### 2025 年 11 月 20 号添加
 #### zhugezifang
 * :white_check_mark: [公共网络记事本](https://share-text.org/)：在线网络记事本，支持创建，以及链接和二维码分享
