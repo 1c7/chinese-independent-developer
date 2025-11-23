@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 11 月 23 号添加
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://blogs.xujingyichang.top/)
+* :white_check_mark: [web-hooker](https://github.com/WtecHtec/web-hooker)：将网页变成可调用的 API
+
 ### 2025 年 11 月 3 号添加
 #### L1nSn0w(广州) - [Github](https://github.com/lin-snow)
 * :white_check_mark: [Ech0](https://github.com/lin-snow/Ech0)：新一代开源、自托管、专注思想流动的轻量级联邦发布平台，支持 ActivityPub 协议、PWA、CLI 管理与跨端适配 - [更多介绍](https://echo.soopy.cn)
