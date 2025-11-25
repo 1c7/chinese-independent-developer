@@ -20,6 +20,25 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 25 号添加
+#### fayecat - [Github](https://github.com/fayecat)
+* :white_check_mark: [Floaty](https://www.floatytool.com/)：让 macOS 任意窗口保持置顶的工具
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [banana-pro.com](https://banana-pro.com/)：Banana Pro AI图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能
+
+#### huashengjieguo
+* :white_check_mark: [免费在线硬件测试平台](https://volumeshader.org/zh)：GPU 测试，屏幕测试，FPS 测试，网络测试，摄像头检测，声音测试，鼠标测试，键盘测试
+
+#### flingyp(上海) - [Github](https://github.com/flingyp)
+* :white_check_mark: [今天记了么](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html)：日常记录打卡目标的微信小程序。用科学打卡，让自律变成简单的日常 
+
+#### lucen
+* :white_check_mark: [online-timer](https://icebreaker-games.org/online-timer)：在线会议计时器，让您的站会、研讨会和演讲保持高效，按时进行。
+
+#### SoftRoyals
+* :white_check_mark: [可愛い絵文字と顔文字](https://kawaiiemoji.com/)： 可愛い絵文字と顔文字网站，精选的可爱表情符号和表情文字合集，用于SNS社交媒体和聊天消息。
+
 ### 2025 年 11 月 23 号添加
 #### rosicky(杭州)
 * :white_check_mark: [Nano Banana Pro](https://nanobananapro.art/)：AI 图像生成和编辑工具，支持4k画质生成,集成多种图像风格模版.
