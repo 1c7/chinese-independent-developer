@@ -2,6 +2,13 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 11 月 26 号添加
+#### Light(上海) 
+* :white_check_mark: [Yes or No Wheel](https://yesornot.net/)：Spin the Yes or No Wheel - Get Your Free & Instant Decision - Struggling with a decision? Spin our free Yes or No Wheel for an instant, random answer! It's the simple, fun, and fast way to eliminate hesitation.
+
+#### Carys - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [IdleOn Online](https://idleon.online/)：免费在线放置类 MMO RPG 游戏，打造角色、击败怪物，离线也能持续进展 - [更多介绍](https://idleon.online/)
+
 ### 2025 年 11 月 19 号添加
 #### 肥萝卜(南昌) - [网站](https://wheelpage.com/)
 * :white_check_mark: [Coin Flip](https://wheelpage.com/coin-flip/)：抛硬币 · 用最简单的方式做决定
