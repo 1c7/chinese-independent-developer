@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 11 月 26 号添加
+#### Light
+* :white_check_mark: [Vintage Paper Texture Generator](https://papertexture.io/)：Vintage Paper Generator | HD Kraft & Aged Textures
+
+#### Carys - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [Banana Editor](https://bananaeditor.art)：基于 Gemini 3.0 Pro 的免费AI图片编辑器，支持精确修图、背景替换、服装更换等功能，提供3个免费积分+每日签到可获100+积分
+
 #### klemperer - [Github](https://github.com/klemperer/binglish)
 * :white_check_mark: [Binglish- AI桌面英语](https://github.com/klemperer/binglish)：自动更换必应 Bing 每日壁纸，顺便学个单词（AI 生成相关解释、相关好句、语音说明等）。 点亮屏幕，欣赏美景，邂逅知识，聚沙成塔。
 
