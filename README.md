@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 26 号添加
+#### klemperer - [Github](https://github.com/klemperer/binglish)
+* :white_check_mark: [Binglish- AI桌面英语](https://github.com/klemperer/binglish)：自动更换必应 Bing 每日壁纸，顺便学个单词（AI 生成相关解释、相关好句、语音说明等）。 点亮屏幕，欣赏美景，邂逅知识，聚沙成塔。
+
 ### 2025 年 11 月 25 号添加
 #### fayecat - [Github](https://github.com/fayecat)
 * :white_check_mark: [Floaty](https://www.floatytool.com/)：让 macOS 任意窗口保持置顶的工具
