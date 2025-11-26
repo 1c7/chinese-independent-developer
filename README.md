@@ -25,7 +25,7 @@
 * :white_check_mark: [Vintage Paper Texture Generator](https://papertexture.io/)：Vintage Paper Generator | HD Kraft & Aged Textures
 
 #### Carys - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [Banana Editor](https://bananaeditor.art)：基于 Gemini 3.0 Pro 的免费AI图片编辑器，支持精确修图、背景替换、服装更换等功能，提供3个免费积分+每日签到可获100+积分
+* :white_check_mark: [Banana Editor](https://bananaeditor.art)：基于 Gemini 3.0 Pro 的免费 AI 图片编辑器，支持精确修图、背景替换、服装更换等功能，提供 3 个免费积分 + 每日签到可获 100+ 积分
 
 #### klemperer - [Github](https://github.com/klemperer/binglish)
 * :white_check_mark: [Binglish- AI桌面英语](https://github.com/klemperer/binglish)：自动更换必应 Bing 每日壁纸，顺便学个单词（AI 生成相关解释、相关好句、语音说明等）。 点亮屏幕，欣赏美景，邂逅知识，聚沙成塔。
@@ -35,7 +35,7 @@
 * :white_check_mark: [Floaty](https://www.floatytool.com/)：让 macOS 任意窗口保持置顶的工具
 
 #### amierhan - [Github](https://github.com/amierhan)
-* :white_check_mark: [banana-pro.com](https://banana-pro.com/)：Banana Pro AI图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能
+* :white_check_mark: [banana-pro.com](https://banana-pro.com/)：Banana Pro AI 图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 Sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能
 
 #### huashengjieguo
 * :white_check_mark: [免费在线硬件测试平台](https://volumeshader.org/zh)：GPU 测试，屏幕测试，FPS 测试，网络测试，摄像头检测，声音测试，鼠标测试，键盘测试
