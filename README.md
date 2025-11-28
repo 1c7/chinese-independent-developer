@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2025 年 11 月 28 号添加
+#### Rico(重庆) - [Github](https://github.com/rico-c)
+* :white_check_mark: [Voyagard](https://voyagard.com)：AI 学术论文编辑器，有 AI 编辑，一键查重降重，AI推荐文献索引等功能， 帮助你完成从选题调研，文献索引并管理， AI协助撰写等功能，帮助你轻松完成论文撰写
+* :white_check_mark: [优秀同传](https://interpreter.youshowedu.com)：同声传译 APP，支持 21 国语言的实时语音翻译，同时也支持语音实时朗读， 支持AI面向音频总结思维导图并AI对话， 随时回看历史记录， 支持 iOS 安卓 Web 端， 是行业领先精准度的同声传译 APP
+
+#### Lee - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [ltx2](https://ltx2.video)：基于 ltx2 模型的视频生成，支持最长 20 秒视频
+
+#### ghost-him(青岛) - [Github](https://github.com/ghost-him), [博客](https://www.ghost-him.com)
+* :white_check_mark: [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)：Windows 智能启动器。极速、隐私优先，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达 - [更多介绍](https://zerolaunch.ghost-him.com)
+
 ### 2025 年 11 月 26 号添加
 #### Light
 * :white_check_mark: [Vintage Paper Texture Generator](https://papertexture.io/)：Vintage Paper Generator | HD Kraft & Aged Textures
