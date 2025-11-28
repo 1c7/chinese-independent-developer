@@ -1220,7 +1220,7 @@
 
 ### 2025 年 5 月 24 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [TradeSignal](https://tradersignal.org/)：整合多维度市场数据，提供专业的投资分析工具
+- :white_check_mark: [TradeSignal](https://github.com/yzqzy/trade-signal-docs)：整合多维度市场数据，提供专业的投资分析工具
 
 ### 2025 年 5 月 22 号添加
 #### Sawana Huang
@@ -2008,10 +2008,6 @@
 ### 2024 年 10 月 9 号添加
 #### huiwan-code - [Github](https://github.com/huiwan-code)
 - :white_check_mark: [EzyGraph](https://www.ezygraph.com)：用 AI 将博客内容转化为信息图。提升内容的可读性和互动性，使复杂的内容变得简单直观。通过丰富的模板和便捷的编辑器，用户可以轻松创建吸引眼球的视觉内容，适合用于社交媒体、营销推广和品牌宣传
-
-### 2024 年 10 月 8 号添加
-#### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [微信助手 Pro](https://wxbot.dev/)：帮助你轻松管理微信，让你更专注于工作 - [查看更多](https://wxbot.dev/docs/intro)
 
 #### Kevin（长沙）
 - :white_check_mark: [海投简历](https://mengsi.online)：一键海投简历的工具，提升找工作的效率，节省心智负担
