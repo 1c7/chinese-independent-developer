@@ -23,8 +23,8 @@
 
 ### 2025 年 11 月 29 号添加
 #### cg33(广州) - [Github](https://github.com/chenhg5)
-* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：现代好看的拥有多种主题模板的 mermaid 代码编辑生成器，帮你做更好看的文档
-* :white_check_mark: [Trendhub](https://github.com/gotoailab/trendhub)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰
+* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
+* :white_check_mark: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
 
 ### 2025 年 11 月 28 号添加
 #### Rico(重庆) - [Github](https://github.com/rico-c)
