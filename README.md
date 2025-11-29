@@ -22,6 +22,15 @@
 
 
 ### 2025 年 11 月 29 号添加
+#### lianhr12(深圳) - [Github](https://github.com/lianhr12)
+* :white_check_mark: [AppIconGenerator](https://appicongenerator.org/)：浏览器端 AI 驱动的应用图标生成器，隐私优先，支持 iOS/Android/Chrome Store 资源一键生成 - [更多介绍](https://appicongenerator.org/)
+
+#### pekingzcc(北京) - [Github](https://github.com/zhangchenchen)
+* :white_check_mark: [sora2 api](https://www.sora2api.org/)： Sora2Api 通过统一 API 实现无水印的 Sora2视频生成, 低至 $0.1/ video
+
+#### Chaowen(深圳) - [Github](https://github.com/tanchaowen84)
+* :white_check_mark: [VeriIA | Detector de ia](https://detectordeia.pro)：面向西语世界的 AI 检测和抄袭检测工具，支持西班牙语和英语文本的 AI 使用率评估与句子级高亮标注，帮助在「使用 AI」与「保持原创与透明」之间找到平衡。
+
 #### cg33(广州) - [Github](https://github.com/chenhg5)
 * :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
 * :white_check_mark: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
