@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+
+### 2025 年 11 月 29 号添加
+#### cg33(广州) - [Github](https://github.com/chenhg5)
+* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：现代好看的拥有多种主题模板的 mermaid 代码编辑生成器，帮你做更好看的文档
+* :white_check_mark: [Trendhub](https://github.com/gotoailab/trendhub)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰
+
 ### 2025 年 11 月 28 号添加
 #### Rico(重庆) - [Github](https://github.com/rico-c)
 * :white_check_mark: [Voyagard](https://voyagard.com)：AI 学术论文编辑器，有 AI 编辑，一键查重降重，AI推荐文献索引等功能， 帮助你完成从选题调研，文献索引并管理， AI协助撰写等功能，帮助你轻松完成论文撰写
