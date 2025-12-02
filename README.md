@@ -20,6 +20,28 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 2 号添加
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [E-ink](https://e-ink.me/zh)：网页转电子书工具的平台（免费），支持将网页快速转换为多种电子书格式并在线阅读与编辑
+
+#### 星舟(深圳) - [Github](https://github.com/lzzzzl)
+* :white_check_mark: [ShowMeBestAI](https://showmebest.ai/)：最全面的 AI 工具目录，包含 3632+ 个 AI 工具。为您的业务、创意和生产力需求找到完美的 AI 工具
+* :white_check_mark: [DeepSong AI](https://deepsong.ai/)：AI 生成音乐和歌曲，原创且免版税
+
+### 2025 年 11 月 29 号添加
+#### lianhr12(深圳) - [Github](https://github.com/lianhr12)
+* :white_check_mark: [AppIconGenerator](https://appicongenerator.org/)：浏览器端 AI 驱动的应用图标生成器，隐私优先，支持 iOS/Android/Chrome Store 资源一键生成 - [更多介绍](https://appicongenerator.org/)
+
+#### pekingzcc(北京) - [Github](https://github.com/zhangchenchen)
+* :white_check_mark: [sora2 api](https://www.sora2api.org/)： Sora2Api 通过统一 API 实现无水印的 Sora2视频生成, 低至 $0.1/ video
+
+#### Chaowen(深圳) - [Github](https://github.com/tanchaowen84)
+* :white_check_mark: [VeriIA | Detector de ia](https://detectordeia.pro)：面向西语世界的 AI 检测和抄袭检测工具，支持西班牙语和英语文本的 AI 使用率评估与句子级高亮标注，帮助在「使用 AI」与「保持原创与透明」之间找到平衡。
+
+#### cg33(广州) - [Github](https://github.com/chenhg5)
+* :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
+* :white_check_mark: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
+
 ### 2025 年 11 月 28 号添加
 #### Rico(重庆) - [Github](https://github.com/rico-c)
 * :white_check_mark: [Voyagard](https://voyagard.com)：AI 学术论文编辑器，有 AI 编辑，一键查重降重，AI推荐文献索引等功能， 帮助你完成从选题调研，文献索引并管理， AI协助撰写等功能，帮助你轻松完成论文撰写
