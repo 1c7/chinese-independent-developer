@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 12 月 2 号添加
+#### phishdestroy - [GitHub](https://github.com/phishdestroy)
+* :white_check_mark: [Destroylist](https://github.com/phishdestroy/destroylist)：Auto-updating phishing blacklist for threat intelligence
+
 ### 2025 年 11 月 23 号添加
 #### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://blogs.xujingyichang.top/)
 * :white_check_mark: [web-hooker](https://github.com/WtecHtec/web-hooker)：将网页变成可调用的 API
