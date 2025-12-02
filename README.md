@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 2 号添加
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [E-ink](https://e-ink.me/zh)：网页转电子书工具的平台（免费），支持将网页快速转换为多种电子书格式并在线阅读与编辑
+
 #### 星舟(深圳) - [Github](https://github.com/lzzzzl)
 * :white_check_mark: [ShowMeBestAI](https://showmebest.ai/)：最全面的 AI 工具目录，包含 3632+ 个 AI 工具。为您的业务、创意和生产力需求找到完美的 AI 工具
 * :white_check_mark: [DeepSong AI](https://deepsong.ai/)：AI 生成音乐和歌曲，原创且免版税
