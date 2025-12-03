@@ -22,7 +22,7 @@
 
 ### 2025 年 12 月 3 号添加
 #### wang1309(深圳) - [GIthub](https://github.com/wang1309)
-* :white_check_mark: [Story Generator](https://storiesgenerator.org/) 故事创作工具平台（免费），支持故事、标题、诗歌、情节生成和导出，支持用户创作概览、用户故事广场功能
+* :white_check_mark: [Story Generator](https://storiesgenerator.org/)：故事创作工具平台（免费），支持故事、标题、诗歌、情节生成和导出，支持用户创作概览、用户故事广场功能
  
 #### mingforpc(珠海) 
 * :white_check_mark: [PaperPrint](http://paperprint.officedocprint.com/)：打印纸模版网站（免费），支持多种打印纸模版并且支持在线调整、预览、导出图片和PDF
