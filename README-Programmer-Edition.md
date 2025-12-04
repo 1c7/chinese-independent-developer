@@ -16,6 +16,18 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2025 年 12 月 2 号添加
+#### phishdestroy - [GitHub](https://github.com/phishdestroy)
+* :white_check_mark: [Destroylist](https://github.com/phishdestroy/destroylist)：Auto-updating phishing blacklist for threat intelligence
+
+### 2025 年 11 月 23 号添加
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://blogs.xujingyichang.top/)
+* :white_check_mark: [web-hooker](https://github.com/WtecHtec/web-hooker)：将网页变成可调用的 API
+
+### 2025 年 11 月 3 号添加
+#### L1nSn0w(广州) - [Github](https://github.com/lin-snow)
+* :white_check_mark: [Ech0](https://github.com/lin-snow/Ech0)：新一代开源、自托管、专注思想流动的轻量级联邦发布平台，支持 ActivityPub 协议、PWA、CLI 管理与跨端适配 - [更多介绍](https://echo.soopy.cn)
+
 ### 2025 年 9 月 25 号添加
 #### KAY53N - [Github](https://github.com/KAY53N/rusty-req)
 * :white_check_mark: [Rusty-Req](https://github.com/KAY53N/rusty-req)：基于 Rust 和 Python 的高性能异步请求库，适用于需要高吞吐量并发 HTTP 请求的场景。核心并发逻辑使用 Rust 实现，并通过 PyO3 和 maturin 封装为 Python 模块，将 Rust 的性能优势与 Python 的易用性结合。

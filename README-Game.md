@@ -2,6 +2,56 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 11 月 26 号添加
+#### Light(上海) 
+* :white_check_mark: [Yes or No Wheel](https://yesornot.net/)：Spin the Yes or No Wheel - Get Your Free & Instant Decision - Struggling with a decision? Spin our free Yes or No Wheel for an instant, random answer! It's the simple, fun, and fast way to eliminate hesitation.
+
+#### Carys - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [IdleOn Online](https://idleon.online/)：免费在线放置类 MMO RPG 游戏，打造角色、击败怪物，离线也能持续进展 - [更多介绍](https://idleon.online/)
+
+### 2025 年 11 月 19 号添加
+#### 肥萝卜(南昌) - [网站](https://wheelpage.com/)
+* :white_check_mark: [Coin Flip](https://wheelpage.com/coin-flip/)：抛硬币 · 用最简单的方式做决定
+
+### 2025 年 11 月 18 号添加
+#### levan(深圳) - [Github](https://github.com/L-Evan)
+* :white_check_mark: [nokiasnakegame.org](https://nokiasnakegame.org)：贪吃蛇游戏站（Free）
+
+### 2025 年 11 月 17 号添加
+#### Chaowen(深圳) - [Github](https://github.com/tanchaowen84/ice-breaker-games)
+* :white_check_mark: [IceBreakerGames](https://icebreakergame.net)：破冰游戏转盘，帮你快速决定聚会选什么破冰游戏，并帮你快速了解和准备对应破冰游戏
+
+### 2025 年 11 月 13 号添加
+#### zhang xinke - [Github](https://github.com/zxk1323)
+* :white_check_mark: [loldle](https://loldle.lol/)：英雄联盟猜谜小游戏
+
+### 2025 年 11 月 5 号添加
+#### shuiwuhen - [Github](https://github.com/290713469)
+* :white_check_mark: [Dispatch Calculator](https://dispatchcalculator.com)：Steam 上 Dispatch 这个游戏的计算器助手，帮助玩家针对不同任务进行分配人员信息。
+
+### 2025 年 10 月 30 号添加
+#### dvyutou - [Github](https://github.com/dvyutou)
+* :white_check_mark: [Scritchy Scratchy](https://scritchyscratchy.org)：Free Online Scratch Card Game | Play Now
+* :white_check_mark: [Blue White Flag](https://bluewhiteflag.org)：Play Blue Flag White Flag Games Online Free
+
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Anime Last Stand Calculator](https://anime-last-stand.com)：Anime Last Stand 游戏计算器，帮助玩家快速做出组队策略。
+
+#### lucen
+* :white_check_mark: [Icebreaker Games](https://icebreaker-games.org/zh)：破冰游戏：搜索、筛选、按步骤直接开玩。
+
+### 2025 年 10 月 22 号添加
+#### 水无痕(杭州) 
+* :white_check_mark: [WaHaGameStore](https://wahagamestore.com)：在线 HTML 游戏，免登录、免下载
+
+### 2025 年 10 月 21 号添加
+#### James(guangzhou) - [Github](https://github.com/sky4366)
+* :white_check_mark: [Games Hub](https://www.mangofunplay.com/)：HTML5 游戏集合站点
+  
+### 2025 年 10 月 17 号添加
+#### Johnson(上海) - [Github](https://github.com/johnson-eddie)
+* :white_check_mark: [PVZ Fusion](https://pvzfusion.io/)：  植物大战僵尸的创新粉丝版本,引入革命性的植物融合系统,玩家可以组合经典植物创造强大的混合防御者,提供无限阳光资源和全新战略玩法
+
 ### 2025 年 9 月 7 号添加
 #### aiinlink
 * :white_check_mark: [多人聚会小游戏 bestpartygames](https://www.bestpartygames.net/)：多人聚会小游戏网站，可以玩谁是卧底，狼人杀，真心话大冒险等等游戏
