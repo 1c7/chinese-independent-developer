@@ -21,6 +21,21 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 4 号添加
+#### Williams
+* :white_check_mark: [AI Excel Translator](https://aiexceltranslator.com/)：批量翻译 Excel 或 CSV 文档，支持 100+ 语言。
+
+#### PlayerYK
+* :white_check_mark: [SongGuru.AI](https://songguru.ai/)：使用 AI 生成音乐、写歌词还可以分离音乐中的乐器和人声
+
+#### ExtsBox
+* :white_check_mark: [PromptGather](https://promptgather.io/)：手工挑选的上千条视频、图片提示词，全部免费查看。可以直接复制使用，也可以用 AI 微调，生成图片、视频。
+
+#### jzhone
+* :white_check_mark: [CheckAIBots](https://checkaibots.com)：CheckAIBots 能检测 40+ 个AI爬虫是否在爬你的网站，一键生成屏蔽代码（nginx/Apache/Cloudflare）并计算能省多少带宽费
+
+#### JL
+* :white_check_mark: [CSVtoAny](https://csvtoany.com/)：CSV 格式万能转换，CSV 格式转化一站式解决方案
+
 #### 超能刚哥 - [Github](https://github.com/margox)
 * :white_check_mark: [随身小记](https://smartnote.chat/)：随身记事AI助理，可记账、记事、记物，并以时间线形式展示；支持语音快速创建记录。
 
