@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 4 号添加
+#### 超能刚哥 - [GIthub](https://github.com/margox)
+* :white_check_mark: [随身小记](https://smartnote.chat/)：随身记事AI助理，可记账、记事、记物，并以时间线形式展示；支持语音快速创建记录。
+
 ### 2025 年 12 月 3 号添加
 #### wang1309(深圳) - [GIthub](https://github.com/wang1309)
 * :white_check_mark: [Story Generator](https://storiesgenerator.org/)：故事创作工具平台（免费），支持故事、标题、诗歌、情节生成和导出，支持用户创作概览、用户故事广场功能
