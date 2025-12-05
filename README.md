@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 6 号添加
+#### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
+* :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
+
 ### 2025 年 12 月 4 号添加
 #### Williams
 * :white_check_mark: [AI Excel Translator](https://aiexceltranslator.com/)：批量翻译 Excel 或 CSV 文档，支持 100+ 语言。
