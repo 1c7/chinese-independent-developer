@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 7 号添加
+#### Kai（深圳） – [Github](https://github.com/geekskai) [博客](https://geekskai.com/blog/)
+* :white_check_mark: [geekskai](https://geekskai.com/)专注于 AI 工具与在线小工具的网站，提供轻量、实用且高效的在线工具体验。上线第一年即轻松获得数百美金的被动收入，持续增长中 – [更多介绍](https://github.com/geekskai/blog)
+
 ### 2025 年 12 月 6 号添加
 #### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
 * :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
