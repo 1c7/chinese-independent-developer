@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 7 号添加
+#### ALioooon(南京)  
+* :white_check_mark: [Address Generator](https://addressgen.top)：随机地址生成工具（支持 40+ 国家/地区） — 随机生成结构化地址，适合测试／模拟注册／本地化展示
+
+#### mztkn(深圳) 
+* :white_check_mark: [云文档查找工具](https://www.cloudocs.top/)：分享云文档的平台。定位是纯粹的分享平台。除了直接使用网站，还可以打开微信小程序“云文档查找工具”，输入关键词，就能找到心仪的文档。内容平台丰富，涵盖飞书云文档、Notion、语雀、FlowUS、金山云文档、腾讯云文档等众多平台的公开云文档
+
 #### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
 * :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
   
