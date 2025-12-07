@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 7 号添加
+#### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
+* :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
+  
 ### 2025 年 12 月 6 号添加
 #### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
 * :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
