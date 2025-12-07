@@ -22,7 +22,7 @@
 
 ### 2025 年 12 月 7 号添加
 #### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
-* :white_check_mark: [red-note.top](https://www.red-note.top/zh/create)：基于人设，多个AI生成小红书笔记，助力自媒体IP搭建
+* :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
   
 ### 2025 年 12 月 6 号添加
 #### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
