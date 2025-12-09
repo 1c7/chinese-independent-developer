@@ -21,6 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 9 号添加
+#### pillow(重庆) 
+* :white_check_mark: [AI Voice Cloning](https://aivoicecloning.net)：AI 声音克隆
+
+#### BOS1980 - [GitHub](https://github.com/BOS1980)
+* :white_check_mark: [Humanizadordeia.app](https://humanizadordeia.app/)：将AI文本转化为自然人类写作。1）人性化处理，让 AI 文本更自然、更贴近人工写作与品牌口吻；2）检测服务，帮助识别潜在 AI 生成内容，提升合规与质量。支持多语种、极速处理、保留语义与风格。免注册体验 300 字，适合博主、营销团队、跨境站点、教育与企业内容运营。以先进模型（GPT、Claude、Gemini 等）驱动。
+
 #### DeadWave(北京) - [Github](https://github.com/DeadWaveWave)
 * :white_check_mark: [Demo2APK](https://demo2apk.lasuo.ai)：把 Gemini 做的 Demo 一键打包成APK - [项目开源地址](https://github.com/DeadWaveWave/demo2apk)
 
