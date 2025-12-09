@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 9 号添加
+#### DeadWave(北京) - [Github](https://github.com/DeadWaveWave)
+* :white_check_mark: [Demo2APK](https://demo2apk.lasuo.ai)：把 Gemini 做的 Demo 一键打包成APK - [项目开源地址](https://github.com/DeadWaveWave/demo2apk)
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [musci](https://musci.io/)：AI 音乐生成，支持多语言
+
+#### lkunxyz - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [videobackgroundremover](https://videobackgroundremover.io/)：视频去背景
+
 ### 2025 年 12 月 7 号添加
 #### ALioooon(南京)  
 * :white_check_mark: [Address Generator](https://addressgen.top)：随机地址生成工具（支持 40+ 国家/地区） — 随机生成结构化地址，适合测试／模拟注册／本地化展示
