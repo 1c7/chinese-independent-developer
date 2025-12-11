@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 11 号添加
+#### handsometong
+* :white_check_mark: [Future Me AI](https://futuremeai.app/)：专为儿童设计的 AI 职业肖像生成器。上传孩子照片，从 50+ 职业中选择，生成激发梦想的专业未来职业照片
+* :white_check_mark: [kirkify ai](https://kirkifyai.net/)：将任意人脸变成 Kirkify 梗图
+
+#### Leon(杭州) - [Github](https://github.com/fangweihao123)
+* :white_check_mark: [LearnFlux](https://www.learnflux.net)：AI 驱动的智能学习助手，为你生成个性化学习材料，让你以更少时间掌握更多知识。
+
 ### 2025 年 12 月 9 号添加
 #### pillow(重庆) 
 * :white_check_mark: [AI Voice Cloning](https://aivoicecloning.net)：AI 声音克隆
