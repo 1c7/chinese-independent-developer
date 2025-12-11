@@ -2,6 +2,9 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 12 月 11 号添加
+* :white_check_mark: [No Means Nothing Calculator](https://nomeansnothing.com)：Stream No Means Nothing 游戏工具网站
+
 ### 2025 年 12 月 9 号添加
 #### shuiwuhen - [Github](https://github.com/290713469)
 * :white_check_mark: [A.I.L.A Calculator](https://ailagame.com)：Stream A.I.L.A 游戏工具网站
