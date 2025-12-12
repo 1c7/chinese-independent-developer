@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 12 号添加
+#### Ri_vai(sz)
+* :white_check_mark: [Nano Banana Pro](https://applebanana.pro/)：AI 图片生成、图片编辑网站
+
 #### WtecHtec(s) - [Github](https://github.com/WtecHtec), [博客](https://wtechtec.com/)
 - :white_check_mark: [PassScan](https://xujingyichang.top/)：简历分析工具（AI驱动），支持人岗匹配、多维度人才画像分析
 
