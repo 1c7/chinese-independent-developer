@@ -20,6 +20,22 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 12 号添加
+#### WtecHtec(s) - [Github](https://github.com/WtecHtec), [博客](https://wtechtec.com/)
+:white_check_mark: [PassScan](https://xujingyichang.top/)：简历分析工具（AI驱动），支持人岗匹配、多维度人才画像分析
+
+#### xxk1323(郑州)
+* :white_check_mark: [ImagineGo](https://imaginego.ai)：视频和图像模型聚合站，目前上线 10+ 模型
+
+#### Wcowin(重庆) - [Github](https://github.com/Wcowin), [博客](https://wcowin.work/)
+* :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
+* 
+#### biboom(广州)
+* :white_check_mark: [transcriptinprogress](https://transcriptinprogress.online)：使用 YouTube 字幕生成器将影片转为文字。
+
 ### 2025 年 12 月 11 号添加
 #### handsometong
 * :white_check_mark: [Future Me AI](https://futuremeai.app/)：专为儿童设计的 AI 职业肖像生成器。上传孩子照片，从 50+ 职业中选择，生成激发梦想的专业未来职业照片
