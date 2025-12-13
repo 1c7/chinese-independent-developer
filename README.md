@@ -21,12 +21,12 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 13 号添加
-#### Ivanvolt(wh) - [我的博客](https://ivanvolt.com)
+#### Ivanvolt(wh) - [博客](https://ivanvolt.com)
 * :white_check_mark: [Aluo AI](https://aluo.ai)：AI 产品图生成与电商图片编辑工具
 * :white_check_mark: [AiDirs](https://aidirs.best)：探索并分享最佳人工智能工具
 
 #### Toby(南京)
-* :white_check_mark: [YoChanger](https://yochanger.com/)：AI换装，在线试衣间
+* :white_check_mark: [YoChanger](https://yochanger.com/)：AI 换装，在线试衣间
 
 ### 2025 年 12 月 12 号添加
 #### Ri_vai(sz)
