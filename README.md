@@ -28,7 +28,7 @@
 * :white_check_mark: [Flux 2 AI](https://flux-2-ai.com/)：AI 绘画工具（无需注册即可生成 2K-4K 高清图像），支持多模型切换，适合快速创意验证与设计
 
 #### seven(沈阳)
-* :white_check_mark: [online eye test](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查
+* :white_check_mark: [视力测试](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查
 
 ### 2025 年 12 月 13 号添加
 #### Ivanvolt(wh) - [博客](https://ivanvolt.com)
