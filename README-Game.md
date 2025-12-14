@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 12 月 14 号添加
+#### seven(沈阳)
+* :white_check_mark: [Pips game](https://pipsgame.dev/): 每日逻辑谜题，你通过纯推理放置多米诺骨牌——无需猜测（Pips Game is a daily logic puzzle where you place dominoes using pure deduction — no guessing）
+
 ### 2025 年 12 月 13 号添加
 * :white_check_mark: [Duck Duck Clicker](https://duckduckclicker.space/)：如果你喜欢轻松的点击游戏，你应该试试Duck Duck Clicker。你只需轻点一只可爱的大鸭子，就可以建立自己的鸭子帝国——超级上瘾，而且有趣得令人惊讶。
 
