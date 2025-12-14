@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 14 号添加
+#### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
+* :white_check_mark: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：专注于对话与情感支持的 AI 伴侣，提供自然流畅的聊天体验，适合缓解压力或日常陪伴
+* :white_check_mark: [Hailuo AI](https://www.hailuoai.work/)：无需剪辑软件，将创意快速转化为动画视频的 AI 内容生成工具，简化视频制作流程
+- :white_check_mark: [Nano Banana 2 AI](https://banananano2.ai/)：支持角色一致性保持与多步工作流，兼顾速度与质量的 AI 图像生成工具，适合快速产出专业视觉内容
+* :white_check_mark: [Flux 2 AI](https://flux-2-ai.com/)：无需注册即可生成 2K-4K 高清图像的 AI 绘画工具，支持多模型切换，适合快速创意验证与设计
+
+#### seven(沈阳)
+* :white_check_mark: [online eye test](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查。 lets you take free online vision tests — including visual acuity, color, contrast, and field screening — right in your browser.
+
 ### 2025 年 12 月 13 号添加
 #### Ivanvolt(wh) - [博客](https://ivanvolt.com)
 * :white_check_mark: [Aluo AI](https://aluo.ai)：AI 产品图生成与电商图片编辑工具
