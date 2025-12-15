@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 15 号添加
+#### coderlei - [Github](https://github.com/acmenlei)
+* :white_check_mark: [牛笔AI - 微信公众号排版工具_在线图文排版神器](https://niubi.codecvcv.com)：基于 Markdown 和所见即所得编辑模式，提供精美主题样式，一键美化公众号文章排版、导出图文卡片，只需要编写一份内容就可以得到文章内容和图文卡片，免费使用
+
 ### 2025 年 12 月 14 号添加
 #### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
 * :white_check_mark: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：AI 伴侣（专注于对话与情感支持），提供自然流畅的聊天体验，适合缓解压力或日常陪伴
