@@ -24,6 +24,20 @@
 #### coderlei - [Github](https://github.com/acmenlei)
 * :white_check_mark: [牛笔AI - 微信公众号排版工具_在线图文排版神器](https://niubi.codecvcv.com)：基于 Markdown 和所见即所得编辑模式，提供精美主题样式，一键美化公众号文章排版、导出图文卡片，只需要编写一份内容就可以得到文章内容和图文卡片，免费使用
 
+#### august - [github](https://github.com/august-xu)
+* :white_check_mark: [Dunk Calculator](https://www.dunkcalculator.online/)：Dunk Calculator - How High Do You Need to Jump to Dunk?
+* :white_check_mark: [Tbsp to Cups Converter](https://tbsptocups.com/)：Tablespoons to Cups Converter [Chart + Printable PDF]
+
+#### RickyLee 
+* :white_check_mark: [TankMate AI](https://tankmate.org/?utm_source=github)：即时查询您的鱼能否混养。TankMate AI 分析攻击性、pH 值和鱼缸尺寸，帮您规避混养风险
+
+#### AppScreenshots
+* :white_check_mark: [AppScreenshots](https://appscreenshots.net/)：为iOS、Android、Chrome、HarmonyOS等平台生成应用商店截图，支持3D设备展示和AI驱动的Mockup创建工具
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [极简AI生图](https://image.stockai.trade)：完全免费、免登录、无广告、无水印的AI生图网站
+
+
 ### 2025 年 12 月 14 号添加
 #### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
 * :white_check_mark: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：AI 伴侣（专注于对话与情感支持），提供自然流畅的聊天体验，适合缓解压力或日常陪伴
