@@ -29,13 +29,13 @@
 * :white_check_mark: [Tbsp to Cups Converter](https://tbsptocups.com/)：Tablespoons to Cups Converter [Chart + Printable PDF]
 
 #### RickyLee 
-* :white_check_mark: [TankMate AI](https://tankmate.org/?utm_source=github)：即时查询您的鱼能否混养。TankMate AI 分析攻击性、pH 值和鱼缸尺寸，帮您规避混养风险
+* :white_check_mark: [TankMate AI](https://tankmate.org/?utm_source=github)：查询鱼能否混养。分析攻击性、pH 值和鱼缸尺寸，帮您规避混养风险
 
 #### AppScreenshots
-* :white_check_mark: [AppScreenshots](https://appscreenshots.net/)：为iOS、Android、Chrome、HarmonyOS等平台生成应用商店截图，支持3D设备展示和AI驱动的Mockup创建工具
+* :white_check_mark: [AppScreenshots](https://appscreenshots.net/)：生成应用商店截图，支持 iOS、Android、Chrome、HarmonyOS 等平台，支持 3D 设备展示和 AI 驱动的 Mockup 创建工具
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [极简AI生图](https://image.stockai.trade)：完全免费、免登录、无广告、无水印的AI生图网站
+* :white_check_mark: [极简AI生图](https://image.stockai.trade)：AI 生图网站，完全免费、免登录、无广告、无水印
 
 
 ### 2025 年 12 月 14 号添加
