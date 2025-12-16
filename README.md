@@ -20,6 +20,16 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 16 号添加
+#### Nico - [Github](https://github.com/yijianbo)
+:white_check_mark: [News In Simple](https://newsinsimple.com/)：基于 AI 的英语学习新闻网站，提供初、中、高三级分级新闻及配套阅读、听力、词汇和测验素材
+
+#### Dakuai - [GitHub](https://github.com/YananLee?tab=repositories)
+* :white_check_mark: [Word Cloud Art](http://www.wordcloud.art/)：词云生成器，支持AI词生成2k+模版丰富的颜色搭配方案
+
+#### weiqingtangx - [GitHub](https://github.com/weiqingtangx)
+* :white_check_mark: [LRC Generator](https://www.quicklrc.com/): 生成 LRC、SRT、TTML、WEBVTT 和 ASS 等字幕格式的网站，支持行级和词级时间戳。生成的字幕文件可用于音乐播放器、视频编辑器和主流流媒体播放器
+
 ### 2025 年 12 月 15 号添加
 #### coderlei - [Github](https://github.com/acmenlei)
 * :white_check_mark: [牛笔AI - 微信公众号排版工具_在线图文排版神器](https://niubi.codecvcv.com)：基于 Markdown 和所见即所得编辑模式，提供精美主题样式，一键美化公众号文章排版、导出图文卡片，只需要编写一份内容就可以得到文章内容和图文卡片，免费使用
