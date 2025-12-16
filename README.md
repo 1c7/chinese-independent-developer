@@ -22,7 +22,7 @@
 
 ### 2025 年 12 月 16 号添加
 #### Nico - [Github](https://github.com/yijianbo)
-:white_check_mark: [News In Simple](https://newsinsimple.com/)：基于 AI 的英语学习新闻网站，提供初、中、高三级分级新闻及配套阅读、听力、词汇和测验素材
+* :white_check_mark: [News In Simple](https://newsinsimple.com/)：基于 AI 的英语学习新闻网站，提供初、中、高三级分级新闻及配套阅读、听力、词汇和测验素材
 
 #### Dakuai - [GitHub](https://github.com/YananLee?tab=repositories)
 * :white_check_mark: [Word Cloud Art](http://www.wordcloud.art/)：词云生成器，支持AI词生成2k+模版丰富的颜色搭配方案
