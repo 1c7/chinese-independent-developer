@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 16 号添加
+#### Brian Chan
+* :white_check_mark: [logo87.com](https://logo87.com)：几秒钟创建专业的 favicon
+
 #### Nico - [Github](https://github.com/yijianbo)
 * :white_check_mark: [News In Simple](https://newsinsimple.com/)：基于 AI 的英语学习新闻网站，提供初、中、高三级分级新闻及配套阅读、听力、词汇和测验素材
 
