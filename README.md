@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 18 号添加
+#### jonbrown66 - [Github](https://github.com/jonbrown66/bananacanvas-ai)
+* :white_check_mark: [BananaCanvas AI](https://bananacanvas-ai.vercel.app/)： 前沿的创意工作区，结合了基于对话的 AI 交互和无限画布，用于多模态内容创作。
+
 ### 2025 年 12 月 16 号添加
 #### Brian Chan
 * :white_check_mark: [logo87.com](https://logo87.com)：几秒钟创建专业的 favicon
