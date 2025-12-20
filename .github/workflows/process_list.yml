@@ -1,7 +1,7 @@
 name: 提交项目
 on:
-  # schedule:
-    # - cron: '0 */6 * * *' # 每 6 小时运行一次
+  schedule:
+    - cron: '0 16 * * *'  # 每天 UTC 16:00 运行（北京时间 00:00）
   workflow_dispatch:      # 支持手动触发
 
 jobs:

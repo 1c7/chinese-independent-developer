@@ -53,11 +53,13 @@ def main():
     g = Github(PAT_TOKEN)
     repo = g.get_repo(REPO_NAME)
     issue = repo.get_issue(ISSUE_NUMBER)
-    
+
     time_threshold = datetime.now(timezone.utc) - timedelta(days=3)
     comments = issue.get_comments(since=time_threshold)
 
-    processed_count = 0
+    # ===== 阶段 1：收集待处理评论 =====
+    pending_comments = []
+    formatted_entries = []
 
     for comment in comments:
         reactions = comment.get_reactions()
@@ -72,84 +74,108 @@ def main():
 
             cleaned_body = remove_quote_blocks(comment.body)
 
-            # --- 新逻辑：判断用户是否自带了 Header ---
-            # 匹配以 #### 开头的行
+            # 判断用户是否自带了 Header
             header_match = re.search(r'^####\s+.*', cleaned_body, re.MULTILINE)
-            
+
             if header_match:
-                # 1. 提取用户自己写的 Header
                 header_line = header_match.group(0).strip()
-                # 2. 从正文中移除这一行，避免干扰 AI
                 body_for_ai = cleaned_body.replace(header_line, "").strip()
                 print(f"检测到用户自带 Header: {header_line}")
             else:
-                # 1. 自动生成 Header
                 author_name = comment.user.login
                 author_url = comment.user.html_url
                 header_line = f"#### {author_name} - [Github]({author_url})"
                 body_for_ai = cleaned_body
                 print(f"自动生成 Header: {header_line}")
 
-            # 3. AI 仅处理项目详情行
+            # AI 处理项目详情行
             project_line = get_ai_project_line(body_for_ai)
-            
-            # 组合成最终条目
             formatted_entry = f"{header_line}\n{project_line}"
-            
-            # 4. 更新 README.md 逻辑
-            content = repo.get_contents("README.md", ref="master")
-            readme_text = content.decoded_content.decode("utf-8")
 
-            today_str = datetime.now().strftime("%Y 年 %m 月 %d 号添加")
-            date_header = f"### {today_str}"
-            
-            if date_header not in readme_text:
-                new_readme = readme_text.replace("3. 项目列表\n", f"3. 项目列表\n\n{date_header}\n")
-            else:
-                new_readme = readme_text
+            pending_comments.append(comment)
+            formatted_entries.append(formatted_entry)
 
-            insertion_point = new_readme.find(date_header) + len(date_header)
-            final_readme = new_readme[:insertion_point] + "\n\n" + formatted_entry + new_readme[insertion_point:]
+    # ===== 阶段 2：批量提交 =====
+    if not pending_comments:
+        print("无待处理评论")
+        return
 
-            # 5. 提交 PR 逻辑
-            branch_name = f"add-project-{comment.id}"
-            base = repo.get_branch("master")
+    print(f"\n共收集 {len(pending_comments)} 个待处理评论")
 
-            try:
-                repo.get_git_ref(f"heads/{branch_name}").delete()
-            except:
-                pass
+    # 更新 README
+    content = repo.get_contents("README.md", ref="master")
+    readme_text = content.decoded_content.decode("utf-8")
 
-            repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
-            repo.update_file(
-                "README.md",
-                f"docs: add project from {comment.user.login}",
-                final_readme,
-                content.sha,
-                branch=branch_name
-            )
+    today_str = datetime.now().strftime("%Y 年 %m 月 %d 号添加")
+    date_header = f"### {today_str}"
 
-            # 为了彻底消除 Issue 里的 "mentioned this" 红框，
-            # 在 https:// 后面插入一个不可见字符 \u200b
-            safe_url = comment.html_url.replace("https://", "https://\u200b")
+    if date_header not in readme_text:
+        new_readme = readme_text.replace("3. 项目列表\n", f"3. 项目列表\n\n{date_header}\n")
+    else:
+        new_readme = readme_text
 
-            pr = repo.create_pull(
-                title=f"新增项目：来自 {comment.user.login} 的评论",
-                body=f"原评论内容：```{comment.body}``` \n\n 原评论链接：{safe_url} \n\n --- \n\n 此 PR 自动生成，触发机制：Github 用户 1c7 在评论下方点击了'火箭'图标。",
-                head=branch_name,
-                base="master"
-            )
+    # 插入所有条目（用两个换行分隔）
+    insertion_point = new_readme.find(date_header) + len(date_header)
+    all_entries = "\n\n".join(formatted_entries)
+    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries + new_readme[insertion_point:]
 
-            comment.create_reaction(SUCCESS_EMOJI)
+    # 创建分支
+    branch_name = f"batch-add-projects-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
+    base = repo.get_branch("master")
 
-            # 构建包含引用的回复评论
-            # reply_body = f"@{comment.user.login} 感谢提交，已添加至待审核列表！\n\nPR 链接：{pr.html_url}\n\n---\n*回复 [此评论]({comment.html_url})*"
-            # issue.create_comment(reply_body)
+    try:
+        repo.get_git_ref(f"heads/{branch_name}").delete()
+    except:
+        pass
 
-            processed_count += 1
+    repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
+    repo.update_file(
+        "README.md",
+        f"docs: batch add {len(pending_comments)} projects",
+        final_readme,
+        content.sha,
+        branch=branch_name
+    )
 
-    if processed_count == 0:
-        print("未发现新标记的任务。")
+    # 构建 PR body
+    comment_links = "\n".join([
+        f"- [{c.user.login}]({c.html_url})"
+        for c in pending_comments
+    ])
+
+    formatted_list = "\n\n".join([
+        f"### {i+1}. {formatted_entries[i]}"
+        for i in range(len(formatted_entries))
+    ])
+
+    pr_body = f"""批量添加 {len(pending_comments)} 个项目
+
+## 原始评论链接
+{comment_links}
+
+## 格式化结果
+{formatted_list}
+
+---
+自动生成，触发机制：用户 {ADMIN_HANDLE} 点击 🚀
+"""
+
+    pr = repo.create_pull(
+        title=f"新增项目：批量添加 {len(pending_comments)} 个项目",
+        body=pr_body,
+        head=branch_name,
+        base="master"
+    )
+
+    print(f"\n✅ PR 创建成功：{pr.html_url}")
+
+    # 标记所有评论
+    for comment in pending_comments:
+        comment.create_reaction(SUCCESS_EMOJI)
+        reply_body = f"@{comment.user.login} 感谢提交，已添加至待审核列表！\n\nPR 链接：{pr.html_url}"
+        issue.create_comment(reply_body)
+
+    print(f"\n✅ 已标记所有 {len(pending_comments)} 个评论")
 
 if __name__ == "__main__":
     main()
