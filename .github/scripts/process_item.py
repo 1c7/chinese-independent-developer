@@ -6,7 +6,7 @@ from openai import OpenAI
 from datetime import datetime, timedelta, timezone
 
 # ================= 配置区 =================
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+PAT_TOKEN = os.getenv("PAT_TOKEN")
 API_KEY = os.getenv("LLM_API_KEY")
 BASE_URL = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
 REPO_NAME = "1c7/chinese-independent-developer" 
@@ -50,7 +50,7 @@ def get_ai_project_line(raw_text):
     return response.choices[0].message.content.strip()
 
 def main():
-    g = Github(GITHUB_TOKEN)
+    g = Github(PAT_TOKEN)
     repo = g.get_repo(REPO_NAME)
     issue = repo.get_issue(ISSUE_NUMBER)
     

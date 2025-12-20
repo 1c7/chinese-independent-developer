@@ -22,7 +22,7 @@ jobs:
 
       - name: Run script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           # 如果你用的不是 OpenAI 原生接口，可以设置这个环境变量，否则默认使用 OpenAI
           LLM_BASE_URL: "https://api.deepseek.com"
