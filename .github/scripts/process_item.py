@@ -1,4 +1,5 @@
 import os
+import re
 import datetime
 from github import Github # https://github.com/PyGithub/PyGithub
 from openai import OpenAI
@@ -15,6 +16,24 @@ ADMIN_HANDLE = "1c7" # 替换为你的 GitHub ID
 TRIGGER_EMOJI = "rocket" # 🚀
 SUCCESS_EMOJI = "hooray" # 🎉
 # ==========================================
+
+def remove_quote_blocks(text: str) -> str:
+    """移除 GitHub 引用回复块（以 > 开头的行）"""
+    lines = text.split('\n')
+    cleaned_lines = []
+
+    for line in lines:
+        # 检查去除前导空格后是否以 > 开头
+        if not line.lstrip().startswith('>'):
+            cleaned_lines.append(line)
+
+    # 重新拼接，并清理多余空行
+    result = '\n'.join(cleaned_lines)
+
+    # 移除连续多个空行，保留单个空行
+    result = re.sub(r'\n{3,}', '\n\n', result)
+
+    return result.strip()
 
 def get_ai_format(raw_text):
     client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
@@ -60,9 +79,10 @@ def main():
 
         if has_trigger and not has_success:
             print(f"发现待处理评论 ID: {comment.id}")
-            
-            # AI 格式化内容
-            formatted_entry = get_ai_format(comment.body)
+
+            # 清理引用块，然后 AI 格式化内容
+            cleaned_body = remove_quote_blocks(comment.body)
+            formatted_entry = get_ai_format(cleaned_body)
             
             # 准备修改 README.md
             content = repo.get_contents("README.md", ref="master")
@@ -106,7 +126,7 @@ def main():
 
             pr = repo.create_pull(
                 title=f"新增项目：来自评论 {comment.id}",
-                body=f"由管理员 {ADMIN_HANDLE} 标记并自动生成。\n原始评论：{comment.html_url}",
+                body=f"{comment.body}\n\n---\n原始评论：`{comment.html_url}`",
                 head=branch_name,
                 base="master"
             )
