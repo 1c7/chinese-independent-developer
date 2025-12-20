@@ -34,7 +34,7 @@ def get_ai_project_line(raw_text):
 任务：将用户的项目介绍转换为单行 Markdown 格式。
 要求：
 1. 严格禁止使用“一款、一个、完全免费、高效、简洁、强大、快速、好用”等营销废话。
-2. 描述必须以“用途”或“功能”作为动词开头。
+2. 描述必须以“用途”或“功能”作为动词开头。   
 3. 严禁使用加粗格式（不要使用 **）。
 4. 仅输出以下格式的一行文字：
 * :white_check_mark: [项目名](网址)：用途描述
@@ -65,7 +65,10 @@ def main():
         has_success = any(r.content == SUCCESS_EMOJI for r in reactions)
 
         if has_trigger and not has_success:
-            print(f"处理评论 ID: {comment.id}")
+            print(f"\n{'='*60}")
+            print(f"处理评论：\n{comment.body}")
+            print(f"\n评论链接：{comment.html_url}")
+            print(f"{'='*60}\n")
 
             cleaned_body = remove_quote_blocks(comment.body)
 
