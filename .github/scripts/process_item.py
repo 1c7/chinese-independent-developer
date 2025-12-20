@@ -6,26 +6,27 @@ from openai import OpenAI
 from datetime import datetime, timedelta, timezone
 
 # ================= 配置区 =================
-PAT_TOKEN = os.getenv("PAT_TOKEN")
-API_KEY = os.getenv("LLM_API_KEY")
-BASE_URL = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
-REPO_NAME = "1c7/chinese-independent-developer"
-ISSUE_NUMBER = 160
-ADMIN_HANDLE = "1c7"
-TRIGGER_EMOJI = "rocket" # 🚀
-SUCCESS_EMOJI = "hooray" # 🎉
-
-# 启动前检查必需的环境变量
-if not PAT_TOKEN:
-    raise ValueError("❌ 缺少环境变量 PAT_TOKEN！请设置 GitHub Personal Access Token。")
-if not API_KEY:
-    raise ValueError("❌ 缺少环境变量 LLM_API_KEY！请设置 LLM API Key。")
-
-print(f"✅ 环境变量检查通过")
-print(f"   - PAT_TOKEN: {'*' * 10}{PAT_TOKEN[-4:]}")
-print(f"   - API_KEY: {'*' * 10}{API_KEY[-4:]}")
-print(f"   - BASE_URL: {BASE_URL}")
+PAT_TOKEN = os.getenv("PAT_TOKEN")  # GitHub Personal Access Token
+API_KEY = os.getenv("LLM_API_KEY")  # LLM API 密钥（如 DeepSeek、OpenAI）
+BASE_URL = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")  # LLM API 基础 URL
+REPO_NAME = "1c7/chinese-independent-developer"  # GitHub 仓库名称
+ISSUE_NUMBER = 160  # 用于收集项目提交的 Issue 编号
+ADMIN_HANDLE = "1c7"  # 管理员 GitHub 用户名
+TRIGGER_EMOJI = "rocket"  # 触发处理的表情符号 🚀
+SUCCESS_EMOJI = "hooray"  # 处理成功的表情符号 🎉
 # ==========================================
+
+def check_environment():
+    """检查必需的环境变量是否存在"""
+    if not PAT_TOKEN:
+        raise ValueError("❌ 缺少环境变量 PAT_TOKEN！请设置 GitHub Personal Access Token。")
+    if not API_KEY:
+        raise ValueError("❌ 缺少环境变量 LLM_API_KEY！请设置 LLM API Key。")
+
+    print(f"✅ 环境变量检查通过")
+    print(f"   - PAT_TOKEN: {'*' * 10}{PAT_TOKEN[-4:]}")
+    print(f"   - API_KEY: {'*' * 10}{API_KEY[-4:]}")
+    print(f"   - BASE_URL: {BASE_URL}\n")
 
 def remove_quote_blocks(text: str) -> str:
     """移除 GitHub 引用回复块"""
@@ -63,6 +64,9 @@ def get_ai_project_line(raw_text):
     return response.choices[0].message.content.strip()
 
 def main():
+    # 检查环境变量
+    check_environment()
+
     g = Github(PAT_TOKEN)
     repo = g.get_repo(REPO_NAME)
     issue = repo.get_issue(ISSUE_NUMBER)
