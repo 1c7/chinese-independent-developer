@@ -23,16 +23,17 @@
 ### 2025 年 12 月 20 号添加
 
 #### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
-* :white_check_mark: [Sora21](https://www.sora21.com/)：基于sora2模型的高性价比视频生成网站
+* :white_check_mark: [Sora21](https://www.sora21.com/)：视频生成网站，基于 Sora2 模型，高性价比
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
-* :white_check_mark: [palm reading online](https://palm-reading.app/)：在线AI 看手相网站
+* :white_check_mark: [palm reading online](https://palm-reading.app/)：AI 看手相网站
 
 #### allen2peace - [Github](https://github.com/allen2peace)
 * :white_check_mark: [FluentDictation](http://fluentdictation.com/)：使用任意 YouTube 视频练习英语听写、英语跟读能力
 
 #### jankarong - [Github](https://github.com/jankarong)
-* :white_check_mark: [AI YouTube 缩略图生成器](https://aithumbnailcreator.com/)：生成缩略图，可免费下载，支持纯色或渐变背景
+* :white_check_mark: [AI YouTube 缩略图生成器](https://aithumbnailcreator.com/)：生成 Youtube 缩略图，可免费下载，支持纯色或渐变背景
+
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
