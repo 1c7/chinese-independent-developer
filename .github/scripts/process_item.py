@@ -135,7 +135,7 @@ def main():
 
             pr = repo.create_pull(
                 title=f"新增项目：来自 {comment.user.login} 的评论",
-                body=f"由管理员标记并自动提取。\n\n原始评论：{safe_url}",
+                body=f"原评论内容：{comment.body} \n\n 原始评论：{safe_url} \n\n 此 PR 是自动生成，目的是节省时间。\n （触发方法：Github 用户 1c7 在评论下方点击了'火箭'图标，然后用 Github Action 遍历评论），",
                 head=branch_name,
                 base="master"
             )
