@@ -1,0 +1,29 @@
+name: 提交项目
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 每 6 小时运行一次
+  workflow_dispatch:      # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6.0.1
+
+      - name: Setup Python
+        uses: actions/setup-python@v6.1.0
+        with:
+          python-version: '3.13' 
+
+      - name: Install dependencies
+        run: |
+          pip install PyGithub openai
+
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          # 如果你用的不是 OpenAI 原生接口，可以设置这个环境变量，否则默认使用 OpenAI
+          # LLM_BASE_URL: "https://api.deepseek.com/v1" 
+        run: python .github/scripts/process_item.py
