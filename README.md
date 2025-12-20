@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 20 号添加
+
+#### allen2peace - [Github](https://github.com/allen2peace)
+* [FluentDictation](http://fluentdictation.com/)：用途是使用 YouTube 视频进行英语听写和跟读练习。
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
