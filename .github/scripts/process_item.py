@@ -13,7 +13,7 @@ REPO_NAME = "1c7/chinese-independent-developer" # os.getenv("GITHUB_REPOSITORY")
 ISSUE_NUMBER = 160  # 你在维护的那个 Issue 编号
 ADMIN_HANDLE = "1c7" # 替换为你的 GitHub ID
 TRIGGER_EMOJI = "rocket" # 🚀
-SUCCESS_EMOJI = "white_check_mark" # ✅
+SUCCESS_EMOJI = "hooray" # 🎉
 # ==========================================
 
 def get_ai_format(raw_text):
@@ -21,10 +21,6 @@ def get_ai_format(raw_text):
     prompt = f"""
 你是一个严格的文案编辑。任务是将用户的项目介绍转换为标准的 Markdown 格式。
 
-严格规则：
-1. 严禁使用“一款、一个、一种、完全免费、高效、简洁、强大、快速、好用”等营销形容词。
-2. 描述部分必须以“用途”或“核心功能”作为动词开头，直接描述它是什么。
-3. 严禁使用加粗格式（即不要使用 ** 包裹文字）。
 4. 格式模板：
 #### 制作者名字 - [Github](链接)
 * :white_check_mark: [项目名](链接)：用途描述
@@ -33,7 +29,7 @@ def get_ai_format(raw_text):
 {raw_text}
 """
     response = client.chat.completions.create(
-        model="gpt-4o-mini", # 或者使用 deepseek-chat
+        model="deepseek-reasoner", # 或者使用 deepseek-chat
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3
     )
@@ -59,7 +55,7 @@ def main():
         # 1. 检查是否有你的 🚀 反应
         reactions = comment.get_reactions()
         has_trigger = any(r.content == TRIGGER_EMOJI and r.user.login == ADMIN_HANDLE for r in reactions)
-        # 2. 检查是否已经标记过 ✅
+        # 2. 检查是否已经标记过成功 🎉
         has_success = any(r.content == SUCCESS_EMOJI for r in reactions)
 
         if has_trigger and not has_success:
@@ -73,7 +69,7 @@ def main():
             readme_text = content.decoded_content.decode("utf-8")
 
             # 插入日期逻辑
-            today_str = datetime.datetime.now().strftime("%Y 年 %m 月 %d 号添加")
+            today_str = datetime.now().strftime("%Y 年 %m 月 %d 号添加")
             date_header = f"### {today_str}"
             
             if date_header not in readme_text:
@@ -89,6 +85,15 @@ def main():
             # 创建新分支并提交 PR
             branch_name = f"add-project-{comment.id}"
             base = repo.get_branch("master")
+
+            # 检查分支是否已存在，如果存在则删除
+            try:
+                existing_ref = repo.get_git_ref(f"heads/{branch_name}")
+                existing_ref.delete()
+                print(f"已删除现有分支: {branch_name}")
+            except:
+                pass  # 分支不存在，继续
+
             repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
             
             repo.update_file(
@@ -99,16 +104,16 @@ def main():
                 branch=branch_name
             )
 
-            repo.create_pull(
+            pr = repo.create_pull(
                 title=f"新增项目：来自评论 {comment.id}",
                 body=f"由管理员 {ADMIN_HANDLE} 标记并自动生成。\n原始评论：{comment.html_url}",
                 head=branch_name,
                 base="master"
             )
 
-            # 标记为成功，并回复
+            # 用表情标记为成功，并回复
             comment.create_reaction(SUCCESS_EMOJI)
-            comment.create_comment("感谢提交，已添加至待审核列表（PR 已创建）。")
+            # comment.create_comment(f"感谢提交，已添加！\n\nPR 链接：{pr.html_url}")
             
             processed_count += 1
             print(f"评论 {comment.id} 处理成功，已创建 PR。")

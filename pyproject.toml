@@ -1,0 +1,11 @@
+[project]
+name = "chinese-independent-developer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx[socks]>=0.28.1",
+    "openai>=2.14.0",
+    "pygithub>=2.8.1",
+]
