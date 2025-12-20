@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 20 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* [palm reading online](https://palm-reading.app/)：用途是提供基于人工智能的手相分析服务。
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
