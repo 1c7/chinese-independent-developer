@@ -9,11 +9,22 @@ from datetime import datetime, timedelta, timezone
 PAT_TOKEN = os.getenv("PAT_TOKEN")
 API_KEY = os.getenv("LLM_API_KEY")
 BASE_URL = os.getenv("LLM_BASE_URL", "https://api.openai.com/v1")
-REPO_NAME = "1c7/chinese-independent-developer" 
+REPO_NAME = "1c7/chinese-independent-developer"
 ISSUE_NUMBER = 160
-ADMIN_HANDLE = "1c7" 
+ADMIN_HANDLE = "1c7"
 TRIGGER_EMOJI = "rocket" # 🚀
 SUCCESS_EMOJI = "hooray" # 🎉
+
+# 启动前检查必需的环境变量
+if not PAT_TOKEN:
+    raise ValueError("❌ 缺少环境变量 PAT_TOKEN！请设置 GitHub Personal Access Token。")
+if not API_KEY:
+    raise ValueError("❌ 缺少环境变量 LLM_API_KEY！请设置 LLM API Key。")
+
+print(f"✅ 环境变量检查通过")
+print(f"   - PAT_TOKEN: {'*' * 10}{PAT_TOKEN[-4:]}")
+print(f"   - API_KEY: {'*' * 10}{API_KEY[-4:]}")
+print(f"   - BASE_URL: {BASE_URL}")
 # ==========================================
 
 def remove_quote_blocks(text: str) -> str:
