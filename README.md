@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 20 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [AI YouTube Thumbnail Creator](https://aithumbnailcreator.com/)：用途为生成YouTube视频缩略图，并提供下载及纯色或渐变背景创建功能。
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
