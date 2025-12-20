@@ -39,16 +39,18 @@ def remove_quote_blocks(text: str) -> str:
     return result.strip()
 
 def get_ai_project_line(raw_text):
-    """只让 AI 提取项目名称、链接和描述行"""
+    """让 AI 提取项目名称、链接和描述（支持多个产品）"""
     client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
     prompt = f"""
-任务：将用户的项目介绍转换为单行 Markdown 格式。
+任务：将用户的项目介绍转换为 Markdown 格式。
+
 要求：
-1. 在文字的开头，去掉“一款、一个、完全免费、高效、简洁、强大、快速、好用、安全”等营销废话。
-2. 严禁使用加粗格式（不要使用 **）。
-3. 将产品名称从文字的后面提升到最前面。比如"一个安全高效的 AI 生图网站，基于 nano banana pro"，改成 "AI 生图网站，，基于 nano banana pro"
-3. 仅输出以下格式的一行文字：
-* :white_check_mark: [项目名](网址)：用途描述
+1. 识别文本中的所有产品/项目（可能有多个）
+2. 每个项目占一行
+3. 在文字的开头，去掉"一款、一个、完全免费、高效、简洁、强大、快速、好用、安全"等营销废话
+4. 严禁使用加粗格式（不要使用 **）
+5. 将产品名称从文字的后面提升到最前面
+6. 每行格式：* :white_check_mark: [项目名](网址)：用途描述
 
 待处理文本：
 {raw_text}
