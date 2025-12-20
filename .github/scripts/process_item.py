@@ -33,10 +33,10 @@ def get_ai_project_line(raw_text):
     prompt = f"""
 任务：将用户的项目介绍转换为单行 Markdown 格式。
 要求：
-1. 严格禁止使用“一款、一个、完全免费、高效、简洁、强大、快速、好用”等营销废话。
-2. 描述必须以“用途”或“功能”作为动词开头。   
-3. 严禁使用加粗格式（不要使用 **）。
-4. 仅输出以下格式的一行文字：
+1. 在文字的开头，去掉“一款、一个、完全免费、高效、简洁、强大、快速、好用、安全”等营销废话。
+2. 严禁使用加粗格式（不要使用 **）。
+3. 将产品名称从文字的后面提升到最前面。比如"一个安全高效的 AI 生图网站，基于 nano banana pro"，改成 "AI 生图网站，，基于 nano banana pro"
+3. 仅输出以下格式的一行文字：
 * :white_check_mark: [项目名](网址)：用途描述
 
 待处理文本：
@@ -135,13 +135,17 @@ def main():
 
             pr = repo.create_pull(
                 title=f"新增项目：来自 {comment.user.login} 的评论",
-                body=f"原评论内容：{comment.body} \n\n 原始评论：{safe_url} \n\n 此 PR 是自动生成，目的是节省时间。\n （触发方法：Github 用户 1c7 在评论下方点击了'火箭'图标，然后用 Github Action 遍历评论），",
+                body=f"原评论内容：```{comment.body}``` \n\n 原评论链接：{safe_url} \n\n --- \n\n 此 PR 自动生成，触发机制：Github 用户 1c7 在评论下方点击了'火箭'图标。",
                 head=branch_name,
                 base="master"
             )
 
             comment.create_reaction(SUCCESS_EMOJI)
-            comment.create_comment(f"感谢提交，已添加！\n\nPR 链接：{pr.html_url}")
+
+            # 构建包含引用的回复评论
+            # reply_body = f"@{comment.user.login} 感谢提交，已添加至待审核列表！\n\nPR 链接：{pr.html_url}\n\n---\n*回复 [此评论]({comment.html_url})*"
+            # issue.create_comment(reply_body)
+
             processed_count += 1
 
     if processed_count == 0:
