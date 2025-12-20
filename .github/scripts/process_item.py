@@ -180,11 +180,14 @@ def main():
 
     print(f"\n✅ PR 创建成功：{pr.html_url}")
 
-    # 标记所有评论
+    # 标记所有评论（添加 🎉 表情）
     for comment in pending_comments:
         comment.create_reaction(SUCCESS_EMOJI)
-        reply_body = f"@{comment.user.login} 感谢提交，已添加至待审核列表！\n\nPR 链接：{pr.html_url}"
-        issue.create_comment(reply_body)
+
+    # 创建一条评论提及所有用户
+    user_mentions = " ".join([f"@{c.user.login}" for c in pending_comments])
+    reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
+    issue.create_comment(reply_body)
 
     print(f"\n✅ 已标记所有 {len(pending_comments)} 个评论")
 
