@@ -53,6 +53,22 @@ def get_ai_project_line(raw_text):
 5. 将产品名称从文字的后面提升到最前面
 6. 每行格式：* :white_check_mark: [项目名](网址)：用途描述
 
+示例 1：
+输入：https://example.com：一款基于 AI 的高效视频生成网站
+输出：* :white_check_mark: [example.com](https://example.com)：AI 视频生成网站
+
+示例 2：
+输入：[MyApp](https://myapp.com) 完全免费的强大工具，帮助用户管理任务
+输出：* :white_check_mark: [MyApp](https://myapp.com)：任务管理工具
+
+示例 3（多个项目）：
+输入：
+[ProductA](https://a.com)：AI 绘画工具
+[ProductB](https://b.com)：AI 写作助手
+输出：
+* :white_check_mark: [ProductA](https://a.com)：AI 绘画工具
+* :white_check_mark: [ProductB](https://b.com)：AI 写作助手
+
 待处理文本：
 {raw_text}
 """
