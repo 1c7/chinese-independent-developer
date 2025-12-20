@@ -21,6 +21,9 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 20 号添加
+
+#### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
+* :white_check_mark: [Sora21](https://www.sora21.com/)：基于sora2模型的高性价比视频生成网站
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
