@@ -21,9 +21,8 @@
 ## 3. 项目列表
 
 ### 2025 年 12 月 20 号添加
-
 #### hwlvipone - [Github](https://github.com/hwlvipone)
-* [ZestyGen](https://zestygen.com/)：用途是基于nano banana pro的图片视频聚合网站。
+* :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
 
 ### 2025 年 12 月 18 号添加
 #### jonbrown66 - [Github](https://github.com/jonbrown66/bananacanvas-ai)
