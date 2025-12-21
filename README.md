@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 21 号添加
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [GPT Image 1.5](https://chatgptimage15.com/)：基于GPT Image 1.5的AI图片生成网站
+
 ### 2025 年 12 月 20 号添加
 
 #### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
