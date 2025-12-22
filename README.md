@@ -22,6 +22,12 @@
 
 ### 2025 年 12 月 22 号添加
 
+#### taingh - [Github](https://github.com/taingh)
+* :white_check_mark: [UniMusic AI](https://unimusic.ai)：根据描述生成专业完整的音乐
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nbpro.io](https://nbpro.io/)：一站式 AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景。
+
 #### zhugezifang - [Github](https://github.com/zhugezifang)
 * :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
 * :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI 眼型分析
