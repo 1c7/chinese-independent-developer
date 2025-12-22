@@ -23,9 +23,9 @@
 ### 2025 年 12 月 22 号添加
 
 #### zhugezifang - [Github](https://github.com/zhugezifang)
-* :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：在线AI颜值测试
-* :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI眼型分析
-* :white_check_mark: [面部年龄计算器](https://howolddoyoulook.app/zh)：AI面部年龄检测器在线
+* :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
+* :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI 眼型分析
+* :white_check_mark: [面部年龄计算器](https://howolddoyoulook.app/zh)：AI 面部年龄检测器
 
 ### 2025 年 12 月 21 号添加
 
