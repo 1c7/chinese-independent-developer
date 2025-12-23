@@ -22,6 +22,12 @@
 
 ### 2025 年 12 月 23 号添加
 
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [牛逼star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，通过安全授权让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度。 - [更多介绍](https://www.niubistar.com)
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [Intent-Leads](https://www.intent-leads.com/)：基于社交媒体和公开平台行为数据，帮助企业自动发现和整理“高意图潜在客户”线索（即正在主动寻找产品/服务的人）以便联系和转化的获客工具。
+
 #### tancky777 - [Github](https://github.com/tancky777)
 * :white_check_mark: [LensGo AI](https://lensgoai.co/)：AI 视频 & 图片创作，专注于动漫艺术风格的图片风格迁移或图片、视频制作
 * :white_check_mark: [Gemini Watermark Remover](https://geminiwatermark.net/)：Gemini AI 图片、nano banana、nano banana pro 去水印
