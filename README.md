@@ -24,10 +24,10 @@
 
 #### tancky777 - [Github](https://github.com/tancky777)
 * :white_check_mark: [LensGo AI](https://lensgoai.co/)：AI 视频 & 图片创作，专注于动漫艺术风格的图片风格迁移或图片、视频制作
-* :white_check_mark: [Gemini Watermark Remover](https://geminiwatermark.net/)：在线版 Gemini AI 图片、nano banana、nano banana pro 去水印
+* :white_check_mark: [Gemini Watermark Remover](https://geminiwatermark.net/)：Gemini AI 图片、nano banana、nano banana pro 去水印
 
 #### zhangchenchen - [Github](https://github.com/zhangchenchen)
-* :white_check_mark: [music0](music0.org)：AI 音乐/音乐视频生成平台
+* :white_check_mark: [music0](https://music0.org/)：AI 音乐/音乐视频生成平台
 
 ### 2025 年 12 月 22 号添加
 
