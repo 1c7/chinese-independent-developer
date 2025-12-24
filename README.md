@@ -23,15 +23,15 @@
 ### 2025 年 12 月 24 号添加
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [nanobanana.co](https://nanobanana.co/zh)：AI 图像与视频生成平台，支持精准区域编辑、照片修复、风格转换、多图融合、角色一致性保持及视频生成。
+* :white_check_mark: [Nano Banana Pro](https://nanobanana.co/zh)：AI 图像与视频生成平台，支持精准区域编辑、照片修复、风格转换、多图融合、角色一致性保持及视频生成
 
 #### Rock(上海)
-* :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头艺术生成器
+* :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头涂鸦艺术生成器（基于 Nano Banana Pro）
 
 ### 2025 年 12 月 23 号添加
 
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
-* :white_check_mark: [牛逼star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度
+* :white_check_mark: [牛逼 Star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度
 * :white_check_mark: [Intent-Leads](https://www.intent-leads.com/)：帮助企业自动发现和整理“高意图潜在客户”线索，基于社交媒体和公开平台行为数据（即正在主动寻找产品/服务的人）以便联系和转化的获客工具
 
 #### tancky777 - [Github](https://github.com/tancky777)
