@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 24 号添加
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [nanobanana.co](https://nanobanana.co/zh)：AI 图像与视频生成平台，支持精准区域编辑、照片修复、风格转换、多图融合、角色一致性保持及视频生成。
+
+#### Rock(上海)
+* :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头艺术生成器
+
 ### 2025 年 12 月 23 号添加
 
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
