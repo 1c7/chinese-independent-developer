@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 26 号添加
+
+### picaro - [Github](https://github.com/2002pipi)
+* :white_check_mark: [FlowSpeech](https://flowspeech.io)：文本转语音，声音接近人类
+
 ### 2025 年 12 月 24 号添加
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
