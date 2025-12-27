@@ -2,6 +2,9 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2025 年 12 月 27 号添加
+* :white_check_mark: [Riddle School](https://riddle-school.online/)：Riddle School 是一款以校园为背景的解谜冒险游戏，采用简单直观的点击操作方式，适合各类玩家上手。游戏通过一系列环环相扣的谜题，引导玩家不断思考不同道具和场景之间的关系。解谜过程清晰，让人能够专注于推理本身。
+
 ### 2025 年 12 月 21 号添加
 #### shuiwuhen - [GitHub](https://github.com/290713469)
 * :white_check_mark: [Universal Tower Defense Calculator](https://universaltowerdefensecalculator.com)：Roblox 游戏 Universal Tower Defense 工具站
