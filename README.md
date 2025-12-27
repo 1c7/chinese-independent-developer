@@ -22,6 +22,12 @@
 
 ### 2025 年 12 月 26 号添加
 
+#### LeeYuze - [Github](https://github.com/LeeYuze)
+* :white_check_mark: [WhatsMyName](https://www.whatsmyname.cc/)：OSINT 用户名搜索与可用性检查工具，可实时扫描 700+ 平台，验证账号存在与数字足迹（匿名、不记录搜索历史）。
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [外链管理系统](https://backlink.dreamthere.cn)：SEO外链管理系统
+
 ### picaro - [Github](https://github.com/2002pipi)
 * :white_check_mark: [FlowSpeech](https://flowspeech.io)：文本转语音，声音接近人类
 
