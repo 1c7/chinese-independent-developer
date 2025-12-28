@@ -22,6 +22,9 @@
 
 ### 2025 年 12 月 28 号添加
 
+#### StarCityBro(长沙)
+* :white_check_mark: [FeiHub](https://feihub.top)：公开的飞书文档搜索，已收录包括：垂直小店、Gemini、AI产品、Claude Code、CPS、Sora、AI工作流、AI视频、AI短剧、AI漫剧、AI漫画、YouTube、小红书电商、电商选品、AI自媒体、n8n、私域运营、B站好物、外卖推客、RPA等 6000+的知识文档。
+
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
 * :white_check_mark: [fuckpua](https://www.saynopua.com)：用 AI 帮助识别和抵抗情感操控与PUA套路、提供分析和练习工具的心理防护平台
 
