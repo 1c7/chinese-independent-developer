@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 28 号添加
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [fuckpua](https://www.saynopua.com)：用 AI 帮助识别和抵抗情感操控与PUA套路、提供分析和练习工具的心理防护平台
+
 ### 2025 年 12 月 26 号添加
 
 #### LeeYuze - [Github](https://github.com/LeeYuze)
