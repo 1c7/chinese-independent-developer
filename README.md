@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 29 号添加
+
+#### jiyifeng(重庆) -
+* :white_check_mark: [Upscale image](https://upscale-image.org/)：增强和放大图像
+
 ### 2025 年 12 月 28 号添加
 
 #### StarCityBro(长沙)
