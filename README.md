@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2025 年 12 月 30 号添加
+
+#### wangxiaosu - [Github](https://github.com/wangxiaosu)
+* :white_check_mark: [Text Behind Image](https://text-behind-image.org/)：实现“字在人后”视觉深度，制作高级感海报
+
+#### xiaolige 长沙
+* :white_check_mark: [nano-banana中文站](https://www.nano-banana.cn/zh)：提供提示词模板，帮助用户快速生成图片
+
 ### 2025 年 12 月 29 号添加
 
 #### jiyifeng(重庆) -
