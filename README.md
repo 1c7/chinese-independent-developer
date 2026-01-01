@@ -22,8 +22,8 @@
 
 ### 2025 年 12 月 31 号添加
 
-#### lingglee - [Github](https://github.com/lingglee)
-* :white_check_mark: [authletter.com](https://www.authletter.com)：委托信模板站，提供各种场景委托信模板，支持AI一句话生成委托信、编辑和下载
+#### lingglee(武汉) - [Github](https://github.com/lingglee)
+* :white_check_mark: [authletter.com](https://www.authletter.com)：委托信模板站，提供各种场景委托信模板，支持 AI 一句话生成委托信、编辑和下载
 
 ### 2025 年 12 月 29 号添加
 
