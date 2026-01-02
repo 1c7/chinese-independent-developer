@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 01 号添加
+
+#### Flicker(成都)
+* :white_check_mark: [VoiceAILabs](https://voiceailabs.com/)：专业AI声音克隆平台，创建您的语音克隆角色
+
+#### zhouzhili - [Github](https://github.com/zhouzhili)
+* :white_check_mark: [QQ相册下载器](https://blog.aitoolwang.com/qq/)：三步完成QQ空间、QQ群相册照片批量下载到电脑，原图原视频下载，保留拍摄时间。
+
 ### 2025 年 12 月 31 号添加
 
 #### wangxiaosu - [Github](https://github.com/wangxiaosu)
