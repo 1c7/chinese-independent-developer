@@ -25,14 +25,12 @@
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz)
 * :white_check_mark: [Sheas Frameg](https://frameg.spacetimee.xyz)：开源光流法在线视频插帧工具 - [更多介绍](https://github.com/SpaceTimee/Sheas-Frameg)
 
-#### WtecHtec(深圳) - [Github](), [博客]()
+#### WtecHtec(深圳)
 * :white_check_mark: [WordMoment](https://github.com/WtecHtec/WordMoment)：专注于背单词的纯前端 Web 应用
 
 #### hackun666 - [Github](https://github.com/hackun666)
-* :white_check_mark: [软著Pro](https://ruanzhu.pro)：AI 软著生成器，帮助用户生成软件著作权申请文档
+* :white_check_mark: [软著 Pro](https://ruanzhu.pro)：AI 软著生成器，帮助用户生成软件著作权申请文档
 
-#### 290713469 - [Github](https://github.com/290713469)
-* :white_check_mark: [Anime Fighting Simulator Calculator](https://anime-fighting-simulator.com)：Roblox Anime Fighting Simulator游戏工具
 
 ### 2026 年 01 月 01 号添加
 
