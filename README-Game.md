@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 1 月 3 号添加
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Anime Fighting Simulator Calculator](https://anime-fighting-simulator.com)：Roblox Anime Fighting Simulator游戏工具
+
 ### 2026 年 1 月 2 号添加
 * :white_check_mark: [PokePath-TD](https://play-pokepath-td.online/)：PokePath-TD一款海外爆火的宝可梦塔防游戏，在9 条不同的路线上抵御一波又一波的敌人，失败了也可以累积资源和升级宝可梦成员。
 
