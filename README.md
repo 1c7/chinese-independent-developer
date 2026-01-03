@@ -22,6 +22,12 @@
 
 ### 2026 年 01 月 03 号添加
 
+#### ivanvolt-labs - [Github](https://github.com/ivanvolt-labs)
+* :white_check_mark: [博客](https://ivanvolt.com)：Ivanvolt(武汉)
+* :white_check_mark: [Square Face Generator](https://squarefacegenerator.co)：在线方脸测试
+* :white_check_mark: [UB Games](https://ubgames.co)：在线玩免费浏览器游戏
+* :white_check_mark: [Wenda Treatment](https://wendatreatment.com)：暗黑音乐之旅
+
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz)
 * :white_check_mark: [Sheas Frameg](https://frameg.spacetimee.xyz)：开源光流法在线视频插帧工具 - [更多介绍](https://github.com/SpaceTimee/Sheas-Frameg)
 
