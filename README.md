@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 03 号添加
+
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz)
+* :white_check_mark: [Sheas Frameg](https://frameg.spacetimee.xyz)：开源光流法在线视频插帧工具 - [更多介绍](https://github.com/SpaceTimee/Sheas-Frameg)
+
+#### WtecHtec(深圳)
+* :white_check_mark: [WordMoment](https://wordmoment.xujingyichang.top/)：专注于背单词的纯前端 Web 应用 - [开源地址](https://github.com/WtecHtec/WordMoment)
+
+#### hackun666 - [Github](https://github.com/hackun666)
+* :white_check_mark: [软著 Pro](https://ruanzhu.pro)：AI 软著生成器，帮助用户生成软件著作权申请文档
+
 ### 2026 年 01 月 01 号添加
 
 #### Flicker(成都)
