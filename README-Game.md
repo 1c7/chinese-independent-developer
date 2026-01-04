@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 1 月 4 号添加
+#### Ivanvolt(武汉) - [博客](https://ivanvolt.com)，[Github](https://github.com/ivanvolt-labs)
+* :white_check_mark: [Square Face Generator](https://squarefacegenerator.co)：生成方脸头像
+* :white_check_mark: [UB Games](https://ubgames.co)：免费浏览器游戏
+* :white_check_mark: [Wenda Treatment](https://wendatreatment.com)：暗黑音乐之旅
+
 ### 2026 年 1 月 3 号添加
 #### 290713469 - [Github](https://github.com/290713469)
 * :white_check_mark: [Anime Fighting Simulator Calculator](https://anime-fighting-simulator.com)：Roblox Anime Fighting Simulator游戏工具
