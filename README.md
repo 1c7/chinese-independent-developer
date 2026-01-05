@@ -22,9 +22,8 @@
 
 ### 2026 年 01 月 04 号添加
 
-#### Hipepper - [Github](https://github.com/Hipepper)
-* :white_check_mark: [JentleTao](https://github.com/Hipepper/SecTech-Vis)：可视化安全对抗技术平台
-* :white_check_mark: [tipfactory.jentletao.top](https://tipfactory.jentletao.top/)：可视化安全对抗技术平台
+#### JentleTao - [Github](https://github.com/Hipepper)
+* :white_check_mark: [tipfactory.jentletao.top](https://tipfactory.jentletao.top/)：可视化安全对抗技术平台 - [开源地址](https://github.com/Hipepper/SecTech-Vis)
 
 ### 2026 年 01 月 03 号添加
 
