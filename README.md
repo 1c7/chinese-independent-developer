@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 04 号添加
+
+#### JentleTao - [Github](https://github.com/Hipepper)
+* :white_check_mark: [tipfactory.jentletao.top](https://tipfactory.jentletao.top/)：可视化安全对抗技术平台 - [开源地址](https://github.com/Hipepper/SecTech-Vis)
+
 ### 2026 年 01 月 03 号添加
 
 #### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz)
