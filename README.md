@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 06 号添加
+
+#### Mr-ZhangBo - [Github](https://github.com/Mr-ZhangBo)
+* :white_check_mark: [Easydown](https://www.easydown.org/en)：在线下载 TikTok、YouTube、Twitter 视频
+
+#### pillow(重庆市) -
+* :white_check_mark: [grok images](https://grokimages.org/)：AI 图片平台，将想法变成视觉作品
+
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Obsessed Trace Calculator](https://obsessedtrace.com/)：Stream游戏Obsessed Trace工具网站
+
 ### 2026 年 01 月 05 号添加
 
 #### Brian Chan - [Github](https://github.com/cwingho)
