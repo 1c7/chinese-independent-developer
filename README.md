@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 05 号添加
+
+#### Brian Chan - [Github](https://github.com/cwingho)
+* :white_check_mark: [Collage87](https://collage87.com/)：创建精美网格照片
+
+#### WtecHtec(深圳) - [Github](https://github.com/WtecHtec), [博客](github.com/WtecHtec)
+* :white_check_mark: [SnapWrite](https://snapwrite.xujingyichang.top/)：专注微信公众号的 AI 自动排版工具。一键将文本转化为精美移动端布局，支持实时手机预览与富文本一键复制。
+
+#### lizhichao  - [Github](https://github.com/lizhichao)
+* :white_check_mark: [时间转换为工具](https://gorm.vicsdf.com/time.html)：支持批量转换、填写备注、切换时区
+
 ### 2026 年 01 月 04 号添加
 
 #### JentleTao - [Github](https://github.com/Hipepper)
