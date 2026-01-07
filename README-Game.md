@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 1 月 7 号添加
+
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Obsessed Trace Calculator](https://obsessedtrace.com/)：Stream 游戏 Obsessed Trace 工具网站
+
 ### 2026 年 1 月 4 号添加
 #### Ivanvolt(武汉) - [博客](https://ivanvolt.com)，[Github](https://github.com/ivanvolt-labs)
 * :white_check_mark: [Square Face Generator](https://squarefacegenerator.co)：生成方脸头像

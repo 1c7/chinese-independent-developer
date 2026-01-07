@@ -20,7 +20,10 @@
 
 ## 3. 项目列表
 
-### 2026 年 01 月 06 号添加
+
+### 2026 年 01 月 07 号添加
+#### yzqzy - [Github](https://github.com/yzqzy)
+* :white_check_mark: [TradeSignal](https://tradersignal.org/)：AI 股票分析 + 专业盘后复盘工具｜价值为基、趋势为策
 
 #### Mr-ZhangBo - [Github](https://github.com/Mr-ZhangBo)
 * :white_check_mark: [Easydown](https://www.easydown.org/en)：下载 TikTok、YouTube、Twitter 视频
@@ -1509,10 +1512,6 @@
 
 ##### Sarkory(广州)
 - :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
-
-### 2025 年 5 月 24 号添加
-#### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [TradeSignal](https://github.com/yzqzy/trade-signal-docs)：整合多维度市场数据，提供专业的投资分析工具
 
 ### 2025 年 5 月 22 号添加
 #### Sawana Huang
