@@ -20,9 +20,16 @@
 
 ## 3. 项目列表
 
+
 ### 2026 年 01 月 07 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [TradeSignal](https://tradersignal.org/)：AI 股票分析 + 专业盘后复盘工具｜价值为基、趋势为策
+* :white_check_mark: [TradeSignal](https://tradersignal.org/)：AI 股票分析 + 专业盘后复盘工具｜价值为基、趋势为策
+
+#### Mr-ZhangBo - [Github](https://github.com/Mr-ZhangBo)
+* :white_check_mark: [Easydown](https://www.easydown.org/en)：下载 TikTok、YouTube、Twitter 视频
+
+#### pillow(重庆市)
+* :white_check_mark: [grok images](https://grokimages.org/)：AI 图片平台，将想法变成视觉作品
 
 ### 2026 年 01 月 05 号添加
 
