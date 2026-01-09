@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 09 号添加
+
+#### tzzp1224 - [Github](https://github.com/tzzp1224)
+* :white_check_mark: [RepoReaper](https://www.realdexter.com/)：基于 DeepSeek 的 Github AI 代码审计探员，面向计算机学生和初学者的源码阅读教育工具
+
+#### wo-zx - [Github](https://github.com/wo-zx)
+* :white_check_mark: [上码 (Upma)](https://upma.cn/)：专为国内开发者打造的静态网站托管平台，支持 React / Vue / Next.js 一键部署与 CDN 全球加速。
+
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Star Rupture Calculator](https://starrupture-tools.com/)：Stream 游戏 Star Rupture 工具网站
+
 ### 2026 年 01 月 08 号添加
 
 #### BC - [Github](https://github.com/cwingho)
