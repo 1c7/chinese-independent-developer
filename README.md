@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 08 号添加
+
+#### BC - [Github](https://github.com/cwingho)
+* :white_check_mark: [UV Index Today](https://uvindex.cc/)：实时显示所在地紫外线指数的工具
+
+#### allen2peace - [Github](https://github.com/allen2peace)
+* :white_check_mark: [ChatFlowchart](https://chatflowchart.com/)：通过语言描述生成图表，可编辑文案，可导出PDF或图片
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [zimageturbo](https://zimageturbo.com/)：通过语言描述生成图片
+
 
 ### 2026 年 01 月 07 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
