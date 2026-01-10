@@ -31,6 +31,8 @@
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
 * :white_check_mark: [zimageturbo](https://zimageturbo.com/)：通过语言描述生成图片
 
+#### Jack
+* :white_check_mark: [YourRizzAI](https://yourizzai.com)：AI 聊天分析工具，一键生成自然的约会对话和回复建议
 
 ### 2026 年 01 月 07 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
