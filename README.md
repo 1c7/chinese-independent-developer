@@ -20,13 +20,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 09 号添加
+
+#### tzzp1224 - [Github](https://github.com/tzzp1224)
+* :white_check_mark: [RepoReaper](https://www.realdexter.com/)：Github AI 代码审计探员（基于 DeepSeek），面向计算机学生和初学者的源码阅读教育工具
+
+#### wo-zx - [Github](https://github.com/wo-zx)
+* :white_check_mark: [上码 (Upma)](https://upma.cn/)：静态网站托管平台，专为国内开发者打造，支持 React / Vue / Next.js 一键部署与 CDN 全球加速
+
 ### 2026 年 01 月 08 号添加
 
 #### BC - [Github](https://github.com/cwingho)
 * :white_check_mark: [UV Index Today](https://uvindex.cc/)：实时显示所在地紫外线指数的工具
 
 #### allen2peace - [Github](https://github.com/allen2peace)
-* :white_check_mark: [ChatFlowchart](https://chatflowchart.com/)：通过语言描述生成图表，可编辑文案，可导出PDF或图片
+* :white_check_mark: [ChatFlowchart](https://chatflowchart.com/)：通过语言描述生成图表，可编辑文案，可导出 PDF 或图片
 
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
 * :white_check_mark: [zimageturbo](https://zimageturbo.com/)：通过语言描述生成图片
