@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 01 月 11 号添加
+
+#### hydemei - [Github](https://github.com/hydemei)
+* :white_check_mark: [toolrain.com](https://toolrain.com/)：AI导航站，可免费提交，收录处理快
+
 ### 2026 年 01 月 09 号添加
 
 #### tzzp1224 - [Github](https://github.com/tzzp1224)
