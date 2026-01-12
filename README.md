@@ -20,12 +20,15 @@
 
 ## 3. 项目列表
 
-### 2026 年 01 月 11 号添加
+### 2026 年 1 月 12 号添加
 
 #### hydemei - [Github](https://github.com/hydemei)
 * :white_check_mark: [toolrain.com](https://toolrain.com/)：AI导航站，可免费提交，收录处理快
 
-### 2026 年 01 月 09 号添加
+#### businesszh - [Github](https://github.com/businesszh)
+* :white_check_mark: [免费 AI 视频生成器 Sora 2](https://aisora2.com/)：即刻创建逼真视频
+
+### 2026 年 1 月 9 号添加
 
 #### tzzp1224 - [Github](https://github.com/tzzp1224)
 * :white_check_mark: [RepoReaper](https://www.realdexter.com/)：Github AI 代码审计探员（基于 DeepSeek），面向计算机学生和初学者的源码阅读教育工具
@@ -33,7 +36,7 @@
 #### wo-zx - [Github](https://github.com/wo-zx)
 * :white_check_mark: [上码 (Upma)](https://upma.cn/)：静态网站托管平台，专为国内开发者打造，支持 React / Vue / Next.js 一键部署与 CDN 全球加速
 
-### 2026 年 01 月 08 号添加
+### 2026 年 1 月 8 号添加
 
 #### BC - [Github](https://github.com/cwingho)
 * :white_check_mark: [UV Index Today](https://uvindex.cc/)：实时显示所在地紫外线指数的工具
@@ -47,7 +50,7 @@
 #### Jack
 * :white_check_mark: [YourRizzAI](https://yourizzai.com)：AI 聊天分析工具，一键生成自然的约会对话和回复建议
 
-### 2026 年 01 月 07 号添加
+### 2026 年 1 月 7 号添加
 #### yzqzy - [Github](https://github.com/yzqzy)
 * :white_check_mark: [TradeSignal](https://tradersignal.org/)：AI 股票分析 + 专业盘后复盘工具｜价值为基、趋势为策
 
