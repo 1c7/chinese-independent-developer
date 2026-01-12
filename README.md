@@ -21,6 +21,8 @@
 ## 3. 项目列表
 
 ### 2026 年 1 月 12 号添加
+#### zongguowu - [Github](https://github.com/zongguowu)
+* :white_check_mark: [Seedream 4.0 生成和编辑 Image Studio](https://seedream4.me/)：最多上传 10 张图片或从提示开始。混合、增强和动画——所有这些都由 Seedream 4.0 的多模态模型提供支持。
 
 #### hydemei - [Github](https://github.com/hydemei)
 * :white_check_mark: [toolrain.com](https://toolrain.com/)：AI导航站，可免费提交，收录处理快
