@@ -139,7 +139,7 @@ def main():
     content = repo.get_contents("README.md", ref="master")
     readme_text = content.decoded_content.decode("utf-8")
 
-    today_str = datetime.now().strftime("%Y 年 %m 月 %d 号添加")
+    today_str = datetime.now().strftime("%Y 年 %-m 月 %-d 号添加")
     date_header = f"### {today_str}"
 
     if date_header not in readme_text:
