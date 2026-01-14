@@ -23,17 +23,16 @@
 ### 2026 年 1 月 13 号添加
 
 #### Y80 - [Github](https://github.com/Y80)
-* :white_check_mark: [BMM](https://bmm.lccl.cc)：你的专属书签管家，含管理员系统、用户系统，支持 AI 自动整理书签、标签，可自行部署。
+* :white_check_mark: [BMM](https://bmm.lccl.cc)：你的专属书签管家，含管理员系统、用户系统，支持 AI 自动整理书签、标签，可自行部署
 
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
-* :white_check_mark: [Albert-Weasker](https://github.com/Albert-Weasker)
-* :white_check_mark: [蒲公英](https://www.pugongying.ink/)：反社交、无痕迹的极简表达平台，提供没有账号、没有互动、不留痕迹的平台，能低负担地表达想法，实现“说出来就放下”的需求，而非建立关系或社交联系。
+* :white_check_mark: [蒲公英](https://www.pugongying.ink/)：反社交、无痕迹的极简表达平台，提供没有账号、没有互动、不留痕迹的平台，能低负担地表达想法，实现“说出来就放下”的需求，而非建立关系或社交联系
 
-#### ChenCong91 - [Github](https://github.com/ChenCong91)
+#### Eric（上海） - [Github](https://github.com/ChenCong91)
 * :white_check_mark: [BabyFilter AI](https://babyfilter.ai)：将用户上传的人物照转换为小时候的照片
 
-#### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [Videoeditai.app](https://videoeditai.app/)：人工智能视频编辑平台，可通过文本提示转换视频内容，添加/删除对象，生成新相机角度，应用风格转移，修改照明。
+#### 詹姆斯 周 - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [Videoeditai.app](https://videoeditai.app/)：人工智能视频编辑平台，可通过文本提示转换视频内容，添加/删除对象，生成新相机角度，应用风格转移，修改照明
 
 ### 2026 年 1 月 12 号添加
 
