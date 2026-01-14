@@ -18,7 +18,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 1 月 14 号添加
 #### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://momei.app/)
- :white_check_mark: [墨梅博客](https://github.com/CaoMeiYouRen/momei)：专为技术开发者和跨境内容创作者量身定制的专业、高性能、国际化博客平台 - [更多介绍](https://docs.momei.app/)
+* :white_check_mark: [墨梅博客](https://github.com/CaoMeiYouRen/momei)：博客平台，专为技术开发者和跨境内容创作者量身定制。专业、高性能、国际化 - [更多介绍](https://docs.momei.app/)
 
 ### 2025 年 12 月 2 号添加
 #### phishdestroy - [GitHub](https://github.com/phishdestroy)
