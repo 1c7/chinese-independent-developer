@@ -22,6 +22,9 @@
 
 ### 2026 年 1 月 15 号添加
 
+#### ChenCong91 - [Github](https://github.com/ChenCong91)
+* :white_check_mark: [BabyFilter AI](https://babyfilter.art)：将用户上传的人物照转换为小时候的照片
+
 #### jvxiao(Shenzhen) - [Github](https://github.com/jvxiao), [博客](https://jvxiao.cn)
 * :white_check_mark: [图片工具箱](https://tools.jvxiao.cn)：全平台支持的在线图片处理工具集，涵盖压缩、裁剪、AI 抠图、背景替换、格式转换与水印功能
 
