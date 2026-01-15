@@ -22,6 +22,9 @@
 
 ### 2026 年 1 月 15 号添加
 
+#### xingstarx - [Github](https://github.com/xingstarx)
+* :white_check_mark: [AI人像移除工具](https://nanobananaeditor.cc/zh/remove-person-from-photo)：基于Nano Banana模型，从照片中移除不需要的人像
+
 #### ChenCong91 - [Github](https://github.com/ChenCong91)
 * :white_check_mark: [BabyFilter AI](https://babyfilter.art)：将用户上传的人物照转换为小时候的照片
 
