@@ -22,7 +22,10 @@
 
 ### 2026 年 1 月 16 号添加
 
-#### Hugh (杭州) - [Github](), [博客](https://squareface.app/blog)
+#### Adrien Millot - [Github](https://github.com/camgraphe)
+* :white_check_mark: [MaxVideoAI](https://maxvideoai.com/)：多模型 AI 视频生成平台（文生视频 / 图生视频），提供公开的模型页面、提示词参考和示例，用于探索不同的视频生成模型。
+
+#### Hugh (杭州) - [博客](https://squareface.app/blog)
 * :white_check_mark: [Square Face Generator](https://squareface.app)：致敬 Flash 时代的在线像素头像生成器，支持将设计的头像导出为 3D 纸模 (Papercraft) PDF 图纸 - [更多介绍](https://squareface.app/generators/square-face-papercraft-generator)
 
 #### Jack (杭州) - [博客](https://karmictail.com/blog)
