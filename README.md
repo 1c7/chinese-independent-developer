@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 16 号添加
+
+#### Hugh (杭州) - [Github](), [博客](https://squareface.app/blog)
+* :white_check_mark: [Square Face Generator](https://squareface.app)：致敬 Flash 时代的在线像素头像生成器，支持将设计的头像导出为 3D 纸模 (Papercraft) PDF 图纸 - [更多介绍](https://squareface.app/generators/square-face-papercraft-generator)
+
+#### Jack (杭州) - [博客](https://karmictail.com/blog)
+* :white_check_mark: [Karmic Tail Calculator](https://karmictail.com)：基于命运矩阵体系的在线计算器，解析用户的业力尾巴与阿卡纳能量 - [更多介绍](https://karmictail.com/blog/what-is-my-karmic-tail)
+
+#### upup熊猫(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Speaking Time Calculator](https://speakingtimecalculator.org)：估算文本/演讲稿时长的小工具，无需注册，只需粘贴文本或输入字数，然后设置语速即可
+
 ### 2026 年 1 月 15 号添加
 
 #### xingstarx - [Github](https://github.com/xingstarx)
