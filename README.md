@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 17 号添加
+
+#### James zhou - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [sotavideoai.com](https://sotavideoai.com/)：最新的 AI 视频生成模型，创建具有同步音频、对话和效果的逼真且物理准确的视频。
+
+#### wufuliang561 - [Github](https://github.com/wufuliang561)
+* :white_check_mark: [Img2Img.net](https://img-2-img.net/)：AI 图像到图像生成器，支持多种艺术风格转换，如吉卜力、赛博朋克、油画等。
+
+#### Hugh - [博客](https://pixsprout.com/posts)
+* :white_check_mark: [pixsprout.com](https://pixsprout.com/text-to-stamp)：专注于生成复古橡皮印章效果的 AI 工具，支持文字生成印章、图片转印章及自动去底 - [更多介绍](https://pixsprout.com/image-to-stamp)
+
 ### 2026 年 1 月 16 号添加
 
 #### Adrien Millot - [Github](https://github.com/camgraphe)
