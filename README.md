@@ -1681,6 +1681,7 @@
 #### Jacky(南京) 
 * :white_check_mark: [FacelessVideos.APP](https://facelessvideos.app)：将一个 idea 转化成短视频 ，自动加上语音，可以定制化背景音乐和字幕，发布在 youtube 频道中。
 * :white_check_mark: [ImagesArt.ai](https://imagesart.ai)：生成完美的AI艺术提示词。使用这个工具为Flux、Midjourney和Stable Diffusion模型生成并优化图像提示词。
+* :white_check_mark: [Flux2Klein.io](https://flux2klein.io/)：在 0.5 秒内生成照片级真实图像。基于 Flux2 Klein 9B 模型，提供统一的图像生成和编辑功能。无需注册即可免费生成 2 次。
 
 #### sing1ee - [Github](https://github.com/sing1ee)
 * :white_check_mark: [PapyrusFont.com](https://papyrusfont.com/): 用 Papyrus 字体创建精美的文字设计，可保存为 PNG
