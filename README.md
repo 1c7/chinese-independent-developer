@@ -22,6 +22,9 @@
 
 ### 2026 年 1 月 19 号添加
 
+#### peekaboo(重庆)
+* :white_check_mark: [音频转文字](https://transcribetotext.org/)：即时将音频转换为文字
+
 #### JoyX(深圳)
 * :white_check_mark: [Image To STL](https://imagetostl.io)：将图像转换为 STL 文件以进行3D打印
 
