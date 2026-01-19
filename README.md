@@ -20,6 +20,19 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 19 号添加
+
+#### JoyX(深圳)
+* :white_check_mark: [Image To STL](https://imagetostl.io)：将图像转换为 STL 文件以进行3D打印
+
+#### Johnson Zou(武汉)
+* :white_check_mark: [Cowork Skills](https://www.cowork-skills.com/)：收集 Claude Cowork Prompt 模板
+* :white_check_mark: [Figma 打印工具落地页](https://www.printery.app/)：导出 CMYK 色彩模式、出血位、300 DPI 的可直接用于印刷的 PDF 文件
+* :white_check_mark: [Square Face Icon Generator](https://www.squarefaceicongenerator.co/)：生成方形脸图标工具
+
+#### catscai - [Github](https://github.com/catscai)
+* :white_check_mark: [picfittool.com](https://picfittool.com/)：图片处理网站，支持 App Store、Google Play 上架截图批量处理，证件照处理，通用裁剪、抠图、压缩、水印等功能
+
 ### 2026 年 1 月 17 号添加
 
 #### James zhou - [Github](https://github.com/nanobanana-co)
