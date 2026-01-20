@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 20 号添加
+
+#### monsoonw
+* :white_check_mark: [MP3 to Text, TXT & SRT Converter](https://mp3totext.net)：在线 MP3 转文本工具，可将 MP3 转为 TXT 或 SRT（字幕）
+
 ### 2026 年 1 月 19 号添加
 
 #### JoyX(深圳)
