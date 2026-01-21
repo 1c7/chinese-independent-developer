@@ -23,7 +23,7 @@
 ### 2026 年 1 月 21 号添加
 
 #### lixiaofei162-code - [Github](https://github.com/lixiaofei162-code)
-* :white_check_mark: [Agent – Claude Code skills 精选导航站](https://agent-skills.cc/)：从收集的6w+ agnet-skills中精选出 1000+实用/有趣的 claude code skills，持续更新中
+* :white_check_mark: [Agent – Claude Code skills 精选导航站](https://agent-skills.cc/)：从收集的 6w+ agnet-skills中精选出 1000+ 实用/有趣的 Claude Code Skills，持续更新中
 
 #### KevinKaul
 * :white_check_mark: [FastScribe](https://fastscribe.org)：Convert MP3, MP4, WAV to text online. Audio transcription and video to text converter with 240 minutes free credit.
