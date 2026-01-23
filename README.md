@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 23 号添加
+
+#### suxiaoshuang2020-arch - [Github](https://github.com/suxiaoshuang2020-arch)
+* :white_check_mark: [2d & 3d 文件格式转换器](https://www.3dpea.com/)：在线2D&3D 文件格式转换器，支持包含：png to stl, obj to stl， webp to png等。
+* :white_check_mark: [dicom to stl](https://dicom2stl.io/)：在线将dicom 医学扫描文件转为可打印的3d stl 文件的工具。
+
 ### 2026 年 1 月 21 号添加
 
 #### lixiaofei162-code - [Github](https://github.com/lixiaofei162-code)
