@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 24 号添加
+
+#### Justin3go(北京) - [博客](https://justin3go.com)
+* :white_check_mark: [HUNT0 - Ship Early. Hunt Early](https://hunt0.com)：产品发布平台，类似于ProductHunt，欢迎提交～
+
 ### 2026 年 1 月 21 号添加
 
 #### lixiaofei162-code - [Github](https://github.com/lixiaofei162-code)
