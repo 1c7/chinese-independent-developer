@@ -21,14 +21,18 @@
 ## 3. 项目列表
 
 ### 2026 年 1 月 24 号添加
+#### suxiaoshuang2020-arch - [Github](https://github.com/suxiaoshuang2020-arch)
+* :white_check_mark: [2d & 3d 文件格式转换器](https://www.3dpea.com/)：2D&3D 文件格式转换器，支持包含：png to stl, obj to stl， webp to png 等
+* :white_check_mark: [dicom to stl](https://dicom2stl.io/)：将 dicom 医学扫描文件转为可打印的 3d stl 文件的工具
 
 #### Justin3go(北京) - [博客](https://justin3go.com)
-* :white_check_mark: [HUNT0 - Ship Early. Hunt Early](https://hunt0.com)：产品发布平台，类似于ProductHunt，欢迎提交～
+* :white_check_mark: [HUNT0 - Ship Early. Hunt Early](https://hunt0.com)：产品发布平台，类似 ProductHunt，欢迎提交～
+
 
 ### 2026 年 1 月 21 号添加
 
 #### lixiaofei162-code - [Github](https://github.com/lixiaofei162-code)
-* :white_check_mark: [Agent – Claude Code skills 精选导航站](https://agent-skills.cc/)：从收集的 6w+ agnet-skills中精选出 1000+ 实用/有趣的 Claude Code Skills，持续更新中
+* :white_check_mark: [Agent – Claude Code skills 精选导航站](https://agent-skills.cc/)：从收集的 6w+ agnet-skills 中精选出 1000+ 实用/有趣的 Claude Code Skills，持续更新中
 
 #### KevinKaul
 * :white_check_mark: [FastScribe](https://fastscribe.org)：Convert MP3, MP4, WAV to text online. Audio transcription and video to text converter with 240 minutes free credit.
