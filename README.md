@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 26 号添加
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [CuteWallpaper.site](https://cutewallpaper.site/)：支持裁剪下载的可爱壁纸网站
+
+#### ZizheRuan - [Github](https://github.com/ZizheRuan), [博客](https://deepcreates.com/)
+* :white_check_mark: [AI Just Better](https://aijustbetter.com/)：AI 产品发布、宣传、推广平台，可免费提交产品，对同类产品进行横向对比
+
+#### QingJ(西安) - [Github](https://github.com/QingJ01/), [博客](https://blog.byebug.cn/)
+* :white_check_mark: [OneLook](https://onelook.byebug.cn/)：Web 端思维导图工具。它摒弃了繁杂的 UI 干扰，结合了 Markdown 的流畅输入与 SVG 的高性能渲染，为您提供所见即所得的思考空间。数据完全存储于本地，隐私无忧。
+
 ### 2026 年 1 月 25 号添加
 
 #### lshimin(武汉) - [Github](https://github.com/lshimin188)
