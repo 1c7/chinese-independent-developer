@@ -22,6 +22,9 @@
 
 ### 2026 年 1 月 26 号添加
 
+#### qqhaosao(广州)
+* :white_check_mark: [Heic To Png](https://heic-to-png.online/)：免费将heic/heif格式的图片转换为png
+
 #### Shawn(北京) - [Github](https://github.com/ShawnHacks)
 * :white_check_mark: [CuteWallpaper.site](https://cutewallpaper.site/)：支持裁剪下载的可爱壁纸网站
 
