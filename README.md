@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 25 号添加
+
+#### lshimin(武汉) - [Github](https://github.com/lshimin188)
+* :white_check_mark: [SAM 3D](https://sam3d.org)：基于 Meta 开源的 SAM 3D 模型，在线将图片中的对象分割转换为高精度 3D 模型
+
 ### 2026 年 1 月 24 号添加
 #### suxiaoshuang2020-arch - [Github](https://github.com/suxiaoshuang2020-arch)
 * :white_check_mark: [2d & 3d 文件格式转换器](https://www.3dpea.com/)：2D&3D 文件格式转换器，支持包含：png to stl, obj to stl， webp to png 等
