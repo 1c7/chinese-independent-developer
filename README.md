@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 1 月 27 号添加
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [TranslateGemmaBot](https://t.me/TranslateGemmaBot)：基于Google AI翻译模型TranslateGemma构建的Telegram翻译机器人，支持多语言互译
+
+#### Poiybro
+* :white_check_mark: [OSINT Tools](http://osinttools.me/)：The comprehensive OSINT tools list for professionals. Explore our directory of best free resources for email OSINT, technical research, and data analysis. - [More](https://osinttools.me/about)
+
 ### 2026 年 1 月 26 号添加
 
 #### qqhaosao(广州)
