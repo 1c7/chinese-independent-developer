@@ -2,6 +2,49 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 1 月 10 号添加
+
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Star Rupture Calculator](https://starrupture-tools.com/)：Stream 游戏 Star Rupture 工具网站
+
+### 2026 年 1 月 7 号添加
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Obsessed Trace Calculator](https://obsessedtrace.com/)：Stream 游戏 Obsessed Trace 工具网站
+
+### 2026 年 1 月 4 号添加
+#### Ivanvolt(武汉) - [博客](https://ivanvolt.com)，[Github](https://github.com/ivanvolt-labs)
+* :white_check_mark: [Square Face Generator](https://squarefacegenerator.co)：生成方脸头像
+* :white_check_mark: [UB Games](https://ubgames.co)：免费浏览器游戏
+* :white_check_mark: [Wenda Treatment](https://wendatreatment.com)：暗黑音乐之旅
+
+### 2026 年 1 月 3 号添加
+#### 290713469 - [Github](https://github.com/290713469)
+* :white_check_mark: [Anime Fighting Simulator Calculator](https://anime-fighting-simulator.com)：Roblox Anime Fighting Simulator游戏工具
+
+### 2026 年 1 月 2 号添加
+* :white_check_mark: [PokePath-TD](https://play-pokepath-td.online/)：PokePath-TD一款海外爆火的宝可梦塔防游戏，在9 条不同的路线上抵御一波又一波的敌人，失败了也可以累积资源和升级宝可梦成员。
+
+### 2025 年 12 月 27 号添加
+* :white_check_mark: [Riddle School](https://riddle-school.online/)：Riddle School 是一款以校园为背景的解谜冒险游戏，采用简单直观的点击操作方式，适合各类玩家上手。游戏通过一系列环环相扣的谜题，引导玩家不断思考不同道具和场景之间的关系。解谜过程清晰，让人能够专注于推理本身。
+
+### 2025 年 12 月 21 号添加
+#### shuiwuhen - [GitHub](https://github.com/290713469)
+* :white_check_mark: [Universal Tower Defense Calculator](https://universaltowerdefensecalculator.com)：Roblox 游戏 Universal Tower Defense 工具站
+
+### 2025 年 12 月 14 号添加
+#### seven(沈阳)
+* :white_check_mark: [Pips game](https://pipsgame.dev/): 每日逻辑谜题，你通过纯推理放置多米诺骨牌——无需猜测（Pips Game is a daily logic puzzle where you place dominoes using pure deduction — no guessing）
+
+### 2025 年 12 月 13 号添加
+* :white_check_mark: [Duck Duck Clicker](https://duckduckclicker.space/)：如果你喜欢轻松的点击游戏，你应该试试Duck Duck Clicker。你只需轻点一只可爱的大鸭子，就可以建立自己的鸭子帝国——超级上瘾，而且有趣得令人惊讶。
+
+### 2025 年 12 月 11 号添加
+* :white_check_mark: [No Means Nothing Calculator](https://nomeansnothing.com)：Stream No Means Nothing 游戏工具网站
+
+### 2025 年 12 月 9 号添加
+#### shuiwuhen - [Github](https://github.com/290713469)
+* :white_check_mark: [A.I.L.A Calculator](https://ailagame.com)：Stream A.I.L.A 游戏工具网站
+
 ### 2025 年 11 月 26 号添加
 #### Light(上海) 
 * :white_check_mark: [Yes or No Wheel](https://yesornot.net/)：Spin the Yes or No Wheel - Get Your Free & Instant Decision - Struggling with a decision? Spin our free Yes or No Wheel for an instant, random answer! It's the simple, fun, and fast way to eliminate hesitation.
