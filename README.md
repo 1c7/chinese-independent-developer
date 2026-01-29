@@ -31,6 +31,9 @@
 #### Poiybro
 * :white_check_mark: [OSINT Tools](http://osinttools.me/)：The comprehensive OSINT tools list for professionals. Explore our directory of best free resources for email OSINT, technical research, and data analysis. - [More](https://osinttools.me/about)
 
+#### ventupx
+* :white_check_mark: [upx-cli](https://github.com/ventupx/upx-cli)：通过 cli 生成 AI Coding 通用规则。
+
 
 ### 2026 年 1 月 26 号添加
 
