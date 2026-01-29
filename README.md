@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+
+### 2026 年 1 月 29 号添加
+
+#### ventupx(四川)
+* :white_check_mark: [upx-cli](https://github.com/ventupx/upx-cli)：通过 cli 安装通用 AI 规则和 skills
+
 ### 2026 年 1 月 26 号添加
 
 #### qqhaosao(广州)
