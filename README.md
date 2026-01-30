@@ -22,6 +22,9 @@
 
 ### 2026 年 1 月 29 号添加
 
+#### Sunny(深圳) - [Github](https://github.com/Sunny-by3)
+* :white_check_mark: [Moyea Streaming Video Recorder](https://www.moyeasoft.com/downloader/streaming-video-recorder/)：录制并保存主流网站流媒体视频以离线观看的工具。 - [更多介绍](https://www.moyeasoft.com/downloader/)
+
 #### 超能刚哥
 * :white_check_mark: [PictureKit](https://picturekit.app/)：在浏览器中批量进行各种图片处理任务，不经过服务器，可构建为自动化工作流
 
