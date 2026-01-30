@@ -20,11 +20,10 @@
 
 ## 3. 项目列表
 
-#### Mickey - [Github](https://github.com/mymickey)
-* :white_check_mark: [TakeScreen](https://takescreen.com/)：在浏览器中编辑各大平台的聊天软件的 App 聊天截图,如 WhatsApp, Telegram, Instagram等等,并导出成高清截图
-
-
 ### 2026 年 1 月 30 号添加
+#### Mickey - [Github](https://github.com/mymickey)
+* :white_check_mark: [TakeScreen](https://takescreen.com/)：在浏览器中编辑各大平台的聊天软件的 App 聊天截图,如 WhatsApp, Telegram, Instagram 等等,并导出成高清截图
+
 #### Ivanvolt(武汉) - [博客](https://ivanvolt.com)
 * :white_check_mark: [US Address Generator](https://usaddressgenerator.net)：美国随机地址生成工具，支持一键生成包含街道、城市、州和邮编的真实格式地址，非常适合开发者进行系统测试或跨境业务模拟注册。
 
