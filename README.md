@@ -20,7 +20,7 @@
 
 ## 3. 项目列表
 
-#### mickey
+#### Mickey - [Github](https://github.com/mymickey)
 * :white_check_mark: [TakeScreen](https://takescreen.com/)：在浏览器中编辑各大平台的聊天软件的 App 聊天截图,如 WhatsApp, Telegram, Instagram等等,并导出成高清截图
 
 
