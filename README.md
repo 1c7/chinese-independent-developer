@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 3 号添加
+
+#### WRCoding - [Github](https://github.com/WRCoding)
+* :white_check_mark: [NNG](https://nicknamegeneratorforgames.top/)：输入想法，AI生成各种类型昵称
+
 ### 2026 年 2 月 2 号添加
 
 #### Ricky Lee(深圳) 
