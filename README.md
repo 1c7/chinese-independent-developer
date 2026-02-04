@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 4 号添加
+
+#### wang1309 - [Github](https://github.com/wang1309)
+* :white_check_mark: [fluxchat](https://fluxchat.org/)：一站式AI功能聚合网站，包含AI Image、AI Music、AI Video、AI chatbot 等功能。
+
 ### 2026 年 2 月 3 号添加
 
 #### WRCoding - [Github](https://github.com/WRCoding)
