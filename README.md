@@ -21,14 +21,17 @@
 ## 3. 项目列表
 
 ### 2026 年 2 月 5 号添加
+#### wang1309 - [Github](https://github.com/wang1309)
+* :white_check_mark: [fluxchat](https://fluxchat.org/)：一站式 AI 功能聚合网站，包含 AI Image、AI Music、AI Video、AI chatbot 等功能
 
 #### FrankLiBao - [Github](https://github.com/FrankLiBao)
-* :white_check_mark: [AI人生系统](https://life-system-lyart.vercel.app)：受网文"系统流"启发的AI游戏化个人成长平台，AI自动派任务、经验值等级体系、六维属性雷达图 - [更多介绍](https://github.com/FrankLiBao/life-system)
+* :white_check_mark: [AI人生系统](https://life-system-lyart.vercel.app)：受网文"系统流"启发的 AI 游戏化个人成长平台，AI 自动派任务、经验值等级体系、六维属性雷达图 - [更多介绍](https://github.com/FrankLiBao/life-system)
+
 
 ### 2026 年 2 月 3 号添加
 
 #### WRCoding - [Github](https://github.com/WRCoding)
-* :white_check_mark: [NNG](https://nicknamegeneratorforgames.top/)：输入想法，AI生成各种类型昵称
+* :white_check_mark: [NNG](https://nicknamegeneratorforgames.top/)：输入想法，AI 生成各种类型昵称
 
 ### 2026 年 2 月 2 号添加
 
