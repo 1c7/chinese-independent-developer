@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 6 号添加
+
+#### xphoenix(山西) - [Github](https://github.com/hell0w0rld-litx)
+* :white_check_mark: [HEIC转JPG](http://www.heic2img.top)：注重隐私的 HEIC 转换器。将 iPhone 照片转换为 JPG 格式。所有处理都在浏览器本地进行
+
 ### 2026 年 2 月 5 号添加
 
 #### gellmoonly - [Twitter](https://x.com/gell_moon)
