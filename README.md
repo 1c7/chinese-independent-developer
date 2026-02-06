@@ -23,13 +23,13 @@
 ### 2026 年 2 月 5 号添加
 
 #### gellmoonly - [Twitter](https://x.com/gell_moon)
-* :white_check_mark: [Hide Reader](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare)：可以隐藏和仿真翻页的小说阅读器，支持txt, pdf, epub, mobi, azw, azw3, cbz等格式。已上架 [微软商店](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare) 和 [苹果商店](https://apps.apple.com/cn/app/hide-reader/id6757635630?mt=12)
+* :white_check_mark: [Hide Reader (微软商店链接)](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare)：可以隐藏和仿真翻页的小说阅读器，支持txt, pdf, epub, mobi, azw, azw3, cbz等格式。也上架了 [苹果商店](https://apps.apple.com/cn/app/hide-reader/id6757635630?mt=12)
 
 #### xphoenix(山西) - [Github](https://github.com/hell0w0rld-litx)
 * :white_check_mark: [YT2Sub - YouTube 字幕提取下载工具](https://chromewebstore.google.com/detail/yt2sub-youtube-%E5%AD%97%E5%B9%95%E6%8F%90%E5%8F%96%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/ekhefpommdifipkhbnjjegpimckjbami?hl=zh-CN&utm_source=ext_sidebar)：下载 YouTube 视频字幕（支持 TXT/SRT/VTT）
 
 #### 韩数 - [Github](https://github.com/hanshuaikang)
-* :white_check_mark: [Owl 猫头鹰](https://owl.hanshutx.com/)：小红书公众号在线敏感词检测工具
+* :white_check_mark: [Owl 猫头鹰](https://owl.hanshutx.com/)：小红书公众号在线敏感词检测工具。我做了半年自媒体之后才发现需要规避平台敏感词，但是之前用的工具停服了，市面上其他的需要登录或者关注他们的公众号才可以使用，于是我 vibe coding 了一个敏感词检测工具，词库是根据网上找的，精简下来有 6 万多个。用了 cloudflare 的开发者穷鬼套餐，所以每人每天限制 10 次，主要是防止第三方调接口把额度耗完大家都没得用，应该对于大多数创作者都是足够使用的了
 
 #### wang1309 - [Github](https://github.com/wang1309)
 * :white_check_mark: [fluxchat](https://fluxchat.org/)：一站式 AI 功能聚合网站，包含 AI Image、AI Music、AI Video、AI chatbot 等功能
