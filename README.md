@@ -23,14 +23,14 @@
 ### 2026 年 2 月 5 号添加
 
 #### gellmoonly - [Twitter](https://x.com/gell_moon)
-* :white_check_mark: [Hide Reader](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare)：可以隐藏和仿真翻页的小说阅读器，支持txt, pdf, epub, mobi, azw, azw3, cbz等格式。已上架[微软商店](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare) 和 [苹果商店](https://apps.apple.com/cn/app/hide-reader/id6757635630?mt=12)
+* :white_check_mark: [Hide Reader](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare)：可以隐藏和仿真翻页的小说阅读器，支持txt, pdf, epub, mobi, azw, azw3, cbz等格式。已上架 [微软商店](https://apps.microsoft.com/detail/9NWGDGRFKGG1?hl=zh-cn&gl=CN&ocid=pdpshare) 和 [苹果商店](https://apps.apple.com/cn/app/hide-reader/id6757635630?mt=12)
 
 #### xphoenix(山西) - [Github](https://github.com/hell0w0rld-litx)
 * :white_check_mark: [YT2Sub - YouTube 字幕提取下载工具](https://chromewebstore.google.com/detail/yt2sub-youtube-%E5%AD%97%E5%B9%95%E6%8F%90%E5%8F%96%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7/ekhefpommdifipkhbnjjegpimckjbami?hl=zh-CN&utm_source=ext_sidebar)：下载 YouTube 视频字幕（支持 TXT/SRT/VTT）
 
-#### hanshuaikang - [Github](https://github.com/hanshuaikang)
-* :white_check_mark: [韩数](https://github.com/hanshuaikang)：开发者主页
+#### 韩数 - [Github](https://github.com/hanshuaikang)
 * :white_check_mark: [Owl 猫头鹰](https://owl.hanshutx.com/)：小红书公众号在线敏感词检测工具
+
 #### wang1309 - [Github](https://github.com/wang1309)
 * :white_check_mark: [fluxchat](https://fluxchat.org/)：一站式 AI 功能聚合网站，包含 AI Image、AI Music、AI Video、AI chatbot 等功能
 
