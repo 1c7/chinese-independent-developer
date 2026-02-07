@@ -20,7 +20,12 @@
 
 ## 3. 项目列表
 
-### 2026 年 2 月 6 号添加
+
+
+### 2026 年 2 月 7 号添加
+
+#### 我是欧阳 - [Github](https://github.com/iamouyang21)
+* :white_check_mark: [OpenClaw Skills](https://openclawskills.co/)：OpenClaw 官方注册表目前托管了 3000+ 个社区构建的智能体技能（Skills），但内容较为杂乱。OpenClaw Skills 是一个经过精选和分类的第三方目录，旨在为开发者提供更干净、高效的检索体验。基于数据清洗从原始注册表中保留了 1705+ 个技能，主要特点包括：精选收录：剔除了加密货币/Web3/DeFi 内容、批量生成的垃圾条目以及重复项。安全筛选：尽可能过滤了涉及滥用、欺诈等潜在有害的技能（我们仍建议安装前审查代码）。专注质量：移除了非英语描述的条目，确保信息的可用性。对于正在寻找 OpenClaw 技能的开发者来说，这里是一个更易于发现和比较工具的入口。
 
 #### xphoenix(山西) - [Github](https://github.com/hell0w0rld-litx)
 * :white_check_mark: [HEIC转JPG](http://www.heic2img.top)：注重隐私的 HEIC 转换器。将 iPhone 照片转换为 JPG 格式。所有处理都在浏览器本地进行
