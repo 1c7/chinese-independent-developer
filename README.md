@@ -20,6 +20,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 8 号添加
+
+#### JohnsonZou(武汉)
+* :white_check_mark: [Storyship](https://storyship.app/)：将屏幕录像转为专业演示视频
+* :white_check_mark: [Video watermark remover](https://videowatermarkremover.co/)：视频水印移除工具
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Create a Caricature of Me](http://create-a-caricature-of-me.com/)：上传图片，生成GPT风格动漫头像
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [seedance2.0](https://seedance2.so)：seedance 2.0 AI 视频生成工具
+ * 参考图像可精准还原画面构图、角色细节
+ * 参考视频支持镜头语言、复杂的动作节奏、创意特效的复刻
+ * 视频支持平滑延长与衔接，可按用户提示生成连续镜头，不止生成，还能“接着拍”
+ * 编辑能力同步增强，支持对已有视频进行角色更替、删减、增加
+
 
 
 ### 2026 年 2 月 7 号添加
