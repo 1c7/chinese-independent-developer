@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 9 号添加
+
+#### yoga666996 - [Github](https://github.com/yoga666996)
+* :white_check_mark: [Seedance 2.0](https://www.seedance2-video.com)：电影级 AI 视频生成器，支持多镜头叙事、1080p 画质与音画同步
+
+#### waiwaixzz - [Github](https://github.com/waiwaixzz)
+* :white_check_mark: [visionchat.app](https://visionchat.app/)：聊天辅助器，将对话文本转换成动态表情和气泡
+
+#### JohnsonZou(武汉) - [Github](https://github.com/coodersio)
+* :white_check_mark: [Print PDF Tool](https://print-for-figma.com)：Figma打印插件，将Figma设计导出为适合印刷的CMYK颜色格式PDF。 - [更多介绍](https://print-for-figma.com/features/pdf-print)
+
 ### 2026 年 2 月 8 号添加
 
 #### JohnsonZou(武汉)
