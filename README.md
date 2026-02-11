@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 10 号添加
+#### Toolina(成都)
+* :white_check_mark: [ImageDescriber](https://imagedescriber.dev/?utm_source=github)：使用 AI 图像描述工具在几秒钟内描述图像内容。生成描述、提示词和 Alt 文本。免费试用——无需登录。
+
 ### 2026 年 2 月 9 号添加
 
 #### yoga666996 - [Github](https://github.com/yoga666996)
