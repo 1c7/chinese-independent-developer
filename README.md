@@ -5830,10 +5830,10 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://sspai.com/post/42272)
 
 #### 猫叔 - [GitHub](https://github.com/imeoer), [博客](http://www.chole.io/)
-* :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
+* :x: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
 
 #### 糖醋陈皮 - [GitHub](https://github.com/1c7), [微博](https://weibo.com/2004104451/profile?topnav=1&wvr=6)
-* :white_check_mark: [字幕组机翻小助手](https://translation-helper.1c7.me/)：机器翻译 .srt .ass 字幕文件
+* :white_check_mark: [字幕组机翻小助手](https://tern.1c7.me)：机器翻译 .srt .ass 字幕文件
 * :x: [寓住](https://yuzhu.me)：找长租公寓/评价长租公寓
 * :white_check_mark: [Sideidea](http://sideidea.com)：独立开发者分享做项目盈利的故事，目前内容均翻译自 Indie Hacker，暂无原创内容。
 * :x: [CC 速成班](https://www.coolapk.com/apk/com.crashcourse.china.c17)：聚合所有中文字幕 Crash Course 视频 - [更多介绍](https://wanqu.io/t/app-cc-crash-course/7606)
