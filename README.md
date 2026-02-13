@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 13 号添加
+
+#### 制作者名字(上海) - [Github](https://github.com/Yuzu-Peel)
+* :white_check_mark: [CookLLM](https://cookllm.com/)：从头构建并训练一个LLM
+
 ### 2026 年 2 月 12 号添加
 ####  托马(杭州)
 * :white_check_mark: [Seedance 2.0 Video](https://seedance2.video)：基于 Seedance 2.0 的 AI 视频生成和编辑平台
