@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 13 号添加
+
+#### Lucian(广州) - [Github](https://github.com/lucianLY)
+* :white_check_mark: [steamvai](https://steamvai.com/)：专注文案转视频，根据文案内容生产处优质的视频资源，叙事镜头、1080P视频音频视频效果都不错。
+
+#### Yuzu-Peel(上海) - [Github](https://github.com/Yuzu-Peel)
+* :white_check_mark: [CookLLM](https://cookllm.com/)：带你从头训练一个 LLM
+
 ### 2026 年 2 月 12 号添加
 ####  托马(杭州)
 * :white_check_mark: [Seedance 2.0 Video](https://seedance2.video)：基于 Seedance 2.0 的 AI 视频生成和编辑平台
