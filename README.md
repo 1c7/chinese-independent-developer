@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+
+### 2026 年 2 月 14 号添加
+
+#### Jack - [Github](https://github.com/ThinkerJack)
+* :white_check_mark: [GroAsk](https://groask.com/)：macOS 菜单栏 AI 启动器，⌥Space 直达多个 AI（快捷键可自定义）
+
 ### 2026 年 2 月 13 号添加
 
 #### Lucian(广州) - [Github](https://github.com/lucianLY)
