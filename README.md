@@ -20,6 +20,13 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 15 号添加
+
+#### Lucian(Guangzhou) - [Github](https://github.com/lucianLY)
+* :white_check_mark: [steamvai](https://steamvai.com/)：文案转视频，根据文案内容生产处优质的视频资源，叙事镜头、1080P 视频音频视频效果都不错
+
+#### sagasu(上海) - [Github](https://github.com/s87343472)
+* :white_check_mark: [OmniConvert](https://tools.sagasu.art/?utm_source=github&utm_medium=awesome-list&utm_campaign=chinese-independent-developer)：文件格式和单位转换工具，浏览器本地处理，支持94种文件格式互转与345种单位换算，8种语言
 
 ### 2026 年 2 月 14 号添加
 
