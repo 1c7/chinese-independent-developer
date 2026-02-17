@@ -23,8 +23,7 @@
 ### 2026 年 2 月 16 号添加
 
 #### hanshs474 - [Github](https://github.com/hanshs474)
-* :white_check_mark: [Seedance 2.0](https://www.seedance2.today)：创作电影级 AI 视频
-* :white_check_mark: [Seedance 2.0](https://www.seedance2.today)：支持多个模型的图片视频生成网站
+* :white_check_mark: [Seedance 2.0](https://www.seedance2.today)：创作电影级 AI 视频，支持多个模型的图片视频生成网站
 
 ### 2026 年 2 月 15 号添加
 
