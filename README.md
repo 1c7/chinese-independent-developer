@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 17 号添加
 
+#### iamouyang21
+* :white_check_mark: [Graffiti Generator](https://graffitigenerator.io)：生成涂鸦艺术，旨在降低涂鸦创作的门槛。它结合了 AI 绘画生成与传统的字体设计功能，让用户无需任何绘画基础，也能在几秒钟内创造出专业级的涂鸦作品。
+
 #### Leochens - [Github](https://github.com/Leochens)
 * :white_check_mark: [FloatMemo 状态栏小本本](https://apps.apple.com/cn/app/FloatMemo/id6749236800)：沉浸式速记与剪贴板管理工具(面向 Mac 平台），通过“不切屏”交互解决多任务场景下的注意力切换成本。支持全局悬浮速记、图文混排、快捷键调出剪贴板历史并一键粘贴或保存至笔记。
 
