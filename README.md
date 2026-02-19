@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 17 号添加
+
+#### Leochens - [Github](https://github.com/Leochens)
+* :white_check_mark: [FloatMemo 状态栏小本本](https://apps.apple.com/cn/app/FloatMemo/id6749236800)：沉浸式速记与剪贴板管理工具(面向 Mac 平台），通过“不切屏”交互解决多任务场景下的注意力切换成本。支持全局悬浮速记、图文混排、快捷键调出剪贴板历史并一键粘贴或保存至笔记。
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [NovaImage](https://novaimage.ai)：一站式AI图像与视频生成平台（以 Nano Banana Pro 为核心创意引擎），整合视觉设计与影视级视频制作AI模型于统一工作空间
+
 ### 2026 年 2 月 16 号添加
 
 #### hanshs474 - [Github](https://github.com/hanshs474)
