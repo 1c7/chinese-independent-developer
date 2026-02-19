@@ -20,10 +20,18 @@
 
 ## 3. 项目列表
 
-### 2026 年 2 月 17 号添加
+### 2026 年 2 月 19 号添加
+
+#### BC - [Github](https://github.com/cwingho)
+* :white_check_mark: [粵語拼音網](https://cantonesepinyin.com/)：專業粵語拼音轉換工具，即時將中文轉換為標準粵拼
+
+#### yaowei - [GitHub](https://github.com/lumian2015)
+* :white_check_mark: [MotionSeed](https://seedance-2.video)：AI 视频生成平台，聚合 Sora 2、Veo 3.1、Seedance 2.0 等多个主流 AI 视频模型，支持文字生成视频、图片生成视频，无需分别注册各平台账号，注册即送免费额度。
 
 #### iamouyang21
 * :white_check_mark: [Graffiti Generator](https://graffitigenerator.io)：生成涂鸦艺术，旨在降低涂鸦创作的门槛。它结合了 AI 绘画生成与传统的字体设计功能，让用户无需任何绘画基础，也能在几秒钟内创造出专业级的涂鸦作品。
+
+### 2026 年 2 月 17 号添加
 
 #### Leochens - [Github](https://github.com/Leochens)
 * :white_check_mark: [FloatMemo 状态栏小本本](https://apps.apple.com/cn/app/FloatMemo/id6749236800)：沉浸式速记与剪贴板管理工具(面向 Mac 平台），通过“不切屏”交互解决多任务场景下的注意力切换成本。支持全局悬浮速记、图文混排、快捷键调出剪贴板历史并一键粘贴或保存至笔记。
