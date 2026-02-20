@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 20 号添加
+
+#### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
+* :white_check_mark: [FaceFinder](https://facefinder.id/)：AI人脸搜索和反向图像搜索工具
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [Seadance AI](https://seadanceai.net)：由 Seedance 2.0 驱动的一站式视频与图像生成平台，整合全球领先 AI 模型到统一工作流程，通过专为创作者、营销人员和机构设计的单一积分系统，可生成影院级 1080p 视频（自带同步音频），用导演级剪辑逐帧优化画面，并创作高保真图像。
+
 ### 2026 年 2 月 19 号添加
 
 #### BC - [Github](https://github.com/cwingho)
