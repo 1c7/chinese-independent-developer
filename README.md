@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 21 号添加
+
+#### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
+* :white_check_mark: [Reloop - AI 转录英语，日语，韩语，法语，德语等(ios)](https://apps.apple.com/cn/app/reloop-ai%E8%BD%AC%E5%BD%95%E4%B8%8E%E9%87%8D%E5%A4%8D/id6752853818)：一款简洁的多语言听力 app，支持导入 Podcast，YouTube 的链接，提供双语字幕，跟读练习，深入解析句子结构等功能。支持把文本材料合成音频听力材料，同时用户可以用自然语言描述的方式快速导入相关的 YouTube 视频。
+
 ### 2026 年 2 月 20 号添加
 
 #### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
