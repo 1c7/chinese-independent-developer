@@ -23,7 +23,7 @@
 ### 2026 年 2 月 22 号添加
 
 #### jjleng(美国) - [Github](https://github.com/jjleng)
-* :white_check_mark: [Gliss](https://gliss.pro)：AI 音乐生成与编辑平台，可生成并继续微调音乐。
+* :white_check_mark: [Gliss](https://gliss.pro)：AI 音频代理，用于歌曲生成、翻唱、MIDI 编辑、母带处理与封面艺术；可生成免版税人声与伴奏，并支持精确分轨/元素提取。
 
 ### 2026 年 2 月 21 号添加
 
