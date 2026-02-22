@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 22 号添加
+
+#### Cyan(北京) - [Github](https://github.com/ShaodongDev)
+* :white_check_mark: [NewTool.site](https://newtool.site/)：AI驱动的工具导航站和收录平台，帮助初创工具增加 DR、被看到 - [更多介绍](https://newtool.site/about)
+
 ### 2026 年 2 月 21 号添加
 
 #### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
