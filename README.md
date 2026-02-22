@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 22 号添加
+
+#### Gliss
+* :white_check_mark: [Gliss](https://gliss.pro)：AI 音乐生成与编辑平台，可生成并继续微调音乐。
+
 ### 2026 年 2 月 21 号添加
 
 #### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
