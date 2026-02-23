@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 23 号添加
+
+#### my19940202(Shanghai) - [Github](https://github.com/my19940202)
+* :white_check_mark: [Download Pilot - 自动整理下载 + 智能命名插件](https://www.downloadpilot.top/zh)：一款 Chrome 扩展：按文件类型自动把下载整理进文件夹，并支持按照网页上下文 乱码/哈希文件名变成可读名称，让下载夹整洁、好找、可搜索。。
+
+  
 ### 2026 年 2 月 21 号添加
 
 #### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
