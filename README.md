@@ -23,15 +23,15 @@
 ### 2026 年 2 月 23 号添加
 
 #### jjleng(美国) - [Github](https://github.com/jjleng)
-* :white_check_mark: [Gliss](https://gliss.pro)：AI music agent，用于歌曲生成、翻唱、MIDI 编辑、母带处理与封面艺术；可生成免版税人声与伴奏，并支持精确分轨/元素提取。
+* :white_check_mark: [Gliss](https://gliss.pro)：AI Music Agent，用于歌曲生成、翻唱、MIDI 编辑、母带处理与封面艺术；可生成免版税人声与伴奏，并支持精确分轨/元素提取。
 
-#### my19940202(Shanghai) - [Github](https://github.com/my19940202)
-* :white_check_mark: [Download Pilot - 自动整理下载 + 智能命名插件](https://www.downloadpilot.top/zh)：一款 Chrome 扩展：按文件类型自动把下载整理进文件夹，并支持按照网页上下文 乱码/哈希文件名变成可读名称，让下载夹整洁、好找、可搜索。。
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [Download Pilot - 自动整理下载 + 智能命名插件](https://www.downloadpilot.top/zh)：Chrome 扩展：按文件类型自动把下载整理进文件夹，并支持按照网页上下文 乱码/哈希文件名变成可读名称，让下载夹整洁、好找、可搜索
 
 ### 2026 年 2 月 21 号添加
 
 #### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
-* :white_check_mark: [Reloop - AI 转录英语，日语，韩语，法语，德语等(ios)](https://apps.apple.com/cn/app/reloop-ai%E8%BD%AC%E5%BD%95%E4%B8%8E%E9%87%8D%E5%A4%8D/id6752853818)：一款简洁的多语言听力 app，支持导入 Podcast，YouTube 的链接，提供双语字幕，跟读练习，深入解析句子结构等功能。支持把文本材料合成音频听力材料，同时用户可以用自然语言描述的方式快速导入相关的 YouTube 视频。
+* :white_check_mark: [Reloop - AI 转录英语，日语，韩语，法语，德语等(iOS)](https://apps.apple.com/cn/app/reloop-ai%E8%BD%AC%E5%BD%95%E4%B8%8E%E9%87%8D%E5%A4%8D/id6752853818)：多语言听力 App，支持导入 Podcast，YouTube 的链接，提供双语字幕，跟读练习，深入解析句子结构等功能。支持把文本材料合成音频听力材料，同时用户可以用自然语言描述的方式快速导入相关的 YouTube 视频
 
 ### 2026 年 2 月 20 号添加
 
