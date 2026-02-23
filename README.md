@@ -36,10 +36,10 @@
 ### 2026 年 2 月 20 号添加
 
 #### HuzefaUsama25 - [Github](https://github.com/HuzefaUsama25)
-* :white_check_mark: [FaceFinder](https://facefinder.id/)：AI人脸搜索和反向图像搜索工具
+* :white_check_mark: [FaceFinder](https://facefinder.id/)：AI 人脸搜索和反向图像搜索工具
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [Seadance AI](https://seadanceai.net)：由 Seedance 2.0 驱动的一站式视频与图像生成平台，整合全球领先 AI 模型到统一工作流程，通过专为创作者、营销人员和机构设计的单一积分系统，可生成影院级 1080p 视频（自带同步音频），用导演级剪辑逐帧优化画面，并创作高保真图像。
+* :white_check_mark: [Seadance AI](https://seadanceai.net)：视频与图像生成平台（由 Seedance 2.0 驱动），整合全球领先 AI 模型到统一工作流程，通过专为创作者、营销人员和机构设计的单一积分系统，可生成影院级 1080p 视频（自带同步音频），用导演级剪辑逐帧优化画面，并创作高保真图像。
 
 ### 2026 年 2 月 19 号添加
 
@@ -58,7 +58,7 @@
 * :white_check_mark: [FloatMemo 状态栏小本本](https://apps.apple.com/cn/app/FloatMemo/id6749236800)：沉浸式速记与剪贴板管理工具（面向 Mac 平台），通过“不切屏”交互解决多任务场景下的注意力切换成本。支持全局悬浮速记、图文混排、快捷键调出剪贴板历史并一键粘贴或保存至笔记。
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
-* :white_check_mark: [NovaImage](https://novaimage.ai)：一站式 AI 图像与视频生成平台（以 Nano Banana Pro 为核心创意引擎），整合视觉设计与影视级视频制作 AI 模型于统一工作空间
+* :white_check_mark: [NovaImage](https://novaimage.ai)：AI 图像与视频生成平台（以 Nano Banana Pro 为核心创意引擎），整合视觉设计与影视级视频制作 AI 模型于统一工作空间
 
 ### 2026 年 2 月 16 号添加
 
