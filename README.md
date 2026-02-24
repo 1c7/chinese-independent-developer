@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 24 号添加
+### mickey(杭州) - [github](https://github.com/mymickey/kidblocker)
+* :white_check_mark: [KidBlocker](https://kidblocker.com)：My kid was spending too much time on YouTube, so I looked for a browser extension to block it. Couldn't find one I was happy with on the Chrome Web Store, so I built my own — sharing it here in case it helps others.
+
+
 ### 2026 年 2 月 23 号添加
 
 #### jjleng(美国) - [Github](https://github.com/jjleng)
