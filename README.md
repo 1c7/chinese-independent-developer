@@ -21,12 +21,10 @@
 ## 3. 项目列表
 
 ### 2026 年 2 月 24 号添加
-### mickey(杭州) - [github](https://github.com/mymickey/kidblocker)
-* :white_check_mark: [KidBlocker](https://kidblocker.com)：My kid was spending too much time on YouTube, so I looked for a browser extension to block it. Couldn't find one I was happy with on the Chrome Web Store, so I built my own — sharing it here in case it helps others.
-
+#### mickey(杭州) - [github](https://github.com/mymickey/kidblocker)
+* :white_check_mark: [KidBlocker](https://kidblocker.com)：我家孩子看 YouTube 的时间太长了，所以我想找个浏览器扩展（browser extension）来屏蔽它。在 Chrome 网上应用店没找到满意的，我就自己做了一个——在这里分享出来，看看能不能帮到其他人。
 
 ### 2026 年 2 月 23 号添加
-
 #### jjleng(美国) - [Github](https://github.com/jjleng)
 * :white_check_mark: [Gliss](https://gliss.pro)：AI Music Agent，用于歌曲生成、翻唱、MIDI 编辑、母带处理与封面艺术；可生成免版税人声与伴奏，并支持精确分轨/元素提取。
 
