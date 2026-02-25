@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 25 号添加
 
+#### lkunxyz - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [Seadance 2.0 AI](https://seedance2.so)：由 Seedance 2.0 驱动的创作平台，整合全球顶尖模型，通过统一积分系统为创作者、营销人员和机构提供影院级 1080p 视频制作（含同步音频）、导演级逐帧剪辑和高保真图像生成服务。
+
 #### elng12(柳州)
 *  :white_check_mark: [Pinpoint Answer Today](https://pinpointanswertoday.app/)：Pinpoint Answer Today 是你每日快速了解 LinkedIn Pinpoint 的指南。我们会发布经过核实的今日 Pinpoint 答案，并提供简短清晰的解析，让你几秒钟就能拿到答案、保持连胜——就算今天的 Pinpoint 有点难也不怕
 
