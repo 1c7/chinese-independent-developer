@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 25 号添加
 
+#### elng12(柳州)
+*  :white_check_mark: [Pinpoint Answer Today](https://pinpointanswertoday.app/)]：Pinpoint Answer Today 是你每日快速了解 LinkedIn Pinpoint 的指南。我们会发布经过核实的今日 Pinpoint 答案，并提供简短清晰的解析，让你几秒钟就能拿到答案、保持连胜——就算今天的 Pinpoint 有点难也不怕。
+
 #### Reake(上海)
 * :white_check_mark: [SVGView](https://svgview.com/?utm_source=github)：在线 SVG 查看、压缩、格式转换工具，全程浏览器本地处理，不上传文件  
 
