@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 2 月 25 号添加
+
+#### Cyan(北京) - [Github](https://github.com/ShaodongDev)
+* :white_check_mark: [NewTool.site](https://newtool.site/)：AI 驱动的工具导航站和收录平台，帮助初创工具增加 DR、被看到 - [更多介绍](https://newtool.site/about)
+
 ### 2026 年 2 月 24 号添加
 #### mickey(杭州) - [github](https://github.com/mymickey/kidblocker)
 * :white_check_mark: [KidBlocker](https://kidblocker.com)：我家孩子看 YouTube 的时间太长了，所以我想找个浏览器扩展（browser extension）来屏蔽它。在 Chrome 网上应用店没找到满意的，我就自己做了一个——在这里分享出来，看看能不能帮到其他人。
@@ -30,6 +35,7 @@
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [Download Pilot - 自动整理下载 + 智能命名插件](https://www.downloadpilot.top/zh)：Chrome 扩展：按文件类型自动把下载整理进文件夹，并支持按照网页上下文 乱码/哈希文件名变成可读名称，让下载夹整洁、好找、可搜索
+
 
 ### 2026 年 2 月 21 号添加
 
