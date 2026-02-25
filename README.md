@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 25 号添加
 
+#### Reake(上海)
+* :white_check_mark: [SVGView](https://svgview.com/?utm_source=github)：在线 SVG 查看、压缩、格式转换工具，全程浏览器本地处理，不上传文件  
+
 #### Cyan(北京) - [Github](https://github.com/ShaodongDev)
 * :white_check_mark: [NewTool.site](https://newtool.site/)：AI 驱动的工具导航站和收录平台，帮助初创工具增加 DR、被看到 - [更多介绍](https://newtool.site/about)
 
