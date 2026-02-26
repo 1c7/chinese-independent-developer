@@ -22,6 +22,10 @@
 
 ### 2026 年 2 月 25 号添加
 
+#### sherlockouo(成都)
+*  :white_check_mark: [LeafResume](https://leaf-resume.com/)：LeafResume 极简·高效·性价比之王，专注于简历编写导出，考研复试、校招、社招跳槽找工作必备！Leaf-Resume 专注极简高效，内置 AI 深度润色与分享、评论Review 功能，助你精准击中 HR 痛点。免费版支持无水印导出，随时随地开启专业排版。🔥 宠粉福利：仅需 9.9 元即可上手 Pro 全功能，解锁 AI 深度优化，这一波性价比真绝了！
+
+
 #### elng12(柳州)
 *  :white_check_mark: [Pinpoint Answer Today](https://pinpointanswertoday.app/)：Pinpoint Answer Today 是你每日快速了解 LinkedIn Pinpoint 的指南。我们会发布经过核实的今日 Pinpoint 答案，并提供简短清晰的解析，让你几秒钟就能拿到答案、保持连胜——就算今天的 Pinpoint 有点难也不怕
 
