@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 26 号添加
 
+#### Cyan (北京) - [Github](https://github.com/ShaodongDev)
+* :white_check_mark: [UN招聘网](https://unzhaopin.com/)：🇺🇳 联合国招聘信息聚合网站，给大家**出海**多提供一条路径。我改进了官方的 UI 、做了岗位职称等翻译、嵌入了 AI 驱动的 JD 详情页、支持中英双语，方便中文母语者申请联合国相关的工作
+
 #### lkunxyz - [Github](https://github.com/lkunxyz)
 * :white_check_mark: [Seadance 2.0 AI](https://seedance2.so)：由 Seedance 2.0 驱动的创作平台，整合全球顶尖模型，通过统一积分系统为创作者、营销人员和机构提供影院级 1080p 视频制作（含同步音频）、导演级逐帧剪辑和高保真图像生成服务。
 
