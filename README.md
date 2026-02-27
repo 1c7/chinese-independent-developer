@@ -28,6 +28,9 @@
 #### AlvyVV - [GitHub](https://github.com/AlvyVV)
 * :white_check_mark: [MemoTune](https://memotune.com)：AI 音乐生成工具，支持文字转歌曲、歌词转歌曲，并提供 AI 人声生成、声音模型训练、AI Cover 等功能。 用 AI 把你的文字或歌词变成完整的歌曲，免费开始，无需信用卡。支持 10+ 音乐风格（流行、说唱、R&B、民谣、摇滚、电子等）。支持中文、英文、日语、韩语等 10+ 语言。可训练专属 AI 声音模型。
 
+#### sonicker(上海) - [GitHub](https://github.com/cursorzephyr002-lgtm)
+* :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，完美保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能，免费开始使用。
+
 ### 2026 年 2 月 26 号添加
 
 #### Cyan (北京) - [Github](https://github.com/ShaodongDev)
