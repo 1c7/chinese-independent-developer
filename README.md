@@ -22,6 +22,9 @@
 
 ### 2026 年 2 月 27 号添加
 
+#### emptykid(北京) - [GitHub](https://github.com/emptykid)
+* :white_check_mark: [打字鸭](https://www.daziya.com)：免费中文打字练习在线平台，提供3000+的盲打课程，科学的打字课程设计，拼音输入法、汉语拼音、诗词歌赋、经典名著、背英文单词、知识百科，练习打字同时收获更多，结合趣味化教学体验。
+
 #### AlvyVV - [GitHub](https://github.com/AlvyVV)
 * :white_check_mark: [MemoTune](https://memotune.com)：AI 音乐生成工具，支持文字转歌曲、歌词转歌曲，并提供 AI 人声生成、声音模型训练、AI Cover 等功能。 用 AI 把你的文字或歌词变成完整的歌曲，免费开始，无需信用卡。支持 10+ 音乐风格（流行、说唱、R&B、民谣、摇滚、电子等）。支持中文、英文、日语、韩语等 10+ 语言。可训练专属 AI 声音模型。
 
