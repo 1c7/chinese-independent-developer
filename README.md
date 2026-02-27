@@ -22,6 +22,13 @@
 
 ### 2026 年 2 月 27 号添加
 
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [Speakoala](https://speakoala.com/zh)：集“全格式兼容、超自然人声、沉浸式听感”于一体的智能语音助手，能将网页、邮件及 PDF/Word 等本地文档一键转化为媲美真人的多国语言朗读，配合词级高亮同步、背景白噪音及最高 4 倍速调节，解放用户双眼，让深度阅读在通勤、家务或健身的碎片化场景中焕发新生。
+
+#### ShaodongDev - [Github](https://github.com/ShaodongDev)
+* :white_check_mark: [Github](https://github.com/ShaodongDev)：Cyan (北京)
+* :white_check_mark: [DingTou APP](https://dingtouapp.org/)：美股/ A 股基金定投计算器，个人投资理财工具，给大家资金出海提供一条路径。主要功能是回测美股和 A 股基金的投资，以及可视化收益，用于对比和复盘决策 - [更多介绍](https://dingtouapp.org/about)
+
 #### emptykid(北京) - [GitHub](https://github.com/emptykid)
 * :white_check_mark: [打字鸭](https://www.daziya.com)：免费中文打字练习在线平台，提供3000+的盲打课程，科学的打字课程设计，拼音输入法、汉语拼音、诗词歌赋、经典名著、背英文单词、知识百科，练习打字同时收获更多，结合趣味化教学体验。
 
