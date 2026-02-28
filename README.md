@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 1 号添加
+
+#### sonicker(上海) - [GitHub](https://github.com/zephyrZhengAI)
+* :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，完美保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能，免费开始使用。
+
 ### 2026 年 2 月 28 号添加
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
