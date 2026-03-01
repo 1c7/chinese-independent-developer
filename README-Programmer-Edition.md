@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 3 月 1 号添加
+#### @leodenglovescode(北京) - [Github](https://github.com/leodenglovescode), [博客](https://leodeng.dev)
+* :white_check_mark: [pm2-webmanager](https://github.com/leodenglovescode/pm2-webmanager)：基于HTML和JS的新一代PM2进程管理器，简易上手。A modern, light-weight web manager for all your PM2 processes
+
 ### 2026 年 1 月 14 号添加
 #### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://momei.app/)
 * :white_check_mark: [墨梅博客](https://github.com/CaoMeiYouRen/momei)：博客平台，专为技术开发者和跨境内容创作者量身定制。专业、高性能、国际化 - [更多介绍](https://docs.momei.app/)
