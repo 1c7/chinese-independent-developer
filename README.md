@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 1 号添加
+
+#### sonicker(上海) - [GitHub](https://github.com/cursorzephyr002-lgtm)
+* :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能。
+
+#### kristoff
+* :white_check_mark: [Nano Banana AI](https://nano-banana.love/)：AI生图工具
+
+#### ZhuccIvan - [Github](https://github.com/ZhuccIvan)
+* :white_check_mark: [ShopAI](https://vipvan.cc/shop-ai)：一键生成电商详情图，简化商家操作复杂度
+
 ### 2026 年 2 月 28 号添加
 
 #### azt1112 - [Github](https://github.com/azt1112)
