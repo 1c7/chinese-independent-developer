@@ -22,6 +22,9 @@
 
 ### 2026 年 3 月 1 号添加
 
+#### mundane - [Github](https://github.com/mundane799699)
+* :white_check_mark: [aihugvideo.app](https://aihugvideo.app)：AI Hug是最好的AI拥抱视频生成网站🤗，使用AI Hug可以在几分钟内轻松构建您的AI拥抱视频，简单且毫不费力。
+
 #### sonicker(上海) - [GitHub](https://github.com/cursorzephyr002-lgtm)
 * :white_check_mark: [Sonicker](https://www.sonicker.com)：AI 语音克隆平台，3 秒克隆任何声音，保留情感和口音。支持中英日韩等 10 种语言的语音合成，提供 50+ 预设声音库和 AI 声音设计功能。
 
