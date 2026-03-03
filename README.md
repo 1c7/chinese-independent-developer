@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 3 号添加
+
+#### 袁慠棱 - [Github](https://github.com/alengYuan)
+* :white_check_mark: [Rhythm (聆声)](https://aleng-yuan.itch.io/slothindie-rhythm)：适合在 Windows 上进行后台播放的简易本地音乐播放器
+
 ### 2026 年 3 月 2 号添加
 #### 我是欧阳 - [Github](https://github.com/iamouyang21)
 * :white_check_mark: [Nano Banana 2](https://nanobanana-2.xyz)：AI 生图工具，Nano Banana 2 是面向设计师、运营和内容创作者的在线 AI 生图工具，支持「预设工坊 + 自由创作」双模式，内置多种风格模板与 50+ 涂鸦字体，输入文字即可快速生成高质量图片；同时支持多语言文字渲染、参数可调、浏览器即开即用。最新上线的批量生图功能可一次生成多张或多版本图片，适合海报、电商素材和社媒内容的规模化生产，显著提升出图效率
