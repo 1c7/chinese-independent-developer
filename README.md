@@ -20,6 +20,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 5 号添加
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [Albert-Weasker](https://github.com/Albert-Weasker)：
+* :white_check_mark: [twittetize](https://twittetize.com/)：AI 驱动的 X（Twitter）自动化增长平台，将监控竞争对手、发现趋势、AI 生成内容、规划发布和用户触达整合在一个平台中，帮助用户实现可预测的增长。
+
+#### ShaodongDev - [Github](https://github.com/ShaodongDev)
+* :white_check_mark: [SaaSTool.site](https://saastool.site/)：SaaS 工具导航站和收录平台，配备 AI 自动填写功能，帮助初创 SaaS 增加 DR 和曝光
+
 ### 2026 年 3 月 4 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
