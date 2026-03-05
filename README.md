@@ -23,10 +23,9 @@
 ### 2026 年 3 月 4 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
-* :white_check_mark: [AITrendingPrompt](https://aitrendingprompt.com/)：精选AI提示库，为创作者和营销人员提供热门、实用的AI提示
+* :white_check_mark: [AITrendingPrompt](https://aitrendingprompt.com/)：精选 AI 提示库，为创作者和营销人员提供热门、实用的 AI 提示
 
-#### sfss5362 - [Github](https://github.com/sfss5362)
-* :white_check_mark: [Github](https://github.com/daodao97)：刀刀
+#### 刀刀 - [Github](https://github.com/daodao97)
 * :white_check_mark: [EmojiFinder.cc](https://emojifinder.cc/)：Emoji 搜索复制工具，收录 1780+ 表情，支持 20 种语言，一键复制
 
 #### HaydenBi - [博客](https://haydenbi.com)
