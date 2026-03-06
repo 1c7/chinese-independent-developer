@@ -20,10 +20,15 @@
 
 ## 3. 项目列表
 
-### 2026 年 3 月 5 号添加
+### 2026 年 3 月 6 号添加
+
+#### reake (上海)
+* :white_check_mark: [MakeTimestamp](https://maketimestamp.com)：时间戳转换/计算工具箱（48+），浏览器本地处理，支持秒/毫秒/微秒/纳秒，UTC/本地切换。
+
+#### cf12436(深圳)
+* :white_check_mark: [Videodance](https://videodance.cc/)：AI 视频生成器，基于 Seedance 2.0，提供原生多镜头叙事、音视频同步和 2K 影院级画质输出。无需任何剪辑经验，即可创作出人物形象一致、对话完美同步的专业电影级视频。
 
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
-* :white_check_mark: [Albert-Weasker](https://github.com/Albert-Weasker)：
 * :white_check_mark: [twittetize](https://twittetize.com/)：AI 驱动的 X（Twitter）自动化增长平台，将监控竞争对手、发现趋势、AI 生成内容、规划发布和用户触达整合在一个平台中，帮助用户实现可预测的增长。
 
 #### ShaodongDev - [Github](https://github.com/ShaodongDev)
