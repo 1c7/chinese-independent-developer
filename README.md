@@ -4201,7 +4201,7 @@
 ### 2022年11月30号添加
 ---
 #### Patrick(佛山) - [Github](https://github.com/yuandongzhong), [博客](https://patzhong.com/),  [Twitter](https://twitter.com/pat_zhong),
-* :white_check_mark: [UnderThink](https://underthink.cc/)：危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
+* :x: [UnderThink](https://underthink.cc/)：危险的头脑风暴工具 - [更多介绍](https://www.v2ex.com/t/899011)
 
 ### 2022年11月16号添加
 ---
@@ -4261,7 +4261,7 @@
 ### 2022年7月14号添加
 ---
 #### sorakylin(广州) - [Github](https://github.com/sorakylin), [博客](https://www.skypyb.com/2022/07/rizhi/suibi/1996/)
-* :white_check_mark: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
+* :x: [线圈](https://xquan.net)：做出来的东西没人看，没人用，没人玩，没地方展示，怎么办？看过来！这是让创作者记录项目进展，分享进度成果，展示最终成品，并且可以得到来自用户（或粉丝）以及其他创作者们的反馈交流的创意平台~ -  [更多介绍](https://xquan.net/help)
 
 ### 2022年6月17号添加
 ---
@@ -4581,7 +4581,7 @@
 ### 2020年6月1号添加
 ---
 #### timeromantic - [Github](https://github.com/timeromantic)
-* :white_check_mark: [鱼塘热榜](https://mo.fish/)：专注摸鱼的趣味新闻热榜网站 - [更多介绍](https://mo.fish/main/comment/1202350)
+* :x: [鱼塘热榜](https://mo.fish/)：专注摸鱼的趣味新闻热榜网站 - [更多介绍](https://mo.fish/main/comment/1202350)
 
 ### 2020年5月31号添加
 ---
@@ -4792,7 +4792,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2019年10月18号添加
 ---
 #### Tengfei(北京) - [博客](https://tengfei.fun)
-* :white_check_mark: [创造者日报](https://creatorsdaily.com)：每天发现一款有趣产品
+* :x: [创造者日报](https://creatorsdaily.com)：每天发现一款有趣产品
 
 ### 2019年10月17号添加
 ---
@@ -4857,7 +4857,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2019年8月2号添加
 ---
 #### 张琪灵(福州) - [Github](https://github.com/Zo3i)
-* :white_check_mark: [Xcoding](http://xcoding.me) ：在线编程学习 Javascript 的刷题网站，帮助编程初学者学习编码 - [更多介绍](https://zxx.im)
+* :x: [Xcoding](http://xcoding.me) ：在线编程学习 Javascript 的刷题网站，帮助编程初学者学习编码 - [更多介绍](https://zxx.im)
 
 ### 2019年8月1号添加
 ---
@@ -4865,7 +4865,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :x: [Research](http://www.suiyuanka.com/?q=%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85)：快速搜索相关内容
 
 #### fancy - [Github](https://github.com/fanchangyong)
-* :white_check_mark: [橙子简历](https://wonderfulcv.com)：在线简历制作网站-制作简历，告别word排版
+* :x: [橙子简历](https://wonderfulcv.com)：在线简历制作网站-制作简历，告别word排版
 
 ### 2019年7月23号添加
 ---
@@ -5085,7 +5085,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ### 2019年3月5号添加
 ---
 #### z-song(上海) - [Github](https://github.com/z-song)
-* :white_check_mark: [implode.io](https://implode.io/)： 在线运行、记录、分享 PHP 代码的网站
+* :x: [implode.io](https://implode.io/)： 在线运行、记录、分享 PHP 代码的网站
 
 ### 2019年3月4号添加
 ---
@@ -5450,7 +5450,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [豆腐丁](https://doufuding.com/)：学习资料整理网站，可编写技术文档和翻译 GitHub 网站的文档项目
 
 #### 张小刚哟 - [微博](https://weibo.com/u/3127372955)
-* :white_check_mark: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在 Mac 上轻松、高效调试 iOS 应用 - [更多介绍](https://sspai.com/post/43527)
+* :x: [WoodPecker](http://www.woodpeck.cn/cnindex)：让你在 Mac 上轻松、高效调试 iOS 应用 - [更多介绍](https://sspai.com/post/43527)
 * :white_check_mark: [App 计划](https://itunes.apple.com/cn/app/app%E8%AE%A1%E5%88%92/id1158663523?mt=8)：定时打开其他 App 的 iOS 应用 - [更多介绍](https://sspai.com/post/43594)
 
 #### sobbingman
@@ -5466,7 +5466,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [SmartPing](http://smartping.org/)：开源、高效、便捷的网络质量监控神器！
 
 #### djmpink - [Github](https://github.com/djmpink/TailLog), [博客](http://7player.cn/)
-* :white_check_mark: [TailLog](http://taillog.cn/)：简单易用的实时日志管理工具 - [更多介绍](http://taillog.cn/)
+* :x: [TailLog](http://taillog.cn/)：简单易用的实时日志管理工具 - [更多介绍](http://taillog.cn/)
 
 #### Viggo - [博客](http://viggoz.com/)
 * :white_check_mark: [Webstack](http://webstack.cc)：专注于收集国内外优秀的设计类网站 - [更多介绍](http://webstack.cc/cn/about.html)
@@ -5540,7 +5540,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [你好污啊](https://www.nihaowua.com)：一句话撩妹撩汉污句子
 
 #### miaowing - [GitHub](https://github.com/miaowing), [博客](https://zfeng.net)
-* :white_check_mark: [i5SING](http://i5sing.com)：中国原创音乐基地 5sing 第三方桌面客户端
+* :x: [i5SING](http://i5sing.com)：中国原创音乐基地 5sing 第三方桌面客户端
 
 #### ImbaQ - [GitHub](https://github.com/ImbaQ), [博客](http://www.wankeyun.cc/forum-12.htm)
 * :white_check_mark: [开源链克口袋 - MyLinkToken](http://www.wankeyun.cc/thread-182.htm)：第一个可实现转账功能的第三方开源链克钱包 - [更多介绍](http://www.wankeyun.cc/forum-12.htm)
@@ -5678,11 +5678,11 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
 
 #### Easy - [微博](https://weibo.com/easy), [GitHub](https://github.com/easychen)
-* :white_check_mark:[TimeTodo](http://timetodo.ftqq.com/)：附带计时的Todo工具，支持Mac、Win和Web三个平台。还可以编写WebHook整合到工作流中
+* :x:[TimeTodo](http://timetodo.ftqq.com/)：附带计时的Todo工具，支持Mac、Win和Web三个平台。还可以编写WebHook整合到工作流中
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[方糖小剧场](https://github.com/easychen/h2reader-host)：可自行架设的对话体小说阅读器
-* :white_check_mark:[Slide酱](http://slide.ftqq.com/)：PPT 自动演讲工具，根据 PPT 中的演讲者注释自动生成带语音的视频
-* :white_check_mark:[福利单词](http://dict.ftqq.com/)：背单词，看妹子
+* :x:[Slide酱](http://slide.ftqq.com/)：PPT 自动演讲工具，根据 PPT 中的演讲者注释自动生成带语音的视频
+* :x:[福利单词](http://dict.ftqq.com/)：背单词，看妹子
 
 #### SCLeo - [GitHub](https://github.com/SCLeoX)
 * :white_check_mark: [pattern-finder](https://www.minegeck.net/lab/pf)：一个智能（zhang）的找规律程序 - [更多介绍](https://github.com/SCLeoX/pattern-finder)
@@ -5733,7 +5733,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [PPHub](https://itunes.apple.com/cn/app/PPHub%20For%20GitHub/id1314212521?mt=8)：简洁漂亮的 GitHub 客户端 - [更多介绍](https://github.com/jkpang/PPHub-Feedback)
 
 #### gaolinjie - [GitHub](https://github.com/gaolinjie)
-* :white_check_mark: [Love2.io](https://love2.io/)：优雅的开源技术文档分享平台 - [更多介绍](https://love2.io/@love2io/doc/hello-love2io)
+* :x: [Love2.io](https://love2.io/)：优雅的开源技术文档分享平台 - [更多介绍](https://love2.io/@love2io/doc/hello-love2io)
 
 #### Magic-fe - [GitHub](https://github.com/magic-FE)
 * :white_check_mark: [翻译侠](https://chrome.google.com/webstore/detail/translate-man/fapgabkkfcaejckbfmfcdgnfefbmlion)：超棒的翻译插件（支持 Chrome + Firefox） - [更多介绍](https://github.com/magic-FE/translate-man)
@@ -5746,15 +5746,15 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 
 
 #### yaoleifly - [GitHub](https://github.com/yaoleifly)
-* :white_check_mark: [电子书支援计划](https://www.ebooksplan.org/)：以数字资源为核心的自我学习社群
-* :white_check_mark: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
+* :x: [电子书支援计划](https://www.ebooksplan.org/)：以数字资源为核心的自我学习社群
+* :x: [扫地僧的橱柜](https://www.ebooksplan.club/)：支持 Kindle 内置浏览器的资源站
 
 #### mw2c - [GitHub](https://github.com/mw2c)
 * :white_check_mark: [吉他谱搜索](https://gtpso.com/)：分享、搜索和播放吉他谱的 App 和网站
 * :white_check_mark: [Tab PlayAlong](https://playalong.gtpso.com/)：连接电吉他到手机，并使用效果器跟随吉他谱练习、演奏和录音的 iOS 应用
 
 #### 小贝 - [GitHub](https://github.com/easyhappy/)
-* :white_check_mark: [美股指南](https://investguider.com/)：美股、港股投资指南
+* :x: [美股指南](https://investguider.com/)：美股、港股投资指南
 
 #### H1ac0k - [博客](http://xrong.net)
 * :x: [斗图啦](https://www.doutula.com)：斗图装逼必备
@@ -5919,7 +5919,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [为你搜谱](http://sopu.52cmajor.com/)：应该是国内最全的乐谱搜索引擎了
 
 ####  mclxly - [GitHub](https://github.com/mclxly)
-* :white_check_mark: [我旁](https://3kmq.com/)：分享 / 发现周边生活资讯的社区
+* :x: [我旁](https://3kmq.com/)：分享 / 发现周边生活资讯的社区
 
 #### drakeet - [GitHub](https://github.com/drakeet)
 - :white_check_mark: [纯纯写作](https://www.coolapk.com/apk/com.drakeet.purewriter?mt=8&uo=4&ct=appcards)：绝不丢失文本编辑器 - [更多介绍](https://sspai.com/post/43650)
@@ -5964,11 +5964,11 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id988271193)
 
 #### 61
-* :white_check_mark: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
+* :x: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
 
 #### oldj
 * :white_check_mark: [妙笔](https://wonderpen.app)：Mac 平台写作软件 - [更多介绍](https://docs.wonderpen.app/)
-* :white_check_mark: [SwitchHosts!](https://swh.app)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
+* :x: [SwitchHosts!](https://swh.app)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
 
 #### Kenshin
 * :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)
@@ -5981,10 +5981,10 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :x: [Techshack Weekly](https://wanqu.io/t/techshack-weekly/7809)：精细耕耘后端开发的每一个知识点 - [更多介绍](https://wanqu.io/t/techshack-weekly/7809)
 
 #### wwayne
-* :white_check_mark: [Cominsoon](https://cominsoon.io/)：快速搭建『即将上线』页面 - [更多介绍](https://wanqu.io/t/cominsoon/7676/4)
+* :x: [Cominsoon](https://cominsoon.io/)：快速搭建『即将上线』页面 - [更多介绍](https://wanqu.io/t/cominsoon/7676/4)
 
 #### 寂小桦
-* :white_check_mark: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
+* :x: [小专栏](https://xiaozhuanlan.com/)：专业人士的写作社区 - [更多介绍](https://www.v2ex.com/t/392109)
 
 #### 像素君
 * :x: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
