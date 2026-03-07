@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 7 号添加
+
+#### yzqzy - [Github](https://github.com/yzqzy)
+* :white_check_mark: [交易信标 | TradeSignal](https://tradersignal.org/)：A 股投资分析桌面工具，价值为基、趋势为策。盘后复盘看板、智能筛选、个股深度分析、交易计划与组合管理；集成 AI 股票分析（多模板多数据源），支持 14 天免费体验 - [更多介绍](https://tradersignal.org/signal-client)
+
 ### 2026 年 3 月 6 号添加
 
 #### reake (上海)
