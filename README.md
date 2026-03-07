@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 7 号添加
+#### Gingiris - [Github](https://github.com/Gingiris), [博客](https://gingiris.com)
+* :white_check_mark: [AI 产品全球发布行动指南](https://github.com/Gingiris/gingiris-launch)：基于 AFFiNE 等现象级产品实战复盘，含 Product Hunt 发布 SOP、KOL 合作、UGC 增长策略
+* :white_check_mark: [B2B 产品增长指南](https://github.com/Gingiris/gingiris-b2b-growth)：从 PMF 验证到生态化增长的完整操作手册，整合 HeyGen、Deel、Vercel 等标杆案例
+* :white_check_mark: [开源项目发布整合营销手册](https://github.com/Gingiris/gingiris-opensource)：GitHub Star 增长策略、KOL 合作清单、Reddit 运营与海外群组分发完整 SOP
+
 ### 2026 年 3 月 6 号添加
 
 #### reake (上海)
