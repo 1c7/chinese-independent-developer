@@ -25,6 +25,11 @@
 #### yzqzy - [Github](https://github.com/yzqzy)
 * :white_check_mark: [交易信标 | TradeSignal](https://tradersignal.org/)：A 股投资分析桌面工具，价值为基、趋势为策。盘后复盘看板、智能筛选、个股深度分析、交易计划与组合管理；集成 AI 股票分析（多模板多数据源），支持 14 天免费体验 - [更多介绍](https://tradersignal.org/signal-client)
 
+#### Gingiris - [Github](https://github.com/Gingiris), [博客](https://gingiris.com)
+* :white_check_mark: [AI 产品全球发布行动指南](https://github.com/Gingiris/gingiris-launch)：基于 AFFiNE 等现象级产品实战复盘，含 Product Hunt 发布 SOP、KOL 合作、UGC 增长策略
+* :white_check_mark: [B2B 产品增长指南](https://github.com/Gingiris/gingiris-b2b-growth)：从 PMF 验证到生态化增长的完整操作手册，整合 HeyGen、Deel、Vercel 等标杆案例
+* :white_check_mark: [开源项目发布整合营销手册](https://github.com/Gingiris/gingiris-opensource)：GitHub Star 增长策略、KOL 合作清单、Reddit 运营与海外群组分发完整 SOP
+
 ### 2026 年 3 月 6 号添加
 
 #### reake (上海)
