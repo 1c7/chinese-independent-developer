@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 9 号添加
+
+#### LeiDellTech - [Github](https://github.com/LeiDellTech)
+* :white_check_mark: [表极客手表应用商店](https://watchgeek.cn)：汇聚智能手表应用资源，打造一站式智能手表应用资源平台，提供应用下载、教程分享和技术支持。
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [FillPDFfromExcel](https://fillpdffromexcel.com/)：将 Excel 数据填入 PDF 的工具
+
 ### 2026 年 3 月 7 号添加
 #### rongseng716-debug - [Github](https://github.com/rongseng716-debug)
 * :white_check_mark: [kling](https://www.kling4.co?utm_source=github&utm_medium=description&utm_campaign=kling4)：AI 生成视频，支持多种 kling 模型
