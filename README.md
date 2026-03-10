@@ -23,7 +23,7 @@
 ### 2026 年 3 月 10 号添加
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
-* :white_check_mark: [Cursor带我学英语](https://github.com/my19940202/cursor-dashboard)：本地采集cursor对话英语语料信息，通过可视化方式分析，辅助程序员提升技术英语的学习，辅助写好英语prompt
+* :white_check_mark: [Cursor带我学英语](https://github.com/my19940202/cursor-thinking-stat)：本地采集cursor对话英语语料信息，通过可视化方式分析，辅助程序员提升技术英语的学习，辅助写好英语prompt
   
 ### 2026 年 3 月 9 号添加
 
