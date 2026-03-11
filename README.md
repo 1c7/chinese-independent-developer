@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 11 号添加
+
+#### dagouzhi(成都) - [Github](https://github.com/htyf-mp-community), [官网](https://mp.dagouzhi.com/)
+* :white_check_mark: [红糖云服](https://apps.apple.com/us/app/%E7%BA%A2%E7%B3%96%E4%BA%91%E6%9C%8D/id1544048353)：自由开放的小程序容器 App，可动态加载小程序和小游戏，实现一套代码发布即生效
+
+#### 金川(上海) - [Github](https://github.com/mrchen1225)
+* :white_check_mark: [AI LipSync](https://lipsyncx.com)：对口型视频生成工具，支持长视频翻译
+
 ### 2026 年 3 月 9 号添加
 
 #### maowei8888 - [Github](https://github.com/maowei8888)
