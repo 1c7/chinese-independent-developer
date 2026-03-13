@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [macLaunchpads macOS 26 的最佳启动台替代品](https://maclaunchpad.aizeten.me/)：macOS 26启动台改版不习惯？那就直接访问 maclaunchpad.aizeten.me 回到最初的感觉
+
+
 ### 2026 年 3 月 12 号添加
 
 #### zhangxiaoyuan2025 - [Github](https://github.com/zhangxiaoyuan2025)
