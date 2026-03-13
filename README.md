@@ -23,10 +23,10 @@
 ### 2026 年 3 月 12 号添加
 
 #### zhangxiaoyuan2025 - [Github](https://github.com/zhangxiaoyuan2025)
-* :white_check_mark: [OutfitSwap Studio](https://outfitswapstudio.com/)：AI 换装 / 虚拟试衣工具，支持 AI Clothes Changer、Virtual Try-On 和 Outfit Swap，上传照片即可生成换装效果。
+* :white_check_mark: [OutfitSwap Studio](https://outfitswapstudio.com/)：AI 换装 / 虚拟试衣工具，支持 AI Clothes Changer、Virtual Try-On 和 Outfit Swap，上传照片即可生成换装效果
 
 #### bytevirts - [Github](https://github.com/bytevirts)
-* :white_check_mark: [Vibe Video](https://vibevideo.app)：面向普通用户的 AI 视频生成网站，支持文生视频、图生视频、参考图生视频和电影化镜头控制，适合创作者和营销团队快速产出视频。 - [更多介绍](https://vibevideo.app/ai-video-generator)
+* :white_check_mark: [Vibe Video](https://vibevideo.app)：面向普通用户的 AI 视频生成网站，支持文生视频、图生视频、参考图生视频和电影化镜头控制，适合创作者和营销团队快速产出视频
 
 ### 2026 年 3 月 11 号添加
 
