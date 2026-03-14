@@ -26,10 +26,10 @@
 * :white_check_mark: [看图识梗](https://github.com/xingxingc/stray_avatar/raw/main/assets/qrcode_ktsg.jpg)：看图猜词语小程序 - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/000026ee8ecd381fc6c45be8c6b00c)
 
 #### Picaro
-* :white_check_mark: [Image to Video AI](https://imagetovideoai.pro/)：将静态图片生成视频的 AI 工具。
+* :white_check_mark: [Image to Video AI](https://imagetovideoai.pro/)：将静态图片生成视频的 AI 工具
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Markdown to PDF Bot](https://mdpdf.xyz)：可以把含表格/公式的Markdown消息渲染成PDF的Telegram电报机器人，对于在Telegram里玩OpenClaw的朋友会非常有用。
+* :white_check_mark: [Markdown to PDF Bot](https://mdpdf.xyz)：可以把含表格/公式的 Markdown 消息渲染成 PDF 的 Telegram 电报机器人，对于在 Telegram 里玩OpenClaw的朋友会非常有用。
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [Kling Motion Control](https://kling-motion-control.com/)：AI Motion Transfer with Kling 3.0
