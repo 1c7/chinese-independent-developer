@@ -20,6 +20,20 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 13 号添加
+
+#### asui(泉州) - [Github](https://github.com/xingxingc)
+* :white_check_mark: [看图识梗](https://github.com/xingxingc/stray_avatar/raw/main/assets/qrcode_ktsg.jpg)：看图猜词语小程序 - [更多介绍](https://developers.weixin.qq.com/community/develop/doc/000026ee8ecd381fc6c45be8c6b00c)
+
+#### Picaro
+* :white_check_mark: [Image to Video AI](https://imagetovideoai.pro/)：将静态图片生成视频的 AI 工具
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Markdown to PDF Bot](https://mdpdf.xyz)：可以把含表格/公式的 Markdown 消息渲染成 PDF 的 Telegram 电报机器人，对于在 Telegram 里玩OpenClaw的朋友会非常有用。
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Kling Motion Control](https://kling-motion-control.com/)：AI Motion Transfer with Kling 3.0
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [macLaunchpads macOS 26 的最佳启动台替代品](https://maclaunchpad.aizeten.me/)：macOS 26启动台改版不习惯？那就直接访问 maclaunchpad.aizeten.me 回到最初的感觉
 
