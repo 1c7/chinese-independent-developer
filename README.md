@@ -23,7 +23,6 @@
 ### 2026 年 3 月 14 号添加
 
 #### maowei8888 - [Github](https://github.com/maowei8888)
-* :white_check_mark: [tomorrow](https://github.com/maowei8888/tomorrow)：
 * :white_check_mark: [BookletAI](https://bookletai.org/)：面向普通用户的小册子 AI 工具，可自动调研、写作并生成排版好的 booklet 页面。
 
 ### 2026 年 3 月 13 号添加
