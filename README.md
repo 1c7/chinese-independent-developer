@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 16 号添加
+
+#### qqhaosao(广州)
+* :white_check_mark: [mpeg to mp3](https://mpegtomp3.online/)：免费将.mpeg/.mpg格式的视频文件转换为.mp3格式的文件，无需注册，无需登录，本地执行，注重隐私保护。
 
 ### 2026 年 3 月 15 号添加
 
