@@ -23,18 +23,18 @@
 
 ### 2026 年 3 月 15 号添加
 
-#### erickkkyt - [Github](https://github.com/erickkkyt)
+#### Eric（浙江） - [Github](https://github.com/erickkkyt)
 * :white_check_mark: [WMHub](https://wmhub.io/)：一体化 AI 创作工作空间，支持视频、图像与 3D 生成，帮助团队更快产出高质量媒体资产。
 
-#### 阿健(杭州) - [Github](), [博客](https://parseword.net/blog)
+#### 阿健(杭州) - [Github](https://github.com/hugh2nd), [博客](https://parseword.net/blog)
 * :white_check_mark: [Parseword](https://parseword.net)：聚合多种经典每日单词谜题
 
-#### damotiansheng - [Github](https://github.com/damotiansheng)
+#### damotiansheng(广州) - [Github](https://github.com/damotiansheng)
 * :white_check_mark: [Deep Nostalgia AI](https://deep-nostalgia-ai.com/)：借助人工智能照片动画，将家庭照片转变为引人入胜的动画视频，为珍贵的回忆注入活力的网站
 
-#### newbe36524 - [Github](https://github.com/newbe36524)
-* :white_check_mark: [newbe36524](https://github.com/newbe36524)：福建开发者
+#### newbe36524（福建） - [Github](https://github.com/newbe36524)
 * :white_check_mark: [Hagicode](https://hagicode.com/)：用 OpenSpec 工作流、多 Agent 多实例并行、Hero Dungeon 游戏化重新定义 AI 编码体验
+
 #### 我是欧阳
 * :white_check_mark: [地理占星工具](https://astrocarto.net)：用户输入出生日期、出生时间和出生地点后，可以直接生成一张全球地理占星图，把不同行星的 AS / DS / MC / IC 线投射到世界地图上，用来比较哪些城市更适合居住、工作、旅行、短住或做人生阶段选择。我做这个项目，主要是因为现有同类工具对普通用户不太友好：要么界面比较老，要么只给一张图、不解释结果，第一次接触的人很难真正用起来。所以这个版本更强调“可直接使用”和“降低理解门槛”
 
