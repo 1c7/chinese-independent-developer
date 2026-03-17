@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 17 号添加
+
+#### Moresl - [Github](https://github.com/Moresl)
+* :white_check_mark: [ImageMinify](https://github.com/Moresl/ImageMinify)：轻量级图片批量压缩工具，支持 JPEG/PNG/WebP，基于 C# WPF 开发，免费开源
+
+
 ### 2026 年 3 月 16 号添加
 
 #### qqhaosao(广州)
