@@ -22,6 +22,12 @@
 
 ### 2026 年 3 月 17 号添加
 
+#### lkunxyz - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [Extension聚合平台](https://aiextension.ai)：AI相关的extension聚合平台，免费无限提交
+
+#### damotiansheng - [Github](https://github.com/damotiansheng)
+* :white_check_mark: [Photo Animate AI](https://photoanimate.org/)：利用人工智能动画技术，将静态照片转化为动态、逼真的视频
+
 #### Moresl - [Github](https://github.com/Moresl)
 * :white_check_mark: [ImageMinify](https://github.com/Moresl/ImageMinify)：轻量级图片批量压缩工具，支持 JPEG/PNG/WebP，基于 C# WPF 开发，免费开源
 
