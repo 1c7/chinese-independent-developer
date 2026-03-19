@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 18 号添加
+
+#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [socialplugarchive.com](https://www.socialplugarchive.com)：全球首个针对 SocialPlug 的欺诈证据存档库。通过 SEO 和结构化数据，公开披露其虚假交付、退款拖延及欺诈模式，致力于保护开发者与营销人员免受数字资产诈骗。
+
 ### 2026 年 3 月 17 号添加
 
 #### lkunxyz - [Github](https://github.com/lkunxyz)
