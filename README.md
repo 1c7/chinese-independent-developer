@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 19 号添加
+
+#### 小鹿(全国旅居中) - [小红书](https://xhslink.com/m/9njPzLyGqiB)
+* :white_check_mark: [cat names](catnames.best)：猫咪起名/猫咪画廊展示
+
 ### 2026 年 3 月 18 号添加
 
 #### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
