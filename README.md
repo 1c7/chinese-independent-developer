@@ -20,6 +20,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 20 号添加
+
+#### zx88cvb - [Github](https://github.com/zx88cvb)
+* :white_check_mark: [HaydenBi](https://haydenbi.com/)：博客
+* :white_check_mark: [Mydirs](https://mydirs.com)：导航站收录产品和工具，吸引流量并建立高质量外部链接
+
 ### 2026 年 3 月 19 号添加
 
 #### 小鹿(全国旅居中) - [小红书](https://xhslink.com/m/9njPzLyGqiB)
