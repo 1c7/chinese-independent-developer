@@ -22,6 +22,14 @@
 
 ### 2026 年 3 月 23 号添加
 
+#### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [ScriptMind](https://scriptmind.co/)：提取 YouTube、TikTok、Instagram 视频文案，HD视频无水印下载
+* :white_check_mark: [漫游中国指南](https://wanderchina.guide/)：中国旅游指南，探索地道文化，规划旅程
+* :white_check_mark: [ReadMenuAi](https://readmenuai.com/)：中文菜单翻译器，AI生成菜品图片
+
+#### Moresl - [Github](https://github.com/Moresl)
+* :white_check_mark: [SnapImg](https://github.com/Moresl/snapimg)：在线图片压缩工具，支持 PNG、JPEG、WebP、AVIF 格式，70%+ 压缩率同时保持画质。支持批量压缩、前后效果滑动对比，图片全程纯内存处理，不保存到磁盘，支持 Docker 自部署。
+
 #### aprilcc666 - [Github](https://github.com/aprilcc666)
 * :white_check_mark: [WhiteScreen.Space](https://whitescreen.space/)：在线全屏白屏工具，用于检测坏点、节省 OLED 屏幕电量、测试显示器以及清洁屏幕
 
