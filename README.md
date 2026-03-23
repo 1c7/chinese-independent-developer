@@ -22,6 +22,12 @@
 
 ### 2026 年 3 月 23 号添加
 
+#### aprilcc666 - [Github](https://github.com/aprilcc666)
+* :white_check_mark: [WhiteScreen.Space](https://whitescreen.space/)：在线全屏白屏工具，用于检测坏点、节省 OLED 屏幕电量、测试显示器以及清洁屏幕
+
+#### stark-ydq - [Github](https://github.com/stark-ydq)
+* :white_check_mark: [Voice to Instrument](https://voicetoinstrument.com?utm_source=github&utm_medium=directory&utm_campaign=backlink)：在线 AI 工具，将人声录音转换为器乐曲目。上传歌声或录音，AI 自动生成钢琴、吉他、鼓等器乐伴奏。
+
 #### zx88cvb - [Github](https://github.com/zx88cvb)，[博客](https://haydenbi.com/)
 * :white_check_mark: [Mydirs](https://mydirs.com)：导航站收录产品和工具，吸引流量并建立高质量外部链接
 
