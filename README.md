@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 24 号添加
+
+#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
+* :white_check_mark: [playcharades.fun](https://playcharades.fun)：线上你画我猜，500+个词汇涵盖11个分类。为儿童、成人或所有年龄段生成随机词汇。8种语言免费游戏。
+
+#### simple-Jian-tw - [Github](https://github.com/simple-Jian-tw)
+* :white_check_mark: [AnimeGen](https://animegen.ai/)：AI 照片转动漫工具，可将肖像、自拍、宠物或旅行照片转换为多种动漫风格，快速生成可下载结果，适用于头像、社交媒体帖子和创意项目。
+
 ### 2026 年 3 月 23 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
