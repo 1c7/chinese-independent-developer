@@ -21,6 +21,10 @@
 ## 3. 项目列表
 
 ### 2026 年 3 月 25 号添加
+
+#### Moresl - [Github](https://github.com/Moresl)
+* :white_check_mark: [CCHub](https://github.com/Moresl/cchub)：Claude Code 生态管理平台，支持 MCP 服务器管理、Skill 技能管理、多配置切换、自定义 Slash Command 等功能，基于 Tauri v2 构建的桌面应用
+
 #### 超能刚哥 - [Github](https://github.com/margox)
 * :white_check_mark: [订阅宝](https://apps.apple.com/cn/app/id6759794831)：iOS纯原生风格且功能完备的一站式订阅服务管理应用，提供数据分析、到期/续期提醒、桌面小组件等实用功能。
 * :white_check_mark: [重要日子](https://apps.apple.com/cn/app/id6759002825)：极简舒适风格的倒数日管理App，仅包含管理重要日期的核心功能，没有其他乱七八糟的功能。
