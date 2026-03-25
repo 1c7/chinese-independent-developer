@@ -26,11 +26,11 @@
 * :white_check_mark: [Movart.ai](https://movart.ai/)：AI 驱动的视频生成与动态艺术创作平台。支持将静态图片、文本提示转化为高质量动态视频。内置多种艺术风格模板，提供运动控制和帧级调整功能。在浏览器内完成视觉叙事，适用于社交媒体营销、动画制作及个人艺术创作
 
 #### iaminyu - [Github](https://github.com/iaminyu)
-* :white_check_mark: [LiveTalk Translate](https://livetalktranslate.com/)：针对面对面交流场景的语音翻译工具，提供比 Google Translate 更准确、交互更方便的语音翻译体验，支持深度交流。
-* :white_check_mark: [MatchMyType](https://matchmytype.org/)：基于 MBTI 理论，提供不同人格类型的人在恋爱、职场、交友中相处的分析和建议，并提供免费的MBTI分析报表。
+* :white_check_mark: [LiveTalk Translate](https://livetalktranslate.com/)：针对面对面交流场景的语音翻译工具，提供比 Google Translate 更准确、交互更方便的语音翻译体验，支持深度交流
+* :white_check_mark: [MatchMyType](https://matchmytype.org/)：基于 MBTI 理论，提供不同人格类型的人在恋爱、职场、交友中相处的分析和建议，并提供免费的MBTI分析报表
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [ChatBYOK.com](https://chatbyok.com)：提供原生 ChatGPT 体验的 Telegra m机器人，支持多模态输入（文字/图片/文件）、实时搜索、生图/修图、PDF 输出。
+* :white_check_mark: [ChatBYOK.com](https://chatbyok.com)：提供原生 ChatGPT 体验的 Telegram 机器人，支持多模态输入（文字/图片/文件）、实时搜索、生图/修图、PDF 输出
 
 #### Moresl - [Github](https://github.com/Moresl)
 * :white_check_mark: [CCHub](https://github.com/Moresl/cchub)：Claude Code 生态管理平台，支持 MCP 服务器管理、Skill 技能管理、多配置切换、自定义 Slash Command 等功能，基于 Tauri v2 构建的桌面应用
