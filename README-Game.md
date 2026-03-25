@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+
+### 2026 年 2 月 4 号添加
+#### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com)
+* :white_check_mark: [Arcraiders.website](https://arcraiders.website)：ARC raiders 游戏工具网站，功能比较丰富全面 - [更多介绍](https://arcraiders.website/quests)
+
 ### 2026 年 1 月 10 号添加
 
 #### 290713469 - [Github](https://github.com/290713469)

@@ -1,3 +1,4 @@
+# 自动扫描 GitHub Issues 中被标记为 🚀 的项目提交，通过 AI 格式化后批量添加到 README 并创建 Pull Request。
 import os
 import re
 import datetime
@@ -79,62 +80,92 @@ def get_ai_project_line(raw_text):
     )
     return response.choices[0].message.content.strip()
 
+def check_reactions(item):
+    """检查对象（Issue 或 IssueComment）是否有触发表情且没有成功标记"""
+    reactions = item.get_reactions()
+    has_trigger = any(r.content == TRIGGER_EMOJI and r.user.login == ADMIN_HANDLE for r in reactions)
+    has_success = any(r.content == SUCCESS_EMOJI for r in reactions)
+    return has_trigger, has_success
+
 def main():
     # 检查环境变量
     check_environment()
 
     g = Github(PAT_TOKEN)
     repo = g.get_repo(REPO_NAME)
-    issue = repo.get_issue(ISSUE_NUMBER)
+    
+    # ===== 阶段 1：收集待处理项 (Issue 160 评论 + 其他 Open Issue) =====
+    pending_items = [] # 存储 (item_object, parent_issue_object)
 
+    # 1.1 处理 Issue 160 的评论 (Legacy)
+    issue160 = repo.get_issue(ISSUE_NUMBER)
     time_threshold = datetime.now(timezone.utc) - timedelta(days=3)
-    comments = issue.get_comments(since=time_threshold)
+    comments160 = issue160.get_comments(since=time_threshold)
+    for comment in comments160:
+        has_t, has_s = check_reactions(comment)
+        if has_t and not has_s:
+            pending_items.append((comment, issue160))
 
-    # ===== 阶段 1：收集待处理评论 =====
-    pending_comments = []
-    formatted_entries = []
+    # 1.2 扫描所有其他 Open Issue
+    open_issues = repo.get_issues(state='open')
+    comment_time_threshold = datetime.now(timezone.utc) - timedelta(days=7)
+    
+    for issue in open_issues:
+        if issue.number == ISSUE_NUMBER:
+            continue
+            
+        # 1. 检查 Issue Body
+        has_t, has_s = check_reactions(issue)
+        if has_t and not has_s:
+            pending_items.append((issue, issue))
+            
+        # 2. 检查最近 7 天的所有评论
+        comments = issue.get_comments(since=comment_time_threshold)
+        for comment in comments:
+            has_t, has_s = check_reactions(comment)
+            if has_t and not has_s:
+                pending_items.append((comment, issue))
 
-    for comment in comments:
-        reactions = comment.get_reactions()
-        has_trigger = any(r.content == TRIGGER_EMOJI and r.user.login == ADMIN_HANDLE for r in reactions)
-        has_success = any(r.content == SUCCESS_EMOJI for r in reactions)
-
-        if has_trigger and not has_success:
-            print(f"\n{'='*60}")
-            print(f"处理评论：\n{comment.body}")
-            print(f"\n评论链接：{comment.html_url}")
-            print(f"{'='*60}\n")
-
-            cleaned_body = remove_quote_blocks(comment.body)
-
-            # 判断用户是否自带了 Header
-            header_match = re.search(r'^####\s+.*', cleaned_body, re.MULTILINE)
-
-            if header_match:
-                header_line = header_match.group(0).strip()
-                body_for_ai = cleaned_body.replace(header_line, "").strip()
-                print(f"检测到用户自带 Header: {header_line}")
-            else:
-                author_name = comment.user.login
-                author_url = comment.user.html_url
-                header_line = f"#### {author_name} - [Github]({author_url})"
-                body_for_ai = cleaned_body
-                print(f"自动生成 Header: {header_line}")
-
-            # AI 处理项目详情行
-            project_line = get_ai_project_line(body_for_ai)
-            formatted_entry = f"{header_line}\n{project_line}"
-
-            pending_comments.append(comment)
-            formatted_entries.append(formatted_entry)
-
-    # ===== 阶段 2：批量提交 =====
-    if not pending_comments:
-        print("无待处理评论")
+    if not pending_items:
+        print("无待处理项")
         return
 
-    print(f"\n共收集 {len(pending_comments)} 个待处理评论")
+    print(f"\n共收集 {len(pending_items)} 个待处理项")
 
+    # ===== 阶段 2：格式化和 AI 处理 =====
+    formatted_entries = []
+    processed_items = [] # 用于最后标记和回复
+
+    for obj, parent in pending_items:
+        print(f"\n{'='*60}")
+        print(f"处理项目：来自 {parent.html_url}")
+        print(f"内容：\n{obj.body[:200]}...")
+        print(f"{'='*60}\n")
+
+        cleaned_body = remove_quote_blocks(obj.body)
+
+        # 判断用户是否自带了 Header
+        header_match = re.search(r'^####\s+.*', cleaned_body, re.MULTILINE)
+
+        if header_match:
+            header_line = header_match.group(0).strip()
+            body_for_ai = cleaned_body.replace(header_line, "").strip()
+            print(f"检测到用户自带 Header: {header_line}")
+        else:
+            author_name = obj.user.login
+            author_url = obj.user.html_url
+            header_line = f"#### {author_name} - [Github]({author_url})"
+            body_for_ai = cleaned_body
+            print(f"自动生成 Header: {header_line}")
+
+        # AI 处理项目详情行
+        project_line = get_ai_project_line(body_for_ai)
+        formatted_entry = f"{header_line}\n{project_line}"
+        
+        formatted_entries.append(formatted_entry)
+        processed_items.append((obj, parent, formatted_entry))
+
+    # ===== 阶段 3：批量提交 =====
     # 更新 README
     content = repo.get_contents("README.md", ref="master")
     readme_text = content.decoded_content.decode("utf-8")
@@ -149,8 +180,8 @@ def main():
 
     # 插入所有条目（用两个换行分隔）
     insertion_point = new_readme.find(date_header) + len(date_header)
-    all_entries = "\n\n".join(formatted_entries)
-    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries + new_readme[insertion_point:]
+    all_entries_str = "\n\n".join(formatted_entries)
+    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries_str + new_readme[insertion_point:]
 
     # 创建分支
     branch_name = f"batch-add-projects-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
@@ -164,27 +195,27 @@ def main():
     repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
     repo.update_file(
         "README.md",
-        f"docs: batch add {len(pending_comments)} projects",
+        f"docs: batch add {len(processed_items)} projects",
         final_readme,
         content.sha,
         branch=branch_name
     )
 
     # 构建 PR body
-    comment_links = "\n".join([
-        f"- [{c.user.login}]({c.html_url})"
-        for c in pending_comments
+    item_links = "\n".join([
+        f"- [{obj.user.login}]({obj.html_url})"
+        for obj, parent, entry in processed_items
     ])
 
     formatted_list = "\n\n".join([
-        f"### {i+1}. {formatted_entries[i]}"
-        for i in range(len(formatted_entries))
+        f"### {i+1}. {entry}"
+        for i, (obj, parent, entry) in enumerate(processed_items)
     ])
 
-    pr_body = f"""批量添加 {len(pending_comments)} 个项目
+    pr_body = f"""批量添加 {len(processed_items)} 个项目
 
-## 原始评论链接
-{comment_links}
+## 原始链接
+{item_links}
 
 ## 格式化结果
 {formatted_list}
@@ -194,7 +225,7 @@ def main():
 """
 
     pr = repo.create_pull(
-        title=f"新增项目：批量添加 {len(pending_comments)} 个项目",
+        title=f"新增项目：批量添加 {len(processed_items)} 个项目",
         body=pr_body,
         head=branch_name,
         base="master"
@@ -202,16 +233,25 @@ def main():
 
     print(f"\n✅ PR 创建成功：{pr.html_url}")
 
-    # 标记所有评论（添加 🎉 表情）
-    for comment in pending_comments:
-        comment.create_reaction(SUCCESS_EMOJI)
+    # ===== 阶段 4：标记成功并回复 =====
+    replies = {} # parent_issue -> set of users
 
-    # 创建一条评论提及所有用户
-    user_mentions = " ".join([f"@{c.user.login}" for c in pending_comments])
-    reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
-    issue.create_comment(reply_body)
+    for obj, parent, entry in processed_items:
+        # 标记所有条目（添加 🎉 表情）
+        obj.create_reaction(SUCCESS_EMOJI)
+        
+        # 收集需要回复的 Issue 和用户
+        if parent not in replies:
+            replies[parent] = set()
+        replies[parent].add(obj.user.login)
 
-    print(f"\n✅ 已标记所有 {len(pending_comments)} 个评论")
+    # 分别在各 Issue 回复
+    for parent, users in replies.items():
+        user_mentions = " ".join([f"@{u}" for u in users])
+        reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
+        parent.create_comment(reply_body)
+
+    print(f"\n✅ 已在 {len(replies)} 个 Issue 中标记并回复")
 
 if __name__ == "__main__":
     main()
