@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 26 号添加
+
+#### 刀刀- [Github](https://github.com/sfss5362)
+* :white_check_mark: [iSnapture](https://apps.apple.com/app/isnapture/id6760424418)：macOS 截图与标注工具，支持长截图、录屏、马赛克等标注
+
 ### 2026 年 3 月 25 号添加
 
 #### DieselNiu - [Github](https://github.com/DieselNiu)
