@@ -39,6 +39,9 @@
 * :white_check_mark: [订阅宝](https://apps.apple.com/cn/app/id6759794831)：iOS纯原生风格且功能完备的一站式订阅服务管理应用，提供数据分析、到期/续期提醒、桌面小组件等实用功能。
 * :white_check_mark: [重要日子](https://apps.apple.com/cn/app/id6759002825)：极简舒适风格的倒数日管理App，仅包含管理重要日期的核心功能，没有其他乱七八糟的功能。
 
+#### coderstartup - [Github](https://github.com/coderstartup)
+* :white_check_mark: [ReelsMakerAI](https://reelsmakerai.com/)：AI驱动的短视频自动生成工具，支持创建TikTok、Instagram Reels和YouTube Shorts的无人出镜视频，提供多语言AI语音、自动编辑和高清无水印导出
+
 ### 2026 年 3 月 24 号添加
 
 #### Chaoc2624 - [Github](https://github.com/Chaoc2624)
