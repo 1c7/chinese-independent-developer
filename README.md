@@ -22,6 +22,12 @@
 
 ### 2026 年 3 月 27 号添加
 
+#### Yaou(上海) - [Github](https://github.com/nogeek-net)
+* :white_check_mark: [工具导航站](https://tooldisk.com/)：展示各种各样的工具
+
+#### bytevirts - [Github](https://github.com/bytevirts)
+* :white_check_mark: [Qwen Image Edit](https://qwen-image-edit.com)：AI 图像编辑工具，支持文本指令编辑、照片修复、去水印、专业头像生成和多图像处理
+
 #### 刀刀- [Github](https://github.com/sfss5362)
 * :white_check_mark: [iSnapture](https://apps.apple.com/app/isnapture/id6760424418)：macOS 截图与标注工具，支持长截图、录屏、马赛克等标注
 
