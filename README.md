@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 26 号添加
+
+#### Xavier Zhou - [Github](https://github.com/AsaZhou923)
+* :white_check_mark: [PicSpeak](https://www.picspeak.art)：基于 AI 的摄影点评 Web 应用，上传一张照片，几秒钟内即可获得对构图、光线与色彩的专业分析，同时可以向社区展示你的优秀作品。
+
 ### 2026 年 3 月 25 号添加
 
 #### DieselNiu - [Github](https://github.com/DieselNiu)
