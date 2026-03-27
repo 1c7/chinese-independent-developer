@@ -22,6 +22,9 @@
 
 ### 2026 年 3 月 27 号添加
 
+#### 刀刀- [Github](https://github.com/sfss5362)
+* :white_check_mark: [iSnapture](https://apps.apple.com/app/isnapture/id6760424418)：macOS 截图与标注工具，支持长截图、录屏、马赛克等标注
+
 #### jsxyzb - [Github](https://github.com/jsxyzb)
 * :white_check_mark: [VideoFlux](https://videoflux.video): AI 视频生成平台，支持文本生成视频、图片生成视频及多种创作模式，适用于营销视频、社媒内容、产品演示和创意短片制作，帮助用户快速产出高质量视频内容
 
