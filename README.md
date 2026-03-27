@@ -22,8 +22,7 @@
 
 ### 2026 年 3 月 27 号添加
 
-#### nogeek-net - [Github](https://github.com/nogeek-net)
-* :white_check_mark: [Yaou(上海)](https://github.com/nogeek-cn)：
+#### Yaou(上海) - [Github](https://github.com/nogeek-net)
 * :white_check_mark: [工具导航站](https://tooldisk.com/)：展示各种各样的工具
 
 #### bytevirts - [Github](https://github.com/bytevirts)
