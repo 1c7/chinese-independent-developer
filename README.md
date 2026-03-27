@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 27 号添加
+
+#### jsxyzb - [Github](https://github.com/jsxyzb)
+* :white_check_mark: [VideoFlux](https://videoflux.video): AI 视频生成平台，支持文本生成视频、图片生成视频及多种创作模式，适用于营销视频、社媒内容、产品演示和创意短片制作，帮助用户快速产出高质量视频内容
+
 ### 2026 年 3 月 25 号添加
 
 #### DieselNiu - [Github](https://github.com/DieselNiu)
