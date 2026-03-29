@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 29 号添加
+
+#### xixihhhh - [Github](https://github.com/xixihhhh)
+* :white_check_mark: [OpeniLink Hub](https://github.com/openilink/openilink-hub)：基于微信 iLink 协议的开源消息管理平台，支持接入大模型实现自动回复、应用市场安装功能、消息桥接多平台、远程操控及多语言 SDK。
+
 ### 2026 年 3 月 27 号添加
 
 #### Yaou(上海) - [Github](https://github.com/nogeek-net)
