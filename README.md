@@ -22,8 +22,12 @@
 
 ### 2026 年 3 月 30 号添加
 
+#### xixihhhh - [Github](https://github.com/xixihhhh)
+* :white_check_mark: [OpeniLink Hub](https://github.com/openilink/openilink-hub)：基于微信 iLink 协议的开源消息管理平台，支持接入大模型实现自动回复、应用市场安装功能、消息桥接多平台、远程操控及多语言 SDK。
+
 #### yanglian(珠海) - [Github](https://github.com/lian-yang)
 * :white_check_mark: [LTools](https://github.com/lian-yang/ltools)：基于 Wails v3 的插件化跨平台桌面工具箱，集成计算器、剪贴板管理、截图、JSON 编辑、音乐播放器、图片处理等实用工具
+
 
 ### 2026 年 3 月 27 号添加
 
