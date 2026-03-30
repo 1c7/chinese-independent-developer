@@ -22,6 +22,15 @@
 
 ### 2026 年 3 月 30 号添加
 
+#### jeffreys-cat - [Github](https://github.com/jeffreys-cat)
+* :white_check_mark: [Dory](https://github.com/dorylab/dory)：现代化、AI 原生的数据工作台，支持 MySQL、Postgres、SQLite、Clickhouse 等，Dbeaver / Navicat 替换
+
+#### Locke
+* :white_check_mark: [TesLyr](https://teslyr.com)：基于网页的实时同步歌词显示，适用于特斯拉触摸屏，可在驾驶时使用，支持几乎所有音乐源，包括原生 Spotify、Apple Music、Tidal、USB 驱动器和蓝牙音频。
+
+#### businesszh - [Github](https://github.com/businesszh)
+* :white_check_mark: [UNI-1](https://uni-1.org/)：Luma AI 的统一推理与视觉想象模型，从一个逻辑大脑中生长出“心灵之眼”
+
 #### Windyan(深圳）-[Github](https://github.com/windyan233)
 * :white_check_mark: [ThumbnailMaker](https://thumbnail-maker.com)：帮助视频创作者生成高点击率的封面图
 
