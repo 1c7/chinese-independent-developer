@@ -22,6 +22,18 @@
 
 ### 2026 年 3 月 30 号添加
 
+#### Windyan(深圳）-[Github](https://github.com/windyan233)
+* :white_check_mark: [ThumbnailMaker](https://thumbnail-maker.com)：帮助视频创作者生成高点击率的封面图
+
+#### 小鹿(旅居中)
+* :white_check_mark: [IdeaFit](https://smallbusinessideas.co)：帮你找到真正符合你的预算、时间和技能的小企业创业点子
+
+#### Gingiris - [Github](https://github.com/Gingiris)
+* :white_check_mark: [Gingiris Growth Tools](https://github.com/Gingiris/growth-tools)：出海增长工具集合，涵盖KOL管理、SEO工具、Reddit增长、UGC管理、社媒触达等
+
+#### imsg - [Github](https://github.com/imsg)
+* :white_check_mark: [Tooluck.org](https://www.tooluck.org)：AI 工具导航站，AI自动填写功能，免费收录，帮助新AI网站提升SEO权重
+
 #### xixihhhh - [Github](https://github.com/xixihhhh)
 * :white_check_mark: [OpeniLink Hub](https://github.com/openilink/openilink-hub)：基于微信 iLink 协议的开源消息管理平台，支持接入大模型实现自动回复、应用市场安装功能、消息桥接多平台、远程操控及多语言 SDK。
 
