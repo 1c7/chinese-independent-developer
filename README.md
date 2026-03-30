@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 30 号添加
+
+#### yanglian(珠海) - [Github](https://github.com/lian-yang)
+* :white_check_mark: [LTools](https://github.com/lian-yang/ltools)：基于 Wails v3 的插件化跨平台桌面工具箱，集成计算器、剪贴板管理、截图、JSON 编辑、音乐播放器、图片处理等实用工具
+
 ### 2026 年 3 月 27 号添加
 
 #### Yaou(上海) - [Github](https://github.com/nogeek-net)
