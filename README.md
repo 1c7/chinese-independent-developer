@@ -20,6 +20,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 31 号添加
+
+#### 士季(上海） - [Github](https://github.com/Albert-Weasker)
+* :white_check_mark: [DevIntro 2.0](https://www.intent-leads.com)：在 72 小时内找到前 1,000 个高意向用户，用真实信号完成冷启动
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [Nano Banana 2 Pro](https://nanobananapro2.pro/)：专业 AI 图像编辑器，拥有无瑕的文字渲染能力，使用完美的排版、原生4K分辨率和100多种语言支持来编辑和增强图像
+
+#### daipeng - [Github](https://github.com/daipeng)
+* :white_check_mark: [MarkdownToWord.pro](https://markdowntoword.pro)：在线 Markdown 转 Word/PDF/HTML 工具，支持 LaTeX 公式、Mermaid 图表、GFM 语法，浏览器本地处理，无需注册
+* :white_check_mark: [MarkdownConverter.pro](https://markdownconverter.pro)：双向 Markdown 文档格式转换工具，支持 Markdown 与 PDF/Word/HTML 互转，内置 LaTeX 渲染和代码高亮，支持批量处理和 API 调用
+
 ### 2026 年 3 月 30 号添加
 
 #### jeffreys-cat - [Github](https://github.com/jeffreys-cat)
