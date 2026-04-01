@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 1 号添加
+
+#### kristoff
+* :white_check_mark: [IndieAI Directory](https://indieai.directory/)：收录独立开发者的AI Saas
+
+#### qqxufo - [Github](https://github.com/qqxufo)
+* :white_check_mark: [Image To 3D](https://imageto3d.cc/?source=github)：将图像转换为 3D 模型
+
 ### 2026 年 3 月 31 号添加
 
 #### vampirewy - [Github](https://github.com/vampirewy)
