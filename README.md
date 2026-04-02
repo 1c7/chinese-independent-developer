@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 2 号添加
+
+#### IanChen
+* :white_check_mark: [Lyria 3 Pro](https://lyria3pro.pro)：基于Google DeepMind Lyria 3 Pro 模型的 AI 音乐生成器，包含人声、歌词和伴奏
+
 ### 2026 年 4 月 1 号添加
 
 #### kristoff
