@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 3 号添加
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [页面直达](https://chromewebstore.google.com/detail/%E5%85%8D%E8%B7%B3%E7%9B%B4%E8%BE%BE/fpljgabmnoghfieaoehmcjgfelboedda)：浏览器插件，可以自动跳过微信安全确认、CSDN/掘金外链页及 X、Facebook、Threads 等中间跳转页，直达对应链接，提升网站访问速度
+
 ### 2026 年 4 月 2 号添加
 
 #### IanChen
