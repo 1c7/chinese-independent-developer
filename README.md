@@ -22,6 +22,15 @@
 
 ### 2026 年 4 月 3 号添加
 
+#### syakadou - [Github](https://github.com/syakadou)
+* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/)：去除Gemini App生成的AI图片水印
+
+#### xiehuateng - [Github](https://github.com/xiehuateng)
+* :white_check_mark: [x downloader](https://x-video-download.net)：解析推特（X）上的AI视频及各种视频链接，支持一键下载多种清晰度视频。
+
+#### jjk340 - [Github](https://github.com/jjk340)
+* :white_check_mark: [Clarioxis](https://clarioxis.com)：AI 教育智能体工具，打造“资料分析+AI视频讲解+随堂练习+智能复盘”的一站式学习闭环
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [页面直达](https://chromewebstore.google.com/detail/%E5%85%8D%E8%B7%B3%E7%9B%B4%E8%BE%BE/fpljgabmnoghfieaoehmcjgfelboedda)：浏览器插件，可以自动跳过微信安全确认、CSDN/掘金外链页及 X、Facebook、Threads 等中间跳转页，直达对应链接，提升网站访问速度
 
