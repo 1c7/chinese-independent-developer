@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+## 2026年4月5日新增  
+
+* :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息
+
+
 ### 2026 年 4 月 3 号添加
 
 #### syakadou - [Github](https://github.com/syakadou)
