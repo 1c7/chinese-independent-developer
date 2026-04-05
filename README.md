@@ -24,6 +24,10 @@
 
 * :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息
 
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Beautyface AI](https://beautyface.app)：AI图片生成工具，主要定位人像生成，包括职业照、艺术照、风格化、逆向提示词等 - [更多介绍](https://beautyface.app/)
+* :white_check_mark: [AI Onekit](https://aionekit.com)：AI聚合模型创作平台 - [更多介绍](https://aionekit.com/models)
+  
 ### 2026 年 4 月 3 号添加
 
 #### syakadou - [Github](https://github.com/syakadou)
@@ -884,7 +888,7 @@
 * :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
 
 #### Shawn(北京) - [Github](https://github.com/ShawnHacks)
-* :x: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
+* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
 
 #### biboom(广州)
 * :white_check_mark: [YouTube 字幕生成器](https://transcriptinprogress.online)：将 Youtube 视频转为文字
