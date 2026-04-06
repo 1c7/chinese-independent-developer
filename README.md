@@ -22,6 +22,9 @@
 
 ### 2026 年 4 月 6 号添加
 
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [banana-PPT](http://ppt.hoduan.com/)：Banana PPT 是一款基于 AI 的原生 PPT 生成工具。从想法到演示文稿，只需一句话。 告别繁琐的手动排版，让 AI 帮你完成设计、配图、配色的全部工作。（基于开源项目banana-slides）
+
 #### Harries - [Github](https://github.com/Harries)
 * :white_check_mark: [yizhan.club](https://www.yizhan.club/)：发现、比较和推荐最新 AI 工具的平台
 
