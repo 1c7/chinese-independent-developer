@@ -26,31 +26,29 @@
 * :white_check_mark: [MeetSpot 聚点](https://meetspot-irq2.onrender.com/)：多人聚会地点智能推荐工具，输入 2-10 人地址，用球面几何算法计算公平中点，AI 评分推荐附近高评分场所，覆盖 350+ 城市，免费使用无需注册。
 
 #### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
-* :white_check_mark: [AI Amazing](https://aiamazing.art)：面向创作者与团队的一体化 AI 图像/视频生产平台
+* :white_check_mark: [AI Amazing](https://aiamazing.art)：AI 图像/视频生产平台，面向创作者与团队
 
 ### 2026 年 4 月 5 号添加
 
 #### AprDeci - [Github](https://github.com/AprDeci)
-* :white_check_mark: [bili-music](https://github.com/AprDeci/bili-music)：基于bilibili音源的音乐APP
-
-## 2026年4月5日新增  
+* :white_check_mark: [bili-music](https://github.com/AprDeci/bili-music)：音乐App，基于 bilibili 音源
 
 #### 1996fanrui - [Github](https://github.com/1996fanrui)
 * :white_check_mark: [Agents Sandbox](https://agents-sandbox.com)：AI Agent 安全沙箱，一条命令让 Claude Code、Codex、OpenClaw 等 AI Agent 在完全隔离的容器中以无限制权限运行，宿主机零风险。支持 CLI 和 Python SDK
 
-* :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息
+* :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：字数统计工具，可实时统计文本的字数、字符数、句子数等信息
 
 #### Shawn(北京) - [Github](https://github.com/ShawnHacks)
-* :white_check_mark: [Beautyface AI](https://beautyface.app)：AI图片生成工具，主要定位人像生成，包括职业照、艺术照、风格化、逆向提示词等 - [更多介绍](https://beautyface.app/)
-* :white_check_mark: [AI Onekit](https://aionekit.com)：AI聚合模型创作平台 - [更多介绍](https://aionekit.com/models)
+* :white_check_mark: [Beautyface AI](https://beautyface.app)：AI 图片生成工具，主要定位人像生成，包括职业照、艺术照、风格化、逆向提示词等 - [更多介绍](https://beautyface.app/)
+* :white_check_mark: [AI Onekit](https://aionekit.com)：AI 聚合模型创作平台 - [更多介绍](https://aionekit.com/models)
   
 ### 2026 年 4 月 3 号添加
 
 #### syakadou - [Github](https://github.com/syakadou)
-* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/)：去除Gemini App生成的AI图片水印
+* :white_check_mark: [Gemini Watermark remover](https://gemini-watermark-remover.net/)：去除 Gemini App 生成的 AI 图片水印
 
 #### xiehuateng - [Github](https://github.com/xiehuateng)
-* :white_check_mark: [x downloader](https://x-video-download.net)：解析推特（X）上的AI视频及各种视频链接，支持一键下载多种清晰度视频。
+* :white_check_mark: [x downloader](https://x-video-download.net)：解析推特（X）上的 AI 视频及各种视频链接，支持一键下载多种清晰度视频。
 
 #### jjk340 - [Github](https://github.com/jjk340)
 * :white_check_mark: [Clarioxis](https://clarioxis.com)：AI 教育智能体工具，打造“资料分析+AI视频讲解+随堂练习+智能复盘”的一站式学习闭环
