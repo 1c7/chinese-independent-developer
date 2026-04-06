@@ -22,6 +22,9 @@
 
 ## 2026年4月5日新增  
 
+#### 1996fanrui - [Github](https://github.com/1996fanrui)
+* :white_check_mark: [Agents Sandbox](https://agents-sandbox.com)：AI Agent 安全沙箱，一条命令让 Claude Code、Codex、OpenClaw 等 AI Agent 在完全隔离的容器中以无限制权限运行，宿主机零风险。支持 CLI 和 Python SDK
+
 * :white_check_mark: [Word Counter - 字数统计工具](https://www.primenotepad.com/tools/word-counter)：在线字数统计工具，可实时统计文本的字数、字符数、句子数等信息
 
 ### 2026 年 4 月 3 号添加
