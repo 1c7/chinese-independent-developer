@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 6 号添加
+
+#### calderbuild - [Github](https://github.com/calderbuild)
+* :white_check_mark: [MeetSpot 聚点](https://meetspot-irq2.onrender.com/)：多人聚会地点智能推荐工具，输入 2-10 人地址，用球面几何算法计算公平中点，AI 评分推荐附近高评分场所，覆盖 350+ 城市，免费使用无需注册。
+
+#### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
+* :white_check_mark: [AI Amazing](https://aiamazing.art)：面向创作者与团队的一体化 AI 图像/视频生产平台
+
 ### 2026 年 4 月 5 号添加
 
 #### AprDeci - [Github](https://github.com/AprDeci)
