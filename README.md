@@ -25,6 +25,10 @@
 #### Harries - [Github](https://github.com/Harries)
 * :white_check_mark: [yizhan.club](https://www.yizhan.club/)：发现、比较和推荐最新 AI 工具的平台
 
+#### WildMildNull
+* :white_check_mark: [StreamWindow](https://macdev.cn/)：MacOS平台一款全新的3D窗口管理工具，支持漂亮、炫酷的CoverFlow封面流转特效，摩天轮效果和扑克牌洗牌特效等，满足高效办公的同时，也增添更多好玩的操作乐趣。
+* :white_check_mark: [TickTot](https://macdev.cn/ticktot)：专为老师、家长和儿童设计的钟表时间辅助学习工具，指针支持配置不同颜色，指针以动画形式，动态直观地呈现时针走一小格，分针走几格，秒针转几圈的规律。
+
 #### calderbuild - [Github](https://github.com/calderbuild)
 * :white_check_mark: [MeetSpot 聚点](https://meetspot-irq2.onrender.com/)：多人聚会地点智能推荐工具，输入 2-10 人地址，用球面几何算法计算公平中点，AI 评分推荐附近高评分场所，覆盖 350+ 城市，免费使用无需注册。
 
