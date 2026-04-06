@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 5 号添加
+
+#### AprDeci - [Github](https://github.com/AprDeci)
+* :white_check_mark: [bili-music](https://github.com/AprDeci/bili-music)：基于bilibili音源的音乐APP
+
 ## 2026年4月5日新增  
 
 #### 1996fanrui - [Github](https://github.com/1996fanrui)
