@@ -22,6 +22,9 @@
 
 ### 2026 年 4 月 6 号添加
 
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [yizhan.club](https://www.yizhan.club/)：发现、比较和推荐最新 AI 工具的平台
+
 #### calderbuild - [Github](https://github.com/calderbuild)
 * :white_check_mark: [MeetSpot 聚点](https://meetspot-irq2.onrender.com/)：多人聚会地点智能推荐工具，输入 2-10 人地址，用球面几何算法计算公平中点，AI 评分推荐附近高评分场所，覆盖 350+ 城市，免费使用无需注册。
 
