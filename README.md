@@ -22,6 +22,12 @@
 
 ### 2026 年 4 月 6 号添加
 
+#### rain(深圳) - [Github](https://github.com/wang1309)
+* :white_check_mark: [seedance2](https://seedances2.org/)：AI 视频生成平台，体验视频生成模型 Seedance
+
+#### wendy7756 - [Github](https://github.com/wendy7756)
+* :white_check_mark: [sipsip.ai](https://www.sipsip.ai/)：支持30+平台视频AI转录并提取摘要，订阅RSS可以每天发送早报
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [banana-PPT](http://ppt.hoduan.com/)：Banana PPT 是一款基于 AI 的原生 PPT 生成工具。从想法到演示文稿，只需一句话。 告别繁琐的手动排版，让 AI 帮你完成设计、配图、配色的全部工作。（基于开源项目banana-slides）
 
