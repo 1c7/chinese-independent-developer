@@ -24,7 +24,7 @@
 
 #### feifei-989（成都） - [Github](https://github.com/feifei-989)
 
-* :white_check_mark: [AI乔言](https://ai.qiaoyan777.top/)：一个多模态 AI 创作平台，支持文生图、图生图和文本转语音，帮助用户高效完成图像与音频内容生成。
+* :white_check_mark: [AI Content Studio](https://ai.qiaoyan777.top/)：一个多模态 AI 创作平台，支持文生图、图生图和文本转语音，帮助用户高效完成图像与音频内容生成。
 
 ### 2026 年 4 月 6 号添加
 
