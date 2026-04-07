@@ -20,6 +20,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 7 号添加
+
+#### linhuaqian - [Github](https://github.com/linhuaqian)
+* :white_check_mark: [lovecalculator.vip](https://lovecalculator.vip/)：通过名字测试两人是否有缘
+
+#### Rvelamen - [Github](https://github.com/Rvelamen)
+* :white_check_mark: [Octopus](https://github.com/Rvelamen/Octopus)：AI Agent 桌面框架 · 多触手高效协作
+
 ### 2026 年 4 月 6 号添加
 
 #### rain(深圳) - [Github](https://github.com/wang1309)
