@@ -22,12 +22,10 @@
 
 ### 2026 年 4 月 6 号添加
 
-#### wang1309 - [Github](https://github.com/wang1309)
-* :white_check_mark: [rain(深圳)](https://github.com/wang1309)：
+#### rain(深圳) - [Github](https://github.com/wang1309)
 * :white_check_mark: [seedance2](https://seedances2.org/)：AI 视频生成平台，体验视频生成模型 Seedance
 
 #### wendy7756 - [Github](https://github.com/wendy7756)
-* :white_check_mark: [AI Video Transcriber](https://github.com/wendy7756/AI-Video-Transcriber)：开源项目
 * :white_check_mark: [sipsip.ai](https://www.sipsip.ai/)：支持30+平台视频AI转录并提取摘要，订阅RSS可以每天发送早报
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
