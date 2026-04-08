@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 8 号添加
+
+#### Zane造物 - [Github](https://github.com/zhushen12580)
+* :white_check_mark: [StyleSwift(数字女娲)](https://chromewebstore.google.com/detail/styleswift/llchggmimjgnbjlcgpkjmplhfbkjjcli)：给任何网站换皮肤
+
+#### syakadou - [Github](https://github.com/syakadou)
+* :white_check_mark: [paypalfeecalculator](https://paypalfeecalculator.org/)：计算 PayPal 处理费，查看扣除费用后实际收款金额。
+
+#### mooremok - [Github](https://github.com/mooremok)
+* :white_check_mark: [回声笔AI](https://llmapi.fit)：微调模型，提供降重降AI接口服务
+
 ### 2026 年 4 月 7 号添加
 
 #### linhuaqian - [Github](https://github.com/linhuaqian)
