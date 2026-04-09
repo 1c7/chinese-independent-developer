@@ -20,6 +20,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 9 号添加
+
+#### cabbagehao - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [hermes agent helper](https://hermes-agent.us)：提供 Hermes Agent 的安装、OpenClaw 对比、Docker、部署等相关教程和服务
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Pager.Quest](https://pager.quest)：基于电报的消息推送，支持文字、图片、文档推送，无需另装APP
+
+#### businesszh - [Github](https://github.com/businesszh)
+* :white_check_mark: [happyhorseai.pro](https://happyhorseai.pro/)：AI Video Generator for Text to Video and Image to Video
+
 ### 2026 年 4 月 8 号添加
 
 #### Zane造物 - [Github](https://github.com/zhushen12580)
