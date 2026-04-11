@@ -22,8 +22,7 @@
 
 ### 2026 年 4 月 10 号添加
 
-#### hanshuaikang - [Github](https://github.com/hanshuaikang)
-* :white_check_mark: [韩数](https://github.com/hanshuaikang)：开源项目
+#### 韩数 - [Github](https://github.com/hanshuaikang)
 * :white_check_mark: [哪吒](https://github.com/hanshuaikang/nezha)：专为多项目并行 VibeCoding 打造的轻量级 AI 编程工具，集成了 Claude Code 和 Codex，整合了多项目管理、待办系统、会话管理、虚拟终端、代码编辑器和 Git
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
@@ -36,7 +35,7 @@
 * :white_check_mark: [QuickInfer](https://ckfanzhe.github.io/quickinfer/)：基于 ONNX Runtime Web 的 YOLOv8 推理，纯 Web 端运行，无需其他环境及后端服务器。
 
 #### evancole-ai - [Github](https://github.com/evancole-ai)
-* :white_check_mark: [BeMusic AI](https://bemusic.ai)：AI音乐生成器
+* :white_check_mark: [BeMusic AI](https://bemusic.ai)：AI 音乐生成器
 
 #### PetersLab - [Github](https://github.com/peters-lab), [Twitter](https://x.com/peterandersone)
 * :white_check_mark: [AI Manga Translator](https://ai-manga-translator.com)：上传漫画，获取像素级精准翻译。智能 OCR、忠实翻译、无缝排版。全部由 AI 驱动
