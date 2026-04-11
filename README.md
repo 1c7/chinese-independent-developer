@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 11 号添加
+lisa - [Github](https://github.com/shisan12323)
+✅ happyhorse20.com：AI Video Generator for Text to Video and Image to Video
+
 ### 2026 年 4 月 10 号添加
 
 #### 韩数 - [Github](https://github.com/hanshuaikang)
