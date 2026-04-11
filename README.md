@@ -22,6 +22,9 @@
 
 ### 2026 年 4 月 11 号添加
 
+#### simple-Jian-tw - [Github](https://github.com/simple-Jian-tw)
+* :white_check_mark: [AnimeGen](https://animegen.ai)：将照片转换为动漫艺术、头像和风格化插图的 AI 工具
+
 #### lisa - [Github](https://github.com/shisan12323)
 * :white_check_mark: [HappyHorse](https://www.happyhorse20.com/)：AI 视频生成，支持文生视频、图生视频
 
