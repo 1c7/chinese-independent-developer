@@ -20,6 +20,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 11 号添加
+
+#### lisa - [Github](https://github.com/shisan12323)
+* :white_check_mark: [HappyHorse](https://www.happyhorse20.com/)：AI 视频生成，支持文生视频、图生视频
+
 ### 2026 年 4 月 10 号添加
 
 #### 韩数 - [Github](https://github.com/hanshuaikang)
