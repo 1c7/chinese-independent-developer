@@ -26,7 +26,7 @@
 * :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.site/)：在线前后对比图、视频、GIF动图制作，支持多种对比布局（并排展示、交互式滑块对比、分割视图、垂直堆叠）
 
 #### garfi99 - [Github](https://github.com/garfi99)
-* :white_check_mark: [有名](https://nomai.data-ext.com)：用AI取好名字的网站，找到独特、易于品牌化的名称
+* :white_check_mark: [有名](https://nomai.data-ext.com)：用 AI 取好名字的网站，找到独特、易于品牌化的名称
 
 #### kerryhank - [Github](https://github.com/kerryhank)
 * :white_check_mark: [KK Investing](https://kkinvesting.io)：多语言加密货币教育平台，提供交易所注册教程、加密卡评测、DeFi 借贷指南
