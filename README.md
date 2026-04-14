@@ -25,6 +25,9 @@
 
 ### 2026 年 4 月 14 号添加
 
+#### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
+* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：基于Flutter开发的跨平台笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中。
+
 #### 河池 - [Github](https://github.com/superbogy), [博客](https://docs.egosapp.com/blog)
 * :white_check_mark: [egos](https://egosapp.com)：零配置mini-NAS，个人设备文件传输和分享
 
