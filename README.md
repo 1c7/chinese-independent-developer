@@ -33,12 +33,6 @@
 
 #### zhaomario1 - [Github](https://github.com/zhaomario1)
 * :white_check_mark: [Qwen Image](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [Qwen Image 2](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [AI Photo Generator](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [ImageByQwen](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [AI Photo Creation](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [Photorealistic Images](https://imagebyqwen.com/)：AI 图像生成
-* :white_check_mark: [imagebyqwen.com/generate](https://imagebyqwen.com/generate)：文本转图像工具
 
 ### 2026 年 4 月 13 号添加
 
