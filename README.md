@@ -23,6 +23,23 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 14 号添加
+
+#### 河池 - [Github](https://github.com/superbogy), [博客](https://docs.egosapp.com/blog)
+* :white_check_mark: [egos](https://egosapp.com)：零配置mini-NAS，个人设备文件传输和分享
+
+#### anyfly8 - [Github](https://github.com/anyfly8)
+* :white_check_mark: [热点智读](https://ainsight.aiext.co)：不止看热点，更是懂逻辑；2分钟，看趋势，见未来
+
+#### zhaomario1 - [Github](https://github.com/zhaomario1)
+* :white_check_mark: [Qwen Image](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [Qwen Image 2](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [AI Photo Generator](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [ImageByQwen](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [AI Photo Creation](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [Photorealistic Images](https://imagebyqwen.com/)：AI 图像生成
+* :white_check_mark: [imagebyqwen.com/generate](https://imagebyqwen.com/generate)：文本转图像工具
+
 ### 2026 年 4 月 13 号添加
 
 #### dong2019 - [Github](https://github.com/dong2019)
