@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 13 号添加
+
+#### dong2019 - [Github](https://github.com/dong2019)
+* :white_check_mark: [thesis_paper](https://github.com/dong2019/thesis_paper)：学位论文审查工具，调用大模型审查语言、参考文献、图表等问题
+
 ### 2026 年 4 月 12 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
