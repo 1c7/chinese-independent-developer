@@ -26,6 +26,21 @@
 
 ### 2026 年 4 月 15 号添加
 
+#### Chaoc2624 - [Github](https://github.com/Chaoc2624)
+* :white_check_mark: [Frame.Extractor](https://frame-extractor.app)：多样化隐私安全的web提取视频帧工具
+
+#### Gierry - [Github](https://github.com/Gierry)
+* :white_check_mark: [SpokenType](https://spokentype.com)：AI 智能语音协作工具，支持实时翻译、语音转文字、口语优化、上下文理解与智能回复、个性化词典及多语言切换
+
+#### Frankenjoy123 - [Github](https://github.com/Frankenjoy123)
+* :white_check_mark: [imagepromptify.com](https://imagepromptify.com)：图片转描述提示工具
+
+#### hebrewbear - [Github](https://github.com/hebrewbear)
+* :white_check_mark: [LTX 2 AI Video Generator](https://ltxvideo.org/)：AI 视频生成器，可将创意提示即时转换为高质量视频
+
+#### hebrewbear - [Github](https://github.com/hebrewbear)
+* :white_check_mark: [Grok Video](https://grokvideo.pro/)：将想象转化为视频的 AI 视频生成网站
+
 #### Listing诊断器团队 - [GitHub](https://github.com/yifanyifan897645)
 * :white_check_mark: [Listing诊断器](https://yifanyifan897645.github.io/listing-analyzer/)：免费在线跨境电商 Listing 质量分析工具，支持亚马逊/速卖通/Shopify，检测标题长度、关键词密度、卖点结构，给出优化建议。纯浏览器端处理，无需注册，数据不上传。
 
