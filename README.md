@@ -23,6 +23,13 @@
 
 ## 3. 项目列表
 
+
+### 2026 年 4 月 15 号添加
+
+#### Listing诊断器团队 - [GitHub](https://github.com/yifanyifan897645)
+* :white_check_mark: [Listing诊断器](https://yifanyifan897645.github.io/listing-analyzer/)：免费在线跨境电商 Listing 质量分析工具，支持亚马逊/速卖通/Shopify，检测标题长度、关键词密度、卖点结构，给出优化建议。纯浏览器端处理，无需注册，数据不上传。
+
+
 ### 2026 年 4 月 14 号添加
 
 #### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
