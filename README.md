@@ -32,9 +32,8 @@
 #### Ivanvolt(WH)
 * :white_check_mark: [Epochal](https://epochal.app)：解决 AI 视频生成不一致和流程割裂问题的一站式创作工具。
 
-#### WRCoding - [Github](https://github.com/WRCoding)
-* :white_check_mark: [X](https://x.com/seazon000)
-* :white_check_mark: [imgpilot](https://imgpilot.app/)：对话生图，与以往的 prompt 生图不同，能够像聊天一样多轮迭代，逐步打磨出理想画面，支持上传参考图编辑或将prompt生成好的图片继续迭代，同时持续更新prompts库
+#### WRCoding - [Github](https://github.com/WRCoding), [X](https://x.com/seazon000)
+* :white_check_mark: [imgpilot](https://imgpilot.app/)：对话生图，与以往的 prompt 生图不同，能够像聊天一样多轮迭代，逐步打磨出理想画面，支持上传参考图编辑或将 prompt 生成好的图片继续迭代，同时持续更新 prompts 库
 
 #### labflying - [Github](https://github.com/labflying)
 * :white_check_mark: [SongFromShort](https://songfromshort.org)：识别 YouTube Shorts 视频中播放的歌曲的网站
