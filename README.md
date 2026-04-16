@@ -47,6 +47,9 @@
 #### Joey - [Github](https://github.com/Frankenjoy123)
 * :white_check_mark: [ImagePromptify](https://imagepromptify.com/)：最好用的图片转描述提示工具
 
+#### largepuma - [Github](https://github.com/largepuma)
+* :white_check_mark: [思畅 AI](https://sichang.xyz/)：私密、无审查、本地优先的中文AI对话
+
 ### 2026 年 4 月 14 号添加
 
 #### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
