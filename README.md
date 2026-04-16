@@ -27,14 +27,14 @@
 ### 2026 年 4 月 16 号添加
 
 #### Sun(山东) -
-* :white_check_mark: [IndieCN](indiecn.app)：中文独立开发者简讯，每周精选20~30张核心资讯卡片
+* :white_check_mark: [IndieCN](indiecn.app)：中文独立开发者简讯，每周精选 20~30 张核心资讯卡片
 
 #### Ivanvolt(WH)
 * :white_check_mark: [Epochal](https://epochal.app)：解决 AI 视频生成不一致和流程割裂问题的一站式创作工具。
 
 #### WRCoding - [Github](https://github.com/WRCoding)
 * :white_check_mark: [X](https://x.com/seazon000)
-* :white_check_mark: [imgpilot](https://imgpilot.app/)：对话生图，与以往的prompt生图不同，能够像聊天一样多轮迭代，逐步打磨出理想画面，支持上传参考图编辑或将prompt生成好的图片继续迭代，同时持续更新prompts库
+* :white_check_mark: [imgpilot](https://imgpilot.app/)：对话生图，与以往的 prompt 生图不同，能够像聊天一样多轮迭代，逐步打磨出理想画面，支持上传参考图编辑或将prompt生成好的图片继续迭代，同时持续更新prompts库
 
 #### labflying - [Github](https://github.com/labflying)
 * :white_check_mark: [SongFromShort](https://songfromshort.org)：识别 YouTube Shorts 视频中播放的歌曲的网站
@@ -43,17 +43,16 @@
 * :white_check_mark: [gptimage2.art](https://gptimage2.art/)：基于浏览器的图像生成、编辑、放大与视觉转换一体化工作流，适用于快速创意生产、轻量实验和便捷访问常用工具。
 
 #### eileendai0505-boop - [Github](https://github.com/eileendai0505-boop)
-* :white_check_mark: [Best HEIC to PNG Converter](https://heictopng.org/)：在线工具，将苹果HEIC格式图片转换为PNG格式，解决兼容性问题
-* :white_check_mark: [heictopng.org](https://heictopng.org/)：在线工具，将苹果HEIC格式图片转换为PNG格式，解决兼容性问题
+* :white_check_mark: [Best HEIC to PNG Converter](https://heictopng.org/)：将苹果 HEIC 格式图片转换为 PNG 格式，解决兼容性问题
 
 #### hebrewbear - [Github](https://github.com/hebrewbear)
 * :white_check_mark: [Seedance 2.0](https://seedances.app/)：AI 视频生成，支持原生音频和 2K 分辨率，通过先进的多模态输入将创意转化为电影级现实。
 
 #### xinhuokeji - [Github](https://github.com/xinhuokeji)
-* :white_check_mark: [audjust.ai](https://audjust.ai/)：智能在线音频编辑与 AI 音乐生成工具，帮助处理音频文件（智能缩短歌曲、延长音频、寻找完美无缝循环）并从文字描述、歌词或图片生成完整音乐轨道。支持多种风格，内置 MIDI 编辑器、音轨分离、Lo-fi 转换等专业工具。
+* :white_check_mark: [audjust.ai](https://audjust.ai/)：智能音频编辑与 AI 音乐生成工具，帮助处理音频文件（智能缩短歌曲、延长音频、寻找完美无缝循环）并从文字描述、歌词或图片生成完整音乐轨道。支持多种风格，内置 MIDI 编辑器、音轨分离、Lo-fi 转换等专业工具。
 
 ####  MaynorAI (深圳) AI快讯助手
-* :white_check_mark: [AI快讯助手](https://nav.chatgpt-plus.top/)：每日AI资讯，实时更新
+* :white_check_mark: [AI快讯助手](https://nav.chatgpt-plus.top/)：每日 AI 资讯，实时更新
 
 #### Chaoc2624 - [Github](https://github.com/Chaoc2624)
 * :white_check_mark: [Frame.Extractor](https://frame-extractor.app)：多样化隐私安全的 Web 提取视频帧工具
