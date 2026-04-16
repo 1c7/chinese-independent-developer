@@ -27,7 +27,7 @@
 ### 2026 年 4 月 16 号添加
 
 #### Chaoc2624 - [Github](https://github.com/Chaoc2624)
-* :white_check_mark: [Frame.Extractor](https://frame-extractor.app)：多样化隐私安全的web提取视频帧工具
+* :white_check_mark: [Frame.Extractor](https://frame-extractor.app)：多样化隐私安全的 Web 提取视频帧工具
 
 #### Gierry - [Github](https://github.com/Gierry)
 * :white_check_mark: [SpokenType](https://spokentype.com)：AI 智能语音协作工具，支持实时翻译、语音转文字、口语优化、上下文理解与智能回复、个性化词典及多语言切换
@@ -50,10 +50,10 @@
 ### 2026 年 4 月 14 号添加
 
 #### 王一舠(南京) - [Github](https://github.com/stardust1900), [博客](https://wangxuan.me)
-* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：基于Flutter开发的跨平台笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中。
+* :white_check_mark: [草灰笔记](https://github.com/stardust1900/ashes_note)：笔记应用，专注于笔记管理功能。同时还是一款epub阅读器，可以将读书笔记以markdown格式直接导出到笔记管理中 (基于Flutter开发, 跨平台)
 
 #### 河池 - [Github](https://github.com/superbogy), [博客](https://docs.egosapp.com/blog)
-* :white_check_mark: [egos](https://egosapp.com)：零配置mini-NAS，个人设备文件传输和分享
+* :white_check_mark: [egos](https://egosapp.com)：零配置 mini-NAS，个人设备文件传输和分享
 
 #### anyfly8 - [Github](https://github.com/anyfly8)
 * :white_check_mark: [热点智读](https://ainsight.aiext.co)：不止看热点，更是懂逻辑；2分钟，看趋势，见未来
