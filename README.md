@@ -27,7 +27,7 @@
 ### 2026 年 4 月 16 号添加
 
 #### Sun(山东) -
-* :white_check_mark: [IndieCN](indiecn.app)：中文独立开发者简讯，每周精选 20~30 张核心资讯卡片
+* :white_check_mark: [IndieCN](https://indiecn.app)：中文独立开发者简讯，每周精选 20~30 张核心资讯卡片
 
 #### Ivanvolt(WH)
 * :white_check_mark: [Epochal](https://epochal.app)：解决 AI 视频生成不一致和流程割裂问题的一站式创作工具。
