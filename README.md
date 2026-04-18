@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 18 号添加
+
+#### erickkkyt - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [GPTIMG2 AI](https://gptimg2.ai)：面向真实创作流程的 AI 图像与视频生成平台，支持产品视觉、海报素材、图内文字生成、参考图修订，以及从静态图延展到视频工作流。
+
 ### 2026 年 4 月 17 号添加
 
 #### null-object-0000 (上海) - [Github](https://github.com/null-object-0000/ai-clash)
