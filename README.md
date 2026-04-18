@@ -23,6 +23,13 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 17 号添加
+
+#### null-object-0000 (上海) - [Github](https://github.com/null-object-0000/ai-clash)
+* :white_check_mark: [AI 对撞机](https://null-object-0000.github.io/ai-clash/)：大模型同屏比拼 Chrome 插件，内置裁判自动归纳终极答案
+
+#### zongguowu - [Github](https://github.com/zongguowu)
+* :white_check_mark: [Wan AI](https://wanai.dev/)：AI 视频生成器，可将文本或图像转换为视频
 
 ### 2026 年 4 月 16 号添加
 
