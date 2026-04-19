@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 19 号添加
+
+#### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
+* :white_check_mark: [Destiny Matrix](https://destinymatrix.ai)：生成命运矩阵图表，并用 AI 解读结果
+
+#### bytevirts - [Github](https://github.com/bytevirts)
+* :white_check_mark: [Nano Banana Free](https://nanobananafree.org)：图像编辑与视频生成工作台，支持产品图精修、人像润色、背景替换和视频生成，并在一个工作流里整合多个 AI 工具。
+
 ### 2026 年 4 月 18 号添加
 
 #### erickkkyt - [Github](https://github.com/erickkkyt)
