@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 21 号添加
+
+#### futurearrived - [Github](https://github.com/futurearrived)
+* :white_check_mark: [Nano Banana Labs](https://nanobananalabs.io)：AI 老照片修复与图像增强工具，上传旧照片或低分辨率图像，自动修复划痕、还原清晰度，支持人像增强与色彩优化，无需注册即可使用。
+
 ### 2026 年 4 月 18 号添加
 
 #### erickkkyt - [Github](https://github.com/erickkkyt)
