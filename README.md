@@ -31,8 +31,6 @@
 
 #### zhaomario1 - [Github](https://github.com/zhaomario1)
 * :white_check_mark: [loraai.me](https://loraai.me)：创建 AI 图像
-
-#### zhaomario1 - [Github](https://github.com/zhaomario1)
 * :white_check_mark: [aighostface.org](https://aighostface.org/)：Ghostface AI 生成器，将照片转换为 90 年代恐怖风格
 
 #### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
