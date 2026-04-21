@@ -26,6 +26,13 @@
 
 ### 2026 年 4 月 21 号添加
 
+#### Yuning
+* :white_check_mark: [PlayByFingering](https://www.playbyfingering.com)：面向初学者的指法歌曲练习站，支持 12 孔陶笛、竖笛和 Tin Whistle，提供按歌曲整理的字母谱、简谱和指法图页面。
+
+#### zhaomario1 - [Github](https://github.com/zhaomario1)
+* :white_check_mark: [loraai.me](https://loraai.me)：创建 AI 图像
+* :white_check_mark: [aighostface.org](https://aighostface.org/)：Ghostface AI 生成器，将照片转换为 90 年代恐怖风格
+
 #### ouy35521-beep - [Github](https://github.com/ouy35521-beep)
 * :white_check_mark: [Destiny Matrix](https://destinymatrix.ai)：生成命运矩阵图表，并用 AI 解读结果
 
