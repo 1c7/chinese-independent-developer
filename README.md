@@ -25,15 +25,13 @@
 
 ### 2026 年 4 月 22 号添加
 
-#### weipengfei - [html版ppt](https://ppt.metatool.chat/)
-* 多 Agent 协作架构，大纲专家负责搭建逻辑骨架，主题专家负责打磨视觉风格，设计师负责把每一页渲染成精致的 HTML 代码。
-* HTML 原生渲染引擎，可以是在线的https链接，也可以是离线的html文件。
-* 提供丰富的动画过渡效果        
-* AI 会自己去搜资料，绝不给你编造数据
-* 满意的设计，一键变成可复用的模板
-* 文字修改跟修改ppt一样简单
-
-### 2026 年 4 月 22 号添加
+#### weipengfei
+* :white_check_mark: [HTML 版 PPT](https://ppt.metatool.chat/)：多 Agent 协作架构，大纲专家负责搭建逻辑骨架，主题专家负责打磨视觉风格，设计师负责把每一页渲染成精致的 HTML 代码。
+  * HTML 原生渲染引擎，可以是在线的https链接，也可以是离线的html文件。
+  * 提供丰富的动画过渡效果        
+  * AI 会自己去搜资料，绝不给你编造数据
+  * 满意的设计，一键变成可复用的模板
+  * 文字修改跟修改ppt一样简单
 
 #### fishisnow - [Github](https://github.com/fishisnow)
 * :white_check_mark: [Square Face Generator](https://squareface.me/)：免费在线生成方形可爱头像，200+ 选项，实时预览，纯浏览器运行，无需注册，比 Flash 版快 10 倍。
