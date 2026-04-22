@@ -24,6 +24,14 @@
 ## 3. 项目列表
 
 
+### 2026 年 4 月 22 号添加
+
+#### fishisnow - [Github](https://github.com/fishisnow)
+* :white_check_mark: [Square Face Generator](https://squareface.me/)：免费在线生成方形可爱头像，200+ 选项，实时预览，纯浏览器运行，无需注册，比 Flash 版快 10 倍。
+* :white_check_mark: [Pdf To MD Converter](http://mdpdf.net/)：一款免费的 PDF 转 Markdown 在线转换工具, 快速且精准地把 PDF 文件转换成简洁的 Markdown 格式。
+* :white_check_mark: [Stock Scope](https://invest.fishisnow.xyz/)：在一个平台中，快速看清投资机会、市场宽度、今日强势榜单。
+
+
 ### 2026 年 4 月 21 号添加
 
 #### Yuning
