@@ -38,6 +38,8 @@
 * :white_check_mark: [Pdf To MD Converter](http://mdpdf.net/)：一款免费的 PDF 转 Markdown 在线转换工具, 快速且精准地把 PDF 文件转换成简洁的 Markdown 格式。
 * :white_check_mark: [Stock Scope](https://invest.fishisnow.xyz/)：在一个平台中，快速看清投资机会、市场宽度、今日强势榜单。
 
+#### kiddyu - [Github](https://github.com/kiddyuchina)
+* :white_check_mark: [Basevolt](https://basevolt.app)：本地优先的 AI 数据库管理客户端。连接数据库，一键生成 Notion 风格的管理后台，承包你所有 Vibe Coding 项目的 CRUD。
 
 ### 2026 年 4 月 21 号添加
 
