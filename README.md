@@ -25,7 +25,7 @@
 
 ### 2026 年 4 月 22 号添加
 
-#### weipengfei - [ppt metatool](https://ppt.metatool.chat/)
+#### weipengfei - [html版ppt](https://ppt.metatool.chat/)
 * 多 Agent 协作架构，大纲专家负责搭建逻辑骨架，主题专家负责打磨视觉风格，设计师负责把每一页渲染成精致的 HTML 代码。
 * HTML 原生渲染引擎，可以是在线的https链接，也可以是离线的html文件。
 * 提供丰富的动画过渡效果        
