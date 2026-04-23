@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 23 号添加
+
+#### anyfly8 - [Github](https://github.com/anyfly8)
+* :white_check_mark: [xinsight智创汇](https://www.aiext.co/)：发现机会、跟踪变化，提供一站式情报决策支持
+
 ### 2026 年 4 月 22 号添加
 
 #### Qiuner - [Github](https://github.com/Qiuner)
