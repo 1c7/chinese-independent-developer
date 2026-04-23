@@ -27,8 +27,6 @@
 
 #### Qiuner - [Github](https://github.com/Qiuner)
 * :white_check_mark: [ai-application-roadmap](https://qiuner.github.io/ai-application-roadmap/zh/)：追踪 AI 应用工程演进的双语路线图，记录 MCP、Function Calling、Multi-agent 等技术的落地时间线、是否被吸收/过时/换名词
-
-#### Qiuner - [Github](https://github.com/Qiuner)
 * :white_check_mark: [claude-nexus](https://chromewebstore.google.com/detail/claude-nexus/mjlaeohblnaalakaflnchcmpoojjejka)：Claude.ai 增强插件，支持对话文件夹管理、时间线导航、Prompt 库和对话导出
 
 #### bytevirts - [Github](https://github.com/bytevirts)
