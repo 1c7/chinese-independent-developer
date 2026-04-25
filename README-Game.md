@@ -2,6 +2,9 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 4 月 25 号添加
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [patches game](https://playpatches.today/)：每日逻辑谜题游戏
 
 ### 2026 年 2 月 4 号添加
 #### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com)
