@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 25 号添加
+
+#### yowang - [Github](https://github.com/yowang)
+* :white_check_mark: [gptimager.com](https://gptimager.com)：输入一句提示词，10 秒生成可商用的营销海报、电商产品图和品牌视觉
+
 ### 2026 年 4 月 24 号添加
 
 #### BC - [Github](https://github.com/cwingho)
