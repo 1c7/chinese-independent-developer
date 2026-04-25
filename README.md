@@ -23,6 +23,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 24 号添加
+
+#### BC - [Github](https://github.com/cwingho)
+* :white_check_mark: [ListPitch](https://listpitch.com)：导航站快速收录产品，帮助独立开发者推广业务
+
+#### fayecat - [Github](https://github.com/fayecat)
+* :white_check_mark: [Floaty](https://floatytool.com/)：在 macOS 上实现窗口置顶，让任意应用始终保持在最上层
+* :white_check_mark: [Cloaky](https://apps.apple.com/app/id6761397324)：通过在屏幕上添加可调节的遮罩来隐藏敏感信息，适用于办公、演示或公共环境中的隐私保护
+
+#### GoDiao - [Github](https://github.com/GoDiao)
+* :white_check_mark: [Free Way](https://github.com/GoDiao/Free-Way)：收纳全球 API Provider 免费额度，支持 Anthropic/OpenAI API格式的通用网关
+
 ### 2026 年 4 月 23 号添加
 
 #### anyfly8 - [Github](https://github.com/anyfly8)
