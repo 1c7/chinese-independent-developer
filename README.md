@@ -25,6 +25,10 @@
 
 ### 2026 年 4 月 28 号添加
 
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。
+* :white_check_mark: [Focus Game](https://focus-game.org/)：包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。
+
 #### 刀刀 - [Github](https://github.com/sfss5362)
 * :white_check_mark: [Chrome插件VidGet](https://100apps.dev/2026/04/26/5-%e5%88%86%e9%92%9f%e8%a3%85%e5%a5%bd%e5%97%85%e5%97%85-vidget-%e5%90%ab-youtube.html)：一键嗅探下载网页视频 — YouTube / Bilibili / iyf.tv
 
