@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/1c7-chinese-independent-developer-badge.png)](https://mseep.ai/app/1c7-chinese-independent-developer)
+
 ## 中国独立开发者项目列表
 聚合所有中国独立开发者的项目
 
