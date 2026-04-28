@@ -25,6 +25,15 @@
 
 ### 2026 年 4 月 28 号添加
 
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [ZOOOP](https://zooop.ai/)：AI 原生创作平台，支持在浏览器端无限画布上生成图像、视频和音频，提供去背景、高清化等专项任务及即用型 AI 模板，支持发布模板赚取积分，并具备团队共享积分模式。
+
+#### michael0127 - [Github](https://github.com/michael0127)
+* :white_check_mark: [Scanned.to](https://scanned.to)：AI 驱动的 OCR 文档识别与翻译平台，将扫描 PDF/图片转为可编辑 Word/Text，保留原始排版，支持 50+ 语言翻译
+
+#### pandaupup (广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Spacebar Clicker Game](https://spacebarclickergame.org/)：在线空格键点击测试工具，通过限时点击统计CPS（每秒点击次数），用于测试手速与反应速度
+
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
 * :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练工具，用于训练注意力、视觉扫描能力和阅读速度。
 * :white_check_mark: [Focus Game](https://focus-game.org/)：包含多种专注力与认知测试的小工具集合，通过短时练习提升注意力、反应速度和大脑处理能力。
