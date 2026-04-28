@@ -55,6 +55,7 @@
 
 #### futurearrived - [Github](https://github.com/futurearrived)
 * :white_check_mark: [PhotoRestore.ai](https://photorestore.ai)：AI 照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册
+* :white_check_mark: [FigureGPT](https://figuregpt.ai)：粘贴论文文字，AI 自动生成可发表的科学图表，支持柱状图、折线图、散点图、流程图和架构图，导出 PNG/SVG/PDF
 
 ### 2026 年 4 月 25 号添加
 
