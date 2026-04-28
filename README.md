@@ -25,6 +25,9 @@
 
 ### 2026 年 4 月 25 号添加
 
+#### eryajf(杭州) - [Github](https://github.com/eryajf), [博客](https://wiki.eryajf.net)
+* :white_check_mark: [kite-desktop](https://github.com/eryajf/kite-desktop)：基于 Wails v3 打造的桌面端 K8S 多集群管理工具，支持 Mac 与 Windows 平台
+
 #### yowang - [Github](https://github.com/yowang)
 * :white_check_mark: [gptimager.com](https://gptimager.com)：输入一句提示词，10 秒生成可商用的营销海报、电商产品图和品牌视觉
 
