@@ -23,6 +23,37 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 28 号添加
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [Chrome插件VidGet](https://100apps.dev/2026/04/26/5-%e5%88%86%e9%92%9f%e8%a3%85%e5%a5%bd%e5%97%85%e5%97%85-vidget-%e5%90%ab-youtube.html)：一键嗅探下载网页视频 — YouTube / Bilibili / iyf.tv
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Create Fillable PDFs](https://createfillablepdfs.com/)：在线PDF表单生成器，支持从零开始或上传现有PDF，添加交互式文本框、复选框和签名，通过拖放字段和自定义属性创建可填写的PDF文档。
+
+#### tancky - [Github](https://github.com/tancky777)
+* :white_check_mark: [GPT Image 2](https://gptimg-2.org/)：AI 图片生成网站，输入画面描述，选择结果，将日常想法转为真实图片、产品照片、海报、头像、广告图和社媒配图。
+
+#### dexterdeng - [Github](https://github.com/dexterdeng)
+* :white_check_mark: [Dexter](https://github.com/dexterdeng)：项目描述未提供
+* :white_check_mark: [WithoutAD](https://withoutad.com/?locale=zh-CN)：面向孩子的学习与益智游戏平台，通过游戏化方式帮助孩子掌握知识，涵盖背单词、成语接龙、口算练习、函数曲线、凑24等学习工具，以及数独、推箱子、俄罗斯方块等经典益智游戏，全站无广告、无付费门槛
+
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [xxzhou](https://github.com/lumian2015)：Github 个人主页
+* :white_check_mark: [GPT Image 2](https://gptimage2.design)：AI 图片生成器，支持文生图、图生图、4K 图片、图中文字生成与 Prompt 示例库，适合制作产品图、海报、广告图和社媒配图
+
+#### daxia-dong - [Github](https://github.com/daxia-dong)
+* :white_check_mark: [SENTHUB](https://senthub.vercel.app)：在线 Markdown 转 PDF 工具，纯前端、无需上传，支持实时编辑与预览、原生中文排版、一键导出 PDF、暗色模式，开源免费
+
+#### Epochal - [主站点](https://epochal.app/)
+* :white_check_mark: [FreeGPT2](https://freegpt2.com)：GPT Image 2 生成器网站，即时创建 AI 图像，无需登录
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [GPU性能测试](https://volumeshaderpro.org)：通过实时毒蘑菇渲染测试持续压测 GPU，在浏览器中直接输出 FPS、帧时间等性能指标
+
+#### futurearrived - [Github](https://github.com/futurearrived)
+* :white_check_mark: [PhotoRestore.ai](https://photorestore.ai)：AI照片修复工具，支持老照片修复、划痕去除、黑白照片上色与图像增强，上传即可自动修复，无需注册
+
 ### 2026 年 4 月 25 号添加
 
 #### eryajf(杭州) - [Github](https://github.com/eryajf), [博客](https://wiki.eryajf.net)
