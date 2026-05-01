@@ -23,6 +23,19 @@
 
 ## 3. 项目列表
 
+### 2026 年 4 月 30 号添加
+
+#### weird94 - [Github](https://github.com/weird94)
+* :white_check_mark: [Scrapilot](https://scrapilot.cc)：AI 爬虫插件，零代码采集任意网页数据，运行在真实浏览器中，天然抗反爬，支持定时自动化工作流
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [小红书图片、视频、Live图下载 - 去水印免费下载](https://rednote-downloader.online/zh)：小红书视频下载工具，支持下载视频和图片，保持原画质，无水印，无需安装
+* :white_check_mark: [小红书去水印视频 下载器](https://www.xhs-download.org/zh)：小红书去水印视频下载器，可保存小红书视频，高质量无水印，无需注册，适用于所有设备
+* :white_check_mark: [小红书去水印工具 - 免费下载无水印小红书视频和图片](https://rednotevideodownload.org/zh)：小红书去水印下载器，一键去除水印下载视频和图片，保持高清画质，无需注册
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Moono AI 帮你写歌](https://music.stockai.trade)：AI 音乐生成器
+
 ### 2026 年 4 月 28 号添加
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
