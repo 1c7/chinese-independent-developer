@@ -22,10 +22,17 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
-### 2026 年 5 月 03 号添加
+
+### 2026 年 5 月 3 号添加
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [GPT Image 2](https://gptimg2.io/zh)：由 OpenAI 最先进图像模型支持的一站式图像生成与编辑工具
+
+#### ScanRead Team
+* :white_check_mark: [ScanRead.ai](https://scanread.ai)：OCR 文字提取工具，支持 100+ 语言，可从图片、PDF、截图和手写文档中提取文字
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [aihaibao-AI海报](https://aihaibao.org/)：小店铺的海报也能高大上！店铺主图、详情长图不用再一张张抠：上传实拍 + 卖点，一键出多套上架图；还想对齐竞品？粘贴链接复刻风格，几分钟批量出同款调性素材
-
 
 ### 2026 年 4 月 30 号添加
 
