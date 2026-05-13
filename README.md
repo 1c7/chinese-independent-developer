@@ -23,6 +23,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 13 号添加
+#### SnowPeakMa - [Github](https://github.com/SnowPeakMa)
+* :white_check_mark: [isCompress](https://www.iscompress.com/)：100% 在您的浏览器中完成图片压缩的免费工具。图片不会上传到任何服务器，极致保护您的隐私。支持 JPG / PNG / WebP 格式，单张压缩速度小于 0.5 秒，并可批量打包下载
+
 ### 2026 年 5 月 11 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
