@@ -25,6 +25,12 @@
 
 ### 2026 年 5 月 17 号添加
 
+#### lucy(上海)
+* :white_check_mark: [Nano Banana Pro](https://nanobananagen.org)：编辑并精修图像，由先进模型驱动，兼顾稳定的人物一致性和更强的编辑控制力
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Color Palette Hub](https://colorpalettehub.com/)：在线调色板百科全书，收录数千种命名颜色和数百个精选调色板，提供完整技术参数（Hex、RGB、CMYK、HSL）及颜色文化与历史含义，支持按名称或Hex值搜索、按情绪分类浏览，另有渐变库和色彩转换工具
+
 #### fly63(成都) - [博客](https://web.fly63.com)
 * :white_check_mark: [AI工具大全](https://ai.fly63.com)：AI 工具导航站，收集和整理常用 AI 工具
 
