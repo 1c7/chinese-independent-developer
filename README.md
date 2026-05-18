@@ -23,6 +23,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 18 号添加
+
+#### worminone - [Github](https://github.com/worminone)
+* :white_check_mark: [Where Is This Place](https://whereisthisplace.app)：基于人工智能的定位查找应用，能够从照片、截图和旅行图片中识别出地点，上传图片即可利用AI图像识别技术发现所在国家、城市、地标、旅游景点或确切位置
+
+#### worminone - [Github](https://github.com/worminone)
+* :white_check_mark: [WhatsMyName App](https://whatsmynameapp.app/)：在 700 多个社交媒体平台、游戏网站、论坛和网站上查找用户名，搜索社交资料并检查账户可用性。
+
+#### godfengliang - [Github](https://github.com/godfengliang)
+* :white_check_mark: [Leakscope](https://leakscope.surge.sh/)：浏览器指纹检测工具，单 HTML 文件，零依赖，可离线使用
+* :white_check_mark: [Pixelsqueeze](https://pixelsqueeze.surge.sh/)：图片压缩工具，支持精确尺寸，单HTML文件，零依赖，可离线使用
+* :white_check_mark: [Envguard](https://envguard.surge.sh/)：代码秘密扫描工具，单HTML文件，零依赖，支持离线使用
+* :white_check_mark: [Envguard Repo](https://github.com/godfengliang/envguard)：项目仓库，包含Gist链接
+* :white_check_mark: [Screencap Studio](https://screencap-studio.surge.sh/)：截图注释工具，单个 HTML 文件，零依赖，可离线使用
+* :white_check_mark: [Billcraft](https://github.com/godfengliang/billcraft)：单 HTML 文件的发票生成工具，零依赖，支持离线使用
+
 ### 2026 年 5 月 17 号添加
 
 #### lucy(上海)
