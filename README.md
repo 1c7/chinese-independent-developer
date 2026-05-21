@@ -23,10 +23,13 @@
 
 ## 3. 项目列表
 
-### 2026 年 5 月 21 号添加
+### 2026 年 5 月 22 号添加
 
 #### morvanzhou
 * :white_check_mark: [MeTool](https://metool.online)：纯前端在线工具箱，86+ 工具覆盖图片、视频、3D、文档、开发等六大分类，全程浏览器本地处理，文件不上传、无需注册
+
+#### SnowPeakMa - [GitHub](https://github.com/SnowPeakMa)
+* :white_check_mark: [isCompress](https://www.iscompress.com/)：隐私安全的在线图片压缩工具，完全在浏览器本地处理，支持批量压缩与ZIP打包下载
 
 ### 2026 年 5 月 20 号添加
 
