@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 21 号添加
+
+#### morvanzhou
+* :white_check_mark: [MeTool](https://metool.online)：纯前端在线工具箱，86+ 工具覆盖图片、视频、3D、文档、开发等六大分类，全程浏览器本地处理，文件不上传、无需注册
+
 ### 2026 年 5 月 20 号添加
 
 #### fayecat - [GitHub](https://github.com/fayecat)
