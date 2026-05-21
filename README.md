@@ -25,6 +25,11 @@
 
 ### 2026 年 5 月 20 号添加
 
+#### fayecat - [GitHub](https://github.com/fayecat)
+* :white_check_mark: [Floaty](https://www.floatytool.com/)：让 Mac 任意窗口一键置顶悬浮，专注看视频、写代码、对照文档时无需频繁切换窗口
+* :white_check_mark: [Cloaky](https://www.cloakyapp.com/)：在 Mac 上创建遮挡层，遮住指定区域或敏感内容，适合录屏、演示、线下办公等隐私场景
+* :white_check_mark: [Remindy](https://remindytool.com/)：Mac 上的 Spotlight 风格极简提醒工具，键盘优先，输入自然语言快速创建提醒与待办事项
+
 #### 2569658930(东莞) - [Github](https://github.com/2569658930)
 * :white_check_mark: [Suno Funnel](https://2569658930.github.io/tan/)：AI 音乐翻唱/Remix 提示词一键生成工具，选艺人+填想法+选风格 → 3 秒生成 Suno prompt，内置汽水音乐上传过审攻略、100 条精选 Prompt 模板、15 位艺人风格参数库。零依赖，开箱即用，网页版/命令行双模式。
 
