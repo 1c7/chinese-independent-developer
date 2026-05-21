@@ -23,6 +23,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 21 号添加
+#### SnowPeakMa - [GitHub](https://github.com/SnowPeakMa)
+* :white_check_mark: [isCompress](https://www.iscompress.com/)：隐私安全的在线图片压缩工具，完全在浏览器本地处理，支持批量压缩与ZIP打包下载
+
 ### 2026 年 5 月 20 号添加
 
 #### fayecat - [GitHub](https://github.com/fayecat)
