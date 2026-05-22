@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 23 号添加
+
+#### HaMuh - [GitHub](https://github.com/HarryMuh)
+* :white_check_mark: [Gemini Omni](https://omni-gemini.ai/)：AI 视频生成工具，支持文本/图片/对话生成带原生同步音效的 4K 电影级短视频，提供多模态参考、角色一致性锁定和对话式编辑
+
 ### 2026 年 5 月 22 号添加
 
 #### morvanzhou
