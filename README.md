@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 24 号添加
+
+#### XFSeven7 - [Github](https://github.com/XFSeven7)
+* :white_check_mark: [novel-helper](https://github.com/XFSeven7/novel-helper)：网文小说助手，适合长篇连载作者，想自己掌控稿件与设定文件的写作者，希望用 AI 辅助校对与分析、但不想把书稿交给云平台的人。
+
 ### 2026 年 5 月 23 号添加
 
 #### HaMuh - [GitHub](https://github.com/HarryMuh)
