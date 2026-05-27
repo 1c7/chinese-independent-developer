@@ -23,6 +23,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 26 号添加
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [免费在线pdf工具](https://www.pdf24tools.online/zh/)：在线 PDF 工具，支持合并、分割、压缩、转换和编辑
+* :white_check_mark: [免费在线工具箱](https://www.10015tools.online/zh)：提供 1000+ 在线工具，包括开发人员工具、代码格式化、压缩、加密、解密、下载链接转换、JSON 格式化、正则测试、favicon 在线制作、字帖工具、中文简繁体转换、迅雷下载链接转换、进制转换、二维码、照片压缩、PDF 合并
+
+#### ysykzheng(武汉)
+* :white_check_mark: [FormCrab.com](https://formcrab.com/)：获取私密链接，隐藏邮箱并正常接收消息，避免垃圾邮件
+
 ### 2026 年 5 月 25 号添加
 
 #### Leochens - [Github](https://github.com/Leochens)
