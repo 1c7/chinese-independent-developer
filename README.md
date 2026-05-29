@@ -23,6 +23,20 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 29 号添加
+
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [ZOOOP](https://zooop.ai/)：AI 原生创作平台，支持在浏览器端无限画布上生成图像、视频和音频，提供去背景、高清化等专项工具及即用型 AI 模板，支持发布模板赚取积分，并具备团队共享积分模式。
+
+#### weijunext - [Github](https://github.com/weijunext)
+* :white_check_mark: [World Holidays](https://worldholidays.me/)：出海团队一站式查看全球200多个国家的法定假期
+
+#### Kajian(佛山) - [Github](https://github.com/gdfsdjj145)
+* :white_check_mark: [StarVeil AI - 星河入梦](https://starveilai.com/)：使用AI生成连续漫画的网站
+
+#### tonik(杭州)
+* :white_check_mark: [Zilivo AI](https://zilivo.io)：AI 图片和视频创作平台
+
 ### 2026 年 5 月 28 号添加
 
 #### nanobanana-co - [Github](https://github.com/nanobanana-co)
