@@ -23,6 +23,26 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 28 号添加
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [banana video](https://bananavideo.ai/zh)：AI 视频与图像生成平台，集成 Veo 3.1、Nano Banana 2、GPT Image 2 和 Seedance 2.0 模型，支持文生图、图像编辑到电影级视频生成的全流程创作
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [babel.town](https://babel.town)：公共聊天室，其他用户的发言会自动翻译成你使用的语言，实现无障碍交流
+
+#### benny(佛山)
+* :white_check_mark: [htmltourl](https://htmltourl.com/)：专为 AI 编程设计的快速上线工具，粘贴 HTML 代码即可一键生成在线访问链接
+
+#### vampirewy - [Github](https://github.com/vampirewy)
+* :white_check_mark: [Launchumo](https://launchumo.com/)：专注于独立开发者 AI SaaS 产品的导航站，帮助用户快速发现实用的 AI 工具，也帮助 AI SaaS 创业者和独立开发者获得更多曝光，通过更清晰、更聚焦的产品收录方式，让用户不用在杂乱的信息中筛选就能找到值得尝试的新 AI 产品。
+
+#### zhugezifang - [Github](https://github.com/zhugezifang)
+* :white_check_mark: [notepad link](https://notepadlink.online/)：在线记事本，支持创建文本，通过链接和二维码方式进行分享
+
+#### 羊上上 - [Github](https://github.com/yangbishang)
+* :white_check_mark: [GEO Wiki](https://geo.wiki/)：面向 AI 搜索时代的百科全书
+
 ### 2026 年 5 月 26 号添加
 
 #### zhugezifang - [Github](https://github.com/zhugezifang)
