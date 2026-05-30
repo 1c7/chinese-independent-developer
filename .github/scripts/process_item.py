@@ -250,6 +250,8 @@ def main():
         user_mentions = " ".join([f"@{u}" for u in users])
         reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
         parent.create_comment(reply_body)
+        if parent.number != ISSUE_NUMBER:
+            parent.edit(state='closed')
 
     print(f"\n✅ 已在 {len(replies)} 个 Issue 中标记并回复")
 
