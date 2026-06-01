@@ -23,6 +23,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 30 号添加
+
+#### Jankaaa Rong - [Github](https://github.com/jankarong)
+* :white_check_mark: [RoomDecorFinds](https://roomdecorfinds.com/)：家居装饰参考和房间规划网站，提供风格指南、配色参考、房间灵感和实用尺寸/布局工具
+
+#### huangy7 - [Github](https://github.com/huangy7)
+* :white_check_mark: [MeowOut](https://meow.huangy.top/)：macOS 原生菜单栏健康应用，通过系统级活跃度监测与灵动的像素宠物，引导用户规律休息、补水及正念呼吸
+
+#### azt1112 - [Github](https://github.com/azt1112)
+* :white_check_mark: [Gemini Omni](https://omniflashai.video/)：AI 视频生成工具，支持文本/图片/对话生成带原生同步音效的 4K 电影级短视频，提供多模态参考、角色一致性锁定和对话式编辑，通过自然对话即可完全控制物理规律、角色和环境。
+
 ### 2026 年 5 月 29 号添加
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
