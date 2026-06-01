@@ -23,6 +23,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 1 号添加
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [DropLink 传送门](https://idroplink.com/)：选文件秒变链接，对方任意浏览器零安装下载
+
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [PaperCheck](https://aiturnitinchecker.com)：论文提交前自查工具，提供 Turnitin 查重 + AI 写作检测报告，帮助学生在正式提交前发现问题
+* :white_check_mark: [AIFlowMusic](https://aiflowmusic.com)：AI 音乐生成网站
+
+#### mertenhindsman-source - [Github](https://github.com/mertenhindsman-source)
+* :white_check_mark: [mbti types](https://www.typesmbti.com/)：16 型人格免费测试、认知功能详解、类型对比分析
+
 ### 2026 年 5 月 30 号添加
 
 #### Jankaaa Rong - [Github](https://github.com/jankarong)
