@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 2 号添加
+
+#### ch3coohlink - [Github](https://github.com/ch3coohlink)
+* :white_check_mark: [ch3 music editor](https://ch3graph.com)：文本驱动的音乐编辑器，注重交互体验
+
 ### 2026 年 6 月 1 号添加
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
