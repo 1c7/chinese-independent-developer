@@ -23,6 +23,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 3 号添加
+
+#### YiceKit - [Github](https://github.com/Yice-AI)
+* :white_check_mark: [YiceKit](https://yicekit.com/)：AI 工具导航与在线工具箱，按写作、绘画、视频、编程、办公、营销和 SEO 等场景整理 AI 工具，也提供 SEO 标题检查、Meta Description 检查、Slug 生成器和 robots.txt 生成器等可直接使用的小工具。
+
+#### bad-superman - [Github](https://github.com/bad-superman)
+* :white_check_mark: [拼豆图纸生成器](https://pindou.amz-tools.xyz/)：上传图片，秒变拼豆图纸
+
+#### Ahrisy - [Github](https://github.com/Ahrisya), [博客](https://ahrisy.com/)
+* :white_check_mark: [Curlo](https://curlo.ahrisy.com)：纯本地 AI 驱动的 Mac 端音频管理与搜索 App，支持语义搜索、相似音频搜索、元数据搜索与编辑、UCS 分类与标签与本地 API
+
 ### 2026 年 6 月 2 号添加
 
 #### ch3coohlink - [Github](https://github.com/ch3coohlink)
