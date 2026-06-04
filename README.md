@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 4 号添加
+
+#### Cheng 
+* :white_check_mark: [Pilipala](https://pilipala.app/)：音乐播放器，支持本地音频，直连网盘，WebDAV等音源。支持iOS，Android，MacOS，Windows，Linux平台，自定义歌单，离线优先，多端同步。
+
 ### 2026 年 6 月 3 号添加
 
 #### YiceKit - [Github](https://github.com/Yice-AI)
