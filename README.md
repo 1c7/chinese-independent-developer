@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 5 号添加
+
+#### 馒头饭 - [Github](https://github.com/mantoufan)
+* :white_check_mark: [cv.cm](https://cv.cm)：免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）
+
 ### 2026 年 6 月 4 号添加
 
 #### Cheng 
