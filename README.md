@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 5 号添加
+
+#### shadycheer - [Github](https://github.com/shadycheer)
+* :white_check_mark: [MusiCard](https://musi-card-two.vercel.app)：音乐分享卡生成工具，Spotify / Apple Music 链接转高清图卡，自动拉歌词可选词嵌入，专为国内聊天场景设计
+
 ### 2026 年 6 月 4 号添加
 
 #### Cheng 
