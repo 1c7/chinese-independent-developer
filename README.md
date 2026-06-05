@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 6 号添加
+
+#### shadycheer - [Github](https://github.com/shadycheer)
+* :white_check_mark: [MusiCard](https://musi-card-two.vercel.app)：音乐分享卡生成工具，Spotify / Apple Music 链接转高清图卡，自动拉歌词可选词嵌入，专为国内聊天场景设计
+
 ### 2026 年 6 月 5 号添加
 
 #### 独行录 - [Github](https://github.com/yzlee)
@@ -33,7 +38,6 @@
 
 #### 馒头饭 - [Github](https://github.com/mantoufan)
 * :white_check_mark: [cv.cm](https://cv.cm)：免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）
-
 
 ### 2026 年 6 月 4 号添加
 
