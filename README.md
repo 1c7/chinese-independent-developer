@@ -25,8 +25,12 @@
 
 ### 2026 年 6 月 5 号添加
 
+#### kbmjj123 
+* :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
+
 #### 馒头饭 - [Github](https://github.com/mantoufan)
 * :white_check_mark: [cv.cm](https://cv.cm)：免费在线剪贴板，无需注册，粘贴文本/图片/文件秒生成超短链接分享，内置 AI 视频与图像生成（Seedance 2.0）
+
 
 ### 2026 年 6 月 4 号添加
 
