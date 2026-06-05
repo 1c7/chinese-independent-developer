@@ -25,6 +25,9 @@
 
 ### 2026 年 6 月 5 号添加
 
+#### 独行录 - [Github](https://github.com/yzlee)
+* :white_check_mark: [独行录](https://opcmenu.com)：一人公司的「大众点评」与交流网络，已收录上千个一人公司（OPC）主理人和他们的产品，可浏览发现、点评打分，主理人之间还能关注、私信、组队
+
 #### kbmjj123 
 * :white_check_mark: [BulkPicTools](https://bulkpictools.com)：免费浏览器端图片批量处理工具，支持**工具链串联**（压缩→转格式→裁剪一次完成，无需重复上传），本地 AI 去背景/人脸模糊（WebGPU，无需 API Key），支持 200+ 张图片批量处理，文件不上传服务器。
 
