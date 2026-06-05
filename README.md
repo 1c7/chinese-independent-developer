@@ -30,6 +30,19 @@
 
 ### 2026 年 6 月 5 号添加
 
+#### carl4carter - [Github](https://github.com/carl4carter)
+* :white_check_mark: [PropertyPhotoVideo](https://propertyphotovideo.com)：将房产照片转换为惊艳视频
+
+#### z1991817 - [Github](https://github.com/z1991817)
+* :white_check_mark: [moyuHot](https://moyuhot.com/)：热搜聚合与新闻阅读平台，支持微博、知乎、B站、抖音、GitHub Trending、V2EX 等实时热榜
+* :white_check_mark: [moyuHot](https://github.com/z1991817/moyuhot)：热搜聚合与新闻阅读平台（GitHub 项目）
+
+#### zeweihan - [Github](https://github.com/zeweihan)
+* :white_check_mark: [AI Workdeck](https://github.com/zeweihan/aiworkdeck)：面向法律和文档密集型工作流的 AI 原生 IDE 工作空间
+
+#### nanos(杭州) - [Github](https://github.com/cabbagehao)
+* :white_check_mark: [恋するへびべあ診断](https://kumatype-shindan.xyz/)：20问日语熊系恋爱类型诊断，提供16种结果、相性对比和MBTI差异说明。
+
 #### 独行录 - [Github](https://github.com/yzlee)
 * :white_check_mark: [独行录](https://opcmenu.com)：一人公司的「大众点评」与交流网络，已收录上千个一人公司（OPC）主理人和他们的产品，可浏览发现、点评打分，主理人之间还能关注、私信、组队
 
