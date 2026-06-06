@@ -25,6 +25,9 @@
 
 ### 2026 年 6 月 6 号添加
 
+#### EveryReach - [Github](https://github.com/Zhangfengmo)
+* :white_check_mark: [2AI Tools](https://2ai.tools/)：AI 工具导航与发现平台，按需求搜索和对比 AI 工具，支持按免费/免费增值/付费/开源筛选，提供工作流推荐和每日 AI 资讯，可社区提交新工具
+
 #### shadycheer - [Github](https://github.com/shadycheer)
 * :white_check_mark: [MusiCard](https://musi-card-two.vercel.app)：音乐分享卡生成工具，Spotify / Apple Music 链接转高清图卡，自动拉歌词可选词嵌入，专为国内聊天场景设计
 
