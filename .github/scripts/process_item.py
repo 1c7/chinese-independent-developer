@@ -1,7 +1,7 @@
 # 自动扫描 GitHub Issues 中被标记为 🚀 的项目提交，通过 AI 格式化后批量添加到 README 并创建 Pull Request。
 import os
 import re
-import datetime
+
 from github import Github 
 from openai import OpenAI
 from datetime import datetime, timedelta, timezone
