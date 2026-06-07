@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 7 号添加
+
+#### (温哥华) - [AIInLink](https://aiinlink.com)
+* :white_check_mark: [AIInLink](https://aiinlink.com)：AI 工具、SaaS 产品和独立开发者项目发现目录，收录适合创作者、开发者和团队使用的 AI 产品，支持分类浏览、工具详情、收藏、评论和提交入口。
+
 ### 2026 年 6 月 6 号添加
 
 #### wang1309 - [Github](https://github.com/wang1309)
