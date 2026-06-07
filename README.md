@@ -31,6 +31,10 @@
 #### Alex Zheng
 * :white_check_mark: [Messy2Sheet](https://messy2sheet.com/)：AI 文档转表格工具，把截图、邮件订单和 PDF 价格表按自定义字段整理成 Excel/CSV，支持保存可复用 Recipe
 
+#### fishisnow - [Github](https://github.com/fishisnow)
+* :white_check_mark: [PIXAE](https://pixae.app/)：AI 原生创作平台，支持在浏览器端生成图像、视频，提供去背景、老照片修复、高清化、魔法擦除等专项工具及即用型 AI Prompt showcase。
+
+
 #### EveryReach - [Github](https://github.com/Zhangfengmo)
 * :white_check_mark: [2AI Tools](https://2ai.tools/)：AI 工具导航与发现平台，按需求搜索和对比 AI 工具，支持按免费/免费增值/付费/开源筛选，提供工作流推荐和每日 AI 资讯，可社区提交新工具
 
