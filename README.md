@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 8 号添加
+
+#### Osgilias - [X](https://x.com/HobbitSoccer)
+* :white_check_mark: [Hobbit](https://hobbit.football)：青少年足球教练 AI 智能体。核心目标是培养小球员的"球商"。教案设计、战术图绘制、球队管理、球员肖像卡、海报、比赛报告一站搞定。免费起步，聊天免费，支持8种语言。
+
 ### 2026 年 6 月 6 号添加
 
 #### wang1309 - [Github](https://github.com/wang1309)
