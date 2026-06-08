@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 8 号添加
+
+#### Kai - [Github](https://github.com/kaomojikan)
+* :white_check_mark: [顔文字館](https://www.kaomojikan.com/)：日文颜文字复制站，特色是会跟随鼠标、眨眼、按分类切换表情的「看板娘」吉祥物，整体风格就像在逛一家精致的日式小店，轻松又好玩；1700+ 颜文字按心情分类，一键复制（(=^･ω･^=) (｡♥‿♥｡) 这类），数据集 MIT 开源
+
 ### 2026 年 6 月 6 号添加
 
 #### wang1309 - [Github](https://github.com/wang1309)
