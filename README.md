@@ -26,14 +26,13 @@
 ### 2026 年 6 月 8 号添加
 
 #### Osgilias - [X](https://x.com/HobbitSoccer)
-* :white_check_mark: [Hobbit](https://hobbit.football)：青少年足球教练 AI 智能体。核心目标是培养小球员的"球商"。教案设计、战术图绘制、球队管理、球员肖像卡、海报、比赛报告一站搞定。免费起步，聊天免费，支持8种语言。
+* :white_check_mark: [Hobbit](https://hobbit.football)：青少年足球教练 AI 智能体。核心目标是培养小球员的"球商"。教案设计、战术图绘制、球队管理、球员肖像卡、海报、比赛报告一站搞定。免费起步，聊天免费，支持 8 种语言
 
 #### Kai - [Github](https://github.com/kaomojikan)
 * :white_check_mark: [顔文字館](https://www.kaomojikan.com/)：日文颜文字复制站，特色是会跟随鼠标、眨眼、按分类切换表情的「看板娘」吉祥物，整体风格就像在逛一家精致的日式小店，轻松又好玩；1700+ 颜文字按心情分类，一键复制（(=^･ω･^=) (｡♥‿♥｡) 这类），数据集 MIT 开源
 
-#### (温哥华) - [AIInLink](https://aiinlink.com)
+#### jankarong(温哥华) - [GitHub](https://github.com/jankarong)
 * :white_check_mark: [AIInLink](https://aiinlink.com)：AI 工具、SaaS 产品和独立开发者项目发现目录，收录适合创作者、开发者和团队使用的 AI 产品，支持分类浏览、工具详情、收藏、评论和提交入口。
-
 
 ### 2026 年 6 月 6 号添加
 
