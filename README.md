@@ -23,6 +23,7 @@
 
 ## 3. 项目列表
 
+<<<<<<< HEAD
 ### 2026 年 6 月 14 号添加
 
 #### Ronnie - [Github](https://github.com/Ronnie2025)
@@ -76,6 +77,10 @@
 * :white_check_mark: [HorseMD](https://horsemd.yangsir.net)：免费开源的 Typora 平替 Markdown 编辑器，单窗口装下整个文件夹 + 标签页切换 + 文件树 + 所见即所得，Windows / macOS 双平台 MIT 开源
 * :white_check_mark: [AI Daily](https://ai.daily.yangsir.net)：AI 日报站，每日精选 AI 资讯（来自个人收集 + Karpathy 推荐源），由 Agent 端到端跑完抓取 / 摘要 / 入库 / 发布，本地全链路无需人工
 * :white_check_mark: [PMTI](https://pmti.live)：产品经理风格迷你测验，受 MBTI / SBTI / CBTI 启发的几道题判断你的 PM 风格，免费无需注册，团队对齐协作风格的轻量小工具
+
+#### Chesten - [Github](https://github.com/Chesten223)
+* :white_check_mark: [Developer Tools Hub](https://devtools-site-cos.pages.dev)：35+ 免费在线开发者工具合集，包含 JSON→TypeScript 转换、CSS 渐变生成、正则测试、Diff 对比等，无需注册，浏览器即开即用
+* :white_check_mark: [ResellBuddy](https://resellbuddy.pages.dev)：Poshmark 自动化 Chrome 扩展，一键自动分享/点赞/关注，内置定时任务和分析面板，每月 $9 起
 
 ### 2026 年 6 月 8 号添加
 
