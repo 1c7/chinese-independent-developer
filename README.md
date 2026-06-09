@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 9 号添加
+
+#### Chesten - [Github](https://github.com/Chesten223)
+* :white_check_mark: [Developer Tools Hub](https://devtools-site-cos.pages.dev)：35+ 免费在线开发者工具合集，包含 JSON→TypeScript 转换、CSS 渐变生成、正则测试、Diff 对比等，无需注册，浏览器即开即用
+* :white_check_mark: [JSON Hero](https://json-hero-8fu.pages.dev)：JSON 可视化查看器，支持路径查找、Diff 对比、格式化、TypeScript 类型生成，5 个工具全部免费
+* :white_check_mark: [ResellBuddy](https://resellbuddy.pages.dev)：Poshmark 自动化 Chrome 扩展，一键自动分享/点赞/关注，内置定时任务和分析面板，每月 $9 起
+
+
 ### 2026 年 6 月 8 号添加
 
 #### Osgilias - [X](https://x.com/HobbitSoccer)
