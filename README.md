@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 9 号添加
+
+#### Narcooo - [Github](https://github.com/Narcooo)
+* :white_check_mark: [InkOS](https://github.com/Narcooo/inkos)：AI 内容创作 Agent，自主创作长短篇小说、剧作与文字开放世界。持久状态、记忆、上下文管理，持续保证人物、世界、线索稳定
+
 ### 2026 年 6 月 8 号添加
 
 #### Osgilias - [X](https://x.com/HobbitSoccer)
