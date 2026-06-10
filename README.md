@@ -28,6 +28,13 @@
 #### Narcooo - [Github](https://github.com/Narcooo)
 * :white_check_mark: [InkOS](https://github.com/Narcooo/inkos)：AI 内容创作 Agent，自主创作长短篇小说、剧作与文字开放世界。持久状态、记忆、上下文管理，持续保证人物、世界、线索稳定
 
+#### 杨庭毅(成都) - [Github](https://github.com/BND-1), [博客](https://yangsir.net)
+* :white_check_mark: [SkillForge](https://skills.yangsir.net)：Claude Skill 发现与分发平台，按职业场景组织 5700+ skill 覆盖 30 个垂直领域，一行命令装到 Claude Code / Cursor，登录后可留存自己的工具集
+* :white_check_mark: [LearnAgent Wiki](https://learnagent.wiki)：AI Agent 中文学习站，Agent / MCP / Skills / CLI 四套独立 wiki + 224 张卡片统一搜索，给真想动手做的人一个干净入口，不卖课不卖会员
+* :white_check_mark: [HorseMD](https://horsemd.yangsir.net)：免费开源的 Typora 平替 Markdown 编辑器，单窗口装下整个文件夹 + 标签页切换 + 文件树 + 所见即所得，Windows / macOS 双平台 MIT 开源
+* :white_check_mark: [AI Daily](https://ai.daily.yangsir.net)：AI 日报站，每日精选 AI 资讯（来自个人收集 + Karpathy 推荐源），由 Agent 端到端跑完抓取 / 摘要 / 入库 / 发布，本地全链路无需人工
+* :white_check_mark: [PMTI](https://pmti.live)：产品经理风格迷你测验，受 MBTI / SBTI / CBTI 启发的几道题判断你的 PM 风格，免费无需注册，团队对齐协作风格的轻量小工具
+
 ### 2026 年 6 月 8 号添加
 
 #### Osgilias - [X](https://x.com/HobbitSoccer)
