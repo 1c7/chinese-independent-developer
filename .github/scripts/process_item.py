@@ -53,6 +53,7 @@ def get_ai_project_line(raw_text):
 4. 严禁使用加粗格式（不要使用 **）
 5. 将产品名称从文字的后面提升到最前面
 6. 每行格式：* :white_check_mark: [项目名](网址)：用途描述
+7. 【重要】跳过 GitHub 个人主页链接（即链接格式为 github.com/用户名 且描述为"项目主页"、"个人主页"等）——这类链接已在 Header 行中展示，不需要重复列为产品条目
 
 示例 1：
 输入：https://example.com：一款基于 AI 的高效视频生成网站
@@ -74,7 +75,7 @@ def get_ai_project_line(raw_text):
 {raw_text}
 """
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="deepseek-v4-pro",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3
     )
