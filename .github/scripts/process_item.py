@@ -59,9 +59,9 @@ def get_ai_project_line(raw_text):
 输入：https://example.com：一款基于 AI 的高效视频生成网站
 输出：* :white_check_mark: [example.com](https://example.com)：AI 视频生成网站
 
-示例 2：
-输入：[MyApp](https://myapp.com) 完全免费的强大工具，帮助用户管理任务
-输出：* :white_check_mark: [MyApp](https://myapp.com)：任务管理工具
+示例 2（去掉"强大"等废话，但保留"完全免费"因为作者明确强调）：
+输入：[MyApp](https://myapp.com) 完全免费、无需注册的强大任务管理工具
+输出：* :white_check_mark: [MyApp](https://myapp.com)：完全免费，无需注册的任务管理工具
 
 示例 3（多个项目）：
 输入：
@@ -146,13 +146,32 @@ def main():
         cleaned_body = remove_quote_blocks(obj.body)
 
         # 判断用户是否自带了 Header
-        header_match = re.search(r'^####\s+.*', cleaned_body, re.MULTILINE)
+        # 支持两种格式：
+        #   标准格式：#### 名字(城市) - [Github](url)
+        #   无前缀：  名字(城市) - [Github](url)
+        header_line = None
+        body_for_ai = cleaned_body
 
-        if header_match:
-            header_line = header_match.group(0).strip()
-            body_for_ai = cleaned_body.replace(header_line, "").strip()
+        # 先找有 #### 前缀的
+        m = re.search(r'^#{1,4}\s+.+', cleaned_body, re.MULTILINE)
+        if m:
+            raw = m.group(0).strip()
+            # 统一规范为 ####
+            header_line = re.sub(r'^#{1,3}\s+', '#### ', raw) if not raw.startswith('#### ') else raw
+            body_for_ai = cleaned_body.replace(m.group(0), '', 1).strip()
             print(f"检测到用户自带 Header: {header_line}")
         else:
+            # 找第一个非空行，检查是否为"名字 - [链接](url)"格式
+            for line in cleaned_body.split('\n'):
+                s = line.strip()
+                if s and s[0] not in ('*', '✅', '✓', '>', '-', '#') \
+                        and re.search(r'\s+-\s+\[.+?\]\(https?://', s):
+                    header_line = f"#### {s}"
+                    body_for_ai = cleaned_body.replace(line, '', 1).strip()
+                    print(f"检测到用户自带 Header（无前缀）: {header_line}")
+                    break
+
+        if header_line is None:
             author_name = obj.user.login
             author_url = obj.user.html_url
             header_line = f"#### {author_name} - [Github]({author_url})"
