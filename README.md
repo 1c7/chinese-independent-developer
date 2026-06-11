@@ -31,11 +31,11 @@
 #### 江辰(杭州) - [Github](https://github.com/xuya227939)
 * :white_check_mark: [SnapVee Studio](https://snapvee.com/)：社媒创作工具，支持 50+ 社媒平台内容获取、字幕、视频内容总结、生图、生视频等
 
-#### xmm852003204 - [Github](https://github.com/xmm852003204)
+#### xmm(杭州) - [Github](https://github.com/xmm852003204)
 * :white_check_mark: [vocal range test](https://vocalrangetest.org)：可视化的音乐网站，提供音域测试、音准测试、音感测试、音色测试等，具有音乐氛围的工具网站
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [just talk english](https://talk.babel.town)：实时 AI 语音聊天服务，无需登录、无广告，可随时打断
+* :white_check_mark: [just talk english](https://talk.babel.town)：完全免费的实时 AI 语音聊天服务，无需登录，无广告，可随时打断
 
 ### 2026 年 6 月 9 号添加
 
