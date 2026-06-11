@@ -227,18 +227,10 @@ def main():
         for obj, parent, entry in processed_items
     ])
 
-    formatted_list = "\n\n".join([
-        f"### {i+1}. {entry}"
-        for i, (obj, parent, entry) in enumerate(processed_items)
-    ])
-
     pr_body = f"""批量添加 {len(processed_items)} 个项目
 
 ## 原始链接
 {item_links}
-
-## 格式化结果
-{formatted_list}
 
 ---
 自动生成，触发机制：用户 {ADMIN_HANDLE} 点击 🚀
