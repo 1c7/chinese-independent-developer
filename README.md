@@ -25,6 +25,12 @@
 
 ### 2026 年 6 月 12 号添加
 
+#### biboom(广州)
+* :white_check_mark: [快捷跳转-随处选中](https://chromewebstore.google.com/detail/leximixer-%E5%BF%AB%E6%8D%B7%E8%B7%B3%E8%BD%AC-%E9%9A%8F%E5%A4%84%E9%80%89%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%88%BB%E6%90%9C%E7%B4%A2/mddlokbokgdcfcdabimfhjmbplokgkif?hl=zh-CN&utm_source=ext_sidebar)：选中任意网页文本，一键发送到 LexiMixer、google、chatgpt 等工具。
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [JustOpenFile](https://justopenfile.com/zh)：在浏览器中打开任何文件，无需安装或账户，支持 PDF、Word、Excel、ZIP、视频等数十种格式。
+
 #### Jimmy - [Github](https://github.com/jimmy0256)
 * :white_check_mark: [PhotoEditorAI](https://photoeditorai.online/)：在线AI 图片编辑工具，一句话将图片变为自己想要的样子，支持 NanoBanano 2, GPT images 2 模型，支持无限画布。
 
