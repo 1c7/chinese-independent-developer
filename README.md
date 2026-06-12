@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 12 号添加
+
+#### Jimmy - [Github](https://github.com/jimmy0256)
+* :white_check_mark: [PhotoEditorAI](https://photoeditorai.online/)：在线AI 图片编辑工具，一句话将图片变为自己想要的样子，支持 NanoBanano 2, GPT images 2 模型，支持无限画布。
+
 ### 2026 年 6 月 10 号添加
 
 #### Yansoul - [Github](https://github.com/Yansoul)
