@@ -37,7 +37,7 @@
 #### qqxufo - [Github](https://github.com/qqxufo)
 * :white_check_mark: [stonkrider](https://stonkrider.win/zh)：把股市、加密货币K线变成跑道的脑洞赛车游戏
 
-#### 项目介绍
+#### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
 * :white_check_mark: [ExtractKeywords](https://extractkeywords.com)：AI 驱动的关键词提取工具，支持中英文，免费使用，无需注册，纯前端实现，隐私安全
 
 ### 2026 年 6 月 12 号添加
