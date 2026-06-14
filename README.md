@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 15 号添加
+
+#### Jixer(成都) - [Github](https://github.com/jixer666), [博客](https://vuepress.jixer.top/)
+* :white_check_mark: [Omni](http://omni.jixer.top)：专属于个人的知识库，支持Notion风格富文本编辑器，无限制创建文档
+
 ### 2026 年 6 月 14 号添加
 
 #### Ronnie - [Github](https://github.com/Ronnie2025)
