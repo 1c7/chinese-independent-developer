@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 14 号添加
+
+#### Ronnie - [Github](https://github.com/Ronnie2025)
+* :white_check_mark: [AI 工作流模板生成器](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/template-generator.html)：免费 AI 工作流生成工具，输入重复任务、角色和输出格式，自动生成任务边界、处理步骤、提示词和质检清单。
+
 ### 2026 年 6 月 12 号添加
 
 #### biboom(广州)
