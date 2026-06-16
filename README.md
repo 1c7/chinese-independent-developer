@@ -23,6 +23,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 16 号添加
+#### Jack - `https://github.com/ykphdzz`
+* :white_check_mark: [TarotYet](https://tarotyet.com/) - A free AI tarot reading platform. It provides context-aware yes or no tarot and deep love tarot insights to help users make clear, actionable decisions.
+
 ### 2026 年 6 月 15 号添加
 
 #### Jixer(成都) - [Github](https://github.com/jixer666), [博客](https://vuepress.jixer.top/)
