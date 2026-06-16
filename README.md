@@ -26,7 +26,8 @@
 ### 2026 年 6 月 16 号添加
 #### Tom - [GitHub](https://github.com/ykphdzz)
 * :white_check_mark: [TarotYet](https://tarotyet.com/)：免费 AI 塔罗牌占卜平台。提供情境感知的 Yes/No 塔罗占卜和深度爱情塔罗解读，帮助做出清晰可行的决策
-
+#### Vin - [Github](https://github.com/vinxu)
+* :white_check_mark: [CastReader](https://castreader.com)：把网页、Kindle、微信读书、PDF 读给你听,还能边读边讲解,支持 40+ 语言(Chrome 插件)
 ### 2026 年 6 月 15 号添加
 
 #### Lessur(广州) - [Github](https://github.com/lessurlx)
