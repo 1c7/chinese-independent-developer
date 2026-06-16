@@ -25,6 +25,9 @@
 
 ### 2026 年 6 月 15 号添加
 
+#### Lessur(广州) - [Github](https://github.com/lessurlx)
+* :white_check_mark: [StoryIntoVideo](https://storyintovideo.com/)：AI 故事转视频 | 小说一键生成短剧视频
+
 #### Jixer(成都) - [Github](https://github.com/jixer666), [博客](https://vuepress.jixer.top/)
 * :white_check_mark: [Omni](http://omni.jixer.top)：专属于个人的知识库，支持Notion风格富文本编辑器，无限制创建文档
 
