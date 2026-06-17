@@ -40,6 +40,10 @@ def remove_quote_blocks(text: str) -> str:
     result = re.sub(r'\n{3,}', '\n\n', result)
     return result.strip()
 
+def fix_nested_links(text: str) -> str:
+    """修复 GitHub 富文本编辑器产生的双重嵌套链接 [[text](url)](url) -> [text](url)"""
+    return re.sub(r'\[\[([^\]]+)\]\(([^)]+)\)\]\([^)]+\)', r'[\1](\2)', text)
+
 def get_ai_project_line(raw_text):
     """让 AI 提取项目名称、链接和描述（支持多个产品）"""
     client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
@@ -178,6 +182,9 @@ def main():
             body_for_ai = cleaned_body
             print(f"自动生成 Header: {header_line}")
 
+        # 净化 header 中的双重嵌套链接（GitHub 富文本编辑器有时产生 [[text](url)](url)）
+        header_line = fix_nested_links(header_line)
+
         # AI 处理项目详情行
         project_line = get_ai_project_line(body_for_ai)
         formatted_entry = f"{header_line}\n{project_line}"
@@ -201,7 +208,9 @@ def main():
     # 插入所有条目（用两个换行分隔）
     insertion_point = new_readme.find(date_header) + len(date_header)
     all_entries_str = "\n\n".join(formatted_entries)
-    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries_str + new_readme[insertion_point:]
+    # 确保新条目和原有内容之间有两个换行（原有内容可能只有一个 \n）
+    remaining = new_readme[insertion_point:].lstrip('\n')
+    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries_str + "\n\n" + remaining
 
     # 创建分支
     branch_name = f"batch-add-projects-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
