@@ -28,8 +28,9 @@
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
 * :white_check_mark: [Pokecut](https://www.pokecut.com/)：在线免费使用的 AI 图像编辑/生成器
 
-#### Iven Wang(天津) - [[Github](https://github.com/IVENWG)](https://github.com/IVENWG), [[博客](https://chartmini.com/blog)](https://chartmini.com/blog)
+#### Iven Wang(天津) - [Github](https://github.com/IVENWG), [博客](https://chartmini.com/blog)
 * :white_check_mark: [ChartMini](https://chartmini.com)：面向交易者的 K 线复盘、纸上交易和刻意练习工具，帮助用户在真实历史行情中训练交易判断。 - [更多介绍](https://chartmini.com)
+
 #### Tom - [GitHub](https://github.com/ykphdzz)
 * :white_check_mark: [TarotYet](https://tarotyet.com/)：免费 AI 塔罗牌占卜平台。提供情境感知的 Yes/No 塔罗占卜和深度爱情塔罗解读，帮助做出清晰可行的决策
 
