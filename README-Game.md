@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 6 月 18 号添加
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [poople game](https://poople-game.com/)：字母拼字游戏，逐个添加字母直到拼出目标单词
+
 ### 2026 年 4 月 25 号添加
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [patches game](https://playpatches.today/)：每日逻辑谜题游戏
