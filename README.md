@@ -31,6 +31,9 @@
 #### Linden(深圳) - [Github](https://github.com/IIterm)
 * :white_check_mark: [Seamless Canvas](https://seamlesscanvas.com)：AI 无缝纹理生成器，通过文字描述或上传图像生成可平铺纹理 - [更多介绍](https://seamlesscanvas.com)
 
+#### Ayden(广州) - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Video to Prompt](https://video2prompt.io/)：将视频内容转换为可用于 AI 创作的提示词
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
