@@ -1,4 +1,4 @@
-name: 提交项目（每 24 小时运行一次，晚上 00:00）
+name: 处理大家提交的项目
 on:
   workflow_dispatch:      # 已由 Claude Routine 接管自动处理，保留手动触发作为备用
 
