@@ -31,7 +31,7 @@ allowed-tools:
 获取最近 3 天内的评论：
 
 ```bash
-SINCE=$(date -u -d '3 days ago' +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -v-3d +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100"
 ```
 
@@ -49,7 +49,7 @@ grep -r "<产品URL>" README.md pages/README-Programmer-Edition.md pages/README-
 
 ```bash
 gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
-  | jq --arg since "$(date -u -d '2 hours ago' +%Y-%m-%dT%H:%M:%SZ)" \
+  | jq --arg since "$(date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)" \
     '[.[] | select(.number != 160 and .pull_request == null and .created_at >= $since)]'
 ```
 
@@ -63,7 +63,7 @@ gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
 
 ```bash
 gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
-  | jq --arg since "$(date -u -d '2 hours ago' +%Y-%m-%dT%H:%M:%SZ)" \
+  | jq --arg since "$(date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)" \
     '[.[] | select((.head.ref | startswith("auto-add-") | not) and .created_at >= $since)]'
 ```
 
@@ -123,6 +123,15 @@ git commit -m "新增：<项目名>"
 git push origin $BRANCH
 gh pr create --title "新增：<项目名>" --body "来自 <原始链接>" --base master --head $BRANCH
 gh pr merge $BRANCH --squash --delete-branch --yes
+```
+
+### 步骤4：给评论添加 reaction（仅限检查一的评论）
+
+每条成功处理的 issue #160 评论，添加 👍 reaction 标记已处理：
+
+```bash
+gh api repos/1c7/chinese-independent-developer/issues/comments/<COMMENT_ID>/reactions \
+  -X POST -f content="+1"
 ```
 
 ---
