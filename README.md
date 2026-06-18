@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 18 号添加
+
+#### gg896877825-star - [Github](https://github.com/gg896877825-star)
+* :white_check_mark: [LaunchAlways](https://launchalways.com)：集成 SEO 检测优化、自动外链提交、网站 icon 设计和邮箱验证的网站上线与增长工作台
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
