@@ -36,6 +36,7 @@
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
 * :white_check_mark: [Sync Anything](https://apps.apple.com/us/app/sync-anything/id6776331289)：在 iPhone 上实现的 Syncthing 客户端，兼容官方 Syncthing 协议
+* :white_check_mark: [基金自选对比](https://chromewebstore.google.com/detail/papgphnjilajajlfognfbmooabamcnoh)：Chrome 扩展，把自选的多只基金拉到一起对比涨跌走势，一屏看全
 
 #### Harries - [Github](https://github.com/Harries)
 * :white_check_mark: [Skills.lc](https://skills.lc/)：AI 技能、Prompt、工作流和 Agent 分享平台，帮助发现和沉淀 AI 使用经验
