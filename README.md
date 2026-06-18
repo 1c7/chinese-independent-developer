@@ -28,6 +28,9 @@
 #### gg896877825-star - [Github](https://github.com/gg896877825-star)
 * :white_check_mark: [LaunchAlways](https://launchalways.com)：集成 SEO 检测优化、自动外链提交、网站 icon 设计和邮箱验证的网站上线与增长工作台
 
+#### Linden(深圳) - [Github](https://github.com/IIterm)
+* :white_check_mark: [Seamless Canvas](https://seamlesscanvas.com)：AI 无缝纹理生成器，通过文字描述或上传图像生成可平铺纹理 - [更多介绍](https://seamlesscanvas.com)
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
