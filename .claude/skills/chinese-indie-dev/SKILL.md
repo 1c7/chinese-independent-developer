@@ -21,7 +21,8 @@ allowed-tools:
 你的任务是处理 GitHub 仓库 `1c7/chinese-independent-developer` 的项目提交。
 检查最近的新评论、新 Issue、新 PR，将有效项目添加到对应 README，关闭垃圾内容。
 
-⚠️ 严格禁止：不得向任何 issue 或 PR 发表评论。不得调用添加 reaction 的 API。
+⚠️ 严格禁止：不得调用添加 reaction 的 API。
+✅ 唯一允许发的评论：所有项目处理完毕后，在 issue #160 发一条感谢评论（见最后一步）。
 
 ---
 
@@ -123,6 +124,20 @@ git push origin $BRANCH
 gh pr create --title "新增：<项目名>" --body "来自 <原始链接>" --base master --head $BRANCH
 gh pr merge $BRANCH --squash --delete-branch --yes
 ```
+
+---
+
+## 最后一步：发感谢评论
+
+所有三个检查都处理完之后，如果本次成功合并了至少一个项目，在 issue #160 发一条感谢评论，一次性 @ 所有本次处理的提交者：
+
+```bash
+gh api repos/1c7/chinese-independent-developer/issues/160/comments \
+  -X POST -f body="@user1 @user2 @user3 感谢提交，已添加！"
+```
+
+- 只发一条，不要逐人发多条
+- 如果本次没有成功处理任何项目，不发评论
 
 ---
 
