@@ -47,6 +47,7 @@
 
 #### Ronnie - [Github](https://github.com/Ronnie2025)
 * :white_check_mark: [AI 工作流模板生成器](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/template-generator.html)：免费 AI 工作流生成工具，输入重复任务、角色和输出格式，自动生成任务边界、处理步骤、提示词和质检清单。
+* :white_check_mark: [闲鱼虚拟资料网盘发货检查器](https://ronnie2025.github.io/xianyu-netdisk-delivery-checker/)：面向闲鱼虚拟资料卖家的发货前自查工具，检查网盘链接、提取码、无实物说明、补发规则和退款边界，浏览器本地生成买家说明、售后边界和订单记录 CSV。 - [更多介绍](https://github.com/Ronnie2025/xianyu-netdisk-delivery-checker)
 
 #### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
 * :white_check_mark: [HEICPDF](https://heicpdf.to)：免费将 HEIC/HEIF 图片转换为 PDF，支持批量转换，无需注册，隐私安全
