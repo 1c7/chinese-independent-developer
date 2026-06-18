@@ -7,6 +7,9 @@
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [poople game](https://poople-game.com/)：字母拼字游戏，逐个添加字母直到拼出目标单词
 
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [StonkRider](https://stonkrider.fun/)：将真实股票和加密货币 K 线图变成越野摩托赛道的网页游戏，选择股票代码（TSLA、GME、BTC-USD 等）驾车冲刺
+
 ### 2026 年 4 月 25 号添加
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [patches game](https://playpatches.today/)：每日逻辑谜题游戏
