@@ -25,24 +25,24 @@
 
 ### 2026 年 6 月 18 号添加
 
-#### gg896877825-star - [Github](https://github.com/gg896877825-star)
-* :white_check_mark: [LaunchAlways](https://launchalways.com)：集成 SEO 检测优化、自动外链提交、网站 icon 设计和邮箱验证的网站上线与增长工作台
+#### lilyli-crypto - [Github](https://github.com/lilyli-crypto)
+* :white_check_mark: [PortWise](https://portwise.io)：AI 投资顾问，将市场数据、公司公告、新闻资讯和交易信号转化为关于股票、ETF 和投资组合的通俗易懂的回答
 
-#### Linden(深圳) - [Github](https://github.com/IIterm)
-* :white_check_mark: [Seamless Canvas](https://seamlesscanvas.com)：AI 无缝纹理生成器，通过文字描述或上传图像生成可平铺纹理 - [更多介绍](https://seamlesscanvas.com)
-
-#### Ayden(广州) - [Github](https://github.com/Ayden-123)
-* :white_check_mark: [Video to Prompt](https://video2prompt.io/)：将视频内容转换为可用于 AI 创作的提示词
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [Skills.lc](https://skills.lc/)：AI 技能、Prompt、工作流和 Agent 分享平台，帮助发现和沉淀 AI 使用经验
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
 * :white_check_mark: [Sync Anything](https://apps.apple.com/us/app/sync-anything/id6776331289)：在 iPhone 上实现的 Syncthing 客户端，兼容官方 Syncthing 协议
 * :white_check_mark: [基金自选对比](https://chromewebstore.google.com/detail/papgphnjilajajlfognfbmooabamcnoh)：Chrome 扩展，把自选的多只基金拉到一起对比涨跌走势，一屏看全
 
-#### Harries - [Github](https://github.com/Harries)
-* :white_check_mark: [Skills.lc](https://skills.lc/)：AI 技能、Prompt、工作流和 Agent 分享平台，帮助发现和沉淀 AI 使用经验
+#### Ayden(广州) - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Video to Prompt](https://video2prompt.io/)：将视频内容转换为可用于 AI 创作的提示词
 
-#### lilyli-crypto - [Github](https://github.com/lilyli-crypto)
-* :white_check_mark: [PortWise](https://portwise.io)：AI 投资顾问，将市场数据、公司公告、新闻资讯和交易信号转化为关于股票、ETF 和投资组合的通俗易懂的回答
+#### Linden(深圳) - [Github](https://github.com/IIterm)
+* :white_check_mark: [Seamless Canvas](https://seamlesscanvas.com)：AI 无缝纹理生成器，通过文字描述或上传图像生成可平铺纹理 - [更多介绍](https://seamlesscanvas.com)
+
+#### gg896877825-star - [Github](https://github.com/gg896877825-star)
+* :white_check_mark: [LaunchAlways](https://launchalways.com)：集成 SEO 检测优化、自动外链提交、网站 icon 设计和邮箱验证的网站上线与增长工作台
 
 ### 2026 年 6 月 16 号添加
 

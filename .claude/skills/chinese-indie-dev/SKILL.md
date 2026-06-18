@@ -110,14 +110,18 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 
 ### 步骤3：插入文件并建 PR 合并
 
-先用 Read 工具读取目标 README 了解格式，用 Edit 工具插入条目。每个项目建独立分支：
+先用 Read 工具读取目标 README 了解格式，用 Edit 工具插入条目。**新条目插入当天日期区块的最顶部**（紧接日期标题行之后的空行后面）。
+
+如果当天日期区块尚不存在，则在最新日期区块之前新建。
+
+每个项目建独立分支：
 
 ```bash
 # 每次建分支前先拉取最新 master
 git checkout master && git pull origin master
 BRANCH="auto-add-$(date +%Y%m%d-%H%M%S)"
 git checkout -b $BRANCH
-# Edit 工具修改文件后：
+# Edit 工具修改文件后（插入到当天日期区块顶部）：
 git add <文件名>
 git commit -m "新增：<项目名>"
 git push origin $BRANCH
