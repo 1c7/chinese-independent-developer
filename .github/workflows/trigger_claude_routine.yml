@@ -1,0 +1,23 @@
+name: 触发 Claude Routine
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issues' ||
+      github.event_name == 'pull_request' ||
+      (github.event_name == 'issue_comment' && github.event.issue.number == 160)
+    steps:
+      - name: 触发 Claude Routine
+        run: |
+          curl -s -X POST "https://api.anthropic.com/v1/claude_code/routines/trig_01QqQ9rpKCEVLB5R78v83umP/fire" \
+            -H "Authorization: Bearer ${{ secrets.CLAUDE_ROUTINE_TOKEN }}" \
+            -H "Content-Type: application/json"
