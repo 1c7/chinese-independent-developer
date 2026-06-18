@@ -37,6 +37,9 @@
 #### 刀刀 - [Github](https://github.com/sfss5362)
 * :white_check_mark: [Sync Anything](https://apps.apple.com/us/app/sync-anything/id6776331289)：在 iPhone 上实现的 Syncthing 客户端，兼容官方 Syncthing 协议
 
+#### Harries - [Github](https://github.com/Harries)
+* :white_check_mark: [Skills.lc](https://skills.lc/)：AI 技能、Prompt、工作流和 Agent 分享平台，帮助发现和沉淀 AI 使用经验
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
