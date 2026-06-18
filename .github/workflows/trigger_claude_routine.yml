@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     if: |
       github.event_name == 'issues' ||
-      github.event_name == 'pull_request' ||
+      (github.event_name == 'pull_request' && !startsWith(github.event.pull_request.head.ref, 'auto-add-')) ||
       (github.event_name == 'issue_comment' && github.event.issue.number == 160)
     steps:
       - name: 触发 Claude Routine
