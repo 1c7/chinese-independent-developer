@@ -2,8 +2,8 @@
 聚合所有中国独立开发者的项目
 
 ### 子版面
-- [程序员版面](./README-Programmer-Edition.md)：使用需要命令行或写代码
-- [游戏版面](./README-Game.md)：都是游戏
+- [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
+- [游戏版面](./pages/README-Game.md)：都是游戏
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -5644,7 +5644,7 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 ---
 #### Jezemy(广州) - [Github](https://github.com/Jezemy)
 * :x: [疯狂押韵](http://www.jezemy.cn/rhyme)：中文押韵短语查询的网站 - [更多介绍](https://github.com/Jezemy/ChineseRhymePhraseSearch)
-* [查看此作者在'程序员版面'的其他作品](https://github.com/1c7/chinese-independent-developer/blob/master/README-Programmer-Edition.md#jezemy%E5%B9%BF%E5%B7%9E---github)
+* [查看此作者在'程序员版面'的其他作品](https://github.com/1c7/chinese-independent-developer/blob/master/pages/README-Programmer-Edition.md#jezemy%E5%B9%BF%E5%B7%9E---github)
 
 ### 2020年3月26号添加
 ---

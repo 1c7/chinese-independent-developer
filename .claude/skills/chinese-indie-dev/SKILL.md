@@ -37,7 +37,7 @@ gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE
 对每条评论，从内容中提取产品 URL，检查是否已在任意 README 中：
 
 ```bash
-grep -r "<产品URL>" README.md README-Programmer-Edition.md README-Game.md
+grep -r "<产品URL>" README.md pages/README-Programmer-Edition.md pages/README-Game.md
 ```
 
 已存在则跳过。不存在则进入「通用处理流程」。
@@ -103,8 +103,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 | 类别 | 判断标准 | 目标文件 |
 |------|---------|----------|
 | 主版面 | 打开即用的网站或 App，非游戏 | README.md |
-| 程序员版面 | 需要命令行/写代码/安装依赖 | README-Programmer-Edition.md |
-| 游戏版面 | 任何游戏类产品 | README-Game.md |
+| 程序员版面 | 需要命令行/写代码/安装依赖 | pages/README-Programmer-Edition.md |
+| 游戏版面 | 任何游戏类产品 | pages/README-Game.md |
 | 拒绝 | 论坛、无 URL、垃圾广告、无法判断 | 不处理 |
 
 ### 步骤3：插入文件并建 PR 合并
