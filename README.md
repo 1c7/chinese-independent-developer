@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 18 号添加
 
+#### Ezreal(武汉) - [Github](https://github.com/ezrealyi126)
+* :white_check_mark: [YiTools](https://yitools.top)：在线工具箱，JSON 格式化/Base64/图片压缩/PDF 合并等 34 个工具，纯本地处理数据不上传，免费无广告
+
 #### lilyli-crypto - [Github](https://github.com/lilyli-crypto)
 * :white_check_mark: [PortWise](https://portwise.io)：AI 投资顾问，将市场数据、公司公告、新闻资讯和交易信号转化为关于股票、ETF 和投资组合的通俗易懂的回答
 
