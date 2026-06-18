@@ -34,6 +34,9 @@
 #### Ayden(广州) - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [Video to Prompt](https://video2prompt.io/)：将视频内容转换为可用于 AI 创作的提示词
 
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [Sync Anything](https://apps.apple.com/us/app/sync-anything/id6776331289)：在 iPhone 上实现的 Syncthing 客户端，兼容官方 Syncthing 协议
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
