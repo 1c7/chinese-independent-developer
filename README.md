@@ -41,6 +41,9 @@
 #### Harries - [Github](https://github.com/Harries)
 * :white_check_mark: [Skills.lc](https://skills.lc/)：AI 技能、Prompt、工作流和 Agent 分享平台，帮助发现和沉淀 AI 使用经验
 
+#### lilyli-crypto - [Github](https://github.com/lilyli-crypto)
+* :white_check_mark: [PortWise](https://portwise.io)：AI 投资顾问，将市场数据、公司公告、新闻资讯和交易信号转化为关于股票、ETF 和投资组合的通俗易懂的回答
+
 ### 2026 年 6 月 16 号添加
 
 #### Leo(广州) - [Github](https://github.com/huangyoudong30-lab)
