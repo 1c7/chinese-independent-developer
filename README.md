@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 20 号添加
+
+#### Leo(上海) 
+* :white_check_mark: [Speakora](https://speakora.io/)：AI voice generator for creators
+
 ### 2026 年 6 月 18 号添加
 
 #### Ezreal(武汉) - [Github](https://github.com/ezrealyi126)
