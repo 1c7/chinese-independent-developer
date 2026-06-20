@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 20 号添加
 
+#### asdf17128 - [Github](https://github.com/asdf17128)
+* :white_check_mark: [BiliTV](https://github.com/asdf17128/bili-webos)：LG webOS 电视的开源哔哩哔哩客户端，遥控器操作，支持弹幕、番剧和直播，纯本地运行免代理
+
 #### Leo(上海) 
 * :white_check_mark: [Speakora](https://speakora.io/)：AI voice generator for creators
 
