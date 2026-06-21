@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 21 号添加
 
+#### JaxonZhou - [Github](https://github.com/yuzhou6)
+* :white_check_mark: [CreateYourMusic AI](https://createyourmusic.ai)：AI 音乐生成器，把文字描述、歌词或诗句变成带人声、旋律和编曲的完整歌曲，支持多风格生成和 MP3/WAV 下载
+
 #### batecn(北京) - [Github](https://github.com/batecn)
 * :white_check_mark: [MacroAI](https://sowe.com/)：Windows 桌面宏自动化工具，支持图像识别、OCR、界面变化检测、Lua 脚本和可视化节点编排，无广告 - [更多介绍](https://github.com/batecn/MacroAI)
 
