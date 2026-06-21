@@ -49,8 +49,9 @@ grep -r "<产品URL>" README.md pages/README-Programmer-Edition.md pages/README-
 ## 检查二：最近 2 小时内开启的新 Issue（非 #160）
 
 ```bash
+SINCE=$(date -u -d '2 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
-  | jq --arg since "$(date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)" \
+  | jq --arg since "$SINCE" \
     '[.[] | select(.number != 160 and .pull_request == null and .created_at >= $since)]'
 ```
 
@@ -74,17 +75,25 @@ gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
 
 ---
 
-## 检查三：最近 2 小时内开启的新 PR（排除 auto-add- 分支）
+## 检查三：最近 3 天内开启的新 PR（排除 auto-add- 分支）
 
 ```bash
+SINCE=$(date -u -d '3 days ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-3d +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
-  | jq --arg since "$(date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)" \
+  | jq --arg since "$SINCE" \
     '[.[] | select((.head.ref | startswith("auto-add-") | not) and .created_at >= $since)]'
 ```
 
 判断每个 PR：
-- **有效项目提交**（对 README 的修改，含产品名 + URL）→ 直接合并：`gh pr merge <number> --squash --delete-branch --yes`
+- **有效项目提交**（对 README 的修改，含产品名 + URL）→ 直接合并：
+  ```bash
+  gh pr merge <number> --squash --yes
+  ```
+  - 如果合并成功：在该 PR 发感谢评论 `@<提交者用户名> 感谢提交，已合并！`，然后立即 PATCH 去掉 Claude 署名
+  - 如果合并失败（如 merge conflict）：在该 PR 发评论说明原因，**不要**通过通用处理流程重新提交，不要关闭 PR，让提交者自己解决冲突
 - **垃圾广告、无关内容** → 直接关闭：`gh pr close <number>`
+
+⚠️ 严格禁止：检查三的 PR 绝对不能走通用处理流程（那样会丢失贡献者的 git 归属）。
 
 ---
 
