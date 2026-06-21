@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 21 号添加
+
+#### JaxonZhou - [Github](https://github.com/yuzhou6)
+* :white_check_mark: [CreateYourMusic AI](https://createyourmusic.ai)：AI 音乐生成器，把文字描述、歌词或诗句变成带人声、旋律和编曲的完整歌曲，支持多风格生成和 MP3/WAV 下载
+
 ### 2026 年 6 月 20 号添加
 
 #### asdf17128 - [Github](https://github.com/asdf17128)
