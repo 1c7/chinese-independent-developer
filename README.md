@@ -30,6 +30,8 @@
 * :white_check_mark: [Audio Compressor](https://audio-compressor.org/)：在线音频压缩工具，支持 MP3、WAV、M4A、AAC、OGG 等格式在浏览器本地压缩，减小文件大小
 * :white_check_mark: [YouTube Playlist Length](https://ytplaylistlengthpro.org/)：YouTube 播放列表时长计算器，可计算总播放时长、倍速观看时间和学习计划
 * :white_check_mark: [Overtime Calculator](https://overtimecalculatorpro.org/)：加班工资计算器，支持 overtime pay、time and a half、double time、time card 等工时估算
+* :white_check_mark: [Focus Game](https://focus-game.org/)：专注力训练小游戏集合，包含 Schulte Table、Stroop Test、Reaction Time Test 等浏览器训练工具
+* :white_check_mark: [Schulte Table](https://schulte-table.org/)：舒尔特方格训练，视觉注意力训练工具，支持不同尺寸表格和计时练习
 
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [DigiCakey](https://digicakey.com/)：免费制作个性化数字蛋糕，自定义糖霜、水果、蜡烛和卡片，通过一个链接将礼物送给朋友
