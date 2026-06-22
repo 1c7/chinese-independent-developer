@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 22 号添加
 
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [DigiCakey](https://digicakey.com/)：免费制作个性化数字蛋糕，自定义糖霜、水果、蜡烛和卡片，通过一个链接将礼物送给朋友
+
 #### HaydenBi - [博客](https://haydenbi.com/)
 * :white_check_mark: [Toolaunch](https://toolaunch.app/)：AI、SaaS 和工具项目导航站，助力独立开发者和创业者展示自己的产品获得曝光
 
