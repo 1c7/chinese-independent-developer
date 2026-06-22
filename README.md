@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 22 号添加
+
+#### HaydenBi - [博客](https://haydenbi.com/)
+* :white_check_mark: [Toolaunch](https://toolaunch.app/)：AI、SaaS 和工具项目导航站，助力独立开发者和创业者展示自己的产品获得曝光
+
 ### 2026 年 6 月 21 号添加
 
 #### JaxonZhou - [Github](https://github.com/yuzhou6)
