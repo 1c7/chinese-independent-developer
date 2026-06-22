@@ -7,7 +7,7 @@ description: >
   当用户说"处理提交"、"处理 issue"、"跑一下列表"时使用。
 metadata:
   author: 1c7
-  version: "1.0"
+  version: "1.1"
   lang: zh-CN
 allowed-tools:
   - Bash
@@ -23,6 +23,8 @@ allowed-tools:
 
 ⚠️ 严格禁止：不得调用添加 reaction 的 API。
 
+⚠️ 严格禁止：不得以任何理由删除或修改 README 中已有的条目。本 skill 的唯一允许操作是**新增**。如果发现疑似重复，只需跳过，绝对不能删除。
+
 ---
 
 ## 检查一：issue #160 的新评论
@@ -37,10 +39,15 @@ gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE
 对每条评论，从内容中提取产品 URL，检查是否已在任意 README 中：
 
 ```bash
-grep -r "<产品URL>" README.md pages/README-Programmer-Edition.md pages/README-Game.md
+grep -rF "<产品完整URL>" README.md pages/README-Programmer-Edition.md pages/README-Game.md
 ```
 
-已存在则跳过。不存在则进入「通用处理流程」。
+⚠️ 去重规则（必须严格遵守）：
+- 必须用产品的**完整 URL**（如 `https://example.com`）做精确字符串匹配，使用 `grep -F`（固定字符串，非正则）
+- 禁止用产品名称、描述文字或部分关键词判断重复——描述里提到某个工具名不等于该工具已在列表中
+- URL 已存在 → 跳过，对 README 不做任何操作
+- URL 不存在 → 进入「通用处理流程」
+- 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
 
 处理完所有检查一的评论后，记录所有成功处理的评论作者用户名（用于最后一步发感谢评论到 #160）。
 
