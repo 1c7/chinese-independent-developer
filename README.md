@@ -29,6 +29,9 @@
 #### Corey Chiu(深圳) - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Show Me the Codes](https://showmethe.codes/)：给独立开发者、Builder、一人公司做的 link-in-bio 产品，展示你的产品
 
+#### Austin - [Github](https://github.com/haywang)
+* :white_check_mark: [SaaSHunt](https://saashunt.net/)：精选 SaaS 工具导航网站，发现和探索各类优质的免费与付费 SaaS 产品
+
 ### 2026 年 6 月 22 号添加
 
 #### pandaupup - [Github](https://github.com/pandaupup)
