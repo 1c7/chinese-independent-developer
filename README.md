@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 23 号添加
+
+#### Corey Chiu(深圳) - [Github](https://github.com/iAmCorey)
+* :white_check_mark: [Show Me the Codes](https://showmethe.codes/)：给独立开发者、Builder、一人公司做的 link-in-bio 产品，展示你的产品
+
 ### 2026 年 6 月 22 号添加
 
 #### pandaupup - [Github](https://github.com/pandaupup)
