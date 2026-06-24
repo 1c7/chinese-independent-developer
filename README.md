@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 24 号添加
 
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [Markclip](https://chromewebstore.google.com/detail/markclip-copy-any-part-of/hibnhmfncpddjendfainhipkbnblpdee)：一键复制 Claude 回复的任意片段为干净 Markdown，表格/代码/公式/mermaid 全保留
+
 #### Levine - [Github](https://github.com/Enivel)
 * :white_check_mark: [Kepo](https://kepo.ai)：AI Mac 桌面组件工具，把网页、RSS 和社交媒体更新变成可一键唤起的桌面组件
 
