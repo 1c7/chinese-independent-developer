@@ -27,7 +27,7 @@
 ### 2026 年 6 月 25 号添加
 
 #### aivideolab12 - [Github](https://github.com/aivideolab12)
-* :white_check_mark: [Seedance 2.5](https://aiseedance25.ai)：字节跳动 Seedance 2.5 视频生成模型在线体验，输入文字或图片即可生成高质量 AI 视频
+* :white_check_mark: [Seedance 2.5](https://aiseedance25.ai)：Seedance 2.5 视频生成模型在线体验，输入文字或图片即可生成高质量 AI 视频
 ### 2026 年 6 月 24 号添加
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
