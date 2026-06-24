@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 24 号添加
 
+#### Levine - [Github](https://github.com/Enivel)
+* :white_check_mark: [Kepo](https://kepo.ai)：AI Mac 桌面组件工具，把网页、RSS 和社交媒体更新变成可一键唤起的桌面组件
+
 #### biboom(广州) - [Github](https://github.com/li150)
 * :white_check_mark: [X 评论护盾](https://www.cloxapps.com/x-comment-shield)：本地采集 X 帖子评论及识别风险评论并支持单条批量屏蔽、举报等
 
