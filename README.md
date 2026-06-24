@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 24 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.com/)：免费在线制作前后对比照片，支持并排、滑块、分割等多种布局，适合健身、装修、美妆等场景
+
 ### 2026 年 6 月 23 号添加
 
 #### Corey Chiu(深圳) - [Github](https://github.com/iAmCorey)
