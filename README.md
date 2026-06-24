@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 24 号添加
 
+#### biboom(广州) - [Github](https://github.com/li150)
+* :white_check_mark: [X 评论护盾](https://www.cloxapps.com/x-comment-shield)：本地采集 X 帖子评论及识别风险评论并支持单条批量屏蔽、举报等
+
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [Before After Photo Maker](https://beforeafterphotomaker.com/)：免费在线制作前后对比照片，支持并排、滑块、分割等多种布局，适合健身、装修、美妆等场景
 
