@@ -27,6 +27,7 @@
 ### 2026 年 6 月 25 号添加
 
 #### camaker(内蒙) - [Github](https://github.com/camaker)
+* :white_check_mark: [ClassGamifyy](https://classgamify.com)：把课堂内容变成互动学习游戏的教学平台
 * :white_check_mark: [xtimer](https://xtimer.app)：用于演讲、工作坊、课堂和现场活动的远程计时器
 * :white_check_mark: [Mobyform](https://mobyform.com)：在线表单构建工具，支持问卷调查、工作流和回复收集
 
