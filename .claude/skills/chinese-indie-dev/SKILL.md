@@ -29,10 +29,10 @@ allowed-tools:
 
 ## 检查一：issue #160 的新评论
 
-获取最近 3 天内的评论：
+获取最近 7 小时内的评论（每 6 小时运行一次，留 1 小时余量）：
 
 ```bash
-SINCE=$(date -u -v-3d +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100"
 ```
 
@@ -53,10 +53,10 @@ grep -rF "<产品完整URL>" README.md pages/README-Programmer-Edition.md pages/
 
 ---
 
-## 检查二：最近 2 小时内开启的新 Issue（非 #160）
+## 检查二：最近 7 小时内开启的新 Issue（非 #160）
 
 ```bash
-SINCE=$(date -u -d '2 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-2H +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
   | jq --arg since "$SINCE" \
     '[.[] | select(.number != 160 and .pull_request == null and .created_at >= $since)]'
@@ -81,13 +81,13 @@ gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
 
 ---
 
-## 检查三：最近 3 天内开启的新 PR（排除 auto-add- 分支）
+## 检查三：所有未关闭的 PR（排除 auto-add- 分支）
+
+直接获取所有 open 状态的 PR（不限时间，确保不遗漏）：
 
 ```bash
-SINCE=$(date -u -d '3 days ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-3d +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
-  | jq --arg since "$SINCE" \
-    '[.[] | select((.head.ref | startswith("auto-add-") | not) and .created_at >= $since)]'
+  | jq '[.[] | select(.head.ref | startswith("auto-add-") | not)]'
 ```
 
 判断每个 PR：
@@ -147,26 +147,25 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 | 游戏版面 | 任何游戏类产品 | pages/README-Game.md |
 | 拒绝 | 论坛、无 URL、垃圾广告、无法判断 | 不处理 |
 
-### 步骤3：插入文件并建 PR 合并
+### 步骤3：插入文件并批量提交到 master
 
 先用 Read 工具读取目标 README 了解格式，用 Edit 工具插入条目。**新条目插入当天日期区块的最顶部**（紧接日期标题行之后的空行后面）。
 
 如果当天日期区块尚不存在，则在最新日期区块之前新建。
 
-每个项目建独立分支：
+**所有项目的文件修改全部做完后**，统一一次性提交推送到 master：
 
 ```bash
-# 每次建分支前先拉取最新 master
 git checkout master && git pull origin master
-BRANCH="auto-add-$(date +%Y%m%d-%H%M%S)"
-git checkout -b $BRANCH
-# Edit 工具修改文件后（插入到当天日期区块顶部）：
-git add <文件名>
-git commit -m "新增：<项目名>"
-git push origin $BRANCH
-gh pr create --title "新增：<项目名>" --body "来自 <原始链接>" --base master --head $BRANCH
-gh pr merge $BRANCH --squash --delete-branch --yes
+# （用 Edit 工具对各 README 文件做完所有修改）
+git add README.md pages/README-Programmer-Edition.md pages/README-Game.md
+git commit -m "新增：<项目1名>、<项目2名>、..."
+git push origin master
 ```
+
+- 不建分支，不开 PR，直接推 master
+- 所有项目合为一条 commit，commit message 列出所有项目名
+- 如果本次没有任何有效项目，跳过 git 操作
 
 ### 步骤4：给评论添加 reaction（仅限检查一的评论）
 
@@ -209,5 +208,5 @@ gh api --method PATCH \
 ## 注意事项
 
 - 幂等性靠 URL grep 检查保证，不依赖 reaction 标记
-- 同一批次多个项目，每个分别建独立分支和 PR，建分支前必须先 `git checkout master && git pull`
+- 所有文件修改完成后统一一次 commit 推 master，不建分支、不开 PR
 - 三个检查都没有新内容时，直接结束

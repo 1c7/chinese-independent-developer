@@ -1,22 +1,13 @@
 name: 触发 Claude Routine
 
 on:
-  issues:
-    types: [opened]
-  pull_request_target:
-    types: [opened]
-  issue_comment:
-    types: [created]
+  schedule:
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
   trigger:
     runs-on: ubuntu-latest
-    if: |
-      github.event_name == 'workflow_dispatch' ||
-      github.event_name == 'issues' ||
-      (github.event_name == 'pull_request_target' && !startsWith(github.event.pull_request.head.ref, 'auto-add-')) ||
-      (github.event_name == 'issue_comment' && github.event.issue.number == 160)
     steps:
       - name: 触发 Claude Routine
         run: |
