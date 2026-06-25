@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 6 月 25 号添加
+
+#### Wang Hongbo
+* :white_check_mark: [Witchspire](https://witchspire.org)：暗黑幻想 roguelite 游戏，动态法术系统+契约系统，Steam 6月10日 EA 上线 - [更多介绍](https://witchspire.org/about)
+* :white_check_mark: [Cursemark Builds](https://cursemark.org)：Cursemark 游戏 Build 数据库，50+ 法术组合+社群评分+符文指南，完全免费无需注册
+
 ### 2026 年 6 月 18 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)

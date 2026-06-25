@@ -39,10 +39,6 @@
 #### junwei000 - [Github](https://github.com/junwei000)
 * :white_check_mark: [aniv](https://aniv.ai)：一站式 AI 创作工具站，浏览器打开即用：AI 文生图、AI 文生视频、视频画质增强、字幕合成
 
-#### Wang Hongbo
-* :white_check_mark: [Witchspire](https://witchspire.org)：暗黑幻想 roguelite 游戏，动态法术系统+契约系统，Steam 6月10日 EA 上线 - [更多介绍](https://witchspire.org/about)
-* :white_check_mark: [Cursemark Builds](https://cursemark.org)：Cursemark 游戏 Build 数据库，50+ 法术组合+社群评分+符文指南，完全免费无需注册
-
 ### 2026 年 6 月 24 号添加
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
