@@ -28,6 +28,7 @@
 
 #### camaker(内蒙) - [Github](https://github.com/camaker)
 * :white_check_mark: [xtimer](https://xtimer.app)：用于演讲、工作坊、课堂和现场活动的远程计时器
+* :white_check_mark: [Mobyform](https://mobyform.com)：在线表单构建工具，支持问卷调查、工作流和回复收集
 
 #### aivideolab12 - [Github](https://github.com/aivideolab12)
 * :white_check_mark: [Seedance 2.5](https://aiseedance25.ai)：Seedance 2.5 视频生成模型在线体验，输入文字或图片即可生成高质量 AI 视频
