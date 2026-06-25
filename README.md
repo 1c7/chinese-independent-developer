@@ -27,6 +27,7 @@
 ### 2026 年 6 月 25 号添加
 
 #### camaker(内蒙) - [Github](https://github.com/camaker)
+* :white_check_mark: [VisioArt](https://visioart.ai)：一站式 AI 图片和视频创作平台
 * :white_check_mark: [Lang Study](https://getlangstudy.com)：中文汉字描红练习平台，支持描红、复习和练习题
 * :white_check_mark: [ClassGamifyy](https://classgamify.com)：把课堂内容变成互动学习游戏的教学平台
 * :white_check_mark: [xtimer](https://xtimer.app)：用于演讲、工作坊、课堂和现场活动的远程计时器
