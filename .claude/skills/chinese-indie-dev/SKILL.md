@@ -27,6 +27,33 @@ allowed-tools:
 
 ---
 
+## 预检：快速判断是否有任何新内容
+
+**在做任何实质处理之前**，先并行运行以下三条命令，统计各自的结果数量：
+
+```bash
+SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
+
+# 检查一：#160 新评论数
+COUNT_COMMENTS=$(gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100" | jq 'length')
+
+# 检查二：新 Issue 数
+COUNT_ISSUES=$(gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
+  | jq --arg since "$SINCE" '[.[] | select(.number != 160 and .pull_request == null and .created_at >= $since)] | length')
+
+# 检查三：待处理 PR 数（排除 auto-add- 分支）
+COUNT_PRS=$(gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
+  | jq '[.[] | select(.head.ref | startswith("auto-add-") | not)] | length')
+
+echo "新评论: $COUNT_COMMENTS  新Issue: $COUNT_ISSUES  待处理PR: $COUNT_PRS"
+```
+
+如果三个数字**全部为 0**，立即输出「无新内容，本次运行结束」，然后**停止，不再执行后续任何步骤**。
+
+只要有任意一个数字 > 0，才继续向下执行。
+
+---
+
 ## 检查一：issue #160 的新评论
 
 获取最近 7 小时内的评论（每 6 小时运行一次，留 1 小时余量）：
