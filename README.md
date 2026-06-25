@@ -28,6 +28,10 @@
 
 #### aivideolab12 - [Github](https://github.com/aivideolab12)
 * :white_check_mark: [Seedance 2.5](https://aiseedance25.ai)：Seedance 2.5 视频生成模型在线体验，输入文字或图片即可生成高质量 AI 视频
+
+#### junwei000 - [Github](https://github.com/junwei000)
+* :white_check_mark: [aniv](https://aniv.ai)：一站式 AI 创作工具站，浏览器打开即用：AI 文生图、AI 文生视频、视频画质增强、字幕合成
+
 ### 2026 年 6 月 24 号添加
 
 #### 刀刀 - [Github](https://github.com/sfss5362)
