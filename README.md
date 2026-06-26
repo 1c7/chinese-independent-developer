@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 26 号添加
 
+#### azt1112
+* :white_check_mark: [seedance 2.5](https://seedance25ai.run/)：在线 AI 视频生成平台，支持文生视频和图生视频，依托 Seedance 2.5 模型生成流畅自然的 AI 视频
+
 #### tain082888
 * :white_check_mark: [计算器3000](https://jsq3000.com)：面向国内用户的免费在线计算器工具站，覆盖房贷、个税、工资到手、车贷落地价、复利、BMI 等场景，页面包含公式说明、来源依据和更新时间
 
