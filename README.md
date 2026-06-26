@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 26 号添加
 
+#### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
+* :white_check_mark: [Detector de IA](https://detector-de-ia.net/)：西班牙语优先的 AI 文本复核网站，可检查粘贴文本和文档，查看概率信号、句子高亮和可导出报告
+
 #### azt1112
 * :white_check_mark: [seedance 2.5](https://seedance25ai.run/)：在线 AI 视频生成平台，支持文生视频和图生视频，依托 Seedance 2.5 模型生成流畅自然的 AI 视频
 
