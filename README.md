@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 27 号添加
+
+#### Lessur(广州) - [Github](https://github.com/lessurlx)
+* :white_check_mark: [Fableclip](https://fableclip.com)：AI 视频自动化工具，输入创意即可自动写脚本、生成配音与配图，并按排期自动发布到 YouTube、TikTok 等平台
+
 ### 2026 年 6 月 26 号添加
 
 #### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
