@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 28 号添加
 
+#### jetyu - [Github](https://github.com/jetyu)
+* :white_check_mark: [Snaptium](https://snaptium.com)：面向深度写作与知识管理的 Markdown 智能工作空间，本地优先架构，融合 AI 辅助写作、知识库智能体与端到端加密同步，支持 Windows/macOS/Linux
+
 #### woshiliyana - [Github](https://github.com/woshiliyana)
 * :white_check_mark: [TimedSubs](https://timedsubs.com/en/tools/subtitle-checker)：免费字幕检查工具，上传 SRT/VTT 后在浏览器本地检查时间轴、重叠、行长和阅读速度，并安全修复长行换行，无需注册、不上传文件
 
