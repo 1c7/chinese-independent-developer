@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 28 号添加
+
+#### woshiliyana - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [TimedSubs](https://timedsubs.com/en/tools/subtitle-checker)：免费字幕检查工具，上传 SRT/VTT 后在浏览器本地检查时间轴、重叠、行长和阅读速度，并安全修复长行换行，无需注册、不上传文件
+
 ### 2026 年 6 月 27 号添加
 
 #### Lessur(广州) - [Github](https://github.com/lessurlx)
