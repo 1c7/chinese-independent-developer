@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 6 月 30 号添加
+
+#### JDK9762 - [Github](https://github.com/JDK9762)
+* :white_check_mark: [VideoMonkey](https://videomonkey.cc)：直接在浏览器中运行的本地视频工具箱，支持压缩、格式转换、提取音频，无需安装软件，本地运行
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Attachment Style Test](https://attachmentstyletest.app/)：深度情感依恋关系测验网站
+
 ### 2026 年 6 月 28 号添加
 
 #### jetyu - [Github](https://github.com/jetyu)
