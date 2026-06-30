@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 6 月 30 号添加
+
+#### meetqy - [Github](https://github.com/meetqy)
+* :white_check_mark: [ToonTone](https://toontone.im)：在线动漫猜颜色小游戏
+
 ### 2026 年 6 月 25 号添加
 
 #### Wang Hongbo

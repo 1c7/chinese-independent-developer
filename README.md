@@ -26,6 +26,9 @@
 
 ### 2026 年 6 月 30 号添加
 
+#### yeshimin(温州) - [Github](https://github.com/yeshimin)
+* :white_check_mark: [叉叉笔记](https://blog.yeshimin.com/2026/05/12/product-todo5/)：本地工作台，集成笔记、待办、日程、工具和密码管理，macOS App Store 桌面端可搜索安装
+
 #### JDK9762 - [Github](https://github.com/JDK9762)
 * :white_check_mark: [VideoMonkey](https://videomonkey.cc)：直接在浏览器中运行的本地视频工具箱，支持压缩、格式转换、提取音频，无需安装软件，本地运行
 
