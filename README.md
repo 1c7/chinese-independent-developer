@@ -32,6 +32,10 @@
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [Attachment Style Test](https://attachmentstyletest.app/)：深度情感依恋关系测验网站
 
+#### yoga666996 - [Github](https://github.com/yoga666996)
+* :white_check_mark: [Seed Audio](https://seed-audio.org)：AI 语音生成与在线音乐创作工具
+* :white_check_mark: [Wan3Pro](https://wan3pro.video)：AI 在线视频生成工具
+
 ### 2026 年 6 月 28 号添加
 
 #### jetyu - [Github](https://github.com/jetyu)
