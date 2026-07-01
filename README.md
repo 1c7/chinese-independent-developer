@@ -27,7 +27,7 @@
 ### 2026 年 7 月 1 号添加
 
 #### woshiliyana - [Github](https://github.com/woshiliyana)
-* :white_check_mark: [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader)：YouTube 公开视频评论下载和受众分析工具，粘贴视频或 Shorts 链接即可导出 CSV，并把评论整理成带证据的受众报告
+* :white_check_mark: [AudienceCue](https://audiencecue.com/zh/tools/youtube-comment-downloader)：YouTube 公开视频评论下载和受众分析工具，粘贴视频或 Shorts 链接即可导出 CSV，并把评论整理成带证据的受众报告
 
 ### 2026 年 6 月 30 号添加
 
