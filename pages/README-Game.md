@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 1 号添加
+
+#### ItChinaw(南京) - [Github](https://github.com/ItChinaw)
+* :white_check_mark: [Steamm](https://steamm.net)：游戏账号租赁，为用户提供热门 3A、联机与双人游戏的在线租号
+
 ### 2026 年 6 月 30 号添加
 
 #### meetqy - [Github](https://github.com/meetqy)
