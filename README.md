@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 2 号添加
 
+#### AntHome(洛阳)
+* :white_check_mark: [AiSiteLink](https://www.aisitelink.com/)：传统网址导航与 AI 网址导航结合，注册后可自定义个人导航网站
+
+#### qqxufo
+* :white_check_mark: [ImgToSTL](https://imgtostl.com/)：面向 3D 打印的 AI 图片转 STL 转换器
+
 #### pi(杭州)
 * :white_check_mark: [email signature generator](https://email-signature-generator.online/)：免费的专业邮件签名在线生成器
 
