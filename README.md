@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 2 号添加
+
+#### pi(杭州)
+* :white_check_mark: [email signature generator](https://email-signature-generator.online/)：免费的专业邮件签名在线生成器
+
 ### 2026 年 7 月 1 号添加
 
 #### woshiliyana - [Github](https://github.com/woshiliyana)
