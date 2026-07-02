@@ -29,6 +29,9 @@
 #### pi(杭州)
 * :white_check_mark: [email signature generator](https://email-signature-generator.online/)：免费的专业邮件签名在线生成器
 
+#### Jimmy (北京) - [Github](https://github.com/)
+* :white_check_mark: [ToolGarden](https://toolgarden.xyz): 一个免费在线的全能工具箱，包含 JSON、PDF、图片、二维码、信息编解码、字幕制作等常用工具, 完全本地浏览器处理，隐私安全。
+
 ### 2026 年 7 月 1 号添加
 
 #### woshiliyana - [Github](https://github.com/woshiliyana)
