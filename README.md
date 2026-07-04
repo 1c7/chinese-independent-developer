@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 4 号添加
+
+#### Felix - [Github](https://github.com/greek-zzf)
+* :white_check_mark: [Loomet](https://loomet.app/)：网页端串珠图案制作工具，支持图片导入、精准珠子用量统计、真实珠子预览、手机端 Build Mode 和 PDF 导出
+
 ### 2026 年 7 月 3 号添加
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
