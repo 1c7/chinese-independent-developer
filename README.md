@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 4 号添加
+
+#### Felix - [Github](https://github.com/greek-zzf)
+* :white_check_mark: [Passport Size Photo](https://passportsizephoto.net)：在线证件照制作工具，上传照片后选择国家/证件预设，预览尺寸、背景和人脸裁剪，下载数字文件或 4x6 打印排版
+
 ### 2026 年 7 月 3 号添加
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
