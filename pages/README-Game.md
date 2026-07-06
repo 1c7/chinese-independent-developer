@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 5 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [DoodleGuesser](https://doodleguesser.com/)：免费在线画图猜词派对游戏，创建房间分享链接与朋友即时畅玩，实时画图猜词，自动计分轮换，无需下载注册
+
 ### 2026 年 7 月 4 号添加
 
 #### Felix - [Github](https://github.com/greek-zzf)
