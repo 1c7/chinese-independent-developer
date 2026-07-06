@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 6 号添加
 
+#### SignalTo Team
+* :white_check_mark: [SignalTo](https://signalto.io/)：TradingView webhook 提醒转发工具，将策略警报自动发送到 Telegram、Discord 和飞书，支持自动重试、投递日志和去重
+
 #### xianyu110 - [Github](https://github.com/xianyu110)
 * :white_check_mark: [Image Prompt Generator](https://image-prompt-generator.com/)：免费 AI 图像提示词生成器和提示词库，支持多模型筛选和提示词生成 - [更多介绍](https://github.com/xianyu110/image-prompt-generator)
 
