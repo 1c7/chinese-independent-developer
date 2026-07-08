@@ -4497,7 +4497,7 @@
 * :white_check_mark: [SubRenamer](https://github.com/qwqcode/SubRenamer)：字幕文件批量改名工具
 
 #### R1ckShi - [Github](https://github.com/R1ckShi) 
-* :white_check_mark: [FunClip](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary)：全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/alibaba-damo-academy)
+* :white_check_mark: [FunClip](https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary)：全自动视频剪辑工具(开源免费)：自动精确语音识别、自由选段裁剪、自动生成字幕 - [更多介绍](https://github.com/modelscope/FunClip)
 
 #### 7small7(成都) - [GitHub](https://github.com/7small7)
 * :white_check_mark: [兔兔答题](https://www.tutudati.com)：在线考试答题系统，可用于微信考试、付费考试、社会调查问卷、明星知识问答、员工培训考核、模拟自测、企业面试、试题库等多种场景。支持一键导入、智能判卷、试后分析、不限终端等功能。
