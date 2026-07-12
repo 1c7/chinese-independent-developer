@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 12 号添加
+
+#### Banlon - [Github](https://github.com/Banlon)
+* :white_check_mark: [upload](https://upload.one)：跨 AI 的长期记忆层，让 ChatGPT、Claude、Codex、Hermes、OpenClaw、WorkBuddy 等共用同一份记忆，换工具换设备都接着上次继续，注册即用免装插件
+
 ### 2026 年 7 月 11 号添加
 
 #### cabbagehao - [Github](https://github.com/vivifyvideo/vivify)
