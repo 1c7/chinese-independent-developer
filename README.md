@@ -5561,7 +5561,8 @@
 ### 2022年6月6号添加
 ---
 #### 自力6XStudio（深圳） - [Github](https://github.com/hzlzh), [Twitter](https://x.com/hzlzh)
-* :x: [锁屏启动 (iOS)](https://LockLauncher.app)：丰富小组件、灵动岛网速/天气/步数等
+* :white_check_mark: [2Camera 双摄相机 (iOS)](https://apps.apple.com/cn/app/id1584095090)：前后双摄相机，双份故事，双倍精彩
+* :white_check_mark: [锁屏启动 (iOS)](https://apps.apple.com/cn/app/id1636719674)：丰富小组件、灵动岛网速/天气/步数等
 * :white_check_mark: [MenubarX (macOS)](https://MenubarX.app)：强大的 Mac 菜单栏浏览器，把网页添加到菜单栏上，像原生 App 一样即开即用
 * :white_check_mark: [DockX (macOS)](https://dockx.app/)：在程序坞显示任意状态，如：网速、CPU、时钟等
 * :white_check_mark: [钢琴小组件 (iOS)](https://6x.studio/piano-widget/)：无需启动，随时弹奏
@@ -5573,6 +5574,7 @@
 * :white_check_mark: [红点杀手 (微信小游戏)](https://hzlzh.app/i/qr/redkiller.jpg)：创意弹幕躲避游戏
 * :white_check_mark: [有幻觉 (微信小游戏)](https://hzlzh.app/i/qr/youhuanjue.jpg)：创意视觉错觉游戏
 * :white_check_mark: [WordleX (微信小程序)](https://hzlzh.app/i/qr/wordlex.jpg)：Wordle 游戏的练习工具
+* :white_check_mark: [Patreon Batch Downloader (Chrome扩展)](https://chromewebstore.google.com/detail/patreon-batch-downloader/mpdbndgiplhpkognodlmmjampheficlo)：批量下载Patreon帖子和附件
 * :white_check_mark: [App Store 全部作品](https://itunes.apple.com/cn/developer/id888749139)
 
 ### 2022年6月5号添加
