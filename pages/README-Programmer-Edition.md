@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 13 号添加
+
+#### Simon He(上海) - [Github](https://github.com/Simon-He95)
+* :white_check_mark: [markstream-vue](https://github.com/Simon-He95/markstream-vue)：面向 AI 聊天的 Vue 3 / Nuxt 流式 Markdown 渲染器，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco
+
 ### 2026 年 7 月 10 号添加
 
 #### AI Router - [Github](https://github.com/airouter-dev)
