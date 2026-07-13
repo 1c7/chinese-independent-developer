@@ -41,6 +41,9 @@
 #### MuRong - [Github](https://github.com/murongg)
 * :white_check_mark: [Markra](https://editor.markra.app/)：本地优先的开源所见即所得 Markdown 编辑器，支持 Web、macOS、Windows 和 Linux，AI 修改可预览后应用 - [更多介绍](https://github.com/markrahq/markra/blob/main/README.zh-CN.md)
 
+#### ghosty(海外) - [Github](https://github.com/n1-ghosty)
+* :white_check_mark: [SaaSCity](https://saascity.io)：免费提交 SaaS 产品，每个产品会变成等距城市地图上的一栋建筑，24 小时内人工审核上线，付费版附带 dofollow 外链
+
 ### 2026 年 7 月 12 号添加
 
 #### Banlon - [Github](https://github.com/Banlon)
