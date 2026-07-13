@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 13 号添加
 
+#### yeguozi - [Github](https://github.com/yeguozi)
+* :white_check_mark: [野果子](https://www.yeguozi.com)：电影家居美学灵感库，从精选剧照提取墙面软装配色参考，支持按色彩浏览和配色长图分享，覆盖 87 部电影 4400+ 张截图 - [更多介绍](https://github.com/yeguozi/yeguozi)
+
 #### HankGuo - [Github](https://github.com/HankGuo)
 * :white_check_mark: [独立淘金地图](https://berich.aichi.food)：面向小白的赚钱路子汇总，整合一个人也能做的独立创收机会
 
