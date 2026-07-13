@@ -20,7 +20,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### redamancy231-create - [Github](https://github.com/redamancy231-create)
 * :white_check_mark: [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)：量化策略C++加速库，pybind11重写ETF形态匹配核心，DTW加速37倍/形态识别61倍，Python绑定开箱即用，MIT开源
-* :white_check_mark: [claude-skills](https://github.com/redamancy231-create/claude-skills)：Claude Code/Codex 技能集合，含会话交接、项目文档生成、事前否决三个实战验证 Skill，提炼自50+轮跨模型独立审查
+* :white_check_mark: [claude-skills](https://github.com/redamancy231-create/claude-skills)：Claude Code 技能集合，含会话交接、项目文档生成、事前否决三个实战验证 Skill，提炼自50+轮跨模型独立审查
 
 
 ### 2026 年 7 月 10 号添加
