@@ -18,8 +18,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 13 号添加
 
+
 #### Simon He(上海) - [Github](https://github.com/Simon-He95)
 * :white_check_mark: [markstream-vue](https://github.com/Simon-He95/markstream-vue)：面向 AI 聊天的 Vue 3 / Nuxt 流式 Markdown 渲染器，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco
+
+#### redamancy231-create - [Github](https://github.com/redamancy231-create)
+* :white_check_mark: [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)：量化策略C++加速库，pybind11重写ETF形态匹配核心，DTW加速37倍/形态识别61倍，Python绑定开箱即用，MIT开源
+* :white_check_mark: [claude-skills](https://github.com/redamancy231-create/claude-skills)：Claude Code 技能集合，含会话交接、项目文档生成、事前否决三个实战验证 Skill，提炼自50+轮跨模型独立审查
+
 
 ### 2026 年 7 月 10 号添加
 
