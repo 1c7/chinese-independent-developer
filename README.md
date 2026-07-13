@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 13 号添加
 
+#### charles - [Github](https://github.com/charleslee8266)
+* :white_check_mark: [卡网大全 · CardNav](https://cardnav.xyz)：一站式 AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)
+
 #### xsf0221(深圳)
 * :white_check_mark: [Listlift](https://listlift.dev)：面向 Etsy 卖家的内容引擎，将自有商品 Listing 转成符合卖家口吻、可审核编辑的 Pinterest 与 Instagram 内容
 
