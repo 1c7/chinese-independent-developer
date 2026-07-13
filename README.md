@@ -26,6 +26,8 @@
 
 ### 2026 年 7 月 14 号添加
 
+* :white_check_mark: [Atomi](https://atomi.chat)：AI 工具与数字服务的验证交易市场——沙箱执行，回执为凭，验后放款。
+
 #### gtn1024 - [Github](https://github.com/gtn1024)
 * :white_check_mark: [ieltssh](https://ieltssh.com/)：基于 AI 的雅思口语素材库，定制个人专属素材
 
