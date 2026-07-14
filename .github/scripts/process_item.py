@@ -89,8 +89,41 @@ def check_reactions(item):
     """检查对象（Issue 或 IssueComment）是否有触发表情且没有成功标记"""
     reactions = item.get_reactions()
     has_trigger = any(r.content == TRIGGER_EMOJI and r.user.login == ADMIN_HANDLE for r in reactions)
-    has_success = any(r.content == SUCCESS_EMOJI for r in reactions)
+    has_success = any(
+        r.content == SUCCESS_EMOJI and r.user.login == ADMIN_HANDLE
+        for r in reactions
+    )
     return has_trigger, has_success
+
+def collect_pending_items(repo, now=None):
+    """收集管理员标记的 Issue 和评论，排除 Pull Request。"""
+    pending_items = [] # 存储 (item_object, parent_issue_object)
+    current_time = now or datetime.now(timezone.utc)
+
+    issue160 = repo.get_issue(ISSUE_NUMBER)
+    time_threshold = current_time - timedelta(days=3)
+    comments160 = issue160.get_comments(since=time_threshold)
+    for comment in comments160:
+        has_t, has_s = check_reactions(comment)
+        if has_t and not has_s:
+            pending_items.append((comment, issue160))
+
+    comment_time_threshold = current_time - timedelta(days=7)
+    for issue in repo.get_issues(state='open'):
+        if issue.number == ISSUE_NUMBER or issue.pull_request is not None:
+            continue
+
+        has_t, has_s = check_reactions(issue)
+        if has_t and not has_s:
+            pending_items.append((issue, issue))
+
+        comments = issue.get_comments(since=comment_time_threshold)
+        for comment in comments:
+            has_t, has_s = check_reactions(comment)
+            if has_t and not has_s:
+                pending_items.append((comment, issue))
+
+    return pending_items
 
 def main():
     # 检查环境变量
@@ -98,38 +131,9 @@ def main():
 
     g = Github(PAT_TOKEN)
     repo = g.get_repo(REPO_NAME)
-    
+
     # ===== 阶段 1：收集待处理项 (Issue 160 评论 + 其他 Open Issue) =====
-    pending_items = [] # 存储 (item_object, parent_issue_object)
-
-    # 1.1 处理 Issue 160 的评论 (Legacy)
-    issue160 = repo.get_issue(ISSUE_NUMBER)
-    time_threshold = datetime.now(timezone.utc) - timedelta(days=3)
-    comments160 = issue160.get_comments(since=time_threshold)
-    for comment in comments160:
-        has_t, has_s = check_reactions(comment)
-        if has_t and not has_s:
-            pending_items.append((comment, issue160))
-
-    # 1.2 扫描所有其他 Open Issue
-    open_issues = repo.get_issues(state='open')
-    comment_time_threshold = datetime.now(timezone.utc) - timedelta(days=7)
-    
-    for issue in open_issues:
-        if issue.number == ISSUE_NUMBER:
-            continue
-            
-        # 1. 检查 Issue Body
-        has_t, has_s = check_reactions(issue)
-        if has_t and not has_s:
-            pending_items.append((issue, issue))
-            
-        # 2. 检查最近 7 天的所有评论
-        comments = issue.get_comments(since=comment_time_threshold)
-        for comment in comments:
-            has_t, has_s = check_reactions(comment)
-            if has_t and not has_s:
-                pending_items.append((comment, issue))
+    pending_items = collect_pending_items(repo)
 
     if not pending_items:
         print("无待处理项")
