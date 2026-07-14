@@ -46,6 +46,9 @@
 #### pasca520
 * :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome)：在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈
 
+#### Jake(海外) - [Github](https://github.com/jakeluo734)
+* :white_check_mark: [AgentCeres](https://agentceres.com)：给独立开发者和出海产品的 AI 增长团队，自动做竞品研究、起草 SEO 文章与社媒帖子，所有对外发布由你审批，14 天免费试用无需绑卡
+
 ### 2026 年 7 月 13 号添加
 
 #### capybara-zy - [Github](https://github.com/capybara-zy)
