@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### dongdongbh - [Github](https://github.com/dongdongbh)
+* :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
+
 #### ruanqizhen - [Github](https://github.com/ruanqizhen/ruanqizhen)
 * :white_check_mark: [回音堂](https://anachron.qizhen.xyz/)：借助 AI，用对话的方式讲述历史故事 - [更多介绍](https://github.com/ruanqizhen/anachron)
 
