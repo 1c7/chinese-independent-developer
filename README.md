@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 14 号添加
 
+#### Tristan Tang - [Github](https://github.com/tristan666666)
+* :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
+
 #### Pectics - [GitHub](https://github.com/Pectics)
 * :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：为你的 [Claude.ai](https://claude.ai) 网页端提供堪比原生语言切换功能和国际化体验的 **简体中文** 和 **繁體中文** 版本！并为全新的语言包贡献提供完整的加载支持！ - [查看仓库](https://github.com/Pectics/claude-i18n)
 
