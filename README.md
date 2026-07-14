@@ -26,6 +26,11 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### EloLin - [Github](https://github.com/DevEloLin)
+* :white_check_mark: [EloGames](https://games.elolin.com)：即开即玩的网页小游戏平台，打开就玩、无需下载或注册；主打自研《Lifeverse》——一个能在不同平行宇宙里反复「重开人生」的模拟器，随机抽取天赋与出身、经历迥异的人生轨迹，看你能活出怎样的一生
+* :white_check_mark: [KinMate](https://kinmate.elolin.com)：本地优先的家庭健康档案库，把全家人（含宠物）的化验单、病历、体检报告集中安全地存在自己设备上；AI 用大白话帮你读懂每项指标是什么、是否正常，全部数据不出本机、不上传云端
+* :white_check_mark: [TestHive](https://testhive.elolin.com)：面向开发者的众测/内测市场，发布测试活动即可招募真实用户帮你试用挑 bug；测试者完成任务赚取平台积分奖励，测试报告可一键公开分享，让产品在上线前就拿到真实反馈
+
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
