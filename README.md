@@ -37,6 +37,9 @@
 #### pasca520
 * :white_check_mark: [MarkIt](https://chromewebstore.google.com/detail/markit-%E7%BD%91%E9%A1%B5%E6%A0%87%E6%B3%A8%E4%B8%8E%E5%8F%8D%E9%A6%88%EF%BC%8C%E8%AE%A9-ai-%E5%B0%91%E7%8C%9C%E4%B8%80%E7%82%B9/dndiinkkhpmdipaffabjkaagoogjlome)：在网页上圈选元素、截图并写需求，生成含页面位置、元素信息和验收标准的结构化反馈
 
+#### Pectics - [GitHub](https://github.com/Pectics)
+* :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：为你的 [Claude.ai](https://claude.ai) 网页端提供堪比原生语言切换功能和国际化体验的 **简体中文** 和 **繁體中文** 版本！并为全新的语言包贡献提供完整的加载支持！ - [查看仓库](https://github.com/Pectics/claude-i18n)
+
 ### 2026 年 7 月 13 号添加
 
 #### capybara-zy - [Github](https://github.com/capybara-zy)
