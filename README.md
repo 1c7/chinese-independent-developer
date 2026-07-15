@@ -62,6 +62,9 @@
 #### Sallyn - [Github](https://github.com/Sallyn0225)
 * :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
 
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [旅游综合管理平台](https://github.com/jaychouchannel/Tourism_Management_System)：基于 Spring Boot + MyBatis-Plus + Vue.js + MySQL 的全功能旅游管理平台，一站式管理景点、酒店、餐厅、线路、导游、门票及社区互动 - [查看仓库](https://github.com/jaychouchannel/Tourism_Management_System)
+
 ### 2026 年 7 月 14 号添加
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
