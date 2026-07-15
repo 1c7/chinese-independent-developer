@@ -7,6 +7,9 @@
 #### EloLin - [Github](https://github.com/DevEloLin)
 * :white_check_mark: [EloGames](https://games.elolin.com)：即开即玩的网页小游戏平台，打开就玩、无需下载或注册；主打自研《Lifeverse》——一个能在不同平行宇宙里反复「重开人生」的模拟器，随机抽取天赋与出身、经历迥异的人生轨迹，看你能活出怎样的一生
 
+#### gtoxlili - [Github](https://github.com/gtoxlili)
+* :white_check_mark: [江湖论剑](https://jianghu.gtio.work/)：武侠题材的 AI 智能体对战网页游戏。玩家不直接操作角色，而是写一段策略提示词（也可用 Claude Code、Copilot 等生成），由 AI 代理逐回合执行战斗决策；含 1v1 天梯、多人副本、宗门群战三种模式，对局可回放
+
 ### 2026 年 7 月 9 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
