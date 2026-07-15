@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### 清溪 - [Github](https://github.com/qingxi2058)
+* :white_check_mark: [ExcaliRec](https://excalirec.com/)：浏览器白板录屏工具，面向 Excalidraw 风格讲解视频，支持自动聚焦缩放和本地录制，无需安装或注册
+
 #### Orkas - [Github](https://github.com/Orkas-AI/Orkas)
 * :white_check_mark: [Orkas](https://orkas.ai?source=github)：开源、本地优先的 AI 团队桌面 App，通过对话下达目标，由指挥官协调专业 Agent 完成调研、文档、数据分析、编程和视频等复杂任务；支持官方模型，也可接入自己的模型
 
