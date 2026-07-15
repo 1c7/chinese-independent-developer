@@ -10,6 +10,9 @@
 #### gtoxlili - [Github](https://github.com/gtoxlili)
 * :white_check_mark: [江湖论剑](https://jianghu.gtio.work/)：武侠题材的 AI 智能体对战网页游戏。玩家不直接操作角色，而是写一段策略提示词（也可用 Claude Code、Copilot 等生成），由 AI 代理逐回合执行战斗决策；含 1v1 天梯、多人副本、宗门群战三种模式，对局可回放
 
+#### qingxi2058 - [Github](https://github.com/qingxi2058)
+* :white_check_mark: [ToonTones](https://toontones.net/)：浏览器颜色记忆游戏，观察隐藏色后用 HSL 滑块还原，五轮给出 0–10 分，支持每日挑战和排行榜，无需注册下载
+
 ### 2026 年 7 月 9 号添加
 
 #### jankarong - [Github](https://github.com/jankarong)
