@@ -31,6 +31,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### 东方邯
+* :white_check_mark: [企业智能对账](https://github.com/CQZhangXin/AI-Reconciliation)：基于 AI 大模型的智能财务对账平台，通过"规则引擎 + Embedding 语义粗排 + LLM 多维精排"三层匹配架构实现 75-95% 自动对账率，并深度融合自然语言交互实现智能字段映射、差异根因分析、业务报告自动生成与自定义方案编排，定位为财务团队的 AI 协作者。
+
 #### ethanethan(上海)
 * :white_check_mark: [上海City不City](https://shanghaicitycity-web.havenai.online/)：上海城市玩法发现站，按地点和主题搜索路线，也可用 AI 规划约会、亲子、夜景等 City Walk
 * :white_check_mark: [SkillTry](https://skilltry.aimos.cloud/)：电商 AI Skill 服务市场，按次调用视频、选品、Listing、广告诊断等薄服务，无需购买整套 SaaS
