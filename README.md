@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 16 号添加
+
+#### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
+* :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手,选中文本或截图直接提问,自定义快捷键和提示词,支持 ChatGPT/Claude/Telegram 等 10 个平台,完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
+
 ### 2026 年 7 月 15 号添加
 
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
