@@ -27,7 +27,7 @@
 ### 2026 年 7 月 15 号添加
 
 #### Un1quer - [Github](https://github.com/Un1quer23)
-* :white_check_mark: [WillowTab](https://chromewebstore.google.com/detail/willowtab/gfigaeaddejhmnlkeppgccklahgepapm)：极简浏览器新标签页扩展，支持多搜索引擎切换、本地壁纸、深浅色主题和外观自定义，无需账号且不收集个人数据 - [查看仓库](https://github.com/Un1quer23/WillowTab)
+* :white_check_mark: [WillowTab](https://chromewebstore.google.com/detail/willowtab/gfigaeaddejhmnlkeppgccklahgepapm)：极简浏览器新标签页扩展，支持多搜索引擎切换、本地壁纸、深浅色主题和外观自定义，无需账号且不收集个人数据 - [Edge 商店安装](https://microsoftedge.microsoft.com/addons/detail/willowtab/ljkgjcbecpanckomdgebinggfhpkmmph) - [查看仓库](https://github.com/Un1quer23/WillowTab)
 
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
 * :white_check_mark: [123pan](https://github.com/123panNextGen/123pan/releases/latest)：开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)
