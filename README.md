@@ -26,7 +26,7 @@
 
 ### 2026 年 7 月 16 号添加
 
-#### YToolbox - [Github](https://github.com/Orkas-AI/Orkas)
+#### Orkas - [Github](https://github.com/Orkas-AI/Orkas)
 * :white_check_mark: [Orkas](https://orkas.ai?source=github)：开源、本地优先的 AI 团队桌面 App，通过对话下达目标，由指挥官协调专业 Agent 完成调研、文档、数据分析、编程和视频等复杂任务；支持官方模型，也可接入自己的模型
 
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
@@ -5881,4 +5881,3 @@
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 1. [RemoteOK](https://remoteok.io/)
-
