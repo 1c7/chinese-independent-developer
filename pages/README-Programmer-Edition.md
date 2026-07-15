@@ -27,6 +27,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### xusenlin - [Github](https://github.com/xusenlin/workavera)
 * :white_check_mark: [workavera](https://workavera.com/)：自托管 AI 团队工作台，连接对话、知识、关系、项目、任务与时间承诺，单一二进制或 Docker 部署 - [更多介绍](https://github.com/xusenlin/workavera)
 
+#### dsd2077 - [Github](https://github.com/dsd2077)
+* :white_check_mark: [CyberVerse](https://github.com/dsd2077/CyberVerse)：开源实时数字人 Agent 框架，用一张照片创建可实时视频对话的数字人，支持 WebRTC 全双工交互、角色记忆、工具和 RAG
+
 ### 2026 年 7 月 14 号添加
 
 #### MarSeventh - [Github](https://github.com/MarSeventh)
