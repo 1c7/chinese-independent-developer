@@ -21,6 +21,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### MarchBeta2087(泉州) - [Github](https://github.com/MarchBeta2087)
 * :white_check_mark: [Binary Collatz](https://github.com/MarchBeta2087/binary_collatz)：基于大整数位操作的 Collatz 过程命令行演示工具，支持任意长度二进制数、多种输出模式、缩略显示和高精度计时
 
+#### samuelh52 - [Github](https://github.com/samuelhe52)
+* :white_check_mark: [Teleport](https://github.com/samuelhe52/Teleport)：macOS iOS 定位模拟工具，支持模拟器与 USB/Wi‑Fi 连接的真机，可实时移动位置、规划路线及导入导出 GPX
+
 #### 康林 - [Github](https://github.com/KangLin)
 * :white_check_mark: [玉兔即时通讯](https://github.com/KangLin/RabbitIm)：开源跨平台即时通信系统，支持文本、音视频、白板、文件传输和远程控制
 

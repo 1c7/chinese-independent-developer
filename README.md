@@ -29,6 +29,9 @@
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
 * :white_check_mark: [123pan](https://github.com/123panNextGen/123pan/releases/latest)：开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)
 
+#### samuelh52 - [Github](https://github.com/samuelhe52)
+* :white_check_mark: [AniShelf](https://apps.apple.com/us/app/anishelf/id6759359144)：iOS 动画资料库，集中管理番剧和动画电影，记录观看状态、日期与感想，并查看剧集信息和评分
+
 #### 康林 - [Github](https://github.com/KangLin)
 * :white_check_mark: [玉兔远程控制](https://github.com/KangLin/RabbitRemoteControl/releases/latest)：开源跨平台远程管理 App，支持远程桌面、文件传输、SSH、TELNET、RDP 和 VNC 等协议 - [查看仓库](https://github.com/KangLin/RabbitRemoteControl)
 
@@ -5815,4 +5818,3 @@
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 1. [RemoteOK](https://remoteok.io/)
-
