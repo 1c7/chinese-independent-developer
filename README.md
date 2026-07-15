@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### aigao(江西南昌) - [Github](https://github.com/BAIGAOa)
+* :white_check_mark: [Ink-cartridge 与 keyboard-engine](https://github.com/BAIGAOa/ink-cartridge)：它旨在填补了React ink生态的空白 并提供了一款强大的框架无关的终端键盘事件引擎，并在React ink层提供了完备的屏幕管理系统 支持模态框 弹窗 导航切换，仓库是monorepo式的，keyboard-engine是子包，专门解决终端混乱的键盘事件 并对外暴露接口 可以识别模态框等 还有类vim式的功能
+
 #### 喜欢电脑的猫咪 - [Github](https://github.com/xhdndmm), [博客](https://blog.xhdndmm.net)
 * :white_check_mark: [123pan](https://github.com/123panNextGen/123pan/releases/latest)：开源第三方 123 云盘桌面客户端，支持 Windows 和 Linux，提供文件管理、多账号、多线程传输、限速和代理设置 - [查看仓库](https://github.com/123panNextGen/123pan)
 
