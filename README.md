@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### Ivy(上海) - [Github](https://github.com/Goodfun-Studio), [工作室官网](https://goodfun.studio)
+* :white_check_mark: [记账tracker](https://claw.investtracker.ai)：投资记账与持仓复盘工具，分开呈现持仓浮盈亏和已实现盈亏，支持组合视图、微信小程序、开源本地桌面版及只读 MCP 分析
+
 #### Misaki-Akeno(杭州) - [Github](https://github.com/Misaki-Akeno)
 * :white_check_mark: [Synthesizer Flow](https://synthesizer-flow.misakif.uk/)：浏览器端模块化合成器，通过可视化节点和连线搭建音频工作流，支持实时声音合成、MIDI 音序及 AI Agent 辅助修改工程
 
