@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### VinsonGuo(成都) - [Github](https://github.com/VinsonGuo), [Blog](https://vinsonguo.github.io/)
+* :white_check_mark: [SmartRSS](https://vinsonguo.github.io/introducing-smartrss)：全平台RSS阅读器，无缝集成FreshRSS等服务。强大的AI自定义指令帮你高效处理信息，一站式内容订阅（Blog/Podcast/YouTube/Reddit等），以及卓越阅读体验。
+
 #### Ivy(上海) - [Github](https://github.com/Goodfun-Studio), [工作室官网](https://goodfun.studio)
 * :white_check_mark: [记账tracker](https://claw.investtracker.ai)：投资记账与持仓复盘工具，分开呈现持仓浮盈亏和已实现盈亏，支持组合视图、微信小程序、开源本地桌面版及只读 MCP 分析
 
