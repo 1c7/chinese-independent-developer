@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 16 号添加
+
+#### Misaki-Akeno(杭州) - [Github](https://github.com/Misaki-Akeno)
+* :white_check_mark: [Synthesizer Flow](https://synthesizer-flow.misakif.uk/)：浏览器端模块化合成器，通过可视化节点和连线搭建音频工作流，支持实时声音合成、MIDI 音序及 AI Agent 辅助修改工程
+
 ### 2026 年 7 月 15 号添加
 
 #### zeplios(北京) - [Github](https://github.com/zeplios)
