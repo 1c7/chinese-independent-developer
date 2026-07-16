@@ -21,6 +21,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### redamancy231-create - [Github](https://github.com/redamancy231-create)
 * :white_check_mark: [independent-review-toolkit](https://github.com/redamancy231-create/independent-review-toolkit)：多模型独立审查CLI工具，含SOP、Prompt模板与对抗式挑战框架，50+轮实战验证，pip install即用
 * :white_check_mark: [docx-pipeline](https://github.com/redamancy231-create/docx-pipeline)：Markdown转中文DOCX命令行工具，双后端（纯Python + Pandoc）+ Mermaid图表渲染，4套预设模板，本地处理无需联网
+* :white_check_mark: [ai-collaboration-framework](https://github.com/redamancy231-create/ai-collaboration-framework)：人类-AI协作全生命周期方法论框架，3次对照实验+50+轮多后端独立审查实证，含项目启动到闭合的完整协议
 
 ### 2026 年 7 月 15 号添加
 
