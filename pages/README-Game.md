@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 16 号添加
+
+#### xiaokaixuan(北京) - [Github](https://github.com/coderxiao24), [博客](https://xiaokaixuan.com/)
+
+* :white_check_mark: [幸运硬币](https://xiaokaixuan.com/xkx/coin-game/)：参考steam幸运硬币玩法的网页小游戏，打开免费即玩，无需注册，适合摸鱼
+
 ### 2026 年 7 月 15 号添加
 
 #### EloLin - [Github](https://github.com/DevEloLin)
