@@ -32,6 +32,9 @@
 #### Misaki-Akeno(杭州) - [Github](https://github.com/Misaki-Akeno)
 * :white_check_mark: [Synthesizer Flow](https://synthesizer-flow.misakif.uk/)：浏览器端模块化合成器，通过可视化节点和连线搭建音频工作流，支持实时声音合成、MIDI 音序及 AI Agent 辅助修改工程
 
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [拼图编辑器 Puzzle Builder](https://github.com/jaychouchannel/Front-Pattern)：纯前端零依赖的可视化拼图低代码编辑器，在画布上拖拽矩形即可创建文本/图片/视频/按钮/卡片，支持多页面与按钮跳转、撤销重做、本地保存及一键导出可独立部署的 HTML 文件
+
 ### 2026 年 7 月 15 号添加
 
 #### zeplios(北京) - [Github](https://github.com/zeplios)
