@@ -16,6 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 16 号添加
+
+#### redamancy231-create - [Github](https://github.com/redamancy231-create)
+* :white_check_mark: [independent-review-toolkit](https://github.com/redamancy231-create/independent-review-toolkit)：多模型独立审查CLI工具，含SOP、Prompt模板与对抗式挑战框架，50+轮实战验证，pip install即用
+* :white_check_mark: [docx-pipeline](https://github.com/redamancy231-create/docx-pipeline)：Markdown转中文DOCX命令行工具，双后端（纯Python + Pandoc）+ Mermaid图表渲染，4套预设模板，本地处理无需联网
+
 ### 2026 年 7 月 15 号添加
 
 #### MornHus - [Github](https://github.com/mornhussakuyo-hub)
@@ -118,7 +124,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [markstream-vue](https://github.com/Simon-He95/markstream-vue)：面向 AI 聊天的 Vue 3 / Nuxt 流式 Markdown 渲染器，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco
 
 #### redamancy231-create - [Github](https://github.com/redamancy231-create)
-* :white_check_mark: [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)：量化策略C++加速库，pybind11重写ETF形态匹配核心，DTW加速37倍/形态识别61倍，Python绑定开箱即用，MIT开源
+* :white_check_mark: [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)：量化策略C++加速库，pybind11/C++20重写ETF形态匹配核心，DTW 34× / 形态匹配 53×，pip install即用，MIT开源
 * :white_check_mark: [claude-skills](https://github.com/redamancy231-create/claude-skills)：Claude Code 技能集合，含会话交接、项目文档生成、事前否决三个实战验证 Skill，提炼自50+轮跨模型独立审查
 
 
