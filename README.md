@@ -26,6 +26,11 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### XuZeyu(武汉) - [Github](https://github.com/xuzeyu91)
+* :white_check_mark: [BigBanana-AI-Director](https://github.com/shuyu-labs/BigBanana-AI-Director)：BigBanana AI Director是一个工业级一站式 AI 短剧，AI 漫剧,AI 导演平台，面向创作者，实现从灵感到成片的高效生产。 它摇弃了传统的“抽卡式”生成，采用 "Script-to-Asset-to-Keyframe" 的工业化工作流。实现 “一句话生成完整短剧，从剧本到成片全自动化”，同时精准控制角色一致性、场景连续性与镜头运动。
+* :white_check_mark: [AntSK](https://github.com/shuyu-labs/AntSK)：一个基于.Net 9、AntBlazor、Semantic Kernel和Kernel Memory构建的AI知识库/代理，支持本地离线AI大模型运行。无需联网即可离线运行。支持Aspire用于监控应用数据。
+* :white_check_mark: [WebCode](https://github.com/shuyu-labs/WebCode)：WebCode是一款基于浏览器的人工智能编程平台，支持远程运行Claude Code和Codex等CLI助手。只需一个网页浏览器，即可随时随地编写代码。我们还新增了办公助理模式，用于规划、调研/总结、会议记录及文档/邮件草稿撰写——并可与项目上下文联动。
+
 #### VinsonGuo(成都) - [Github](https://github.com/VinsonGuo), [Blog](https://vinsonguo.github.io/)
 * :white_check_mark: [SmartRSS](https://vinsonguo.github.io/introducing-smartrss)：全平台RSS阅读器，无缝集成FreshRSS等服务。强大的AI自定义指令帮你高效处理信息，一站式内容订阅（Blog/Podcast/YouTube/Reddit等），以及卓越阅读体验。
 
