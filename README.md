@@ -38,6 +38,9 @@
 #### jaychouchannel - [Github](https://github.com/jaychouchannel)
 * :white_check_mark: [拼图编辑器 Puzzle Builder](https://github.com/jaychouchannel/Front-Pattern)：纯前端零依赖的可视化拼图低代码编辑器，在画布上拖拽矩形即可创建文本/图片/视频/按钮/卡片，支持多页面与按钮跳转、撤销重做、本地保存及一键导出可独立部署的 HTML 文件
 
+#### fiaboo - [Github](https://github.com/dinhvuong090997-cyber)
+* :white_check_mark: [SolDrop Tracker](https://soldrop-tracker.vercel.app)：Solana 空投追踪工具，链上钱包分析，自动检测协议交互记录并判断空投资格，无需注册。
+
 ### 2026 年 7 月 15 号添加
 
 #### zeplios(北京) - [Github](https://github.com/zeplios)
