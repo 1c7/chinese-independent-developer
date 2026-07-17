@@ -24,6 +24,10 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+
+#### Christins(深圳) - [Github](https://github.com/Chen-Christins)
+* :white_check_mark: [XlsxSearcher](https://github.com/Chen-Christins/XlsxSearcher)：Excel 配置表搜索工具 — 面向游戏策划，快速定位 xlsx/xls 文件中的子表和单元格数据
+
 #### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
 * :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
 
