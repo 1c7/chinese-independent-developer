@@ -60,6 +60,9 @@
 #### AngKernel - [Github](https://github.com/AngKernel)
 * :white_check_mark: [秒折立方](https://foldcube.cn/)：专治行测/公考图形推理里的立体空间题，平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看，练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来 — 免费微信小程序，微信搜「秒折立方」即可使用
 
+#### hugh999999 - [Github](https://github.com/hugh999999)
+* :white_check_mark: [NFC 卡片读写工具](https://github.com/hugh999999/nfc_tool_share_key)：NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出
+
 ### 2026 年 7 月 16 号添加
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
