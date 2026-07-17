@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 18 号添加
+
+#### EthanYoQ - [Github](https://github.com/EthanYoQ)
+* :white_check_mark: [AgentHive](https://github.com/EthanYoQ/AgentHive)：本地多角色 AI 圆桌工作台，把业务问题丢给可配置的产品、市场、反方、总结 Agent 同场推演，自动输出结论、风险点和待验证假设，用于决策压测和证据整理 - [更多介绍](https://github.com/EthanYoQ/AgentHive)
+
 ### 2026 年 7 月 17 号添加
 
 #### Drug(深圳) - [Github](https://github.com/cropflre)
