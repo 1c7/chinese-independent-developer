@@ -26,11 +26,14 @@
 ### 2026 年 7 月 17 号添加
 
 #### 晨笙Cearl(北京) - [Github](https://github.com/chess99), [网站](https://cearl.cc)
-* :white_check_mark: [晨笙阅读](https://read.cearl.cc)：AI 辅助、人工校审的书籍解读平台，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
+* :white_check_mark: [晨笙阅读](https://read.cearl.cc)：书籍解读平台，AI 辅助、人工校审的，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
+
+#### Phaeris - [Github](https://github.com/PhaerisWakfu)
+* :white_check_mark: [太玄OS](https://xuan.phaeris.xyz/)：赛博算命、占卜
 
 #### Terenzzzz(广州) - [Github](https://github.com/terenzzzz), [网站](https://www.terenzzzz.cn/)
-* :white_check_mark: [Stub Lab](https://stub-lab.terenzzzz.cn/)：浏览器里运行的票根生成工具，上传照片配上标题、日期和编号即可做出可导出的纪念票根
-* :white_check_mark: [AFTERSHOT](https://aftershot.terenzzzz.cn/)：在浏览器中复盘照片的技术与审美表现，含直方图、EXIF、美学评分、视觉显著性与 HDR 模拟
+* :white_check_mark: [Stub Lab](https://stub-lab.terenzzzz.cn/)：票根生成工具，上传照片配上标题、日期和编号即可做出可导出的纪念票根
+* :white_check_mark: [AFTERSHOT](https://aftershot.terenzzzz.cn/)：复盘照片的技术与审美表现，含直方图、EXIF、美学评分、视觉显著性与 HDR 模拟
 * :white_check_mark: [Fork & Pour](https://fork-and-pour.terenzzzz.cn/)：把鸡尾酒配方当作代码协作的开源项目，用 JSON 管理配方、用 PR 贡献内容、前端自动展示结果
 
 #### chl(深圳)
