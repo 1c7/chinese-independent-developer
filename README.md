@@ -24,6 +24,9 @@
 
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
+#### Fangyuan025 - [Github](https://github.com/Fangyuan025)
+* :white_check_mark: [Chaty](https://chaty.ca)：本地 AI 助手桌面应用（Windows / macOS），大模型在自己电脑上运行，无需 API Key、数据不联网；内置模型商店一键下载开源模型，聊天、识图、语音通话、文档知识库、编程智能体全部离线可用 - [查看仓库](https://github.com/Fangyuan025/Chaty)
+
 #### AngKernel - [Github](https://github.com/AngKernel)
 * :white_check_mark: [秒折立方](https://foldcube.cn/)：「秒折立方」是一款免费微信小程序，专治行测/公考图形推理里的立体空间题。平面展开图点一下就折成正方体，相对面、相邻面自动标注；截面切割、三视图联动、立体拼合全都能动手转着看。练的不是死记口诀，是真正把「在脑子里转动图形」的能力练出来。微信搜「秒折立方」即可使用。
 
