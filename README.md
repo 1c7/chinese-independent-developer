@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
 
+#### Phaeris - [Github](https://github.com/PhaerisWakfu)
+* :white_check_mark: [太玄OS](https://xuan.phaeris.xyz/)：赛博算命、占卜
+
 #### Terenzzzz(广州) - [Github](https://github.com/terenzzzz), [网站](https://www.terenzzzz.cn/)
 * :white_check_mark: [Stub Lab](https://stub-lab.terenzzzz.cn/)：浏览器里运行的票根生成工具，上传照片配上标题、日期和编号即可做出可导出的纪念票根
 * :white_check_mark: [AFTERSHOT](https://aftershot.terenzzzz.cn/)：在浏览器中复盘照片的技术与审美表现，含直方图、EXIF、美学评分、视觉显著性与 HDR 模拟
