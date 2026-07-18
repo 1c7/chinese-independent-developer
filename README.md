@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 18 号添加
+
+#### Voor AI
+* :white_check_mark: [ImageToSTL.online](https://imagetostl.online/)：免费 PNG/JPG 转 STL 在线工具，浏览器本地生成可 3D 打印模型，支持 logo 挤出、浮雕、lithophane 与钥匙扣，无需注册
+
 ### 2026 年 7 月 17 号添加
 
 #### chuo0817
