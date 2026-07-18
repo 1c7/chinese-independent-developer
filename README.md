@@ -26,7 +26,7 @@
 ### 2026 年 7 月 18 号添加
 
 #### 猫弟(上海) - [Github](https://github.com/maundytime)
-* :white_check_mark: [Await](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
+* :white_check_mark: [Await(iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
 
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
 * :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：“实时工资”小软件，轻量优雅，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
