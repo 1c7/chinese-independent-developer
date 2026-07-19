@@ -25,6 +25,10 @@
 ## 3. 项目列表
 ### 2026 年 7 月 19 号添加
 
+#### wfly - [Github](https://github.com/Miofly)
+* :white_check_mark: [wflynn 博客](https://wflynn.cn/)：个人技术博客，专注前端工程化、Vue/React 生态和性能优化实践分享
+* :white_check_mark: [wflynn 工具站](https://tools.wflynn.cn/)：开发者在线工具集，提供 JSON 格式化、图片处理、代码转换等常用开发辅助工具
+
 #### duzexu - [Github](https://github.com/duzexu)
 * :white_check_mark: [desktop-pet](https://github.com/duzexu/desktop-pet)：把自己家的宠物放到桌面上 — 开源 - [更多介绍](https://duzexu.github.io/desktop-pet/#home)
 
