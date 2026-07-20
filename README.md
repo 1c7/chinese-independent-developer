@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 21 号添加
+
+#### aqua5230 - [Github](https://github.com/aqua5230)
+* :white_check_mark: [usage](https://github.com/aqua5230/usage)：把 Claude Code / Codex 的剩余额度和烧钱速度实时显示在菜单栏，全程不占用官方额度
+
 ### 2026 年 7 月 20 号添加
 
 #### 2456868764 - [Github](https://github.com/2456868764)
