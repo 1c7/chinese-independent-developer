@@ -38,6 +38,9 @@
 #### hugh999999 - [Github](https://github.com/hugh999999)
 * :white_check_mark: [NFC 卡片读写工具](https://github.com/hugh999999/nfc_tool_share_key)：NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出
 
+#### ys-ll(天津) - [Github](https://github.com/ys-ll)
+* :white_check_mark: [uniTerm](https://github.com/ys-ll/uniterm)：一款轻量级一站式终端软件，支持 SSH、RDP、VNC、SFTP、数据库 等 20 余种协议，内置可自主执行的 AI Agent，规划并执行多轮 Shell 命令 - [软件首页](https://uniterm.net)
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
