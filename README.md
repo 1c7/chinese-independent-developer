@@ -28,6 +28,9 @@
 #### Ethan - [Github](https://github.com/ethannelson2000)
 * :white_check_mark: [VioEvo](https://www.vioevo.com)：AI 创意工作室，支持图片生成、图片转视频和 AI 视频创作，集成多个领先生成模型
 
+#### hugh999999 - [Github](https://github.com/hugh999999)
+* :white_check_mark: [NFC 卡片读写工具](https://github.com/hugh999999/nfc_tool_share_key)：NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
