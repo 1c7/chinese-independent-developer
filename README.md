@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 20 号添加
+
+#### Ethan - [Github](https://github.com/ethannelson2000)
+* :white_check_mark: [VioEvo](https://www.vioevo.com)：AI 创意工作室，支持图片生成、图片转视频和 AI 视频创作，集成多个领先生成模型
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
