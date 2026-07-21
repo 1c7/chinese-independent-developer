@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：**中国独立开发者项目列表 网页版**，每日刷新 [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 的 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
+
 #### Mil0R(北京) - [Github](https://github.com/Mil0R)
 * :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意
 
