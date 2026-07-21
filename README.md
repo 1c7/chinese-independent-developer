@@ -25,7 +25,7 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
-#### Phaeris - [Github](https://github.com/PhaerisWakfu)
+#### Phaeris - [Github](https://github.com/PhaerisWakfu/OneTokenIsEnough)
 * :white_check_mark: [一叶知秋](https://onetoken.phaeris.xyz)：根据[最新论文](https://arxiv.org/abs/2607.10252)开发的中转API检测工具。担心中转站偷偷换成更便宜的模型？填上对方地址，我们只问它几次「随便说一个数」这类极短问题—— 每次回答大约只花 1 个输出 token，再对照已知真模型的回答习惯，判断像不像。 你的 API Key 只用于当场检测，我们不会记录、不会保存。
 
 #### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
