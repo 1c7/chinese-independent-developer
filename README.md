@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### Mil0R(北京) - [Github](https://github.com/Mil0R)
+* :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意。
+
 #### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
 * :white_check_mark: [芦苇-发现好内容](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406)：探索优质信息源，连接 RSS 订阅与内容发现 - [更多介绍](https://reeddaily.com/)
 
