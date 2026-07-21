@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [PlotCraft](https://github.com/jaychouchannel/PlotCraft)：科研人专用，用自然语言描述图表，AI 自动生成 Nature/Cell 级科研论文矢量图（SVG），支持 8 种图表模板，本地沙箱渲染，让论文配图不再麻烦。
+
 #### aqua5230 - [Github](https://github.com/aqua5230)
 * :white_check_mark: [usage](https://github.com/aqua5230/usage)：把 Claude Code / Codex 的剩余额度和烧钱速度实时显示在菜单栏，全程不占用官方额度
 
