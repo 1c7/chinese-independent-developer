@@ -23,6 +23,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 22 号添加
+
+#### Voor AI
+* :white_check_mark: [Voor AI](https://voor.ai)：浏览器端 AI 创作平台，支持视频、图片和音频生成、编辑与工作流协作，统一管理共享积分
+* :white_check_mark: [Krea 2 AI](https://krea2.org)：专注 Krea 2 的 AI 图片工作台，支持多种生成规格、风格探索与快速迭代
+* :white_check_mark: [Seedance 2.5 AI](https://seedance2-5ai.im)：Seedance 2.5 AI 视频工作台，支持文字生视频、图片生视频和参考图生视频
+* :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im)：多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑
+
 ### 2026 年 7 月 21 号添加
 
 #### 小明 - [Github](https://github.com/xiaomingio)
