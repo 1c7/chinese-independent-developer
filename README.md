@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### alice51849 - [Github](https://github.com/alice51849)
+* :white_check_mark: [Lumi & Friends iOS App Finder](https://alice51849.github.io/ios-app-guide/zh-Hans/tools/private-pay-once-iphone-app-finder.html)：按用途、隐私和付费方式查找 28 款已上架 iPhone/iPad App，覆盖学习、效率、照片、旅行与健康，逐款直达 App Store；支持 Apple 官方 50 个本地化区域
+
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：中国独立开发者项目列表网页版，每日刷新 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
 
