@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### sollawen - [Github](https://github.com/sollawen)
+* :white_check_mark: [microNeo](https://github.com/sollawen/microNeo)：和 OpenCode、Claude 等 AI agent 一起讨论计划与方案的终端应用。选中文档中任意段落 -> 写下批注 -> 一键发送，让 AI 准确知道你想改哪段、怎么改，无需 ctrl-c/ctrl-v，让手指告别酸痛。 - [更多介绍](https://sollawen.github.io/microNeo/)
+
 #### cobola - [Github](https://github.com/cobola)
 * :white_check_mark: [RailNet Tester](https://play.google.com/store/apps/details?id=com.xg.railnettester)：高铁移动网络质量记录仪，高速移动环境下进行 TCP 测试 + GPS 同步连续采集并形成图表
 * :white_check_mark: [0trace](https://0trace.org)：纯 P2P 浏览器端对端聊天与文件传输，无服务器中转、无需注册、打开即用 - [GitHub](https://github.com/momo2029/0trace)
