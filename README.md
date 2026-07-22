@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 22 号添加
+
+#### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
+* :white_check_mark: [诗经阅读](https://song-of-books.github.io/)：305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)
+
 ### 2026 年 7 月 21 号添加
 
 #### cobola - [Github](https://github.com/cobola)
