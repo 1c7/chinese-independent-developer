@@ -23,6 +23,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 22 号添加
+
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+* :white_check_mark: [EthanYoQ/Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
+* :white_check_mark: [EthanYoQ/whisper-input](https://github.com/EthanYoQ/whisper-input)：vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。
+* :white_check_mark: [EthanYoQ/agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。
+* :white_check_mark: [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。
+
 ### 2026 年 7 月 21 号添加
 
 #### cobola - [Github](https://github.com/cobola)
@@ -176,9 +184,6 @@
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
 * :white_check_mark: [IPTV Player](https://iptv.aibit.im/zh)：收看世界各地新闻、体育和娱乐节目（超过一万个频道），无需注册、下载或订阅
 
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [AI 小说作家 / AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：中文小说与网文写作桌面工作台，支持大纲、角色、章节蓝图、审稿修稿和知识库管理；内置完整系统提示词，避免长篇创作中角色遗忘与主题漂移；支持 NSFW 本地模型生成成人文学
-
 #### liliBestCoder - [Github](https://github.com/liliBestCoder)
 * :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
 
@@ -313,8 +318,6 @@
 #### Beihai10078 - [Github](https://github.com/Beihai10078)
 * :white_check_mark: [小米设备价格天梯 & 代号速查](https://beihai10078.github.io/xiaomi-price-tier/)：Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)
 
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input/releases/latest)：Windows 开源 AI 语音输入 App，按全局快捷键说话即可把中文整理成去口头语、带层级结构或正式邮件风格的文字；原文、轻度润色、清晰结构、正式表达四种模式随时切换，按 ASR 与 LLM 实际用量付费，无固定订阅费，可低成本获得类似 Typeless 的格式化输出工作流 - [查看仓库](https://github.com/EthanYoQ/whisper-input)
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
@@ -328,9 +331,6 @@
 * :white_check_mark: [SeatView](https://seat.genchi.top)：日本及部分海外演唱会场馆的真实座位视角图集，在坐席图上点击标注即可查看该位置的实拍视野，浏览和上传均无需注册 - [查看仓库](https://github.com/Sallyn0225/seatview)
 
 ### 2026 年 7 月 14 号添加
-
-#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1)：Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总 - [GitHub 源码](https://github.com/EthanYoQ/Invoice-Downloader)
 
 #### 1146345502 - [Github](https://github.com/1146345502)
 * :white_check_mark: [Aural](https://aural-ai.com)：开源 AI 面试平台，支持语音、聊天和视频面试，提供自适应追问、结构化评分、面试练习与自托管 - [查看仓库](https://github.com/1146345502/aural-oss)
