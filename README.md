@@ -35,6 +35,9 @@
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
 
+#### bobochang - [GitHub](https://github.com/can4hou6joeng4)
+* :white_check_mark: [Semaphore](https://semaphore.bobochang.cn)：图片拖进浏览器秒变 ASCII 字符画，无上传无注册，一键复制成纯文本贴进终端、代码注释、聊天窗口，支持盲文点阵高密度模式与 txt / PNG / 分享卡片导出 - [源码](https://github.com/can4hou6joeng4/Semaphore)
+
 ### 2026 年 7 月 22 号添加
 
 #### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
