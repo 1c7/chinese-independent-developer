@@ -16,6 +16,20 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 23 号添加
+
+#### ItChinaW - [Github](https://github.com/ItChinaW)
+* :white_check_mark: [moyu-fish](https://www.npmjs.com/package/moyu-fish)：摸鱼炒股看盘 CLI，Claude 风格交互界面
+
+#### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [mcpp-community](https://github.com/mcpp-community)
+
+* :white_check_mark: [mcpp](https://github.com/mcpp-community/mcpp)：现代 C++ 模块化构建工具 — 纯 C++23 模块编写（已实现自举），推动 C++ 进入 `import std` 时代 - [模块化库集合](https://github.com/mcpplibs) / [包索引](https://mcpplibs.github.io/mcpp-index/)
+
+### 2026 年 7 月 22 号添加
+
+#### hongshuo-wang - [Github](https://github.com/hongshuo-wang)
+* :white_check_mark: [TomlJump](https://github.com/hongshuo-wang/TomlJump)：TOML 导航插件，可在 TOML 配置、项目文件和 Go、Python、Java、TypeScript、JavaScript 源码声明之间双向跳转，支持 JetBrains IDE、VS Code 及兼容编辑器 - [更多介绍](https://github.com/hongshuo-wang/TomlJump/blob/main/README.zh-CN.md)
+
 ### 2026 年 7 月 21 号添加
 
 #### DevEloLin - [Github](https://github.com/DevEloLin)
