@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 23 号添加
 
+#### 8码团队 - [Github](https://github.com/geklabs)
+* :white_check_mark: [8码快传](https://t.8ma.co/)：免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传
+
 #### slamancn - [Github](https://github.com/slamancn)
 * :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将 PDF 转换为 Markdown，完全离线，无需上传、无文件大小限制，支持图像文字识别，私密安全，设备端处理，支持通过 AirDrop 共享；[鸿蒙版本](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
 
