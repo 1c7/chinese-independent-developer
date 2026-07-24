@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 24 号添加
+
+#### ky3 - [Github](https://github.com/ky3-studio)
+* :white_check_mark: [ky3 Launcher](https://github.com/ky3-studio/ky3-Launcher)：原神第三方开源启动器，集游戏启动、抽卡记录分析、成就管理、养成规划于一体，WinUI 3 原生界面，免费无广告
+
 ### 2026 年 7 月 23 号添加
 
 #### maowei8888 - [Github](https://github.com/maowei8888)
