@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 25 号添加
+
+#### monto-fe - [Github](https://github.com/monto-fe)
+* :white_check_mark: [Probe](https://probe.uspeedo.online)：SMTP 邮箱验证诊断工具，通过 SMTP 协议验证邮箱地址真实性，支持 IP 池故障转移、一次性邮箱检测、29 个 RBL 黑名单扫描、域名健康检查（SPF/DKIM/DMARC/MX/PTR），HTTP API 和 CLI 双模式 - [更多介绍](https://github.com/monto-fe/smtp-probe)
+
 ### 2026 年 7 月 24 号添加
 
 #### Jackeyhate9 - [Github](https://github.com/Jackeyhate9)
