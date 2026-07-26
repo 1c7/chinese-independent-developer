@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 27 号添加
+
+#### suio03(成都) - [Github](https://github.com/suio03)
+* :white_check_mark: [Scribix](https://scribix.io/)：上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档
+
 ### 2026 年 7 月 26 号添加
 
 #### Maynor996 - [Github](https://github.com/Maynor996)
