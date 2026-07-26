@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 26 号添加
+
+#### fastend - [Github](https://github.com/fastend)
+* :white_check_mark: [Grow a garden2](https://www.growagardens2codes.com/)：Grow a Garden 2 游戏攻略与代码查询网站
+
 ### 2026 年 7 月 22 号添加
 
 #### xiaosongcai(泉州) - [Github](https://github.com/songxiaoc)

@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 26 号添加
 
+#### Maynor996 - [Github](https://github.com/Maynor996)
+* :white_check_mark: [算了么](https://suanlem.asia/)：八字四柱、三张牌塔罗与吠陀占星在线解读，支持保存历史记录并查看公开的方法说明
+
+#### zhengmingpei(济南) - [Bilibili](https://space.bilibili.com/32918983)
+* :white_check_mark: [FileTags](https://zhengmingpei.github.io/FileTags/)：文件标签分类检索与管理桌面软件，跨平台（Windows、Linux） - [更多介绍](https://www.bilibili.com/video/BV1EMjH6NEtE/)
+
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [CelebrateYou](https://celebrateyou.app/)：AI 音乐生成器
 
