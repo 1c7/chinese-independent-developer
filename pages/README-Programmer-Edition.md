@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 27 号添加
+
+#### PinkR1ver - [Github](https://github.com/PinkR1ver)
+* :white_check_mark: [Vibe Roaster](https://github.com/PinkR1ver/vibe-roast)：本地读取 Codex、Claude Code、Cursor 等 AI 编程会话，生成 16 型编程人格、证据化吐槽与可分享卡片；一条 `npx` 命令运行，原始提示词不离开本机
+
 ### 2026 年 7 月 25 号添加
 
 #### monto-fe - [Github](https://github.com/monto-fe)
