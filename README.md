@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 27 号添加
 
+#### GottsteinDaniel - [Github](https://github.com/GottsteinDaniel)
+* :white_check_mark: [gottrix](https://gottrix.app)：浏览器文件工具箱，500+ 工具覆盖 PDF 合并/拆分/压缩/OCR/签名、图片格式转换、音视频转换与 3D 模型转换，纯本地 WebAssembly 处理不上传，首次访问后可离线使用，支持 25+ 种语言
+
 #### leungwensen（成都）- [GitHub](https://github.com/leungwensen), [博客](https://leungwensen.com)
 * :white_check_mark: [OpenFiles](https://openfiles.pansysoft.app/)：AI 原生桌面文件管理器，可在一个应用中打开和编辑 350+ 种文件格式，覆盖图片、文档、代码、音视频、压缩包、Markdown、Jupyter Notebook、SQLite 数据库和 DWG/DXF CAD 图纸；文件查看与编辑默认在本地完成，支持 macOS 和 Windows - [更多介绍](https://leungwensen.com/blog/the-desktop-evolution-of-openfiles)
 
