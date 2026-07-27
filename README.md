@@ -29,6 +29,9 @@
 #### suio03(成都) - [Github](https://github.com/suio03)
 * :white_check_mark: [Scribix](https://scribix.io/)：上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档
 
+#### zerx-lab - [Github](https://github.com/zerx-lab)
+* :white_check_mark: [FluxDown](https://fluxdown.zerx.dev)：多协议下载管理器，一个任务队列同时收 HTTP/FTP、BT 磁力、eD2K、HLS 和 DASH，IDM 式动态分段（下载途中继续切分剩余区间，慢节点不拖住收尾），装扩展后自动接管浏览器下载，Win/macOS/Linux/Android 全平台免费开源
+
 ### 2026 年 7 月 26 号添加
 
 #### Maynor996 - [Github](https://github.com/Maynor996)
