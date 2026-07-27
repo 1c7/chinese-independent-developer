@@ -128,10 +128,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### AIXP-Labs - [Github](https://github.com/orgs/AIXP-Labs/repositories)
 * :white_check_mark: [SoulBot](https://github.com/AIXP-Labs/SoulBot)：AI 智能体框架，内置 Creator，无需编程即可通过自然语言创建、进化和运行 AIAP 智能体程序及 AISP 智能体技能，通过 SoulACP 标准库调用 Claude Code 和 Codex，支持多智能体编排、协作和定时任务
 
-#### martian56 - [Github](https://github.com/martian56)
-* :white_check_mark: [Devlane](https://github.com/devlaner/devlane)：开源 Jira/Linear/Monday/ClickUp/Plane 替代方案，现代化项目管理平台，管理任务、冲刺、文档和事项分类
-* :white_check_mark: [Raven](https://github.com/martian56/raven)：结合 C++ 性能与控制力、Rust 安全性与现代特性、Python 可读性、Java 结构化设计以及 Go 简洁性的系统与应用编程语言
-
 #### boommanpro - [Github](https://github.com/boommanpro)
 * :white_check_mark: [gaia-workflow-engine](https://github.com/boommanpro/gaia-workflow-engine)：开源工作流前后端引擎（React + Java），独立部署、可扩展，可一键集成到各类项目中，适合做 Agent 的 workflow 模块，同时发布 Electron 端 - [体验网站](https://boommanpro.github.io/gaia-workflow-engine/)
 
