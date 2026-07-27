@@ -30,7 +30,7 @@
 * :white_check_mark: [OpenFiles](https://openfiles.pansysoft.app/)：AI 原生桌面文件管理器，可在一个应用中打开和编辑 350+ 种文件格式，覆盖图片、文档、代码、音视频、压缩包、Markdown、Jupyter Notebook、SQLite 数据库和 DWG/DXF CAD 图纸；文件查看与编辑默认在本地完成，支持 macOS 和 Windows - [更多介绍](https://leungwensen.com/blog/the-desktop-evolution-of-openfiles)
 
 #### tover wu - [Github](https://github.com/tover0314-w)
-* :white_check_mark: [OpenTypeless](https://www.opentypeless.com)：可在 Windows、macOS、Linux 任意应用内通过快捷键完成语音输入、转写和 AI 润色；支持 BYOK、本地词典与多种语音/大模型服务商 — MIT 开源 - [更多介绍](https://github.com/tover0314-w/opentypeless)
+* :white_check_mark: [OpenTypeless](https://www.opentypeless.com)：语音输入、转写与 AI 润色，任意应用内快捷键唤起；支持 BYOK、本地词典与多种语音/大模型服务商 — 跨平台，MIT 开源 - [更多介绍](https://github.com/tover0314-w/opentypeless)
 
 #### suio03(成都) - [Github](https://github.com/suio03)
 * :white_check_mark: [Scribix](https://scribix.io/)：上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档
@@ -68,7 +68,7 @@
 * :white_check_mark: [AI杂志生成器](https://magazinemaker.org/)：AI 生成杂志
 
 #### 8码团队 - [Github](https://github.com/geklabs)
-* :white_check_mark: [8码快传](https://t.8ma.co/)：免费、无需注册登录的浏览器大文件传输工具，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传
+* :white_check_mark: [8码快传](https://t.8ma.co/)：大文件传输工具，免费、无需注册登录，支持链接、二维码和取件码分享；同一 WiFi 下电脑与手机同时打开网页即可互传
 
 #### slamancn - [Github](https://github.com/slamancn)
 * :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将 PDF 转换为 Markdown，完全离线，无需上传、无文件大小限制，支持图像文字识别，私密安全，设备端处理，支持通过 AirDrop 共享；[鸿蒙版本](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
@@ -80,10 +80,10 @@
 * :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
-* :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。
-* :white_check_mark: [agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书工作台，一键爆款内容拆解，自动完成选题，配图，发布流程。新增多账号管理功能。账号故事线管理。
-* :white_check_mark: [AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 写小说和网文的写作工具，支持 NSFW 本地模型生成成人文学；支持大纲、角色、章节蓝图、审稿修稿和知识库的中文小说创作桌面工作台。内置完整系统提示词，避免中长篇小说角色/内容遗忘、主题漂移。
+* :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票自动化处理工具，连好邮箱后自动开票、下载、转成 PDF 并按分类归档，同时生成 Excel 清单
+* :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：语音输入法，开口即输入，自动整理成逻辑清晰的话术（类似 prompt），输出风格可选；面向 vibe coding 场景，源码公开自由可调 — Windows
+* :white_check_mark: [agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书工作台，一键拆解爆款内容，自动完成选题、配图与发布，支持多账号管理与账号故事线管理
+* :white_check_mark: [AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面工具，管理大纲、角色、章节蓝图、审稿修稿与知识库，内置系统提示词避免中长篇小说角色/内容遗忘与主题漂移；支持本地模型生成 NSFW 成人文学
 
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
@@ -122,7 +122,7 @@
 * :white_check_mark: [Vibe Coding Atlas](https://vibecoding.aicake.io)：中国独立开发者项目列表网页版，每日刷新 Markdown 清单生成可搜索筛选的静态目录，并补充公开 GitHub Stars - [GitHub 仓库](https://github.com/xiaomingio/vibe-coding-atlas)
 
 #### Mil0R(北京) - [Github](https://github.com/Mil0R)
-* :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：将你的图片局部放置放大镜进行放大显示，聚焦以引起注意
+* :white_check_mark: [FocusLens-屏幕截图聚焦编辑器](https://getfocuslens.com/)：给图片局部添加放大镜效果，放大展示、聚焦引起注意
 
 #### fatwang2 - [Github](https://github.com/fatwang2)
 * :white_check_mark: [Pulse](https://www.pulseticker.app/)：macOS 原生菜单栏行情工具，一眼查看美股、港股、A 股、加密货币、指数和 ETF，支持自选与持仓盈亏，免费开源 - [查看仓库](https://github.com/fatwang2/Pulse)
@@ -251,7 +251,7 @@
 * :white_check_mark: [IPTV Player](https://iptv.aibit.im/zh)：收看世界各地新闻、体育和娱乐节目（超过一万个频道），无需注册、下载或订阅
 
 #### liliBestCoder - [Github](https://github.com/liliBestCoder)
-* :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：专为 Windows 打造的免费进程级透明代理引擎，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
+* :white_check_mark: [ghost-proxifier-pro](https://ghostproxifier.com)：进程级透明代理引擎，专为 Windows 打造、免费使用，拖拽进程快捷方式即可完成注入，支持进程树自动递归注入 - [查看仓库](https://github.com/liliBestCoder/ghost-proxifier-pro)
 
 #### arcsin1 - [Github](https://github.com/arcsin1)
 * :white_check_mark: [oh-my-ppt](https://www.ohmyppt.cc/)：描述你的需求（演示、课程或故事），AI 为你生成简洁美观的 HTML 幻灯片，本地优先、离线可用 - [查看仓库](https://github.com/arcsin1/oh-my-ppt)
@@ -343,10 +343,10 @@
 * :white_check_mark: [Image to Editable Diagram](https://imagetoeditable.com/)：将图表截图、白板照片转换为可编辑的 Draw.io、Mermaid 或 Excalidraw 文件
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
-* :white_check_mark: [iOS 截图装饰](https://app-shots.aibit.im/)：免费在线 iOS 截图美化生成器，在浏览器中把应用截图变成规范的 App Store 上架素材
+* :white_check_mark: [iOS 截图装饰](https://app-shots.aibit.im/)：截图美化生成器，免费在线，浏览器中把 iOS 应用截图变成规范的 App Store 上架素材
 
 #### ZingLix - [Github](https://github.com/ZingLix), [博客](https://zinglix.xyz)
-* :white_check_mark: [Sillage](https://github.com/ZingLix/Sillage/blob/main/README.zh-CN.md)：把足迹、火车、飞机、酒店放在一起记录的旅行 App，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据
+* :white_check_mark: [Sillage](https://github.com/ZingLix/Sillage/blob/main/README.zh-CN.md)：旅行 App，把足迹、火车、飞机、酒店放在一起记录，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据
 
 #### Chuckie Chang(厦门) - [Github](https://github.com/xizon/F-Curator), [博客](https://www.c945.com/default.html)
 * :white_check_mark: [F-Curator](https://xizon.github.io/F-Curator-Official-Website/)：跨平台网络收藏夹管理 App，支持 Mac 和 Windows，永久保存数据，可在 Electron 官网下载
@@ -370,7 +370,7 @@
 
 #### 619dev(天津) - [Github](https://github.com/619dev)
 * :white_check_mark: [微信 PGP 加密助手](https://github.com/619dev/weixin_e2ee_crypt/releases/latest)：在微信等即时通讯 App 中通过悬浮窗加密和解密 PGP 消息，密钥与加解密操作保留在本地 - [查看仓库](https://github.com/619dev/weixin_e2ee_crypt)
-* :white_check_mark: [PaperPhonePlus](https://paperphone.app)：支持端到端加密、前向保密和音视频通话的即时通讯 App，可使用官方网页端或自托管 - [查看仓库](https://github.com/619dev/Paperphone-plus)
+* :white_check_mark: [PaperPhonePlus](https://paperphone.app)：即时通讯 App，支持端到端加密、前向保密和音视频通话，可使用官方网页端或自托管 - [查看仓库](https://github.com/619dev/Paperphone-plus)
 * :white_check_mark: [归灯](https://guideng.vercel.app)：家庭位置共享 App，支持 Android、iOS 和自托管服务器 - [查看仓库](https://github.com/619dev/guideng)
 * :white_check_mark: [问墨](https://github.com/619dev/wenmo-android/releases/latest)：完全离线的 Android 中文输入法，不申请网络或录音权限，APK 约 1.3 MB - [查看仓库](https://github.com/619dev/wenmo-android)
 
