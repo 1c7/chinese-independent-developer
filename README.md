@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 27 号添加
 
+#### leungwensen（成都）- [GitHub](https://github.com/leungwensen), [博客](https://leungwensen.com)
+* :white_check_mark: [OpenFiles](https://openfiles.pansysoft.app/)：AI 原生桌面文件管理器，可在一个应用中打开和编辑 350+ 种文件格式，覆盖图片、文档、代码、音视频、压缩包、Markdown、Jupyter Notebook、SQLite 数据库和 DWG/DXF CAD 图纸；文件查看与编辑默认在本地完成，支持 macOS 和 Windows - [更多介绍](https://leungwensen.com/blog/the-desktop-evolution-of-openfiles)
+
+#### tover wu - [Github](https://github.com/tover0314-w)
+* :white_check_mark: [OpenTypeless](https://www.opentypeless.com)：可在 Windows、macOS、Linux 任意应用内通过快捷键完成语音输入、转写和 AI 润色；支持 BYOK、本地词典与多种语音/大模型服务商 — MIT 开源 - [更多介绍](https://github.com/tover0314-w/opentypeless)
+
 #### suio03(成都) - [Github](https://github.com/suio03)
 * :white_check_mark: [Scribix](https://scribix.io/)：上传音视频或粘贴 YouTube 链接，生成带说话人标记和时间戳的可编辑文字，并可导出字幕与文档
 
