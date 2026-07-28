@@ -24,12 +24,6 @@
 
 ## 3. 项目列表
 
-### 2026 年 7 月 28 号添加
-
-#### my19940202 - [GitHub](https://github.com/my19940202)
-* :white_check_mark: [摸鱼解压玩具](https://satisfylab.me/zh)：收集各种解压小互动的摸鱼专用站，戳泡泡、打弹珠给你的大脑一个放空的机会
-
-  
 ### 2026 年 7 月 27 号添加
 
 #### sunmh207 - [GitHub](https://github.com/sunmh207)
