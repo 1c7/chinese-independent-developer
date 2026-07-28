@@ -28,6 +28,8 @@
 
 #### pluone(北京) - [Github](https://github.com/pluone)
 * :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
+#### OptPulse
+* :white_check_mark: [OptPulse](https://optpulse.org)：F-1 留学生 OPT / STEM OPT 时间追踪与 EAD 审批预测工具，支持 Premium Processing 时长计算与关键日期提醒，免费无需注册
 
 ### 2026 年 7 月 27 号添加
 
