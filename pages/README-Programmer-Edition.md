@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 27 号添加
 
+#### sunmh207 - [GitHub](https://github.com/sunmh207)
+* :white_check_mark: [Site Guard](https://github.com/sunmh207/site-guard)：不让故障，悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信 — Docker Compose 自托管部署
+
 #### PinkR1ver - [Github](https://github.com/PinkR1ver)
 * :white_check_mark: [Vibe Roaster](https://github.com/PinkR1ver/vibe-roast)：本地读取 Codex、Claude Code、Cursor 等 AI 编程会话，生成 16 型编程人格、证据化吐槽与可分享卡片；一条 `npx` 命令运行，原始提示词不离开本机
 
