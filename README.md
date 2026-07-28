@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 28 号添加
 
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [str-emoji-hash](https://github.com/jaychouchannel/str-emoji-hash)：将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh "你的字符串"`
+
 #### pluone(北京) - [Github](https://github.com/pluone)
 * :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
 
