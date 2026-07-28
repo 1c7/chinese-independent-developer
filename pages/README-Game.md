@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 28 号添加
+
+#### my19940202 - [GitHub](https://github.com/my19940202)
+* :white_check_mark: [摸鱼解压玩具](https://satisfylab.me/zh)：戳泡泡、打弹珠等解压小互动的合集，摸鱼时给大脑一段放空时间；免费，无需注册
+
 ### 2026 年 7 月 26 号添加
 
 #### fastend - [Github](https://github.com/fastend)
