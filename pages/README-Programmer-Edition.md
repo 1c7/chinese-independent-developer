@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 28 号添加
+
+#### zhangxuyuan20251443-coder - [Github](https://github.com/zhangxuyuan20251443-coder)
+* :white_check_mark: [Chrome Renamer](https://zhangxuyuan20251443-coder.github.io/Chrome-Renamer/)：本地替换 Google、YouTube 与 Chrome 页面中的品牌名称，支持自定义新标签页；无需账号，设置只保存在浏览器本地 — Chrome 扩展，需启用开发者模式手动加载 - [安装与源码](https://github.com/zhangxuyuan20251443-coder/Chrome-Renamer)
+
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [str-emoji-hash](https://github.com/jaychouchannel/str-emoji-hash)：将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh "你的字符串"`
+
 ### 2026 年 7 月 27 号添加
 
 #### sunmh207 - [GitHub](https://github.com/sunmh207)

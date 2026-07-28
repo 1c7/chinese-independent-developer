@@ -26,8 +26,8 @@
 
 ### 2026 年 7 月 28 号添加
 
-#### jaychouchannel - [Github](https://github.com/jaychouchannel)
-* :white_check_mark: [str-emoji-hash](https://github.com/jaychouchannel/str-emoji-hash)：将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh "你的字符串"`
+#### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
+* :white_check_mark: [intro3d](https://intro3d.com/zh)：上传照片或自有 3D 模型，设置镜头动画和作品内容，发布可分享的 3D 展示页 — 无代码 3D 个人主页制作工具
 
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
 * :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
@@ -35,7 +35,8 @@
 
 #### pluone(北京) - [Github](https://github.com/pluone)
 * :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
-#### OptPulse
+
+#### surfacex-dev - [Github](https://github.com/surfacex-dev)
 * :white_check_mark: [OptPulse](https://optpulse.org)：F-1 留学生 OPT / STEM OPT 时间追踪与 EAD 审批预测工具，支持 Premium Processing 时长计算与关键日期提醒，免费无需注册
 
 ### 2026 年 7 月 27 号添加
