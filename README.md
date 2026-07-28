@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 28 号添加
 
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [str-emoji-hash](https://github.com/jaychouchannel/str-emoji-hash)：将任意字符串转为唯一的表情指纹（如 🔨🌸🦋🍇），基于 FNV-1a 32 位哈希，相同输入永远产出相同表情组合，支持 npm 安装和 CLI 直接使用 `npx seh "你的字符串"`
+
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
 * :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
 * :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
