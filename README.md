@@ -25,7 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 7 月 27 号添加
-JAY https://aiseedance25.app/ seedance 2.5 ai video generator aiseedance25视频生成器 
+
+#### JAY - [Github](https://github.com/yoga666996)
+* :white_check_mark: [AISeedance25](https://aiseedance25.app/)：输入文字或图片生成视频，单条最长 30 秒、4K 无水印，可上传参考图控制画面；基于 Seedance 2.5 模型
 
 #### sunmh207 - [GitHub](https://github.com/sunmh207)
 * :white_check_mark: [Site Guard](https://github.com/sunmh207/site-guard)：不让故障,悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信
