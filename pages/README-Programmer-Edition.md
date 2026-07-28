@@ -16,6 +16,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 29 号添加
+
+#### Perrin Yong(上海) - [Github](https://github.com/PerrinYong)
+* :white_check_mark: [CrewBee](https://github.com/CrewBeeLab/CrewBee)：AI Agent 团队框架，面向 OpenCode 将角色、工作流、审查流程与完成标准封装为可复用团队资产，内置 Coding Team；一条 `npx` 命令安装 - [更多介绍](https://www.crewbee.art)
+* :white_check_mark: [PilotDeck](https://github.com/PilotDeckAgentLabs/PilotDeck)：ProjectOps × AgentOps 控制台，集中管理 AI Agent 协作、项目进展、审计轨迹与 token/成本；基于 Flask、Vue 3 与 SQLite 自托管部署
+* :white_check_mark: [Waggle](https://github.com/CrewBeeLab/Waggle)：AI Agent 治理运行时与控制平面，以项目为执行边界，提供权限控制、工具强制、确认流程、运行事件与审计证据；支持 CLI、HTTP 与 TypeScript SDK，需自托管部署
+
 ### 2026 年 7 月 28 号添加
 
 #### zhangxuyuan20251443-coder - [Github](https://github.com/zhangxuyuan20251443-coder)
