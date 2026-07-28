@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 28 号添加
+
+#### pluone(北京) - [Github](https://github.com/pluone)
+* :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
+
 ### 2026 年 7 月 27 号添加
 
 #### JAY - [Github](https://github.com/yoga666996)
