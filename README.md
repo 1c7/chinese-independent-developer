@@ -25,6 +25,7 @@
 ## 3. 项目列表
 
 ### 2026 年 7 月 27 号添加
+JAY https://aiseedance25.app/ seedance 2.5 ai video generator aiseedance25视频生成器 
 
 #### sunmh207 - [GitHub](https://github.com/sunmh207)
 * :white_check_mark: [Site Guard](https://github.com/sunmh207/site-guard)：不让故障,悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信
