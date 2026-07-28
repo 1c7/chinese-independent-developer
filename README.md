@@ -27,8 +27,8 @@
 ### 2026 年 7 月 28 号添加
 
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
-* :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
 * :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MrBaoboer/PayDance)
+* :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
 
 #### pluone(北京) - [Github](https://github.com/pluone)
 * :white_check_mark: [独立星选](https://indie-star.pages.dev/)：从本仓库评论区的用户点赞和评论数据中筛选优质独立开发者项目 - [更多介绍](https://github.com/pluone/indie_star)
