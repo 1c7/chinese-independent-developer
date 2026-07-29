@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 30 号添加
+
+#### Gang Qu - [GitHub](https://github.com/stomeonst)
+* :white_check_mark: [Public Trend Signal MVP](https://github.com/stomeonst/public-trend-signal-mvp)：把授权导出的 JSONL 趋势记录标准化、去重、确定性评分并拆分人工复核队列，导出飞书或 Notion 可导入的 CSV 和带哈希的运行回执；使用虚构样例，不抓取社交平台
+
 ### 2026 年 7 月 29 号添加
 
 #### 张文禄 - [GitHub](https://github.com/Python-IDE), [官网](https://pythonide.xin/)
