@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 29 号添加
+
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [小游戏大集合](https://happy-games.pages.dev/)：基于 Vibe Coding 的小游戏大合集，含推理游戏、Alpha-Beta 棋类游戏等四大主题，3 分钟一局，随手把玩
+
 ### 2026 年 7 月 28 号添加
 
 #### my19940202 - [GitHub](https://github.com/my19940202)
