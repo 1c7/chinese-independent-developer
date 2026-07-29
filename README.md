@@ -131,6 +131,8 @@
 * :white_check_mark: [Krea 2 AI](https://krea2.org)：专注 Krea 2 的 AI 图片工作台，支持多种生成规格、风格探索与快速迭代
 * :white_check_mark: [Seedance 2.5 AI](https://seedance2-5ai.im)：Seedance 2.5 AI 视频工作台，支持文字生视频、图片生视频和参考图生视频
 * :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im)：多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑
+* :white_check_mark: [FLUX 3 AI Image Generator](https://www-flux3.com)：多模型 AI 图片生成与编辑工作台，支持文字生图、参考图编辑、宽高比与多语言文字控制，并清晰标注模型可用状态
+* :white_check_mark: [FLUX 3 Video Generator](https://flux3-video.online)：AI 视频生成工作台，支持文字或图片生成视频、参考图及镜头、动作和声音提示，并清晰标注模型可用状态
 
 #### DevEloLin - [Github](https://github.com/DevEloLin)
 * :white_check_mark: [EloLin](https://elolin.com)：一个人做的产品工作室主页，一处浏览我做的全部产品，并用同一个账号登录所有产品
