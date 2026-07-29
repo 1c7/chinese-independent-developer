@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 29 号添加
+
+#### TopFrank - [GitHub](https://github.com/PHPfrank)
+* :white_check_mark: [网页视频港 WebVideoHarbor](https://phpfrank.github.io/web-video-harbor/)：免费开源的 macOS 网页媒体保存工具，通过 Chrome 扩展识别 MP4、WebM 与非加密 HLS/M3U8，并由本地助手完成下载 - [源码](https://github.com/PHPfrank/web-video-harbor)
+
 ### 2026 年 7 月 28 号添加
 
 #### yuhoayu-arch - [Github](https://github.com/yuhoayu-arch)
