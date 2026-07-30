@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [HALO 音乐广场](https://halo-music.pages.dev/)：多平台音乐搜索与播放，支持收藏和自建歌单，适配桌面和移动端 — 免费
+
+#### Alice - [Github](https://github.com/zengqingqing-cyber)
+* :white_check_mark: [紫微玄鉴](https://ziweixuanjian.com)：在线紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费
+
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 
