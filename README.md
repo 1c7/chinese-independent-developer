@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### apoet - [GitHub](https://github.com/apoet)
+* :white_check_mark: [Agent4API](https://agent4api.ecrfs.com/admin)：导入 Swagger 2.0 或 OpenAPI 3.x 文档，一键理解接口业务能力并生成 Tools、Skills 和 Agents；通过 MCP、OpenAI/Anthropic 兼容 API、内置 Chat 与嵌入式 Chat 对外提供服务，支持 Docker Compose 自托管部署 - [源码](https://github.com/apoet/Agent4API)
+
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 

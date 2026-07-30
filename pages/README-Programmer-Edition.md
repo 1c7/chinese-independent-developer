@@ -18,9 +18,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 30 号添加
 
-#### apoet - [GitHub](https://github.com/apoet)
-* :white_check_mark: [Agent4API](https://github.com/apoet/Agent4API)：导入 Swagger 2.0 或 OpenAPI 3.x 文档，一键理解接口业务能力并生成 Tools、Skills 和 Agents；通过 MCP、OpenAI/Anthropic 兼容 API、内置 Chat 与嵌入式 Chat 对外提供服务，支持 Docker Compose 自托管部署 - [在线演示](https://agent4api.ecrfs.com/admin)
-
 #### Gang Qu - [GitHub](https://github.com/stomeonst)
 * :white_check_mark: [Public Trend Signal MVP](https://github.com/stomeonst/public-trend-signal-mvp)：把授权导出的 JSONL 趋势记录标准化、去重、确定性评分并拆分人工复核队列，导出飞书或 Notion 可导入的 CSV 和带哈希的运行回执；使用虚构样例，不抓取社交平台
 
