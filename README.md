@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 30 号添加
+
+#### AaronConlon - [Github](https://github.com/AaronConlon)
+* :white_check_mark: [Codia](https://codia.i5lin.top/)：为文档、博客、社交分享和自动化场景生成精美的代码图片，提供 Playground 与渲染 API
+
 ### 2026 年 7 月 29 号添加
 
 #### TopFrank - [GitHub](https://github.com/PHPfrank)
