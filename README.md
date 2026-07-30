@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### Alive - [GitHub](https://github.com/Bliveren)
+* :white_check_mark: [CrossGen](https://www.corgnitor.com/products/crossgen)：本地优先的跨平台 AI 图片工作台，一处完成生图、编辑、整理与复用；安装后还可通过 JSON CLI 和 MCP 让 Codex、Claude Code、Cursor 等 Agent 调用同一套工作流 - [源码](https://github.com/Bliveren/CrossGen)
+
 #### Aaron - [GitHub](https://github.com/AAAAaron)
 * :white_check_mark: [童伴绘本](https://xingye.site)：AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制 - [更多介绍](https://github.com/AAAAaron/tongban-picture-book)
 
