@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### K
+* :white_check_mark: [GoBoardcast](https://goboardcast.com)：AI 白板讲解视频工具，把任意主题生成可编辑白板，并录制摄像头、麦克风、光标讲解后导出 MP4
+
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 
