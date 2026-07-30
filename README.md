@@ -26,6 +26,18 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### Aaron - [GitHub](https://github.com/AAAAaron)
+* :white_check_mark: [童伴绘本](https://xingye.site)：AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制 - [更多介绍](https://github.com/AAAAaron/tongban-picture-book)
+
+#### apoet - [GitHub](https://github.com/apoet)
+* :white_check_mark: [Agent4API](https://agent4api.ecrfs.com/admin)：导入 Swagger 2.0 或 OpenAPI 3.x 文档，一键理解接口业务能力并生成 Tools、Skills 和 Agents；通过 MCP、OpenAI/Anthropic 兼容 API、内置 Chat 与嵌入式 Chat 对外提供服务，支持 Docker Compose 自托管部署 - [源码](https://github.com/apoet/Agent4API)
+
+#### K
+* :white_check_mark: [GoBoardcast](https://goboardcast.com)：AI 白板讲解视频工具，把任意主题生成可编辑白板，并录制摄像头、麦克风、光标讲解后导出 MP4
+
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [SummaGraph](https://www.summagraph.com/)：AI 信息图生成工具，粘贴任意形式的文本即可一键生成高质量信息图，内置 20 种视觉风格 × 20 种布局模板，支持系列模式一次生成多页风格连续的信息图，覆盖中英日韩等 9 种语言
+
 #### zhoujungis - [Github](https://github.com/zhoujungis)
 * :white_check_mark: [HALO 音乐广场](https://halo-music.pages.dev/)：多平台音乐搜索与播放，支持收藏和自建歌单，适配桌面和移动端 — 免费
 
