@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### iAmCorey - [Github](https://github.com/iAmCorey)
+* :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
+
+#### jankarong
+* :white_check_mark: [Create PDF from Sheet](https://createpdffromsheet.com/)：在线将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印
+
 #### Hipepper - [Github](https://github.com/Hipepper)
 * :white_check_mark: [EgressGuard](https://github.com/Hipepper/EgressGuard)：持续监控 Mac 出口 IP 和国家/地区，一旦不符合可信规则就自动关闭 ChatGPT、Claude 等应用，避免账号被封 - [下载](https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0)
 
