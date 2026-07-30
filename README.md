@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [SummaGraph](https://www.summagraph.com/)：AI 信息图生成工具，粘贴任意形式的文本即可一键生成高质量信息图，内置 20 种视觉风格 × 20 种布局模板，支持系列模式一次生成多页风格连续的信息图，覆盖中英日韩等 9 种语言，文字渲染能力极强
+
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 
