@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 30 号添加
 
+#### Aaron - [GitHub](https://github.com/AAAAaron)
+* :white_check_mark: [童伴绘本](https://xingye.site)：AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制 - [更多介绍](https://github.com/AAAAaron/tongban-picture-book)
+
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 
