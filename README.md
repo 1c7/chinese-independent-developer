@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 1 号添加
+
+#### adam-doco - [Github](https://github.com/adam-doco)
+* :white_check_mark: [墨声 InkVoice](https://inkvoice.xyz)：小说转有声书，自动识别角色并为每个角色匹配不同音色，逐段合成整本有声书，还能克隆你自己的声音，支持免费试用
+
 ### 2026 年 7 月 31 号添加
 
 #### CoderLim(北京) - [Github](https://github.com/CoderLim)
