@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 31 号添加
+
+#### Gang Qu - [GitHub](https://github.com/stomeonst)
+* :white_check_mark: [LaunchClear](https://chris-saas-services.stomeonst123.chatgpt.site/zh)：面向小团队的发布验收与数据质检服务站，提供AI工作流验收、中英日输出与本地化质检、Excel与库存数据可靠性冲刺，公开固定范围、价格和交付物
+
 ### 2026 年 7 月 30 号添加
 
 #### Alive - [GitHub](https://github.com/Bliveren)
