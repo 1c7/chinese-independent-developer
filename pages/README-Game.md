@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 1 号添加
+
+#### Rain - [Github](https://github.com/wang1309)
+* :white_check_mark: [Minecraft Pixel Art Generator](https://minecraftpixel.app/)：将图片转换为我的世界风格像素画，支持导出 PNG、材料清单、.schematic 和 .litematica
+
 ### 2026 年 7 月 29 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)

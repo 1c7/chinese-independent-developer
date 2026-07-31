@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 1 号添加
 
+#### Monit Team(云南德宏) - [Github](https://github.com/virskor)
+* :white_check_mark: [Monitrun](https://monit.run/)：通过分布式节点监控网站 SSL 状态，实时推送 iOS 提醒 — iOS App
+
 #### adam-doco - [Github](https://github.com/adam-doco)
 * :white_check_mark: [墨声 InkVoice](https://inkvoice.xyz)：小说转有声书，自动识别角色并为每个角色匹配不同音色，逐段合成整本有声书，还能克隆你自己的声音，支持免费试用
 
