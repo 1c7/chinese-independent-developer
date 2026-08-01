@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 1 号添加
 
+#### Chris - [Github](https://github.com/stomeonst)
+* :white_check_mark: [CJK SaaS Localization QA Pack](https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/)：中日 SaaS 本地化质检模板包，提供简体中文与日语的术语表、界面检查表、缺陷记录和发布验收清单，可在线查看样例并购买可编辑文件 - [查看仓库](https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview)
+
 #### Monit Team(云南德宏) - [Github](https://github.com/virskor)
 * :white_check_mark: [Monitrun](https://monit.run/)：通过分布式节点监控网站 SSL 状态，实时推送 iOS 提醒 — iOS App
 
