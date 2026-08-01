@@ -20,6 +20,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### XSong1205(沈阳) - [Github](https://github.com/XSong1205), [Bilibili](https://space.bilibili.com/68624054)
 * :white_check_mark: [TQSync](https://github.com/XSong1205/TQSync)：Telegram 与 QQ 群组双向消息同步机器人
+* :clock8: [Nocturn](https://github.com/XSong1205/Nocturn)：第三方网易云音乐客户端，基于 miuix 组件库（开发中）
 
 ### 2026 年 7 月 30 号添加
 
