@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 1 号添加
 
+#### Yana Li - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [BaZi Calculator](https://bazicalculators.com/)：免费在线八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱
+
 #### Chris - [Github](https://github.com/stomeonst)
 * :white_check_mark: [CJK SaaS Localization QA Pack](https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/)：中日 SaaS 本地化质检模板包，提供简体中文与日语的术语表、界面检查表、缺陷记录和发布验收清单，可在线查看样例并购买可编辑文件 - [查看仓库](https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview)
 
