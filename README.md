@@ -26,6 +26,15 @@
 
 ### 2026 年 8 月 1 号添加
 
+#### JerroldLee - [Github](https://github.com/JerroldLee)
+* :white_check_mark: [NanoGPT](https://nanogpt.net/)：通过自然语言提示词修改图片，支持替换背景、修改服装和物体、调整颜色和风格，另有图片增强、老照片修复和背景移除 — 浏览器插件及网页版
+
+#### hanshs474 - [Github](https://github.com/hanshs474)
+* :white_check_mark: [kavel](https://kavel.ai)：AI 图片和视频生成工具，支持多种趣味场景的生图和生视频 — 免费
+
+#### 萝卜 - [Github](https://github.com/HuSao)
+* :white_check_mark: [反应测试](https://picktests.com/zh/)：专注于反应速度、记忆力与专注力的在线测试，提供反应时间、瞄准训练、序列记忆、数字记忆、多目标追踪和斯特鲁普等测试 — 免费
+
 #### Yana Li - [Github](https://github.com/woshiliyana)
 * :white_check_mark: [BaZi Calculator](https://bazicalculators.com/)：免费在线八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱
 
