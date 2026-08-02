@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 2 号添加
+
+#### WtecHtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
+* :white_check_mark: [Berth](https://github.com/WtecHtec/berth)：macOS 轻量终端工作台，在同一窗口中管理多根目录、文件、Git 变更和多个终端
+
 ### 2026 年 8 月 1 号添加
 
 #### XSong1205(沈阳) - [Github](https://github.com/XSong1205), [Bilibili](https://space.bilibili.com/68624054)

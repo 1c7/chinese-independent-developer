@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 2 号添加
+
+#### fastend(济南) - [Github](https://github.com/fastend)
+* :white_check_mark: [Palworldtoolbox](https://www.palworldtoolbox.com/)：Palworld 游戏攻略网站
+
 ### 2026 年 8 月 1 号添加
 
 #### Rain - [Github](https://github.com/wang1309)
