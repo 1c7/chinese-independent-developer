@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 3 号添加
+
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [Routewise-AI](https://routewise-ai.pages.dev/)：基于 GPT-5.6 大模型的旅行规划工具，免费
+
+#### lululu811(乌鲁木齐) - [Github](https://github.com/lululu811/zettaranc-skill)
+* :white_check_mark: [Zettaranc 知识库](https://zknowledge.site/)：踏踏实实，给你你也拿不住 - [更多介绍](https://github.com/lululu811/zettaranc-skill/blob/main/README.md)
+
+#### WindowSSnake(北京) - [Github](https://github.com/WindowSSnake)
+* :white_check_mark: [Snake PC Info](https://github.com/WindowSSnake/Snake-PC-Info)：开源的 Windows 硬件检测工具，支持电池健康度检测和系统日志分析，中英文切换，自带环境
+
 ### 2026 年 8 月 1 号添加
 
 #### JerroldLee - [Github](https://github.com/JerroldLee)
