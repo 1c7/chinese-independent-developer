@@ -27,10 +27,10 @@
 ### 2026 年 8 月 3 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)
-* :white_check_mark: [Routewise-AI](https://routewise-ai.pages.dev/)：基于 GPT-5.6 大模型的旅行规划工具，免费
+* :white_check_mark: [Routewise-AI](https://routewise-ai.pages.dev/)：旅行规划工具（免费），基于 GPT-5.6 大模型
 
 #### lululu811(乌鲁木齐) - [Github](https://github.com/lululu811/zettaranc-skill)
-* :white_check_mark: [Zettaranc 知识库](https://zknowledge.site/)：踏踏实实，给你你也拿不住 - [更多介绍](https://github.com/lululu811/zettaranc-skill/blob/main/README.md)
+* :white_check_mark: [Zettaranc 知识库](https://zknowledge.site/)：整理万千（Z哥）直播、课程与社群内容构建的 A 股交易知识图谱，收录战法策略、买卖信号、资金仓位等交易概念 - [更多介绍](https://github.com/lululu811/zettaranc-skill/blob/main/README.md)
 
 #### WindowSSnake(北京) - [Github](https://github.com/WindowSSnake)
 * :white_check_mark: [Snake PC Info](https://github.com/WindowSSnake/Snake-PC-Info)：开源的 Windows 硬件检测工具，支持电池健康度检测和系统日志分析，中英文切换，自带环境
@@ -38,7 +38,7 @@
 ### 2026 年 8 月 1 号添加
 
 #### JerroldLee - [Github](https://github.com/JerroldLee)
-* :white_check_mark: [NanoGPT](https://nanogpt.net/)：通过自然语言提示词修改图片，支持替换背景、修改服装和物体、调整颜色和风格，另有图片增强、老照片修复和背景移除 — 浏览器插件及网页版
+* :white_check_mark: [NanoGPT](https://nanogpt.net/)：用自然语言修改图片，支持替换背景、修改服装和物体、调整颜色和风格，另有图片增强、老照片修复和背景移除
 
 #### hanshs474 - [Github](https://github.com/hanshs474)
 * :white_check_mark: [kavel](https://kavel.ai)：AI 图片和视频生成工具，支持多种趣味场景的生图和生视频 — 免费
@@ -53,7 +53,7 @@
 * :white_check_mark: [CJK SaaS Localization QA Pack](https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/)：中日 SaaS 本地化质检模板包，提供简体中文与日语的术语表、界面检查表、缺陷记录和发布验收清单，可在线查看样例并购买可编辑文件 - [查看仓库](https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview)
 
 #### Monit Team(云南德宏) - [Github](https://github.com/virskor)
-* :white_check_mark: [Monitrun](https://monit.run/)：通过分布式节点监控网站 SSL 状态，实时推送 iOS 提醒 — iOS App
+* :white_check_mark: [Monitrun](https://monit.run/)：监控网站 SSL 证书状态，通过分布式节点实时推送 iOS 提醒 — iOS App
 
 #### adam-doco - [Github](https://github.com/adam-doco)
 * :white_check_mark: [墨声 InkVoice](https://inkvoice.xyz)：小说转有声书，自动识别角色并为每个角色匹配不同音色，逐段合成整本有声书，还能克隆你自己的声音，支持免费试用
