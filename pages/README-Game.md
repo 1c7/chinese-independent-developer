@@ -5,7 +5,7 @@
 ### 2026 年 8 月 2 号添加
 
 #### fastend(济南) - [Github](https://github.com/fastend)
-* :white_check_mark: [Palworldtoolbox](https://www.palworldtoolbox.com/)：Palworld 游戏攻略网站
+* :white_check_mark: [Palworldtoolbox](https://www.palworldtoolbox.com/)：Palworld 帕鲁图鉴与配种组合查询，含可交互世界地图
 
 ### 2026 年 8 月 1 号添加
 

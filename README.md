@@ -27,7 +27,7 @@
 ### 2026 年 8 月 4 号添加
 
 #### 好心情营业 - [Github](https://github.com/masterliangpeng)
-* :white_check_mark: [CPS Test](https://cpstest.me/zh/)：鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择项目在线测试
+* :white_check_mark: [CPS Test](https://cpstest.me/zh/)：鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择测试项目
 
 ### 2026 年 8 月 3 号添加
 
@@ -49,10 +49,10 @@
 * :white_check_mark: [kavel](https://kavel.ai)：AI 图片和视频生成工具，支持多种趣味场景的生图和生视频 — 免费
 
 #### 萝卜 - [Github](https://github.com/HuSao)
-* :white_check_mark: [反应测试](https://picktests.com/zh/)：专注于反应速度、记忆力与专注力的在线测试，提供反应时间、瞄准训练、序列记忆、数字记忆、多目标追踪和斯特鲁普等测试 — 免费
+* :white_check_mark: [反应测试](https://picktests.com/zh/)：专注于反应速度、记忆力与专注力的测试，提供反应时间、瞄准训练、序列记忆、数字记忆、多目标追踪和斯特鲁普等测试 — 免费
 
 #### Yana Li - [Github](https://github.com/woshiliyana)
-* :white_check_mark: [BaZi Calculator](https://bazicalculators.com/)：免费在线八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱
+* :white_check_mark: [BaZi Calculator](https://bazicalculators.com/)：免费八字排盘工具，输入出生日期、时间和城市即可查看四柱、日主、五行、十神与大运；无需注册，出生时间未知时提供三柱命盘，不猜测时柱
 
 #### Chris - [Github](https://github.com/stomeonst)
 * :white_check_mark: [CJK SaaS Localization QA Pack](https://stomeonst.github.io/cjk-saas-localization-qa-pack-preview/)：中日 SaaS 本地化质检模板包，提供简体中文与日语的术语表、界面检查表、缺陷记录和发布验收清单，可在线查看样例并购买可编辑文件 - [查看仓库](https://github.com/stomeonst/cjk-saas-localization-qa-pack-preview)
@@ -77,7 +77,7 @@
 * :white_check_mark: [CrossGen](https://www.corgnitor.com/products/crossgen)：本地优先的跨平台 AI 图片工作台，一处完成生图、编辑、整理与复用；安装后还可通过 JSON CLI 和 MCP 让 Codex、Claude Code、Cursor 等 Agent 调用同一套工作流 - [源码](https://github.com/Bliveren/CrossGen)
 
 #### Aaron - [GitHub](https://github.com/AAAAaron)
-* :white_check_mark: [童伴绘本](https://xingye.site)：AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可在线阅读已完成作品，专属生成采用邀请制 - [更多介绍](https://github.com/AAAAaron/tongban-picture-book)
+* :white_check_mark: [童伴绘本](https://xingye.site)：AI 定制亲子绘本平台，从家庭故事生成适龄脚本、统一角色插画、配音、互动阅读、PDF 和视频；可阅读已完成作品，专属生成采用邀请制 - [更多介绍](https://github.com/AAAAaron/tongban-picture-book)
 
 #### apoet - [GitHub](https://github.com/apoet)
 * :white_check_mark: [Agent4API](https://agent4api.ecrfs.com/admin)：导入 Swagger 2.0 或 OpenAPI 3.x 文档，一键理解接口业务能力并生成 Tools、Skills 和 Agents；通过 MCP、OpenAI/Anthropic 兼容 API、内置 Chat 与嵌入式 Chat 对外提供服务，支持 Docker Compose 自托管部署 - [源码](https://github.com/apoet/Agent4API)
@@ -92,13 +92,13 @@
 * :white_check_mark: [HALO 音乐广场](https://halo-music.pages.dev/)：多平台音乐搜索与播放，支持收藏和自建歌单，适配桌面和移动端 — 免费
 
 #### Alice - [Github](https://github.com/zengqingqing-cyber)
-* :white_check_mark: [紫微玄鉴](https://ziweixuanjian.com)：在线紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费
+* :white_check_mark: [紫微玄鉴](https://ziweixuanjian.com)：紫微斗数排盘工具，支持紫微排盘、合盘、大限流年运势分析，无需注册即开即用 — 免费
 
 #### iAmCorey - [Github](https://github.com/iAmCorey)
 * :white_check_mark: [Birth](https://github.com/iAmCorey/birth)：管理 Mac 启动项，显示每个自启项的开发者签名身份、标红伪装系统项，支持一键启停与安全删除 — 免费开源 macOS App
 
 #### jankarong
-* :white_check_mark: [Create PDF from Sheet](https://createpdffromsheet.com/)：在线将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印
+* :white_check_mark: [Create PDF from Sheet](https://createpdffromsheet.com/)：将 Excel 转为 PDF，可在浏览器中预览分页、合并多个工作簿，文件不上传数据库、无需注册、无水印
 
 #### Hipepper - [Github](https://github.com/Hipepper)
 * :white_check_mark: [EgressGuard](https://github.com/Hipepper/EgressGuard)：持续监控 Mac 出口 IP 和国家/地区，一旦不符合可信规则就自动关闭 ChatGPT、Claude 等应用，避免账号被封 - [下载](https://github.com/Hipepper/EgressGuard/releases/tag/v1.0.0)
