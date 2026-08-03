@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 3 号添加
+
+#### 敢敢是只喵i - [GitHub](https://github.com/niejingchuan)
+* :white_check_mark: [百灵中枢 BailingHub](https://www.bailinghub.com/)：给已有商城、CRM、ERP 等业务系统接入能够查询数据和办理业务的 AI 助手，通过能力白名单、人工审批、幂等和审计控制退款、库存、订单等真实操作；开源并支持 Docker 私有化部署 - [源码](https://github.com/bailinghub/bailinghub)
+
+#### ysykzheng(武汉)
+* :white_check_mark: [InkTranslator.com](https://inktranslator.com/)：免费翻译 API，50 字符内免费使用，支持 39 种语言，无需注册账号 - [更多介绍](https://inktranslator.com/lang/zh)
+
 ### 2026 年 8 月 2 号添加
 
 #### WtecHtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
