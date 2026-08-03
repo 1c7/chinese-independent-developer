@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 4 号添加
+
+#### 好心情营业 - [Github](https://github.com/masterliangpeng)
+* :white_check_mark: [CPS Test](https://cpstest.me/zh/)：鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择项目在线测试
+
 ### 2026 年 8 月 3 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)
