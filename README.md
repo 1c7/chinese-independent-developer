@@ -26,6 +26,12 @@
 
 ### 2026 年 8 月 4 号添加
 
+#### gf1023456 - [Github](https://github.com/gf1023456)
+* :white_check_mark: [AiXian](https://aixian.online)：在线工具箱，把桌面级工具装进浏览器，PDF 合并、图片去背景、AI 证件照、JSON 格式化、OCR 识别等 50+ 工具，全部本地处理，文件不出设备
+
+#### Eric(上海) - [Github](https://github.com/EricChenBuilds)
+* :white_check_mark: [Gesture Synth](https://gesturesynth.art/)：通过电脑摄像头捕捉手势，将双手的动作转化为音乐，仅凭双手和摄像头就能演奏
+
 #### 好心情营业 - [Github](https://github.com/masterliangpeng)
 * :white_check_mark: [CPS Test](https://cpstest.me/zh/)：鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择测试项目
 
