@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 4 号添加
+
+#### afetmin - [Github](https://github.com/afetmin)
+* :white_check_mark: [AgentPager](https://github.com/afetmin/AgentPager)：把闲置 Android 手机变成 AI Agent 专属状态终端，通过局域网实时同步 Codex Desktop/CLI 的运行状态，抬眼可见 Agent 在做什么、是否完成、何时需要批准 — 开源，支持 macOS 与 Windows
+
 ### 2026 年 8 月 3 号添加
 
 #### 敢敢是只喵i - [GitHub](https://github.com/niejingchuan)
