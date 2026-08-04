@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 4 号添加
 
+#### YuuFish (广州) - [Github](https://github.com/YuuFish)
+* :white_check_mark: [Gamepad Tester Online - 手柄测试工具](https://gamepadtesteronline.org/)：手柄检测工具，连接 USB 或蓝牙控制器即可实时检查按键、摇杆漂移、扳机、轮询率、输入延迟、震动和按键映射，检测数据在浏览器本地处理，无需安装或注册
+
 #### 好心情营业 - [Github](https://github.com/masterliangpeng)
 * :white_check_mark: [CPS Test](https://cpstest.me/zh/)：鼠标点击速度测试网站，集成专注力训练、空格键连点训练和反应速度测试等多种玩法，打开网页即可选择测试项目
 
