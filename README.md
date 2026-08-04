@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 4 号添加
+
+#### gf1023456
+* :white_check_mark: [AiXian](https://aixian.online)：在线工具箱，把桌面级工具装进浏览器，PDF 合并、图片去背景、AI 证件照、JSON 格式化、OCR 识别等 50+ 工具，全部本地处理，文件不出设备
+
 ### 2026 年 5 月 7 号添加
 
 #### suncoliner - [Github](https://github.com/suncoliner)
