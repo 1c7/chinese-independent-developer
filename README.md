@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 5 号添加
+
+#### 蚊子 - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [VidLux AI](https://vidlux.ai/)：AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑
+
 ### 2026 年 8 月 4 号添加
 
 #### gf1023456 - [Github](https://github.com/gf1023456)
