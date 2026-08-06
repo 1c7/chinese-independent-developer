@@ -24,6 +24,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 6 号添加
+
+#### AKAama(南京) - [Github](https://github.com/AKAama), [个人主页](https://ismyh.cn/)
+* :white_check_mark: [摸鱼日历](https://calendar.ismyh.cn/)：面向打工人的每日摸鱼日历，展示距离周五、休息日和下一个假期的天数，以及本周、本月和本年进度；另有周五下班倒计时、摸鱼宾果和午饭扭蛋机
+* :white_check_mark: [Evenly](https://app.ismyh.cn/)：面向情侣、室友和多人旅行的共享记账 App，支持成员确认、自动分账和结算建议，减少共同消费中的手算与反复沟通 - [App Store](https://apps.apple.com/cn/app/evenly/id6784235151)
+* :white_check_mark: [分手冷静室](https://calm.ismyh.cn/)：关系冲突中的 AI 情绪梳理工具，在发送冲动消息前分析情绪强度，通过三个反思问题帮助用户理清真实意图，再决定是否发送
+
+#### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [PixelListing](https://pixellisting.com/)：面向电商卖家的 AI 商品图片生成工具，帮助卖家在没有摄影棚、设计师和 Photoshop 流程的情况下，快速制作更适合上架和营销的商品图片
+
+#### MuYi(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Shotyard](https://shotyard.ai/)：AI 图片与视频生成/编辑平台，一站式使用主流 AI 模型，可一次输出多个图片或视频，对生成结果的二次操作友好
+
+#### 妙小记(北京) - [Github](https://github.com/MeetMiaoji)
+* :white_check_mark: [Meet妙记](https://www.mionote.com.cn/)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
+
 ### 2026 年 8 月 5 号添加
 
 #### PigFetch Team - [Github](https://github.com/my-name-7)

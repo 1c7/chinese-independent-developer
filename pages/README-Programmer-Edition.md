@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 6 号添加
+
+#### AKAama(南京) - [Github](https://github.com/AKAama), [个人主页](https://ismyh.cn/)
+* :white_check_mark: [状态栏歌词](https://lyrics.ismyh.cn/)：自动读取 Apple Music 当前歌曲并显示同步歌词，支持歌词偏移调整、缓存和切换歌词源，数据全部在本机处理 — 开源的 macOS 菜单栏工具 - [GitHub](https://github.com/AKAama/lyrics-display)
+
 ### 2026 年 8 月 4 号添加
 
 #### afetmin - [Github](https://github.com/afetmin)
