@@ -24,6 +24,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 6 号添加
+
+#### Eason-87 - [Github](https://github.com/Eason-87)
+* :white_check_mark: [VidLux AI](https://morsecodeinterpreters.com/)：摩斯码翻译器
+
+
 ### 2026 年 8 月 5 号添加
 
 #### 蚊子 - [Github](https://github.com/coderWenzi)
