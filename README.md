@@ -40,6 +40,9 @@
 #### 妙小记(北京) - [Github](https://github.com/MeetMiaoji)
 * :white_check_mark: [Meet妙记](https://www.mionote.com.cn/)：可随身携带的 AI 语音助手，记会议、记灵感、记待办，记录你的每一天；专注工作/生活/学习/闲谈/灵感等场景的语音记录，支持实时语音转写、说话人区分、AI 智能摘要一键生成，历史会议可按主题回看，iOS、Android、Mac、Windows 四端覆盖，单次录音最长 4 小时，内置 19 种行业纪要模板
 
+#### FlowPick - [Github](https://github.com/ezwebtools/flowpick)
+* :white_check_mark: [FlowPick](https://flowpick.net)：一款免费开源的浏览器扩展，用于嗅探和下载媒体资源。轻松自动检测网页视频、音频和图片。
+
 ### 2026 年 8 月 5 号添加
 
 #### PigFetch Team - [Github](https://github.com/my-name-7)
