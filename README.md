@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 5 号添加
 
+#### PigFetch Team - [Github](https://github.com/my-name-7)
+* :white_check_mark: [PigFetch](https://pigfetch.com)：Windows 视频链接下载工具，粘贴分享链接后可选择可用画质下载到电脑，适合素材留存与本地整理；新用户注册可使用 100 次，会员可无限下载
+
 #### 蚊子 - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [VidLux AI](https://vidlux.ai/)：AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑
 
