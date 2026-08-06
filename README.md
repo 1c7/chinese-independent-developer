@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 6 号添加
+
+#### 卡密sama - [Github](https://github.com/cjhyy)
+* :clock8: [CodeShell](https://github.com/cjhyy/codeshell)：开源的 AI 编程助手桌面应用，一个引擎三种形态——桌面 App、终端 CLI、可编程 SDK，本地优先、权限感知，支持 MCP/插件/定时任务/子代理/记忆，可作为 Claude Code 的开源替代 — MIT，支持 macOS/Windows/Linux
+
 ### 2026 年 8 月 5 号添加
 
 #### 蚊子 - [Github](https://github.com/coderWenzi)
