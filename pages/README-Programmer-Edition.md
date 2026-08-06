@@ -21,6 +21,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### AKAama(南京) - [Github](https://github.com/AKAama), [个人主页](https://ismyh.cn/)
 * :white_check_mark: [状态栏歌词](https://lyrics.ismyh.cn/)：自动读取 Apple Music 当前歌曲并显示同步歌词，支持歌词偏移调整、缓存和切换歌词源，数据全部在本机处理 — 开源的 macOS 菜单栏工具 - [GitHub](https://github.com/AKAama/lyrics-display)
 
+#### Bob Lee - [Github](https://github.com/bobleer)
+* :white_check_mark: [BitFun](https://github.com/GCWing/BitFun)：开源跨平台桌面 AI Agent，使用 Rust Runtime 在真实仓库中规划、修改、测试和提交代码，也能为任务生成带状态的 Mini App；支持自托管多端互联及 MCP、Skills、Hooks 扩展
+
 ### 2026 年 8 月 4 号添加
 
 #### afetmin - [Github](https://github.com/afetmin)
