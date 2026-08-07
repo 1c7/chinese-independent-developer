@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 7 号添加
 
+#### xiaoxiao - [Github](https://github.com/863683348)
+* :white_check_mark: [PublicHoliday](https://public-holidays.shop)：查询 150+ 国家法定节假日与调休，11种语言支持按年切换并一键导出日历订阅（.ics）
+
 #### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
 * :white_check_mark: [AI 比价](https://www.china-ai-arbitrage.xyz)：全网 AI 信息聚合比价站——国产官方套餐（GLM / Kimi / 通义 / 豆包等）的真实 Token 额度与限速、各家 API 单价、免费 Token 活动、低价 API 中转与海外账号行情一张表横向比，按「每元可用量」选出最划算方案
 
