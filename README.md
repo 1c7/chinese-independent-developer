@@ -27,7 +27,7 @@
 ### 2026 年 8 月 7 号添加
 
 #### 不空团队 - [Github](https://github.com/Hanshihao111)
-* :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来24小时趋势和较好时段；iPhone App另提供未来7日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
+* :white_check_mark: [不空：钓鱼天气与鱼情记录](https://bhtq.cn)：面向野钓用户的钓鱼天气与分鱼种鱼情工具，网页免登录查询十种目标鱼的当前评分、未来 24 小时趋势和较好时段；iPhone App 另提供未来 7 日鱼情、私有钓点和鱼获记录 - [App Store](https://apps.apple.com/cn/app/id6791599314)
 
 ### 2026 年 8 月 6 号添加
 
