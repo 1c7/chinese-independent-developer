@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 8 号添加
+
+#### s87343472 - [Github](https://github.com/s87343472)
+* :white_check_mark: [Daily Word Hunt](https://words.sagasu.art/)：每日更新的 Word Search 划词解谜小游戏，无需注册，提供主题系列与打印包，支持 Google 登录同步进度 - [源码](https://github.com/s87343472/daily-word-hunt)
+
 ### 2026 年 8 月 2 号添加
 
 #### fastend(济南) - [Github](https://github.com/fastend)
