@@ -7,7 +7,7 @@ description: >
   当用户说"处理提交"、"处理 issue"、"跑一下列表"时使用。
 metadata:
   author: 1c7
-  version: "2.2"
+  version: "2.3"
   lang: zh-CN
 allowed-tools:
   - Bash
@@ -49,10 +49,12 @@ allowed-tools:
 
 ## 预检：快速判断是否有任何新内容
 
+⚠️ 本 skill 由用户手动触发，运行间隔不固定（通常 1~2 天一次，但可能间隔更久），**不能再假设"每 6 小时自动跑一次"**。所有时间窗口统一使用 **72 小时**（3 天）安全余量，宁可扫描范围偏大、多花几秒确认已处理过，也不能因为窗口太窄而漏掉提交（历史事故：2026-08-07 08:10 的评论因窗口只有 7 小时被漏处理，直到用户截图问起才发现）。如果确认距离上次运行已经超过 3 天（例如出差、长期没运行），临时把下面的 `-v-72H` 改成更大的值（如 `-v-240H` 覆盖 10 天）再运行一次。
+
 **在做任何实质处理之前**，先并行运行以下三条命令，统计各自的结果数量：
 
 ```bash
-SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -d '72 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-72H +%Y-%m-%dT%H:%M:%SZ)
 
 # 检查一：#160 新评论数
 COUNT_COMMENTS=$(gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100" | jq 'length')
@@ -76,10 +78,10 @@ echo "新评论: $COUNT_COMMENTS  新Issue: $COUNT_ISSUES  待处理PR: $COUNT_P
 
 ## 检查一：issue #160 的新评论
 
-获取最近 7 小时内的评论（每 6 小时运行一次，留 1 小时余量）：
+获取最近 72 小时内的评论（人工运行、间隔不固定，用 3 天安全余量覆盖，宁可多扫不能漏扫）：
 
 ```bash
-SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -d '72 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-72H +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100"
 ```
 
@@ -96,14 +98,22 @@ grep -rF "<产品完整URL>" README.md pages/README-Programmer-Edition.md pages/
 - URL 不存在 → 进入「通用处理流程」
 - 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
 
+⚠️ **72 小时窗口比单次运行间隔更宽，同一条评论可能在连续两次运行中都落在窗口内。** 对于最终被判定为「拒绝」（垃圾广告 / 非中国开发者）的评论，因为不会在 README 里留下 URL 痕迹，上面的 URL 去重挡不住重复处理。处理每条评论、判断要不要发拒绝回复之前，先检查该评论下面是否已经有 `1c7` 或 `claude[bot]` 发过 `@<提交者用户名>` 开头的回复（即这条评论已经被上一次运行处理过）：
+```bash
+gh api "repos/1c7/chinese-independent-developer/issues/160/comments?per_page=100" \
+  | jq --arg since "<该评论created_at>" \
+    '[.[] | select(.created_at > $since and (.user.login=="1c7" or .user.login=="claude[bot]"))]'
+```
+如果已存在针对该提交者的回复，视为已处理过，跳过，不再重复发送拒绝评论。
+
 处理完所有检查一的评论后，记录每位成功处理的评论作者用户名、收录的产品名和目标版面（用于最后一步在 #160 逐人发感谢评论）。
 
 ---
 
-## 检查二：最近 7 小时内开启的新 Issue（非 #160）
+## 检查二：最近 72 小时内开启的新 Issue（非 #160）
 
 ```bash
-SINCE=$(date -u -d '7 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-7H +%Y-%m-%dT%H:%M:%SZ)
+SINCE=$(date -u -d '72 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-72H +%Y-%m-%dT%H:%M:%SZ)
 gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
   | jq --arg since "$SINCE" \
     '[.[] | select(.number != 160 and .pull_request == null and .created_at >= $since)]'
