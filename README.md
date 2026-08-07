@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 8 号添加
+
+#### ShanLeiGuang(河北) - [Github](https://github.com/shanleiguang)
+* :white_check_mark: [vPlayer HiFi App](https://apps.apple.com/cn/app/vplayer-hifi/id6783141736)：HiFi 无损音乐播放器，支持 MP3、AIFF、WAV、FLAC、DSD（DFF/DSF）等音频格式，支持 SACD-R ISO 解析与 Track 提取、Samba 接入、内存加载播放、SRC/FIR 多种重采样算法，支持 AirPlay、蓝牙、外置 DAC 输出 - [源码](https://github.com/shanleiguang/vPlayer)
+
 ### 2026 年 8 月 7 号添加
 
 #### xiaoxiao - [Github](https://github.com/863683348)
