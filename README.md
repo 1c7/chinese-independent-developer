@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 9 号添加
 
+#### nekocode(广州) - [Github](https://github.com/nekocode)
+* :white_check_mark: [SeqLog](https://seqlog.com)：macOS 原生大纲笔记，每条笔记就是磁盘上的一个 Markdown 文件，没有数据库也没有专有格式，ripgrep 和 git 读到的和你看到的是同一份字节；内置 Git 可展开逐行 diff、按单个文件回滚，也能直接打开已有的 Logseq 仓库。界面为英文
+
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
 
