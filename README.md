@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 9 号添加
+
+#### jankarong - [Github](https://github.com/jankarong)
+* :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
+
 ### 2026 年 8 月 8 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
