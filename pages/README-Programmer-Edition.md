@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 8 月 9 号添加
 
+#### mebtte - [Github](https://github.com/mebtte)
+* :white_check_mark: [知了](https://github.com/mebtte/cicada)：支持自托管的多人音乐服务，类似私有版 Spotify，可在自己的服务器上管理、播放和分享音乐
+
 #### tiltwind(厦门) - [Github](https://github.com/tiltwind)
 * :white_check_mark: [c3(code creative center)](https://github.com/sequencestream/c3)：AI 开发工作台，集中管理并驱动多个 AI 智能体协作工作，涵盖意图开发工作流、SDD 规范驱动开发、多智能体话题讨论、交付管理、权限审批、定时任务、事件驱动自动化任务，支持 Claude Code、Codex、Cursor
 
