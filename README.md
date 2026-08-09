@@ -26,11 +26,14 @@
 
 ### 2026 年 8 月 9 号添加
 
-#### mebtte - [Github](https://github.com/mebtte)
-* :white_check_mark: [知了](https://github.com/mebtte/cicada)：知了是一个支持自托管的多人音乐服务，类似私有版 Spotify，让你在自己的服务器上管理、播放和分享音乐。
+#### nekocode(广州) - [Github](https://github.com/nekocode)
+* :white_check_mark: [SeqLog](https://seqlog.com)：macOS 原生大纲笔记，每条笔记就是磁盘上的一个 Markdown 文件，没有数据库也没有专有格式，ripgrep 和 git 读到的和你看到的是同一份字节；内置 Git 可展开逐行 diff、按单个文件回滚，也能直接打开已有的 Logseq 仓库。界面为英文
 
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
+
+#### gna1280072(福建) - [Github](https://github.com/gna1280072)
+* :white_check_mark: [LeePanel](http://www.leepanel.com)：开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险 - [源码](https://github.com/gna1280072/LeePanel)
 
 ### 2026 年 8 月 8 号添加
 
