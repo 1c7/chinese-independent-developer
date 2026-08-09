@@ -21,9 +21,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### tiltwind(厦门) - [Github](https://github.com/tiltwind)
 * :white_check_mark: [c3(code creative center)](https://github.com/sequencestream/c3)：AI 开发工作台，集中管理并驱动多个 AI 智能体协作工作，涵盖意图开发工作流、SDD 规范驱动开发、多智能体话题讨论、交付管理、权限审批、定时任务、事件驱动自动化任务，支持 Claude Code、Codex、Cursor
 
-#### gna1280072(福建) - [Github](https://github.com/gna1280072)
-* :white_check_mark: [LeePanel](http://www.leepanel.com)：开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险 - [源码](https://github.com/gna1280072/LeePanel)
-
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [Token Bargain](https://tokenbargain.dev)：经济实惠的大模型 API 服务，登录后可免费试用一天的 Token 额度
 

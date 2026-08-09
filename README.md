@@ -29,6 +29,9 @@
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
 
+#### gna1280072(福建) - [Github](https://github.com/gna1280072)
+* :white_check_mark: [LeePanel](http://www.leepanel.com)：开源桌面端 Linux 服务器管理面板，所有操作通过本地 SSH 完成，服务器端零安装零残留，从根本上消除传统网页面板的安全风险 - [源码](https://github.com/gna1280072/LeePanel)
+
 ### 2026 年 8 月 8 号添加
 
 #### Miracle(杭州) - [Github](https://github.com/zhoulianbo)
