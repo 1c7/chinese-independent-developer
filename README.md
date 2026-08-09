@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 9 号添加
 
+#### mebtte - [Github](https://github.com/mebtte)
+* :white_check_mark: [知了](https://github.com/mebtte/cicada)：知了是一个支持自托管的多人音乐服务，类似私有版 Spotify，让你在自己的服务器上管理、播放和分享音乐。
+
 #### jankarong - [Github](https://github.com/jankarong)
 * :white_check_mark: [FeedbackHi](https://feedbackhi.com)：可嵌入任意网站的用户反馈工具，两行代码即可收集功能建议、Bug 报告和投票，并提供公开反馈看板、状态管理与官方回复
 
