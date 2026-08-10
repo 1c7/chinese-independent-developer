@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 10 号添加
 
+#### 花间魂梦 - [Github](https://github.com/hzy7003-bit)
+* :white_check_mark: [隐私中转站 Android](https://github.com/hzy7003-bit/PrivacyHub-Android-Preview)：本地离线的 Android 隐私分享中转工具，关闭购物和内容 App 的剪贴板读取权限后，仍可通过通知栏或系统分享保存、识别并打开链接与口令 — 无网络权限、无广告、无统计 SDK
+
 #### 想法开工(深圳)
 * :white_check_mark: [豆包超级助手](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag)：对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件 - [更多介绍](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
 
