@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 10 号添加
+
+#### Sameral - [Github](https://github.com/viewer12)
+* :white_check_mark: [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=referral&utm_campaign=chinese_independent_developer)：原生 macOS SSH 客户端，在一个应用中管理终端、双栏 SFTP、Docker 与服务器监控；还可通过 MCP 让 Claude Code、Codex 在可见终端中执行已授权操作，密码和私钥不会交给 Agent
+
 ### 2026 年 8 月 9 号添加
 
 #### mebtte - [Github](https://github.com/mebtte)
