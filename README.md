@@ -29,6 +29,9 @@
 #### 想法开工(深圳)
 * :white_check_mark: [豆包超级助手](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag)：对话文件夹、长对话导航、标记注释、提示词模板与多步队列、100+ 模板与划词快捷进入、本机读写文件 — 豆包对话增强 Chrome 插件 - [更多介绍](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%E8%B6%85%E7%BA%A7%E5%8A%A9%E6%89%8B/ehjaeofaphienmmldokgaagbdmcjpaag/)
 
+#### ylv01(深圳) - [Github](https://github.com/ylv01)
+* :white_check_mark: [摸鱼助手](https://github.com/ylv01/WindowDockTool-Windows-Window-Docking-Picture-in-Picture-Helper)：把你想看的视频或小说嵌入工作软件摸鱼的小程序，可快速调整浏览器和桌面窗口的位置、尺寸、置顶与透明度，并自动识别浏览器画中画窗口停靠到屏幕指定位置
+
 ### 2026 年 8 月 9 号添加
 
 #### nekocode(广州) - [Github](https://github.com/nekocode)
