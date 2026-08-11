@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 11 号添加
+
+#### dayphosphor(北京) - [Github](https://github.com/dayphosphor)
+* :white_check_mark: [Fate Mirror](https://fate-mirror.com)：AI 塔罗占卜与自我探索工具，通过抽牌、AI 个性化解读、引导式问题和私人日记，探索爱情、事业、人际关系与重要选择，相比一次性出结果的传统塔罗网站更注重持续反思与记录
+
+#### Albert - [Github](https://github.com/AlbertAZ1992)
+* :white_check_mark: [EveryCityMap](https://everycitymap.com)：在线风格化城市地图设计工具，覆盖全球 500+ 座城市，可切换多种主题，自定义图层、道路、水域、标签与配色，并导出多种尺寸的高清地图
+
 ### 2026 年 8 月 10 号添加
 
 #### 花间魂梦 - [Github](https://github.com/hzy7003-bit)

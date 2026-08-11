@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 8 月 11 号添加
 
+#### shawnxie94 - [Github](https://github.com/shawnxie94/infinitum)
+* :white_check_mark: [Infinitum](https://infinitum.shawnxie.top/)：基于 RSS 的自托管资讯聚合工作台，对日益膨胀的个人信息流进行必要但保守的预处理，提高信息获取效率
+
 #### Liu Zhening - [Github](https://github.com/hypervapor)
 * :white_check_mark: [Riffpad](https://riffpad.ai)：把 Claude Code、Codex 等 AI 编程 agent 加密同步到手机，躺床上也能看进度、一键批准操作、远程补一句新指令；代码和 API key 只留在你电脑上，端到端加密 - [GitHub](https://github.com/riffpad/riffpad)
 
