@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 11 号添加
+
+#### Brycetlm - [Github](https://github.com/Brycetlm)
+* :white_check_mark: [Codex Asset Forge](https://github.com/Brycetlm/codex-asset-forge)：本地优先的 2D 游戏素材批量生成工作台，复用本机 Codex CLI，让游戏项目直接用自然语言或 Markdown 交接素材需求并自动拆成可追踪的批量生图任务；支持按批次生成、逐项审核，并导出含文件路径和语义描述的 JSON，供 Godot、Unity 与后续开发 AI 直接接手 — 开源 macOS App
+
 ### 2026 年 8 月 10 号添加
 
 #### Sameral - [Github](https://github.com/viewer12)
