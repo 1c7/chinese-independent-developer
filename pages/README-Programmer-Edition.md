@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 11 号添加
+
+#### Liu Zhening - [Github](https://github.com/hypervapor)
+* :white_check_mark: [Riffpad](https://riffpad.ai)：把 Claude Code、Codex 等 AI 编程 agent 加密同步到手机，躺床上也能看进度、一键批准操作、远程补一句新指令；代码和 API key 只留在你电脑上，端到端加密 - [GitHub](https://github.com/riffpad/riffpad)
+
 ### 2026 年 8 月 10 号添加
 
 #### Sameral - [Github](https://github.com/viewer12)
