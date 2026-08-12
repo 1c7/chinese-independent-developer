@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 12 号添加
+
+#### Jett Fu(深圳) - [Github](https://github.com/jianjettfu-oss)
+* :white_check_mark: [Global Solo](https://www.globalsolo.global/?utm_source=cnindie&utm_medium=github)：面向非美国居民创业者的美国 LLC 服务对比站，横向比较 43+ 家注册、银行、税务与合规服务商，提供 24 个「国家 × 维度」组合攻略、风险自查、合规日历和成本计算器；界面为英文
+
 ### 2026 年 8 月 11 号添加
 
 #### dayphosphor(北京) - [Github](https://github.com/dayphosphor)

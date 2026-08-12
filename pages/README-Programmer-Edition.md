@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 12 号添加
+
+#### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
+* :white_check_mark: [TANSHIP Template](https://tanship.app?utm_source=github&utm_medium=directory&utm_campaign=backlink)：TanStack Start SaaS 模板，集成身份验证、支付、数据库、邮件和 AI 工作流，基于 Cloudflare Workers 构建，支持中英双语和 34 套主题
+
 ### 2026 年 8 月 11 号添加
 
 #### shawnxie94 - [Github](https://github.com/shawnxie94/infinitum)
