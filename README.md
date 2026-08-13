@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 13 号添加
+
+#### 王冲 - [Github](https://github.com/androidwangchong)
+* :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步，不注册也能先看房里有几个人；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费 10 次拆解 + 公共专注房，Pro 10 美元/月
+
 ### 2026 年 8 月 12 号添加
 
 #### Jett Fu(深圳) - [Github](https://github.com/jianjettfu-oss)
