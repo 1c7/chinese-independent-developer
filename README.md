@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 13 号添加
 
+#### TREAFREE - [Github](https://github.com/TREAFREE)
+* :white_check_mark: [File Island](https://treafree.top/FileIsland/)：原生 macOS 本地媒体转换工具，驻留在 MacBook 刘海区域，支持图片、视频、音频与混合文件夹批量转换，结果可直接拖入访达或聊天应用，文件不上传云端 - [项目与下载](https://github.com/TREAFREE/FileIsland)
+
 #### JeremyGDM - [Github](https://github.com/JeremyGDM)
 * :white_check_mark: [Pixonara](https://pixonara.com)：AI 图片、视频与提示词工作台，集中浏览 GPT Image、Nano Banana、Midjourney、Seedance 等模型的免费提示词，并结合文字或参考图片制作商品视觉、营销素材和短视频
 
