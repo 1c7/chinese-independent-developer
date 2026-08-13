@@ -26,6 +26,14 @@
 
 ### 2026 年 8 月 13 号添加
 
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Pixonara](https://pixonara.com)：AI 图片、视频与提示词工作台，集中浏览 GPT Image、Nano Banana、Midjourney、Seedance 等模型的免费提示词，并结合文字或参考图片制作商品视觉、营销素材和短视频
+
+#### YuuFish(广州) - [Github](https://github.com/YuuFish)
+* :white_check_mark: [Gamepad Tester Pro](https://gamepadtesterpro.org/)：手柄检测与故障排查工具，连接 USB 或蓝牙控制器即可测试按键、摇杆漂移、扳机、死区、轮询率、输入响应和震动
+* :white_check_mark: [Scroll Wheel Test](https://scrollwheeltest.org/)：鼠标滚轮测试工具，可检测上下滚动、滚动方向、响应情况和滚轮输入表现
+* :white_check_mark: [Online Protractor](https://protractoronline.org/)：角度测量工具，可通过屏幕量角器、图片上传和相机辅助测量角度，适合几何学习、物体角度检查和图片角度分析
+
 #### ClauBloom(北京) - [Github](https://github.com/ClauBloom)
 * :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：开源 Chrome 浏览器插件，自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论实时重写为和谐、友善且理性的表达 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
 
