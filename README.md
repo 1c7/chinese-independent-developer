@@ -23,6 +23,10 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 8 月 13 号添加
+
+#### ClauBloom(北京) - [Github](https://github.com/ClauBloom/Kindly-Web)
+* :white_check_mark: [Kindly-Web](https://github.com/ClauBloom/Kindly-Web)：一款开源的 Chrome 浏览器插件。自动扫描评论区（目前已适配 Bilibili），调用大语言模型将带有攻击性、阴阳怪气或负面情绪的评论，实时重写为和谐、友善且理性的表达。 - [更多介绍](https://www.bilibili.com/video/BV17ugj6qEx2)
 
 ### 2026 年 8 月 13 号添加
 
