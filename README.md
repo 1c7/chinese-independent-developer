@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 14 号添加
 
+#### ggb(深圳) - [Github](https://github.com/jiangyifeng96)
+* :white_check_mark: [Background Remover Video](https://backgroundremover.video/)：AI 视频背景移除工具，无需绿幕即可自动分离主体，导出透明 WebM 或纯色背景 MP4，并保留原始音频
+
 #### Eason-87 - [Github](https://github.com/Eason-87)
 * :white_check_mark: [Morse Code Translator](https://morsecodeinterpreters.com)：文本与摩尔斯电码双向转换工具，支持实时高亮、速度调节、手机振动和一键导出音频
 
