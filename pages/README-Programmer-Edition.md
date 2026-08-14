@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 14 号添加
+
+#### jaden-2026 - [Github](https://github.com/jaden-2026)
+* :white_check_mark: [SkillPort AI](https://github.com/jaden-2026/ai-base-saas)：多租户 AI 模型资源管理平台，集中管理模型服务商、模型目录和访问凭证，并通过租户、角色权限、套餐订阅与审计能力提供统一治理
+
 ### 2026 年 8 月 12 号添加
 
 #### pang3fan-creator - [Github](https://github.com/pang3fan-creator)
