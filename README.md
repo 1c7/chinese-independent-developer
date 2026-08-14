@@ -27,9 +27,7 @@
 ### 2026 年 8 月 14 号添加
 
 #### Eason-87 - [Github](https://github.com/Eason-87)
-* :white_check_mark: [Morse Code Translator](https://morsecodeinterpreters.com)：将任何文本翻译为摩尔斯电码或立即将摩尔斯电码解码回文本，具有实时突出显示、可调速度、手机振动和一键音频导出功能。
-
-### 2026 年 8 月 14 号添加
+* :white_check_mark: [Morse Code Translator](https://morsecodeinterpreters.com)：文本与摩尔斯电码双向转换工具，支持实时高亮、速度调节、手机振动和一键导出音频
 
 #### RSSH - [Github](https://github.com/shihuili1218/rssh)
 * :white_check_mark: [RSSH](https://rssh.ofcoder.com)：新一代的SSH客户端，命令块(定义命令输入输出)、AI分析(零服务器cli)、多平台数据同步(零服务器)、Cli-First(提供cli工具，在任意终端使用rssh数据)、动态发现(docker/k8s发现) - [项目与下载](https://github.com/shihuili1218/rssh/releases)
