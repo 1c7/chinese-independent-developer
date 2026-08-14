@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 14 号添加
+
+#### RSSH - [Github](https://github.com/shihuili1218/rssh)
+* :white_check_mark: [RSSH](https://rssh.ofcoder.com)：新一代的SSH客户端，命令块(定义命令输入输出)、AI分析(零服务器cli)、多平台数据同步(零服务器)、Cli-First(提供cli工具，在任意终端使用rssh数据)、动态发现(docker/k8s发现) - [项目与下载](https://github.com/shihuili1218/rssh/releases)
+
 ### 2026 年 8 月 13 号添加
 
 #### TREAFREE - [Github](https://github.com/TREAFREE)
