@@ -1,0 +1,7 @@
+interface:
+  display_name: "收录中国独立开发者项目"
+  short_description: "检查 GitHub 提交并维护中国独立开发者项目列表"
+  default_prompt: "使用 $chinese-indie-dev 检查并处理这个仓库当前待收录的项目。"
+
+policy:
+  allow_implicit_invocation: true
