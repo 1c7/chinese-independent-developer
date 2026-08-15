@@ -26,6 +26,8 @@
 
 ### 2026 年 8 月 15 号添加
 
+#### kugua233 - [Github](https://github.com/kugua233)
+* :white_check_mark: [AiMovieFinder](https://www.aimoviefinder.net)：通过剧情、场景、台词、截图、片段帧、演员或导演线索识别电影，并给出匹配结果。
 #### linuxscreen - [Github](https://github.com/linuxscreen)
 * :white_check_mark: [Duo Translator](https://duotranslator.com/)：AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能 - [项目与下载](https://github.com/linuxscreen/duo-translator)
 
