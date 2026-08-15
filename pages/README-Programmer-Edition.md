@@ -18,6 +18,18 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 8 月 14 号添加
 
+#### 钟智强 - [Github](https://github.com/ctkqiang), [博客](https://ctkqiang.xin)
+* :white_check_mark: [NezhaGuard](https://github.com/ctkqiang/NezhaGuard)：基于 Qt6/C++26 的实时 SIEM 系统，libpcap 抓包 + 日志监控 + 蜜罐三层采集，经协议解码、签名匹配到主动隔离实现网络威胁实时感知与自动阻断 — 支持 GUI、CLI 与 Docker/K8s 部署
+* :white_check_mark: [哪吒网络安全](https://github.com/ctkqiang/nezha_cyber)：DeepSeek 驱动的终端 UI 红队辅助工具，提供流式对话、函数调用工具编排和多智能体会话管理，内置哪吒角色人格与 Claude Code 风格的工具调用确认对话框 — Rust 单二进制
+* :white_check_mark: [小辣椒](https://github.com/ctkqiang/chilli)：Rust + Vue 构建的系统遥测与网络安全监控平台，集成实时进程监控、漏洞扫描、Docker 容器安全管理和数据库 IP 访问审计 — 自带 Web 仪表盘，Docker 一键部署
+* :white_check_mark: [ExploitDB 搜索工具](https://github.com/ctkqiang/exploitdb)：Java 命令行工具，抓取、展示并导出 Exploit-DB 公开漏洞数据，支持自定义爬取页数、中文表格对齐输出、增量更新和 CSV 导出
+* :white_check_mark: [灵取证](https://github.com/ctkqiang/LQZ)：Android 设备数据取证工具，提取通话记录、短信、照片视频、应用数据、WhatsApp 记录和浏览器历史等 14 类数据，面向执法部门与安全调查人员 — 基于 C++，配合 ADB 使用
+* :white_check_mark: [LingFlow](https://github.com/ctkqiang/LingFlow)：基于 WebSocket 的 AI 聊天服务框架，通过 S3 动态技能加载为 LLM 注入可热更新的领域知识，采用事件溯源管理会话生命周期并支持流式响应（思考过程 + 最终回复）— Go 语言，多云部署
+* :white_check_mark: [NezhaCyberMCP](https://github.com/ctkqiang/NezhaCyberMCP)：MCP 服务器，桥接 Claude、Cursor、VS Code Copilot 等 AI 助手与持续更新的 CVE 漏洞数据库，通过 JSON-RPC 2.0 提供漏洞查询工具，支持本地、Lambda 和 SSE 三种运行模式 — Go 语言
+* :white_check_mark: [AWSFinOps](https://github.com/ctkqiang/AWSFinOps)：AWS 云成本优化定时任务引擎，由 EventBridge 按计划触发 Lambda 执行一整套成本治理流程，含预算管理、S3 Glacier 归档和多平台报告广播 — Go 语言，无状态
+* :white_check_mark: [AWSGateKeeper](https://github.com/ctkqiang/AWSGateKeeper)：AWS 安全自动化平台，将 GuardDuty、Inspector、Detective、IAM 和 CloudTrail 统一为事件驱动流水线，支持安全告警多渠道广播和 API 密钥中间件 — Go 语言，MIT 许可证
+* :white_check_mark: [AuthGate](https://github.com/ctkqiang/AuthGate)：多云统一认证网关，单 Go 二进制支持 AWS Lambda、阿里云 FC 和本地三种运行时，共享路由表并零配置切换环境，集成 JWT 密钥管理与端口适配器架构 — Docker 部署
+
 #### jaden-2026 - [Github](https://github.com/jaden-2026)
 * :white_check_mark: [SkillPort AI](https://github.com/jaden-2026/ai-base-saas)：多租户 AI 模型资源管理平台，集中管理模型服务商、模型目录和访问凭证，并通过租户、角色权限、套餐订阅与审计能力提供统一治理
 
