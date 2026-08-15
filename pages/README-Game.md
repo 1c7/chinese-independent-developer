@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 15 号添加
+
+#### terencexu01 - [Github](https://github.com/terencexu01)
+* :white_check_mark: [Wardogs Wiki](https://wardogs.wiki)：WARDOGS 游戏资料站，整理游戏机制、阵营、地图、武器、载具、攻略、更新与交互式对比
+
 ### 2026 年 8 月 8 号添加
 
 #### s87343472 - [Github](https://github.com/s87343472)
