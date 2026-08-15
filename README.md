@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 16 号添加
+
+#### Moresyl - [Github](https://github.com/Moresyl)
+* :white_check_mark: [MetaClean](https://github.com/Moresyl/metaclean)：跨平台本地文件元数据清理工具，支持图片、PDF、Office 和文本文件批量处理，文件不上传云端 - [项目与下载](https://github.com/Moresyl/metaclean/releases/latest)
+
 ### 2026 年 8 月 15 号添加
 
 #### kugua233 - [Github](https://github.com/kugua233)
