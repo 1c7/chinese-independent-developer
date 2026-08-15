@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 15 号添加
+
+#### linuxscreen - [Github](https://github.com/linuxscreen)
+* :white_check_mark: [Duo Translator](https://duotranslator.com/)：AI翻译和写作助手（浏览器插件），支持网页双语翻译、划词翻译、写作增强、YouTube双语字幕等功能 - [项目与下载](https://github.com/linuxscreen/duo-translator)
+
 ### 2026 年 8 月 14 号添加
 
 #### ggb(深圳) - [Github](https://github.com/jiangyifeng96)
