@@ -24,6 +24,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 17 号添加
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [CareerAce](https://careerace.app)：AI 模拟视频面试与求职辅导工具，根据简历与实时回答进行对话提问，并在面试后提供评估报告 — 支持 Web、iOS、Android
+
+#### Imaginify - [Github](https://github.com/Imaginify-ai)
+* :white_check_mark: [Imaginify](https://imaginify.app/)：AI 图像生成与编辑工具，支持文字生图、参考图重绘、局部修改、背景处理和画质增强，提供多种图像模型与最高 4K 输出
+* :white_check_mark: [HomeDesign](https://homedesigns.app/)：AI 空间与家装设计工具，上传房间实拍、建筑外观或户型图，即可预览室内外装修改造效果，并生成 2D 布局、3D 效果图与 360° 全景
+
 ### 2026 年 8 月 16 号添加
 
 #### Moresyl - [Github](https://github.com/Moresyl)
