@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 17 号添加
 
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [democue](https://democue.aizeten.me)：DemoCue 是一款录屏悬浮提纲引导工具，可AI生成讲解提纲，生成悬浮提纲帮你稳定完成教程、Demo 和 技术等偏知识类的分享。
+
 #### iam-tin - [Github](https://github.com/iam-tin)
 * :white_check_mark: [CareerAce](https://careerace.app)：AI 模拟视频面试与求职辅导工具，根据简历与实时回答进行对话提问，并在面试后提供评估报告 — 支持 Web、iOS、Android
 
