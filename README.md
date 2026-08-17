@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 17 号添加
 
+#### zhoujungis(深圳) - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [命理手札](https://destiny-ai.pages.dev/)：AI 免费算命，问名、问时、问色、问运，知你想知，想你所想
+
 #### ximing - [Github](https://github.com/ximing)
 * :white_check_mark: [AIMO](https://aimo.plus/?utm_source=cnindie&utm_medium=github)：AI First 卡片笔记，随手记下想法，语义搜索、关联和复习由系统完成，Docker 一键自托管，支持 Web / macOS / Windows / Android - [源码](https://github.com/ximing/aimo)
 
