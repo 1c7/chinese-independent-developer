@@ -5682,7 +5682,7 @@
 ### 2023年10月11号添加
 ---
 #### codelover - [Github](https://github.com/lovercode)
-* :white_check_mark: [MyServers](https://myservers.codeloverme.cn/)：一个 App 监控管理你所有的服务器以及各种服务端个人应用
+* :white_check_mark: [MyServers](https://myservers.plus/)：iOS 原生服务器运维 App，可集中监控多台服务器，远程管理 Docker、终端与文件、下载器、Proxmox VE 和 FRP 等服务；内置插件市场，并支持借助 Agent Skill 开发自定义插件，把更多服务接入 Dashboard 和原生交互界面
 
 #### sx1989827 - [Github](https://github.com/sx1989827)
 * :x: [Teamlinker](https://team-linker.com/): 团队协作平台。可以联系成员，分配任务，开始会议，安排各项事务，管理文件等。
