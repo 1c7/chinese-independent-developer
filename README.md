@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 17 号添加
 
+#### ximing - [Github](https://github.com/ximing)
+* :white_check_mark: [AIMO](https://aimo.plus/?utm_source=cnindie&utm_medium=github)：AI First 卡片笔记，随手记下想法，语义搜索、关联和复习由系统完成，Docker 一键自托管，支持 Web / macOS / Windows / Android - [源码](https://github.com/ximing/aimo)
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [democue](https://democue.aizeten.me)：DemoCue 是一款录屏悬浮提纲引导工具，可AI生成讲解提纲，生成悬浮提纲帮你稳定完成教程、Demo 和 技术等偏知识类的分享。
 
