@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 17 号添加
 
+#### ChihooZeng - [Github](https://github.com/ChihooZeng)
+* :white_check_mark: [沉淀记 Loamery](https://loamery.com/)：一键保存或提炼 ChatGPT、Claude、Gemini、DeepSeek、豆包、Kimi 中有价值的回答，通过搜索、收藏和项目整理，把零散的 AI 对话沉淀成可长期查找的个人知识库，数据本地优先保存 — 浏览器插件
+
 #### zhoujungis(深圳) - [Github](https://github.com/zhoujungis)
 * :white_check_mark: [命理手札](https://destiny-ai.pages.dev/)：AI 免费算命，问名、问时、问色、问运，知你想知，想你所想
 
