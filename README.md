@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 19 号添加
+
+#### 超能刚哥(长沙) - [Github](https://github.com/margox)
+* :white_check_mark: [TempCanvas](https://tempcanvas.com/)：免费、无需注册的临时在线白板，打开即可快速画图、手写记录和导出 PNG，内容仅保存在浏览器本地
+
 ### 2026 年 8 月 17 号添加
 
 #### ChihooZeng - [Github](https://github.com/ChihooZeng)
