@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 20 号添加
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [MailMergeOnline](https://mailmergeonline.com/)：在线 PDF 批量生成工具，内置证书、合同、工资单、发票等现成模板，导入 Excel/CSV 并映射字段即可批量生成个性化 PDF，数据不出浏览器 — 无需安装
+
 ### 2026 年 8 月 19 号添加
 
 #### 超能刚哥(长沙) - [Github](https://github.com/margox)

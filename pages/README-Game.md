@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 20 号添加
+
+#### zhoujun(深圳) - [Github](https://github.com/zhoujungis), [博客](https://zhoujungis.github.io/)
+* :white_check_mark: [方块世界 3D](https://block-world-3d.pages.dev/)：浏览器版体素沙盒游戏，自由挖掘和放置方块、建造建筑、冶炼、驱动红石电路、与村民互动，云存档自动同步 — 打开浏览器即玩
+
 ### 2026 年 8 月 15 号添加
 
 #### terencexu01 - [Github](https://github.com/terencexu01)
