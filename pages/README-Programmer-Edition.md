@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 20 号添加
+
+#### SandBase - [Github](https://github.com/sandbaseai)
+* :white_check_mark: [SandBase CLI](https://github.com/sandbaseai/cli)：AI Agent 模型工具 CLI，一条命令为 Claude Code、Codex、Cursor 等 25 个客户端安装本地 MCP，发现并调用 2,000+ AI 模型与 API；运行前可查看参数和价格，运行后可追踪成本 — 开源 TypeScript
+
 ### 2026 年 8 月 16 号添加
 
 #### Moresyl - [Github](https://github.com/Moresyl)
