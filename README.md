@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 21 号添加
 
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [Codex Pet Generator](https://codexpetgenerator.com/?utm_source=cnindie&utm_medium=github)：上传一张照片，AI 生成专属动画像素宠物（spritesheet.webp + pet.json），一行命令装进 OpenAI Codex 终端，陪你写代码的像素伙伴
+
 #### 王冲 - [Github](https://github.com/androidwangchong)
 * :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天有固定场次（页面按你所在时区显示下一场几点），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro ¥25/月、¥198/年（中国大陆价，其他地区按当地货币结算）
 
