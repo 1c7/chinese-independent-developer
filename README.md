@@ -32,6 +32,9 @@
 #### Sword - [Github](https://github.com/330132662/douyin)
 * :white_check_mark: [DouYin](https://gitee.com/jeffcat/douyin)：抖音 AI 获客助手，VLM 视觉大模型自动分析视频画面，按关键词条件自动点赞收藏，支持散步模式和评论区意向客户筛选，Android 无障碍服务免 Root 运行
 
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [GetCreditWorth](https://getcreditworth.com)：帮你算清一张 Audible 积分到底值多少钱（$14.95），并按"每小时听书成本"给 300+ 有声书排名，告诉你换哪本最划算、哪本直接买更值；工具型（SaaS + 内容）
+
 ### 2026 年 8 月 20 号添加
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
