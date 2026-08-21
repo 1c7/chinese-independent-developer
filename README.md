@@ -24,11 +24,6 @@
 
 ## 3. 项目列表
 
-### 2026 年 8 月 21 号添加
-
-#### Eternal-Wanderer-Vegetable - [Github](https://github.com/Eternal-Wanderer-Vegetable)
-* :white_check_mark: [Stella_project](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)：Stella是一个QQ 群聊机器人。可完全本地运行，不外传任何聊天内容。依托本地部署小参数大语言模型（SLM）和记忆系统实现长期/短期记忆，拟人化聊天等功能 
-
 ### 2026 年 8 月 20 号添加
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
