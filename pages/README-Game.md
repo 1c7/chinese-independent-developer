@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 8 月 21 号添加
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [YiBoard](https://yiboardgame.com/?utm_source=cnindie&utm_medium=github)：浏览器里直接下的棋类平台，免费对真实 AI 引擎或好友下五子棋，无需账号、无需下载，从「九级」一路升到「九段」的 18 级天梯，中国象棋和围棋也已列入路线图
+
 ### 2026 年 8 月 20 号添加
 
 #### zhoujun(深圳) - [Github](https://github.com/zhoujungis), [博客](https://zhoujungis.github.io/)
