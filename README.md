@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 21 号添加
+
+#### DouYin - [Github](https://github.com/330132662/douyin)
+* :white_check_mark: [DouYin](https://gitee.com/jeffcat/douyin)：抖音 AI 获客助手，VLM 视觉大模型自动分析视频画面，按关键词条件自动点赞收藏，支持散步模式和评论区意向客户筛选，Android 无障碍服务免 Root 运行
+
 ### 2026 年 8 月 20 号添加
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
