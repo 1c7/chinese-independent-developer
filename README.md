@@ -27,13 +27,19 @@
 ### 2026 年 8 月 21 号添加
 
 #### 863683348 - [Github](https://github.com/863683348)
-* :white_check_mark: [Awesome Codex Skin](https://awesomecodexskin.com/?utm_source=cnindie&utm_medium=github)：汇集全网 OpenAI Codex 桌面端与 CLI 皮肤、主题引擎与画廊的中立索引站——按风格（暗夜/霓虹/动漫/复古…）、配色与平台筛选，复制一条命令即可安装；另收录宠物与工作区美化插件，支持 12 种语言
+* :white_check_mark: [DSH Quality](https://dshquality.com)：DeepSeek Harness 插件的质量评分与安全检查平台——独立打分（维护/文档/npm/生态健康）、实时安全警告、A-D 等级，帮你找出值得装的插件，避开踩坑货
+* :white_check_mark: [HǎoWèi 好味](https://haoweirecipes.com)：家常中国菜英文食谱（面向英文世界）——从麻婆豆腐到番茄炒蛋，每道菜提供食材替代方案、中英双语术语与分步状态照片，让你在家也能做出地道中餐
+* :white_check_mark: [Codex Pet Generator](https://codexpetgenerator.com/?utm_source=cnindie&utm_medium=github)：上传一张照片，AI 生成专属动画像素宠物（spritesheet.webp + pet.json），一行命令装进 OpenAI Codex 终端，陪你写代码的像素伙伴
+* :white_check_mark: [Awesome Codex Skin](https://awesomecodexskin.com/?utm_source=cnindie&utm_medium=github)：汇集全网 OpenAI Codex 桌面端与 CLI 皮肤、主题引擎与画廊的中立索引站，按风格（暗夜/霓虹/动漫/复古等）、配色与平台筛选，复制一条命令即可安装，另收录宠物与工作区美化插件，支持 12 种语言
 
 #### 王冲 - [Github](https://github.com/androidwangchong)
 * :white_check_mark: [Dopastep](https://dopastep.com/zh/?utm_source=cnindie&utm_medium=github)：把你一直不想动的那件事拆成小到不用下决心就能开始的第一步，然后进实时专注房和别人按同一节奏做事（body doubling）；不用开摄像头、没有聊天、不用预约配对，专注段与休息段全房同步——Deep Work 房每天有固定场次（页面按你所在时区显示下一场几点），其余房间的 25/5 循环全天在跑，进去就能接上；不注册也能直接拆任务、直接进房坐下；支持 12 种语言（中文含简繁），任务拆解跟随任务本身的语言而非界面语言；免费每月 3 次拆解 + 公共专注房，Pro ¥25/月、¥198/年（中国大陆价，其他地区按当地货币结算）
 
 #### Sword - [Github](https://github.com/330132662/douyin)
 * :white_check_mark: [DouYin](https://gitee.com/jeffcat/douyin)：抖音 AI 获客助手，VLM 视觉大模型自动分析视频画面，按关键词条件自动点赞收藏，支持散步模式和评论区意向客户筛选，Android 无障碍服务免 Root 运行
+
+#### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [GetCreditWorth](https://getcreditworth.com)：帮你算清一张 Audible 积分到底值多少钱（$14.95），并按"每小时听书成本"给 300+ 有声书排名，告诉你换哪本最划算、哪本直接买更值；工具型（SaaS + 内容）
 
 ### 2026 年 8 月 20 号添加
 

@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 8 月 21 号添加
 
+#### ckfanzhe - [Github](https://github.com/ckfanzhe)
+* :white_check_mark: [FlowWeaver](https://github.com/ckfanzhe/FlowWeaver)：基于 Agno 智能体框架的可视化编排工具，画布拖拽搭建流程，支持自然语言创建和编辑工作流，可导出为独立 Python 单文件
+
 #### Eternal-Wanderer-Vegetable - [Github](https://github.com/Eternal-Wanderer-Vegetable)
 * :white_check_mark: [Stella_project](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)：QQ 群聊机器人，完全本地运行、不外传任何聊天内容，依托本地部署的小参数大语言模型（SLM）和记忆系统实现长期/短期记忆与拟人化聊天
 
