@@ -27,6 +27,7 @@
 ### 2026 年 8 月 21 号添加
 
 #### 863683348 - [Github](https://github.com/863683348)
+* :white_check_mark: [DSH Quality](https://dshquality.com)：DeepSeek Harness 插件的质量评分与安全检查平台——独立打分（维护/文档/npm/生态健康）、实时安全警告、A-D 等级，帮你找出值得装的插件，避开踩坑货
 * :white_check_mark: [HǎoWèi 好味](https://haoweirecipes.com)：家常中国菜英文食谱（面向英文世界）——从麻婆豆腐到番茄炒蛋，每道菜提供食材替代方案、中英双语术语与分步状态照片，让你在家也能做出地道中餐
 
 #### 王冲 - [Github](https://github.com/androidwangchong)
