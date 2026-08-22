@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 22 号添加
+
+#### OrcaRouter
+* :white_check_mark: [OrcaRouter](https://www.orcarouter.ai)：OpenAI 兼容 AI 网关，一个 Key 接入 Claude/GPT/Gemini/DeepSeek 等模型，自适应路由 + 自动故障转移 + 推理零加价，同一端点内建 AI Agent 零信任安全（默认拒绝），无需改应用代码
+
 ### 2026 年 8 月 21 号添加
 
 #### ckfanzhe - [Github](https://github.com/ckfanzhe)
