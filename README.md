@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 22 号添加
+
+#### momochoog - [Github](https://github.com/momochoog)
+* :white_check_mark: [AIXiamo](https://www.aixiamo.com/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro 国内充值与订阅代付服务，面向没有海外银行卡的用户，支持支付宝、USDT、订单查询与 7×24 小时客服入口；独立第三方，非 OpenAI 官方 - [公开教程与服务说明](https://github.com/momochoog/gpt-daichong)
+
 ### 2026 年 8 月 21 号添加
 
 #### 863683348 - [Github](https://github.com/863683348)
