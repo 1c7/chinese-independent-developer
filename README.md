@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 22 号添加
+
+#### 33hodl - [Github](https://github.com/33hodl)
+* :white_check_mark: [Hermes Startup](https://hermesstartup.com)：用 Hermes Agent 赚取第一笔真实美元收入的免费实操路径——回答 10 个私人问题，免费获得 3 个与你匹配的商业想法（不承诺收入），可选一次性 US$10 由 Hermes Startup 帮你构建并运行；开源、无订阅、无需注册
+
 ### 2026 年 8 月 21 号添加
 
 #### 863683348 - [Github](https://github.com/863683348)
