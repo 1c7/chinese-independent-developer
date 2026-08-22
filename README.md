@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 22 号添加
 
+#### Samuel-Kuang(广州) - [Github](https://github.com/Samuel-Kuang)
+* :white_check_mark: [SocialEcho](https://www.socialecho.cn/)：面向出海企业和跨境卖家的全社媒 AI 工作台，在一个工作区统一管理 11 个海外社交平台的内容创作与发布、评论私信、社交监听、数据分析和自动化
+
 #### woshiliyana - [Github](https://github.com/woshiliyana)
 * :white_check_mark: [SubtitleGenerator](https://subtitlegenerator.app/)：AI 字幕生成与校对工具，自动标出不确定的词并显示剩余检查数，在同一浏览器工作流里完成生成、校对、整轨翻译、字幕样式和视频导出；无需注册可免费处理最长 10 分钟视频
 
