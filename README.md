@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 22 号添加
 
+#### 郑诚 - [Github](https://github.com/1c7)
+* :white_check_mark: [MaxUsage](https://github.com/1c7/max-usage)：帮助同时订阅多个 AI 编程套餐的用户充分利用每个套餐的额度；根据剩余额度和重置时间推荐当前该用哪个，并在 macOS 菜单栏集中展示所有套餐的用量与重置日期
+
 #### Leochens(北京) - [Github](https://github.com/leochens)
 * :white_check_mark: [贴纸喵MewSticker](http://sticker.guantou.site)：AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG
 
