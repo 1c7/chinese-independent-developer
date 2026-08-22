@@ -29,6 +29,9 @@
 #### woshiliyana - [Github](https://github.com/woshiliyana)
 * :white_check_mark: [SubtitleGenerator](https://subtitlegenerator.app/)：AI 字幕生成与校对工具，自动标出不确定的词并显示剩余检查数，在同一浏览器工作流里完成生成、校对、整轨翻译、字幕样式和视频导出；无需注册可免费处理最长 10 分钟视频
 
+#### 郑诚 - [Github](https://github.com/1c7)
+* :white_check_mark: [MaxUsage](https://github.com/1c7/max-usage/blob/main/README-zh-CN.md)：帮助同时订阅多个 AI 编程套餐的用户充分利用每个套餐的额度；根据剩余额度和重置时间推荐当前该用哪个，并在 macOS 菜单栏集中展示所有套餐的用量与重置日期
+
 #### Leochens(北京) - [Github](https://github.com/leochens)
 * :white_check_mark: [贴纸喵MewSticker](http://sticker.guantou.site)：AI 贴纸生成器，输入文字或上传参考图即可生成单张贴纸、角色三视图及统一风格贴纸合集，支持智能抠图、按主体自动切分、添加白边与涂鸦文字，自由排版并批量导出透明 PNG
 
