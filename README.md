@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 24 号添加
+
+#### Darren(深圳) - [Github](https://github.com/darren562)
+* :white_check_mark: [Froging AI](https://froging.ai)：AI 视频与图片生成平台，在同一工作台调用 Kling 3.0、Veo 3.1、MiniMax H3 等模型将文字或图片转为高清内容，支持免费开始与无水印导出
+
 ### 2026 年 8 月 22 号添加
 
 #### Samuel-Kuang(广州) - [Github](https://github.com/Samuel-Kuang)
