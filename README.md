@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 26 号添加
 
+#### Nitin Gurbani - [Github](https://github.com/Ritavidhata)
+* :white_check_mark: [Formatho](https://formatho.com)：134 个免费开发者工具合集（JSON/YAML/CSV 格式化、JWT 解码、SQL 格式化、哈希生成等），全部浏览器本地处理，无上传无注册，开源（MIT）
+
 #### Jay - [Github](https://github.com/chenminjie24)
 * :white_check_mark: [AI 室内设计](https://ai-room.design/)：上传房间照片生成多种风格的装修设计，装修前即可预览效果
 
