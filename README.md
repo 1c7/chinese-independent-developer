@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 26 号添加
+
+#### Jay - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [AI 室内设计](https://ai-room.design/)：上传房间照片生成多种风格的装修设计，装修前即可预览效果
+
 ### 2026 年 8 月 25 号添加
 
 #### zhoujun(深圳) - [Github](https://github.com/zhoujungis), [博客](https://zhoujungis.github.io/)
