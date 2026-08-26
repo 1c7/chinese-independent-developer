@@ -26,6 +26,15 @@
 
 ### 2026 年 8 月 26 号添加
 
+#### Corey - [Github](https://github.com/iamcorey)
+* :white_check_mark: [Wake](https://github.com/iamcorey/wake)：Coding Agent 本地会话管理器，按 Agent 和项目浏览全部会话，全文搜索命中后直接跳到对应消息，也可回到原项目目录继续会话；支持 Claude Code、Codex、Copilot CLI、Cursor、OpenCode、Kiro、Gemini CLI 等 — 免费开源桌面应用，支持 macOS、Windows、Linux
+
+#### 张波(北京) - [GitHub](https://github.com/Mr-ZhangBo)
+* :white_check_mark: [EasyDown](https://easydown.org/)：粘贴 TikTok、YouTube、Twitter/X、抖音、小红书、哔哩哔哩等公开视频链接即可下载，可选可用格式保存 — 免费在线工具，无需登录或安装软件
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+* :white_check_mark: [EngABC](https://chromewebstore.google.com/detail/nccmmlcobgkhlihlgjmlcdpgiinfhedl)：YouTube 双语字幕精听，支持逐句定位、单句循环和变速播放 — Chrome 插件
+
 #### Dkphhh - [Github](https://github.com/dkphhh)
 * :white_check_mark: [Read PDF Aloud](https://readpdfaloud.com)：在线 PDF 朗读器，也支持 TXT、MD、EPUB、MOBI、AZW3、DOCX 等主流文档格式，支持 120+ 种语言，有 600+ 种音色可以选择
 * :white_check_mark: [Video to Text](https://video2text.net)：在线视频转文字，支持 CSV、TXT、SRT、VTT 四种导出格式，可以附带时间戳和说话人标签，支持 99 种语言，除上传文件外也支持 YouTube、TikTok、Instagram 等社交媒体平台视频链接
