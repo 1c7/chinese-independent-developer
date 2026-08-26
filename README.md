@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 26 号添加
 
+#### Justin Gao - [Github](https://github.com/encyc)
+* :white_check_mark: [灵器AI](https://lingqiai.art)：多 Agent 协作的 AI 长篇小说创作工具，像一间 AI 编辑部：总编 Agent 统筹世界观、人物、大纲、导演、写手、审校 6 位专属 Agent 分工出稿，角色设定与伏笔写入文件式知识库防止幻觉，几十万字连载人物、剧情前后一致，网页打开即用，另有桌面客户端
+
 #### Corey - [Github](https://github.com/iamcorey)
 * :white_check_mark: [Wake](https://github.com/iamcorey/wake)：Coding Agent 本地会话管理器，按 Agent 和项目浏览全部会话，全文搜索命中后直接跳到对应消息，也可回到原项目目录继续会话；支持 Claude Code、Codex、Copilot CLI、Cursor、OpenCode、Kiro、Gemini CLI 等 — 免费开源桌面应用，支持 macOS、Windows、Linux
 
