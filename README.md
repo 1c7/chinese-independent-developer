@@ -27,8 +27,8 @@
 ### 2026 年 8 月 26 号添加
 
 #### Dkphhh - [Github](https://github.com/dkphhh)
-* :white_check_mark: [Read PDF Aloud](https://readpdfaloud.com)：在线 PDF 朗读器，也支持 TXT、MD、EPUB、MOBI、AZW3、DOCX 等主流文档格式，支持 120+ 种语言，有 600+ 种音色可以选择。
-* :white_check_mark: [Video to Text](https://video2text.net)：在线视频转文字，支持 CSV、TXT、SRT、VTT 四种导出格式，可以附带时间戳和说话人标签，支持 99 种语言，除了上传文件，也支持主流 YouTube、TikTok、Instagram 等社交媒体平台的视频链接。
+* :white_check_mark: [Read PDF Aloud](https://readpdfaloud.com)：在线 PDF 朗读器，也支持 TXT、MD、EPUB、MOBI、AZW3、DOCX 等主流文档格式，支持 120+ 种语言，有 600+ 种音色可以选择
+* :white_check_mark: [Video to Text](https://video2text.net)：在线视频转文字，支持 CSV、TXT、SRT、VTT 四种导出格式，可以附带时间戳和说话人标签，支持 99 种语言，除上传文件外也支持 YouTube、TikTok、Instagram 等社交媒体平台视频链接
 
 #### Nitin Gurbani - [Github](https://github.com/Ritavidhata)
 * :white_check_mark: [Formatho](https://formatho.com)：134 个免费开发者工具合集（JSON/YAML/CSV 格式化、JWT 解码、SQL 格式化、哈希生成等），全部浏览器本地处理，无上传无注册，开源（MIT）
