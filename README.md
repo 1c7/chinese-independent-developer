@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 26 号添加
 
+#### Justin Gao - [Github](https://github.com/encyc)
+* :white_check_mark: [灵器AI](https://lingqiai.art)：多 Agent 协作的 AI 长篇小说创作工具，像一间 AI 编辑部：总编 Agent 统筹世界观、人物、大纲、导演、写手、审校 6 位专属 Agent 分工出稿，角色设定与伏笔写入文件式知识库防止幻觉，几十万字连载人物、剧情前后一致，网页打开即用，另有桌面客户端
+
 #### Nitin Gurbani - [Github](https://github.com/Ritavidhata)
 * :white_check_mark: [Formatho](https://formatho.com)：134 个免费开发者工具合集（JSON/YAML/CSV 格式化、JWT 解码、SQL 格式化、哈希生成等），全部浏览器本地处理，无上传无注册，开源（MIT）
 
