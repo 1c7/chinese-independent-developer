@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 27 号添加
+
+#### KiddPhenix - [Github](https://github.com/KiddPhenix)
+* :white_check_mark: [WorkGround2](https://github.com/KiddPhenix/WorkGround2)：本地优先的 AI 工程工作台，一个 Go 二进制同时提供 CLI/TUI 与桌面端，支持 DeepSeek、Anthropic、OpenAI 兼容接口等多模型接入，内置 MCP 工具管理与改动回滚 — MIT 开源，提供 Windows、macOS、Linux 版本
+
 ### 2026 年 8 月 22 号添加
 
 #### OrcaRouter
