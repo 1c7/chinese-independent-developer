@@ -27,10 +27,10 @@
 ### 2026 年 8 月 27 号添加
 
 #### PhilFan - [GitHub](https://github.com/Phil-Fan)
-* :white_check_mark: [Agentero](https://agentero.app/): Agent 友好的文献管理与阅读器，Agent 时代的 Zotero。
+* :white_check_mark: [Agentero](https://agentero.app/)：Agent 友好的文献管理与阅读器，Agent 时代的 Zotero
 
 #### 明大森 - [Github](https://github.com/mingdasen)
-* :white_check_mark: [Vault Keeper](https://github.com/mingdasen/vault-keeper)：Obsidian vault 自动运维插件：定时检测断链、孤儿笔记、空笔记并生成健康报告，只读不改库
+* :white_check_mark: [Vault Keeper](https://github.com/mingdasen/vault-keeper)：定时检测断链、孤儿笔记、空笔记并生成健康报告，只读不改库 — Obsidian vault 自动运维插件
 
 ### 2026 年 8 月 26 号添加
 
