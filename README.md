@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 27 号添加
+
+#### PhilFan - [GitHub](https://github.com/Phil-Fan)
+* :white_check_mark: [Agentero](https://agentero.app/): Agent 友好的文献管理与阅读器，Agent 时代的 Zotero。
+
 ### 2026 年 8 月 26 号添加
 
 #### Justin Gao - [Github](https://github.com/encyc)
