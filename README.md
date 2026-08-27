@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 27 号添加
+
+#### 明大森 - [Github](https://github.com/mingdasen)
+* :white_check_mark: [Vault Keeper](https://github.com/mingdasen/vault-keeper)：Obsidian vault 自动运维插件：定时检测断链、孤儿笔记、空笔记并生成健康报告，只读不改库
+
 ### 2026 年 8 月 26 号添加
 
 #### Justin Gao - [Github](https://github.com/encyc)
