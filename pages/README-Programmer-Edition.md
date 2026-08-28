@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 8 月 28 号添加
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [DSH Meme Hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub-site)：DeepSeek Harness 社区插件导航站的 Nuxt 3 全栈源码，收录 87 个插件、13 个分类、每日 star 排行榜与 Meme Zone 整活分区，中英双语，SSG 静态生成，开放投稿 — [线上站点](https://dsh-meme-hub.cdqyfdbymn.me/)
+
 ### 2026 年 8 月 27 号添加
 
 #### KiddPhenix - [Github](https://github.com/KiddPhenix)
