@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 28 号添加
 
+#### Lisa W (Berlin)
+* :white_check_mark: [bibla](https://bibla.top)：私密 AI 多方调解，加上全员授权后才公开的脱敏纠纷故事，未登录可读全文
+
 #### mikewaynecn - [Github](https://github.com/mikewaynecn-cell)
 * :white_check_mark: [BaziCalculator.ai](https://www.bazicalculator.ai/)：免费在线八字排盘与解读工具，输入出生日期、时间和城市即可生成四柱、日主、五行与十年大运；按出生地真太阳时校正，时辰不详也可生成三柱命盘，无需注册
 * :white_check_mark: [Nail Shapes](https://www.nailshapes.art/)：美甲甲型选择指南，对比杏仁形、椭圆形、棺材形等 8 种甲型的长度、维护难度与视觉效果；回答 3 个问题即可获得适合手型与日常习惯的推荐，无需注册
