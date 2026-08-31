@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 1 日添加
+
+#### LuckyAPI
+* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 接入 OpenAI、Anthropic、Google、xAI 等模型；在支持的场景兼容 OpenAI 与 Anthropic 请求格式，提供实时模型目录、定价和用量查看。
+
 ### 2026 年 8 月 30 号添加
 
 #### 619dev(天津) - [Github](https://github.com/619dev)
