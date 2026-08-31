@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 31 号添加
 
+#### chenchiwei - [Github](https://github.com/chenchiwei)
+* :white_check_mark: [HelloGen](https://hellogen.ai/)：AI 图片和视频生成工作台，图片免费不限量、无水印、可商用，视频按次计费；助手根据需求自动选模型（Seedream、Nano Banana、GPT Image 2、Veo、Kling、Seedance），生成前先报价，失败不扣费
+
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [AniMot](https://animot.app/)：一键让照片跳舞，让宠物跳舞
 
@@ -43,9 +46,6 @@
 
 #### Viki Wu - [Github](https://github.com/wxixuan118-ship-it)
 * :white_check_mark: [FishCare AI](https://www.fishcareai.com/)：观赏鱼饲养指南与免费工具站，买鱼前先查混养兼容性（4000+ 鱼种组合对照页）、鱼缸最小尺寸、水质参数和投喂量，覆盖斗鱼、孔雀鱼、七彩神仙等常见品种，免费无需注册
-
-#### chenchiwei - [Github](https://github.com/chenchiwei)
-* :white_check_mark: [HelloGen](https://hellogen.ai/)：AI 图片和视频生成工作台，图片免费不限量、无水印、可商用，视频按次计费；助手根据需求自动选模型（Seedream、Nano Banana、GPT Image 2、Veo、Kling、Seedance），生成前先报价，失败不扣费
 
 ### 2026 年 8 月 28 号添加
 
