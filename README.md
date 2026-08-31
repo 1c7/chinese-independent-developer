@@ -29,7 +29,7 @@
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [AniMot](https://animot.app/)：一键让照片跳舞，让宠物跳舞
 
-#### leo - 上海
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
 * :white_check_mark: [CardShopDir](https://cardshopdir.com/)：Card Shop Directory — Find Trading Card Shops Near You
 
 
