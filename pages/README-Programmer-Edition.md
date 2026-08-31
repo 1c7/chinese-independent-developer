@@ -1,3 +1,10 @@
+### 2026 年 9 月 1 号添加
+
+
+#### LuckyAPI Team
+* :white_check_mark: [LuckyAPI](https://luckyapi.online/zh-cn)：多模型 AI API 服务，一个 Key 集成文本、图像和视频模型；支持的模型、请求格式兼容性、定价和用量以站内模型目录与文档为准。
+
+
 ## 中国独立开发者项目列表（程序员版）
 
 [主板面点这里](https://github.com/1c7/chinese-independent-developer/)
