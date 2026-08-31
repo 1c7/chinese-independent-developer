@@ -26,6 +26,9 @@
 
 ### 2026 年 8 月 31 号添加
 
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [AniMot](https://animot.app/)：一键让照片跳舞，让宠物跳舞
+
 #### leo - 上海
 * :white_check_mark: [CardShopDir](https://cardshopdir.com/)：Card Shop Directory — Find Trading Card Shops Near You
 
