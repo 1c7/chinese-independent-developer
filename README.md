@@ -24,6 +24,12 @@
 
 ## 3. 项目列表
 
+### 2026 年 8 月 31 号添加
+
+#### leo - 上海
+* :white_check_mark: [CardShopDir](https://cardshopdir.com/)：Card Shop Directory — Find Trading Card Shops Near You
+
+
 ### 2026 年 8 月 30 号添加
 
 #### Hongshiqiang - [Github](https://github.com/Hongshiqiang)
