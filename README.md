@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 1 号添加
+
+#### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
+* :white_check_mark: [Vibe Coding 首切片](https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice)：把小程序、网站、APP 或 AI/API 的模糊需求先拆成一条可运行、可验收的核心流程；公开合成演示与隐私门控受理表可直接查看，需求范围图 ¥99 起
+
 ### 2026 年 8 月 31 号添加
 
 #### chenchiwei - [Github](https://github.com/chenchiwei)
