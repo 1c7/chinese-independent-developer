@@ -29,6 +29,16 @@
 #### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
 * :white_check_mark: [Vibe Coding 首切片](https://dify-feishu-qa-first10.heyhui.chatgpt.site/domestic-dev-first-slice)：把小程序、网站、APP 或 AI/API 的模糊需求先拆成一条可运行、可验收的核心流程；公开合成演示与隐私门控受理表可直接查看，需求范围图 ¥99 起
 
+#### LuKaka - [Github](https://github.com/Masker99)
+* :white_check_mark: [MoveToZero](https://movetozero.site/)：iPhone 久坐提醒 App，定时提醒起身走动，通过步数目标和完成记录帮助安排工作、学习间隙的休息；配套网站 [Stand Up Reminder](https://standupreminder.com/) 提供网页休息计时器和办公提醒指南
+* :white_check_mark: [Chat2Mind](https://chat2mind.site/)：将 ChatGPT 对话或粘贴的文本转成可编辑思维导图，帮助梳理笔记、复习知识和组织内容，支持图片、PDF 和 Markdown 导出
+* :white_check_mark: [BookmarkHell](https://bookmarkhell.com/)：浏览器书签整理工具，导入 Chrome 或 Edge 导出的书签文件，去重、分类，检查和调整后导回浏览器
+* :white_check_mark: [BigWalkTools](https://bigwalktools.com/)：Big Walk 非官方解谜辅助站，根据颜色、物体、声音等线索查找谜题，分层查看提示，并与队友共享探索进度
+* :white_check_mark: [WARDOGS Companion](https://wardogs-game.com/)：WARDOGS 非官方攻略与玩家工具站，汇总游戏资料、PC 配置要求和常见问题，帮助玩家准备游戏和查找攻略
+
+#### pluone(北京) - [Github](https://github.com/pluone/EchoWord)
+* :white_check_mark: [EchoWord](https://chromewebstore.google.com/detail/echoword/ifjpabfblikdkfgchnhdcplgbpjhoila?hl=zh-CN)：查词划词翻译，通过 TTS 朗读单词和例句，在语境中理解发音，帮助程序员、独立开发者和出海从业者告别哑巴英语 — Chrome / Edge 插件
+
 ### 2026 年 8 月 31 号添加
 
 #### chenchiwei - [Github](https://github.com/chenchiwei)
