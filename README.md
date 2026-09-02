@@ -37,6 +37,9 @@
 
 #### Cairne - [Github](https://github.com/cairne)
 * :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
+
+#### Dashu
+* :white_check_mark: [XiuStore](https://store.xiu.ai/en/)：AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口
   
 ### 2026 年 9 月 1 号添加
 
