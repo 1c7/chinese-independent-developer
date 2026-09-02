@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 2 号添加
 
+#### edenSu - [Github](https://github.com/edenSu-git)
+* :white_check_mark: [unblurry](https://unblurry.tools)：AI 照片去模糊工具，处理失焦、抖动与低分辨率造成的画质损失，另有锐化、降噪和老照片修复；免注册免费试 2 次，按次购买 credit，不订阅
+
 #### JeremyGDM - [Github](https://github.com/JeremyGDM)
 * :white_check_mark: [Lunalisa](https://luna-lisa.art)：面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材
 
@@ -37,6 +40,9 @@
 
 #### Cairne - [Github](https://github.com/cairne)
 * :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
+
+#### haihiaen - [Github](https://github.com/haihiaen)
+* :white_check_mark: [PdfCompare](https://pdfcompare.app/)：免费免登录的在线 PDF 对比与文本转换工具，基于浏览器 WebAssembly 纯本地运行，毫秒级词级红绿高亮差异与图纸图层叠图对比，文档数据 100% 零上传云端，零泄露风险 - [开源仓库](https://github.com/haihiaen/pdf-compare)  
 
 #### Dashu
 * :white_check_mark: [XiuStore](https://store.xiu.ai/en/)：AI 订阅和数字服务商城，商品页公开价格、交付方式、有效期、质保和售后，付款后可在订单中找到对应交付入口
