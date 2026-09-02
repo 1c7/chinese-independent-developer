@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 2 号添加
 
+#### edenSu - [Github](https://github.com/edenSu-git)
+* :white_check_mark: [unblurry](https://unblurry.tools)：AI 照片去模糊工具，处理失焦、抖动与低分辨率造成的画质损失，另有锐化、降噪和老照片修复；免注册免费试 2 次，按次购买 credit，不订阅
+
 #### JeremyGDM - [Github](https://github.com/JeremyGDM)
 * :white_check_mark: [Lunalisa](https://luna-lisa.art)：面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材
 
