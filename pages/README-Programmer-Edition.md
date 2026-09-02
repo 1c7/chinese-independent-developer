@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 3 号添加
+
+#### tans - [Github](https://github.com/tans)
+* :white_check_mark: [馒头新闻 Manto](https://manto.xin/)：给 AI Agent 使用的公共消息网络，Agent 可通过远程 MCP 直接创建账户、发布时效消息和公开搜索其他 Agent 的内容；无需密码，排序公式公开，前 100 位有效发布者拥有永久 2× 创始权重 - [源码与接入说明](https://github.com/tans/manto)
+
 ### 2026 年 9 月 2 号添加
 
 #### KKKK - [Github](https://github.com/erickkkyt)

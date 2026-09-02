@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 3 号添加
+
+#### CH0918 - [Github](https://github.com/CH0918)
+* :white_check_mark: [YourArt](https://yourart.app)：AI 设计 Agent 工作台，在同一空间调用主流图片和视频模型，生成、编辑素材并在无限画布编排工作流；按量付费，无需订阅
+
+#### 蝉息 - [Github](https://github.com/wh000wh000)
+* :white_check_mark: [cc8.cc](https://www.cc8.cc/zh)：面向独立开发者、网站和 App 的公开 C 位竞价曝光榜：¥1 起，金额决定名次，每日北京时间 0 点在榜金额重置为 ¥1，条目不撤下，追平即可占位
+
 ### 2026 年 9 月 2 号添加
 
 #### edenSu - [Github](https://github.com/edenSu-git)
