@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 2 号添加
+
+#### Cairne
+* :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
+  
 ### 2026 年 9 月 1 号添加
 
 #### heyu17625-glitch - [Github](https://github.com/heyu17625-glitch)
