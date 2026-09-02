@@ -26,6 +26,12 @@
 
 ### 2026 年 9 月 2 号添加
 
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [BulkCerts](https://bulkcerts.com/)：批量证书生成器，上传 Excel 或 CSV 列表、选择模板，即可为每位收件人生成个性化的 PDF 或 PNG 证书
+
+#### ooklwq(成都) - [Github](https://github.com/ooklwq)
+* :white_check_mark: [StitchCraft](https://crossstitchpatternmaker.app/)：免费在线十字绣图纸生成器，照片拖进浏览器几秒变成可绣的 DMC 图纸，454 色自动匹配色号、算好每种线买几绞，导出 PDF 直接打印；无需注册、照片不上传服务器，可选 AI 重绘，支持中文界面[更多介绍](https://github.com/ooklwq/cross-stitch-pattern-maker)
+
 #### Cairne - [Github](https://github.com/cairne)
 * :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
   
