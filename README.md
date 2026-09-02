@@ -40,6 +40,9 @@
 
 #### Cairne - [Github](https://github.com/cairne)
 * :white_check_mark: [Image3D AI](https://www.aiimageto3d.com/)：AI 图片转 3D 模型平台，集成 Tripo、Meshy、Hunyuan、Pixal3D 等多个 3D 生成模型，并提供 AI 贴图、Retopology、UV 展开和模型组件分离工具，从图片生成到 3D 后处理可在一个平台完成
+
+#### haihiaen - [Github](https://github.com/haihiaen)
+* :white_check_mark: [PdfCompare](https://pdfcompare.app/)：免费免登录的在线 PDF 对比与文本转换工具，基于浏览器 WebAssembly 纯本地运行，毫秒级词级红绿高亮差异与图纸图层叠图对比，文档数据 100% 零上传云端，零泄露风险 - [开源仓库](https://github.com/haihiaen/pdf-compare)  
   
 ### 2026 年 9 月 1 号添加
 
