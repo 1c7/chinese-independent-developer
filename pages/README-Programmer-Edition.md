@@ -24,6 +24,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### 武晓亮 - [Github](https://github.com/wu1064442747)
 * :white_check_mark: [Sub2API](https://sub2api.ai-baby-dance.com/)：AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费
 
+#### Dashu
+* :white_check_mark: [XiuRouter](https://router.xiu.ai/)：多协议模型 API 服务，分别提供 OpenAI Responses/Chat Completions、Anthropic Messages 和 Gemini GenerateContent；支持受限 API Key、Agent/开发工具接入与逐请求用量/费用记录
+
 ### 2026 年 9 月 1 号添加
 
 #### LuckyAPI Team
