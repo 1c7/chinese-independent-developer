@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 2 号添加
 
+#### JeremyGDM - [Github](https://github.com/JeremyGDM)
+* :white_check_mark: [Lunalisa](https://luna-lisa.art)：面向产品团队的 AI 视觉工作台，用提示词和获许可的参考图生成、迭代产品视觉素材
+
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [BulkCerts](https://bulkcerts.com/)：批量证书生成器，上传 Excel 或 CSV 列表、选择模板，即可为每位收件人生成个性化的 PDF 或 PNG 证书
 
