@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 9 月 2 号添加
 
+#### KKKK - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [BeatDesign](https://github.com/BeatAPI/BeatDesign)：开源、本地优先的 AI 媒体创作工作台，把 Canvas、短视频时间线、素材库和 MCP Agent 操作放进同一个本地项目
+
 #### 武晓亮 - [Github](https://github.com/wu1064442747)
 * :white_check_mark: [Sub2API](https://sub2api.ai-baby-dance.com/)：AI API 中转网关，按个人开发者到大规模商业应用的规模提供多档套餐，支持余额和订阅付费
 
