@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 3 号添加
 
+#### Seagnson - [Github](https://github.com/seagnson)
+* :white_check_mark: [RGB TO CMYK](https://rgbtocmyk.net/)：基于印刷行业专业色彩转换引擎设计的 RGB 转 CMYK 在线工具，支持内置及自定义 ICC 配置文件，实现无与伦比的色彩保真度
+
 #### CoderLim(北京) - [Github](https://github.com/CoderLim)
 * :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
 
