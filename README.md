@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 3 号添加
 
+#### CoderLim(北京) - [Github](https://github.com/CoderLim)
+* :white_check_mark: [Video Text Remover](https://videotextremover.org/)：AI-powered tool to erase text, captions, and subtitles from any video
+
 #### dong13 - [Github](https://github.com/dong13yu)
 * :white_check_mark: [PicEditor](https://piceditor.org/)：AI 图片编辑和生成工具，用自然语言换背景、移除物体、修改图片文字或生成新图，首次使用无需注册
 
