@@ -29,6 +29,9 @@
 * :white_check_mark: [DTCwise](https://dtcwise.com/?utm_source=cnindie&utm_medium=github)：DTC/跨境电商独立站卖家的运营工具目录与评测站，数据驱动收录 104 个工具（Sellvia、Mangools、Spocket 等），含对比评分与佣金返利链接，免费无需注册
 * :white_check_mark: [CrossTool](https://crosstool.online/?utm_source=cnindie&utm_medium=github)：跨境卖家本地隐私工具箱，52 个工具 100% 在浏览器内运行（视频压缩、图片转 PDF、成本计算等），零上传零服务器，面向 Amazon/TikTok Shop/Shopify 卖家，免费无需注册
 
+#### coderWenzi - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Gemini Omni](https://geminiomni.video/)：免费生成和编辑视频，保持角色一致性，音频同步
+
 
 ### 2026 年 9 月 4 号添加
 
