@@ -6440,166 +6440,136 @@
 ### 2022年02月15号添加
 ---
 #### zhshch(北京)
-* :x: [NextSSH | SSH工具，不只是命令终端](https://xzhshch.com/)：具有现代化界面与丰富功能的 SSH 连接管理工具 🔧。
+* :x: [NextSSH | SSH工具，不只是命令终端](https://xzhshch.com/)：具有现代化界面与丰富�
 
-### 2022年02月14号添加
----
-#### 胡镇华(广州) - [Github](https://github.com/hzh-cocong), [博客](https://cocong.cn)
-* :x: [SaveTabs - Window & Tab Manager](https://www.cocong.cn/savetabs)：支持一键保存和打开所有网页，提高工作和学习效率。
-
-### 2022年02月06号添加
----
-#### Norton(南京) - [GitHub](https://github.com/jiangdi0924), [bilibili](https://space.bilibili.com/228834724)
-* :white_check_mark: [Castflow](https://apps.apple.com/app/id1572179241)：简单快速的iOS泛用型播客App。
-
-* :white_check_mark: [鲨鱼取图](https://apps.apple.com/app/id1590075896)：N in 1 取图 App，支持多种取图方式，例如：视频取帧，网页长图，文本取图等。
-
-* :white_check_mark: [RSSCube](https://apps.apple.com/app/id1602812291)：全新的 RSS iOS 阅读器，给RSS用户提供一种新的阅读体验。
-
-
-### 2022年1月29号添加
----
-#### 谢宇恒(深圳) - [主页](https://xieyuheng.com), [Github](https://github.com/xieyuheng)
-* :white_check_mark: [只读链接](https://readonly.link)：文档渲染工具，文字创作者的社区。来自书籍与文章的邀请～
-
-#### 洋子(成都) - [Github](https://github.com/purocean), [博客](https://blog-purocean.vercel.app/)
-* :white_check_mark: [Yank Note](https://github.com/purocean/yn)：面向程序员的 Markdown 本地笔记应用，支持代码片段运行、HTML 小工具、多种图表嵌入、历史版本回溯、插件拓展 - [更多介绍](https://blog-purocean.vercel.app/yank-note-01/)
-
-### 2022年1月10号添加
----
-#### JRay0108(济南) - [Github](https://github.com/JRay0108)
-* :white_check_mark: [树影取名](https://github.com/JRay0108/shuying)：从诗经楚辞唐诗宋词等中华典籍中取名的微信小程序，也可查找名字出处及测算姓名运势。
-
-
-### 2021年12月8号添加
----
-#### RyukieSama(广州) - [Github](https://github.com/RyukieSama), [博客](https://ryukiedev.gitbook.io/wiki/)
-* :white_check_mark: [梦见账本](https://apps.apple.com/cn/app/id1498426607)：百变外观，独创智能梦见模式的记账软件
-* :white_check_mark: [隐私访问记录](https://apps.apple.com/cn/app/id1590992377)：系统性分析隐私访问记录，让隐私小偷无处可藏
-
-### 2021年11月16号添加
----
-#### Alecyrus - [GitHub](https://github.com/Alecyrus)
-* :x: [Thorn](https://app.thorn.press)：简单的写作应用，无限丝滑的创作体验 - [更多介绍](https://app.thorn.press/tutorial)
-
-### 2021年10月17号添加
----
-#### lmk123 - [GitHub](https://github.com/lmk123), [博客](https://github.com/lmk123/blog/issues)
-* :white_check_mark: [划词翻译](https://hcfy.app)：跨平台的一站式划词、截图、网页全文、音视频翻译扩展 - [更多介绍](https://hcfy.app/docs/guides/summary/)
-
-### 2021年10月9号添加
----
-#### nojsja(成都) - [Github](https://github.com/nojsja), [博客](https://nojsja.gitee.io/blogs/)
-* :white_check_mark: [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron)：Shadowsocks 跨平台客户端(Ubuntu/Mac x64) - [更多介绍](https://nojsja.gitee.io/blogs/2021/10/04/5384287.html/)
-
-### 2021年8月31号添加
----
-#### Guyskk - [Github](https://github.com/guyskk), [博客](https://blog.guyskk.com/)
-* :white_check_mark: [蚁阅](https://rss.anyant.com/)：让 RSS 更好用，轻松订阅你喜欢的博客和资讯 - [更多介绍](https://github.com/anyant/rssant)
-
-### 2021年7月14号添加
----
-#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
-* :white_check_mark: [Vight Note](https://github.com/SpaceTimee/Vight-Note)：一只轻量级的临时文本处理工具
-
-### 2021年6月28号添加
----
-#### SuperMonster003(北京) - [Github](https://github.com/SuperMonster003/Ant-Forest)
-* :white_check_mark: [Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)：基于 Auto.js 的蚂蚁森林能量自动收取脚本 - [更多介绍](https://github.com/SuperMonster003/Ant-Forest/wiki/%E8%9A%82%E8%9A%81%E6%A3%AE%E6%9E%97-(Ant-Forest))
-
-### 2021年6月17号添加
----
-#### 珒陶(广州) - [Github](https://github.com/chenjt2001), [博客](http://www.chenjt.com/)
-* :white_check_mark: [MindCanvas](http://www.chenjt.com/mindcanvas)：制作思维导图的 UWP 应用
-
-### 2021年6月16号添加
----
-#### seth-shi(西安) - [Github](https://github.com/seth-shi), [博客](http://www.shiguopeng.cn/)
-* :x: [有梦记](https://www.youmengji.zone/)：有梦记让你一目了然你的过往。记住那些不愿忘记的梦!
-
-### 2021年6月14号添加
----
-#### newbe36524(上海) - [Github](https://github.com/newbe36524/Amazing-Favorites)
-* :x: [Amazing-Favorites](https://af.newbe.pro/)：高效管理和搜索浏览器收藏的浏览器扩展。
-
-### 2021年6月11号添加
----
-#### YJ1211 - [Github](https://github.com/guyijie1211)
-* :x: [MixLive](https://live.yj1211.work)：整合国内多个直播平台内容的网站
-
-### 2021年5月14号添加
----
-#### 一粒豆子(深圳)
-* :x: [魔豆车主](https://www.yilidouzi.com)：更适合国人使用的特斯拉车主 App，记录特斯拉车辆行程及充电费用。 - [更多介绍](http://www.yilidouzi.com/)
-
-### 2021年4月9号添加
----
-#### LisenH - [Github](https://github.com/LisenH)
-* :white_check_mark: [网页视频下载](https://m3w.cn/wyspxz)：支持几乎所有网页视频的下载，包括 M3U8
-
-### 2021年4月6号添加
----
-#### zhangyw(北京) - [Github](https://github.com/zhangyingwei)
-* :x: [RSSFlow](http://rss.zhangyingwei.com)：RSS 阅读器（Web 端），以信息流的方式阅读你的订阅信息。
-
-### 2021年3月30号添加
----
-#### sheepzh(深圳) - [Github](https://github.com/sheepzh)
-* :white_check_mark: [Make Zero](https://github.com/sheepzh/make-zero)：快捷易用的文本加解密浏览器扩展。支持手动和自动加解密，自定义密码，密文风格切换 - [更多介绍](https://www.bilibili.com/video/BV1x54y1t7MR)
-* :white_check_mark: [网费很贵](https://github.com/sheepzh/timer)：用于统计上网时间的浏览器扩展。多种统计口径，丰富的图表展示，支持数据导出 - [更多介绍](https://www.douban.com/group/topic/213888429/)
-
-### 2021年2月20号添加
----
-#### secret_C - [Gitee](https://gitee.com/secret_C)
-* :white_check_mark: [secret-performance-desktop](https://gitee.com/SecretOpen/secret-performance-desktop)：让桌面炫酷起来的桌面个性化工具
-
-### 2021年2月14号添加
----
-#### 西格玛(上海) - [Github](https://github.com/SigmaAdrich)
-* :x: [数字水印](http://www.shuiyin.online/)：肉眼不可见的水印 (严格地说来是肉眼不容易分辨的水印，所以比较难以识别出来并去除，减少破坏图片的完整性)
-
-### 2021年1月5号添加
----
-#### 阿树(上海) - [Github](https://github.com/zhishu520)
-* :x: [早晨计划](https://apps.apple.com/cn/app/%E6%97%A9%E6%99%A8%E8%AE%A1%E5%88%92/id1542908683)：帮你早起一小时，规划生活，达成目标的app
-
-### 2021年1月4号添加
----
-#### zhengmingpei(济南市) - [Github](https://github.com/ZhengMingpei)
-* :clock8: [视频进度条生成工具](https://gitee.com/zhengmingpei/VideoProgressBarTool-Windows)：帮助制作视频进度条的辅助小工具(暂时在 Gitee 上) - [更多介绍](https://www.bilibili.com/video/BV1ZA411p7M2/)
-
-
-👉 查看 [2018 年 ~ 2020 年项目列表](./pages/README-2018-2020.md)（因 GitHub 渲染限制单独存档）
-
-
----
-
-## 推荐一些对独立开发者有帮助的网站：
-
-### 英文
-* [Indie Hacker](https://www.indiehackers.com/)
-* [Failory](https://www.failory.com/) - 分享创业失败的故事
-* [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
-* [Awesome Indie](https://github.com/mezod/awesome-indie)
-* [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
-* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
-* [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
-* [Master of Scale](https://mastersofscale.com)
-* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
-
-### 中文
-* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [利器](http://liqi.io/creators/)
-* [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
-* [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
-
-## 值得关注的 Twitter 账号
-* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
-* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
-* [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
-
-
-## 寻找远程工作
-1. [电鸭](https://eleduck.com/)
-1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
-1. [RemoteOK](https://remoteok.io/)
+## 🌐 Web Resources & Interactive Index
+- [MOON LEAGUE SPORTS SEASON](https://learnquesters.pages.dev/moon-league-sports-season.html)
+- [MINITOSS](https://themindskillplayplay.pages.dev/minitoss.html)
+- [KNIT RESCUE](https://thelearnquesters.pages.dev/knit-rescue.html)
+- [CATEGORY MATH29](https://themindplay.pages.dev/category-math29.html)
+- [INDEX7](https://studyplayings.pages.dev/index7.html)
+- [MERGE HERO SURVIVAL TOWER DEFENSE](https://learnquester.pages.dev/merge-hero-survival-tower-defense.html)
+- [MR RECKLESS CAR CHASE SIMULATOR](https://themindplay.pages.dev/mr-reckless-car-chase-simulator.html)
+- [CATEGORY BATTLESHIP](https://iskillquest.pages.dev/category-battleship.html)
+- [CATEGORY MAHJONG 2](https://thelearnquesters.pages.dev/category-mahjong-2.html)
+- [ROBOTS GONE WILD](https://thelearnquesters.pages.dev/robots-gone-wild.html)
+- [CELEBRITY SPRING FASHION TRENDS](https://studyplayings.web.app/celebrity-spring-fashion-trends.html)
+- [STICKMAN RAGDOLL PLAYGROUND](https://learnquesters.pages.dev/stickman-ragdoll-playground.html)
+- [CYBER MONDAY](https://thelearnquesters.pages.dev/cyber-monday.html)
+- [FUNNY BALLS 2048](https://themindplays.pages.dev/funny-balls-2048.html)
+- [WORLDCRAFT 3](https://thelearnquesters.pages.dev/worldcraft-3.html)
+- [CODE MAZE](https://learnquesters.pages.dev/code-maze.html)
+- [CATEGORY SHOOTER 2](https://learnquesters.pages.dev/category-shooter-2.html)
+- [FRUIT JAM](https://learnquester.pages.dev/fruit-jam.html)
+- [RELAY RACE](https://themindplay.pages.dev/relay-race.html)
+- [STICKMAN SORT](https://thelearnquester.web.app/stickman-sort.html)
+- [CATEGORY SURVIVAL366](https://themindplaying.web.app/category-survival366.html)
+- [MOUNTAIN BUS DRIVER](https://theskillquest.pages.dev/mountain-bus-driver.html)
+- [CONTAINER SORT PUZZLE](https://thelearnquesters.pages.dev/container-sort-puzzle.html)
+- [WE WILL NOT SURVIVE](https://thelearnquesters.pages.dev/we-will-not-survive.html)
+- [WORLD CUP 2026 SOCCER GAME](https://themindplay.pages.dev/world-cup-2026-soccer-game.html)
+- [PUZZLE BLOCKS FILL IT COMPLETELY](https://studyplayings.web.app/puzzle-blocks-fill-it-completely.html)
+- [GIRLS FUN NAIL SALON](https://themindplaying.web.app/girls-fun-nail-salon.html)
+- [CATEGORY BATTLE ROYALE25](https://studyplayings.web.app/category-battle-royale25.html)
+- [INDEX18](https://themindzone.pages.dev/index18.html)
+- [QUEENS ROYAL SUDOKU PUZZLE](https://thequizzone.pages.dev/queens-royal-sudoku-puzzle.html)
+- [MERGE HOSPITAL](https://iskillquest.pages.dev/merge-hospital.html)
+- [ARCHERS RAGDOLL PHYSICS](https://iskillquest.pages.dev/archers-ragdoll-physics.html)
+- [HIDDEN OBJECTS ISLAND](https://thelearnquester.web.app/hidden-objects-island.html)
+- [MERGE CUBES 2048 3D](https://learnquester.github.io/merge-cubes-2048-3d.html)
+- [SIEGE BREAK](https://iskillquest.pages.dev/siege-break.html)
+- [BLOONS SURVIVALIO](https://thelearnquesters.pages.dev/bloons-survivalio.html)
+- [LAZY DOG](https://themindplaying.web.app/lazy-dog.html)
+- [FIGHT FOR THE TREE](https://themindplay.pages.dev/fight-for-the-tree.html)
+- [PUZZLE SOLITAIRE PICTURE MATCH](https://thelearnquesters.pages.dev/puzzle-solitaire-picture-match.html)
+- [SQUIRREL WITH A GUN](https://learnquester.pages.dev/squirrel-with-a-gun.html)
+- [CRAFTY TOWN MERGE CITY](https://themindplay.pages.dev/crafty-town-merge-city.html)
+- [BUBLIX BUBBLE HIT](https://iskillquest.pages.dev/bublix-bubble-hit.html)
+- [CATEGORY STICKMAN175](https://iskillquest.pages.dev/category-stickman175.html)
+- [ROBOT RUNNER FIGHT](https://themindplaying.web.app/robot-runner-fight.html)
+- [COSMO PUZZLE](https://learnquesters.pages.dev/cosmo-puzzle.html)
+- [SECRET GALAXY MATCH THREE](https://themindplaying.web.app/secret-galaxy-match-three.html)
+- [ARCHER DUNGEON HERO](https://learnquesters.pages.dev/archer-dungeon-hero.html)
+- [BUBBLE FEVER BLAST](https://thequizzone.pages.dev/bubble-fever-blast.html)
+- [CATEGORY MAHJONG 2](https://learnquesters.pages.dev/category-mahjong-2.html)
+- [INDEX40](https://iskillquest.pages.dev/index40.html)
+- [GHOST ESCAPE 3D](https://themindplaying.web.app/ghost-escape-3d.html)
+- [FILL SORT PUZZLE](https://themindplay.pages.dev/fill-sort-puzzle.html)
+- [HAMSTER COMBO IDLE](https://learnquester.github.io/hamster-combo-idle.html)
+- [OBBY RAINBOW TOWER](https://learnquester.pages.dev/obby-rainbow-tower.html)
+- [KNIT BEARS](https://thequizzone.pages.dev/knit-bears.html)
+- [GLITCH](https://themindzone.pages.dev/glitch.html)
+- [CUTE ANIMAL WORLD](https://learnquesters.pages.dev/cute-animal-world.html)
+- [THE SORT AGENCY](https://iskillquest.pages.dev/the-sort-agency.html)
+- [CATEGORY BASKETBALL 2](https://studyplayings.web.app/category-basketball-2.html)
+- [CRAZY BUNNIES](https://learnquester.github.io/crazy-bunnies.html)
+- [INDEX27](https://iskillquest.pages.dev/index27.html)
+- [CATEGORY COOKING](https://thelearnquester.web.app/category-cooking.html)
+- [IDLE CASINO MANAGER TYCOON](https://themindplay.pages.dev/idle-casino-manager-tycoon.html)
+- [CHICKEN WARS MERGE GUNS](https://iskillquest.pages.dev/chicken-wars-merge-guns.html)
+- [SLOPE EMOJI 2](https://themindplaying.web.app/slope-emoji-2.html)
+- [KABOOM MINER](https://themindplay.pages.dev/kaboom-miner.html)
+- [TROLL THE TEACHER](https://learnquesters.pages.dev/troll-the-teacher.html)
+- [TANK BATTLEIO](https://thelearnquesters.pages.dev/tank-battleio.html)
+- [FISH STORY 4](https://themindplay.pages.dev/fish-story-4.html)
+- [JIXORA JIGSAW SOLITAIRE PUZZLE](https://thelearnquesters.pages.dev/jixora-jigsaw-solitaire-puzzle.html)
+- [STICKHOLEIO](https://theskillquest.pages.dev/stickholeio.html)
+- [THE EARTH EVOLUTION](https://studyplayings.web.app/the-earth-evolution.html)
+- [SQUID CHALLENGE PLAY TO SURVIVE](https://thelearnquesters.pages.dev/squid-challenge-play-to-survive.html)
+- [KIOMET COM](https://themindplaying.web.app/kiomet-com.html)
+- [DARK STONES CARD BATTLE RPG](https://themindplaying.web.app/dark-stones-card-battle-rpg.html)
+- [MERGE TOWN](https://themindplaying.web.app/merge-town.html)
+- [FARM VS ZOMBIES](https://studyplayings.web.app/farm-vs-zombies.html)
+- [DOLPHIN DASH](https://thelearnquesters.pages.dev/dolphin-dash.html)
+- [DREAM ROOM MAKEOVER](https://thelearnquesters.pages.dev/dream-room-makeover.html)
+- [MEOW SLIDE](https://learnquesters.pages.dev/meow-slide.html)
+- [SHIPS 3D IO](https://themindplaying.web.app/ships-3d-io.html)
+- [ELEMENTZ](https://thequizzone.pages.dev/elementz.html)
+- [ULTIMATE ROBO DUEL 3D](https://learnquester.github.io/ultimate-robo-duel-3d.html)
+- [TERMS](https://thelearnquester.web.app/terms.html)
+- [HEXA PUZZLE](https://learnquester.github.io/hexa-puzzle.html)
+- [BLACK CAT STACKING POP](https://themindplaying.web.app/black-cat-stacking-pop.html)
+- [THE WHITE ROOM 4](https://thelearnquesters.pages.dev/the-white-room-4.html)
+- [CATEGORY SURVIVAL366](https://thequizzone.pages.dev/category-survival366.html)
+- [NOOB VS ZOMBIE APOCALYPSE SHOOTING PRO](https://thelearnquester.web.app/noob-vs-zombie-apocalypse-shooting-pro.html)
+- [TAP GO DELUXE](https://themindplay.pages.dev/tap-go-deluxe.html)
+- [CATEGORY STICKMAN175](https://thequizzone.pages.dev/category-stickman175.html)
+- [SAND BLAST BLOCK GAME](https://learnquesters.pages.dev/sand-blast-block-game.html)
+- [ZENITH RUSH](https://thelearnquesters.pages.dev/zenith-rush.html)
+- [LOL FUNNY DANCE](https://learnquester.github.io/lol-funny-dance.html)
+- [WORDS FROM WORDS](https://thelearnquesters.pages.dev/words-from-words.html)
+- [CATEGORY PREMIUM PERKS74](https://theskillquest.pages.dev/category-premium-perks74.html)
+- [COP RUN 3D](https://theskillquest.pages.dev/cop-run-3d.html)
+- [DOOMSDAY SURVIVAL RPG SHOOTER](https://thequizzone.pages.dev/doomsday-survival-rpg-shooter.html)
+- [CATEGORY GUN241](https://studyplayings.web.app/category-gun241.html)
+- [HARD ROCK ZOMBIE TRUCK](https://themindplay.pages.dev/hard-rock-zombie-truck.html)
+- [PANDA LU TREEHOUSE](https://themindplay.pages.dev/panda-lu-treehouse.html)
+- [PIXEL FUN COLOR BY NUMBER](https://themindzone.pages.dev/pixel-fun-color-by-number.html)
+- [CATEGORY DESTROY256](https://learnquesters.pages.dev/category-destroy256.html)
+- [SUPERMARKET CASHIER SIMULATOR](https://thequizzone.pages.dev/supermarket-cashier-simulator.html)
+- [BALL MANIA](https://themindplay.pages.dev/ball-mania.html)
+- [ART PUZZLE MASTER](https://themindplay.pages.dev/art-puzzle-master.html)
+- [GEOMETRY VIBES X ARROW](https://studyplayings.web.app/geometry-vibes-x-arrow.html)
+- [MAHJONG RIDDLES EGYPT](https://thequizzone.pages.dev/mahjong-riddles-egypt.html)
+- [CREEPY DRESS UP](https://learnquester.github.io/creepy-dress-up.html)
+- [CIRCLE SHOOTER MASTER](https://themindplaying.web.app/circle-shooter-master.html)
+- [BOUNCING CHICK](https://themindplaying.web.app/bouncing-chick.html)
+- [POPTROPICA](https://learnquester.github.io/poptropica.html)
+- [TINY FOOTBALL CUP 2026](https://learnquester.github.io/tiny-football-cup-2026.html)
+- [CATEGORY SOLITAIRE](https://thequizzone.pages.dev/category-solitaire.html)
+- [STICKMAN DUO ESCAPE THE TOMB](https://themindplay.pages.dev/stickman-duo-escape-the-tomb.html)
+- [RETRO STREET FIGHTER](https://themindplay.pages.dev/retro-street-fighter.html)
+- [CATEGORY CUTE](https://studyplayings.web.app/category-cute.html)
+- [STELLAR GUARDIAN](https://theskillquest.pages.dev/stellar-guardian.html)
+- [SKY MAZE CHALLENGE](https://themindplaying.web.app/sky-maze-challenge.html)
+- [DAY OF ATROCITY](https://themindplaying.web.app/day-of-atrocity.html)
+- [SNAKE CLASSIC](https://thelearnquesters.pages.dev/snake-classic.html)
+- [BADLANDS HERO](https://iskillquest.pages.dev/badlands-hero.html)
+- [BLOCKIBO COLOR BLOCKS](https://themindplay.pages.dev/blockibo-color-blocks.html)
+- [NOOB IN GEOMETRY DASH](https://thelearnquesters.pages.dev/noob-in-geometry-dash.html)
+- [CHRISTMAS BLOCKS SORT](https://learnquester.github.io/christmas-blocks-sort.html)
+- [CATEGORY MAKEUP CATEGORY](https://studyplayings.web.app/category-makeup-category.html)
+- [CATEGORY DRAGON](https://learnquesters.pages.dev/category-dragon.html)
+- [FARM TILES HARVEST](https://themindplay.pages.dev/farm-tiles-harvest.html)
+- [CATEGORY INCREMENTAL](https://thelearnquester.web.app/category-incremental.html)
+- [DAY OF ATROCITY](https://learnquester.github.io/day-of-atrocity.html)
