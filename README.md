@@ -26,6 +26,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 7 号添加
 
+#### emptylower - [Github](https://github.com/emptylower)
+* :white_check_mark: [SeichiGo 圣地巡礼](https://seichigo.com)：动漫圣地巡礼行程规划工具，选作品和天数，AI Agent 生成含交通衔接的逐日路线；全球巡礼地图 5 万+ 点位、1,500+ 作品，简中/繁中/日/英四语
+
 #### 小范(武汉) - [Github](https://github.com/schwenkmurmel17-dotcom)
 * :white_check_mark: [CubistAI](https://cubistai.org/)：AI 图片生成工具，输入文字秒出高清图，集成 Nano Banana 2、Seedream、FLUX.2 等模型，每天有免费额度，另附 AI 头像、卡通化、涂色页、抠图、水印去除等专项工具
 
