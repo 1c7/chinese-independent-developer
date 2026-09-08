@@ -313,6 +313,7 @@
 ### 2026 年 8 月 13 号添加
 
 #### TREAFREE - [Github](https://github.com/TREAFREE)
+* :white_check_mark: [Metrune](https://treafree.github.io/Metrune/)：原生 macOS 专注与开发活动工具，把任务计时、Codex 状态、GitHub 活动和周报收进 Mac 顶部界面，核心记录保存在本地 - [项目与下载](https://github.com/TREAFREE/Metrune)
 * :white_check_mark: [File Island](https://treafree.top/FileIsland/)：原生 macOS 本地媒体转换工具，驻留在 MacBook 刘海区域，支持图片、视频、音频与混合文件夹批量转换，结果可直接拖入访达或聊天应用，文件不上传云端 - [项目与下载](https://github.com/TREAFREE/FileIsland)
 
 #### JeremyGDM - [Github](https://github.com/JeremyGDM)
