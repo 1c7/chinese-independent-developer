@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 8 号添加
+
+#### TeamoRouter
+* :white_check_mark: [TeamoRouter](https://teamorouter.cn)：多模型 AI API 中转网关，GPT-6 Astra / Claude / Gemini 用一个 Key 调用，Codex 和 Claude Code 改 base_url 即用，支持支付宝/微信充值、按量计费 - [Astra + Codex 配置教程](https://teamorouter.cn/blogs/gpt-6-astra-codex-cursor-setup)
+
 ### 2026 年 9 月 6 号添加
 
 #### Tony Chen - [Github](https://github.com/zhiqingchen)
