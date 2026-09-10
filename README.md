@@ -25,6 +25,10 @@
 ## 3. 项目列表
 ### 2026 年 9 月 10 号添加
 
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Art Grid Maker](https://artgridmaker.com/)：面向绘画爱好者和艺术创作者的工具箱，提供网格绘画、透视辅助、参考图处理等实用工具 - [更多介绍](https://artgridmaker.com/tools)
+* :white_check_mark: [TwiFlux](https://twiflux.com/)：Twitter 工具站（免费），下载视频，下载图片，下载推文和线程等等超过 40 个小工具 - [更多介绍](https://twiflux.com/all-tools)
+
 #### RickyLee(深圳) - [Github](https://github.com/LeedwA)
 * :white_check_mark: [PicLocation](https://piclocation.com/?utm_source=zh_github)：AI 照片地理定位工具（免费），上传照片即返回 GPS 坐标、城市和国家，不依赖 EXIF 纯视觉识别，截图和被抹掉元数据的照片也能定位，无需注册
 
