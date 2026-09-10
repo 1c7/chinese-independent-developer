@@ -2,9 +2,9 @@
 聚合所有中国独立开发者的项目
 
 ### 子版面
-- [程序员版面](./pages/README-Programmer-Edition.md)：使用需要命令行或写代码
-- [游戏版面](./pages/README-Game.md)：都是游戏
-- [2018 ~ 2023 年项目列表](./pages/README-Archive.md)：因 GitHub 渲染限制单独存档
+- [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
+- [游戏版面](./.github/pages/README-Game.md)：都是游戏
+- [2018 ~ 2023 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -14,7 +14,7 @@
 （入选标准：必须是网站或App，不能是开发者工具或论坛型网站）
 
 **写好介绍语很重要**：❌ `AI 视频生成工具` → ✅ `无需剪辑经验，3 步生成竖屏短视频`<br/>
-👉 [如何写好一句话产品介绍](./CONTRIBUTING.md)
+👉 [如何写好一句话产品介绍](./.github/CONTRIBUTING.md)
 
 **2. 项目有 3 种状态**
 
@@ -5824,7 +5824,7 @@
 * :x: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
 
 
-## 👉 查看 [2018 年 ~ 2023 年项目列表](./pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+## 👉 查看 [2018 年 ~ 2023 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
 
 ### 基于本列表数据源的产品

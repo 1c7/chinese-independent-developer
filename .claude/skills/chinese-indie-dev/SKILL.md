@@ -83,7 +83,7 @@ gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE
 对每条评论，从内容中提取产品 URL，检查是否已在任意 README 中：
 
 ```bash
-grep -rF "<产品完整URL>" README.md pages/README-Programmer-Edition.md pages/README-Game.md
+grep -rF "<产品完整URL>" README.md .github/pages/README-Programmer-Edition.md .github/pages/README-Game.md
 ```
 
 ⚠️ 去重规则（必须严格遵守）：
@@ -157,7 +157,7 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
   gh pr merge <number> --squash
   ```
   - 合并后同样跑 `wc -c README.md` 容量检查（规则见「通用处理流程」步骤3）：单个 PR 通常只加几百字节一般不会触发，但同一天多个 PR 叠加可能触发阈值
-  - 如果合并成功：在该 PR 发感谢评论，需说清楚收录到了哪个版面（根据 PR 修改的是 README.md / pages/README-Programmer-Edition.md / pages/README-Game.md 中的哪个文件，对应主版面/程序员版面/游戏版面），立即捕获 ID 并 PATCH 去掉署名：
+  - 如果合并成功：在该 PR 发感谢评论，需说清楚收录到了哪个版面（根据 PR 修改的是 README.md / .github/pages/README-Programmer-Edition.md / .github/pages/README-Game.md 中的哪个文件，对应主版面/程序员版面/游戏版面），立即捕获 ID 并 PATCH 去掉署名：
     ```bash
     CLEAN_BODY="@<提交者用户名> 感谢提交，已将你的产品 <产品名> 合并到 <主版面/程序员版面/游戏版面>！"
     PR_COMMENT_RESPONSE=$(gh api repos/1c7/chinese-independent-developer/issues/<number>/comments \
@@ -307,8 +307,8 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 | 类别 | 判断标准 | 目标文件 |
 |------|---------|----------|
 | 主版面 | 打开即用的网站或 App，非游戏 | README.md |
-| 程序员版面 | 需要命令行/写代码/安装依赖 | pages/README-Programmer-Edition.md |
-| 游戏版面 | 任何游戏类产品 | pages/README-Game.md |
+| 程序员版面 | 需要命令行/写代码/安装依赖 | .github/pages/README-Programmer-Edition.md |
+| 游戏版面 | 任何游戏类产品 | .github/pages/README-Game.md |
 | 拒绝 | 论坛、无 URL、垃圾广告、或提交者确凿是老外（见上方「身份判断」） | 不处理 |
 
 ⚠️ 个人博客不算独立"产品"，不作为单独的 `* :white_check_mark: [产品名](url)：...` 条目收录（无论是在评论/Issue 里单独提交，还是和其他产品一起夹带提交）。如果提交内容里包含个人博客链接，按 CONTRIBUTING.md 的模板把它放进作者信息行，写成 `#### 制作者名字(城市) - [Github](url), [博客](博客url)`，不要单独起一行当产品处理。这条同样适用于检查三的 PR：PR 里如果夹带了博客条目，即使 PR 整体因为改了 README 且含产品名+URL 被判定为"有效提交"要合并，合并后仍要单独检查其中每一行是否真的是产品，博客类条目要按上面方式改成作者信息里的链接，不能因为"PR 已经通过整体有效性检查"就跳过逐行审查。
@@ -323,7 +323,7 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 
 ⚠️ **主 README.md 容量检查（每次往 README.md 插入条目后必做）**：GitHub 对 README 渲染有截断限制，官方文档从未写明具体数字；GitHub 支持团队在工单里的答复是「blob 显示限制约 500 KB，超出部分 UI 直接截断」，社区实测约 512 KB（来源：github.com/orgs/community/discussions/23920）。被截断时仓库首页看不到底部内容且**没有任何警告**（历史实测：2026-09-09，README.md 527,086 字节时首页渲染到 2022年7月14号区块中间戛然而止）。处理规则：
 - 每次插入条目后运行 `wc -c README.md`
-- **一旦超过 490,000 字节，立即存档**：把 README.md 项目列表末尾最旧的一个或多个**完整日期区块**（从 `### 某日期添加` 标题行起，到下一个日期标题前的空行为止）整体剪切，插入 `pages/README-Archive.md` 正文的最顶部（紧接其头部 `---` 之后的空行，存档内部保持时间倒序），并同步更新子版面清单和末尾 👉 指引行里的年份范围文字
+- **一旦超过 490,000 字节，立即存档**：把 README.md 项目列表末尾最旧的一个或多个**完整日期区块**（从 `### 某日期添加` 标题行起，到下一个日期标题前的空行为止）整体剪切，插入 `.github/pages/README-Archive.md` 正文的最顶部（紧接其头部 `---` 之后的空行，存档内部保持时间倒序），并同步更新子版面清单和末尾 👉 指引行里的年份范围文字
 - 挪完自查：README.md 回落到 490,000 字节以下；`grep -c "^### " README.md` 的减少数与存档增加数一致
 - 存档按「渲染限制」而不是「年份」拆分，所以**文件名永远不带年份**（README-Archive.md），年份范围只出现在文件标题和链接文字里，每次扩容只改文字，不改文件名
 - 存档文件自身也盯住 `wc -c`：接近 500,000 字节时把较新的一半拆成 README-Archive-2.md（编号拆分时就冻结，之后不再改名）
@@ -333,7 +333,7 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 ```bash
 git checkout master && git pull origin master
 # （用本地编辑工具对各 README 文件做完所有修改）
-git add README.md pages/README-Programmer-Edition.md pages/README-Game.md
+git add README.md .github/pages/README-Programmer-Edition.md .github/pages/README-Game.md
 git commit -m "新增：<项目1名>、<项目2名>、..."
 git push origin master
 ```

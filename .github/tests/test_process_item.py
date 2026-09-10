@@ -7,7 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 
-SCRIPT_PATH = Path(__file__).parents[1] / ".github" / "scripts" / "process_item.py"
+SCRIPT_PATH = Path(__file__).parents[2] / ".github" / "scripts" / "process_item.py"
 
 
 def load_script():
