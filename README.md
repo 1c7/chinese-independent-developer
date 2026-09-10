@@ -25,6 +25,18 @@
 ## 3. 项目列表
 ### 2026 年 9 月 10 号添加
 
+#### RickyLee(深圳) - [Github](https://github.com/LeedwA)
+* :white_check_mark: [PicLocation](https://piclocation.com/?utm_source=zh_github)：AI 照片地理定位工具（免费），上传照片即返回 GPS 坐标、城市和国家，不依赖 EXIF 纯视觉识别，截图和被抹掉元数据的照片也能定位，无需注册
+
+#### Muke - [Github](https://github.com/muke1838-cloud)
+* :white_check_mark: [Find Key & BPM](https://findkeybpm.com/)：浏览器本地估算 MP3/WAV 的调性、Camelot 和 BPM，音频不上传、无需注册
+
+#### superwang - [Github](https://github.com/lincwang123-bot)
+* :white_check_mark: [AIradar · AI 订阅价格雷达](https://airadar.vip/)：AI 订阅比价工具，按产品、交付方式、期限和币种筛选公开报价，支持地区价格参考、目标价与到期提醒 - [使用说明](https://airadar.vip/help/compare-prices)
+
+#### 浅浅海鸥 - [Github](https://github.com/qianqianhaiou)
+* :white_check_mark: [素刀](https://clipknife.cn/)：创作者的生产力工具，素材界的瑞士军刀；用一句话，找回你散落在硬盘里的每一帧灵感
+
 #### 张赛东 - [Github](https://github.com/adong666666)
 * :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI 智能快照：截屏、录屏、录音、OCR 识字和标注，一个 App 完成
 

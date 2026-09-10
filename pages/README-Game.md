@@ -2,6 +2,14 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 10 号添加
+
+#### Felicia - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Narinig Mo Ba? Fan Guide](https://narinigmoba.app/)：Narinig Mo Ba? 在线游玩与独立玩家攻略站（免费），提供安全下载、玩法、流程、剧情解析和移动端状态
+
+#### Kai - [Github](https://github.com/kairye)
+* :white_check_mark: [Concentration Games](https://concentrationgames.online/)：专注力 / 脑力小游戏合集（免费），免注册、免下载，主打 concentration games，含 Schulte 表、Dual N-Back、反应速度测试等工具页
+
 ### 2026 年 9 月 9 号添加
 
 #### pandaupup(广州) - [Github](https://github.com/pandaupup)
