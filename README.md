@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 10 号添加
 
+#### 张赛东 - [Github](https://github.com/adong666666)
+* :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI智能快照:截屏、录屏、录音、OCR 识字和标注，一个 App 高效完成。
+
 #### WXzhongwang - [Github](https://github.com/WXzhongwang)
 * :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
 
