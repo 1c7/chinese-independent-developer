@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 11 号添加
+
+#### C2Anime Team - [Github](https://github.com/codaaiteam)
+* :white_check_mark: [C2Anime](https://c2anime.com/)：AI 动画创作助手（AI Anime Agent），把故事和小说片段变成有对白、有声音的动画短片，无需动画制作经验
+
 ### 2026 年 9 月 10 号添加
 
 #### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
