@@ -28,6 +28,15 @@
 #### 张赛东 - [Github](https://github.com/adong666666)
 * :white_check_mark: [AI 智能快照](https://apps.apple.com/cn/app/ai-smart-snapshot/id6796251282?mt=12)：AI智能快照:截屏、录屏、录音、OCR 识字和标注，一个 App 高效完成。
 
+#### WXzhongwang - [Github](https://github.com/WXzhongwang)
+* :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
+
+#### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
+* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
+
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+* :white_check_mark: [ScribeToAny](https://scribetoany.com)：AI 音视频转录与字幕生成工具，支持说话人识别（区分发言人）、多语言翻译与字级高精度时间戳，长音频高速转文字，一键导出 SRT/VTT/TXT 格式 — 免费试用
+
 ### 2026 年 9 月 9 号添加
 
 #### MuYiBo - [Github](https://github.com/MuYiBo)
