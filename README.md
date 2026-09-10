@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 10 号添加
+
+#### WXzhongwang - [Github](https://github.com/WXzhongwang)
+* :white_check_mark: [OPC 情报站](https://wxzhongwang.github.io/opc-radar/)：一人公司（OPC）资讯聚合站，收录 80 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行，纯静态打开即用，无需注册 - [GitHub 仓库](https://github.com/WXzhongwang/opc-radar)
+
 ### 2026 年 9 月 9 号添加
 
 #### MuYiBo - [Github](https://github.com/MuYiBo)
