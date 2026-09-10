@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 10 号添加
+
+#### 宋永昌(上海) - [Github](https://github.com/yajufurniture-debug)
+* :white_check_mark: [慧报价](https://www.swqifu.com/)：AI 外贸报价工具，产品库一次建好，选品自动按 EXW/FOB/CFR/CIF/DDP 计价（利润率按售价、保险 110% 加成的实务口径），30 秒生成中英双语报价单 PDF，附免费无需注册的报价计算器
+
 ### 2026 年 9 月 9 号添加
 
 #### MuYiBo - [Github](https://github.com/MuYiBo)
