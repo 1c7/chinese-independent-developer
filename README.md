@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 11 号添加
 
+#### LongAotian - [Github](https://github.com/chenchuxin)
+* :white_check_mark: [VoiceCloner](https://voicecloner.org/)：使用自己的声音，将文字转成语音；每天免费额度，不注册也可使用
+
 #### C2Anime Team - [Github](https://github.com/codaaiteam)
 * :white_check_mark: [C2Anime](https://c2anime.com/)：AI 动画创作助手（AI Anime Agent），把故事和小说片段变成有对白、有声音的动画短片，无需动画制作经验
 
