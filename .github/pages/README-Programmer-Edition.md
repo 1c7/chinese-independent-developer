@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 12 号添加
+
+#### muzimu217 - [Github](https://github.com/muzimu217)
+* :white_check_mark: [DeliverKit](https://github.com/muzimu217/DeliverKit)：给 AI Agent 用的交付 MCP，把产品打包成各生态安装包的知识、可评审计划和真实产物串成一条链路——Linux deb/rpm/AppImage 已跑通真实构建和干净容器安装运行验证，Windows/macOS/鸿蒙按契约调度到对应 CI runner 产出；npx -y deliverkit-mcp 一条命令接入 Claude Code、Cursor 等客户端，MIT 开源 TypeScript - [站点与上手](https://muzimu217.github.io/DeliverKit/)
+
 ### 2026 年 9 月 8 号添加
 
 #### yangzhou-chaofan - [Github](https://github.com/yangzhou-chaofan)
