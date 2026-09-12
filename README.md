@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 12 号添加
 
+#### leilosss - [Github](https://github.com/leilosss)
+* :white_check_mark: [Trim 订阅扫雷器](https://leilosss.github.io/)：订阅账单分析工具，导入支付宝/微信账单自动识别自动续费、算出年度订阅支出与可省金额；账单不上传，识别全在浏览器本地完成，免费无需注册
+
 #### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
 * :white_check_mark: [工程数据驾驶舱](http://43.156.229.191:8080/)：工程项目数据驾驶舱，把 SQL、HTTP、JSON 和 WebSocket 数据拖拽编排为可发布、可回滚的大屏，支持实时刷新和只读分享 - [个人作品集](http://43.156.229.191:8080/portfolio/)
 
