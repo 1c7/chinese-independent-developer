@@ -25,6 +25,15 @@
 ## 3. 项目列表
 ### 2026 年 9 月 12 号添加
 
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [1980s AI Photo](https://1980saiphoto.com)：上传一张个人照片，保留面部特征，一键生成逼真的 1980 年代复古肖像；首张可免费生成
+
+#### Ian - [Github](https://github.com/iaminyu)
+* :white_check_mark: [IELTS Writing Practice](https://ieltswritingpractice.app/)：雅思写作练习平台，提供 Task 1 / Task 2 题库、模拟写作、AI 评分与逐句批改反馈
+
+#### wpydcr - [Github](https://github.com/wpydcr)
+* :white_check_mark: [NanoAvatar](https://github.com/wpydcr/NanoAvatar/releases/latest)：Android 数字人应用，用自己的录音在手机上驱动逼真、流畅的数字人，响应快，老款手机也可运行，录音体验可离线使用，无需 API key - [更多介绍](https://github.com/wpydcr/NanoAvatar)
+
 #### breezesamuel - [Github](https://github.com/breezesamuel)
 * :white_check_mark: [神算阁 / Shen Suan Ge](https://breezesamuel.github.io/ssg-sites/zh/)：AI 命理网页应用,塔罗/六爻/梅花/四柱/紫微 15+ 占卜方法,中英多语,纯 HTML 免构建开箱即用,支持 USDC 收款 - [更多介绍](https://github.com/breezesamuel/shenge-app)
 
