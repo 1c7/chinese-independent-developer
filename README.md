@@ -25,6 +25,12 @@
 ## 3. 项目列表
 ### 2026 年 9 月 12 号添加
 
+#### muzimu217 - [Github](https://github.com/muzimu217)
+* :white_check_mark: [UI Design Agent Kit 作品展厅](https://agent.kcos.club/)：AI 设计工作流产出的界面作品展厅，收录 11 个带验收记录的案例，「地铁疾行」3D 跑酷与「积木小工坊」3D 拼搭可以直接上手玩 - [更多介绍](https://github.com/muzimu217/ui-design-agent-kit)
+
+#### yoqu - [Github](https://github.com/yoqu)
+* :white_check_mark: [TokenTracker / 纸账](https://www.yoquai.com/)：Mac 菜单栏 Agent 状态工具与本地用量账本，查看 Claude Code、Codex 等工具的活动，接收受支持 Hook 的完成或待处理提醒，按工具、模型、项目筛选 Token 记录并导出 CSV
+
 #### leilosss - [Github](https://github.com/leilosss)
 * :white_check_mark: [Trim 订阅扫雷器](https://leilosss.github.io/)：订阅账单分析工具，导入支付宝/微信账单自动识别自动续费、算出年度订阅支出与可省金额；账单不上传，识别全在浏览器本地完成，免费无需注册
 
