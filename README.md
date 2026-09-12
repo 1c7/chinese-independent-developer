@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 12 号添加
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [工程数据驾驶舱](http://43.156.229.191:8080/)：工程项目数据驾驶舱，把 SQL、HTTP、JSON 和 WebSocket 数据拖拽编排为可发布、可回滚的大屏，支持实时刷新和只读分享 - [个人作品集](http://43.156.229.191:8080/portfolio/)
+
 ### 2026 年 9 月 11 号添加
 
 #### LongAotian - [Github](https://github.com/chenchuxin)
