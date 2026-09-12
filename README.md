@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 12 号添加
 
+#### breezesamuel - [Github](https://github.com/breezesamuel)
+* :white_check_mark: [神算阁 / Shen Suan Ge](https://breezesamuel.github.io/ssg-sites/zh/)：AI 命理网页应用,塔罗/六爻/梅花/四柱/紫微 15+ 占卜方法,中英多语,纯 HTML 免构建开箱即用,支持 USDC 收款 - [更多介绍](https://github.com/breezesamuel/shenge-app)
+
 #### muzimu217 - [Github](https://github.com/muzimu217)
 * :white_check_mark: [UI Design Agent Kit 作品展厅](https://agent.kcos.club/)：AI 设计工作流产出的界面作品展厅，收录 11 个带验收记录的案例，「地铁疾行」3D 跑酷与「积木小工坊」3D 拼搭可以直接上手玩 - [更多介绍](https://github.com/muzimu217/ui-design-agent-kit)
 
