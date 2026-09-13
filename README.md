@@ -23,6 +23,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 13 号添加
+
+#### SKYCHENV - [Github](https://github.com/SKYCHENV)
+* :white_check_mark: [剪蛋 Jiandan](https://www.jiandan.qd.je/)：Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传 - [更多介绍](https://github.com/SKYCHENV/Jiandan)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [pet memorial portrait](https://aipetmemorialportrait.com/)：宠物纪念海报生成器
+
 ### 2026 年 9 月 12 号添加
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
