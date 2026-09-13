@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 13 号添加
 
+#### Lucas-CX - [Github](https://github.com/Lucas-CX)
+* :white_check_mark: [Image to ASCII](https://imagetoascii.art/)：图片转 ASCII 字符画工具，免费无需注册，图片在浏览器本地处理；可调整字符样式、细节和颜色，复制文本或 Markdown，导出 TXT、PNG、SVG 等格式，用于 README、聊天字符画和复古封面
+
 #### SKYCHENV - [Github](https://github.com/SKYCHENV)
 * :white_check_mark: [剪蛋 Jiandan](https://www.jiandan.qd.je/)：Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传 - [更多介绍](https://github.com/SKYCHENV/Jiandan)
 
