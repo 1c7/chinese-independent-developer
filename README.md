@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 14 号添加
 
+#### fffffrost - [Github](https://github.com/fffffrost)
+* :white_check_mark: [小麦 Mika](https://mktskill.com/)：AI 营销工作台，提交目标和材料，生成竞品研究、内容文稿或执行方案，支持查看进度、修订和导出
+
 #### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
 * :white_check_mark: [Excel 表格工具](http://43.156.229.191:3001/)：浏览器端 Excel/PDF 数据处理工具，上传多个来源后配置字段匹配、预览组合结果并导出新的工作簿 - [GitHub 仓库](https://github.com/WuZhaohui1993/excel-composer-public)
 
