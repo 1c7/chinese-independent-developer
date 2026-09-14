@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 14 号添加
 
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [Excel 表格工具](http://43.156.229.191:3001/)：浏览器端 Excel/PDF 数据处理工具，上传多个来源后配置字段匹配、预览组合结果并导出新的工作簿 - [GitHub 仓库](https://github.com/WuZhaohui1993/excel-composer-public)
+
 #### tidelink88 - [Github](https://github.com/tidelink88)
 * :white_check_mark: [TideLink](https://tidelink.xyz)：已有 OpenAI SDK 代码无需改动，一个 API key 即可调用 GLM/Qwen/DeepSeek/Hunyuan/Doubao 多家国产大模型；网关自动故障转移，免信用卡免费起步 - [更多介绍](https://github.com/tidelink88/tidelink-opensource)
 
