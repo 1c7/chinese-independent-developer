@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 14 号添加
+
+#### tidelink88 - [Github](https://github.com/tidelink88)
+* :white_check_mark: [TideLink](https://tidelink.xyz)：已有 OpenAI SDK 代码无需改动，一个 API key 即可调用 GLM/Qwen/DeepSeek/Hunyuan/Doubao 多家国产大模型；网关自动故障转移，免信用卡免费起步 - [更多介绍](https://github.com/tidelink88/tidelink-opensource)
+
 ### 2026 年 9 月 13 号添加
 
 #### Lucas-CX - [Github](https://github.com/Lucas-CX)
