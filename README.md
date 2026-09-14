@@ -28,6 +28,46 @@
 #### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
 * :white_check_mark: [Excel 表格工具](http://43.156.229.191:3001/)：浏览器端 Excel/PDF 数据处理工具，上传多个来源后配置字段匹配、预览组合结果并导出新的工作簿 - [GitHub 仓库](https://github.com/WuZhaohui1993/excel-composer-public)
 
+#### tidelink88 - [Github](https://github.com/tidelink88)
+* :white_check_mark: [TideLink](https://tidelink.xyz)：已有 OpenAI SDK 代码无需改动，一个 API key 即可调用 GLM/Qwen/DeepSeek/Hunyuan/Doubao 多家国产大模型；网关自动故障转移，免信用卡免费起步 - [更多介绍](https://github.com/tidelink88/tidelink-opensource)
+
+### 2026 年 9 月 13 号添加
+
+#### Lucas-CX - [Github](https://github.com/Lucas-CX)
+* :white_check_mark: [Image to ASCII](https://imagetoascii.art/)：图片转 ASCII 字符画工具，免费无需注册，图片在浏览器本地处理；可调整字符样式、细节和颜色，复制文本或 Markdown，导出 TXT、PNG、SVG 等格式，用于 README、聊天字符画和复古封面
+
+#### SKYCHENV - [Github](https://github.com/SKYCHENV)
+* :white_check_mark: [剪蛋 Jiandan](https://www.jiandan.qd.je/)：Windows 截图导入辅助工具，将剪贴板图片通过 Ctrl+V 送进剪映专业版，减少另存图片和查找文件；首次需邮箱验证码登录，图片本地处理不上传 - [更多介绍](https://github.com/SKYCHENV/Jiandan)
+
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [pet memorial portrait](https://aipetmemorialportrait.com/)：宠物纪念海报生成器
+
+### 2026 年 9 月 12 号添加
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [1980s AI Photo](https://1980saiphoto.com)：上传一张个人照片，保留面部特征，一键生成逼真的 1980 年代复古肖像；首张可免费生成
+
+#### Ian - [Github](https://github.com/iaminyu)
+* :white_check_mark: [IELTS Writing Practice](https://ieltswritingpractice.app/)：雅思写作练习平台，提供 Task 1 / Task 2 题库、模拟写作、AI 评分与逐句批改反馈
+
+#### wpydcr - [Github](https://github.com/wpydcr)
+* :white_check_mark: [NanoAvatar](https://github.com/wpydcr/NanoAvatar/releases/latest)：Android 数字人应用，用自己的录音在手机上驱动逼真、流畅的数字人，响应快，老款手机也可运行，录音体验可离线使用，无需 API key - [更多介绍](https://github.com/wpydcr/NanoAvatar)
+
+#### breezesamuel - [Github](https://github.com/breezesamuel)
+* :white_check_mark: [神算阁 / Shen Suan Ge](https://breezesamuel.github.io/ssg-sites/zh/)：AI 命理网页应用,塔罗/六爻/梅花/四柱/紫微 15+ 占卜方法,中英多语,纯 HTML 免构建开箱即用,支持 USDC 收款 - [更多介绍](https://github.com/breezesamuel/shenge-app)
+
+#### muzimu217 - [Github](https://github.com/muzimu217)
+* :white_check_mark: [UI Design Agent Kit 作品展厅](https://agent.kcos.club/)：AI 设计工作流产出的界面作品展厅，收录 11 个带验收记录的案例，「地铁疾行」3D 跑酷与「积木小工坊」3D 拼搭可以直接上手玩 - [更多介绍](https://github.com/muzimu217/ui-design-agent-kit)
+
+#### yoqu - [Github](https://github.com/yoqu)
+* :white_check_mark: [TokenTracker / 纸账](https://www.yoquai.com/)：Mac 菜单栏 Agent 状态工具与本地用量账本，查看 Claude Code、Codex 等工具的活动，接收受支持 Hook 的完成或待处理提醒，按工具、模型、项目筛选 Token 记录并导出 CSV
+
+#### leilosss - [Github](https://github.com/leilosss)
+* :white_check_mark: [Trim 订阅扫雷器](https://leilosss.github.io/)：订阅账单分析工具，导入支付宝/微信账单自动识别自动续费、算出年度订阅支出与可省金额；账单不上传，识别全在浏览器本地完成，免费无需注册
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [工程数据驾驶舱](http://43.156.229.191:8080/)：工程项目数据驾驶舱，把 SQL、HTTP、JSON 和 WebSocket 数据拖拽编排为可发布、可回滚的大屏，支持实时刷新和只读分享 - [个人作品集](http://43.156.229.191:8080/portfolio/)
+
 ### 2026 年 9 月 11 号添加
 
 #### LongAotian - [Github](https://github.com/chenchuxin)

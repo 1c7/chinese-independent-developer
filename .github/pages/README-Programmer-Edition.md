@@ -16,6 +16,19 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 14 号添加
+
+#### jiangmuran - [Github](https://github.com/jiangmuran)
+* :white_check_mark: [vibepanel](https://github.com/jiangmuran/vibepanel)：自托管的 AI 编程会话面板，在浏览器和手机上同时管理多个 Claude Code / Codex 会话，面板重启或断网时 agent 照样运行
+
+#### juncheng-zheng - [Github](https://github.com/juncheng-zheng)
+* :white_check_mark: [MOVO](https://github.com/himovo/movo)：基于 DeepSeek Harness 构建的自托管企业级 Agent 平台，提供 Web 工作空间、企业知识库、深度研究、内容与文件生成、Skills、MCP、权限治理和 Docker 一键部署 - [官网](https://www.himovo.com)
+
+### 2026 年 9 月 12 号添加
+
+#### muzimu217 - [Github](https://github.com/muzimu217)
+* :white_check_mark: [DeliverKit](https://github.com/muzimu217/DeliverKit)：给 AI Agent 用的交付 MCP，把产品打包成各生态安装包的知识、可评审计划和真实产物串成一条链路——Linux deb/rpm/AppImage 已跑通真实构建和干净容器安装运行验证，Windows/macOS/鸿蒙按契约调度到对应 CI runner 产出；npx -y deliverkit-mcp 一条命令接入 Claude Code、Cursor 等客户端，MIT 开源 TypeScript - [站点与上手](https://muzimu217.github.io/DeliverKit/)
+
 ### 2026 年 9 月 8 号添加
 
 #### yangzhou-chaofan - [Github](https://github.com/yangzhou-chaofan)
