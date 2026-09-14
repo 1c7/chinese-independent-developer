@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 9 月 14 号添加
 
+#### Wujerry - [Github](https://github.com/Wujerry)
+* :white_check_mark: [RepoAtlas](https://github.com/Wujerry/RepoAtlas)：本地优先的 AI 编程项目工作台，把散落的代码仓库、Claude Code / Codex / OpenCode / Cursor 等 8 个 Coding Agent 会话和常用开发任务集中管理；支持跨 Agent 搜索并恢复历史会话、运行构建/测试任务，数据保存在本机 — MIT 开源，提供 Windows 安装包
+
 #### jiangmuran - [Github](https://github.com/jiangmuran)
 * :white_check_mark: [vibepanel](https://github.com/jiangmuran/vibepanel)：自托管的 AI 编程会话面板，在浏览器和手机上同时管理多个 Claude Code / Codex 会话，面板重启或断网时 agent 照样运行
 
