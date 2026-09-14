@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 14 号添加
+
+#### wqnlll - [Github](https://github.com/wqnlll)
+* :white_check_mark: [wqnlll 游戏中心](https://wqnlll.github.io)：免费在线小游戏合集（6 款原创游戏），免注册免下载、浏览器打开即玩，含用打砖块记 222 个英语单词的背单词游戏和红警风格 RTS
+
 ### 2026 年 9 月 10 号添加
 
 #### Felicia - [Github](https://github.com/littlePig-zzf)
