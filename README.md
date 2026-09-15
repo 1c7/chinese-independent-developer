@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 15 号添加
+
+#### 0xhappyboy - [Github](https://github.com/0xhappyboy)
+* :white_check_mark: [hippoxOS](https://hippoxos.vercel.app/)：一款真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)
+
 ### 2026 年 9 月 14 号添加
 
 #### fffffrost - [Github](https://github.com/fffffrost)
