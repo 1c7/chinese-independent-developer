@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 18 号添加
+
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [停一刻](https://calm.tradershelf.com/)：给交易者的三分钟休息站，管不住手的时候按流程走：30 秒安顿 → 60-90 秒小游戏 → 60 秒收尾；十个 30-90 秒小游戏分三类（情绪降温 / 注意力切换 / 规则与冲动，含舒尔特方格、Stroop、Go/No-Go），亏损后想立刻做下一笔时有专门的高风险暂停流程，不显示行情不给建议，记录只存本机，无需注册
+
+
 ### 2026 年 9 月 14 号添加
 
 #### wqnlll - [Github](https://github.com/wqnlll)
