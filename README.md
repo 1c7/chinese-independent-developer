@@ -23,6 +23,14 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 17 号添加
+
+#### Wesley - [Github](https://github.com/westlinkin)
+* :white_check_mark: [PlayIQ](https://theplayiq.com)：用 AI 帮橄榄球教练自动分析比赛录像，识别阵型与跑位，战术板与录像同步播放，自动生成球探报告
+
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [iloveepub](https://iloveepub.com)：浏览器 EPUB 工具（免费），支持压缩、合并、拆分与转换，文件全部在设备本地处理，绝不上传
+
 ### 2026 年 9 月 15 号添加
 
 #### lizhongyue248 - [Github](https://github.com/lizhongyue248)
