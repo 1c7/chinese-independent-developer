@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 17 号添加
+
+#### Qiuner - [Github](https://github.com/Qiuner)
+* :white_check_mark: [Birdview](https://qiuner.github.io/birdview/)：AI 编程 Agent 的架构可视化 Skill，在改代码前生成项目架构图，标出计划触碰的模块、文件及对应源码证据；结果输出为无需部署的独立交互式 HTML，支持 Codex、Claude Code 与 DeepSeek Harness - [源码与安装说明](https://github.com/Qiuner/birdview)
+
 ### 2026 年 9 月 14 号添加
 
 #### Wujerry - [Github](https://github.com/Wujerry)
