@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 9 月 17 号添加
 
+#### Qiuner - [Github](https://github.com/Qiuner)
+* :white_check_mark: [Birdview](https://qiuner.github.io/birdview/)：AI 编程 Agent 的架构可视化 Skill，在改代码前生成项目架构图，标出计划触碰的模块、文件及对应源码证据；结果输出为无需部署的独立交互式 HTML，支持 Codex、Claude Code 与 DeepSeek Harness - [源码与安装说明](https://github.com/Qiuner/birdview)
+
 #### Qiu - [Github](https://github.com/Qiuner)
 * :clock8: [agent-isles](https://github.com/Qiuner/agent-isles)：把 AI 编程 Agent 放进可探索的 3D 小岛，让用户在与居民协作、完成真实项目的过程中，玩着玩着就学会使用 Agent；本地运行，开源，支持自带模型密钥 - [项目介绍](https://qiuner.github.io/agent-isles/)
 
