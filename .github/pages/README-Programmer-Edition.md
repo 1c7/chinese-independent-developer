@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 17 号添加
+
+#### Qiu - [Github](https://github.com/Qiuner)
+* :clock8: [agent-isles](https://github.com/Qiuner/agent-isles)：把 AI 编程 Agent 放进可探索的 3D 小岛，用居民对话、分步教程和自由创作模式陪用户从提出需求走到完成项目；本地运行，开源，支持自带模型密钥 - [项目介绍](https://qiuner.github.io/agent-isles/)
+
 ### 2026 年 9 月 14 号添加
 
 #### Wujerry - [Github](https://github.com/Wujerry)
