@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 17 号添加
 
+#### chyf(广州) - [Github](https://github.com/chyf)
+* :white_check_mark: [人人都是OPC](https://opcwiki.net/)：一人公司（OPC）中文知识库，聚合创业案例、变现教程、工具推荐、政策解读与开源项目
+
 #### Wesley - [Github](https://github.com/westlinkin)
 * :white_check_mark: [PlayIQ](https://theplayiq.com)：用 AI 帮橄榄球教练自动分析比赛录像，识别阵型与跑位，战术板与录像同步播放，自动生成球探报告
 
