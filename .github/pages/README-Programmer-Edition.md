@@ -16,6 +16,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+
+### 2026 年 9 月 18 号添加
+
+#### OrcaReplay 维护者 - [Github](https://github.com/Continuum-AI-Corp)
+* :white_check_mark: [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)：给 AI 编程 Agent 装的「飞行记录仪」，夹在 Agent 和模型厂商之间把提示词、工具调用和原始字节原样录成本地 trace，之后完全离线重放这次运行来复现失败现场，不花一分 token - [安装与使用](https://github.com/Continuum-AI-Corp/OrcaReplay#readme)
+
+
 ### 2026 年 9 月 17 号添加
 
 #### Qiuner - [Github](https://github.com/Qiuner)
