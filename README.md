@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 18 号添加
+
+#### 0xhappyboy - [Github](https://github.com/0xhappyboy)
+* :white_check_mark: [SoulCut](https://soulcut-art.vercel.app/)：一款为每一帧画面注入灵魂的非线性视频编辑系统，免费使用，内置 15 种滤镜、78 种视觉特效、26 种转场，支持多机位渲染与音视频同轨编辑 - [GitHub 仓库](https://github.com/0xhappyboy/SoulCut) - [下载（Windows/macOS/Linux）](https://github.com/0xhappyboy/SoulCut/releases/latest)
+
 ### 2026 年 9 月 17 号添加
 
 #### chyf(广州) - [Github](https://github.com/chyf)

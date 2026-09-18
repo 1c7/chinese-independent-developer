@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 18 号添加
+
+#### LuKaka - [Github](https://github.com/Masker99)
+* :white_check_mark: [Over the Hill Wiki](https://overthehillwiki.com/)：Over the Hill 非官方游戏攻略与资料站，整理游戏玩法、车辆、地图、常见问题和实用指南，方便玩家快速查找相关信息
+* :white_check_mark: [Steal an Egg Predictor](https://stealaneggpredictor.com/)：Steal an Egg 非官方玩家工具与攻略站，提供蛋刷新时间预测、蛋和宠物资料以及相关游戏指南，帮助玩家更方便地查询和规划游戏进度
+
 ### 2026 年 9 月 17 号添加
 
 #### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
