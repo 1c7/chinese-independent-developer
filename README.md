@@ -23,6 +23,18 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 19 号添加
+
+#### Merrick - [Github](https://github.com/shi891018)
+* :white_check_mark: [Unit Converter for Science](https://www.unitconv.top)：面向科研、工程与教育的免费多语言单位换算工具，提供公式、换算因子和逐步推导，覆盖 11 类单位
+
+#### Aiyi - [Github](https://github.com/XQ0820)
+* :white_check_mark: [Color Season AI](https://colorseasonai.com)：AI 个人色彩季型分析工具，上传一张自拍即得 12 季型判定与专属色板，附带发型、发色、妆容试戴和脸型识别，免费无需注册 - [方法说明](https://colorseasonai.com/dashboard) - [Chrome 插件](https://colorseasonai.com/color-season-chrome-extension)
+* :white_check_mark: [Random Animal Generator](https://randomanimalgen.com/)：随机动物混搭生成器，把真实动物的 11 个身体部位随机拼成虚构生物，可锁定喜欢的部位只换其余、按可爱/恐怖/神话等主题预设生成，自动起名并给出 AI 绘画提示词，每天免费 AI 出图，无需注册
+
+#### Jev AI - [Github](https://github.com/weidacn)
+* :white_check_mark: [Jev AI](https://jev-ai.pro)：TypeSafe System One 模型的在线体验，对任意文本提是非题、选择题和评分题，直接返回校准过的概率与置信度，同一模型也可用 API key 调用
+
 ### 2026 年 9 月 18 号添加
 
 #### 0xhappyboy - [Github](https://github.com/0xhappyboy)
