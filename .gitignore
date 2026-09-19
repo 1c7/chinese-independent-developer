@@ -19,3 +19,6 @@ env/
 # IDE
 .vscode/
 .idea/
+
+# WorkBuddy 工作区数据（记忆、临时文件等，不入库）
+.workbuddy/
