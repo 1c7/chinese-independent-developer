@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 19 号添加
 
+#### Jonie - [Github](https://github.com/estromeglovettgen-coder)
+* :white_check_mark: [Musuw](https://musuw.com/zh)：AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)
+
 #### Merrick - [Github](https://github.com/shi891018)
 * :white_check_mark: [Unit Converter for Science](https://www.unitconv.top)：面向科研、工程与教育的免费多语言单位换算工具，提供公式、换算因子和逐步推导，覆盖 11 类单位
 
