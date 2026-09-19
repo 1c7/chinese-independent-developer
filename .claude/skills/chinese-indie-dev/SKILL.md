@@ -269,6 +269,45 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 
 ---
 
+## 补充拒绝类别：非独立开发者产品 / 分销返佣链接
+
+「身份判断」只解决了"是不是中国人"，但本仓库还要求**独立开发者自己的项目**。除了垃圾广告和确凿外国人，以下两类同样拒绝：
+
+**1. 大厂 / 上市公司产品**（不是独立开发者做的）
+判据：产品官网属于某公司，且该公司是上市公司或有规模的团队（如商汤 Seko → `seko.sensetime.com`，官网产品页明确归属商汤科技）。提交者只是推荐，不是作者。
+
+**2. 带分销返佣参数的推广链接**
+判据：落地 URL 里出现渠道追踪参数，例如 `cg_click_id` / `cgv` / `utm_source=cakegrowth_gzh`（cakegrowth 是推广分销平台）、`ref=` / `invite=` / `aff=` 等。说明提交者是在用本列表赚渠道佣金，不是作者推荐自家产品。
+
+**必做的核查动作**（对任何可疑链接，检查一/二/三通用）：光看提交者给的域名不够，短链和渠道域会伪装，必须看**最终落地的 URL**：
+
+```bash
+curl -sL --max-time 20 "<提交者给的URL>" -o /dev/null -w "HTTP:%{http_code} FINAL_URL:%{url_effective}\n"
+curl -sL --max-time 20 "<提交者给的URL>" | grep -oE '<title>[^<]*</title>|og:url[^>]*' | head -5
+```
+
+- `FINAL_URL` 与提交的域名不同 → 是跳转域，看落地域名到底归谁
+- 落地 URL 带上述渠道参数 → 判为返佣推广链接
+- 落地页 title / og:url 暴露的公司名与提交者无关 → 判为大厂产品
+
+⚠️ 这两类都**先查证再下结论**，不要凭域名观感猜。顺手看一眼 `gh api "repos/1c7/chinese-independent-developer/issues?state=all&creator=<username>&per_page=20"`，有推广前科的账号是强信号。
+
+**拒绝后的处理**（与「身份判断」章节一致，用提交者的语言）：
+- 检查一（#160 评论）：不收录，在该评论下发礼貌说明即可
+- 检查二（独立 issue）：礼貌评论后 `gh issue close <number>`
+- 检查三（PR）：礼貌评论后 `gh pr close <number>`
+
+**拒绝评论模板**（中文，只说结论，不罗列证据）：
+```
+@<用户名> 感谢推荐！不过本仓库只收录中国独立开发者自己的项目，<产品名> 是 <公司名> 的产品，暂时不在收录范围内，抱歉。祝 <产品名> 发展顺利！
+```
+POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论，签名不得残留）。
+
+**已确认的先例：**
+- 2026-09-17 Issue #1394「Seko，一款AI短剧平台」（wu1064442747）：`seko.cgref.cn/s/4onyjv2njx` 落到 `seko.sensetime.com/explore?cg_click_id=...&cgv=4onyjv2njx&utm_source=cakegrowth_gzh`，是商汤科技的产品 + cakegrowth 渠道返佣链接；该账号 9/2 的 #1332 也是推广自家 API 中转站（已关闭）→ 拒绝并关闭 issue。
+
+---
+
 ## 通用处理流程（适用于检查一和检查二，且已通过上方「身份判断」）
 
 ### 步骤1：提取信息并格式化
@@ -309,7 +348,7 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 | 主版面 | 打开即用的网站或 App，非游戏 | README.md |
 | 程序员版面 | 需要命令行/写代码/安装依赖 | .github/pages/README-Programmer-Edition.md |
 | 游戏版面 | 任何游戏类产品 | .github/pages/README-Game.md |
-| 拒绝 | 论坛、无 URL、垃圾广告、或提交者确凿是老外（见上方「身份判断」） | 不处理 |
+| 拒绝 | 论坛、无 URL、垃圾广告、提交者确凿是老外（见上方「身份判断」）、或大厂产品/分销返佣链接（见「补充拒绝类别」） | 不处理 |
 
 ⚠️ 个人博客不算独立"产品"，不作为单独的 `* :white_check_mark: [产品名](url)：...` 条目收录（无论是在评论/Issue 里单独提交，还是和其他产品一起夹带提交）。如果提交内容里包含个人博客链接，按 CONTRIBUTING.md 的模板把它放进作者信息行，写成 `#### 制作者名字(城市) - [Github](url), [博客](博客url)`，不要单独起一行当产品处理。这条同样适用于检查三的 PR：PR 里如果夹带了博客条目，即使 PR 整体因为改了 README 且含产品名+URL 被判定为"有效提交"要合并，合并后仍要单独检查其中每一行是否真的是产品，博客类条目要按上面方式改成作者信息里的链接，不能因为"PR 已经通过整体有效性检查"就跳过逐行审查。
 
