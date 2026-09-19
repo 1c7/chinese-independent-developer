@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 9 月 19 号添加
 
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [ImageToImageAI](https://image-to-image-ai.app)：AI 图生图工具，上传图片并用一句话描述修改需求，即可生成产品图、室内设计、人像、贴纸等新图片；支持 GPT Image 2、Nano Banana 2、Nano Banana Pro 模型，中英双语，可免费试用
+
 #### Jonie - [Github](https://github.com/estromeglovettgen-coder)
 * :white_check_mark: [Musuw](https://musuw.com/zh)：AI 知识库，把文档、网页和笔记整理成带引用的问答、Wiki 与知识图谱，方便回到原文核对 - [实际演示](https://musuw.com/zh/guides/citation-checks)
 
