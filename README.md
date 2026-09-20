@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 9 月 20 号添加
+
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [考试培训系统](http://43.156.229.191:9527/)：开源在线考试与培训系统，支持题库管理、固定或随机组卷、在线作答与成绩查询，将课程学习和考试考核集中在同一平台 - [GitHub 仓库](https://github.com/WuZhaohui1993/exam-ruoyi-public)
+
 ### 2026 年 9 月 19 号添加
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
