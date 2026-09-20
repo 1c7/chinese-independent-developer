@@ -35,8 +35,6 @@
 #### DDTer - [Github](https://github.com/DDTer)
 * :white_check_mark: [NeatCompress](https://yasuo.app)：音视频、PDF 和图片的批量压缩工具，用 WebCodecs 硬件加速与 WASM 双引擎在本地处理，文件不上传服务器；支持指定目标大小（微信 25MB/100MB、Discord 10MB/50MB 等）、无损合并、裁剪与转 GIF - [国际站](https://neatcompress.com)
 
-#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
-* :white_check_mark: [考试培训系统](http://43.156.229.191:9527/)：开源在线考试与培训系统，支持题库管理、固定或随机组卷、在线作答与成绩查询，将课程学习和考试考核集中在同一平台 - [GitHub 仓库](https://github.com/WuZhaohui1993/exam-ruoyi-public)
 
 ### 2026 年 9 月 19 号添加
 

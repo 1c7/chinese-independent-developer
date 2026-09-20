@@ -27,6 +27,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### KyroX - [Github](https://github.com/wangxiaosu)
 * :white_check_mark: [Grok Canvas](https://github.com/wangxiaosu/grok-canvas)：图片与视频创作画布，登录自己的 Grok 账号并使用账号额度，连接参考图迭代画面、接着续生成视频，支持多画布管理，作品保存在本机，MIT 开源
 
+#### wuzhaohui - [Github](https://github.com/WuZhaohui1993)
+* :white_check_mark: [考试培训系统](http://43.156.229.191:9527/)：开源在线考试与培训系统，支持题库管理、固定或随机组卷、在线作答与成绩查询，将课程学习和考试考核集中在同一平台，需要自行部署 - [GitHub 仓库](https://github.com/WuZhaohui1993/exam-ruoyi-public)
+
+
 
 
 ### 2026 年 9 月 19 号添加
