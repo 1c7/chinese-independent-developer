@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 20 号添加
+
+#### wizcy - [Github](https://github.com/wizcy)
+* :white_check_mark: [旧境传说](https://backmir.org/)：中文复古单人动作 RPG，提供战士、法师、道士职业、地图探索与 Boss 挑战，可搭配随机装备词缀与套装；Mac/Windows 桌面浏览器游玩，无需注册，进度保存在本机浏览器 - [游戏攻略](https://backmir.org/guide/)
+
 ### 2026 年 9 月 18 号添加
 
 #### LuKaka - [Github](https://github.com/Masker99)

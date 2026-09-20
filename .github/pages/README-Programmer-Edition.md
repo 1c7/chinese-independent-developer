@@ -21,6 +21,13 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### SocAI - [Github](https://github.com/socai-io)
 * :white_check_mark: [Jev Social](https://github.com/socai-io/jev-social)：开源、本地优先的社交媒体研究 Agent；Jev 逐步选择搜索、打开帖子与评论、下载视频等操作，socai CLI 在本机真实 Chrome 中执行，并将 Instagram、TikTok、LinkedIn 证据流式整理为带来源链接的研究报告 - [在线说明与演示](https://socai-io.github.io/jev-social/)
 
+#### noopyjie1 - [Github](https://github.com/noopyjie1)
+* :clock8: [codePro-cli](https://codepro.wiki/)：Codex CLI 桌面工作台，用顶部灵动岛、项目列表和会话卡片整理多个编程会话，官网提供无需登录的网页交互演示
+
+#### KyroX - [Github](https://github.com/wangxiaosu)
+* :white_check_mark: [Grok Canvas](https://github.com/wangxiaosu/grok-canvas)：图片与视频创作画布，登录自己的 Grok 账号并使用账号额度，连接参考图迭代画面、接着续生成视频，支持多画布管理，作品保存在本机，MIT 开源
+
+
 
 ### 2026 年 9 月 19 号添加
 
