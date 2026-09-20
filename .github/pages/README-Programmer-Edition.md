@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 20 号添加
+
+#### SocAI - [Github](https://github.com/socai-io)
+* :white_check_mark: [Jev Social](https://github.com/socai-io/jev-social)：开源、本地优先的社交媒体研究 Agent；Jev 逐步选择搜索、打开帖子与评论、下载视频等操作，socai CLI 在本机真实 Chrome 中执行，并将 Instagram、TikTok、LinkedIn 证据流式整理为带来源链接的研究报告 - [在线说明与演示](https://socai-io.github.io/jev-social/)
+
 
 ### 2026 年 9 月 19 号添加
 
