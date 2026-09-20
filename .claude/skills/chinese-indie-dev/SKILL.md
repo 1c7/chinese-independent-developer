@@ -279,6 +279,14 @@ Thanks for sharing <product>! This repo specifically curates projects made by Ch
 **2. 带分销返佣参数的推广链接**
 判据：落地 URL 里出现渠道追踪参数，例如 `cg_click_id` / `cgv` / `utm_source=cakegrowth_gzh`（cakegrowth 是推广分销平台）、`ref=` / `invite=` / `aff=` 等。说明提交者是在用本列表赚渠道佣金，不是作者推荐自家产品。
 
+**3. 刷量 / 互赞平台（Stars-as-a-Service）**
+判据（命中任一条即可拒绝）：
+- 按 Star / Watch / Fork / 关注数**计价**，卖「积分/点数/套餐」，明码标价（例：`$5 / 20 积分`，每完成一次 Star、Watch 或 Fork 扣 1 积分）
+- 承诺「xx 天不掉赞 / 掉赞返积分」这类**保留率兜底**——正常产品没有这个东西，因为它默认这些互动会被撤回
+- 把互动打包交付：页面上每个仓库的 Star 数和 Watch 数**完全相同**（如 43/43、55/55）。真实仓库这两个数字差一个数量级，相等只可能来自批量任务交付
+
+⚠️ 这类平台会把「我们用真人账号、不用机器人号」写进宣传语来自证清白，还常自称「开发者互助社区」「互赞」「曝光交换」。**用真人账号刷的和用机器人刷的，性质一样**，都是 GitHub Acceptable Use Policies 明令禁止的「inauthentic interactions」「creation of or participation in secondary markets for the proliferation of inauthentic activity」。不要被「真实开发者」「互赞社区」的话术带偏。
+
 **必做的核查动作**（对任何可疑链接，检查一/二/三通用）：光看提交者给的域名不够，短链和渠道域会伪装，必须看**最终落地的 URL**：
 
 ```bash
@@ -305,6 +313,9 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 
 **已确认的先例：**
 - 2026-09-17 Issue #1394「Seko，一款AI短剧平台」（wu1064442747）：`seko.cgref.cn/s/4onyjv2njx` 落到 `seko.sensetime.com/explore?cg_click_id=...&cgv=4onyjv2njx&utm_source=cakegrowth_gzh`，是商汤科技的产品 + cakegrowth 渠道返佣链接；该账号 9/2 的 #1332 也是推广自家 API 中转站（已关闭）→ 拒绝并关闭 issue。
+- 2026-09-20 Issue #1402「GithubStarMate」（adevelle）：`githubstarmate.com/zh-Hans`，页面自述销售推广积分（`$5/20 积分`，Star、Watch、Fork 各扣 1 积分；会员 `$24.90/月 ≈300 Star`；`90 天 Star 保障，掉赞返积分`）。初次运行时误按「能收就收」收进主版面，**同日核实后撤除**。两个实锤：① 站内仓库列表每行 Star 数与 Watch 数完全相等（43/43、14/14、55/55、74/74）；② 抽查 GitHub API，站上标的 Watch 数与实际相差一两个数量级（标 43 Watch 实际 2 个；标 55 Watch 实际 0 个）→ 刷量平台，按类别 3 拒绝。**教训：站点自己写的「互动带有互助激励，不应将这些互动数据等同于独立用户评价」就是自曝，看到这句话直接进 FAIL 分支。**
+
+⚠️ 上面这条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
 
 ---
 

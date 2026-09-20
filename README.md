@@ -29,9 +29,6 @@
 #### monsoonw - [Github](https://github.com/monsoonw)
 * :white_check_mark: [阅古文](https://yueguwen.com)：古籍阅读网站，把注释和译文对照原文逐句排布，并补充必要的历史背景；选中原文或注释可免费调用 AI 翻译与讲解，浏览器打开即用，手机上也能阅读
 
-#### adevelle - [Github](https://github.com/adevelle)
-* :white_check_mark: [GithubStarMate](https://www.githubstarmate.com/zh-Hans)：GitHub 项目展示与开发者互助平台，绑定自己的仓库后可浏览其他开发者的项目，通过 Star、Watch、Fork 参与互助换取曝光，也提供付费推广服务
-
 #### DDTer - [Github](https://github.com/DDTer)
 * :white_check_mark: [NeatCompress](https://yasuo.app)：音视频、PDF 和图片的批量压缩工具，用 WebCodecs 硬件加速与 WASM 双引擎在本地处理，文件不上传服务器；支持指定目标大小（微信 25MB/100MB、Discord 10MB/50MB 等）、无损合并、裁剪与转 GIF - [国际站](https://neatcompress.com)
 
