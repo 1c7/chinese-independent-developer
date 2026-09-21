@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 21 号添加
+
+#### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
+* :white_check_mark: [MelodyTrace](https://melodytrace.com/)：MP3 转 MIDI 工具（免费）：把声音，写成可编辑的音符 - [更多介绍](https://melodytrace.com/zh#features)
+
+#### stormbuf - [Github](https://github.com/stormbuf)
+* :white_check_mark: [拼豆猫师傅-拼豆图纸工坊](https://github.com/user-attachments/assets/bbd960f3-3431-4123-a715-12fb1f29957a)：把照片变成拼豆图纸的微信小程序，自动降色并标出每个格子该用哪个色号，转图在手机本地完成、原图不出设备
+
 ### 2026 年 9 月 20 号添加
 
 #### monsoonw - [Github](https://github.com/monsoonw)
