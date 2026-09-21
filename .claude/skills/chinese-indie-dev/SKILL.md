@@ -52,6 +52,9 @@ description: >
 SINCE=$(date -u -d '72 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-72H +%Y-%m-%dT%H:%M:%SZ)
 
 # 检查一：#160 新评论数
+# 注意：这个数字包含我们自己（1c7/claude[bot]）发的致谢评论，通常明显大于「真正待处理的提交数」。
+# 例：2026-09-21 预检显示 18 条，其中 7 条是自己的致谢、9 条上次运行已处理，实际待处理只有 2 条。
+# 数字偏大是正常的（窗口比运行间隔宽），不必紧张，按下面检查一的逐条去重流程走即可。
 COUNT_COMMENTS=$(gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100" | jq 'length')
 
 # 检查二：新 Issue 数
