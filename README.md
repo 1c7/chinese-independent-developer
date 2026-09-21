@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 21 号添加
 
+#### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [SummarizeVideoToText](https://summarizevideototext.com/zh)：视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的链接就能拿到带时间戳的章节摘要和完整字幕稿，每句都能点回原视频对应的那一秒，免注册试用 - [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) - [Obsidian 插件](https://summarizevideototext.com/zh/obsidian-plugin)
+
 #### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
 * :white_check_mark: [MelodyTrace](https://melodytrace.com/)：MP3 转 MIDI 工具（免费）：把声音，写成可编辑的音符 - [更多介绍](https://melodytrace.com/zh#features)
 
