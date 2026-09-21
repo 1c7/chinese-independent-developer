@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 21 号添加
 
+#### NPH - [Github](https://github.com/BNHP-creater)
+* :white_check_mark: [MLUE](https://mlue.cn/)：面向多平台创作者的个人主页与工作台，把链接、作品和联系方式整理成一个可分享页面 - [更多介绍](https://mlue.cn/link-in-bio)
+
 #### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
 * :white_check_mark: [MelodyTrace](https://melodytrace.com/)：MP3 转 MIDI 工具（免费）：把声音，写成可编辑的音符 - [更多介绍](https://melodytrace.com/zh#features)
 
