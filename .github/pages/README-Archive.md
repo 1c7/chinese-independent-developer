@@ -1,12 +1,41 @@
-# 2018 年 ~ 2023 年 的项目列表
+# 2018 年 ~ 2024 年 的项目列表
 
-本文件收录 2018 年至 2023 年加入的中国独立开发者项目。
+本文件收录 2018 年至 2024 年加入的中国独立开发者项目。
 
 由于 GitHub 对 README 文件有约 512,000 字节的渲染限制，主 README.md 超出该限制后底部内容无法正常显示，因此将这几年的内容单独抽出，存放于此。
 
 [← 返回主列表](../../README.md)
 
 ---
+
+### 2024年1月20号添加
+
+### 2024年1月18号添加
+#### yesmore(成都) - [Github](https://github.com/yesmore)
+* :white_check_mark: [iconce](https://iconce.com)：SVG 图标生成器
+
+#### ddd702(广州) - [Github](https://github.com/ddd702) ,[博客](https://qtcat.cn)
+* :white_check_mark: [DE好图壁纸](https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png): 分享一些图片，壁纸的小程序
+
+### 2024年1月12号添加
+#### Leo(上海) - [Github](https://github.com/LHRUN/paint-board)
+* :white_check_mark: [Paint Board](https://songlh.top/paint-board/)：功能强大的创意画板，支持多端
+
+### 2024年1月12号添加
+#### 罗伊 - [Twitter](https://twitter.com/LuoSays)
+* :white_check_mark: [EarlyBird](https://earlybird.im)：快速搭建落地页验证产品 idea 的低代码建站工具
+* :white_check_mark: [Jing Bio](https://jingle.bio) - 轻松创建优雅的个人品牌页面
+* :white_check_mark: [HeyForm](https://heyform.net) - 对话式表单
+* :white_check_mark: [TinySnap](https://tinysnap.app) - 截图美化工具
+
+### 2024年1月9号添加
+#### lizhichao - [Github](https://github.com/lizhichao)
+* :white_check_mark: [在线甘特图工具](https://zz-plan.com): 可以在线使用, 也可以私有化部署 - [更多介绍](https://zz-plan.com/share/87f1340286f1343ba5)
+
+### 2024年1月5号添加
+#### peacefullmind - [Github](https://github.com/peacefullmind)
+* :x: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
+
 
 ### 2023年12月31号添加
 ---

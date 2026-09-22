@@ -4,7 +4,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [2018 ~ 2023 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
+- [2018 ~ 2024 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -23,6 +23,20 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
+### 2026 年 9 月 22 号添加
+
+#### tancky777 - [Github](https://github.com/tancky777)
+* :white_check_mark: [Tancky AI](https://tancky.io/)：AI 图片合成与照片融合工具（免费），把多张图片拼合、混合成一张，浏览器打开即用
+
+#### Jammy(上海) - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [What Can Jev Do](https://whatcanjevdo.com/)：Jev 模型的用法与项目收集站，汇总大家用 Jev 做出的实际案例、思路和代码示例
+
+#### jian950718 - [Github](https://github.com/jian950718)
+* :white_check_mark: [听成文 AI](https://tingchengwen.com)：本地运行的音视频转写与摘要工具，粘贴 B 站 / 抖音链接或拖入本地文件，生成带时间轴的文稿、SRT / VTT 字幕和 AI 摘要，支持批量处理与说话人区分，文件和结果都不上传云端 — Windows 桌面软件
+
+#### GK - [Github](https://github.com/Charlielyo)
+* :white_check_mark: [GKMix](https://gkmix.com)：海外 VPS、AI 工具订阅与海外支付的实测指南站，每篇都跑真实数据并公开账单，不适合谁会直接写明
 
 ### 2026 年 9 月 21 号添加
 
@@ -5920,36 +5934,7 @@
 #### Lykin(广州) - [Github](https://github.com/tiny-craft/tiny-rdm)
 * :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
 
-### 2024年1月20号添加
-
-### 2024年1月18号添加
-#### yesmore(成都) - [Github](https://github.com/yesmore)
-* :white_check_mark: [iconce](https://iconce.com)：SVG 图标生成器
-
-#### ddd702(广州) - [Github](https://github.com/ddd702) ,[博客](https://qtcat.cn)
-* :white_check_mark: [DE好图壁纸](https://raw.githubusercontent.com/ddd702/learnfe/main/bovi8x8htx.png): 分享一些图片，壁纸的小程序
-
-### 2024年1月12号添加
-#### Leo(上海) - [Github](https://github.com/LHRUN/paint-board)
-* :white_check_mark: [Paint Board](https://songlh.top/paint-board/)：功能强大的创意画板，支持多端
-
-### 2024年1月12号添加
-#### 罗伊 - [Twitter](https://twitter.com/LuoSays)
-* :white_check_mark: [EarlyBird](https://earlybird.im)：快速搭建落地页验证产品 idea 的低代码建站工具
-* :white_check_mark: [Jing Bio](https://jingle.bio) - 轻松创建优雅的个人品牌页面
-* :white_check_mark: [HeyForm](https://heyform.net) - 对话式表单
-* :white_check_mark: [TinySnap](https://tinysnap.app) - 截图美化工具
-
-### 2024年1月9号添加
-#### lizhichao - [Github](https://github.com/lizhichao)
-* :white_check_mark: [在线甘特图工具](https://zz-plan.com): 可以在线使用, 也可以私有化部署 - [更多介绍](https://zz-plan.com/share/87f1340286f1343ba5)
-
-### 2024年1月5号添加
-#### peacefullmind - [Github](https://github.com/peacefullmind)
-* :x: [易匹配](https://www.yipipei.com/): 面向"表哥表姐"的表格匹配工具, 只需要在网页上点点点, 就可以实现数据匹配, 还可以自定义阈值, 实现模糊匹配.
-
-
-## 👉 查看 [2018 年 ~ 2023 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
 
 ### 基于本列表数据源的产品
