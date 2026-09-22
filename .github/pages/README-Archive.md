@@ -8,6 +8,69 @@
 
 ---
 
+### 2024年3月1号添加
+#### TrumanDu(西安) - [Github](https://github.com/TrumanDu), [博客](http://blog.trumandu.top/)
+* :white_check_mark: [Toolkit](http://toolkit.trumandu.top/)：极简、插件化的工具集！utools 对标开源版
+
+#### morestrive(武汉) - [Github](https://github.com/dromara/yft-design)  
+* :white_check_mark: [yft在线设计](https://yft.design)：基于 canvas 的开源版【稿定设计】。  导入稿定 PDF 模板完美还原，导入PSD，支持导出为图片/PDF/SVG - [更多介绍](https://github.com/dromara/yft-design)
+
+#### meetqy(成都) - [Github](https://github.com/meetqy)
+* :white_check_mark: [aspoem](https://aspoem.com)： 现代化诗词学习网站
+
+#### 菩提尘埃(厦门)
+* :white_check_mark: [奇趣网站](https://qiqu.dreamthere.cn)：奇趣网站是您的在线探索伙伴，提供您没见过的网站，为网站收藏家增添色彩，加入我们，开启您的奇趣探索之旅 - [更多介绍](https://nav.dreamthere.cn/about)
+* :white_check_mark: [创意导航](https://idea.dreamthere.cn)：使用我们的创意导航服务，探索未知的网路世界。我们提供最新，最独特的网站链接，帮助你发现互联网的新领域
+
+#### AtlanticF(成都) - [GitHub](https://github.com/AtlanticF)
+* :white_check_mark: [AI语音记账](https://github.com/AtlanticF/chinese-independent-developer/assets/14820026/83165766-9dca-47fb-a475-49892f1f719c)：(微信小程序) AI语音识别记账
+
+### 2024年2月29号添加
+#### zhenming(上海)
+* :white_check_mark: [xldream](https://www.xldream.com)：免费 AIGC 图片素材网
+
+#### shartoo(上海) - [Github](https://github.com/shartoo), [博客](https://www.zhihu.com/people/xia-zhi-66-34)
+* :white_check_mark: [webhub123](https://www.webhub123.com/#/home/more)：跨站收藏夹，网站收录管理和分享
+
+#### Zoyou(上海)
+* :white_check_mark: [PhotoFun](https://www.photofun.cn/)：📷高效的在线图片编辑压缩处理工具。
+
+### 2024年2月28号添加
+
+#### Qiwei(上海) - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Markdown Sticky Note](https://chrome.google.com/webstore/detail/aiakblgmlabokilgljkglggnpflljdgp) 浏览器插件，可以在任何网页创建 Markdown 便签并保存 - [源代码](https://github.com/qiweiii/markdown-sticky-notes)
+
+#### Fooying(福建) - [Github](https://github.com/fooying),
+* :white_check_mark: [SEC.CAFE安全咖啡](https://sec.cafe)：安全漏洞情报聚合去重、订阅平台
+
+#### AILOOKME (江苏)
+* :white_check_mark: [AI工具箱](https://www.ailookme.com)：人工智能领域工具导航网站
+
+#### 潮汐表表(青岛) - [博客](http://blog.75271.com)
+* :white_check_mark: [潮汐表表](http://images.75271.com/wp-content/uploads/2024/01/2024012208223581.jpg)：看潮汐,查天气就在潮汐表表,出行必备小程序 - [更多介绍](https://blog.75271.com/55685.html)
+
+#### flyun(北京) - [Github](https://github.com/flyun)
+* :white_check_mark: [ChatAir](https://github.com/flyun/chatAir)：OpenAI 和 Gemini 的原生 Android 客户端（开源）
+
+#### Jebberwocky - [Github](https://github.com/jebberwocky)
+* :white_check_mark: [我不会说出去](http://chat.colbt.cc/)：匿名心理咨询/宣泄（和 AI 对话）
+
+
+### 2024年2月25号添加
+#### 刚师傅(长沙) - [Github](https://github.com/margox)
+* :white_check_mark: [简约简历](https://jianli.online)：简历创建工具（简约风格），支持在线预览、评论和生成高清PDF
+* :white_check_mark: [RepicApp](https://repic.cc)：图片压缩工具，支持多种格式的图片，支持压缩前后细节对比
+
+### 2024年2月23号添加
+#### Tans(佛山)
+* :white_check_mark: [Photo Mint](https://github.com/tans/photo-mint.git)：图片批量压缩工具 (基于 Tauri, 开源)
+
+### 2024年2月21号添加
+
+### 2024年2月18号添加
+#### ThinkStu(北京) - [Github](https://github.com/Bistutu)
+* :white_check_mark: [流畅阅读-浏览器翻译插件](https://github.com/Bistutu/FluentRead)：有人工智能翻译引擎的浏览器插件，支持 OpenAI、Gemini、通义千问、文心一言、智谱清言等模型，可以为网站提供更加友好的翻译，让所有人都能拥有母语般的阅读体验。
+
 ### 2024年1月31号添加
 #### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
 * :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出
