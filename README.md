@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 22 号添加
 
+#### magicapple123 - [Github](https://github.com/magicapple123)
+* :white_check_mark: [简历通 ResumeForge](https://magicapple123.github.io/ResumeForge-official/)：本地运行的 AI 求职工作台，简历生成、岗位采集、投递追踪、面试复盘全流程，数据只存本机不上传，Windows 一键启动，开源免费 - [查看仓库](https://github.com/magicapple123/ResumeForge)
+
 #### tancky777 - [Github](https://github.com/tancky777)
 * :white_check_mark: [Tancky AI](https://tancky.io/)：AI 图片合成与照片融合工具（免费），把多张图片拼合、混合成一张，浏览器打开即用
 
