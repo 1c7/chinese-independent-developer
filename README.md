@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 22 号添加
 
+#### xiaoyaohou19910610-bit - [Github](https://github.com/xiaoyaohou19910610-bit)
+* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口
+
 #### Jun(上海) - [Github](https://github.com/2456868764)
 * :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频
 
