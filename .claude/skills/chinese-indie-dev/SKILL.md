@@ -192,7 +192,8 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
        git push "$HEAD_REPO_URL" "pr-<number>:$HEAD_REF"
        gh pr merge <number> --merge
        ```
-       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）推送后如果因为权限或分支保护等原因失败，视为该路径不可行，降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
+       （用 `--merge` 而非 `--squash`，保留贡献者原始 commit 的作者信息）
+       ⚠️ 推送后立刻 `gh pr merge` 可能报 `GraphQL: Base branch was modified. Review and try the merge again.`。**这不是真失败**——GitHub 的 mergeable 状态是异步计算的，撞上未刷新的缓存而已。做法：`sleep 5` 后重查 `gh api repos/.../pulls/<number> | jq '{mergeable, mergeable_state}'`，看到 `true` / `clean` 再重试一次 `gh pr merge <number> --merge` 就会成功（2026-09-22 PR #1408 实测）。**绝不能因为这条报错就退回步骤 3 的"本地合并 + 关闭 PR"兜底**，那会让贡献者的 PR 变成红色 Closed。只有权限/分支保护导致的推送失败才算该路径不可行，才降级到步骤 3。合并成功则按下面「合并成功」的致谢评论流程处理，PR 会正常显示为 Merged。
     3. **如果 `MAINTAINER_CAN_MODIFY` 为 `false`**（贡献者未勾选"允许维护者编辑"，没有权限推送到其分支，只能走这条兜底路径），或步骤 2 推送失败：
        ```bash
        git fetch origin master
