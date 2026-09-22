@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 9 月 22 号添加
+
+#### sam ice(深圳) - [Github](https://github.com/sam-ice-star/steal-an-egg)
+* :white_check_mark: [Steal an Egg Wiki](https://stealanegg.gamehubs.wiki/)：Steal an Egg 非官方资料与攻略站，整理蛋、宠物、变异、速度、地形和通关进度，方便玩家随时查询
+
 ### 2026 年 9 月 20 号添加
 
 #### wizcy - [Github](https://github.com/wizcy)
