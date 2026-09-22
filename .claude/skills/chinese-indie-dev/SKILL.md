@@ -254,6 +254,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 **已确认收录的"模糊身份"先例（不再需要人工判断，直接照此收录）：**
 - 英文站点 + 中文自然留言，账号 profile 无任何中文痕迹 → 收录（例：MailMergeOnline，Linky-AIinlink，英文站 mailmergeonline.com，评论正文自然中文 → 收录主版面）
 - profile 全空/全 fork/PR 正文英文，但 issue 正文自然中文 或 团队仓库里有中文成员 → 收录（例：SandBase CLI，denial123789，issue 中文自然、sandbaseai 团队有 liyb/163 邮箱 → 收录程序员版面）
+- GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
 
 **判定为老外（确凿证据）后的处理：**
