@@ -8,6 +8,23 @@
 
 ---
 
+### 2024年1月31号添加
+#### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
+* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出
+
+### 2024年1月30号添加
+#### windowye(北京) - [Github](https://github.com/windowye)
+* :x: [CoSS](https://w-coss.space)：聚合主流文件存储服务和文件操作服务
+
+### 2024年1月25号添加
+#### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
+* :white_check_mark: [FreeMind](https://freemind.fit)：以大自然的声音为灵感，轻松创建专注或放松的音乐氛围。无需账户，无需麻烦——只有纯粹的宁静。无论是在繁忙的办公室，还是在家中的安静角落，FreeMind 将简约与宁静相结合，为您提供一个没有干扰的空间
+
+
+### 2024年1月22号添加
+#### Lykin(广州) - [Github](https://github.com/tiny-craft/tiny-rdm)
+* :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
+
 ### 2024年1月20号添加
 
 ### 2024年1月18号添加

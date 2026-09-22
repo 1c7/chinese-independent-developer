@@ -26,6 +26,12 @@
 
 ### 2026 年 9 月 22 号添加
 
+#### Jun(上海) - [Github](https://github.com/2456868764)
+* :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频
+
+#### Albert(美国) - [Github](https://github.com/Albert-Weasker/niubigeo)
+* :white_check_mark: [NiubiGeo](https://niubigeo.ai/)：NiubiGEO 帮助 AI、SaaS、DevTools 和开源项目检测并提升在 ChatGPT、Perplexity、Google AI 等 AI 搜索与问答场景中的品牌可见度 - [更多介绍](https://niubigeo.ai/)
+
 #### jimmy0256 - [Github](https://github.com/jimmy0256)
 * :white_check_mark: [ReelMuse](https://reelmuse.app/ai-dance-generator/)：无需编写提示词，选好舞蹈模板、上传照片即可生成舞蹈视频
 
@@ -5922,23 +5928,6 @@
 ### 2024年2月18号添加
 #### ThinkStu(北京) - [Github](https://github.com/Bistutu)
 * :white_check_mark: [流畅阅读-浏览器翻译插件](https://github.com/Bistutu/FluentRead)：有人工智能翻译引擎的浏览器插件，支持 OpenAI、Gemini、通义千问、文心一言、智谱清言等模型，可以为网站提供更加友好的翻译，让所有人都能拥有母语般的阅读体验。
-
-### 2024年1月31号添加
-#### Xiao Hanyu - [Github](https://github.com/xiaohanyu), [Twitter](https://twitter.com/xiaohanyu1988)
-* :white_check_mark: [PPResume](https://ppresume.com?utm_source=chinese-independent-developer)：基于 LaTeX 的简历制作 Web App，提供极高质量的简历排版和 PDF 输出
-
-### 2024年1月30号添加
-#### windowye(北京) - [Github](https://github.com/windowye)
-* :x: [CoSS](https://w-coss.space)：聚合主流文件存储服务和文件操作服务
-
-### 2024年1月25号添加
-#### FreeMind-LJ - [Github](https://github.com/FreeMind-LJ)
-* :white_check_mark: [FreeMind](https://freemind.fit)：以大自然的声音为灵感，轻松创建专注或放松的音乐氛围。无需账户，无需麻烦——只有纯粹的宁静。无论是在繁忙的办公室，还是在家中的安静角落，FreeMind 将简约与宁静相结合，为您提供一个没有干扰的空间
-
-
-### 2024年1月22号添加
-#### Lykin(广州) - [Github](https://github.com/tiny-craft/tiny-rdm)
-* :white_check_mark: [Tiny RDM](https://redis.tinycraft.cc/zh/): 美观易用、极致轻量的 Redis 桌面客户端
 
 ## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
