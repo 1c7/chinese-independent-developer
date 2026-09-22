@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 22 号添加
 
+#### jimmy0256 - [Github](https://github.com/jimmy0256)
+* :white_check_mark: [ReelMuse](https://reelmuse.app/ai-dance-generator/)：无需编写提示词，选好舞蹈模板、上传照片即可生成舞蹈视频
+
 #### magicapple123 - [Github](https://github.com/magicapple123)
 * :white_check_mark: [简历通 ResumeForge](https://magicapple123.github.io/ResumeForge-official/)：本地运行的 AI 求职工作台，简历生成、岗位采集、投递追踪、面试复盘全流程，数据只存本机不上传，Windows 一键启动，开源免费 - [查看仓库](https://github.com/magicapple123/ResumeForge)
 
