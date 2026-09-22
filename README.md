@@ -234,7 +234,7 @@
 ### 2026 年 9 月 8 号添加
 
 #### zjzno1 - [Github](https://github.com/zjzno1)
-* :white_check_mark: [热摸爽](https://remoshuang.com/)：全网热搜热榜聚合网站，一站查看微博、知乎、抖音、GitHub Trending 等 200+ 公开来源，支持科技、AI、财经等分类、跨平台事件合并和按日期回看历史热点 — 无需注册，打开即用
+* :white_check_mark: [热摸爽](https://remoshuang.com/)：中文全网热点聚合网站，把微博、知乎、今日头条、GitHub Trending、科技和财经等公开榜单整理到一处，提供跨平台热点、正在升温、历史热搜和 RSS - [更多介绍](https://github.com/zjzno1/remoshuang)
 
 #### 肖戈(深圳) - [Github](https://github.com/jvxiao)
 * :white_check_mark: [Erase Background Pro](https://erasebgpro.com)：AI 一键抠图工具，秒级输出边缘干净的透明 PNG，支持电商人像/发丝细节与 4K 高清，提供批量处理、免费试用与开发者 API，无需注册、免费即用
