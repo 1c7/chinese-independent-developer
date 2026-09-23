@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 24 号添加
+
+#### jnMetaCode - [Github](https://github.com/jnMetaCode)
+* :white_check_mark: [ShellWard](https://github.com/jnMetaCode/shellward)：运行时拦截 AI Agent 工具调用，8 层纵深防御与 DLP 数据流控制，零依赖，可作 SDK 或 OpenClaw 插件
+
 ### 2026 年 9 月 23 号添加
 
 #### Maaaaph - [Github](https://github.com/Maaaaph)
