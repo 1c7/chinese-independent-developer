@@ -319,6 +319,12 @@ curl -sL --max-time 20 "<提交者给的URL>" | grep -oE '<title>[^<]*</title>|o
 - 落地 URL 带上述渠道参数 → 判为返佣推广链接
 - 落地页 title / og:url 暴露的公司名与提交者无关 → 判为大厂产品
 
+⚠️ **本机 `curl` 打不开产品站点时，不能据此判定站点有问题——必须换 `WebFetch` 工具复核一次再下结论。**（2026-09-23 补）
+本机走本地代理，`curl` 常因出口 IP 被目标站/CDN 拒而报 `HTTP:000` + `LibreSSL SSL_connect: SSL_ERROR_SYSCALL`（TLS 握手被重置），
+`--http1.1` / `--tlsv1.2` / `www.` 前缀都救不回来；这不代表站点挂了。
+实测 ins-transcript.com 的 curl 三次全 000，而 `WebFetch` 一次就拿到了完整页面正文（真实 freemium 产品）→ 收录主版面。
+处置顺序：`curl` 失败 → 用 `WebFetch <url>` 复核（工具侧走自己的网络路径，不受本机代理影响）→ 拿到正文就正常判版面；两边都拿不到才需要考虑"无法核实"。
+
 ⚠️ 这两类都**先查证再下结论**，不要凭域名观感猜。顺手看一眼 `gh api "repos/1c7/chinese-independent-developer/issues?state=all&creator=<username>&per_page=20"`，有推广前科的账号是强信号。
 
 **拒绝后的处理**（与「身份判断」章节一致，用提交者的语言）：
