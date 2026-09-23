@@ -25,6 +25,10 @@
 ## 3. 项目列表
 
 ### 2026 年 9 月 23 号添加
+#### 夜猫子小强(XiaoQiangDev) - [Github](https://github.com/aks-666888)
+* :white_check_mark: [本地工作控制台 lwc](https://github.com/aks-666888/local-work-console)：无需联网、无需注册，双击单文件即用的本地待办与计划管理台，数据全留在自己电脑
+
+
 
 #### 一箭(杭州) - [Github](https://github.com/whattobuildtoday), [博客](https://x.com/zhngcho130830)
 * :white_check_mark: [What To Build](https://whattobuild.today/)：独立开发机会发现站，从新上线网站的订单增长、流量趋势和真实搜索需求中，筛选已被市场验证的 SaaS 与 AI 工具方向
