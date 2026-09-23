@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 24 号添加
+
+#### jnMetaCode - [Github](https://github.com/jnMetaCode)
+* :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
+
 ### 2026 年 9 月 23 号添加
 
 #### Maaaaph - [Github](https://github.com/Maaaaph)
