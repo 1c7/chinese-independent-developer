@@ -28,6 +28,7 @@
 
 #### jnMetaCode - [Github](https://github.com/jnMetaCode)
 * :white_check_mark: [ShellWard](https://github.com/jnMetaCode/shellward)：运行时拦截 AI Agent 工具调用，8 层纵深防御与 DLP 数据流控制，零依赖，可作 SDK 或 OpenClaw 插件
+* :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
 
 ### 2026 年 9 月 23 号添加
 
