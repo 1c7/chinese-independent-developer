@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 9 月 24 号添加
 
+#### xqliu - [Github](https://github.com/xqliu)
+* :white_check_mark: [Orbi](https://orbi.build/zh/?ref=1c7-2609)：自托管的 AI 编程 agent，给 GitHub Issue 打上 `ai-ready` 标签，它在独立 worktree 里写代码、开 PR，再另开一个评审会话对照 Issue 验收项审查，评审通过才合并并打 tag 发版；fair-code 许可，源码公开、自托管免费，也有托管版 Orbi Cloud - [GitHub 仓库](https://github.com/orbi-build/orbi)
+
 #### KKKK - [Github](https://github.com/erickkkyt)
 * :white_check_mark: [JEVAPI.IO](https://jevapi.io/)：提供免费的 JEV API
 
