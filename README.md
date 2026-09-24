@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 24 号添加
 
+#### Yuxino - [Github](https://github.com/yuxino)
+* :white_check_mark: [Mimi](https://mimi.yuxino.cn/)：实时字幕翻译工具，把电脑播放的外语视频、直播声音转成悬浮字幕；免费开源，支持 Apple 芯片 macOS 13+ 和 Windows x64，需要自备云服务 API 凭证 - [源码与下载](https://github.com/yuxino/mimi)
+
 #### jnMetaCode - [Github](https://github.com/jnMetaCode)
 * :white_check_mark: [OpenShorts 开片](https://os.aiolaola.com/)：给一个话题就写脚本、找画面、配音、烧字幕、出成片和发布文案，默认零成本跑通第一条
 
