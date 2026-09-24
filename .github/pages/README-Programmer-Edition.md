@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 24 号添加
+
+#### jnMetaCode - [Github](https://github.com/jnMetaCode)
+* :white_check_mark: [ShellWard](https://jnmetacode.github.io/shellward/)：一行命令体检 AI 项目的合规红线（数据出境、硬编码密钥、个人信息暴露），映射到网安法/PIPL/等保2.0 并给出评分，零依赖开源
+
 ### 2026 年 9 月 20 号添加
 
 #### SocAI - [Github](https://github.com/socai-io)
