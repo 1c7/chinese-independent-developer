@@ -24,6 +24,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### jnMetaCode - [Github](https://github.com/jnMetaCode)
 * :white_check_mark: [ShellWard](https://jnmetacode.github.io/shellward/)：一行命令体检 AI 项目的合规红线（数据出境、硬编码密钥、个人信息暴露），映射到网安法/PIPL/等保2.0 并给出评分，零依赖开源
 * :white_check_mark: [tracelet](https://github.com/jnMetaCode/tracelet)：AI Agent 的本地调试器，实时看执行树里的每次 LLM 调用与工具调用，还能把两次运行逐步对齐找出差异
+* :white_check_mark: [engram](https://github.com/jnMetaCode/engram)：索引笔记、PDF、网页，然后用一句话召回，结果精确到 文件:行 和日期，全程不出本机
 
 ### 2026 年 9 月 20 号添加
 
