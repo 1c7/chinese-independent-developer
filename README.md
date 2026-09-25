@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 26 号添加
+
+#### WZZNNE - [Github](https://github.com/WZZNNE)
+* :white_check_mark: [AI 共振](https://wzznne.github.io/AI-Resonance/)：每日 AI 雷达，把 GitHub、arXiv、Hacker News、社区讨论和 AI 厂商动态排成五个榜单，评分公式公开可查，多平台同时出现的内容自动归组，打开即读无需注册 - [更多介绍](https://github.com/WZZNNE/AI-Resonance)
+
 ### 2026 年 9 月 25 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
