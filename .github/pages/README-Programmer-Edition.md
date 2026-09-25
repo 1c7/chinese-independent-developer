@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 25 号添加
+
+#### Hao Du - [Github](https://github.com/yxcit)
+* :white_check_mark: [YXC Code](https://app.yxcit.com/zh)：iOS 应用源码商城，按分类查看功能、截图和 App Store 链接，比较源码包及商业许可后选择可定制的项目起点；源码付费，支持中英文
+
+#### Leexunhuan743 - [Github](https://github.com/Leexunhuan743)
+* :white_check_mark: [SyncClipboard CfServer](https://github.com/Leexunhuan743/SyncClipboardCfServer)：SyncClipboard 官方服务端的 Cloudflare Workers 复刻实现，官方客户端零改动即可连接，免服务器、按量计费，自带 Web 历史管理界面与回收站
+
 ### 2026 年 9 月 24 号添加
 
 #### xqliu - [Github](https://github.com/xqliu)
