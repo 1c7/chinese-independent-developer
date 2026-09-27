@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 9 月 27 号添加
 
+#### Finderchangchang - [Github](https://github.com/Finderchangchang)
+* :white_check_mark: [精酿 BrewReel](https://github.com/Finderchangchang/brewreel)：竖版宣传片生成 Agent Skill，写一份产品简报，DeepSeek 等低成本模型只写分镜 JSON，现成 Remotion 组件在本地渲染 1080×1920 成片，内置广告法和 6 个行业的合规校验、代码合成配乐，可装进 Claude Code / Codex，Apache-2.0 开源，目前是预览版 - [更多介绍](https://brewreel.com)
+
 #### Eternal-Wanderer-Vegetable - [Github](https://github.com/Eternal-Wanderer-Vegetable)
 * :white_check_mark: [Stella_project](https://github.com/Eternal-Wanderer-Vegetable/Stella_project)：可一键部署的 QQ 群拟人化 AI Chat Agent，通过使用极小上下文窗口，原生支持本地小参数语言模型/在线大参数语言模型并节约花费，兼容 Astrbot 插件生态
 
