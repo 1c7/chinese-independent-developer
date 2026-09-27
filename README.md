@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 27 号添加
+
+#### Z-Banana - [Github](https://github.com/Z-Banana)
+* :white_check_mark: [春林冷知](https://cold.sylveris.top)：冷静地知道一点没用的东西。每日更新冷知识、冷笑话和废话文学，让你在繁忙的生活中静下心，刷一些带一丝幽默、又有些莫名其妙的知识
+
 ### 2026 年 9 月 26 号添加
 
 #### openmind - [Github](https://github.com/openmindim)
@@ -5882,37 +5887,6 @@
 ### 2024年3月6号添加
 #### 甘小蔗(重庆) - [博客](https://gxzv.com/)
 * :white_check_mark: [人格九道](https://enneatao.com/)：人格九道是基于 Enneagram 理论学说的数字化产品，皆在帮助人们实现自我探索的精神需求 - [更多介绍](https://enneatao.com/blog/enneagram/introduce/)
-
-### 2024年3月5号添加
-#### j20cc(武汉)
-* :white_check_mark: [小狗听听](https://podcast.j20.cc/)：将在线视频转为本地播客的 iOS 应用
-
-#### honwhy
-* :white_check_mark: [Welibrary](https://chromewebstore.google.com/detail/ffcdmbkbdhoplncikkpdcgknacckookm)：将图书网站与城市图书馆联动起来 - [更多介绍](https://welibrary.pages.dev/intro)
-
-#### iyuhang - [Github](https://github.com/iyuhang)
-* :white_check_mark: [犬岛 交友APP](https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581): 通过深度问答建立社交画像的高质量交友 APP，纯银作品。[安卓](https://www.quandao.chat)
-
-### 2024年3月4号添加
-#### gitbobobo - [Github](https://github.com/gitbobobo), [博客](https://aqzscn.cn/)
-* :white_check_mark: [音流](https://github.com/gitbobobo/StreamMusic)：NAS 音乐播放器，支持多种音乐服务，可在安卓/iOS/macOS/Windows 平台运行 - [AppStore](https://apps.apple.com/cn/app/%E9%9F%B3%E6%B5%81-%E8%BF%9E%E6%8E%A5%E4%BD%A0%E7%9A%84%E9%9F%B3%E4%B9%90/id6449966496), [下载地址](https://aqzscn.cn/archives/stream-music-versions)
-
-### 2024年3月3号添加
-#### 程序员热水 - [Github](https://github.com/acmenlei)
-* :white_check_mark: [CodeCV简历](https://codecv.top)：超高颜值的简历制作工具，界面简洁不花哨，支持 Markdown 和 所见即所得 两种编辑模式，专注内容，布局排版自动生成
-
-#### huanghanzhilian(北京) - [Github](https://github.com/huanghanzhilian), [博客](https://blog.huanghanlian.com/)
-* :white_check_mark: [C-Shopping](http://shop.huanghanlian.com/)：精美的 Web 电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含电商平台 MVP 完整功能，具备良好的审美风格与编码设计 - [更多介绍](https://github.com/huanghanzhilian/c-shopping)
-
-#### ShawnPhang(广州) - [Github](https://github.com/palxiao/poster-design), [博客](https://m.palxp.cn/#/)
-* :white_check_mark: [迅排设计 - PosterDesign](https://design.palxp.cn/home)：海报图片设计器，漂亮易用且功能强大。适用于多种场景：海报设计、电商分享图、文章长图、视频/公众号封面生成等，结合AI等工具，让你轻松实现创意、迅速排版 - [更多介绍](https://xp.palxp.cn/#/)
-
-#### LucasChenZQ
-* :white_check_mark: [小旅星 App](https://apps.apple.com/cn/app/id6468434010)：旅行指南与行程规划 App，提供众多开箱即用的旅行路线、目的地旅行资讯（完善中），也可以制定自己的行程。可以添加地点、航班、列车到旅行计划中，并且自动为用户预估日程时间安排。如果与朋友一起出行，还可以邀请朋友加入旅行、共同编辑, [Android 版下载地址](https://static.triplenty.com/xiaolvxing.apk)
-
-### 2024年3月2号添加
-#### H1DDENADM1N (邯郸) - [Github](https://github.com/H1DDENADM1N)
-* :white_check_mark: [CapsWriter-Offline-GUI](https://github.com/H1DDENADM1N/CapsWriter-Offline)：Windows 端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板。 - [更多介绍](https://github.com/H1DDENADM1N/CapsWriter-Offline?tab=readme-ov-file#-%E7%9B%AE%E5%BD%95)
 
 ## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
