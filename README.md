@@ -26,6 +26,13 @@
 
 ### 2026 年 9 月 26 号添加
 
+#### openmind - [Github](https://github.com/openmindim)
+* :white_check_mark: [Countdown Timer](https://countdown.im/)：极简全屏倒计时工具，支持按天、小时、分钟设置倒计时，也提供节日与活动倒计时，包括 [万圣节](https://countdown.im/halloween)、[双十一](https://countdown.im/singles-day) 和 [新年](https://countdown.im/new-year) 倒计时
+* :white_check_mark: [Online Ruler](https://ruler.im/)：极简全屏在线尺子工具，除了屏幕尺和直尺外，还支持 [量角器](https://ruler.im/protractor)、[中心象限尺](https://ruler.im/quadrant) 和 [靶心尺](https://ruler.im/concentric-circle)
+
+#### klinkmannistref-blip - [Github](https://github.com/klinkmannistref-blip)
+* :white_check_mark: [Professional-Headshot.ai](https://professional-headshot.ai/)：AI 职业头像生成器，上传一张自拍，由 AI 自动挑好服装、背景与打光，并筛掉眼镜变形、眼睛和牙齿失真等瑕疵，每个场景只给你 1 张推荐加 2 张备选；无需注册即可免费预览 1 张（带水印），去水印下载与反复修改为一次性付费
+
 #### WZZNNE - [Github](https://github.com/WZZNNE)
 * :white_check_mark: [AI 共振](https://wzznne.github.io/AI-Resonance/)：每日 AI 雷达，把 GitHub、arXiv、Hacker News、社区讨论和 AI 厂商动态排成五个榜单，评分公式公开可查，多平台同时出现的内容自动归组，打开即读无需注册 - [更多介绍](https://github.com/WZZNNE/AI-Resonance)
 
