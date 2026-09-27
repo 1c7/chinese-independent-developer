@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 27 号添加
+
+#### JiangShu - [Github](https://github.com/Health-525)
+* :white_check_mark: [CourseRaptor](https://github.com/Health-525/courseraptor)：一句话查课表、成绩、考试和教务通知的本地校园 AI 助手，终端/网页/QQ 机器人三个入口，登录凭证 AES-256-GCM 加密存本机、零遥测，内置免账号离线演示（虚构数据）先看效果再配置；目前适配南京工业大学，学校适配层开放共建 - [在线落地页](https://health-525.github.io/courseraptor)
+
 ### 2026 年 9 月 25 号添加
 
 #### Hao Du - [Github](https://github.com/yxcit)
