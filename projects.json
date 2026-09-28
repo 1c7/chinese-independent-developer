@@ -1,5 +1,15 @@
 [
   {
+    "name": "春林冷知",
+    "url": "https://cold.sylveris.top",
+    "status": "online",
+    "description": "冷静地知道一点没用的东西。每日更新冷知识、冷笑话和废话文学，让你在繁忙的生活中静下心，刷一些带一丝幽默、又有些莫名其妙的知识",
+    "author": "Z-Banana",
+    "authorGithub": "https://github.com/Z-Banana",
+    "date": "2026 年 9 月 27 号添加",
+    "category": "main"
+  },
+  {
     "name": "Countdown Timer",
     "url": "https://countdown.im/",
     "status": "online",
@@ -17750,102 +17760,12 @@
     "category": "main"
   },
   {
-    "name": "小狗听听",
-    "url": "https://podcast.j20.cc/",
-    "status": "online",
-    "description": "将在线视频转为本地播客的 iOS 应用",
-    "author": "j20cc(武汉)",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "Welibrary",
-    "url": "https://chromewebstore.google.com/detail/ffcdmbkbdhoplncikkpdcgknacckookm",
-    "status": "online",
-    "description": "将图书网站与城市图书馆联动起来 - [更多介绍](https://welibrary.pages.dev/intro)",
-    "author": "honwhy",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "犬岛 交友APP",
-    "url": "https://apps.apple.com/cn/app/犬岛-上岛重新认识我/id6450510581",
-    "status": "online",
-    "description": "通过深度问答建立社交画像的高质量交友 APP，纯银作品。[安卓](https://www.quandao.chat)",
-    "author": "iyuhang",
-    "authorGithub": "https://github.com/iyuhang",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "音流",
-    "url": "https://github.com/gitbobobo/StreamMusic",
-    "status": "online",
-    "description": "NAS 音乐播放器，支持多种音乐服务，可在安卓/iOS/macOS/Windows 平台运行 - [AppStore](https://apps.apple.com/cn/app/%E9%9F%B3%E6%B5%81-%E8%BF%9E%E6%8E%A5%E4%BD%A0%E7%9A%84%E9%9F%B3%E4%B9%90/id6449966496), [下载地址](https://aqzscn.cn/archives/stream-music-versions)",
-    "author": "gitbobobo",
-    "authorGithub": "https://github.com/gitbobobo",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CodeCV简历",
-    "url": "https://codecv.top",
-    "status": "online",
-    "description": "超高颜值的简历制作工具，界面简洁不花哨，支持 Markdown 和 所见即所得 两种编辑模式，专注内容，布局排版自动生成",
-    "author": "程序员热水",
-    "authorGithub": "https://github.com/acmenlei",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "C-Shopping",
-    "url": "http://shop.huanghanlian.com/",
-    "status": "online",
-    "description": "精美的 Web 电商系统，支持响应式交互，界面优雅，功能丰富，小巧迅速，包含电商平台 MVP 完整功能，具备良好的审美风格与编码设计 - [更多介绍](https://github.com/huanghanzhilian/c-shopping)",
-    "author": "huanghanzhilian(北京)",
-    "authorGithub": "https://github.com/huanghanzhilian",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "迅排设计 - PosterDesign",
-    "url": "https://design.palxp.cn/home",
-    "status": "online",
-    "description": "海报图片设计器，漂亮易用且功能强大。适用于多种场景：海报设计、电商分享图、文章长图、视频/公众号封面生成等，结合AI等工具，让你轻松实现创意、迅速排版 - [更多介绍](https://xp.palxp.cn/#/)",
-    "author": "ShawnPhang(广州)",
-    "authorGithub": "https://github.com/palxiao/poster-design",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "小旅星 App",
-    "url": "https://apps.apple.com/cn/app/id6468434010",
-    "status": "online",
-    "description": "旅行指南与行程规划 App，提供众多开箱即用的旅行路线、目的地旅行资讯（完善中），也可以制定自己的行程。可以添加地点、航班、列车到旅行计划中，并且自动为用户预估日程时间安排。如果与朋友一起出行，还可以邀请朋友加入旅行、共同编辑, [Android 版下载地址](https://static.triplenty.com/xiaolvxing.apk)",
-    "author": "LucasChenZQ",
-    "authorGithub": "",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
-    "name": "CapsWriter-Offline-GUI",
-    "url": "https://github.com/H1DDENADM1N/CapsWriter-Offline",
-    "status": "online",
-    "description": "Windows 端 离线语音输入、中译英、字幕转录；在线多译多、云剪贴板。 - [更多介绍](https://github.com/H1DDENADM1N/CapsWriter-Offline?tab=readme-ov-file#-%E7%9B%AE%E5%BD%95)",
-    "author": "H1DDENADM1N (邯郸)",
-    "authorGithub": "https://github.com/H1DDENADM1N",
-    "date": "2024 年 7 月 10 号添加",
-    "category": "main"
-  },
-  {
     "name": "AI 独立制造所",
     "url": "https://indiemaker.cn/",
     "status": "online",
     "description": "本列表的可搜索、可筛选、每日自动同步的可视化版本 - [更多介绍](https://github.com/kolbyzhu5/indie-maker-directory)",
-    "author": "H1DDENADM1N (邯郸)",
-    "authorGithub": "https://github.com/H1DDENADM1N",
+    "author": "甘小蔗(重庆) - [博客](https://gxzv.com/)",
+    "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17854,8 +17774,8 @@
     "url": "https://developer.hubing.online/home",
     "status": "online",
     "description": "基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)",
-    "author": "H1DDENADM1N (邯郸)",
-    "authorGithub": "https://github.com/H1DDENADM1N",
+    "author": "甘小蔗(重庆) - [博客](https://gxzv.com/)",
+    "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17864,8 +17784,8 @@
     "url": "https://du.liuwa.xyz/",
     "status": "online",
     "description": "中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)",
-    "author": "H1DDENADM1N (邯郸)",
-    "authorGithub": "https://github.com/H1DDENADM1N",
+    "author": "甘小蔗(重庆) - [博客](https://gxzv.com/)",
+    "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   },
@@ -17874,8 +17794,8 @@
     "url": "https://lei1024.github.io/chinese-independent-developer-report/",
     "status": "online",
     "description": "把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)",
-    "author": "H1DDENADM1N (邯郸)",
-    "authorGithub": "https://github.com/H1DDENADM1N",
+    "author": "甘小蔗(重庆) - [博客](https://gxzv.com/)",
+    "authorGithub": "",
     "date": "2024 年 7 月 10 号添加",
     "category": "main"
   }
