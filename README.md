@@ -26,6 +26,13 @@
 
 ### 2026 年 9 月 29 号添加
 
+#### honghui - [Github](https://github.com/honghui)
+* :white_check_mark: [Visual Timer](https://visualtimer.org/)：可视化倒计时工具，红色圆盘随时间缩小，投屏给孩子和课堂一眼就知道还剩多久；附带弹跳小球 [课堂噪音计](https://visualtimer.org/classroom-noise-meter/) 和 [圣诞倒计时](https://visualtimer.org/christmas-countdown/)，免费无需注册
+* :white_check_mark: [Name Tracing](https://nametracing.org/)：名字描红练习纸生成器，粘贴全班名单一次生成每人一页，支持印刷体和草书，浏览器本地生成 PDF，名字不上传
+* :white_check_mark: [Free Graph Paper](https://freegraphpaper.org/)：可打印坐标纸生成器，30 多种纸型（坐标纸、点阵纸、五线谱、康奈尔笔记），自定义格子大小后下载矢量 PDF
+* :white_check_mark: [Free Bubble Letters](https://freebubbleletters.org/)：泡泡字生成器，输入文字生成可打印的空心大字，一个字母占满一页，适合涂色和布置教室，免费无需注册
+* :white_check_mark: [DIY Calculator](https://diycalculator.org/)：家装和园艺材料计算器，算碎石、覆盖物、表土、混凝土、瓷砖、铺路石要买多少，边输入边出立方码、吨数、袋数和费用，带示意图，免费无需注册
+
 #### mikewaynecn-cell - [Github](https://github.com/mikewaynecn-cell)
 * :white_check_mark: [Morse Code](https://www.morsecodes.org/)：英语摩斯密码翻译与学习网站，输入即时双向互译，附可打印对照表、字母逐个讲解和 SOS 求救信号介绍，符合国际电联 ITU 标准，免费无需注册
 * :white_check_mark: [Código Morse](https://www.codigomorse.com/)：葡语（巴西）摩斯密码网站，文字与摩斯码双向翻译，支持电报音三档速度播放和 WAV 音频下载，附完整字母表点击试听与七天学习计划，免费无需注册
