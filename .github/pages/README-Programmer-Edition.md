@@ -16,6 +16,16 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 29 号添加
+
+#### Evan - [Github](https://github.com/EdwinjJ1)
+* :white_check_mark: [回声 echo agent](https://echoagent.dev/zh/)：Mac 上的语音 AI Agent，任何应用里按 Fn+Space 说一句话，交给本机的 Claude Code 或 Codex 在后台执行，语音在本机识别
+
+### 2026 年 9 月 28 号添加
+
+#### Yuesen - [Github](https://github.com/sdyuyouth)
+* :white_check_mark: [AgentHop](https://github.com/sdyuyouth/agenthop)：让两个 AI Agent 直接对话的开源工具，一个配对码连上两台没有公网地址的电脑，端到端加密、中继只转发密文，作为 MCP 接进 Claude Code、Codex、Cursor、Gemini CLI 等
+
 ### 2026 年 9 月 27 号添加
 
 #### Finderchangchang - [Github](https://github.com/Finderchangchang)
