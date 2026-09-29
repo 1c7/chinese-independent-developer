@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 29 号添加
+
+#### honghui - [Github](https://github.com/honghui)
+* :white_check_mark: [Visual Timer](https://visualtimer.org/)：可视化倒计时工具，红色圆盘随时间缩小，投屏给孩子和课堂一眼就知道还剩多久；附带弹跳小球 [课堂噪音计](https://visualtimer.org/classroom-noise-meter/) 和 [圣诞倒计时](https://visualtimer.org/christmas-countdown/)，免费无需注册
+* :white_check_mark: [Name Tracing](https://nametracing.org/)：名字描红练习纸生成器，粘贴全班名单一次生成每人一页，支持印刷体和草书，浏览器本地生成 PDF，名字不上传
+* :white_check_mark: [Free Graph Paper](https://freegraphpaper.org/)：可打印坐标纸生成器，30 多种纸型（坐标纸、点阵纸、五线谱、康奈尔笔记），自定义格子大小后下载矢量 PDF
+* :white_check_mark: [Free Bubble Letters](https://freebubbleletters.org/)：泡泡字生成器，输入文字生成可打印的空心大字，一个字母占满一页，适合涂色和布置教室，免费无需注册
+
 ### 2026 年 9 月 27 号添加
 
 #### Z-Banana - [Github](https://github.com/Z-Banana)
