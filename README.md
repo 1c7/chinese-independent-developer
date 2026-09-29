@@ -26,6 +26,10 @@
 
 ### 2026 年 9 月 29 号添加
 
+#### mikewaynecn-cell - [Github](https://github.com/mikewaynecn-cell)
+* :white_check_mark: [Morse Code](https://www.morsecodes.org/)：英语摩斯密码翻译与学习网站，输入即时双向互译，附可打印对照表、字母逐个讲解和 SOS 求救信号介绍，符合国际电联 ITU 标准，免费无需注册
+* :white_check_mark: [Código Morse](https://www.codigomorse.com/)：葡语（巴西）摩斯密码网站，文字与摩斯码双向翻译，支持电报音三档速度播放和 WAV 音频下载，附完整字母表点击试听与七天学习计划，免费无需注册
+
 #### Zhang-MQ - [Github](https://github.com/Zhang-MQ)
 * :white_check_mark: [拼豆岛](https://pindoudao.xyz/)：拼豆图纸创作工具，把照片或 AI 灵感转换成可编辑、可打印的 MARD / Hama 拼豆图纸，自动统计色号和豆子用量（免费）
 * :white_check_mark: [哪天加油](https://picui.ogmua.cn/s1/2026/09/29/6abb810780125.webp)：查找附近加油站优惠、收藏常用油站并接收优惠提醒 — 微信小程序
