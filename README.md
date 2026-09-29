@@ -26,6 +26,9 @@
 
 ### 2026 年 9 月 29 号添加
 
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [Claude Imagine](https://claudeimagine.com)：AI 图片和视频生成工具，网页上直接用，也能作为 MCP 连接器接入 Claude（claude.ai、Claude Desktop、Claude Code）在对话里出图出视频，支持 Nano Banana 2、GPT Image 2.5、Seedream 4.5、Flux 2 Pro 和 Veo 3.1 Fast，注册送免费额度；独立产品，与 Anthropic 无关
+
 #### honghui - [Github](https://github.com/honghui)
 * :white_check_mark: [Visual Timer](https://visualtimer.org/)：可视化倒计时工具，红色圆盘随时间缩小，投屏给孩子和课堂一眼就知道还剩多久；附带弹跳小球 [课堂噪音计](https://visualtimer.org/classroom-noise-meter/) 和 [圣诞倒计时](https://visualtimer.org/christmas-countdown/)，免费无需注册
 * :white_check_mark: [Name Tracing](https://nametracing.org/)：名字描红练习纸生成器，粘贴全班名单一次生成每人一页，支持印刷体和草书，浏览器本地生成 PDF，名字不上传
