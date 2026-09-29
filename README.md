@@ -33,6 +33,26 @@
 * :white_check_mark: [Free Bubble Letters](https://freebubbleletters.org/)：泡泡字生成器，输入文字生成可打印的空心大字，一个字母占满一页，适合涂色和布置教室，免费无需注册
 * :white_check_mark: [DIY Calculator](https://diycalculator.org/)：家装和园艺材料计算器，算碎石、覆盖物、表土、混凝土、瓷砖、铺路石要买多少，边输入边出立方码、吨数、袋数和费用，带示意图，免费无需注册
 
+#### mikewaynecn-cell - [Github](https://github.com/mikewaynecn-cell)
+* :white_check_mark: [Morse Code](https://www.morsecodes.org/)：英语摩斯密码翻译与学习网站，输入即时双向互译，附可打印对照表、字母逐个讲解和 SOS 求救信号介绍，符合国际电联 ITU 标准，免费无需注册
+* :white_check_mark: [Código Morse](https://www.codigomorse.com/)：葡语（巴西）摩斯密码网站，文字与摩斯码双向翻译，支持电报音三档速度播放和 WAV 音频下载，附完整字母表点击试听与七天学习计划，免费无需注册
+
+#### Zhang-MQ - [Github](https://github.com/Zhang-MQ)
+* :white_check_mark: [拼豆岛](https://pindoudao.xyz/)：拼豆图纸创作工具，把照片或 AI 灵感转换成可编辑、可打印的 MARD / Hama 拼豆图纸，自动统计色号和豆子用量（免费）
+* :white_check_mark: [哪天加油](https://picui.ogmua.cn/s1/2026/09/29/6abb810780125.webp)：查找附近加油站优惠、收藏常用油站并接收优惠提醒 — 微信小程序
+
+#### mo-wei-lai - [Github](https://github.com/mo-wei-lai)
+* :white_check_mark: [Flow AI Video](https://www.flowaivideo.org/)：输入文字或图片，选择画幅与时长生成 AI 视频
+* :white_check_mark: [Dola AI](https://www.dolai.video/)：用文字提示或照片生成视频，也可在站内编辑和生成图片
+* :white_check_mark: [Upscayl AI](https://www.upscayl.app/)：在线放大低分辨率图片，并用 AI 增强清晰度
+* :white_check_mark: [Cleanup Pictures](https://www.cleanuppictures.pro/)：上传照片并涂选区域，用 AI 移除不需要的物体、人物或文字
+* :white_check_mark: [Photo Tea](https://www.phototea.art/)：通过文字提示编辑照片或生成新图片
+
+#### 萝卜(杭州) - [WheelPage](https://wheelpage.com/)（作者本人补充）
+* :white_check_mark: [随机转盘](https://wheelpage.com/zh/)：自定义多个选项的随机选择工具，适合抽签、随机选择和解决日常选择困难
+* :white_check_mark: [抛硬币](https://wheelpage.com/zh/coin-flip/)：模拟正反面抛硬币，适合二选一和快速随机决定，并记录近期结果和累计次数
+* :white_check_mark: [石头剪刀布](https://wheelpage.com/zh/rock-paper-scissors/)：打开即可玩的石头剪刀布，支持快速对局和三局两胜
+
 ### 2026 年 9 月 27 号添加
 
 #### Z-Banana - [Github](https://github.com/Z-Banana)
@@ -995,7 +1015,7 @@
 * :white_check_mark: [Fork & Pour](https://fork-and-pour.terenzzzz.cn/)：把鸡尾酒配方当作代码协作的开源项目，用 JSON 管理配方、用 PR 贡献内容、前端自动展示结果
 
 #### chl(深圳)
-* :white_check_mark: [大字白板](https://big-font-hero.pages.dev/)：跟听障老人交流的小程序，将输入文字放大展示方便老人阅读，支持横竖屏、语音输入和交流历史记录，内容不离开本地
+* :white_check_mark: [大字白板](https://bigfont.dnskill.cn/)：跟听障老人交流的小程序，将输入文字放大展示方便老人阅读，支持横竖屏、语音输入和交流历史记录，内容不离开本地
 
 #### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
 * :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
