@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 30 号添加
+
+#### blowxian - [Github](https://github.com/blowxian)
+* :white_check_mark: [VideoCreate](https://videocreate.org/)：视频反推提示词（Video to Prompt）工具，上传 60 秒内的 MP4/MOV 参考视频，按时间码切分镜头，逐镜头拆出主体、运镜、动作、光线、风格、声音六项，生成适配 Seedance、Kling 3.0、Wan 2.6、Grok Imagine 的提示词；Google 登录后每天免费分析 5 个视频 - [实测提示词与成片](https://videocreate.org/prompts)
+
 ### 2026 年 9 月 29 号添加
 
 #### lumian2015 - [Github](https://github.com/lumian2015)
