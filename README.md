@@ -24,11 +24,6 @@
 
 ## 3. 项目列表
 
-### 2026 年 9 月 29 号添加
-
-#### Evan - [Github](https://github.com/EdwinjJ1)
-* :white_check_mark: [回声 echo agent](https://echoagent.dev/zh/)：Mac 上的语音 AI Agent，任何应用里按 Fn+Space 说一句话，交给本机的 Claude Code 或 Codex 在后台执行，语音在本机识别
-
 ### 2026 年 9 月 27 号添加
 
 #### Z-Banana - [Github](https://github.com/Z-Banana)
