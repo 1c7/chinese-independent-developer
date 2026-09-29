@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 9 月 29 号添加
+
+#### lumian2015 - [Github](https://github.com/lumian2015)
+* :white_check_mark: [Claude Imagine](https://claudeimagine.com)：AI 图片和视频生成工具，网页上直接用，也能作为 MCP 连接器接入 Claude（claude.ai、Claude Desktop、Claude Code）在对话里出图出视频，支持 Nano Banana 2、GPT Image 2.5、Seedream 4.5、Flux 2 Pro 和 Veo 3.1 Fast，注册送免费额度；独立产品，与 Anthropic 无关
+
 ### 2026 年 9 月 27 号添加
 
 #### Z-Banana - [Github](https://github.com/Z-Banana)
