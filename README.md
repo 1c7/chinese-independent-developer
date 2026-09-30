@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 1 号添加
+
+#### lukuime - [Github](https://github.com/lukuime)
+* :white_check_mark: [llms.txt Generator](https://llmstxtgenerator.dev)：llms.txt 生成器与校验器（免费），填几项站点信息即可生成符合 llmstxt.org 规范的 Markdown 文件，支持从 sitemap.xml 一键导入全部 URL 并自动生成标题；也能粘贴已有文件校验 H1、链接格式与 URL 有效性，并给出 0-100 的 AI 就绪度评分，无需注册
+
 ### 2026 年 9 月 30 号添加
 
 #### xjokerabab - [Github](https://github.com/xjokerabab)
