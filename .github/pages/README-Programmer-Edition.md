@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 9 月 30 号添加
+
+#### Owaid0723666 - [Github](https://github.com/Owaid0723666)
+* :white_check_mark: [onomeo](https://onomeo.com/zh)：兼容 OpenAI 的 AI 接口聚合站，一把密钥调用 DeepSeek、GLM、Gemini、Qwen 等 35 个免费模型，免费模型不扣额度（未付费账号每 5 小时 20 次），网页里也能直接对话和画图；Claude、GPT 等大模型需付费；目前是公测阶段，不保证所有功能都能正常使用，正在大量收集反馈，欢迎提
+
 ### 2026 年 9 月 29 号添加
 
 #### Evan - [Github](https://github.com/EdwinjJ1)
