@@ -910,6 +910,8 @@
 * :white_check_mark: [Seedream 5.0 Pro](https://seedream5-pro.im)：多模型 AI 图片工作台，支持文字生图、图片生图、复杂布局与多语言文字编辑
 * :white_check_mark: [FLUX 3 AI Image Generator](https://www-flux3.com)：多模型 AI 图片生成与编辑工作台，支持文字生图、参考图编辑、宽高比与多语言文字控制，并清晰标注模型可用状态
 * :white_check_mark: [FLUX 3 Video Generator](https://flux3-video.online)：AI 视频生成工作台，支持文字或图片生成视频、参考图及镜头、动作和声音提示，并清晰标注模型可用状态
+* :white_check_mark: [Hotel Lobby](https://hotellobby.video)：一句话生成酒店大堂短片场景的 AI 视频工具，输出以短视频画幅为主，省去剪辑时间
+* :white_check_mark: [Space Bunny](https://spacebunny.pro)：用一句话生成短片场景的 AI 视频工具，在多次生成之间保持同一场景的一致性
 
 #### DevEloLin - [Github](https://github.com/DevEloLin)
 * :white_check_mark: [EloLin](https://elolin.com)：一个人做的产品工作室主页，一处浏览我做的全部产品，并用同一个账号登录所有产品
