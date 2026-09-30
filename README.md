@@ -29,6 +29,16 @@
 #### blowxian - [Github](https://github.com/blowxian)
 * :white_check_mark: [VideoCreate](https://videocreate.org/)：视频反推提示词（Video to Prompt）工具，上传 60 秒内的 MP4/MOV 参考视频，按时间码切分镜头，逐镜头拆出主体、运镜、动作、光线、风格、声音六项，生成适配 Seedance、Kling 3.0、Wan 2.6、Grok Imagine 的提示词；Google 登录后每天免费分析 5 个视频 - [实测提示词与成片](https://videocreate.org/prompts)
 
+#### jj2772486-svg - [Github](https://github.com/jj2772486-svg)
+* :white_check_mark: [Jev AI](https://ai-jev.pro/)：把文本和 JSON 转成带概率的是非、选择与评分判定，用于工单分类、内容审核、意图路由、线索打分等场景；站内 Playground 可直接试跑，也提供 API 与 CSV/TXT/JSONL 批量处理，注册送 5 个额度
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Online Tone Generator](https://online-tone-generator.org/)：音调与频率生成工具（免费），在浏览器中生成指定频率的音频信号，支持正弦波、方波、三角波、锯齿波、频率调节、左右声道控制和 WAV 导出，并提供 Frequency Sweep、Multiple Tone、Speaker Test、Subwoofer Test 等音频测试工具，音频处理在浏览器本地完成，无需上传文件或安装软件
+* :white_check_mark: [FPS Tester](https://fpstester.org/)：浏览器 FPS、帧时间与显示测试工具集（免费），可测试实时 FPS、Frame Time、1% Low、FPS Stability、FPS Drop 和刷新率，并提供 FPS Comparison、Screen Tearing、Motion Blur、Monitor Test、Mouse Polling Rate、Reaction Time 等相关测试工具，用于检查浏览器动画性能、显示效果和游戏输入表现
+
+#### muke1838-cloud - [Github](https://github.com/muke1838-cloud)
+* :white_check_mark: [MidiTake](https://miditake.com/?utm_source=github&utm_medium=referral&utm_campaign=backlink)：Convert MP3, WAV or video to MIDI in your browser
+
 ### 2026 年 9 月 29 号添加
 
 #### TaiMaBenJi - [Github](https://github.com/TaiMaBenJi)
