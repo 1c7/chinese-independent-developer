@@ -24,7 +24,25 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 1 号添加
+
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [AIInviteCode](https://aiinvitecode.com/)：AI 工具邀请码与推荐码目录，实时更新，代码经过验证
+
+#### huangy7(厦门) - [Github](https://github.com/huangy7)
+* :white_check_mark: [SeshBuddy](https://seshbuddy.huangy.top/)：面向 AI 编码工具（Claude Code、Codex、Gemini、Antigravity、WorkBuddy、DSH 等）的桌面会话浏览器与工作台，提供多 CLI 会话统一管理、Tantivy 毫秒级本地全文检索、Monaco 代码并排 Diff 审查与 API 流量穿透检视；基于 Tauri 2 + Rust 构建，100% 本地离线无遥测，开源免费（支持 macOS / Windows） - [客户端下载](https://github.com/huangy7/seshbuddy/releases)
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [AI Rap Video](https://ai-rap.video/)：上传一张照片、选择一个场景并填上说唱主题，就能生成一段带原创说唱人声和伴奏的短视频
+* :white_check_mark: [What Makes You Fall](https://whatmakesyoufall.pro)：轻量的恋爱人格测试，回答几道题就能看到自己最容易在什么样的人身上心动，结果页面直接给出性格倾向
+
+#### lukuime - [Github](https://github.com/lukuime)
+* :white_check_mark: [llms.txt Generator](https://llmstxtgenerator.dev)：llms.txt 生成器与校验器（免费），填几项站点信息即可生成符合 llmstxt.org 规范的 Markdown 文件，支持从 sitemap.xml 一键导入全部 URL 并自动生成标题；也能粘贴已有文件校验 H1、链接格式与 URL 有效性，并给出 0-100 的 AI 就绪度评分，无需注册
+
 ### 2026 年 9 月 30 号添加
+
+#### xjokerabab - [Github](https://github.com/xjokerabab)
+* :white_check_mark: [移民数据](https://yiminshuju.com/?utm_source=github&utm_medium=referral)：美国绿卡排期每月 8-10 号官方公告全量 15 类别逐格对比（逐格标注较上月前进/倒退），加拿大 EE 447 轮抽签记录，美国审理时间与 23 国政策库，另附 6 国积分自测器；免费、无广告、不做中介 - [开源 JSON 数据](https://github.com/xjokerabab/visa-bulletin-cn)
 
 #### blowxian - [Github](https://github.com/blowxian)
 * :white_check_mark: [VideoCreate](https://videocreate.org/)：视频反推提示词（Video to Prompt）工具，上传 60 秒内的 MP4/MOV 参考视频，按时间码切分镜头，逐镜头拆出主体、运镜、动作、光线、风格、声音六项，生成适配 Seedance、Kling 3.0、Wan 2.6、Grok Imagine 的提示词；Google 登录后每天免费分析 5 个视频 - [实测提示词与成片](https://videocreate.org/prompts)
@@ -870,7 +888,7 @@
 ### 2026 年 7 月 24 号添加
 
 #### cocodot2026 - [GitHub](https://github.com/cocodot2026)
-* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)
+* :white_check_mark: [cocodot LLM 降智检测](https://probe.cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)：LLM API「降智/偷换模型」检测（免费）：填入任意 OpenAI 兼容端点的 base_url 和临时 API Key，跑 6 项探针（模型声明、动态题、能力完整性等）生成分项报告；Key 仅用于当次检测、不落库不留存，检测方法[开源](https://github.com/cocodot2026/cocodot-llmprobe)；同一团队还做 OpenAI 兼容的 API 中转 [cocodot](https://cocodot.co/?utm_source=github&utm_medium=readme&utm_campaign=1c7)（支付宝充值）
 
 #### KKWANG4444 - [GitHub](https://github.com/KKWANG4444)
 * :white_check_mark: [AI快站模型质量检测](https://docs.aifast.club/model-check/)：面向 OpenAI Compatible 接口的网页检测工具，输入公开 HTTPS 地址和临时 API Key，可检查模型声明、Token、动态题、SSE 与工具调用并生成分项报告；密钥仅用于当次检测，不写入数据库、缓存或日志
