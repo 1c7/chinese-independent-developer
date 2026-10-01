@@ -29,7 +29,7 @@
 #### Sebastian Wu - [Github](https://github.com/smkwls)
 * :white_check_mark: [MVFlow](https://mvflow.ai/)：AI 音乐视频制作工具，上传歌曲即可生成可编辑分镜，逐镜头调整提示词和场景版本，再与原始音频合成音乐视频；也支持照片配人声生成唱歌口型视频
 
-#### Shao Zheng - [Github](https://github.com/zjch022-lab)
+#### Shao Zheng - [Github](https://github.com/zjch022)
 * :white_check_mark: [FileOnTap](https://fileontap.com/heic-to-png/)：HEIC 转 PNG 工具（免费），文件全程在浏览器本地转换、不上传服务器，无需注册、无水印；也支持 HEIC 转 JPG、图片压缩、图片转 PDF
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
