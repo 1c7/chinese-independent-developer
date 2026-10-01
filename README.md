@@ -39,6 +39,9 @@
 #### lukuime - [Github](https://github.com/lukuime)
 * :white_check_mark: [llms.txt Generator](https://llmstxtgenerator.dev)：llms.txt 生成器与校验器（免费），填几项站点信息即可生成符合 llmstxt.org 规范的 Markdown 文件，支持从 sitemap.xml 一键导入全部 URL 并自动生成标题；也能粘贴已有文件校验 H1、链接格式与 URL 有效性，并给出 0-100 的 AI 就绪度评分，无需注册
 
+#### jw0507 - [Github](https://github.com/jw0507/awesome-chinese-ai-prompts)
+* :white_check_mark: [灵感蜂巢 PromptHive](https://www.prompt-hive.net/?utm_source=github&utm_medium=referral)：中文 AI 提示词库，500+ 结构化模板带变量槽位，按小红书、抖音、B 站、知乎、公众号等平台和创作环节分类，填好变量一键复制，免费可用
+
 ### 2026 年 9 月 30 号添加
 
 #### xjokerabab - [Github](https://github.com/xjokerabab)
