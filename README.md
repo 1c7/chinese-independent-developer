@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 1 号添加
 
+#### holobunganan-sketch - [Github](https://github.com/holobunganan-sketch)
+* :white_check_mark: [MSL Desktop](https://msl-desktop.pages.dev/)：面向医学联络官的 Windows 本地工作台，集中管理专家交流、项目、任务、等待事项和日历，AI 整理建议由用户核对后确认
+
 #### Sebastian Wu - [Github](https://github.com/smkwls)
 * :white_check_mark: [MVFlow](https://mvflow.ai/)：AI 音乐视频制作工具，上传歌曲即可生成可编辑分镜，逐镜头调整提示词和场景版本，再与原始音频合成音乐视频；也支持照片配人声生成唱歌口型视频
 
