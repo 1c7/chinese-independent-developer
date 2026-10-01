@@ -26,6 +26,16 @@
 
 ### 2026 年 10 月 1 号添加
 
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [AIInviteCode](https://aiinvitecode.com/)：AI 工具邀请码与推荐码目录，实时更新，代码经过验证
+
+#### huangy7(厦门) - [Github](https://github.com/huangy7)
+* :white_check_mark: [SeshBuddy](https://seshbuddy.huangy.top/)：面向 AI 编码工具（Claude Code、Codex、Gemini、Antigravity、WorkBuddy、DSH 等）的桌面会话浏览器与工作台，提供多 CLI 会话统一管理、Tantivy 毫秒级本地全文检索、Monaco 代码并排 Diff 审查与 API 流量穿透检视；基于 Tauri 2 + Rust 构建，100% 本地离线无遥测，开源免费（支持 macOS / Windows） - [客户端下载](https://github.com/huangy7/seshbuddy/releases)
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [AI Rap Video](https://ai-rap.video/)：上传一张照片、选择一个场景并填上说唱主题，就能生成一段带原创说唱人声和伴奏的短视频
+* :white_check_mark: [What Makes You Fall](https://whatmakesyoufall.pro)：轻量的恋爱人格测试，回答几道题就能看到自己最容易在什么样的人身上心动，结果页面直接给出性格倾向
+
 #### lukuime - [Github](https://github.com/lukuime)
 * :white_check_mark: [llms.txt Generator](https://llmstxtgenerator.dev)：llms.txt 生成器与校验器（免费），填几项站点信息即可生成符合 llmstxt.org 规范的 Markdown 文件，支持从 sitemap.xml 一键导入全部 URL 并自动生成标题；也能粘贴已有文件校验 H1、链接格式与 URL 有效性，并给出 0-100 的 AI 就绪度评分，无需注册
 

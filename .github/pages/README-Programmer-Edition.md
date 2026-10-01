@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 1 号添加
+
+#### AmethystineAlpaca - [Github](https://github.com/AmethystineAlpaca)
+* :clock8: [Speech Wingman](https://github.com/AmethystineAlpaca/speech-wingman)：离线 Mac 语音提醒助手，本机识别中英混说并逐条检查自定义规则，悬浮按钮控制监听；沙盒无网络权限，不自动保存录音，Apple Silicon 源码预览需自行构建 - [构建与使用说明](https://github.com/AmethystineAlpaca/speech-wingman#getting-started)
+
 ### 2026 年 9 月 30 号添加
 
 #### Owaid0723666 - [Github](https://github.com/Owaid0723666)
