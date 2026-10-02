@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 2 号添加
+
+#### Wang Hushuai - [Github](https://github.com/Whs-Codeking)
+* :white_check_mark: [Fomrix](https://fomrix.com/)：AI 3D 模型生成与查看工具，把参考图片或文字描述转换成可预览、下载的 GLB 模型；另有 STL、GLB、OBJ 查看、GLB 转 STL 和 STL 网格检查工具。生成需要账号和积分，浏览器查看与转换工具可免费使用
+
+#### dollarsmaker - [Github](https://github.com/dollarsmaker)
+* :white_check_mark: [Tesla Wrap Generator](https://teslawrapgenerator.com/)：一句话或一张照片生成特斯拉车衣，自动套用你那台车型年份的官方模板，3D 预览没问题就下载，导入车机 Paint Shop 直接上身
+
+#### LiuNengAI - [Github](https://github.com/a941249849)
+* :white_check_mark: [电商卖家 AI 任务模板生成器](https://liunenglabs.xyz/guides/seller-ai-workbench/)：免费的商品文案、客服回复和翻译核对提示词生成器；填写已知资料即可复制结构化任务说明，免注册，输入在浏览器本地处理，不调用 AI，也不上传输入
+
 ### 2026 年 10 月 1 号添加
 
 #### holobunganan-sketch - [Github](https://github.com/holobunganan-sketch)
