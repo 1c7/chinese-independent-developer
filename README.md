@@ -24,7 +24,27 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 2 号添加
+
+#### Wang Hushuai - [Github](https://github.com/Whs-Codeking)
+* :white_check_mark: [Fomrix](https://fomrix.com/)：AI 3D 模型生成与查看工具，把参考图片或文字描述转换成可预览、下载的 GLB 模型；另有 STL、GLB、OBJ 查看、GLB 转 STL 和 STL 网格检查工具。生成需要账号和积分，浏览器查看与转换工具可免费使用
+
+#### dollarsmaker - [Github](https://github.com/dollarsmaker)
+* :white_check_mark: [Tesla Wrap Generator](https://teslawrapgenerator.com/)：一句话或一张照片生成特斯拉车衣，自动套用你那台车型年份的官方模板，3D 预览没问题就下载，导入车机 Paint Shop 直接上身
+
+#### LiuNengAI - [Github](https://github.com/a941249849)
+* :white_check_mark: [电商卖家 AI 任务模板生成器](https://liunenglabs.xyz/guides/seller-ai-workbench/)：免费的商品文案、客服回复和翻译核对提示词生成器；填写已知资料即可复制结构化任务说明，免注册，输入在浏览器本地处理，不调用 AI，也不上传输入
+
 ### 2026 年 10 月 1 号添加
+
+#### holobunganan-sketch - [Github](https://github.com/holobunganan-sketch)
+* :white_check_mark: [MSL Desktop](https://msl-desktop.pages.dev/)：面向医学联络官的 Windows 本地工作台，集中管理专家交流、项目、任务、等待事项和日历，AI 整理建议由用户核对后确认
+
+#### Sebastian Wu - [Github](https://github.com/smkwls)
+* :white_check_mark: [MVFlow](https://mvflow.ai/)：AI 音乐视频制作工具，上传歌曲即可生成可编辑分镜，逐镜头调整提示词和场景版本，再与原始音频合成音乐视频；也支持照片配人声生成唱歌口型视频
+
+#### Shao Zheng - [Github](https://github.com/zjch022)
+* :white_check_mark: [FileOnTap](https://fileontap.com/heic-to-png/)：HEIC 转 PNG 工具（免费），文件全程在浏览器本地转换、不上传服务器，无需注册、无水印；也支持 HEIC 转 JPG、图片压缩、图片转 PDF
 
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [AIInviteCode](https://aiinvitecode.com/)：AI 工具邀请码与推荐码目录，实时更新，代码经过验证
@@ -38,6 +58,9 @@
 
 #### lukuime - [Github](https://github.com/lukuime)
 * :white_check_mark: [llms.txt Generator](https://llmstxtgenerator.dev)：llms.txt 生成器与校验器（免费），填几项站点信息即可生成符合 llmstxt.org 规范的 Markdown 文件，支持从 sitemap.xml 一键导入全部 URL 并自动生成标题；也能粘贴已有文件校验 H1、链接格式与 URL 有效性，并给出 0-100 的 AI 就绪度评分，无需注册
+
+#### jw0507 - [Github](https://github.com/jw0507/awesome-chinese-ai-prompts)
+* :white_check_mark: [灵感蜂巢 PromptHive](https://www.prompt-hive.net/?utm_source=github&utm_medium=referral)：中文 AI 提示词库，500+ 结构化模板带变量槽位，按小红书、抖音、B 站、知乎、公众号等平台和创作环节分类，填好变量一键复制，免费可用
 
 ### 2026 年 9 月 30 号添加
 
