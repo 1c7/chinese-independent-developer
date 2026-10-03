@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 3 号添加
+
+#### oisano11 - [Github](https://github.com/oisano11)
+* :white_check_mark: [中转塔台 Relay Tower](https://github.com/oisano11/relay-tower)：上游半夜涨价、主调账号出故障时不用盯后台，自动提醒、自动切换，手机 Telegram 一键切线；MIT 开源，Docker 一键部署
+
 ### 2026 年 10 月 1 号添加
 
 #### AmethystineAlpaca - [Github](https://github.com/AmethystineAlpaca)

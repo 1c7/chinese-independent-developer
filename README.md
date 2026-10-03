@@ -24,7 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 3 号添加
+
+#### Answer(武汉) - [Github](https://github.com/suiyia)
+* :white_check_mark: [Kiss Generator](https://kissgenerator.app)：AI 接吻图片生成工具，上传两张照片合成一张亲吻合照，支持真人照片和动漫角色，登录即送 10 次免费生成
+
 ### 2026 年 10 月 2 号添加
+
+#### ethansunray - [Github](https://github.com/ethansunray)
+* :white_check_mark: [Visemory](https://visemory.com/zh-CN)：本地素材库搜索工具（macOS 桌面应用），把电脑里的视频、音频和图片建成可搜索的素材库，一个搜索框同时查找台词、画面文字、画面内容、文件名、备注和标签，支持字幕、语义、画面与跨语言搜索，命中结果定位到精确时间码，可预览上下文、收进片段篮并导出带来源信息的素材包 - [下载](https://visemory.com/zh-CN/download)
+
+#### iaminyu - [Github](https://github.com/iaminyu)
+* :white_check_mark: [Captions Generator](https://captionsgenerator.app/)：AI 字幕生成工具，上传视频自动出字幕，能直接改字、选字幕样式、翻译成 100 多种语言或做中英双语，导出带字幕的 MP4 或 SRT/VTT 文件；有免费版和 Pro 订阅
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Hotel Lobby AI](https://hotel-lobby-ai.org/)：上传两张人物照片生成橙色电话亭里的双人说唱视频，自动配人声与伴奏，可选时长、480P/720P 画质与竖屏或横屏，不用写提示词也不用剪时间轴；Google 登录后送 20 积分，够生成一条 4 秒 480P 视频，之后按积分生成
 
 #### Wang Hushuai - [Github](https://github.com/Whs-Codeking)
 * :white_check_mark: [Fomrix](https://fomrix.com/)：AI 3D 模型生成与查看工具，把参考图片或文字描述转换成可预览、下载的 GLB 模型；另有 STL、GLB、OBJ 查看、GLB 转 STL 和 STL 网格检查工具。生成需要账号和积分，浏览器查看与转换工具可免费使用
