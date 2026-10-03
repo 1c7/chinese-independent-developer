@@ -27,11 +27,11 @@
 ### 2026 年 10 月 3 号添加
 
 #### robin - [Github](https://github.com/robin25568)
-* :white_check_mark: [videotopdf.app](https://videotopdf.app) ：将任意视频转换为带时间戳的高清 PDF、结构化笔记与逐字稿
+* :white_check_mark: [videotopdf.app](https://videotopdf.app)：将任意视频转换为带时间戳的高清 PDF、结构化笔记与逐字稿
 
 #### Answer(武汉) - [Github](https://github.com/suiyia)
 * :white_check_mark: [Kiss Generator](https://kissgenerator.app)：AI 接吻图片生成工具，上传两张照片合成一张亲吻合照，支持真人照片和动漫角色，登录即送 10 次免费生成
-  
+
 ### 2026 年 10 月 2 号添加
 
 #### ethansunray - [Github](https://github.com/ethansunray)
