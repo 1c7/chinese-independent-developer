@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 4 号添加
 
+#### 今日宜运营团队 - [Github](https://github.com/homily-qq)
+* :white_check_mark: [今日宜](https://github.com/ljinkai/weekly/issues/386)：微信小程序，测星座、双人趣味匹配、周公解梦与周易摇卦体验；目前已开放功能免费，仅供民俗文化与休闲娱乐参考
+
 #### Ryan Zhu - [Github](https://github.com/GODGOD126)
 * :white_check_mark: [「自听」MyListen](https://apps.apple.com/cn/app/id6790382144)：把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)
 
