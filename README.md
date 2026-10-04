@@ -24,7 +24,24 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 4 号添加
+
+#### 今日宜运营团队 - [Github](https://github.com/homily-qq)
+* :white_check_mark: [今日宜](https://github.com/ljinkai/weekly/issues/386)：微信小程序，测星座、双人趣味匹配、周公解梦与周易摇卦体验；目前已开放功能免费，仅供民俗文化与休闲娱乐参考
+
+#### Ryan Zhu - [Github](https://github.com/GODGOD126)
+* :white_check_mark: [「自听」MyListen](https://apps.apple.com/cn/app/id6790382144)：把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)
+
 ### 2026 年 10 月 3 号添加
+
+#### dtsola(上海) - [Github](https://github.com/dtsola), [博客](https://www.dtsola.com)
+* :white_check_mark: [小遥Claw/XiaoyaoClaw](https://www.xiaoyaosai.com/)：AI 私人助理，让每个人的数字生活，都有一座自己说了算的小遥；AI 替你干活、替你记住，把所有小遥产品连成一张网 - [更多介绍](https://www.yuque.com/dtsola/wt1gi2)
+
+#### Young - [Github](https://github.com/shanghaiyangming)
+* :white_check_mark: [轻译 · LightTranslate](https://github.com/shanghaiyangming/lighttranslate)：Windows 划词翻译与英语查词工具，按 Ctrl+Alt+Q 在鼠标旁查看中文译文；MIT 开源，提供安装包，使用自己的 DeepSeek API Key，API 按量计费 - [更多介绍与演示](https://github.com/shanghaiyangming/lighttranslate/blob/main/docs/DEMO.md)
+
+#### robin - [Github](https://github.com/robin25568)
+* :white_check_mark: [videotopdf.app](https://videotopdf.app)：将任意视频转换为带时间戳的高清 PDF、结构化笔记与逐字稿
 
 #### Answer(武汉) - [Github](https://github.com/suiyia)
 * :white_check_mark: [Kiss Generator](https://kissgenerator.app)：AI 接吻图片生成工具，上传两张照片合成一张亲吻合照，支持真人照片和动漫角色，登录即送 10 次免费生成
