@@ -32,6 +32,9 @@
 #### Ryan Zhu - [Github](https://github.com/GODGOD126)
 * :white_check_mark: [「自听」MyListen](https://apps.apple.com/cn/app/id6790382144)：把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)
 
+#### hiyufan - [Github](https://github.com/hiyufan)
+* :white_check_mark: [求原图](https://ynvan.com)：抖音、小红书、快手、B站、YouTube 等 30 多个平台的无水印视频和原图提取，实况图能打包成 iPhone 实况或安卓动态照片，视频可截一段转 GIF 或实况；免费不用登录，MIT 开源 - [GitHub](https://github.com/hiyufan/shizhen)
+
 ### 2026 年 10 月 3 号添加
 
 #### dtsola(上海) - [Github](https://github.com/dtsola), [博客](https://www.dtsola.com)
