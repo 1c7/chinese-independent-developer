@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 5 号添加
+
+#### YehyaKin - [Github](https://github.com/yehyakin)
+* :white_check_mark: [cetxt](https://cetxt.com/)：llms.txt 中文生成与体检工具，填表单 30 秒生成规范文件，在线体检打分，附 1000 中文大站实测数据 - [GitHub 仓库](https://github.com/yehyakin/llms-txt-cn)
+
 ### 2026 年 10 月 4 号添加
 
 #### James Parker - [Github](https://github.com/paidx2006)
