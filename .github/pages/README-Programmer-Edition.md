@@ -21,6 +21,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### oisano11 - [Github](https://github.com/oisano11)
 * :white_check_mark: [中转塔台 Relay Tower](https://github.com/oisano11/relay-tower)：上游半夜涨价、主调账号出故障时不用盯后台，自动提醒、自动切换，手机 Telegram 一键切线；MIT 开源，Docker 一键部署
 
+#### Jack - [Github](https://github.com/jcaiagent7143-ui)
+* :white_check_mark: [LinkDigest](https://linkdigest.dev/zh)：给 AI Agent 用的小红书 / 抖音链接读取器，一次调用把链接变成文字：小红书图文笔记逐图 OCR、视频带时间戳逐字稿和画面文字，可选爆款拆解（引用逐字核对原文）；远程 MCP 一行接入 Claude Code / Cursor / Cherry Studio，也有 REST API；注册送 10 积分，之后按量付费（支持支付宝）；不支持 B站 - [开源客户端与接入说明](https://github.com/jcaiagent7143-ui/linkdigest-mcp)
+
 ### 2026 年 10 月 1 号添加
 
 #### AmethystineAlpaca - [Github](https://github.com/AmethystineAlpaca)
