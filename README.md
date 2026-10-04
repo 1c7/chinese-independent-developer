@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 4 号添加
+
+#### Ryan Zhu - [Github](https://github.com/GODGOD126)
+* :white_check_mark: [「自听」MyListen](https://apps.apple.com/cn/app/id6790382144)：把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)
+
 ### 2026 年 10 月 3 号添加
 
 #### dtsola(上海) - [Github](https://github.com/dtsola), [博客](https://www.dtsola.com)
