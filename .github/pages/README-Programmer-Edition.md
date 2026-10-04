@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 4 号添加
+
+#### SandGrid(北京) - [Github](https://github.com/lcy362), [博客](https://lichuanyang.top/)
+* :white_check_mark: [Flint Skills Manager](https://flint.lichuanyang.top)：本地优先的 AI Skills 资产管理器，把分散在 Claude Code 等工具里的 skill 收进可版本化的本地资产库，统一去重、打标签、按预设部署到各个 agent，换工具资产也带得走；`npx flint-skills-hub` 即用，支持 macOS / Windows / Linux，MIT 开源
+
 ### 2026 年 10 月 3 号添加
 
 #### oisano11 - [Github](https://github.com/oisano11)
