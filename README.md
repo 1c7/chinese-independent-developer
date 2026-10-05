@@ -24,6 +24,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 5 号添加
+
+#### Harry Jia - [Github](https://github.com/thefakearchitectstudio-oss)
+* :white_check_mark: [摊账](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/)：面向市集摊主的免费单场经营结余试算网页，扣除售出货品成本、损耗和活动费用后计算结余；无需注册，金额按人民币展示，提供中英文界面
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Gas Station Dance](https://gasstationdance.pro)：上传一到三张照片生成加油站日落前的潮流短视频，跳舞、自拍、下车三段镜头逐个换上你和朋友的脸，场景与运镜固定不变，输出 10 秒 9:16 无声 MP4；按积分计费
+* :white_check_mark: [Raindance AI](https://raindance-ai.pro/)：上传两人各一张照片生成日落码头与海滩的多机位潮流短视频，整段镜头的两位表演者换成你们，保留原始运镜与配音，输出 28 秒 MP4；按积分计费
+
 ### 2026 年 10 月 4 号添加
 
 #### James Parker - [Github](https://github.com/paidx2006)
