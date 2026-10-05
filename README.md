@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 5 号添加
 
+#### Ethan Lian(上海) - [Github](https://github.com/lianyixin)
+* :white_check_mark: [问迹 wenjiAI](https://wenjiai.cn)：AI 原生创投情报站，按问题找赛道，给出赛道分析、赛道榜单和商业速览，并追踪热点事件与论文，帮创业者和投资人找准方向
+
 #### xianyu110 - [Github](https://github.com/xianyu110)
 * :white_check_mark: [InkDoo](https://inkdoo.app/zh)：贴一篇文章或链接，AI 自动挑出该配图的段落，用同一个手绘小角色画出整套配图，支持上传自己的 IP 形象；注册送免费额度，按张一次性付费 - [更多介绍](https://github.com/xianyu110/inkdoo-ai-illustration)
 
