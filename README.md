@@ -31,6 +31,7 @@
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
 * :white_check_mark: [InkDoo](https://inkdoo.app/zh)：贴一篇文章或链接，AI 自动挑出该配图的段落，用同一个手绘小角色画出整套配图，支持上传自己的 IP 形象；注册送免费额度，按张一次性付费 - [更多介绍](https://github.com/xianyu110/inkdoo-ai-illustration)
+* :white_check_mark: [HallowPaws](https://hallowpaws.com)：上传一张猫狗照片，选 16 款万圣节造型之一，约 30 秒生成保留品种、毛色和五官的高清变装照；免费带水印预览无需注册，注册后可保存高清图，高清包 $1.99 起一次性付费无订阅 - [更多介绍](https://github.com/xianyu110/hallowpaws-ai-pet-halloween)
 
 #### Harry Jia - [Github](https://github.com/thefakearchitectstudio-oss)
 * :white_check_mark: [摊账](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/)：面向市集摊主的免费单场经营结余试算网页，扣除售出货品成本、损耗和活动费用后计算结余；无需注册，金额按人民币展示，提供中英文界面
@@ -41,6 +42,10 @@
 * :white_check_mark: [AI Hair Color Changer](https://aihaircolorchanger.im)：上传自拍选一个发色即可预览换色效果，只改头发，脸、发型和背景保持原样；内置 20 种发色与 5 种染法，可自定义颜色，基于 Ideogram 4.5 Edit，新账号首次免费，之后按积分计费
 * :white_check_mark: [AI Video Extender](https://ai-videoextender.pro/)：上传一段视频并描述后续情节，在片段结尾续上 5 到 15 秒并合成一个 MP4；可选 MiniMax H3 Max、H3 Max Turbo 或 Veo 3.1 Fast 三种模型，Veo 保持同一镜头、H3 换新机位，按积分计费，新账号送 6 积分
 * :white_check_mark: [South Park Test](https://southparktest.pro/)：回答 35 道简短陈述题，测出你最像《南方公园》里的哪个角色；非官方粉丝测试，无需注册
+* :white_check_mark: [Attractiveness Test](https://attractivenesstest.pro)：上传一张照片，用 478 个面部特征点算出 0 到 100 的对称性与比例评分并逐项解释；浏览器内运行，照片不出设备
+* :white_check_mark: [Flow AI Video](https://flowaivideo.im)：输入文字或上传单张图片生成几秒带同步音效的动态视频，画面保持原图风格；可选 Gemini Omni 1.1 Flash 等模型，有免费额度
+* :white_check_mark: [Unblur Video](https://unblurvideo.pro)：上传一段模糊视频，修复手抖、过度放大和弱光拍摄造成的画面，输出带原音频的清晰 MP4；首帧还原免费预览，无需安装软件
+* :white_check_mark: [AI Zombie](https://aizombie.pro/)：上传本人或宠物的两张照片，生成一段 AI 僵尸潮流短视频，人物转身变成僵尸后切到最快乐的回忆镜头；固定场景与运镜，按积分计费
 
 ### 2026 年 10 月 4 号添加
 

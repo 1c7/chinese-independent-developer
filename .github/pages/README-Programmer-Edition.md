@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 5 号添加
 
+#### coffeecoproject - [Github](https://github.com/coffeecoproject)
+* :white_check_mark: [LayerMap](https://github.com/coffeecoproject/layermap)：给编程 Agent 用的代码调用关系地图，一次调用把某个函数的调用方一路追到 HTTP 接口，回答「改这里会影响哪些接口」；用各语言自己的编译器解析 TypeScript/JavaScript、Go、Python、Java，完全本地运行不上传代码；提供 MCP 服务与插件，已收录在官方 MCP Registry，Apache-2.0 开源 - [中文说明](https://github.com/coffeecoproject/layermap/blob/main/README.zh-CN.md)
+
 #### saime428 - [Github](https://github.com/saime428)
 * :white_check_mark: [AI Code Usage Tray](https://github.com/saime428/ai-code-usage-tray)：Windows 托盘用量监视器，一处看 Claude Code、Codex、Grok CLI、Antigravity、OpenCode 的 token 用量和金额，Claude、Codex、Grok 的官方额度在贴边悬浮条上常驻显示，另有跨工具的按天、项目、模型用量报表；只读本机会话记录，不上传用量数据，MIT 开源，提供 Windows 安装包 - [中文说明](https://github.com/saime428/ai-code-usage-tray/blob/main/README.zh-CN.md)
 
