@@ -26,11 +26,22 @@
 
 ### 2026 年 10 月 4 号添加
 
+#### James Parker - [Github](https://github.com/paidx2006)
+* :white_check_mark: [Decisions API](https://decisionapi.net/)：决策模型对比与调用平台，在同一个在线 Playground 里比较 Jev、Laya、Kev、Solar、Span 等多种模型，用「状态 + 问题」的结构一次提出最多 8 个类型化问题，返回带概率的选择、评分与是非判断；Playground 不限量免费，接入后端用统一 REST API 与积分计费
+
+#### 王潇 - [Github](https://github.com/0603wangxiao)
+* :white_check_mark: [生命之祭 · 地缘风险沙盘](https://0603wangxiao.github.io/geosandbox/)：战争伤亡数据网站，每个数字都标出信源和统计口径，并写明这是「经核实的最低确证数」；已核实事实与推演情景分成两栏，推演一律加标签
+* :white_check_mark: [《三变·六反》知识图谱](https://0603wangxiao.github.io/36wx/kg/)：网页版知识图谱，把一套自创分析框架画成可缩放的节点图，三章、六反、卦象与偈文依序展开，点开每个节点能看到释义和出处；整个图谱是单个 HTML 文件，无任何外部依赖
+* :white_check_mark: [三变·六反 · 投资策略图谱](https://0603wangxiao.github.io/36wx/invest/)：投资研究知识图谱，把同一套分析框架用在投资上的展开，讲的是概念关系与操作次序，不含任何具体标的或买卖建议
+
 #### 今日宜运营团队 - [Github](https://github.com/homily-qq)
 * :white_check_mark: [今日宜](https://github.com/ljinkai/weekly/issues/386)：微信小程序，测星座、双人趣味匹配、周公解梦与周易摇卦体验；目前已开放功能免费，仅供民俗文化与休闲娱乐参考
 
 #### Ryan Zhu - [Github](https://github.com/GODGOD126)
 * :white_check_mark: [「自听」MyListen](https://apps.apple.com/cn/app/id6790382144)：把 AI 长文和读书笔记在 iPhone/iPad 本地变成音频节目，支持锁屏播放与断点续听；可试用，完整功能需 App 内解锁，无订阅、无广告 - [更多介绍](https://mylisten.vibestation.cn/)
+
+#### hiyufan - [Github](https://github.com/hiyufan)
+* :white_check_mark: [求原图](https://ynvan.com)：抖音、小红书、快手、B站、YouTube 等 30 多个平台的无水印视频和原图提取，实况图能打包成 iPhone 实况或安卓动态照片，视频可截一段转 GIF 或实况；免费不用登录，MIT 开源 - [GitHub](https://github.com/hiyufan/shizhen)
 
 ### 2026 年 10 月 3 号添加
 
