@@ -281,6 +281,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 - 英文站点 + 中文自然留言，账号 profile 无任何中文痕迹 → 收录（例：MailMergeOnline，Linky-AIinlink，英文站 mailmergeonline.com，评论正文自然中文 → 收录主版面）
 - profile 全空/全 fork/PR 正文英文，但 issue 正文自然中文 或 团队仓库里有中文成员 → 收录（例：SandBase CLI，denial123789，issue 中文自然、sandbaseai 团队有 liyb/163 邮箱 → 收录程序员版面）
 - GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
+- **现居海外 ≠ 老外，海外中国学生/研究员照常收录**（2026-10-05 补）。`location` 写 New York / Boston / San Francisco 等国外城市**不能单独作为拒绝依据**，要继续看：`name` 是不是中国姓氏的拼音（Lian / Wang / Chen / Zhang 这类）、`company` 里有没有中国高校（`SJTU`、`Tsinghua`、`Peking`、`ZJU` 等）、评论正文是不是自然中文。实测：lianyixin，`name: "Ethan Lian"`、`location: New York`、`company: "MSDS @ Columbia University | BE @ SJTU"`——Lian 是中国姓、SJU 是上海交大、评论是通顺自然的中文 → 收录主版面。**同理，`location` 写着中国城市也不能单独作为收录依据**，两边都要看，合起来才有结论。
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
 
 **判定为老外（确凿证据）后的处理：**
@@ -447,6 +448,8 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 - 存档文件自身也盯住 `wc -c`：接近 500,000 字节时把较新的一半拆成 README-Archive-2.md（编号拆分时就冻结，之后不再改名）
 
 **所有项目的文件修改全部做完后**，统一一次性提交推送到 master：
+
+⚠️ **`git pull` 必须在 `git commit` 之前**，不能在 commit 之后才想起来拉。检查三的 `gh pr merge` 会往远端 master 推新 commit，本地此时是落后的；如果先 commit 再 push，会被拒（`hint: the same ref... use 'git pull' before pushing again`），多一轮往返。2026-10-05 实测：合并 PR #1463 后直接 commit 问迹条目，push 被拒。正确顺序是「fetch/pull → 编辑 → add → commit → push」，或直接 `git pull --rebase origin master` 后 push（rebase 完**必须 `grep` 确认自己刚加的条目还在**，rebase 有可能把冲突解决搞丢）。
 
 ```bash
 git checkout master && git pull origin master
