@@ -375,7 +375,20 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 核作者身份的办法：`gh api repos/<owner>/<repo>/contributors | jq -r '.[] | "\(.login) :: \(.contributions)"'`，贡献数最高的那个通常就是作者。
 先例：2026-09-24 PR #1416（Orbi，`orbi.build/zh/?ref=1c7-2609`）——提交者 xqliu 在 `orbi-build/orbi` 有 1050 次提交（贡献者第一）、orbi.build 全站无 affiliate/返佣字样 → 判定为作者自建来源追踪，正常合并进程序员版面。归档里也早有 `jsonman.bakchoi.com/?ref=1c7` 这种先例。
 
-⚠️ 上面这条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
+⚠️ **提交者自己写的描述与站点实际可能不符，代拟描述时以站点 meta description 为准。**（2026-10-05 补）
+同一个 AI 套壳批量投稿季，同一作者常在 issue 里把产品功能写错一两个关键参数，照抄就会把错误信息写进 README 且永久留存。必查动作：
+```bash
+curl -sL --max-time 20 "<url>" | grep -oE 'name="description" content="[^"]*"' | head -2
+curl -sL --max-time 20 "<url>" | grep -oE '<title>[^<]*</title>' | head -2
+```
+实测（2026-10-05 weidacn 四个 issue）：#1470 写 AI Zombie「上传一张照片即可生成」，站点 title 与 description 都是 **from Two Photos**（本人或宠物各一张）；#1467 写 Flow AI Video「上传单张图片即可生成几秒的动态视频」，站点实际是 **Text & Image to Video 双模**、输出**带同步音效**、可选 Gemini Omni 1.1 Flash。两条都按站点改写了。凡是描述里出现**数量词、输入模态、是否带音频/水印、计费单位**这类可验证参数，都要用 meta description 复核一遍再落笔。
+
+⚠️ **「affiliate」命中的三种上下文要分清，第三种是新出现的。**（2026-10-05 补）
+除已有的「not affiliated with X, Inc.」商标免责声明外，2026-10-05 见到的是**蹭大牌模型做的 SEO 问答**：
+`flowaivideo.im` 页面里写「Is Flow AI Video affiliated with Google? — No. flowaivideo.im is an independent service. It is not Google Flow and is not affiliated with or endorsed by Google.」
+这是**用 FAQ 结构撇清与 Google Flow 的关系**，同样属于免责声明，与联盟分销无关，照常收录。看到 `affiliated` 时判断依据仍是：主语是「与某某无关」还是「有联盟计划」。
+
+⚠️ 上面两条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
 
 ⚠️ **grep 到 `affiliate` 不等于返佣：先看上下文，常见的是「not affiliated with X, Inc.」免责声明。**（2026-10-02 补）
 英文独立产品为了避嫌，几乎都会在页脚写「Not affiliated with Tesla, Inc.」「is not affiliated with or endorsed by ...」，
@@ -581,3 +594,4 @@ done < /tmp/sig_dirty.txt
 - 幂等性靠 URL grep 检查保证，不依赖 reaction 标记
 - **仅检查一、检查二**（issue #160 评论 / 独立 issue）来源的内容：所有文件修改完成后统一一次 commit 推 master，不建分支、不开 PR。**这条不适用于检查三的 PR**——PR 来源的内容必须走上文「检查三」定义的真正合并流程（`gh pr merge` 或本地 `git merge --no-ff` 保留贡献者归属），禁止把 PR 里的内容当成检查一/二那样直接誊抄进 master 再关闭 PR（历史事故见上文 #1220/#1221/#1226/#1227）
 - 三个检查都没有新内容时，跳过处理流程，但仍要跑「收尾扫描」再结束
+- ⚠️ **收尾复查时 `issues?state=open` 会把刚关闭的 issue 仍列成 open**（列表接口缓存延迟，2026-10-05 实测 #1467 关闭后仍出现在 open 列表里）。看到自己刚处理的 issue 还挂在 open 列表时，**不要重跑关闭命令**，单独 `gh api repos/1c7/chinese-independent-developer/issues/<number> | jq '{state, state_reason}'` 确认真实状态即可。
