@@ -43,9 +43,6 @@
 #### hiyufan - [Github](https://github.com/hiyufan)
 * :white_check_mark: [求原图](https://ynvan.com)：抖音、小红书、快手、B站、YouTube 等 30 多个平台的无水印视频和原图提取，实况图能打包成 iPhone 实况或安卓动态照片，视频可截一段转 GIF 或实况；免费不用登录，MIT 开源 - [GitHub](https://github.com/hiyufan/shizhen)
 
-#### jaychouchannel - [Github](https://github.com/jaychouchannel)
-* :white_check_mark: [夜观天象 Astrolabe](https://github.com/jaychouchannel/Astrolabe)：OKX 行情与账户监控面板，实时展示币价、K 线、资金费率和自己持仓的未实现盈亏，行情剧烈波动、资金费率越阈或账户开平仓、权益变动时通过 Telegram 推送提醒；只观测不下单，无任何交易权限，不配 API Key 也能看公开行情，网页打开即用
-
 ### 2026 年 10 月 3 号添加
 
 #### dtsola(上海) - [Github](https://github.com/dtsola), [博客](https://www.dtsola.com)
