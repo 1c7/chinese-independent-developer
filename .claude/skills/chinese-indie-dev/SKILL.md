@@ -119,7 +119,7 @@ grep -rF "<产品完整URL>" README.md .github/pages/README-Programmer-Edition.m
 - URL 已存在 → 跳过，对 README 不做任何操作，**也不发致谢评论**（那是老作者重复提交自己已收录的产品，说"已添加到主版面"会误导；2026-09-22 shanleiguang 重复提交 vPlayer HiFi，该条 2026-08-08 已收录 → 静默跳过）
 - URL 不存在 → 进入「通用处理流程」
 - 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
-- ⚠️ **同一款产品换个域名重复提交，URL 去重挡不住，但也不是拒绝理由**（2026-09-30 补）。只要它是真实可用、非大厂、非返佣的独立产品、**产品名或站点实际用途能区分开**，就照常收录。典型场景：同一模型/同一 API 的不同套壳站点会成簇投稿（Jev 系列：jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net 在两周内分别由不同账号提交）。处理方式：**收录，但代拟描述时必须写出它自己独有的功能点**（例如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目的描述，避免列表里出现两行看不出差别的同款。簇本身不构成偏见——每个提交者的身份判断仍按「身份判断」章节单独走。
+- ⚠️ **同一款产品换个域名重复提交，URL 去重挡不住，但也不是拒绝理由**（2026-09-30 补）。只要它是真实可用、非大厂、非返佣的独立产品、**产品名或站点实际用途能区分开**，就照常收录。典型场景：同一模型/同一 API 的不同套壳站点会成簇投稿（Jev 系列：jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net 在两周内分别由不同账号提交；AI 潮流短视频系列：gasstationdance.pro、raindance-ai.pro，同一作者同一批投稿）。处理方式：**收录，但代拟描述时必须写出它自己独有的功能点**（例如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目的描述，避免列表里出现两行看不出差别的同款。簇本身不构成偏见——每个提交者的身份判断仍按「身份判断」章节单独走。
 
 ⚠️ **72 小时窗口比单次运行间隔更宽，同一条评论可能在连续两次运行中都落在窗口内。** 对于最终被判定为「拒绝」（垃圾广告 / 非中国开发者）的评论，因为不会在 README 里留下 URL 痕迹，上面的 URL 去重挡不住重复处理。处理每条评论、判断要不要发拒绝回复之前，先检查该评论下面是否已经有 `1c7` 或 `claude[bot]` 发过 `@<提交者用户名>` 开头的回复（即这条评论已经被上一次运行处理过）：
 ```bash
@@ -337,6 +337,17 @@ curl -sL --max-time 20 "<提交者给的URL>" | grep -oE '<title>[^<]*</title>|o
 ⚠️ **不要把「返回 5xx / 限流页」当成"站点挂了"或"无法核实"。**（2026-09-30 补）
 curl 与 WebFetch 都拿到 503 时，先读那个错误页的正文：如果页面自述是「今日访问量已达上限，明早 08:00 自动恢复」这类**站点自己的日限额流**，说明站点真实在跑、还跑得动，正常收录。
 是「限流」还是「废弃」，区别就在错误页正文有没有站长自己写的说明。实测：yiminshuju.com 双通道都 503，正文写明「数据服务今日访问量已达上限，北京时间 08:00 自动恢复」→ 收录主版面。
+
+⚠️ **403 Cloudflare 拦截页同样不等于"站点挂了/无法核实"。**（2026-10-05 补）
+curl 与 WebFetch 都拿到 `403 Attention Required! | Cloudflare`「Sorry, you have been blocked」时，那是 WAF 按来源 IP/机房段拦的**访问者拦截**，
+跟站点本身死活无关。判据：错误页写的是「You are unable to access <域名>」「触发原因可能是提交了某个词或 SQL 命令」——主语是**你被拦**，
+不是站点报错。此时按「能收就收」+ 提交内容本身（详细中文正文、URL 干净无追踪参数）正常收录，不要以"无法核实"拒绝。
+实测：tanzhang-market-kit.hypebeast2k17.chatgpt.site 双通道 403 → 收录主版面。
+
+⚠️ **托管面域名 ≠ 大厂产品，不要因为域名带大厂字样就判"非独立开发者"。**（2026-10-05 补）
+常见托管面：`*.pages.dev`（Cloudflare）、`*.github.io`、`*.vercel.app`、`*.netlify.app`、`*.chatgpt.site`（OpenAI，
+根域 `chatgpt.site` 301 跳到 `chatgpt.com/features/sites/`）。提交者只是把自建页面挂在上面，性质和 GitHub Pages 一样，
+不构成"大厂产品"这个拒绝理由。顺手 `whois <根域>` 能确认归属，但结论不影响收录判断。
 
 ⚠️ 这两类都**先查证再下结论**，不要凭域名观感猜。顺手看一眼 `gh api "repos/1c7/chinese-independent-developer/issues?state=all&creator=<username>&per_page=20"`，有推广前科的账号是强信号。
 
