@@ -38,6 +38,9 @@
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Gas Station Dance](https://gasstationdance.pro)：上传一到三张照片生成加油站日落前的潮流短视频，跳舞、自拍、下车三段镜头逐个换上你和朋友的脸，场景与运镜固定不变，输出 10 秒 9:16 无声 MP4；按积分计费
 * :white_check_mark: [Raindance AI](https://raindance-ai.pro/)：上传两人各一张照片生成日落码头与海滩的多机位潮流短视频，整段镜头的两位表演者换成你们，保留原始运镜与配音，输出 28 秒 MP4；按积分计费
+* :white_check_mark: [AI Hair Color Changer](https://aihaircolorchanger.im)：上传自拍选一个发色即可预览换色效果，只改头发，脸、发型和背景保持原样；内置 20 种发色与 5 种染法，可自定义颜色，基于 Ideogram 4.5 Edit，新账号首次免费，之后按积分计费
+* :white_check_mark: [AI Video Extender](https://ai-videoextender.pro/)：上传一段视频并描述后续情节，在片段结尾续上 5 到 15 秒并合成一个 MP4；可选 MiniMax H3 Max、H3 Max Turbo 或 Veo 3.1 Fast 三种模型，Veo 保持同一镜头、H3 换新机位，按积分计费，新账号送 6 积分
+* :white_check_mark: [South Park Test](https://southparktest.pro/)：回答 35 道简短陈述题，测出你最像《南方公园》里的哪个角色；非官方粉丝测试，无需注册
 
 ### 2026 年 10 月 4 号添加
 
