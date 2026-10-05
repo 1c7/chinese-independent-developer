@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 5 号添加
 
+#### xianyu110 - [Github](https://github.com/xianyu110)
+* :white_check_mark: [InkDoo](https://inkdoo.app/zh)：贴一篇文章或链接，AI 自动挑出该配图的段落，用同一个手绘小角色画出整套配图，支持上传自己的 IP 形象；注册送免费额度，按张一次性付费 - [更多介绍](https://github.com/xianyu110/inkdoo-ai-illustration)
+
 #### Harry Jia - [Github](https://github.com/thefakearchitectstudio-oss)
 * :white_check_mark: [摊账](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/)：面向市集摊主的免费单场经营结余试算网页，扣除售出货品成本、损耗和活动费用后计算结余；无需注册，金额按人民币展示，提供中英文界面
 
