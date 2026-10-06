@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 6 号添加
 
+#### YehyaKin - [Github](https://github.com/yehyakin)
+* :white_check_mark: [cetxt](https://cetxt.com/)：llms.txt 中文生成与体检工具，填表单 30 秒生成规范文件，在线体检打分，附 1000 中文大站实测数据 - [GitHub 仓库](https://github.com/yehyakin/llms-txt-cn)
+
 #### Ayden - [Github](https://github.com/Ayden-123)
 * :white_check_mark: [Image to Anime](https://imagetoanime.co/)：浏览器内的 AI 照片转动漫风格工具，照片和插画都能上传，选定风格后保留人物关键特征，生成完可直接下载
 
