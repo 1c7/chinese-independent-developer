@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 6 号添加
+
+#### qybaihe - [Github](https://github.com/qybaihe)
+* :white_check_mark: [mu](https://github.com/qybaihe/mu)：编程 Agent，带一个判定内核：30 多个决策点上的例行判断交给小而快的判定模型 Jev，比如长工具输出里哪些片段进上下文、被规则拦下的命令是不是用户要的、网页和 MCP 结果里有没有冲着模型来的指令，大模型只管干活，每次判断都记进本地账本；基于 pi 与 AionUi，命令行 `npm i -g mu-agent` 即用，桌面端支持 macOS / Windows / Linux，MIT 开源（桌面端 Apache-2.0） - [中文说明](https://github.com/qybaihe/mu/blob/main/docs/readme/README.zh-CN.md)
+
 ### 2026 年 10 月 5 号添加
 
 #### coffeecoproject - [Github](https://github.com/coffeecoproject)
