@@ -27,7 +27,6 @@
 ### 2026 年 10 月 6 号添加
 
 #### Bill Chan(香港) - [Github](https://github.com/billpwchan)
-* :white_check_mark: [霓虹天頂 Neon Zenith](https://zenith.billpwchan.art)：浏览器里的 3D 赛博九龙，从庙街夜市开车出发，可以一路飞上 1418 米高的塔顶，9373 栋楼都能降落；地面的九巴和的士靠左行驶、遇红灯会停，另有 4 个计时赛和 31 块隐藏碎片，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/neon-zenith)
 * :white_check_mark: [桜幻想 Sakura Fantasy](https://sakura.billpwchan.art)：浏览器里的 3D 日本河谷，坐小船从晨雾浅滩一路漂到千本鸟居，季节、时辰和天气都能切换，配水声和筝，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/sakura-fantasy)
 
 #### YehyaKin - [Github](https://github.com/yehyakin)
@@ -251,7 +250,7 @@
 ### 2026 年 9 月 22 号添加
 
 #### xiaoyaohou19910610-bit - [Github](https://github.com/xiaoyaohou19910610-bit)
-* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：中文副业案例库，把公开的真实项目经历整理成可筛选的案例解读，可按平台、项目和技能查找，并查看成绩口径、适配条件、风险与原文入口
+* :white_check_mark: [精选副业](https://jingxuan-fuye.pages.dev/)：免费中文副业案例库，可按平台、项目和技能筛选，查看成绩口径、适配条件与原帖入口；附无需登录的副业方向测评 - [方向测评](https://jingxuan-fuye.pages.dev/tools/sidehustle-check/)
 
 #### Jun(上海) - [Github](https://github.com/2456868764)
 * :white_check_mark: [Jev Guide](https://jev.guide/)：发现 Jev 的真实应用。从官方发布到真实演示，在一个地方探索 TypeSafe Jev。按行业寻找用例，查看 X 原帖截图，并直接在站内播放原视频

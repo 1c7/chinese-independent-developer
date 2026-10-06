@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 6 号添加
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [霓虹天頂 Neon Zenith](https://zenith.billpwchan.art)：浏览器里的 3D 赛博九龙，从庙街夜市开车出发，可以一路飞上 1418 米高的塔顶，9373 栋楼都能降落；地面的九巴和的士靠左行驶、遇红灯会停，另有 4 个计时赛和 31 块隐藏碎片，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/neon-zenith)
+
 ### 2026 年 9 月 22 号添加
 
 #### sam ice(深圳) - [Github](https://github.com/sam-ice-star/steal-an-egg)
