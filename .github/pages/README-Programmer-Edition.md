@@ -16,7 +16,23 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 6 号添加
+
+#### qybaihe - [Github](https://github.com/qybaihe)
+* :white_check_mark: [mu](https://github.com/qybaihe/mu)：编程 Agent，带一个判定内核：30 多个决策点上的例行判断交给小而快的判定模型 Jev，比如长工具输出里哪些片段进上下文、被规则拦下的命令是不是用户要的、网页和 MCP 结果里有没有冲着模型来的指令，大模型只管干活，每次判断都记进本地账本；基于 pi 与 AionUi，命令行 `npm i -g mu-agent` 即用，桌面端支持 macOS / Windows / Linux，MIT 开源（桌面端 Apache-2.0） - [中文说明](https://github.com/qybaihe/mu/blob/main/docs/readme/README.zh-CN.md)
+
+### 2026 年 10 月 5 号添加
+
+#### coffeecoproject - [Github](https://github.com/coffeecoproject)
+* :white_check_mark: [LayerMap](https://github.com/coffeecoproject/layermap)：给编程 Agent 用的代码调用关系地图，一次调用把某个函数的调用方一路追到 HTTP 接口，回答「改这里会影响哪些接口」；用各语言自己的编译器解析 TypeScript/JavaScript、Go、Python、Java，完全本地运行不上传代码；提供 MCP 服务与插件，已收录在官方 MCP Registry，Apache-2.0 开源 - [中文说明](https://github.com/coffeecoproject/layermap/blob/main/README.zh-CN.md)
+
+#### saime428 - [Github](https://github.com/saime428)
+* :white_check_mark: [AI Code Usage Tray](https://github.com/saime428/ai-code-usage-tray)：Windows 托盘用量监视器，一处看 Claude Code、Codex、Grok CLI、Antigravity、OpenCode 的 token 用量和金额，Claude、Codex、Grok 的官方额度在贴边悬浮条上常驻显示，另有跨工具的按天、项目、模型用量报表；只读本机会话记录，不上传用量数据，MIT 开源，提供 Windows 安装包 - [中文说明](https://github.com/saime428/ai-code-usage-tray/blob/main/README.zh-CN.md)
+
 ### 2026 年 10 月 4 号添加
+
+#### jaychouchannel - [Github](https://github.com/jaychouchannel)
+* :white_check_mark: [夜观天象 Astrolabe](https://github.com/jaychouchannel/Astrolabe)：OKX 行情与账户监控面板，实时展示币价、K 线、资金费率和自己持仓的未实现盈亏，行情剧烈波动、资金费率越阈或账户开平仓、权益变动时通过 Telegram 推送提醒；只观测不下单，无任何交易权限，不配 API Key 也能看公开行情 — 需自建 Python 服务，MIT 开源
 
 #### SandGrid(北京) - [Github](https://github.com/lcy362), [博客](https://lichuanyang.top/)
 * :white_check_mark: [Flint Skills Manager](https://flint.lichuanyang.top)：本地优先的 AI Skills 资产管理器，把分散在 Claude Code 等工具里的 skill 收进可版本化的本地资产库，统一去重、打标签、按预设部署到各个 agent，换工具资产也带得走；`npx flint-skills-hub` 即用，支持 macOS / Windows / Linux，MIT 开源
@@ -765,10 +781,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2025 年 4 月 25 号添加
 #### 西风逍遥游(湾区) - [Github](https://github.com/sunxfancy/SSUI)
 * :white_check_mark: [SSUI](https://github.com/sunxfancy/SSUI)：基于安全 Python 脚本的 stable diffusion AI 绘图工具，可以根据脚本中函数的类型自动生成 UI 界面，能方便快捷地复现其他用户的工作流
-
-### 2025 年 4 月 22 号添加
-#### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
-* :white_check_mark: [ioe 库存管理系统](https://github.com/zhtyyx/ioe)：基于 Django 开发的综合性库存管理系统，专为零售商店、小型仓库和商品销售场所设计。系统提供了完整的商品管理、库存跟踪、销售记录、会员管理和数据分析功能，帮助企业高效管理库存和销售流程
 
 ### 2025 年 4 月 15 号添加
 #### daya0576(上海) - [博客](https://changchen.me)

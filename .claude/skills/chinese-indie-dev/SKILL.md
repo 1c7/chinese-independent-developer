@@ -119,7 +119,7 @@ grep -rF "<产品完整URL>" README.md .github/pages/README-Programmer-Edition.m
 - URL 已存在 → 跳过，对 README 不做任何操作，**也不发致谢评论**（那是老作者重复提交自己已收录的产品，说"已添加到主版面"会误导；2026-09-22 shanleiguang 重复提交 vPlayer HiFi，该条 2026-08-08 已收录 → 静默跳过）
 - URL 不存在 → 进入「通用处理流程」
 - 当前运行中已通过 PR 合并的条目，视为已存在，不再重复处理
-- ⚠️ **同一款产品换个域名重复提交，URL 去重挡不住，但也不是拒绝理由**（2026-09-30 补）。只要它是真实可用、非大厂、非返佣的独立产品、**产品名或站点实际用途能区分开**，就照常收录。典型场景：同一模型/同一 API 的不同套壳站点会成簇投稿（Jev 系列：jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net 在两周内分别由不同账号提交）。处理方式：**收录，但代拟描述时必须写出它自己独有的功能点**（例如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目的描述，避免列表里出现两行看不出差别的同款。簇本身不构成偏见——每个提交者的身份判断仍按「身份判断」章节单独走。
+- ⚠️ **同一款产品换个域名重复提交，URL 去重挡不住，但也不是拒绝理由**（2026-09-30 补）。只要它是真实可用、非大厂、非返佣的独立产品、**产品名或站点实际用途能区分开**，就照常收录。典型场景：同一模型/同一 API 的不同套壳站点会成簇投稿（Jev 系列：jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net 在两周内分别由不同账号提交；AI 潮流短视频系列：gasstationdance.pro、raindance-ai.pro，同一作者同一批投稿）。处理方式：**收录，但代拟描述时必须写出它自己独有的功能点**（例如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目的描述，避免列表里出现两行看不出差别的同款。簇本身不构成偏见——每个提交者的身份判断仍按「身份判断」章节单独走。
 
 ⚠️ **72 小时窗口比单次运行间隔更宽，同一条评论可能在连续两次运行中都落在窗口内。** 对于最终被判定为「拒绝」（垃圾广告 / 非中国开发者）的评论，因为不会在 README 里留下 URL 痕迹，上面的 URL 去重挡不住重复处理。处理每条评论、判断要不要发拒绝回复之前，先检查该评论下面是否已经有 `1c7` 或 `claude[bot]` 发过 `@<提交者用户名>` 开头的回复（即这条评论已经被上一次运行处理过）：
 ```bash
@@ -281,6 +281,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 - 英文站点 + 中文自然留言，账号 profile 无任何中文痕迹 → 收录（例：MailMergeOnline，Linky-AIinlink，英文站 mailmergeonline.com，评论正文自然中文 → 收录主版面）
 - profile 全空/全 fork/PR 正文英文，但 issue 正文自然中文 或 团队仓库里有中文成员 → 收录（例：SandBase CLI，denial123789，issue 中文自然、sandbaseai 团队有 liyb/163 邮箱 → 收录程序员版面）
 - GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
+- **现居海外 ≠ 老外，海外中国学生/研究员照常收录**（2026-10-05 补）。`location` 写 New York / Boston / San Francisco 等国外城市**不能单独作为拒绝依据**，要继续看：`name` 是不是中国姓氏的拼音（Lian / Wang / Chen / Zhang 这类）、`company` 里有没有中国高校（`SJTU`、`Tsinghua`、`Peking`、`ZJU` 等）、评论正文是不是自然中文。实测：lianyixin，`name: "Ethan Lian"`、`location: New York`、`company: "MSDS @ Columbia University | BE @ SJTU"`——Lian 是中国姓、SJU 是上海交大、评论是通顺自然的中文 → 收录主版面。**同理，`location` 写着中国城市也不能单独作为收录依据**，两边都要看，合起来才有结论。
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
 
 **判定为老外（确凿证据）后的处理：**
@@ -338,6 +339,17 @@ curl -sL --max-time 20 "<提交者给的URL>" | grep -oE '<title>[^<]*</title>|o
 curl 与 WebFetch 都拿到 503 时，先读那个错误页的正文：如果页面自述是「今日访问量已达上限，明早 08:00 自动恢复」这类**站点自己的日限额流**，说明站点真实在跑、还跑得动，正常收录。
 是「限流」还是「废弃」，区别就在错误页正文有没有站长自己写的说明。实测：yiminshuju.com 双通道都 503，正文写明「数据服务今日访问量已达上限，北京时间 08:00 自动恢复」→ 收录主版面。
 
+⚠️ **403 Cloudflare 拦截页同样不等于"站点挂了/无法核实"。**（2026-10-05 补）
+curl 与 WebFetch 都拿到 `403 Attention Required! | Cloudflare`「Sorry, you have been blocked」时，那是 WAF 按来源 IP/机房段拦的**访问者拦截**，
+跟站点本身死活无关。判据：错误页写的是「You are unable to access <域名>」「触发原因可能是提交了某个词或 SQL 命令」——主语是**你被拦**，
+不是站点报错。此时按「能收就收」+ 提交内容本身（详细中文正文、URL 干净无追踪参数）正常收录，不要以"无法核实"拒绝。
+实测：tanzhang-market-kit.hypebeast2k17.chatgpt.site 双通道 403 → 收录主版面。
+
+⚠️ **托管面域名 ≠ 大厂产品，不要因为域名带大厂字样就判"非独立开发者"。**（2026-10-05 补）
+常见托管面：`*.pages.dev`（Cloudflare）、`*.github.io`、`*.vercel.app`、`*.netlify.app`、`*.chatgpt.site`（OpenAI，
+根域 `chatgpt.site` 301 跳到 `chatgpt.com/features/sites/`）。提交者只是把自建页面挂在上面，性质和 GitHub Pages 一样，
+不构成"大厂产品"这个拒绝理由。顺手 `whois <根域>` 能确认归属，但结论不影响收录判断。
+
 ⚠️ 这两类都**先查证再下结论**，不要凭域名观感猜。顺手看一眼 `gh api "repos/1c7/chinese-independent-developer/issues?state=all&creator=<username>&per_page=20"`，有推广前科的账号是强信号。
 
 **拒绝后的处理**（与「身份判断」章节一致，用提交者的语言）：
@@ -363,7 +375,20 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 核作者身份的办法：`gh api repos/<owner>/<repo>/contributors | jq -r '.[] | "\(.login) :: \(.contributions)"'`，贡献数最高的那个通常就是作者。
 先例：2026-09-24 PR #1416（Orbi，`orbi.build/zh/?ref=1c7-2609`）——提交者 xqliu 在 `orbi-build/orbi` 有 1050 次提交（贡献者第一）、orbi.build 全站无 affiliate/返佣字样 → 判定为作者自建来源追踪，正常合并进程序员版面。归档里也早有 `jsonman.bakchoi.com/?ref=1c7` 这种先例。
 
-⚠️ 上面这条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
+⚠️ **提交者自己写的描述与站点实际可能不符，代拟描述时以站点 meta description 为准。**（2026-10-05 补）
+同一个 AI 套壳批量投稿季，同一作者常在 issue 里把产品功能写错一两个关键参数，照抄就会把错误信息写进 README 且永久留存。必查动作：
+```bash
+curl -sL --max-time 20 "<url>" | grep -oE 'name="description" content="[^"]*"' | head -2
+curl -sL --max-time 20 "<url>" | grep -oE '<title>[^<]*</title>' | head -2
+```
+实测（2026-10-05 weidacn 四个 issue）：#1470 写 AI Zombie「上传一张照片即可生成」，站点 title 与 description 都是 **from Two Photos**（本人或宠物各一张）；#1467 写 Flow AI Video「上传单张图片即可生成几秒的动态视频」，站点实际是 **Text & Image to Video 双模**、输出**带同步音效**、可选 Gemini Omni 1.1 Flash。两条都按站点改写了。凡是描述里出现**数量词、输入模态、是否带音频/水印、计费单位**这类可验证参数，都要用 meta description 复核一遍再落笔。
+
+⚠️ **「affiliate」命中的三种上下文要分清，第三种是新出现的。**（2026-10-05 补）
+除已有的「not affiliated with X, Inc.」商标免责声明外，2026-10-05 见到的是**蹭大牌模型做的 SEO 问答**：
+`flowaivideo.im` 页面里写「Is Flow AI Video affiliated with Google? — No. flowaivideo.im is an independent service. It is not Google Flow and is not affiliated with or endorsed by Google.」
+这是**用 FAQ 结构撇清与 Google Flow 的关系**，同样属于免责声明，与联盟分销无关，照常收录。看到 `affiliated` 时判断依据仍是：主语是「与某某无关」还是「有联盟计划」。
+
+⚠️ 上面两条也划定了「能收就收」的边界：**默认收录只适用于「身份判断」（是不是中国人），不适用于「是不是真产品」。** 身份模糊照样收，但产品形态不符合收录标准（大厂、返佣、刷量）时该拒就拒，不受默认收录原则保护。
 
 ⚠️ **grep 到 `affiliate` 不等于返佣：先看上下文，常见的是「not affiliated with X, Inc.」免责声明。**（2026-10-02 补）
 英文独立产品为了避嫌，几乎都会在页脚写「Not affiliated with Tesla, Inc.」「is not affiliated with or endorsed by ...」，
@@ -427,6 +452,8 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 
 如果当天日期区块尚不存在，则在最新日期区块之前新建。
 
+⚠️ **例外：同一作者当天区块里已经有作者行时，新条目追加到那个作者行的条目列表末尾，不要另起一个重复的 `####` 作者行。** 现实场景是一位作者在几十秒内连开多个 issue（实测 2026-10-05：weidacn 在 50 秒内连开 #1464/#1465/#1466 三个 issue），而他当天区块里往往已经有前几次运行收录的产品。正确做法是先 `grep -n "#### <作者名>" README.md` 定位已有作者行，把新条目接在他的条目列表末尾（本次三个产品全部并入 10-05 区块里已有的 weidacn 块），只有该作者在当天区块里完全没出现过时才新建作者行。
+
 ⚠️ **主 README.md 容量检查（每次往 README.md 插入条目后必做）**：GitHub 对 README 渲染有截断限制，官方文档从未写明具体数字；GitHub 支持团队在工单里的答复是「blob 显示限制约 500 KB，超出部分 UI 直接截断」，社区实测约 512 KB（来源：github.com/orgs/community/discussions/23920）。被截断时仓库首页看不到底部内容且**没有任何警告**（历史实测：2026-09-09，README.md 527,086 字节时首页渲染到 2022年7月14号区块中间戛然而止）。处理规则：
 - 每次插入条目后运行 `wc -c README.md`
 - **一旦超过 490,000 字节，立即存档**：把 README.md 项目列表末尾最旧的一个或多个**完整日期区块**（从 `### 某日期添加` 标题行起，到下一个日期标题前的空行为止）整体剪切，插入 `.github/pages/README-Archive.md` 正文的最顶部（紧接其头部 `---` 之后的空行，存档内部保持时间倒序），并同步更新子版面清单和末尾 👉 指引行里的年份范围文字
@@ -436,6 +463,8 @@ POST → 捕获 ID → PATCH 覆写 → GET 验证正文（流程同其他评论
 - 存档文件自身也盯住 `wc -c`：接近 500,000 字节时把较新的一半拆成 README-Archive-2.md（编号拆分时就冻结，之后不再改名）
 
 **所有项目的文件修改全部做完后**，统一一次性提交推送到 master：
+
+⚠️ **`git pull` 必须在 `git commit` 之前**，不能在 commit 之后才想起来拉。检查三的 `gh pr merge` 会往远端 master 推新 commit，本地此时是落后的；如果先 commit 再 push，会被拒（`hint: the same ref... use 'git pull' before pushing again`），多一轮往返。2026-10-05 实测：合并 PR #1463 后直接 commit 问迹条目，push 被拒。正确顺序是「fetch/pull → 编辑 → add → commit → push」，或直接 `git pull --rebase origin master` 后 push（rebase 完**必须 `grep` 确认自己刚加的条目还在**，rebase 有可能把冲突解决搞丢）。
 
 ```bash
 git checkout master && git pull origin master
@@ -565,3 +594,4 @@ done < /tmp/sig_dirty.txt
 - 幂等性靠 URL grep 检查保证，不依赖 reaction 标记
 - **仅检查一、检查二**（issue #160 评论 / 独立 issue）来源的内容：所有文件修改完成后统一一次 commit 推 master，不建分支、不开 PR。**这条不适用于检查三的 PR**——PR 来源的内容必须走上文「检查三」定义的真正合并流程（`gh pr merge` 或本地 `git merge --no-ff` 保留贡献者归属），禁止把 PR 里的内容当成检查一/二那样直接誊抄进 master 再关闭 PR（历史事故见上文 #1220/#1221/#1226/#1227）
 - 三个检查都没有新内容时，跳过处理流程，但仍要跑「收尾扫描」再结束
+- ⚠️ **收尾复查时 `issues?state=open` 会把刚关闭的 issue 仍列成 open**（列表接口缓存延迟，2026-10-05 实测 #1467 关闭后仍出现在 open 列表里）。看到自己刚处理的 issue 还挂在 open 列表时，**不要重跑关闭命令**，单独 `gh api repos/1c7/chinese-independent-developer/issues/<number> | jq '{state, state_reason}'` 确认真实状态即可。
