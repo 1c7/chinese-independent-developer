@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 6 号添加
+
+#### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
+* :white_check_mark: [ioe](https://ioea.xianist.com/)：面向零售门店的网页进销存，统一管理商品、库存、收银和会员；托管版提供 14 天试用，之后付费，MIT 开源版可自行部署 - [源码与部署说明](https://github.com/zhtyyx/ioe)
+
 ### 2026 年 10 月 5 号添加
 
 #### Ethan Lian(上海) - [Github](https://github.com/lianyixin)
