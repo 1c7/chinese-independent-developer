@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 6 号添加
 
+#### Ayden - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Image to Anime](https://imagetoanime.co/)：浏览器内的 AI 照片转动漫风格工具，照片和插画都能上传，选定风格后保留人物关键特征，生成完可直接下载
+
+#### clarkloveProduct - [Github](https://github.com/clarkloveProduct)
+* :white_check_mark: [高性价比人生指南](https://renshengzhinan.co/)：把建议当成一笔笔账来算的实用手册，34 章 650 条覆盖健康急救、金钱法律、工作住房与家庭阶段，每条标注成本、收益和证据等级，支持全文搜索
+
 #### zhtyyx(上海) - [Github](https://github.com/zhtyyx)
 * :white_check_mark: [ioe](https://ioea.xianist.com/)：面向零售门店的网页进销存，统一管理商品、库存、收银和会员；托管版提供 14 天试用，之后付费，MIT 开源版可自行部署 - [源码与部署说明](https://github.com/zhtyyx/ioe)
 
