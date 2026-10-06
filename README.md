@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 6 号添加
 
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [霓虹天頂 Neon Zenith](https://zenith.billpwchan.art)：浏览器里的 3D 赛博九龙，从庙街夜市开车出发，可以一路飞上 1418 米高的塔顶，9373 栋楼都能降落；地面的九巴和的士靠左行驶、遇红灯会停，另有 4 个计时赛和 31 块隐藏碎片，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/neon-zenith)
+* :white_check_mark: [桜幻想 Sakura Fantasy](https://sakura.billpwchan.art)：浏览器里的 3D 日本河谷，坐小船从晨雾浅滩一路漂到千本鸟居，季节、时辰和天气都能切换，配水声和筝，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/sakura-fantasy)
+
 #### YehyaKin - [Github](https://github.com/yehyakin)
 * :white_check_mark: [cetxt](https://cetxt.com/)：llms.txt 中文生成与体检工具，填表单 30 秒生成规范文件，在线体检打分，附 1000 中文大站实测数据 - [GitHub 仓库](https://github.com/yehyakin/llms-txt-cn)
 
