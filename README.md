@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 7 号添加
 
+#### zx88cvb - [Github](https://github.com/zx88cvb)，[博客](https://haydenbi.com/)
+* :white_check_mark: [AddressGen](https://addressgen.net/)：随机地址生成器（免费），生成美国和日本的随机地址，含邮编和联系方式，无需注册，适合表单测试、跨境业务模拟注册和产品演示
+
 #### jinglings - [GitHub](https://github.com/jinglings)
 * :white_check_mark: [MacClean](https://thulem.com/)：Mac 磁盘清理工具，查看微信图片视频的占用、查找重复文件，清理前逐项预览和选择；扫描与查看结果免费，完整功能可试用 7 天，试用后清理需要许可证，支持 macOS 14+
 
