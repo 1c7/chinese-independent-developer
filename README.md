@@ -26,6 +26,16 @@
 
 ### 2026 年 10 月 7 号添加
 
+#### jinglings - [GitHub](https://github.com/jinglings)
+* :white_check_mark: [MacClean](https://thulem.com/)：Mac 磁盘清理工具，查看微信图片视频的占用、查找重复文件，清理前逐项预览和选择；扫描与查看结果免费，完整功能可试用 7 天，试用后清理需要许可证，支持 macOS 14+
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [移ろい Utsuroi](https://utsuroi.billpwchan.art)：浏览器里的 3D 京都町屋和庭院，滚动页面就是时钟，从天亮前的院门走到夜里的锦鲤池，一共 14 个停留点；光照用 Cycles 离线烘焙、按时辰混合，可切换四季，声音全部实时合成，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/utsuroi)
+* :white_check_mark: [Halcyon](https://halcyon.billpwchan.art)：浏览器里的 3D 热带环礁，可以在沙滩散步、潜进珊瑚礁、开船出泻湖、飞过 330 米高的山峰；海浪是实时 FFT，岛上有 4.3 万株扫描植物，一天 36 分钟，天气自己变，入夜海面会发光，无需下载和注册 - [GitHub 仓库](https://github.com/billpwchan/halcyon)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Posegeni](https://posegeni.com/)：3D 姿势参考与制作工具，870+ 姿势库、可摆姿势的人体模型、多角度视图、PNG 和 ControlNet 导出，无需注册，浏览器内即可操作
+
 #### huangy7(厦门) - [Github](https://github.com/huangy7)
 * :white_check_mark: [Lokii](https://lokii.huangy.top/)：专为 Mac 打造的亚毫秒级原生文件即时搜索工具，像 Everything 一样键入即出；底层采用 Rust 内存倒排索引，50 万+ 文件检索延迟 <10ms，内存常驻 <100MB，FSEvents 实时无感监听变动，100% 离线隐私无遥测 - [客户端下载](https://github.com/huangy7/lokii/releases) · [源码仓库](https://github.com/huangy7/lokii)
 
