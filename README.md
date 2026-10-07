@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 7 号添加
+
+#### huangy7(厦门) - [Github](https://github.com/huangy7)
+* :white_check_mark: [Lokii](https://lokii.huangy.top/)：专为 Mac 打造的亚毫秒级原生文件即时搜索工具，像 Everything 一样键入即出；底层采用 Rust 内存倒排索引，50 万+ 文件检索延迟 <10ms，内存常驻 <100MB，FSEvents 实时无感监听变动，100% 离线隐私无遥测 - [客户端下载](https://github.com/huangy7/lokii/releases) · [源码仓库](https://github.com/huangy7/lokii)
+
 ### 2026 年 10 月 6 号添加
 
 #### Bill Chan(香港) - [Github](https://github.com/billpwchan)
