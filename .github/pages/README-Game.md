@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 7 号添加
+
+#### fisher-byte - [Github](https://github.com/fisher-byte)
+* :white_check_mark: [17-0 Football](https://17-0football.com/)：英文浏览器橄榄球选秀小游戏，组建 9 槽阵容模拟 17 周赛季、冲击 17-0 全胜，每日挑战共用 seed 冲排行榜，无需注册 - [GitHub 仓库](https://github.com/fisher-byte/17-0)
+
 ### 2026 年 10 月 6 号添加
 
 #### Bill Chan(香港) - [Github](https://github.com/billpwchan)
