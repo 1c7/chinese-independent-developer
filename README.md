@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 8 号添加
 
+#### stia-mora - [Github](https://github.com/stia-mora)
+* :white_check_mark: [公众号发现](https://wechat.aim888888.xyz/wechat)：微信公众号目录网站，可按领域、账号类型、近 30 天更新频率筛号，每个号附带 AI 内容画像与带原文引用的评分，文章页可跳回微信阅读原文；精选分好类的公众号约 180 个，覆盖科技、财经、生活、教育、媒体与时政 5 个领域，另有约 9900 个仅收录基础资料的信息源，中文界面、免费、浏览无需注册
+
 #### zizhu-ai - [Github](https://github.com/zizhu-ai)
 * :white_check_mark: [Loretypes](https://loretypes.com/)：自我探索测验合集（英文），气场颜色、Archetype、道德阵营、色彩季型、灵动物、前世六套测验，每套 21 到 24 题、约 3 到 4 分钟出完整结果，无需注册免费使用；Archetype 结果页可生成一段 AI 反思，前世测验页面明确标注为虚构，仅供娱乐与自我反思
 
