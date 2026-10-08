@@ -26,6 +26,24 @@
 
 ### 2026 年 10 月 8 号添加
 
+#### zizhu-ai - [Github](https://github.com/zizhu-ai)
+* :white_check_mark: [Loretypes](https://loretypes.com/)：自我探索测验合集（英文），气场颜色、Archetype、道德阵营、色彩季型、灵动物、前世六套测验，每套 21 到 24 题、约 3 到 4 分钟出完整结果，无需注册免费使用；Archetype 结果页可生成一段 AI 反思，前世测验页面明确标注为虚构，仅供娱乐与自我反思
+
+#### udan520 - [Github](https://github.com/udan520)
+* :white_check_mark: [EaseGen](https://easegen.ai/)：AI 图片与视频创作平台，把 Seedance 2.5、Kling 3、Veo 3.1、Wan 3.0、GPT Image 2.5、Seedream 5.0、Nano Banana 2 等数十个图像与视频模型收在同一工作区切换，支持参考图、首尾帧与参考视频音频，另内置广告图、海报、商品图等成品模板；提供免费额度、订阅与积分包
+
+#### icloudza - [Github](https://github.com/icloudza)
+* :white_check_mark: [Caplo](https://caplo.app/)：Mac 录屏工具，录制时记录点击与指针轨迹，按操作节奏自动生成推近与跟随镜头，可手动增删每个镜头片段；支持 40 种光标样式、点击高亮、多轨时间线剪辑、macOS 离线语音识别字幕、敏感区域打码与章节卡片，导出 MP4 / HEVC / ProRes / GIF，素材与工程只保存在本机；要求 macOS 15 及以上，源码在 GitHub 开源
+
+#### SoBison - [Github](https://github.com/SoBison)
+* :white_check_mark: [漫阅 ManYue](https://apps.apple.com/mo/app/id6753895889)：iPhone / iPad 漫画阅读器，可导入 Venera 漫画源（JS 源文件或源链接）在线浏览、搜索与追更，也能从「文件」导入 CBZ、CBR、CB7、ZIP、RAR、7z、PDF 等本地漫画离线阅读；支持 WebDAV 与 SMB 访问个人网盘 NAS，并能连接 Suwayomi / Tachidesk、Komga、Kavita、LANraragi、OPDS 书库；¥3 付费下载
+
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [New Site Radar](https://newsiteradar.aibit.im/zh/)：每日更新的新站雷达，跟踪 168 万个新注册域名、已收录 16,973 个刚上线并确认有实际内容和定价页的网站，按 AI、软件、App、视频、设计、Agent 等领域筛选，也可按注册起止日期区间或关键词搜索；浏览与搜索免费无需注册
+
+#### paidx2006 - [Github](https://github.com/paidx2006)
+* :white_check_mark: [Mistral Large 4](https://mistrallarge4.com/)：Mistral Large 4 模型的在线 playground 与接入指南，1M 上下文，支持文本与图片输入，可调推理档位、温度、最大输出 token 与 JSON 输出格式；playground 免费，超出免费额度按积分计费（积分为模型美元成本 × 12,000），非 Mistral 官方站点
+
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Kandinsky 6.0](https://kandinsky6.pro/)：输入文字或上传一张图片生成带同步音频的 AI 视频，可选 Lite 或 Pro 两档模型，输出 480p 或 1080p；底层跑的是 Kandinsky Lab 开源的 Kandinsky 6.0（MIT 协议，Lite 3B / Pro 29B），非官方站点，注册送 1 条免费视频，之后按积分计费
 * :white_check_mark: [Utopai X](https://utopaix.video/)：文生视频工具，主打原生同步音频，2026 年 9 月上架 Artificial Analysis 文生视频带音频榜第2 名（Elo 1150），音频同步与物理表现均排第1；可选 5/10/15 秒、480p 或 720p，另有 H3 Max Turbo 图生视频可选，35 欢迎积分，按积分计费
