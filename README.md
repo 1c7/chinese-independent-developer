@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 8 号添加
+
+#### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Kandinsky 6.0](https://kandinsky6.pro/)：输入文字或上传一张图片生成带同步音频的 AI 视频，可选 Lite 或 Pro 两档模型，输出 480p 或 1080p；底层跑的是 Kandinsky Lab 开源的 Kandinsky 6.0（MIT 协议，Lite 3B / Pro 29B），非官方站点，注册送 1 条免费视频，之后按积分计费
+* :white_check_mark: [Utopai X](https://utopaix.video/)：文生视频工具，主打原生同步音频，2026 年 9 月上架 Artificial Analysis 文生视频带音频榜第2 名（Elo 1150），音频同步与物理表现均排第1；可选 5/10/15 秒、480p 或 720p，另有 H3 Max Turbo 图生视频可选，35 欢迎积分，按积分计费
+* :white_check_mark: [Zombie AI Trend](https://zombieaitrend.pro/)：上传本人、狗或猫的两张照片，生成一段 25 秒的僵尸风格带音乐 MP4，人物转身变成僵尸后切到温暖的回忆镜头；可选 9:16竖屏或 16:9 横屏，输出 720p，每条 90 积分（单条 $9.99），新账号初始积分为 0
+* :white_check_mark: [nano banana 2.1](https://nanobanana21.pro/)：图像生成与编辑工作台，主打 Nano Banana 2.1 与 2.1 Pro（Pro 是同模型的 7 积分 4K 预设），可选 1K/2K/4K，编辑模式支持上传 1 到 14 张参考图；底层跑 Google Gemini 图像模型，非官方站点，新账号一次性赠送 3 积分，按积分计费
+
 ### 2026 年 10 月 7 号添加
 
 #### zx88cvb - [Github](https://github.com/zx88cvb)，[博客](https://haydenbi.com/)
