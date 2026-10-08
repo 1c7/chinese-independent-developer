@@ -53,6 +53,8 @@
 * :white_check_mark: [Zombie AI Trend](https://zombieaitrend.pro/)：上传本人、狗或猫的两张照片，生成一段 25 秒的僵尸风格带音乐 MP4，人物转身变成僵尸后切到温暖的回忆镜头；可选 9:16竖屏或 16:9 横屏，输出 720p，每条 90 积分（单条 $9.99），新账号初始积分为 0
 * :white_check_mark: [nano banana 2.1](https://nanobanana21.pro/)：图像生成与编辑工作台，主打 Nano Banana 2.1 与 2.1 Pro（Pro 是同模型的 7 积分 4K 预设），可选 1K/2K/4K，编辑模式支持上传 1 到 14 张参考图；底层跑 Google Gemini 图像模型，非官方站点，新账号一次性赠送 3 积分，按积分计费
 
+#### surfacex-dev - [Github](https://github.com/surfacex-dev)
+* :white_check_mark: [barcodegen.net](https://www.barcodegen.net)：在线条码生成工具，支持 Code 128、EAN-13、UPC-A、二维码、Data Matrix、PDF417 等 35 种条码，可导出 SVG/PNG/JPG，支持批量导入 CSV 打包 ZIP 下载，另有条码标签打印与扫码识别；免费、无需注册、无水印、可商用，界面含中文在内共 11 种语言
 ### 2026 年 10 月 7 号添加
 
 #### zx88cvb - [Github](https://github.com/zx88cvb)，[博客](https://haydenbi.com/)
