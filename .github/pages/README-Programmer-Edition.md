@@ -19,7 +19,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 10 月 8 号添加
 
 #### ZhongQuinnKing - [Github](https://github.com/ZhongQuinnKing)
-* :white_check_mark: [拾级 Shiji](https://github.com/ZhongQuinnKing/shiji)：装进 Claude、豆包等 AI 助手的大学生全周期顾问技能包，100+ 篇中文文档覆盖求职、职场、人际、论文、考研、学习、研究生、生活、留学九条线，另有 8 个可直接填写的简历模板；把仓库拷进 skills 目录即用，代码 MIT、内容 CC BY-NC-ND 开源
+* :white_check_mark: [拾级 Shiji](https://github.com/ZhongQuinnKing/shiji)：装进 Claude、豆包等 AI 助手的成长顾问技能包，从高三填志愿到入职三年，151 篇中文文档覆盖高考、大学、考研、考公、求职、职场、论文、研究生、留学、学习、人际与生活、特殊通道十二条线，另有 8 个可直接填写的简历模板；把仓库拷进 skills 目录即用，代码 MIT、内容 CC BY-NC-ND 开源
 
 ### 2026 年 10 月 7 号添加
 
