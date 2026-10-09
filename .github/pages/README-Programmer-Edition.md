@@ -21,6 +21,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### MASAKA AI - [Github](https://github.com/masakaai)
 * :white_check_mark: [Jet Browser](https://github.com/masakaai/jet-browser)：给 AI Agent 嵌入的轻量浏览器运行时，一个 Docker 容器运行一个 WPE WebKit 会话，通过有序 JSONL 执行原生鼠标键盘输入、DOM 检查与截图；不绑定模型、账号或托管控制面，Apache-2.0 开源，提供 Codex / Claude Code Skill 与 GitHub Action 验收 - [基准方法与原始数据](https://github.com/masakaai/jet-browser/blob/main/docs/benchmarks.md)
 
+#### LinkAGI - [Github](https://github.com/16871233)
+* :white_check_mark: [LinkAGI](https://api.linktoagi.com/)：面向开发者的 AI API 聚合服务，提供 OpenAI、Anthropic 与 Gemini 风格的接口；控制台可创建独立 API Key、查看模型价格和调用日志，支持人民币按量计费 - [使用文档](https://docs.linktoagi.com/)
+
 ### 2026 年 10 月 8 号添加
 
 #### ZhongQuinnKing - [Github](https://github.com/ZhongQuinnKing)
