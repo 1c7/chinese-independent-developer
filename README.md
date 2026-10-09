@@ -29,6 +29,10 @@
 #### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.github.io/)
 * :white_check_mark: [Genjutsu AI](https://genjutsuai.net/)：AI 视频重风格化工具，保留原片段的主体、运动和镜头轨迹，只重写它周围的世界——换场景、换风格、换产品或换道具，上传视频加一句提示词即可 - [更多介绍](https://genjutsuai.net/#feature)
 
+#### Cayden(上海) - [Github](https://github.com/caydock), [博客](https://caydock.com)
+* :white_check_mark: [WorthCay](https://worthcay.com)：Coast FIRE 计算器（免费），输入年龄、退休年龄、退休后年支出、当前投资资产与每月投入，算出 Coast FIRE 数字与完整 FIRE 数字；可保存目标并按 Actual vs Goal 跟踪进度，对比「继续投入」与「停止投入让收益复利」两条路径的增长曲线
+* :white_check_mark: [CoverCay](https://cover.caydock.com)：音乐专辑封面搜索下载（免费），基于 iTunes 数据检索专辑封面、歌曲封面与音乐视频封面，支持多国家地区与多种尺寸一键下载或复制
+
 ### 2026 年 10 月 8 号添加
 
 #### stia-mora - [Github](https://github.com/stia-mora)
