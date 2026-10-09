@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 9 号添加
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.github.io/)
+* :white_check_mark: [Genjutsu AI](https://genjutsuai.net/)：AI 视频重风格化工具，保留原片段的主体、运动和镜头轨迹，只重写它周围的世界——换场景、换风格、换产品或换道具，上传视频加一句提示词即可 - [更多介绍](https://genjutsuai.net/#feature)
+
 ### 2026 年 10 月 8 号添加
 
 #### stia-mora - [Github](https://github.com/stia-mora)
