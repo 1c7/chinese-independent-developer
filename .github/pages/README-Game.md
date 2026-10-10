@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 10 号添加
+
+#### MarchBeta2087 - [Github](https://github.com/MarchBeta2087)
+* :white_check_mark: [失控 AI 增量](https://github.com/MarchBeta2087/uncontrolled-ai-incremental)：以"失控 AI 吞掉整个宇宙"为主题的增量游戏，从 UTC 2028-01-01 起步投入研发、加速扩张直至耗尽可观测宇宙的资源，再撕开因果闭环裂缝把时间线回卷到起点，带着时间晶体进入下一周目，周目越来越快 - [源码](https://github.com/MarchBeta2087/uncontrolled-ai-incremental)
+
 ### 2026 年 10 月 7 号添加
 
 #### fisher-byte - [Github](https://github.com/fisher-byte)
