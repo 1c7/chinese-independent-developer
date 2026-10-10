@@ -24,6 +24,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### huangy7(厦门) - [Github](https://github.com/huangy7)
 * :white_check_mark: [outline-skill](https://github.com/huangy7/outline-skill)：专为 AI 编程智能体（Claude Code、Antigravity、Cursor 等）打造的 Outline 知识库 Agent Skill 与协同工具。遵循 agentskills.io 标准，赋予各类智能体原生读写、检索与智能格式化 Outline 文档的能力；内置排版护栏（自动去除冗余标题、生成标准 Callout 提示块），支持 MCP 与零依赖 Node.js 客户端双引擎架构，完全开源免费 - [源码仓库](https://github.com/huangy7/outline-skill)
 
+#### shaguocgl - [Github](https://github.com/shaguocgl)
+* :white_check_mark: [buffTerm](https://github.com/shaguocgl/buff-term)：AI Agent 加持的 SSH/SFTP 桌面管理工具，自然语言运维服务器；可对外暴露 MCP 服务供其他 AI 工具调用（macOS/Windows，MIT）- [官网](https://shaguocgl.github.io/buff-term-site/)
+
 ### 2026 年 10 月 9 号添加
 
 #### MASAKA AI - [Github](https://github.com/masakaai)
