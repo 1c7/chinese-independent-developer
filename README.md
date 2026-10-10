@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 10 号添加
 
+#### leo(上海) - [Github](https://github.com/TangSirOnGit)
+* :white_check_mark: [Launchlist](https://launchlist.si)：A community-voted weekly launch for AI and superintelligence builders
+
 #### Wuhan Zhang - [Github](https://github.com/endNone)
 * :white_check_mark: [ClickPulse](https://github.com/endNone/ClickPulse)：免费的离线键鼠活动统计工具，支持 macOS 和 Windows，以键盘热力图、活动日历和迷你悬浮窗口展示输入习惯，数据保存在本机，不记录输入文本
 
