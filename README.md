@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 10 号添加
 
+#### Wuhan Zhang - [Github](https://github.com/endNone)
+* :white_check_mark: [ClickPulse](https://github.com/endNone/ClickPulse)：免费的离线键鼠活动统计工具，支持 macOS 和 Windows，以键盘热力图、活动日历和迷你悬浮窗口展示输入习惯，数据保存在本机，不记录输入文本
+
 #### fsh114514(江苏) - [Github](https://github.com/fsh114514)
 * :white_check_mark: [门外谈 Menwai Tan](https://outgate.chat)：AI 思想家辩论场，把 26 位以上思想家蒸馏成 SKILL.md 人格，可单人对谈也可开圆桌让多位思想家轮流交锋；随口／较真／上头三档控制回答火候，气氛上来自动升级，遇到不懂的梗先联网检索再回答；支持自带 API Key，也留了站内免费通道 - [源码](https://github.com/fsh114514/menwaitan)
 
