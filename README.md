@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 10 号添加
 
+#### leo(上海) 
+* :white_check_mark: [Launchlist](https://launchlist.si)：A community-voted weekly launch for AI and superintelligence builders.
+
+
 #### fsh114514(江苏) - [Github](https://github.com/fsh114514)
 * :white_check_mark: [门外谈 Menwai Tan](https://outgate.chat)：AI 思想家辩论场，把 26 位以上思想家蒸馏成 SKILL.md 人格，可单人对谈也可开圆桌让多位思想家轮流交锋；随口／较真／上头三档控制回答火候，气氛上来自动升级，遇到不懂的梗先联网检索再回答；支持自带 API Key，也留了站内免费通道 - [源码](https://github.com/fsh114514/menwaitan)
 
