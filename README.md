@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 11 号添加
+
+#### pbhhdf - [Github](https://github.com/pbhhdf)
+* :white_check_mark: [KAI · 开gptAI](https://kaigpt.ai/)：ChatGPT 会员人民币代开服务，可选 Plus、Pro100、Pro200、Pro500 四档，支付宝扫码下单后凭卡密在 kaigpt.pro 兑换页提交一次 ChatGPT Session 自动开通，不索取账号密码或验证码；凭订单号加下单联系方式查询进度，失败订单进人工复核、原路退款；另有免费的 Plus / Pro 套餐选择器；独立第三方，非 OpenAI 官方 - [更多介绍](https://kaigpt.ai/guide/purchase-and-track)
+
 ### 2026 年 10 月 10 号添加
 
 #### leo(上海) - [Github](https://github.com/TangSirOnGit)
