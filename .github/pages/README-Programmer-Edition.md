@@ -16,6 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 11 号添加
+
+#### GPTZZZ - [Github](https://github.com/gptzzz)
+* :white_check_mark: [GPTZZZ](https://gptzzz.ai/)：AI API 中转站，一个账号、一份余额调用 GPT、Claude、Gemini、DeepSeek、Grok、Qwen、MiMo 共 48 个模型；OpenAI 兼容 Base URL 填 `https://gptzzz.ai/v1`（OpenAI 分组支持 Chat Completions 与 Responses，Codex CLI 可接），Claude 分组走 Claude Messages 接口 `/v1/messages`；支付宝充值 ¥1 = $1、单笔 ¥10 起、按量计费，未用完余额可退；个人运营的独立第三方服务，非模型厂商官方 - [接入文档](https://gptzzz.ai/docs/)
+* :white_check_mark: [openai-compatible-checker](https://github.com/gptzzz/openai-compatible-checker)：OpenAI 兼容接口体检 CLI，一条命令检查任意中转站、自建网关或本地推理服务的模型列表、SSE 流式与 usage 块、工具调用、JSON 模式、Responses API（决定能否接 Codex）、图片输入、错误格式和首字延迟，输出脱敏的 JSON / Markdown 报告；单文件、只依赖 Python 标准库，也能作为 GitHub Action 定时跑；只检查协议兼容性，不证明模型真伪，MIT 开源
+
 ### 2026 年 10 月 10 号添加
 
 #### MarchBeta2087 - [Github](https://github.com/MarchBeta2087)
