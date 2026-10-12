@@ -630,7 +630,7 @@
 ### 2026 年 9 月 4 号添加
 
 #### zeroXu1 - [Github](https://github.com/zeroXu1)
-* :white_check_mark: [HTMLShare](https://www.htmlshare.page/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
+* :white_check_mark: [HTMLShare](https://hosthtmlfile.com/)：将静态 HTML 发布为可分享的预览链接，方便快速分享和评审原型页面，无需 Git、生产部署和注册账号
 
 ### 2026 年 9 月 3 号添加
 
