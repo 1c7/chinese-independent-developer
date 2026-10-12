@@ -33,6 +33,9 @@
 #### zeroXu1 - [Github](https://github.com/zeroXu1)
 * :white_check_mark: [Translate Picture](https://translate-picture.com/)：图片文字翻译工具，上传产品图并选择目标语言，即可生成文字被替换掉的新图，用来做产品图的本地化 — 支持 JPG / PNG / WebP，单张最大 8 MB，结果图长边约 1000 ~ 1900 像素；每个网络每天限 8 张，处理在浏览器标签页内完成，刷新即清除
 
+#### 88slash(北京) - [Github](https://github.com/88slash)
+* :white_check_mark: [海螺知物](https://haloweava.com)：0-6 岁儿童睡前故事与 AI 绘本网站，故事按 0-2/3-4/5-6 岁分级并附家长共读引导，AI 按孩子昵称和想讲的道理生成 3-8 页带插画的专属绘本，英文单词嵌进中文故事、点词听母语童声发音，可点读、可装订打印
+
 ### 2026 年 10 月 11 号添加
 
 #### Jamailar - [Github](https://github.com/Jamailar)
