@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 12 号添加
 
+#### Finderchangchang - [Github](https://github.com/Finderchangchang)
+* :white_check_mark: [Jev 聊天助手](https://chatjevs.com)：安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险、起草候选回复并一键填进输入框，发不发由你；国内版支持 QQ、飞书、X、WhatsApp，同仓库另有英文海外版，开源免费，模型接口用自己的 API Key - [更多介绍](https://github.com/jev-chat/jev-chat-jarvis)
+
 #### sweesama - [Github](https://github.com/sweesama)
 * :white_check_mark: [favicondl](https://favicondl.com/zh/)：网站图标下载工具，输入任意网址，自动找出该网站最清晰的图标（SVG / 大尺寸 PNG / ICO）并一键下载，也可一次批量下载 100 个网站的图标，免费无需注册
 * :white_check_mark: [听说了吗？](https://anymesgs.com/)：AI 资讯解读站，每天两篇，从原始论文、官方博客和发布说明出发，用中英日三语解读最新 AI 新闻与论文，附原文链接，免费无需注册
