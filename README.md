@@ -32,6 +32,11 @@
 #### hy0619 - [Github](https://github.com/hy0619)
 * :white_check_mark: [pdf翻译小助手](https://translate.glance-tech.cn/)：文档一键翻译译文保留原版式，上传 PDF / Word，翻成 20+ 种语言。前 3 页免费预览，满意再付费。
 
+#### Yansoul - [Github](https://github.com/Yansoul)
+* :white_check_mark: [Liveify](https://videolivephoto.com/)：实况照片制作与转换工具，在 iPhone 上将视频或 GIF 制作并保存为 Live Photo；网页版可预览片段、免费导出 GIF 和视频截图，也支持按积分付费的 AI 照片动画
+
+#### 31415959 - [Github](https://github.com/31415959)
+* :white_check_mark: [AI 味体检](https://31415959.github.io/deai-web/)：网文 AI 味检测器，粘贴正文输出 0-100 评分并逐处标出问题句，附一段可直接用的去味改写 Prompt；纯浏览器本地运行、正文不上传，免费无需注册，另有 38KB 单文件离线版下载双击即用 - [源码](https://github.com/31415959/deai-web)
 
 ### 2026 年 10 月 12 号添加
 
@@ -53,9 +58,6 @@
 
 #### zeroXu1 - [Github](https://github.com/zeroXu1)
 * :white_check_mark: [Translate Picture](https://translate-picture.com/)：图片文字翻译工具，上传产品图并选择目标语言，即可生成文字被替换掉的新图，用来做产品图的本地化 — 支持 JPG / PNG / WebP，单张最大 8 MB，结果图长边约 1000 ~ 1900 像素；每个网络每天限 8 张，处理在浏览器标签页内完成，刷新即清除
-
-#### 31415959 - [Github](https://github.com/31415959)
-* :white_check_mark: [AI 味体检](https://31415959.github.io/deai-web/)：网文 AI 味检测器，粘贴正文输出 0-100 评分并逐处标出问题句，附一段可直接用的去味改写 Prompt；纯浏览器本地运行、正文不上传，免费无需注册，另有 38KB 单文件离线版下载双击即用 - [源码](https://github.com/31415959/deai-web)
 
 ### 2026 年 10 月 11 号添加
 
@@ -1832,7 +1834,6 @@
 
 #### Yansoul - [Github](https://github.com/Yansoul)
 * :white_check_mark: [FlowPrompter](https://flowprompter.app/)：屏幕共享和录屏时不可见的透明提词器，支持自定义字体、滚动速度、镜像翻转，适合直播、视频录制和在线演讲
-* :white_check_mark: [Liveify](https://videolivephoto.com/)：实况照片制作与转换工具，在 iPhone 上将视频或 GIF 制作并保存为 Live Photo；网页版可预览片段、免费导出 GIF 和视频截图，也支持按积分付费的 AI 照片动画
 
 #### 江辰(杭州) - [Github](https://github.com/xuya227939)
 * :white_check_mark: [SnapVee Studio](https://snapvee.com/)：社媒创作工具，支持 50+ 社媒平台内容获取、字幕、视频内容总结、生图、生视频等
