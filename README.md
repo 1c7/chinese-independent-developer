@@ -29,6 +29,9 @@
 #### sweesama - [Github](https://github.com/sweesama)
 * :white_check_mark: [favicondl](https://favicondl.com/zh/)：网站图标下载工具，输入任意网址，自动找出该网站最清晰的图标（SVG / 大尺寸 PNG / ICO）并一键下载，也可一次批量下载 100 个网站的图标，免费无需注册
 
+#### zeroXu1 - [Github](https://github.com/zeroXu1)
+* :white_check_mark: [Translate Picture](https://translate-picture.com/)：图片文字翻译工具，上传产品图并选择目标语言，即可生成文字被替换掉的新图，用来做产品图的本地化 — 支持 JPG / PNG / WebP，单张最大 8 MB，结果图长边约 1000 ~ 1900 像素；每个网络每天限 8 张，处理在浏览器标签页内完成，刷新即清除
+
 ### 2026 年 10 月 11 号添加
 
 #### Jamailar - [Github](https://github.com/Jamailar)
