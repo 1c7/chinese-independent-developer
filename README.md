@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 12 号添加
 
+#### hy0619 - [Github](https://github.com/hy0619)
+* :white_check_mark: [translate](https://translate.glance-tech.cn/)：文档一键翻译译文保留原版式，上传 PDF / Word，翻成 20+ 种语言。前 3 页免费预览，满意再付费。
+
+
+### 2026 年 10 月 12 号添加
+
 #### AnshengHu - [Github](https://github.com/zgaobai)
 * :white_check_mark: [MomentSift](https://momentsift.com)：AI 照片筛选、美化与创作网站，将相似照片分组并标记模糊、闭眼、曝光问题，先挑选值得保留的照片，再进行增强、修复、放大、移除背景或图像创作；提供 100 张照片与 10 个 AI 积分的免费试用，付费套餐每月 $19.90 起
 
