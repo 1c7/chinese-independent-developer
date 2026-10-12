@@ -30,7 +30,7 @@
 * :white_check_mark: [Smalltown Boy AI](https://smalltownboyai.com/)：AI 双人舞蹈视频生成器，上传两张正面人像照片分居左右，让两位主角同步跳固定的 80 年代合成波舞步，输出 14 秒 9:16 竖屏视频（不含原曲音频），无需编写提示词；按积分一次性付费，480P / 720P / 1080P 分别 45 / 90 / 180 积分，$4.99 起，无订阅
 
 #### hy0619 - [Github](https://github.com/hy0619)
-* :white_check_mark: [pdf翻译小助手](https://translate.glance-tech.cn/)：文档一键翻译译文保留原版式，上传 PDF / Word，翻成 20+ 种语言。前 3 页免费预览，满意再付费。
+* :white_check_mark: [pdf翻译小助手](https://translate.glance-tech.cn/)：文档一键翻译，译文保留原版式，上传 PDF / Word，翻成 20+ 种语言，前 3 页免费预览，满意再付费
 
 #### Yansoul - [Github](https://github.com/Yansoul)
 * :white_check_mark: [Liveify](https://videolivephoto.com/)：实况照片制作与转换工具，在 iPhone 上将视频或 GIF 制作并保存为 Live Photo；网页版可预览片段、免费导出 GIF 和视频截图，也支持按积分付费的 AI 照片动画
