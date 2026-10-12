@@ -1823,6 +1823,7 @@
 
 #### Yansoul - [Github](https://github.com/Yansoul)
 * :white_check_mark: [FlowPrompter](https://flowprompter.app/)：屏幕共享和录屏时不可见的透明提词器，支持自定义字体、滚动速度、镜像翻转，适合直播、视频录制和在线演讲
+* :white_check_mark: [Liveify](https://videolivephoto.com/)：实况照片制作与转换工具，在 iPhone 上将视频或 GIF 制作并保存为 Live Photo；网页版可预览片段、免费导出 GIF 和视频截图，也支持按积分付费的 AI 照片动画
 
 #### 江辰(杭州) - [Github](https://github.com/xuya227939)
 * :white_check_mark: [SnapVee Studio](https://snapvee.com/)：社媒创作工具，支持 50+ 社媒平台内容获取、字幕、视频内容总结、生图、生视频等
