@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 12 号添加
 
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [CCViewer](https://ccviewer.top)：在浏览器里回放 Claude Code 会话历史，拖入 .jsonl 文件（或整个 ~/.claude/projects/ 文件夹）即可像聊天记录一样阅读——Markdown 渲染、思考过程、工具调用、Token 与费用统计，全程本地处理不上传 - [查看仓库](https://github.com/howardz27/ccviewer)
+
 #### Finderchangchang - [Github](https://github.com/Finderchangchang)
 * :white_check_mark: [Jev 聊天助手](https://chatjevs.com)：安卓聊天辅助决策工具，回复前先读当前聊天、判断对方意图和风险、起草候选回复并一键填进输入框，发不发由你；国内版支持 QQ、飞书、X、WhatsApp，同仓库另有英文海外版，开源免费，模型接口用自己的 API Key - [更多介绍](https://github.com/jev-chat/jev-chat-jarvis)
 
