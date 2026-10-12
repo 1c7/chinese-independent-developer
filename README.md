@@ -202,6 +202,11 @@
 #### ys-ll(天津) - [Github](https://github.com/ys-ll)
 * :white_check_mark: [uniTerm](https://github.com/ys-ll/uniterm)：轻量级终端工具，支持 SSH、RDP、VNC、SFTP、数据库等 20 余种协议，内置可自主执行的 AI Agent - [软件首页](https://uniterm.net)
 
+### 2026 年 10 月 12 号添加
+
+#### howardz27 - [Github](https://github.com/howardz27)
+* :white_check_mark: [CCViewer](https://ccviewer.top)：在浏览器里回放 Claude Code 会话历史，拖入 .jsonl 文件（或整个 ~/.claude/projects/ 文件夹）即可像聊天记录一样阅读——Markdown 渲染、思考过程、工具调用、Token 与费用统计，全程本地处理不上传 - [查看仓库](https://github.com/howardz27/ccviewer)
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
