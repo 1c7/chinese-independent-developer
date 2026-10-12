@@ -285,6 +285,7 @@ gh api "users/<username>/repos?sort=updated&per_page=10" | jq '[.[] | {name, des
 - GitHub `name` 字段是外文名、bio / location 全空，但仓库描述全是中文项目 → 收录（例：Tancky AI，tancky777，name 显示 "Ramiro Livi"，但仓库 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」全中文 → 收录主版面）。**`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22 补充）
 - **现居海外 ≠ 老外，海外中国学生/研究员照常收录**（2026-10-05 补）。`location` 写 New York / Boston / San Francisco 等国外城市**不能单独作为拒绝依据**，要继续看：`name` 是不是中国姓氏的拼音（Lian / Wang / Chen / Zhang 这类）、`company` 里有没有中国高校（`SJTU`、`Tsinghua`、`Peking`、`ZJU` 等）、评论正文是不是自然中文。实测：lianyixin，`name: "Ethan Lian"`、`location: New York`、`company: "MSDS @ Columbia University | BE @ SJTU"`——Lian 是中国姓、SJU 是上海交大、评论是通顺自然的中文 → 收录主版面。**同理，`location` 写着中国城市也不能单独作为收录依据**，两边都要看，合起来才有结论。
 - 作者本人更新自己已有的条目（改 URL / 优化描述）→ 合并，这不算"修改已有条目"的禁令范围，是作者维护自己的产品（例：MyServers，lovercode=codelover 更新官网 myservers.plus → 合并到主版面）
+  - **（2026-10-12 补）这类请求也可能出现在 issue 评论里，而不只是 PR。** 实测 #1511：作者 zeroXu1 先在 issue 内提交新域名 hosthtmlfile.com，被判为"同一产品换域名 = 重复提交"并回帖说明；作者随后留言「辛苦换一下域名」→ 应当把 README 里该产品（HTMLShare）的 URL 直接改成新域名。判定作者身份的快捷依据：他的 GitHub `blog` 字段就是旧域名，且新域名页面内 Organization/publisher 仍署名旧品牌、指向旧域名。**教训：判完"重复提交"不要就此收尾，作者常会紧接着要求把旧条目换到新域名。**
 
 **判定为老外（确凿证据）后的处理：**
 - 检查一（issue #160 评论）：不进入「通用处理流程」，不修改任何 README，在 #160 该条评论下用提交者所用的语言礼貌回复说明原因即可（不需要额外关闭操作）
