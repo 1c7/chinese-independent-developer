@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 12 号添加
 
+#### AnshengHu - [Github](https://github.com/zgaobai)
+* :white_check_mark: [MomentSift](https://momentsift.com)：AI 照片筛选、美化与创作网站，将相似照片分组并标记模糊、闭眼、曝光问题，先挑选值得保留的照片，再进行增强、修复、放大、移除背景或图像创作；提供 100 张照片与 10 个 AI 积分的免费试用，付费套餐每月 $19.90 起
+
 #### howardz27 - [Github](https://github.com/howardz27)
 * :white_check_mark: [CCViewer](https://ccviewer.top)：在浏览器里回放 Claude Code 会话历史，拖入 .jsonl 文件（或整个 ~/.claude/projects/ 文件夹）即可像聊天记录一样阅读——Markdown 渲染、思考过程、工具调用、Token 与费用统计，全程本地处理不上传 - [查看仓库](https://github.com/howardz27/ccviewer)
 

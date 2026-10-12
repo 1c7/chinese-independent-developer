@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 12 号添加
+
+#### DustarCode - [Github](https://github.com/DustarCode)
+* :white_check_mark: [MakerEnd](https://makerend.com/console)：AI 模型 API 中转平台，一个 API Key 即可调用 GPT、Claude、Gemini、Grok 等对话模型与 Midjourney、Flux、Sora、Veo、可灵等图像视频模型，OpenAI 兼容接口，按量计费，支持支付宝 / 微信 / USDT 充值，注册或联系客服可领免费测试额度 - [价格列表](https://makerend.com/pricing)
+
 ### 2026 年 10 月 11 号添加
 
 #### ls-open - [Github](https://github.com/ls-open)
