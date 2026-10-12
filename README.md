@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 12 号添加
+
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [favicondl](https://favicondl.com/zh/)：网站图标下载工具，输入任意网址，自动找出该网站最清晰的图标（SVG / 大尺寸 PNG / ICO）并一键下载，也可一次批量下载 100 个网站的图标，免费无需注册
+
 ### 2026 年 10 月 11 号添加
 
 #### Jamailar - [Github](https://github.com/Jamailar)
