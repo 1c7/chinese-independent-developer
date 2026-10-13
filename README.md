@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 13 号添加
 
+#### niceboy - [Github](https://github.com/sunlin-xiaonai)
+* :white_check_mark: [NewYouGo](https://newyougo.com/)：AI 图片、视频和音乐创作平台，支持多模型生成与图片编辑；登录后每天可免费生成 20 张 FLUX.1 Schnell 图片，其他模型按积分计费
+* :white_check_mark: [Raindance AI](https://raindanceai.stream/)：AI 照片转视频工具，可先预览并选择场景模板；Raindance 场景能生成带原创 AI 配乐的 15 秒视频，按视频数量一次性付费，无订阅
+
 #### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
 * :white_check_mark: [LogoMovo](https://logomovo.com/)：浏览器 Logo 设计工作台，探索图形、字体、颜色与排版方向，调整设计后导出 SVG 或 PNG；Studio 与 AI 生成功能需登录及有效付费方案，品牌配色与命名资料可公开浏览
 * :white_check_mark: [NailMoodLab](https://nailmoodlab.com/)：AI 美甲设计规划工具，按颜色、长度和细节生成可下载的参考图，也可用手部照片预览风格；AI 功能需登录，免费方案每月含 5 次 AI 操作，另有付费方案，预览不保证与沙龙成品一致
