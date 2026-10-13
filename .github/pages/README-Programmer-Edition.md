@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 13 号添加
 
+#### hen9xin - [Github](https://github.com/hen9xin)
+* :white_check_mark: [pan-transfer-bot](https://github.com/hen9xin/pan-transfer-bot)：夸克/百度网盘资源整理工具与 AI Agent Skill，粘贴分享链接即自动识别提取码、转存到自己网盘并按年/月/日归档、生成新分享链接，纯本地生成配套文案无需大模型 API；FastAPI + Web 界面，Docker 一键部署，附 SKILL.md 可供 Claude Code 调用，MIT 开源
+
 #### cf12436 - [Github](https://github.com/cf12436)
 * :white_check_mark: [AI SaaS Go](https://aisaasgo.org/)：AI API 中转站，一个 Key 调用 OpenAI、Claude、Gemini、Grok 等模型，兼容 OpenAI Chat Completions 与 Anthropic Messages 协议，支持原生 SSE 流式响应、按量计费与提示缓存，站点另设在线生图入口
 
