@@ -45,6 +45,10 @@
 
 #### 31415959 - [Github](https://github.com/31415959)
 * :white_check_mark: [AI 味体检](https://31415959.github.io/deai-web/)：网文 AI 味检测器，粘贴正文输出 0-100 评分并逐处标出问题句，附一段可直接用的去味改写 Prompt；纯浏览器本地运行、正文不上传，免费无需注册，另有 38KB 单文件离线版下载双击即用 - [源码](https://github.com/31415959/deai-web)
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [ReadGZH](https://readgzh.site)：粘贴公众号文章链接就能拿到干净全文和 Markdown，直接交给 ChatGPT、Claude、Cursor 阅读，支持远程 MCP 与 REST API；免费额度每天 30 积分（新抓取 3 积分/篇、已缓存文章 0 积分），Lite ¥9/月
+* :white_check_mark: [FaviconDL](https://favicondl.com)：输入任意网址就能下载它的 favicon，一次拿齐 ICO、PNG、SVG 与 Apple touch icon 各尺寸，也支持批量提取和从图片生成；免费无需注册，支持中英日西四语
+* :white_check_mark: [3D 太阳系模拟器](https://www.3dsolarsystem.net/)：浏览器里的交互式 3D 太阳系，可环绕太阳与八大行星、切换真实距离或真实比例，还能降落到月球和火星表面；免费无广告，无需注册，适合课堂演示
 
 ### 2026 年 10 月 12 号添加
 
