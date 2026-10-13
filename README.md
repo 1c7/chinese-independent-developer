@@ -26,6 +26,14 @@
 
 ### 2026 年 10 月 13 号添加
 
+#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
+* :white_check_mark: [LogoMovo](https://logomovo.com/)：浏览器 Logo 设计工作台，探索图形、字体、颜色与排版方向，调整设计后导出 SVG 或 PNG；Studio 与 AI 生成功能需登录及有效付费方案，品牌配色与命名资料可公开浏览
+* :white_check_mark: [NailMoodLab](https://nailmoodlab.com/)：AI 美甲设计规划工具，按颜色、长度和细节生成可下载的参考图，也可用手部照片预览风格；AI 功能需登录，免费方案每月含 5 次 AI 操作，另有付费方案，预览不保证与沙龙成品一致
+* :white_check_mark: [DishVivid](https://dishvivid.com/)：餐厅菜单与外卖图片编辑器，在浏览器调整光线、颜色和裁剪，对比原图并下载 JPEG；手动编辑无需账号，选用 AI 编辑时需登录及可用额度，发布前须检查食材、份量和摆盘是否准确
+* :white_check_mark: [PackScena](https://packscena.com/)：AI 商品背景与场景图工具，上传 1–3 件商品照片，选择预设、颜色或场景描述，逐张检查后导出方形与竖版 PNG；当前为邀请码免费试用，无需付款，公开样例可免注册浏览，AI 可能改变商品细节
+* :white_check_mark: [LookScene](https://lookscene.packscena.com/)：个人 AI 照片造型预览工具，成年人可用自己的照片探索发型、穿搭和人像场景，再对比原图下载结果；当前为需登录、邀请码及可用积分的免费预览，官网样例为 AI 示意图，不保证真实发型或服装效果
+* :white_check_mark: [AI Lab](https://ailab.packscena.com/)：中文浏览器实用工具、小游戏与原创漫画平台，提供图片压缩、Markdown 转 HTML、EPUB 阅读等入口；基础图片压缩和部分样例可公开使用，完整工具或内容按入口要求登录及积分
+
 #### Maaaaph - [Github](https://github.com/Maaaaph)
 * :white_check_mark: [Smalltown Boy AI](https://smalltownboyai.com/)：AI 双人舞蹈视频生成器，上传两张正面人像照片分居左右，让两位主角同步跳固定的 80 年代合成波舞步，输出 14 秒 9:16 竖屏视频（不含原曲音频），无需编写提示词；按积分一次性付费，480P / 720P / 1080P 分别 45 / 90 / 180 积分，$4.99 起，无订阅
 

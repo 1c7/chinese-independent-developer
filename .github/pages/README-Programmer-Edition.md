@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 13 号添加
+
+#### cf12436 - [Github](https://github.com/cf12436)
+* :white_check_mark: [AI SaaS Go](https://aisaasgo.org/)：AI API 中转站，一个 Key 调用 OpenAI、Claude、Gemini、Grok 等模型，兼容 OpenAI Chat Completions 与 Anthropic Messages 协议，支持原生 SSE 流式响应、按量计费与提示缓存，站点另设在线生图入口
+
 ### 2026 年 10 月 12 号添加
 
 #### DustarCode - [Github](https://github.com/DustarCode)
