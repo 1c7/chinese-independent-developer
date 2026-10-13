@@ -50,6 +50,9 @@
 * :white_check_mark: [FaviconDL](https://favicondl.com)：输入任意网址就能下载它的 favicon，一次拿齐 ICO、PNG、SVG 与 Apple touch icon 各尺寸，也支持批量提取和从图片生成；免费无需注册，支持中英日西四语
 * :white_check_mark: [3D 太阳系模拟器](https://www.3dsolarsystem.net/)：浏览器里的交互式 3D 太阳系，可环绕太阳与八大行星、切换真实距离或真实比例，还能降落到月球和火星表面；免费无广告，无需注册，适合课堂演示
 
+#### ViggoZ - [Github](https://github.com/ViggoZ)
+* :white_check_mark: [APPLORE](https://applore.app)：App 图标灵感库，收录 18,000+ 个 App Store / Google Play 真实 App 图标及每次改版的历史版本，可按颜色、风格、分类浏览；附免费的图标全尺寸导出（免注册）、商店截图生成、PNG 转 SVG 等工具，AI 生成图标按积分付费
+
 ### 2026 年 10 月 12 号添加
 
 #### AnshengHu - [Github](https://github.com/zgaobai)
