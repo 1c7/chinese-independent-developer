@@ -26,9 +26,31 @@
 
 ### 2026 年 10 月 13 号添加
 
+#### lzeee - [Github](https://github.com/lzeee)
+* :white_check_mark: [孙哥在线](https://sunge.online)：非官方孙宇晨资料整理站，按时间线回看重要经历与公开事件，收录《财富自由革命之路》146 期音频及逐段文字稿，以及《这世界既残酷也温柔》在线阅读；免费、无需注册，内容将持续整理更新
+
+#### dreamwake.eth - [Github](https://github.com/BEIDAHUANG)
+* :white_check_mark: [CastDub](https://castdub.com/)：AI 多角色配音工作台，粘贴剧本自动识别角色并分配声音，可逐句调整情绪，导出成品音频；支持中英日韩等 9 种语言，免注册试用，开放测试期免费
+* :white_check_mark: [Science Diagram](https://sciencediagram.com/)：AI 科学示意图工具，一句话生成带标签、可编辑的论文/课件插图，支持多种学科模板并导出 PNG；Beta 期免费
+
+#### Miracle - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [SpritePixel](https://spritepixel.com/)：一款面向个人和独立游戏开发者的 AI 游戏资产工作室，用 AI 创建风格一致的游戏精灵图、动画、精灵图表和配套图标套装，并围绕同一个游戏项目持续生成与管理
+
+#### juren056 - [Github](https://github.com/juren056)
+* :white_check_mark: [Nano Banana 2.1](https://nanobanana21pro.com/)：AI 图片生成与参考图编辑网站，支持商品场景、虚构人物分镜和带文字海报创作，提交前显示所选模型、输出设置与积分费用 - [教程与原创示例](https://github.com/juren056/nano-banana-image-workflows)
+
+#### Jamailar - [Github](https://github.com/Jamailar)
+* :white_check_mark: [Ad Multiplier](https://admultipliers.com/)：视频广告变体工具，上传现有 4–30 秒广告，生成最多 4 个不同人物、服装、场景或产品的视觉版本，可选择保留原音频，下载 720p / 1080p MP4 后人工审核和发布；按积分付费，无订阅，4–15 秒 Standard 输出单积分价格 $9.90
+
 #### niceboy - [Github](https://github.com/sunlin-xiaonai)
 * :white_check_mark: [NewYouGo](https://newyougo.com/)：AI 图片、视频和音乐创作平台，支持多模型生成与图片编辑；登录后每天可免费生成 20 张 FLUX.1 Schnell 图片，其他模型按积分计费
 * :white_check_mark: [Raindance AI](https://raindanceai.stream/)：AI 照片转视频工具，可先预览并选择场景模板；Raindance 场景能生成带原创 AI 配乐的 15 秒视频，按视频数量一次性付费，无订阅
+
+#### ViggoZ - [Github](https://github.com/ViggoZ)
+* :white_check_mark: [APPLORE](https://applore.app)：App 图标灵感库，收录 18,000+ 个 App Store / Google Play 真实 App 图标及每次改版的历史版本，可按颜色、风格、分类浏览；附免费的图标全尺寸导出（免注册）、商店截图生成、PNG 转 SVG 等工具，AI 生成图标按积分付费
+
+#### sweesama - [Github](https://github.com/sweesama)
+* :white_check_mark: [3D 太阳系模拟器](https://www.3dsolarsystem.net/)：浏览器里的交互式 3D 太阳系，可环绕太阳与八大行星、切换真实距离或真实比例，还能降落到月球和火星表面；免费无广告，无需注册，适合课堂演示
 
 #### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
 * :white_check_mark: [LogoMovo](https://logomovo.com/)：浏览器 Logo 设计工作台，探索图形、字体、颜色与排版方向，调整设计后导出 SVG 或 PNG；Studio 与 AI 生成功能需登录及有效付费方案，品牌配色与命名资料可公开浏览
@@ -49,13 +71,6 @@
 
 #### 31415959 - [Github](https://github.com/31415959)
 * :white_check_mark: [AI 味体检](https://31415959.github.io/deai-web/)：网文 AI 味检测器，粘贴正文输出 0-100 评分并逐处标出问题句，附一段可直接用的去味改写 Prompt；纯浏览器本地运行、正文不上传，免费无需注册，另有 38KB 单文件离线版下载双击即用 - [源码](https://github.com/31415959/deai-web)
-#### sweesama - [Github](https://github.com/sweesama)
-* :white_check_mark: [ReadGZH](https://readgzh.site)：粘贴公众号文章链接就能拿到干净全文和 Markdown，直接交给 ChatGPT、Claude、Cursor 阅读，支持远程 MCP 与 REST API；免费额度每天 30 积分（新抓取 3 积分/篇、已缓存文章 0 积分），Lite ¥9/月
-* :white_check_mark: [FaviconDL](https://favicondl.com)：输入任意网址就能下载它的 favicon，一次拿齐 ICO、PNG、SVG 与 Apple touch icon 各尺寸，也支持批量提取和从图片生成；免费无需注册，支持中英日西四语
-* :white_check_mark: [3D 太阳系模拟器](https://www.3dsolarsystem.net/)：浏览器里的交互式 3D 太阳系，可环绕太阳与八大行星、切换真实距离或真实比例，还能降落到月球和火星表面；免费无广告，无需注册，适合课堂演示
-
-#### ViggoZ - [Github](https://github.com/ViggoZ)
-* :white_check_mark: [APPLORE](https://applore.app)：App 图标灵感库，收录 18,000+ 个 App Store / Google Play 真实 App 图标及每次改版的历史版本，可按颜色、风格、分类浏览；附免费的图标全尺寸导出（免注册）、商店截图生成、PNG 转 SVG 等工具，AI 生成图标按积分付费
 
 ### 2026 年 10 月 12 号添加
 
@@ -5647,70 +5662,6 @@
 #### zane12580 - [即刻](https://jike.city/zane12580)
 * :x: [LLM GPU Helper](https://llmgpuhelper.com)：大模型资源平台：提供 GPU 内存计算、个性化模型推荐和全面知识库，助您精准选择和高效应用AI模型。
   
-### 2024 年 8 月 13 号添加
-#### biboom(广州) - [Github](https://github.com/li150/mapping_scanning)
-* :white_check_mark: [配图扫描 App](https://github.com/li150/mapping_scanning)：基于本地 OCR 配图扫描的文字识别 App
-
- #### Avery (广州) 
-* :white_check_mark: [AI Tool Trek](https://aitooltrek.com/)：AI 工具导航站 & 实时 AI 新闻预览
-
- #### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [Logo.surf](https://www.logo.surf)：文字生成 Logo & Favicon
-
-### 2024 年 8 月 12 号添加
-#### blank - [Twitter](https://x.com/blankwebdev)
-* :white_check_mark: [AITDK SEO Extension](https://aitdk.com/extension)：All-in-One SEO 浏览器插件（免费），支持一键查看网站的流量、Whois、关键词密度等 SEO 信息
-* :white_check_mark: [Comment Fast](https://commentfast.com/)：基于 AI 的快速评论工具，为任意帖子或文章生成高质量评论
-
-### 2024 年 8 月 10 号添加
-#### 木木木
-* :white_check_mark: [MP4 to MP3](https://mp4t.com/zh/)：免费、安全、快速的 MP4 转 MP3 工具
-
-### 2024 年 8 月 8 号添加
-#### zxcHolmes
-* :x: [SpeakGo 实时同声传译工具](https://speakgo.app)：高效便捷的实时同声传译工具
-
- #### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [IP.network](https://www.ip.network)：IP 地址查询
-* :white_check_mark: [DNS.fish](https://dns.fish): 域名 DNS 记录查询
-
-### 2024 年 8 月 6 号添加
-#### tutorial0 - [GitHub](https://github.com/tutorial0)
-* :white_check_mark: [One-Click SEO Links](https://chromewebstore.google.com/detail/jllecdngjonjinaffdjdcojfdikimdlj?authuser=0&hl=zh-TW) (Chrome 插件）帮助站长进行 SEO 外链推广。包含全自动模式、半自动模式和人工模式，在外链推广的复杂填表场景能节省大量时间。
-
-### 2024 年 8 月 5 号添加
-#### underwood
-* :white_check_mark: [Midjourney Sref code 精选库](https://midjourneysref.com/)：在 Midjourney 的 prompt 输入 `--sref xxx` ，可以固定生成某种特定风格的图片。这对很多人来说非常方便，不用写一堆效果词，只要记住几位数字就可以。但 `--sref xxx` 有大概 40 亿个，其中重复或者质量不佳的不在少数。因此做了一个网站把一些个人觉得不错的 sref code 收集起来并进行分类，方便新人或设计师检索
-
-#### 0xJoanne - [Github](https://github.com/0xjoanne)
-* :white_check_mark: [CosmeticCheck](https://www.cosmeticcheck.app)：化妆品批号免费查询网站
-
-### 2024 年 8 月 3 号添加
-#### 7SaiWen(成都)
-* :white_check_mark: [GPS测速仪 - 速度表](https://apps.apple.com/cn/app/id1497060416)：GPS测速仪 - 跟踪您的速度和行程！Tesla Model 3 车主最爱速度表！
-
-#### Airyland - [Github](https://github.com/airyland)
-* :white_check_mark: [Query.Domains](https://query.domains)：极速域名注册状态及 whois 批量查询
-* :white_check_mark: [Favicon.im](https://favicon.im): 获取网站 Favicon
-
-### 2024 年 8 月 2 号添加
-#### 瓶水之冰(澳洲布里斯班) - [Github](https://github.com/zzAlexzz), [网站](https://geilio.com/), [小红书](http://xhslink.com/tXLmAR)
-* :white_check_mark: [Geilio Timer](https://geilio.com/)：高度可定制的计时器，适用于考试单题计时提醒等，[App Store](https://apps.apple.com/lt/app/geilio-timer/id6446805524)，[Google Play](https://play.google.com/store/apps/details?id=com.geilio.android.timer)
-
-### 2024 年 8 月 1 号添加
-#### Oiov(成都) - [Github](https://github.com/oiov)
-* :white_check_mark: [WR.DO](https://wr.do)：基于 Cloudflare 的多租户 DNS 分发系统 - [仓库](https://github.com/oiov/wr.do)
-
-#### Xigong(郑州) - [Github](https://github.com/Xigong93)
-* :clock8: [小篆传包](https://github.com/Xigong93/XiaoZhuan)：一键更新安卓 Apk 到华为、小米等多个应用市场，助力 App 发版
-
-#### 木木木
-* :x: [SVG to PNG](https://svgzz.com/)：SVG 转 PNG、JPG、WebP 格式，支持多文件，支持设置宽度或高度
-
-### 2024 年 7 月 30 号添加
-#### 疯狂的小波
-* :white_check_mark: [Mejorar Imagen](https://mejorarimagen.org/)：AI 图像增强器：用 AI 将图片放大 10 倍，最高提升到 12K 分辨率
-
 ## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
 
 
