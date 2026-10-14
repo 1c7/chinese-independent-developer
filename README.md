@@ -62,7 +62,7 @@
 #### Ken - [Github](https://github.com/kccarlos)
 * :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
 
-#### Hayden - [Github](https://github.com/hayden-xiong)
+#### KM1024KKM
 * :white_check_mark: [像话](https://mirrorsay.com)：无需注册，说一句英语就告诉你母语者会怎么说，再带你跟读、逐词对比；英文卡住时说中文也行（iOS / Android，免费）
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
