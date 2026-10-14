@@ -62,6 +62,10 @@
 #### fpy5627(成都) - [Github](https://github.com/fpy5627)
 * :white_check_mark: [Vedic Astrology Chart](https://vedicastrologychart.net/)：吠陀占星排盘工具，输入出生日期、时间和地点，通过 Swiss Ephemeris 计算星盘，提供行星、宫位、Nakshatra、Dasha 与 D9/Navamsa 信息及中英文 AI 解读；基础排盘和简短 AI 摘要免费，详细报告与 PDF 可选付费
 
+#### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
+* :white_check_mark: [Copyla](https://copyla.elazer.wang)：Mac 剪贴板管理工具，数据完全存在本机、无需账号，支持全文搜索历史、多项按顺序一次贴回、Pinboard 常用片段和本机 OCR，14 天免费试用后 ¥79 买断
+* :white_check_mark: [Clacklet](https://clacklet.elazer.wang)：Mac 键鼠音效工具，15 套机械键盘/打字机等按键声 + 8 种雨声海浪等环境声 + 打字猫等桌面反馈，不录音不存键入内容，App 内不限时免费试用，¥19.9 买断
+
 ### 2026 年 10 月 13 号添加
 
 #### 严毓焕 - [Github](https://github.com/Ivan666jjj)
