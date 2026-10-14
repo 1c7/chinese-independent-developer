@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 14 号添加
 
+#### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
+* :white_check_mark: [Copyla](https://copyla.elazer.wang)：Mac 剪贴板管理工具，数据完全存在本机、无需账号，支持全文搜索历史、多项按顺序一次贴回、Pinboard 常用片段和本机 OCR，14 天免费试用后 ¥79 买断
+* :white_check_mark: [Clacklet](https://clacklet.elazer.wang)：Mac 键鼠音效工具，15 套机械键盘/打字机等按键声 + 8 种雨声海浪等环境声 + 打字猫等桌面反馈，不录音不存键入内容，App 内不限时免费试用，¥19.9 买断
+
 #### kuxiaowo - [Github](https://github.com/kuxiaowo)
 * :white_check_mark: [AIpet · 丛雨桌宠](https://github.com/kuxiaowo/AIpet-Murasame/releases)：Windows AI 桌面伴侣，支持本地或云端对话、语音输入输出、可选屏幕感知和对话记忆；提供免安装 EXE，聊天需配置模型或 API Key，基于 MurasamePet 继续开发 - [源码与使用说明](https://github.com/kuxiaowo/AIpet-Murasame)
 * :white_check_mark: [待办清单时间线](https://todolist.nethub.wiki/)：学习任务管理网站，用时间线查看截止日期，将任务拖入每日计划，支持习惯管理、ManageBac 作业导入及可选 AI 助手；支持中英文，保存和管理任务需登录 NetHub 账号 - [源码与使用说明](https://github.com/kuxiaowo/To-do-list)
@@ -61,10 +65,6 @@
 
 #### fpy5627(成都) - [Github](https://github.com/fpy5627)
 * :white_check_mark: [Vedic Astrology Chart](https://vedicastrologychart.net/)：吠陀占星排盘工具，输入出生日期、时间和地点，通过 Swiss Ephemeris 计算星盘，提供行星、宫位、Nakshatra、Dasha 与 D9/Navamsa 信息及中英文 AI 解读；基础排盘和简短 AI 摘要免费，详细报告与 PDF 可选付费
-
-#### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
-* :white_check_mark: [Copyla](https://copyla.elazer.wang)：Mac 剪贴板管理工具，数据完全存在本机、无需账号，支持全文搜索历史、多项按顺序一次贴回、Pinboard 常用片段和本机 OCR，14 天免费试用后 ¥79 买断
-* :white_check_mark: [Clacklet](https://clacklet.elazer.wang)：Mac 键鼠音效工具，15 套机械键盘/打字机等按键声 + 8 种雨声海浪等环境声 + 打字猫等桌面反馈，不录音不存键入内容，App 内不限时免费试用，¥19.9 买断
 
 ### 2026 年 10 月 13 号添加
 
