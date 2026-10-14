@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 14 号添加
 
+#### kuxiaowo - [Github](https://github.com/kuxiaowo)
+* :white_check_mark: [AIpet · 丛雨桌宠](https://github.com/kuxiaowo/AIpet-Murasame/releases)：Windows AI 桌面伴侣，支持本地或云端对话、语音输入输出、可选屏幕感知和对话记忆；提供免安装 EXE，聊天需配置模型或 API Key，基于 MurasamePet 继续开发 - [源码与使用说明](https://github.com/kuxiaowo/AIpet-Murasame)
+* :white_check_mark: [待办清单时间线](https://todolist.nethub.wiki/)：学习任务管理网站，用时间线查看截止日期，将任务拖入每日计划，支持习惯管理、ManageBac 作业导入及可选 AI 助手；支持中英文，保存和管理任务需登录 NetHub 账号 - [源码与使用说明](https://github.com/kuxiaowo/To-do-list)
+
 #### hurry - [Github](https://github.com/hurry060215-tech)
 * :white_check_mark: [LearnNote](https://hurry060215-tech.github.io/learnnote-assistant/)：本地学习工作台，把视频字幕与 PDF、Markdown 等资料整理为可编辑笔记，保留原文和来源时间点供核对；无需 LearnNote 账号，自选模型，远程 API 费用另计；当前 Windows 可用，macOS/Linux 预览，源码采用 Apache-2.0 - [源码与使用说明](https://github.com/hurry060215-tech/learnnote-assistant)
 
