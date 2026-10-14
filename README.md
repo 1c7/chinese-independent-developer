@@ -26,6 +26,13 @@
 
 ### 2026 年 10 月 14 号添加
 
+#### lenoooin - [Github](https://github.com/lenoooin)
+* :white_check_mark: [Vidlark](https://vidlark.ai/)：输入一句话或上传一张照片就能生成视频和图片，Seedance、Kling、Veo、Nano Banana 等 40 多个模型共用一个积分余额，生成前显示价格，失败自动退积分；注册送 100 积分，无需绑卡
+* :white_check_mark: [AI Humanizer](https://ai-humanizer.dev/)：把 ChatGPT、Gemini 写的稿子改成读起来自然的文字，保留原有观点和段落；可选学术、口语、正式等语气和阅读难度，支持英语、西班牙语、葡萄牙语；免注册每天免费 2000 词
+* :white_check_mark: [PumpkinStencil](https://pumpkinstencil.org/)：150 款原创可打印南瓜雕刻模板，从儿童简笔脸到三色阴影；还能把宠物或家人的照片转成可雕刻的模板，按小、中、大南瓜尺寸导出 PDF，经典模式免费
+* :white_check_mark: [Raindance AI Video](https://raindanceaivideo.com/)：上传一张照片做单人、两张做双人，选 Raindance Original、Pier at Sunset 等模板或自己描述场景，几分钟生成可直接发 TikTok 的潮流短视频；按条付费 $9.90 起，无订阅，失败自动退款
+* :white_check_mark: [RapVideoGenerator](https://rapvideogenerator.com/)：输入一个主题或自己的歌词，生成两版原创说唱，可选 trap、boom bap、drill、lo-fi 等风格；再加一张正脸自拍，生成对口型的 9:16 说唱视频；第一首 30 秒免费，无需绑卡
+
 #### fayecat - [GitHub](https://github.com/fayecat)
 * :white_check_mark: [Rulr](https://www.rulr.app/)：Mac 可视化自动化工具，无需编程，通过快捷键、定时或应用事件等触发条件，自动执行各种操作和工作流，支持 AI 创建自动化规则
 
