@@ -2,6 +2,12 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 14 号添加
+
+#### kuxiaowo - [Github](https://github.com/kuxiaowo)
+* :clock8: [KSA 简体中文汉化预览](https://github.com/kuxiaowo/KSA-CHINESE/releases/tag/v0.1.2)：Kitten Space Agency 的部分简体中文汉化 Mod，提供中文字体、译文和便携启动器，不替换原游戏文件；仅适配游戏 2026.10.13.5602，需 .NET 10 x64 Runtime，未覆盖文本回退英文 - [源码与安装说明](https://github.com/kuxiaowo/KSA-CHINESE)
+* :white_check_mark: [AC → Forza 遥测桥](https://github.com/kuxiaowo/AC-Forza-Telemetry-Bridge/releases/tag/v1.1.0)：Windows 赛车仪表盘适配工具，读取 Assetto Corsa 1 遥测并转换为 Forza Horizon Dash UDP 格式，让兼容仪表盘显示速度、转速、挡位等数据；提供可直接运行的发布包，需配合原游戏及兼容接收端使用 - [源码与使用说明](https://github.com/kuxiaowo/AC-Forza-Telemetry-Bridge)
+
 ### 2026 年 10 月 10 号添加
 
 #### MarchBeta2087 - [Github](https://github.com/MarchBeta2087)

@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 14 号添加
 
+#### kuxiaowo - [Github](https://github.com/kuxiaowo)
+* :white_check_mark: [WeChat ASR Bridge](https://github.com/kuxiaowo/wechat-asr-bridge)：把 Windows 微信语音识别接成兼容 OpenAI 的 ASR 接口，支持 WAV/MP3 和 JSON/文本输出；提供免安装窗口版，可选择音频并复制或保存识别结果；需安装并登录微信 4.1.13.65，音频经微信发送至微信服务端，属于版本限定的实验桥接器 - [下载与使用说明](https://github.com/kuxiaowo/wechat-asr-bridge/releases/tag/v0.2.0)
+
 #### lenoooin - [Github](https://github.com/lenoooin)
 * :white_check_mark: [Roblox GUI Maker](https://robloxguimaker.dev/)：一句话描述商店、HUD、背包或弹窗，生成最多 4 版 Roblox 游戏界面草图，附组件树和样式变量，桌面端和手机端同时预览，可用插件一键发送到 Roblox Studio；第一个 GUI 免费
 
