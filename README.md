@@ -29,6 +29,15 @@
 #### AmintaCCCP - [Github](https://github.com/AmintaCCCP)
 * :white_check_mark: [GithubStarsManager](https://gsm.aminta.top)：GitHub 星标管理桌面应用，AI 自动生成摘要与标签，支持语义搜索和版本更新追踪，数据本地保存、打开即用，支持 Windows / macOS / Linux - [源码](https://github.com/AmintaCCCP/GithubStarsManager)
 
+#### Axes Explorer - [Github](https://github.com/Peacoke)
+* :white_check_mark: [The 12 Axes](https://12axes.site/)：多维度政治倾向自我反思测试工具，提供 60 题精简版与 288 题完整版，从 12 个独立维度分析政治与社会议题取向，提供意识形态匹配与历史人物参考，纯前端运算、无需注册登录、答题进度与答案完全保存在浏览器；支持英语、西班牙语、葡萄牙语，完全免费
+
+#### movclantian - [Github](https://github.com/movclantian)
+* :white_check_mark: [MastraWork](https://github.com/movclantian/mastra-desktop)：开源桌面 AI 工作台，把一次 Agent 运行组织成可暂停、可回溯、可交接的任务——改代码、跑命令、调 LSP 是「工程任务」，计划/构建/复查三种模式管权限，主 Agent 还能带专家团队分工协作；模型服务自己配、数据默认留在本机，支持 Windows / macOS / Linux，Apache-2.0 开源
+
+#### AnshengHu - [Github](https://github.com/zgaobai)
+* :white_check_mark: [AI Hairstyle Fit](https://aihairstylefit.com/)：男士 AI 发型预览工具，上传正面照并可选填写偏好，对比新发型与原图，查看日常打理建议并生成理发卡；生成需登录，符合条件且完成验证的新账号可获 10 积分体验一次预览，后续按需购买积分包，无订阅；照片和结果 24 小时后清理
+
 ### 2026 年 10 月 14 号添加
 
 #### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
@@ -125,7 +134,6 @@
 ### 2026 年 10 月 12 号添加
 
 #### AnshengHu - [Github](https://github.com/zgaobai)
-* :white_check_mark: [AI Hairstyle Fit](https://aihairstylefit.com/)：男士 AI 发型预览工具，上传正面照并可选填写偏好，对比新发型与原图，查看日常打理建议并生成理发卡；生成需登录，符合条件且完成验证的新账号可获 10 积分体验一次预览，后续按需购买积分包，无订阅；照片和结果 24 小时后清理
 * :white_check_mark: [MomentSift](https://momentsift.com)：AI 照片筛选、美化与创作网站，将相似照片分组并标记模糊、闭眼、曝光问题，先挑选值得保留的照片，再进行增强、修复、放大、移除背景或图像创作；提供 100 张照片与 10 个 AI 积分的免费试用，付费套餐每月 $19.90 起
 
 #### howardz27 - [Github](https://github.com/howardz27)
@@ -5599,43 +5607,6 @@
 ### 2024 年 9 月 20 号添加
 #### Q-Sansan
 * :white_check_mark: [OC Maker](https://www.ocmaker.net)：用 AI 生成原创角色图像
-
-### 2024 年 9 月 18 号添加
-#### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
-* :white_check_mark: [改革后法定延迟退休年龄计算器 & 退休倒计时工具](https://daojishi.fun)：帮助用户轻松计算退休时间并以有趣的方式倒数至退休日。我们的目标是让用户以积极乐观的态度面对工作和生活 - [更多介绍](https://juejin.cn/post/7415651555120824354)
-
-### 2024 年 9 月 14 号添加
-#### Kestrel - [Github](https://github.com/kestrela)
-* :white_check_mark: [退休年龄计算器](http://test.kestrel-task.cn/)：按照《关于实施渐进式延迟法定退休年龄的决定》附表对照关系，您通过法定退休年龄计算器，选择出生年月、性别及人员类型，即可计算出对应的改革后法定退休年龄、改革后退休时间、延迟月数
-
-### 2024 年 9 月 10 号添加
-#### Saga (Guangzhou) - [Github](https://github.com/s87343472)
-* :white_check_mark: [Show HN Today](https://showhntoday.com)：汇集 HackerNews 中热门项目的网站。每天从 Hacker News 平台中提取最有趣、最创新的项目和新闻，并通过简洁的界面展示，帮助用户轻松跟踪技术界的最新趋势。无论你是开发者、创业者还是技术爱好者，Show HN Today 都为你提供一个了解前沿技术和创意项目的便捷窗口。
-
-#### 陆永剑 - [Github](https://github.com/deer-code)
-* :white_check_mark: [桌面新宠(NewPet) ](https://apps.apple.com/cn/app/%E6%A1%8C%E9%9D%A2%E6%96%B0%E5%AE%A0/id6499423794?mt=12) : 与效率工具深度互动的桌面宠物
-
-### 2024 年 9 月 9 号添加
-#### biboom(广州) - [Github](https://github.com/li150/li150)
-* :white_check_mark: [天命打工人插件](https://chromewebstore.google.com/detail/%E5%A4%A9%E5%91%BD%E6%89%93%E5%B7%A5%E4%BA%BA/annhlammehogodlbcnncafpgnefbmpah)：倒计时的时间摸鱼浏览器插件
-
-### 2024 年 9 月 6 号添加
-#### Cloudchewie(武汉) - [Github](https://github.com/Robert-Stackflow), [博客](https://blog.cloudchewie.com)
-* :white_check_mark: [CloudOTP](https://apps.cloudchewie.com/zh_CN/cloudotp)：双因素验证器（支持 Android 和 Windows 平台，支持从第三方软件导入和云备份） - [更多介绍](https://apps.cloudchewie.com/zh_CN/cloudotp/introduction)
-* :white_check_mark: [Moment](https://moment.cloudchewie.com/)：相册博客（支持自托管） - [更多介绍](https://github.com/Robert-Stackflow/Moment)
-
-#### xiaoxusdz - [Github](https://github.com/xiaoxusdz)
-* :white_check_mark: [Flux AI](https://fluxaiweb.com)：AI 图片生成器
-* :white_check_mark: [AI Lyrics Generator](https://www.lyricsgenerator.io)：免费人工智能歌词生成器和人工智能歌曲作家
-
-### 2024 年 9 月 3 号添加
-#### keycheung - [Github](https://github.com/keycheung)
-* :white_check_mark: [海德时钟](https://apps.apple.com/cn/app/hyde-clock-time-widget/id6476807443)：集精美时钟、番茄计时以及白噪音的专注类 App（苹果应用）
-
-
-### 2024 年 9 月 2 号添加
-#### 94r7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
-* :white_check_mark: [放大镜录屏](https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN)：Chrome 录屏插件，可放大区域 - [更多介绍](https://www.bilibili.com/video/BV1g9noedECb/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
