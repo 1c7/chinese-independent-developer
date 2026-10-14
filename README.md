@@ -4,7 +4,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [2018 ~ 2024 年项目列表](./.github/pages/README-Archive.md)：因 GitHub 渲染限制单独存档
+- [更早的项目（2018 ~ 2024 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -5623,7 +5623,7 @@
 #### 94r7(桂林) - [Github](https://github.com/WtecHtec), [博客](https://r7.nuxt.dev/)
 * :white_check_mark: [放大镜录屏](https://chromewebstore.google.com/detail/oamckfgecgfenpchklfhelhnngmhdnma?authuser=0&hl=zh-CN)：Chrome 录屏插件，可放大区域 - [更多介绍](https://www.bilibili.com/video/BV1g9noedECb/?spm_id_from=333.999.0.0&vd_source=d5b28d31bf0713b1e64a887d37daeb4a)
 
-## 👉 查看 [2018 年 ~ 2024 年项目列表](./.github/pages/README-Archive.md)（因 GitHub 渲染限制单独存档）
+## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
 ### 基于本列表数据源的产品
