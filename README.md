@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 14 号添加
 
+#### sunflower225 - [Github](https://github.com/sunflower225)
+* :white_check_mark: [声笺](https://whisperweb.site/zh/)：浏览器本地语音转文字工具，用 Whisper 模型在本机转写音频和视频，文件不上传服务器；可校对文字和时间轴，导出 TXT/SRT/VTT 字幕，单个文件最长 20 分钟，免费无需注册
+* :white_check_mark: [Sesshu](https://sesshu.app/)：面向日本用户的 AI 视频生成网站（日语/英语界面），输入文字或上传图片，即可用 Seedance、Kling、Veo 等模型生成短视频，支持 16:9、9:16、1:1 画幅；需用 Google 账号登录，新用户赠送 48 积分（无需绑卡），之后可月付订阅或购买积分包
+
 #### fayecat - [GitHub](https://github.com/fayecat)
 * :white_check_mark: [Rulr](https://www.rulr.app/)：Mac 可视化自动化工具，无需编程，通过快捷键、定时或应用事件等触发条件，自动执行各种操作和工作流，支持 AI 创建自动化规则
 
