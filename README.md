@@ -27,7 +27,7 @@
 ### 2026 年 10 月 13 号添加
 
 #### 严毓焕 - [Github](https://github.com/Ivan666jjj)
-* :white_check_mark: [一个字的一生](https://ivan666jjj.github.io/yigezi/)：输入任意汉字，一页看完它从甲骨文、小篆、繁体到简体的完整演变，附中古音反切与音韵地位、上古音构拟、《说文解字》释义和同声符字族 - [更多介绍](https://github.com/Ivan666jjj/yigezi)
+* :white_check_mark: [一个字的一生](https://ivan666jjj.github.io/yigezi/)：汉字字形演变查询工具，输入任意字即可看它从甲骨文、小篆、繁体到简体的完整演变，收录 10249 个小篆字形与 1425 个甲骨文，附中古反切、上古音构拟与《说文》释义，免费无需注册 - [更多介绍](https://github.com/Ivan666jjj/yigezi)
 
 #### lzeee - [Github](https://github.com/lzeee)
 * :white_check_mark: [孙哥在线](https://sunge.online)：非官方孙宇晨资料整理站，按时间线回看重要经历与公开事件，收录《财富自由革命之路》146 期音频及逐段文字稿，以及《这世界既残酷也温柔》在线阅读；免费、无需注册，内容将持续整理更新
