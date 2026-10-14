@@ -26,6 +26,13 @@
 
 ### 2026 年 10 月 14 号添加
 
+#### lenoooin - [Github](https://github.com/lenoooin)
+* :white_check_mark: [Vidlark](https://vidlark.ai/)：输入一句话或上传一张照片就能生成视频和图片，Seedance、Kling、Veo、Nano Banana 等 40 多个模型共用一个积分余额，生成前显示价格，失败自动退积分；注册送 100 积分，无需绑卡
+* :white_check_mark: [AI Humanizer](https://ai-humanizer.dev/)：把 ChatGPT、Gemini 写的稿子改成读起来自然的文字，保留原有观点和段落；可选学术、口语、正式等语气和阅读难度，支持英语、西班牙语、葡萄牙语；免注册每天免费 2000 词
+* :white_check_mark: [PumpkinStencil](https://pumpkinstencil.org/)：150 款原创可打印南瓜雕刻模板，从儿童简笔脸到三色阴影；还能把宠物或家人的照片转成可雕刻的模板，按小、中、大南瓜尺寸导出 PDF，经典模式免费
+* :white_check_mark: [Raindance AI Video](https://raindanceaivideo.com/)：上传一张照片做单人、两张做双人，选 Raindance Original、Pier at Sunset 等模板或自己描述场景，几分钟生成可直接发 TikTok 的潮流短视频；按条付费 $9.90 起，无订阅，失败自动退款
+* :white_check_mark: [RapVideoGenerator](https://rapvideogenerator.com/)：输入一个主题或自己的歌词，生成两版原创说唱，可选 trap、boom bap、drill、lo-fi 等风格；再加一张正脸自拍，生成对口型的 9:16 说唱视频；第一首 30 秒免费，无需绑卡
+
 #### sunflower225 - [Github](https://github.com/sunflower225)
 * :white_check_mark: [声笺](https://whisperweb.site/zh/)：浏览器本地语音转文字工具，用 Whisper 模型在本机转写音频和视频，文件不上传服务器；可校对文字和时间轴，导出 TXT/SRT/VTT 字幕，单个文件最长 20 分钟，免费无需注册
 * :white_check_mark: [Sesshu](https://sesshu.app/)：面向日本用户的 AI 视频生成网站（日语/英语界面），输入文字或上传图片，即可用 Seedance、Kling、Veo 等模型生成短视频，支持 16:9、9:16、1:1 画幅；需用 Google 账号登录，新用户赠送 48 积分（无需绑卡），之后可月付订阅或购买积分包
