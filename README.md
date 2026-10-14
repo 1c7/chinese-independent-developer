@@ -24,10 +24,24 @@
 
 ## 3. 项目列表
 
-### 2026 年 10 月 13 号添加
+### 2026 年 10 月 14 号添加
+
+#### fayecat - [GitHub](https://github.com/fayecat)
+* :white_check_mark: [Rulr](https://www.rulr.app/)：Mac 可视化自动化工具，无需编程，通过快捷键、定时或应用事件等触发条件，自动执行各种操作和工作流，支持 AI 创建自动化规则
 
 #### Ken - [Github](https://github.com/kccarlos)
 * :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
+
+#### Hayden - [Github](https://github.com/hayden-xiong)
+* :white_check_mark: [像话](https://mirrorsay.com)：无需注册，说一句英语就告诉你母语者会怎么说，再带你跟读、逐词对比；英文卡住时说中文也行（iOS / Android，免费）
+
+#### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
+* :white_check_mark: [Bulin 47 AI](https://getbulin47ai.com)：AI freestyle 视频生成器，上传一张正面人物照片，生成红灯餐厅场景下的 15 秒 9:16 竖屏表演视频；内置参考动作，无需编写提示词，可选 Seedance 2.0 / 2.5 与 480p / 720p，下载带原参考音频或无声版 MP4；生成需登录并购买积分，$9.90 起一次性付费，无订阅，失败退回扣除的积分；独立粉丝工具，与 Bulin 47、Kevin Wai 无隶属或背书关系
+
+#### fpy5627(成都) - [Github](https://github.com/fpy5627)
+* :white_check_mark: [Vedic Astrology Chart](https://vedicastrologychart.net/)：吠陀占星排盘工具，输入出生日期、时间和地点，通过 Swiss Ephemeris 计算星盘，提供行星、宫位、Nakshatra、Dasha 与 D9/Navamsa 信息及中英文 AI 解读；基础排盘和简短 AI 摘要免费，详细报告与 PDF 可选付费
+
+### 2026 年 10 月 13 号添加
 
 #### 严毓焕 - [Github](https://github.com/Ivan666jjj)
 * :white_check_mark: [一个字的一生](https://ivan666jjj.github.io/yigezi/)：汉字字形演变查询工具，输入任意字即可看它从甲骨文、小篆、繁体到简体的完整演变，收录 10249 个小篆字形与 1425 个甲骨文，附中古反切、上古音构拟与《说文》释义，免费无需注册 - [更多介绍](https://github.com/Ivan666jjj/yigezi)
