@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 15 号添加
+
+#### AmintaCCCP - [Github](https://github.com/AmintaCCCP)
+* :white_check_mark: [GithubStarsManager](https://gsm.aminta.top)：GitHub 星标管理桌面应用，AI 自动生成摘要与标签，支持语义搜索和版本更新追踪，数据本地保存、打开即用，支持 Windows / macOS / Linux - [源码](https://github.com/AmintaCCCP/GithubStarsManager)
+
 ### 2026 年 10 月 14 号添加
 
 #### 石头(杭州) - [Github](https://github.com/rockythink), [博客](https://elazer.wang)
