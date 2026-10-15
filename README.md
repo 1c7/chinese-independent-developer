@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 15 号添加
 
+#### HeZhenghui(深圳) - [Github](https://github.com/hezhenghui7338)
+* :white_check_mark: [Lumina](https://github.com/hezhenghui7338/Lumina)：本地优先的 AI 伴读器，把长文本按语义切成段落并逐段生成结构化摘要（段标题、要点、待解问题），摘要可溯源回原文，支持 PDF / EPUB / MOBI / AZW3 / DOCX / Markdown 等格式与扫描件本机 OCR，默认走本机 Ollama、也可接云端 API，另带跨书笔记与全局搜索、听文本、古文外语翻译和可选联网问答 — macOS 14+
+
 #### 桜落 - [Github](https://github.com/Kaixxrua)
 * :white_check_mark: [AIGCNEWS](https://aigcnews.cn/)：AI 项目与资讯检索站，用自然语言找开源项目、比较 Star 增长，集中浏览论文和 X 中文动态，也能通过 MCP 让 Agent 检索；免费使用，部分功能需登录，MCP 有调用额度 - [源码与使用说明](https://github.com/Kaixxrua/AIGCNEWS)
 

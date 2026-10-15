@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 15 号添加
 
+#### coffeecoproject - [Github](https://github.com/coffeecoproject)
+* :white_check_mark: [SmartCompact](https://github.com/coffeecoproject/SmartCompact)：让 Claude Code、Codex、pi 的长会话在做完一件事之后提前压缩上下文，60 个任务实测花费降 44%、代码验收不受影响，本地运行，MIT 开源
+
 #### time410 - [Github](https://github.com/lintt76)
 * :white_check_mark: [Tikway](https://tikway.ai/)：面向开发者的多模型 AI API 接入服务，用统一 API Key 按 OpenAI、Anthropic、Gemini 协议配置请求地址，提供模型价格目录、中英文接入与排错教程和 Token 费用计算器，按使用量计费；第三方接入服务，非模型厂商官方 - [接入教程](https://tikway.ai/guides)
 * :white_check_mark: [Tikway API Examples](https://github.com/lintt76/tikway-examples)：Python 标准库调用与 Node.js SSE 流式示例，处理中文跨分块、CRLF、多行 data、流内错误和提前断流，附离线 Token 费用估算工具，无第三方依赖，MIT 开源；真实模型调用按服务价格计费
