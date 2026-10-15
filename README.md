@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 15 号添加
 
+#### Huang Zhiwen - [Github](https://github.com/wdhzw)
+* :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
+
 #### HeZhenghui(深圳) - [Github](https://github.com/hezhenghui7338)
 * :white_check_mark: [Lumina](https://github.com/hezhenghui7338/Lumina)：本地优先的 AI 伴读器，把长文本按语义切成段落并逐段生成结构化摘要（段标题、要点、待解问题），摘要可溯源回原文，支持 PDF / EPUB / MOBI / AZW3 / DOCX / Markdown 等格式与扫描件本机 OCR，默认走本机 Ollama、也可接云端 API，另带跨书笔记与全局搜索、听文本、古文外语翻译和可选联网问答 — macOS 14+
 
