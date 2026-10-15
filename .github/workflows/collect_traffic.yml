@@ -1,0 +1,62 @@
+name: 保存仓库访问统计
+
+on:
+  schedule:
+    # Monday 01:23 UTC = Monday 09:23 Asia/Shanghai.
+    - cron: '23 1 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - '.github/scripts/collect_traffic.py'
+      - '.github/workflows/collect_traffic.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repository-traffic-archive
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          path: code
+      - name: Prepare data branch
+        working-directory: code
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads origin traffic-data > /dev/null; then
+            git fetch origin refs/heads/traffic-data:refs/remotes/origin/traffic-data
+            git worktree add --detach ../data refs/remotes/origin/traffic-data
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then exit "$status"; fi
+            git worktree add --detach ../data HEAD
+            git -C ../data checkout --orphan traffic-data
+            git -C ../data rm -rf --quiet .
+          fi
+      - name: Collect traffic
+        env:
+          # Existing repository secret, also used by process_list.yml.
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: python3 code/.github/scripts/collect_traffic.py --output data
+      - name: Commit data
+        working-directory: data
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add traffic.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Archive repository traffic ($(date -u +%F))"
+          git push origin HEAD:refs/heads/traffic-data
+      - name: Show latest statistics
+        run: |
+          echo "流量已保存到 [traffic.json](https://github.com/${{ github.repository }}/blob/traffic-data/traffic.json)。" >> "$GITHUB_STEP_SUMMARY"
