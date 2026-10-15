@@ -1,0 +1,376 @@
+{
+  "repository": "1c7/chinese-independent-developer",
+  "timezone": "UTC",
+  "updated_at": "2026-10-15T04:46:35.806934+00:00",
+  "daily": [
+    {
+      "date": "2026-09-30",
+      "views": 850,
+      "views_uniques": 440,
+      "clones": 118,
+      "clones_uniques": 66
+    },
+    {
+      "date": "2026-10-01",
+      "views": 385,
+      "views_uniques": 217,
+      "clones": 121,
+      "clones_uniques": 76
+    },
+    {
+      "date": "2026-10-02",
+      "views": 489,
+      "views_uniques": 233,
+      "clones": 86,
+      "clones_uniques": 50
+    },
+    {
+      "date": "2026-10-03",
+      "views": 350,
+      "views_uniques": 218,
+      "clones": 137,
+      "clones_uniques": 75
+    },
+    {
+      "date": "2026-10-04",
+      "views": 381,
+      "views_uniques": 195,
+      "clones": 145,
+      "clones_uniques": 75
+    },
+    {
+      "date": "2026-10-05",
+      "views": 458,
+      "views_uniques": 227,
+      "clones": 222,
+      "clones_uniques": 119
+    },
+    {
+      "date": "2026-10-06",
+      "views": 369,
+      "views_uniques": 214,
+      "clones": 143,
+      "clones_uniques": 72
+    },
+    {
+      "date": "2026-10-07",
+      "views": 437,
+      "views_uniques": 246,
+      "clones": 130,
+      "clones_uniques": 78
+    },
+    {
+      "date": "2026-10-08",
+      "views": 680,
+      "views_uniques": 395,
+      "clones": 138,
+      "clones_uniques": 75
+    },
+    {
+      "date": "2026-10-09",
+      "views": 654,
+      "views_uniques": 389,
+      "clones": 172,
+      "clones_uniques": 115
+    },
+    {
+      "date": "2026-10-10",
+      "views": 830,
+      "views_uniques": 451,
+      "clones": 183,
+      "clones_uniques": 95
+    },
+    {
+      "date": "2026-10-11",
+      "views": 357,
+      "views_uniques": 225,
+      "clones": 106,
+      "clones_uniques": 67
+    },
+    {
+      "date": "2026-10-12",
+      "views": 763,
+      "views_uniques": 353,
+      "clones": 269,
+      "clones_uniques": 146
+    },
+    {
+      "date": "2026-10-13",
+      "views": 658,
+      "views_uniques": 309,
+      "clones": 148,
+      "clones_uniques": 94
+    }
+  ],
+  "snapshots": {
+    "2026-10-15": {
+      "collected_at": "2026-10-15T04:46:35.806934+00:00",
+      "views": {
+        "count": 7661,
+        "uniques": 2841,
+        "views": [
+          {
+            "timestamp": "2026-09-30T00:00:00Z",
+            "count": 850,
+            "uniques": 440
+          },
+          {
+            "timestamp": "2026-10-01T00:00:00Z",
+            "count": 385,
+            "uniques": 217
+          },
+          {
+            "timestamp": "2026-10-02T00:00:00Z",
+            "count": 489,
+            "uniques": 233
+          },
+          {
+            "timestamp": "2026-10-03T00:00:00Z",
+            "count": 350,
+            "uniques": 218
+          },
+          {
+            "timestamp": "2026-10-04T00:00:00Z",
+            "count": 381,
+            "uniques": 195
+          },
+          {
+            "timestamp": "2026-10-05T00:00:00Z",
+            "count": 458,
+            "uniques": 227
+          },
+          {
+            "timestamp": "2026-10-06T00:00:00Z",
+            "count": 369,
+            "uniques": 214
+          },
+          {
+            "timestamp": "2026-10-07T00:00:00Z",
+            "count": 437,
+            "uniques": 246
+          },
+          {
+            "timestamp": "2026-10-08T00:00:00Z",
+            "count": 680,
+            "uniques": 395
+          },
+          {
+            "timestamp": "2026-10-09T00:00:00Z",
+            "count": 654,
+            "uniques": 389
+          },
+          {
+            "timestamp": "2026-10-10T00:00:00Z",
+            "count": 830,
+            "uniques": 451
+          },
+          {
+            "timestamp": "2026-10-11T00:00:00Z",
+            "count": 357,
+            "uniques": 225
+          },
+          {
+            "timestamp": "2026-10-12T00:00:00Z",
+            "count": 763,
+            "uniques": 353
+          },
+          {
+            "timestamp": "2026-10-13T00:00:00Z",
+            "count": 658,
+            "uniques": 309
+          }
+        ]
+      },
+      "clones": {
+        "count": 2118,
+        "uniques": 850,
+        "clones": [
+          {
+            "timestamp": "2026-09-30T00:00:00Z",
+            "count": 118,
+            "uniques": 66
+          },
+          {
+            "timestamp": "2026-10-01T00:00:00Z",
+            "count": 121,
+            "uniques": 76
+          },
+          {
+            "timestamp": "2026-10-02T00:00:00Z",
+            "count": 86,
+            "uniques": 50
+          },
+          {
+            "timestamp": "2026-10-03T00:00:00Z",
+            "count": 137,
+            "uniques": 75
+          },
+          {
+            "timestamp": "2026-10-04T00:00:00Z",
+            "count": 145,
+            "uniques": 75
+          },
+          {
+            "timestamp": "2026-10-05T00:00:00Z",
+            "count": 222,
+            "uniques": 119
+          },
+          {
+            "timestamp": "2026-10-06T00:00:00Z",
+            "count": 143,
+            "uniques": 72
+          },
+          {
+            "timestamp": "2026-10-07T00:00:00Z",
+            "count": 130,
+            "uniques": 78
+          },
+          {
+            "timestamp": "2026-10-08T00:00:00Z",
+            "count": 138,
+            "uniques": 75
+          },
+          {
+            "timestamp": "2026-10-09T00:00:00Z",
+            "count": 172,
+            "uniques": 115
+          },
+          {
+            "timestamp": "2026-10-10T00:00:00Z",
+            "count": 183,
+            "uniques": 95
+          },
+          {
+            "timestamp": "2026-10-11T00:00:00Z",
+            "count": 106,
+            "uniques": 67
+          },
+          {
+            "timestamp": "2026-10-12T00:00:00Z",
+            "count": 269,
+            "uniques": 146
+          },
+          {
+            "timestamp": "2026-10-13T00:00:00Z",
+            "count": 148,
+            "uniques": 94
+          }
+        ]
+      },
+      "referrers": [
+        {
+          "referrer": "github.com",
+          "count": 1522,
+          "uniques": 840
+        },
+        {
+          "referrer": "Google",
+          "count": 216,
+          "uniques": 113
+        },
+        {
+          "referrer": "link.zhihu.com",
+          "count": 184,
+          "uniques": 124
+        },
+        {
+          "referrer": "t.co",
+          "count": 127,
+          "uniques": 80
+        },
+        {
+          "referrer": "Bing",
+          "count": 49,
+          "uniques": 37
+        },
+        {
+          "referrer": "trendshift.io",
+          "count": 42,
+          "uniques": 11
+        },
+        {
+          "referrer": "Baidu",
+          "count": 21,
+          "uniques": 19
+        },
+        {
+          "referrer": "my.feishu.cn",
+          "count": 16,
+          "uniques": 10
+        },
+        {
+          "referrer": "gitcn.org",
+          "count": 7,
+          "uniques": 7
+        },
+        {
+          "referrer": "ahrefs.com",
+          "count": 7,
+          "uniques": 5
+        }
+      ],
+      "paths": [
+        {
+          "path": "/1c7/chinese-independent-developer",
+          "title": "Overview",
+          "count": 5321,
+          "uniques": 2450
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/blob/master/.github/pages/README-Programmer-Edition.md",
+          "title": "/blob/master/.github/pages/README-Programmer-Edition.md",
+          "count": 260,
+          "uniques": 178
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/issues/160",
+          "title": "/issues/160",
+          "count": 260,
+          "uniques": 128
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/blob/master/.github/pages/README-Game.md",
+          "title": "/blob/master/.github/pages/README-Game.md",
+          "count": 213,
+          "uniques": 159
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/issues",
+          "title": "/issues",
+          "count": 175,
+          "uniques": 79
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/blob/master/README.md",
+          "title": "/blob/master/README.md",
+          "count": 115,
+          "uniques": 68
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/pulls",
+          "title": "/pulls",
+          "count": 85,
+          "uniques": 34
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/blob/master/.github/pages/README-Archive.md",
+          "title": "/blob/master/.github/pages/README-Archive.md",
+          "count": 77,
+          "uniques": 62
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/pull/1184",
+          "title": "/pull/1184",
+          "count": 45,
+          "uniques": 1
+        },
+        {
+          "path": "/1c7/chinese-independent-developer/tree/master/.agents/skills",
+          "title": "/tree/master/.agents/skills",
+          "count": 43,
+          "uniques": 38
+        }
+      ]
+    }
+  }
+}
