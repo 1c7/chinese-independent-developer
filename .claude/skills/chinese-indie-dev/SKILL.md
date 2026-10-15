@@ -362,6 +362,14 @@ curl 与 WebFetch 都拿到 `403 Attention Required! | Cloudflare`「Sorry, you 
 不是站点报错。此时按「能收就收」+ 提交内容本身（详细中文正文、URL 干净无追踪参数）正常收录，不要以"无法核实"拒绝。
 实测：tanzhang-market-kit.hypebeast2k17.chatgpt.site 双通道 403 → 收录主版面。
 
+⚠️ **curl 与 WebFetch 双通道都拿不到时，还可以查同一作者的父级/根域页面来核实产品真实性。**（2026-10-15 补）
+双通道全失败（curl 报 `SSL_ERROR_SYSCALL`、WebFetch 报 fetch failed）只说明这一个主机名从我们这边的网络到不了，不等于产品不存在。
+如果产品挂在某个根域下的子域（`games.example.xyz`、`tool.example.xyz` 这种），去访问根域本人站点常能补上证据链。
+实测：games.qizhen.xyz（阮奇桢的「怀旧游戏合集」）双通道全失败，但同域根站 qizhen.xyz 返回 200（个人主页「阮奇桢 | 个人主页」），
+其 `/games.html` 明确写着「怀旧风格游戏作品集，包含小蜜蜂、坦克大战、弹力砖块、雷电、大鱼吃小鱼、图形编程玩具、海岸游乐园」，
+并逐条链接回 `games.qizhen.xyz` 与对应 GitHub 仓库 → 判为真实存在，按提交内容正常收录。
+判据：**根域可达 + 根域页面明确指向该子域产品、且与提交描述一致**。三样都拿不到才算「无法核实」。
+
 ⚠️ **托管面域名 ≠ 大厂产品，不要因为域名带大厂字样就判"非独立开发者"。**（2026-10-05 补）
 常见托管面：`*.pages.dev`（Cloudflare）、`*.github.io`、`*.vercel.app`、`*.netlify.app`、`*.chatgpt.site`（OpenAI，
 根域 `chatgpt.site` 301 跳到 `chatgpt.com/features/sites/`）。提交者只是把自建页面挂在上面，性质和 GitHub Pages 一样，
