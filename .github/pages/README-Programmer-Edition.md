@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 15 号添加
 
+#### ls-open - [Github](https://github.com/ls-open)
+* :white_check_mark: [claude-tuner](https://github.com/ls-open/claude-tuner)：专为 Claude Code 与 Claude Desktop (macOS) 打造的本地前缀缓存优化与工具精简网关，解决多轮对话缓存击穿（实测 DeepSeek 自动缓存命中率达 95%+）、并发工具顺序错位与 thinking 思考链丢失导致的 400 报错，附原生实时 WebUI 监控看板，零外部依赖，Apache-2.0 开源
+
 #### coffeecoproject - [Github](https://github.com/coffeecoproject)
 * :white_check_mark: [SmartCompact](https://github.com/coffeecoproject/SmartCompact)：让 Claude Code、Codex、pi 的长会话在做完一件事之后提前压缩上下文，60 个任务实测花费降 44%、代码验收不受影响，本地运行，MIT 开源
 
