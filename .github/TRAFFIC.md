@@ -11,12 +11,11 @@ Python 标准库脚本，无第三方 Python 依赖或统计服务。
 
 同一仓库的独立分支 [traffic-data](https://github.com/1c7/chinese-independent-developer/tree/traffic-data)。
 
-| 文件 | 内容 |
-|---|---|
-| `daily.json` | 按 UTC 日期合并的历史浏览、独立访客、克隆和独立克隆者 |
-| `latest.json` | 最近一次 API 原始数据及采集时间 |
-| `snapshots/YYYY-MM-DD.json` | 当天原始快照，同一天重跑会更新 |
-| `README.md` | 最近 30 个有记录日期的表格 |
+分支里只有一个 `traffic.json`：
+
+- `daily`：按 UTC 日期合并的历史浏览、独立访客、克隆和独立克隆者。
+- `snapshots`：每个采集日期的原始窗口（包括来源和热门页面），同一天重跑会更新。
+- `updated_at`：最近采集时间。
 
 来源和热门页面是滚动 14 天的前十名，保存快照，不能跨快照累加。每日数据重叠时覆盖更新，不重复累计；缺失日期不填零。每日 UV 不能相加当作跨日去重人数。日期按 API 返回的 UTC 日期。初次运行只能获取最近 14 天，无法恢复更早数据。
 

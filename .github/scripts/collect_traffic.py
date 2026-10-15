@@ -66,32 +66,19 @@ def collect(repository, output, token):
     for name in ('referrers', 'paths'):
         if not isinstance(payloads[name], list):
             raise RuntimeError(f'Unexpected {name} response')
-    history_path = output / 'daily.json'
-    previous = json.loads(history_path.read_text(encoding='utf-8')) if history_path.exists() else []
-    history = merge_daily(previous, payloads['views'], payloads['clones'])
+    archive_path = output / 'traffic.json'
+    archive = json.loads(archive_path.read_text(encoding='utf-8')) if archive_path.exists() else {}
+    if archive and archive['repository'] != repository:
+        raise RuntimeError('Archive belongs to another repository')
+    history = merge_daily(archive.get('daily', []), payloads['views'], payloads['clones'])
     now = datetime.now(timezone.utc)
-    snapshot = {'repository': repository, 'collected_at': now.isoformat(),
-                'timezone': 'UTC', **payloads}
-    # One snapshot per UTC date; manual reruns refresh that day's snapshot.
-    save_json(output / 'snapshots' / f'{now:%Y-%m-%d}.json', snapshot)
-    save_json(history_path, history)
-    save_json(output / 'latest.json', snapshot)
-    text = [f'# {repository} 流量存档', '', f'最后采集：{now:%Y-%m-%d %H:%M UTC}', '',
-            '每周自动采集，也可随时在 Actions 手动运行。全部日期按 UTC。', '',
-            '- `daily.json`：按日期合并的浏览/克隆历史，重叠日期更新而非相加。',
-            '- `latest.json`：最新原始数据，保留 GitHub 的窗口去重统计。',
-            '- `snapshots/`：每次采集的原始窗口，同一天重跑会更新当天快照。', '',
-            '来源和热门页面是最近 14 天的前十名快照，不能跨快照相加。',
-            '每日独立人数不能相加当成跨日去重人数；缺失日期不填零。', '',
-            '| 日期 UTC | 浏览次数 | 独立访客 | 克隆次数 | 独立克隆者 |',
-            '|---|---:|---:|---:|---:|']
-    for row in history[-30:]:
-        cells = [row['date']] + [str(row.get(k, '—')) for k in
-                                ('views', 'views_uniques', 'clones', 'clones_uniques')]
-        text.append('| ' + ' | '.join(cells) + ' |')
-    (output / 'README.md').write_text('\n'.join(text) + '\n', encoding='utf-8')
-    print(f'Saved {len(history)} dates to {output}; latest view date: ' +
-          max((x['timestamp'][:10] for x in payloads['views']['views']), default='none'))
+    snapshots = archive.get('snapshots', {})
+    # Keep rolling-window totals/sources as snapshots; never sum them across runs.
+    snapshots[f'{now:%Y-%m-%d}'] = {'collected_at': now.isoformat(), **payloads}
+    save_json(archive_path, {'repository': repository, 'timezone': 'UTC',
+                            'updated_at': now.isoformat(), 'daily': history,
+                            'snapshots': snapshots})
+    print(f'Saved {len(history)} dates in traffic.json')
 
 
 if __name__ == '__main__':

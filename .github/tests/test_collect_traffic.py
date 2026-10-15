@@ -31,20 +31,20 @@ class TrafficTests(unittest.TestCase):
             for _ in range(2):
                 with patch.object(collector, 'fetch', side_effect=[payload('views'), payload('clones'), [], []]):
                     collector.collect('owner/repo', output, 'test-token')
-            self.assertEqual(len(json.loads((output / 'daily.json').read_text())), 1)
-            self.assertEqual(len(list((output / 'snapshots').glob('*.json'))), 1)
-            self.assertNotIn('test-token', (output / 'latest.json').read_text())
+            self.assertEqual(len(json.loads((output / 'traffic.json').read_text())['daily']), 1)
+            self.assertEqual(len(json.loads((output / 'traffic.json').read_text())['snapshots']), 1)
+            self.assertNotIn('test-token', (output / 'traffic.json').read_text())
 
     def test_endpoint_failure_does_not_overwrite_archive(self):
         with tempfile.TemporaryDirectory() as folder:
             output = Path(folder)
-            original = '[{"date": "2026-08-01", "views": 42}]'
-            (output / 'daily.json').write_text(original)
+            original = '{"repository": "owner/repo", "daily": [{"date": "2026-08-01", "views": 42}]}'
+            (output / 'traffic.json').write_text(original)
             with patch.object(collector, 'fetch', side_effect=[payload('views'), RuntimeError('HTTP 403')]):
                 with self.assertRaises(RuntimeError):
                     collector.collect('owner/repo', output, 'test-token')
-            self.assertEqual((output / 'daily.json').read_text(), original)
-            self.assertFalse((output / 'latest.json').exists())
+            self.assertEqual((output / 'traffic.json').read_text(), original)
+            self.assertEqual(len(list(output.iterdir())), 1)
 
 
 if __name__ == '__main__':
