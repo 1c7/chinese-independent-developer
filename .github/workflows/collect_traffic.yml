@@ -6,7 +6,7 @@ on:
     - cron: '23 1 * * 1'
   workflow_dispatch:
   push:
-    branches: [master, codex/weekly-traffic]
+    branches: [master]
     paths:
       - '.github/scripts/collect_traffic.py'
       - '.github/workflows/collect_traffic.yml'
