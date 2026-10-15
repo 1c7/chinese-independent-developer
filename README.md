@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 15 号添加
 
+#### Qiwei - [Github](https://github.com/qiweiii)
+* :white_check_mark: [TovoType](https://type.tovo.dev)：Mac 语音输入 App，转录和润色全部在本机完成、断网也能用，说完自动整理成文，支持自定义词典、口语转列表/文件路径，还能说关键词展开成预存的整段文字
+* :white_check_mark: [MacGrid](https://trymacgrid.com)：Mac 多桌面（Spaces）管理 App，把桌面和全屏应用从一条横排排成二维网格，触控板上下左右四向滑动即可跳转，支持拖拽自定义布局，无需关闭 SIP
+* :white_check_mark: [Xext](https://chromewebstore.google.com/detail/cgnmmlaajjmbbaeihnlicgpahgjmclhc)：X 网页增强插件，全程本地运行、无需登录 X 或授权，可隐藏侧边栏和推广内容、调整信息流密度与主题，支持收藏帖子和保存搜索，还能用浏览器内置 AI 直接写推文
+* :white_check_mark: [Aggressive Memory Saver](https://chromewebstore.google.com/detail/aggressive-memory-saver/domkkegggmkeojhljedmhidkhjfcagab)：Chrome 内存优化插件，自动卸载不活跃标签页来释放内存，比 Chrome 自带的内存节省模式更激进、更可控，支持自定义超时和按域名设置规则，并保护固定标签和播放中的标签页
+
 #### AmintaCCCP - [Github](https://github.com/AmintaCCCP)
 * :white_check_mark: [GithubStarsManager](https://gsm.aminta.top)：GitHub 星标管理桌面应用，AI 自动生成摘要与标签，支持语义搜索和版本更新追踪，数据本地保存、打开即用，支持 Windows / macOS / Linux - [源码](https://github.com/AmintaCCCP/GithubStarsManager)
 
