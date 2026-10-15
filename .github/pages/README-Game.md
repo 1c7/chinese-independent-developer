@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 15 号添加
+
+#### Qizhen Ruan - [Github](https://github.com/ruanqizhen)
+* :white_check_mark: [怀旧游戏合集](https://games.qizhen.xyz)：7 款网页小游戏合集，含 Galaga 风格太空射击，浏览器即开即玩
+
 ### 2026 年 10 月 14 号添加
 
 #### kuxiaowo - [Github](https://github.com/kuxiaowo)
