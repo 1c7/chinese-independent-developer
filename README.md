@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 15 号添加
 
+#### 桜落 - [Github](https://github.com/Kaixxrua)
+* :white_check_mark: [AIGCNEWS](https://aigcnews.cn/)：AI 项目与资讯检索站，用自然语言找开源项目、比较 Star 增长，集中浏览论文和 X 中文动态，也能通过 MCP 让 Agent 检索；免费使用，部分功能需登录，MCP 有调用额度 - [源码与使用说明](https://github.com/Kaixxrua/AIGCNEWS)
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [书径 EbookNest](https://ebooknest.store/)：用中文介绍外文非虚构书，结合原书页面预览和专题导读，按兴趣比较书籍、选择阅读方向 - [更多介绍](https://ebooknest.store/about)
+
 #### Qiwei - [Github](https://github.com/qiweiii)
 * :white_check_mark: [TovoType](https://type.tovo.dev)：Mac 语音输入 App，转录和润色全部在本机完成、断网也能用，说完自动整理成文，支持自定义词典、口语转列表/文件路径，还能说关键词展开成预存的整段文字
 * :white_check_mark: [MacGrid](https://trymacgrid.com)：Mac 多桌面（Spaces）管理 App，把桌面和全屏应用从一条横排排成二维网格，触控板上下左右四向滑动即可跳转，支持拖拽自定义布局，无需关闭 SIP
@@ -5565,50 +5571,6 @@
 ### 2024 年 9 月 30 号添加
 #### Frey(深圳) -  [博客](https://5ea.org)
 * :white_check_mark: [IP.IM](https://ip.im)：简洁准确的 IP 信息查询网站，高精度的 IP 查询，支持 curl
-
-### 2024 年 9 月 28 号添加
-#### xurenda(北京) - [Github](https://github.com/xurenda)
-* :white_check_mark: [enjoy-player](https://github.com/xurenda/enjoy-player)：视频播放器，支持 Web 网页和 Windows、Mac、Linux 桌面应用。主要用于 CMS 视频采集站资源的在线浏览，实现了 HLS 视频流（m3u8）的在线播放
-
-### 2024 年 9 月 27 号添加
-#### 风巢森淼(北京) - [Github](https://github.com/wincatcher), [博客](https://okjk.co/q4mQVu)
-* :white_check_mark: [主打“高颜值”、“说人话”的开源许可证选择器](https://open-source-license-chooser.toolsnav.top)：通过一系列 通俗易懂 问题帮助用户选择适合自己的开源许可证。网站另外包含 许可证比较器 和 许可证使用情况图表，为用户提供直观且立体的开源许可证信息 - [更多介绍]( https://juejin.cn/post/7418548134593527817)
-
-#### yuesheng zheng(深圳)
-* :white_check_mark: [SoColoring](https://www.socoloring.com)：AI 驱动的可打印填色稿生成平台，支持文本生成填色稿、AI一键上色等功能，同时还有丰富的免费填色稿图库供用户自由下载，欢迎来这里寻找填色的乐趣
-
-### 2024 年 9 月 26 号添加
-#### xiaocui723 (佛山)
-* :white_check_mark: [OkeiAI](https://okeiai.com)：AI 导航站，内容有 AI 生成。目前免费收录，只需添加我们的 dofollow 反链即可。收录产品不限于 AI 产品
-
-#### benjamin（北京）- [Github](https://github.com/settings/profile)
-* :white_check_mark: [TikTok Voice Generator](https://tiktokvoice.net)：生成 TikTok 热门配音音效的文本转语音工具
-
-### 2024 年 9 月 25 号添加
-#### Sawana Huang
-* :white_check_mark: [SeeWhatNewAI](https://www.seewhatnewai.com): AI 产品目录、AI 导航站。搜集热门和用户提交的 AI 相关网站产品。从期望用户、发现的问题和解决方案等方面简单分析这些产品，发现合适的 AI 工具
-
-### 2024 年 9 月 24 号添加
-#### Ethan Sunray
-* :white_check_mark: [Random Pokemon Generator](https://randompokemongenerator.me)：宝可梦图片生成器，支持从 1400+ 宝可梦角色中随机生成，可自由修改类型、区域和生成数量等。输入你想象中的宝可梦，一键生成，支持 2D 和 3D 风格。
-
-#### Nebula
-* :white_check_mark: [Tabbiy](https://tyruslockwood.github.io)：管理浏览器标签的扩展程序，集成自动分组功能，可根据使用习惯定制分组规则。集成快捷键切换最近使用的标签功能，以及个性化设置。让您在工作和生活中告别标签杂乱，提高效率且改善浏览体验。
-
-### 2024 年 9 月 23 号添加
-#### loggerhead - [Github](https://github.com/loggerhead)
-* :white_check_mark: [JSON For You](https://json4u.cn)：JSON 在线可视化与处理工具。不仅支持常规的 JSON 处理，包括格式化/美化、最小化、校验、比较。还支持用图或表可视化浏览 JSON 数据，支持语义化/结构化比较两个 JSON 数据的差异，支持文本比较非 JSON 文本，支持将 JSON 与 CSV 互转，并且支持在线使用 jq。
-
-### 2024 年 9 月 22 号添加
-#### Ethan Sunray（纽约）
-* :white_check_mark: [Compress JPG](https://compressjpg.io)：免费图片压缩工具，支持压缩 JPG、JPEG、PNG、WebP、GIF、AVIF、JXL 和 QOI 格式的图片，无需注册或登录。压缩过程在浏览器端完成，最多可同时处理多达 1000 个图片文件。文件永远不会离开您的设备，确保完全的隐私。可将压缩结果下载为 ZIP 压缩包。
-
-### 2024 年 9 月 21 号添加
-#### ConstantLove - [Github](https://github.com/ConstantLove)
-* :white_check_mark: [SenGen - AI句子生成器](https://aisengen.com)：根据您的输入主题生成句子。无论您是作家、学生，还是单纯喜欢玩转语言的人，我们的工具都能提供快速高效的写作增强方式。
-
-#### Amyang(美国) - [Github](https://github.com/AmyangXYZ), [博客](https://amyang.dev)
-* :white_check_mark: [MiKaPo](https://mikapo.amyang.dev)：AI 在线动捕控制 MMD 纸片人模型 - [更多介绍](https://github.com/AmyangXYZ/MiKaPo)
 
 ### 2024 年 9 月 20 号添加
 #### Q-Sansan
