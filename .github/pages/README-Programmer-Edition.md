@@ -21,6 +21,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 #### didi_dev - [Github](https://github.com/wd9337812)
 * :white_check_mark: [BBAuto](https://bbauto.top)：面向联盟营销投放者的品牌词投放管理系统，连接品牌词研究、Google Ads 任务创建、访问换参与多联盟归因报表，支持 Agent/MCP 操作；需在自己的 VPS 部署并配置相关账户，按订阅使用，产品闭源。
 
+#### ls-open - [Github](https://github.com/ls-open)
+* :white_check_mark: [claude-tuner](https://github.com/ls-open/claude-tuner)：专为 Claude Code 与 Claude Desktop (macOS) 打造的本地前缀缓存优化与工具精简网关，解决多轮对话缓存击穿（实测 DeepSeek 自动缓存命中率达 95%+）、并发工具顺序错位与 thinking 思考链丢失导致的 400 报错，附原生实时 WebUI 监控看板，零外部依赖，MIT 开源
+
 #### coffeecoproject - [Github](https://github.com/coffeecoproject)
 * :white_check_mark: [SmartCompact](https://github.com/coffeecoproject/SmartCompact)：让 Claude Code、Codex、pi 的长会话在做完一件事之后提前压缩上下文，60 个任务实测花费降 44%、代码验收不受影响，本地运行，MIT 开源
 
