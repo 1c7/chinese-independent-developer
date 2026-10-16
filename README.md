@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [NanoBrowser](https://github.com/zhoujungis/NanoBrowser)：轻量桌面浏览器，复用系统已装的 WebView2 引擎，图形界面与无头两个可执行文件都在 4.5 MB 左右，另附一个可通过 MCP 让 AI 工具驱动的无头自动化浏览器；目前提供 Windows 安装包
+
+#### jyjyxt - [Github](https://github.com/jyjyxt)
+* :white_check_mark: [SkillHey](https://skillhey.com/)：AI Agent 技能市场，按网页与界面、图片、演示文稿、视频、文档等分类浏览，每个技能可先看作品预览与说明再下载安装到已有的 Claude Code、Codex、Cursor 等 Agent，支持中文界面
+
 #### NeoPanic - [Github](https://github.com/NeoPanic)
 * :white_check_mark: [Glim](https://github.com/NeoPanic/Glim)：免费开源的 Mac 多格式文件查看器，在同一工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持 Apple Silicon 与 Intel - [下载试用](https://github.com/NeoPanic/Glim/releases/latest)
 

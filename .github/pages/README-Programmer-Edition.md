@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 16 号添加
 
+#### CaseyCACA - [Github](https://github.com/CaseyCACA)
+* :white_check_mark: [Codex Token Bar](https://github.com/CaseyCACA/codex-token-bar)：macOS 原生 Codex 用量监控工具，在菜单栏查看剩余额度、重置时间、会话 Token、缓存复用与上下文占用，支持跟随 Codex 桌面宠物移动的额度浮标；本地运行，无需额外 API Key，目前需从源码构建
+
 #### Tseka Luk(无锡) - [Github](https://github.com/TsekaLuk)
 * :white_check_mark: [Nebutra Sailor](https://github.com/Nebutra/Nebutra-Sailor)：源码公开的 SaaS 底座，`npx create-sailor@latest my-app` 一条命令生成 Next.js + Hono 网关、Better Auth 登录、Creem 与微信/支付宝收款、生成式 Postgres RLS 多租户的完整项目，空 .env 本地即可跑通，带 AGENTS.md 和 lint 护栏方便 Claude Code / Codex 接手；生成的项目为 MIT，主仓库 FSL-1.1-ALv2（两年后转 Apache-2.0） - [更多介绍](https://nebutra.com/sailor)
 
