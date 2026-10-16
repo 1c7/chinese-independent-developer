@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### yzfly - [Github](https://github.com/yzfly)
+* :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
+
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Ozil Goal AI](https://ozilgoalai.pro)：上传一张授权照片，用 Kling O3 重新生成一段虚构的破门集锦（挑射、突破防守、完成射门），保留你的脸、衣服和鞋，输出 10 秒带观众声的竖屏 MP4，无需提示词或参考视频，$9.99 一条；与厄齐尔、阿森纳及欧冠赛事无关
 * :white_check_mark: [Ghost Filter Prank](https://ghostfilterprank.net)：上传一张自拍生成鬼影从肩后爬出的 10 秒竖屏恐怖视频（带声音），可选「慢慢靠近」或「突然扑脸」两种惊吓，$4.99 一次性付费，无需拍摄或安装
@@ -44,9 +47,6 @@
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
 
 ### 2026 年 10 月 15 号添加
-
-#### yzfly - [Github](https://github.com/yzfly)
-* :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
 
 #### HeZhenghui(深圳) - [Github](https://github.com/hezhenghui7338)
 * :white_check_mark: [Lumina](https://github.com/hezhenghui7338/Lumina)：本地优先的 AI 伴读器，把长文本按语义切成段落并逐段生成结构化摘要（段标题、要点、待解问题），摘要可溯源回原文，支持 PDF / EPUB / MOBI / AZW3 / DOCX / Markdown 等格式与扫描件本机 OCR，默认走本机 Ollama、也可接云端 API，另带跨书笔记与全局搜索、听文本、古文外语翻译和可选联网问答 — macOS 14+
