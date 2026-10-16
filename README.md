@@ -26,6 +26,18 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### zhoujungis - [Github](https://github.com/zhoujungis)
+* :white_check_mark: [NanoBrowser](https://github.com/zhoujungis/NanoBrowser)：轻量桌面浏览器，复用系统已装的 WebView2 引擎，图形界面与无头两个可执行文件都在 4.5 MB 左右，另附一个可通过 MCP 让 AI 工具驱动的无头自动化浏览器；目前提供 Windows 安装包
+
+#### jyjyxt - [Github](https://github.com/jyjyxt)
+* :white_check_mark: [SkillHey](https://skillhey.com/)：AI Agent 技能市场，按网页与界面、图片、演示文稿、视频、文档等分类浏览，每个技能可先看作品预览与说明再下载安装到已有的 Claude Code、Codex、Cursor 等 Agent，支持中文界面
+
+#### huayanming - [Github](https://github.com/huayanming)
+* :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
+
+#### NeoPanic - [Github](https://github.com/NeoPanic)
+* :white_check_mark: [Glim](https://github.com/NeoPanic/Glim)：免费开源的 Mac 多格式文件查看器，在同一工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持 Apple Silicon 与 Intel - [下载试用](https://github.com/NeoPanic/Glim/releases/latest)
+
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Anatomy Skill](https://anatomyskill.org)：输入一段技术概念描述，生成用等距机械动画讲解其原理的 MP4 视频与可交互 HTML 图，无需安装
 * :white_check_mark: [Ozil Goal AI](https://ozilgoalai.pro)：上传一张授权照片，用 Kling O3 重新生成一段虚构的破门集锦（挑射、突破防守、完成射门），保留你的脸、衣服和鞋，输出 10 秒带观众声的竖屏 MP4，无需提示词或参考视频，$9.99 一条；与厄齐尔、阿森纳及欧冠赛事无关
@@ -76,6 +88,7 @@
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
 #### huayanming - [Github](https://github.com/huayanming)
 * :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
+
 
 
 ### 2026 年 10 月 15 号添加
