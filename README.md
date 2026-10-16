@@ -26,19 +26,8 @@
 
 ### 2026 年 10 月 16 号添加
 
-#### my19940202(上海) - [Github](https://github.com/my19940202)
-* :white_check_mark: [知迹](https://zhiji.aizeten.me)：多模型 AI 对话与个人知识图谱，同一段对话可切换模型并延续已有上下文，回答支持多种音色朗读；每次对话后，自动整理摘要、标签与主题关联，方便搜索和查看个人的知识图谱 — Web 应用 - [更多介绍](https://zhiji.aizeten.me/press-kit)
-
-#### louis-cai - [Github](https://github.com/louis-cai), [博客](https://louis-cai.github.io)
-* :white_check_mark: [Indie Radar](https://radar.everythingisok.top/)：出海与独立开发 90% 降噪情报站，盯紧一手海外创客源，本地 pgvector 向量去重 + 5 轴打分，每天精选 2~4 条高价值工具与真实变现案例，全自用无广告；提供 Telegram 点滴广播与 GitHub 每日 Markdown 归档 - [源码与每日归档](https://github.com/louis-cai/daily-indie-radar)
-
-#### 望山(陕西) - [Github](https://github.com/wangshan9870)
-* :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
-
-#### yzfly - [Github](https://github.com/yzfly)
-* :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
-
 #### weidacn - [Github](https://github.com/weidacn)
+* :white_check_mark: [Anatomy Skill](https://anatomyskill.org)：输入一段技术概念描述，生成用等距机械动画讲解其原理的 MP4 视频与可交互 HTML 图，无需安装
 * :white_check_mark: [Ozil Goal AI](https://ozilgoalai.pro)：上传一张授权照片，用 Kling O3 重新生成一段虚构的破门集锦（挑射、突破防守、完成射门），保留你的脸、衣服和鞋，输出 10 秒带观众声的竖屏 MP4，无需提示词或参考视频，$9.99 一条；与厄齐尔、阿森纳及欧冠赛事无关
 * :white_check_mark: [Ghost Filter Prank](https://ghostfilterprank.net)：上传一张自拍生成鬼影从肩后爬出的 10 秒竖屏恐怖视频（带声音），可选「慢慢靠近」或「突然扑脸」两种惊吓，$4.99 一次性付费，无需拍摄或安装
 * :white_check_mark: [Seedance 3.0 AI](https://seedance3ai.plus)：PlusFrame 工作室的 AI 视频生成站，支持文字、图片与参考素材（图 / 视频 / 音频）转视频并带原生音频，可选 Seedance 2.5 或 Seedance 2.0 的 Mini / Fast / Standard 档，5 到 30 秒、最高 1080p；站名里的 Seedance 3.0 尚未上线、仍处计划中，非官方站点
@@ -51,6 +40,37 @@
 * :white_check_mark: [Bulin 47 Viral](https://bulin47viral.org)：上传一张授权照片，用 Kling O3 重新生成一段街头 freestyle 表演场景（含人物、街景与新配的氛围声），不提供源视频也不使用原曲，固定场景、不支持自定义提示词，输出 10 秒竖屏 MP4，$9.99 一条
 * :white_check_mark: [Burning Bridges AI](https://burningbridgesai.pro)：上传本人加最多两位朋友的照片，生成 10 秒竖屏派对视频：你站在吊灯场景的 C 位挥手举杯、朋友在后面欢呼，带参考片段里的原曲音轨；40 积分一条（$9.99），与 Drake 及其唱片公司无关
 * :white_check_mark: [PhotoCraft](https://photocraft.my)：开源 Photoshop 替代品 PhotoCraft 的网页版入口与桌面版下载站，纯 Rust 重写，支持图层、蒙版、调整图层、图层样式、文字、矢量、画笔与真实 PSD 文件，编辑在浏览器本地完成，桌面版覆盖 Windows / macOS / Linux；站点另加付费 AI 出图与批量修图（缩放、格式转换、压缩、加水印、重命名，每批前 10 张免费），非官方站点
+
+#### fpy5627 - [Github](https://github.com/fpy5627)
+* :white_check_mark: [Hotel Lobby AI](https://aihotellobby.dev)：双人照片视频生成工具，将两张人像照片生成橙色演播室表演视频，支持左右人物位置、可选动作提示、画质选择及 MP4 预览下载；生成需登录并购买积分
+
+#### Vincent - [Github](https://github.com/Vincent-LuoFeng)
+* :white_check_mark: [Lucer AI Video](https://lucer.art)：面向创作者的 AI 图像与视频平台，支持文生图、图生图，Michael Jackson、Raindance、Hotel Lobby 等热门视频特效，以及去水印、画质增强、滤镜修复；无需订阅，按积分按次计费，生成失败自动退还
+* :white_check_mark: [Screenshot Editor](https://screenshoteditor.net/)：截图文字编辑工具（免费），本地 OCR 识别文字后擦除或替换，全程在浏览器完成，不上传、不加水印，适合清理截图、海报和商品图
+* :white_check_mark: [Personalized Gift](https://personalizedgift.art)：生日、纪念日、圣诞等场合，几分钟做出带对方名字的专属歌曲，再通过专属页面送给对方
+* :white_check_mark: [Growing Up Video Maker](https://growingupvideoai.com)：上传从婴儿到现在的照片，生成有故事感转场、可配自己音乐的 AI 成长视频，最长支持 2 分钟
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [Quick Get Well](https://quickgetwell.com/)：英文康复慰问措辞筛选工具，按关系、场景、语气和格式挑选可修改的例句，当前免费且无需注册，附教师纸卡 PDF 和职场关怀措辞练习
+* :white_check_mark: [Chinese Gender Predictor](https://chinesegenderpredictor.net/)：英文民俗娱乐网站，将公历生日和受孕日期换算为农历年龄与月份后查询传统性别表，另有独立虚岁计算器及免费 A4 / US Letter 派对游戏 PDF；无需注册，日期在浏览器内处理，不能用于医学判断 - [计算方法与来源](https://chinesegenderpredictor.net/how-it-works/)
+
+#### 16871233 - [Github](https://github.com/16871233)
+* :white_check_mark: [GemiAi](https://gemiai.cn/)：AI 对话与绘图工作台，可写作、理解文档和图片、根据描述生成或修改图片，也能创建网页；支持网页、微信小程序「AI聊天工具箱」、Android 与 iOS，使用积分及会员计费 - [多端入口](https://gemiai.cn/download)
+
+#### airobushotpot - [Github](https://github.com/airobushotpot)
+* :white_check_mark: [Smalltown Boy AI](https://smalltownboyai.app/)：AI 双人舞蹈视频生成工具，上传两张单人照片或一张双人合照（人物、宠物均可），无需写提示词，生成 21 秒 720p 9:16 竖屏视频；生成需登录并购买积分
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [知迹](https://zhiji.aizeten.me)：多模型 AI 对话与个人知识图谱，同一段对话可切换模型并延续已有上下文，回答支持多种音色朗读；每次对话后，自动整理摘要、标签与主题关联，方便搜索和查看个人的知识图谱 — Web 应用 - [更多介绍](https://zhiji.aizeten.me/press-kit)
+
+#### louis-cai - [Github](https://github.com/louis-cai), [博客](https://louis-cai.github.io)
+* :white_check_mark: [Indie Radar](https://radar.everythingisok.top/)：出海与独立开发 90% 降噪情报站，盯紧一手海外创客源，本地 pgvector 向量去重 + 5 轴打分，每天精选 2~4 条高价值工具与真实变现案例，全自用无广告；提供 Telegram 点滴广播与 GitHub 每日 Markdown 归档 - [源码与每日归档](https://github.com/louis-cai/daily-indie-radar)
+
+#### 望山(陕西) - [Github](https://github.com/wangshan9870)
+* :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
+
+#### yzfly - [Github](https://github.com/yzfly)
+* :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
 
 #### Huang Zhiwen - [Github](https://github.com/wdhzw)
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
