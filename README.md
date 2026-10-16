@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### 望山(陕西) - [Github](https://github.com/wangshan9870)
+* :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
+
 #### yzfly - [Github](https://github.com/yzfly)
 * :white_check_mark: [LightRead 轻阅](https://github.com/yzfly/LightRead/releases/latest)：开源电子书与论文阅读器，支持 EPUB / MOBI / PDF、本地书库、批注与听书，本地阅读无需注册或联网，提供 macOS / Windows / Linux 安装包 - [源码与使用说明](https://github.com/yzfly/LightRead)
 

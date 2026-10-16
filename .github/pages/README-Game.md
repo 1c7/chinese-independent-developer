@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 16 号添加
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [AI Browser Games](https://aibrowsergames.net/)：浏览器游戏发现目录，整理 100 款第三方游戏，支持按操作方式、节奏和人数筛选，其中 4 款附有创作者来源支持的 AI 辅助制作标注 - [更多介绍](https://aibrowsergames.net/about/)
+
 ### 2026 年 10 月 15 号添加
 
 #### Qizhen Ruan - [Github](https://github.com/ruanqizhen)
