@@ -8,6 +8,53 @@
 
 ---
 
+### 2024 年 10 月 20 号添加
+#### zhiya(武汉)
+* :white_check_mark: [Image to excel](https://itexcel.izhiyakeji.com/zh-Hans/)：识别图片中的表格并转成可编辑的 Excel 文档
+
+### 2024 年 10 月 19 号添加
+
+#### Shanshi - [Github](https://github.com/Shanshi66)
+* :white_check_mark: [Notion Exporter](https://notionexporter.com/)：将 Notion 内容转成卡片，方便在社交媒体分享 - [更多介绍](https://notionexporter.com/zh-hans/post/zh-hans-notion-to-redbook)
+
+### 2024 年 10 月 18 号添加
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+* :white_check_mark: [扇贝单词助手V3](https://shanbay.pages.dev)：专为扇贝网用户打造的 Chrome 插件，帮助您在任何网页上轻松高效地学习英语 - [Github](https://github.com/honwhy/shanbay-ext)
+
+#### Ethan Sunray
+* :white_check_mark: [Inpodcast AI](https://inpodcast.ai)：将文档转成播客音频，支持 PDF、Word、Markdown 和 TXT 文件格式
+
+#### Kajian(佛山)
+* :white_check_mark: [MvpFast](https://www.mvpfast.top)：帮助独立开发者快速构建 MVP 的开发模板，包含文字+视频教程，从0到1构建网站应用
+
+### 2024 年 10 月 17 号添加
+#### xibobo(上海) - [Github]( https://github.com/my19940202),[X(Twitter)](https://x.com/xishengbo),[即刻](https://web.okjike.com/u/4930384A-ABE5-4856-BB23-E4A9DC2BE526)
+* :x: [iFinder](https://www.ifinder.one)：网页关键词高亮插件，支持多个关键词高亮和定位，在 Google 搜索关键词时会自动高亮
+* :white_check_mark: [网页微信书评插件](https://chromewebstore.google.com/detail/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/kfjimgaoegibikoojcbnkbffkongnoep)：微信读书网页版本显示评论的插件，解答阅读中的困惑，了解他人的见解，不做一个孤独的阅读者
+
+### 2024 年 10 月 16 号添加
+#### xingstarx(北京) - [Github](https://github.com/xingstarx), [博客](https://www.xingstarx.top)
+* :white_check_mark: [图片分割器](https://imagesplitter.vip/zh)：创建 Instagram 拼图效果以及微信九宫格效果以及有图片分割需求的场景。支持批量分割
+
+#### xiaocui723(广东) 
+* :white_check_mark: [Abgerny](https://abgerny.net)：Abgerny 是粉丝自制模组，拥有超现实节奏、古怪角色和无限的创意创作可能性。
+
+### 2024 年 10 月 15 号添加
+#### qiweiii - [Github](https://github.com/qiweiii)
+- :white_check_mark: [Text Search Pro](https://chromewebstore.google.com/detail/lfknakglefggmdkjdfhhofkjnnolffkh)：文本搜索 Chrome 插件，支持网页中进行大小写敏感和整词的文本搜索
+
+#### 咕噜不爱猫(杭州) - [Github](https://github.com/wangjiegulu)
+* :white_check_mark: [Biofy](https://Biofy.cn)：定制你的个人主页，聚合你的社交信息，展示你的个人作品 - [示例主页](https://biofy.cn/wangjiegulu)
+
+### 2024 年 10 月 14 号添加
+
+#### biboom(广州)
+* :white_check_mark: [Ranking Tabs](https://chromewebstore.google.com/detail/ranking-tabs/nfnfblfhnipebcbicjapboccdabdimfa)：浏览网站次数排行榜 Chrome 插件
+
+### 2024 年 10 月 13 号添加
+#### 阿凯呵 - [博客]( https://www.sodair.top)
+* :white_check_mark: [AI 形象照](https://luna-headshot.sodair.top/)：1 张照片轻松制作您的 AI 简历形象照，支持电脑摄像头拍摄 - 基于[开源AI换脸系统](https://github.com/loxi-opensource/luna-swapping)搭建
+
 ### 2024 年 10 月 10 号添加
 #### 风巢森淼(北京) - [Github]( https://github.com/wincatcher), [博客]( https://okjk.co/q4mQVu)
 * :white_check_mark: [投资策略模拟器]( https://investment-simulator.toolsnav.top)：帮助投资者和学习者模拟和比较不同投资策略在各种市场趋势下的表现。该工具通过直观的可视化界面和详细的数据分析，让用户能够深入了解各种投资策略的优劣，从而做出更明智的投资决策 - [更多介绍](https://www.cnblogs.com/hackersay/articles/18455394/investment-strategy-simulator)
