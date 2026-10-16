@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### NeoPanic - [Github](https://github.com/NeoPanic)
+* :white_check_mark: [Glim](https://github.com/NeoPanic/Glim)：免费开源的 Mac 多格式文件查看器，在同一工作区查看 Markdown 图表与公式、PDF、图片、JSON、CSV 和源代码，支持 Apple Silicon 与 Intel - [下载试用](https://github.com/NeoPanic/Glim/releases/latest)
+
 #### weidacn - [Github](https://github.com/weidacn)
 * :white_check_mark: [Anatomy Skill](https://anatomyskill.org)：输入一段技术概念描述，生成用等距机械动画讲解其原理的 MP4 视频与可交互 HTML 图，无需安装
 * :white_check_mark: [Ozil Goal AI](https://ozilgoalai.pro)：上传一张授权照片，用 Kling O3 重新生成一段虚构的破门集锦（挑射、突破防守、完成射门），保留你的脸、衣服和鞋，输出 10 秒带观众声的竖屏 MP4，无需提示词或参考视频，$9.99 一条；与厄齐尔、阿森纳及欧冠赛事无关
