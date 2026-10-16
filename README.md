@@ -29,6 +29,9 @@
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [知迹](https://zhiji.aizeten.me)：多模型 AI 对话与个人知识图谱，同一段对话可切换模型并延续已有上下文，回答支持多种音色朗读；每次对话后，自动整理摘要、标签与主题关联，方便搜索和查看个人的知识图谱 — Web 应用 - [更多介绍](https://zhiji.aizeten.me/press-kit)
 
+#### louis-cai - [Github](https://github.com/louis-cai), [博客](https://louis-cai.github.io)
+* :white_check_mark: [Indie Radar](https://radar.everythingisok.top/)：出海与独立开发 90% 降噪情报站，盯紧一手海外创客源，本地 pgvector 向量去重 + 5 轴打分，每天精选 2~4 条高价值工具与真实变现案例，全自用无广告；提供 Telegram 点滴广播与 GitHub 每日 Markdown 归档 - [源码与每日归档](https://github.com/louis-cai/daily-indie-radar)
+
 #### 望山(陕西) - [Github](https://github.com/wangshan9870)
 * :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
 
