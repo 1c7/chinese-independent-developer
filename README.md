@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 16 号添加
 
+#### louis-cai - [Github](https://github.com/louis-cai), [博客](https://louis-cai.github.io)
+* :white_check_mark: [Indie Radar](https://radar.everythingisok.top/)：出海与独立开发 90% 降噪情报站，盯紧一手海外创客源，本地 pgvector 向量去重 + 5 轴打分，每天精选 2~4 条高价值工具与真实变现案例，全自用无广告；提供 Telegram 点滴广播与 GitHub 每日 Markdown 归档 - [源码与每日归档](https://github.com/louis-cai/daily-indie-radar)
+
+
 #### 望山(陕西) - [Github](https://github.com/wangshan9870)
 * :white_check_mark: [WeChat to Markdown](https://wx2md.com/)：把微信公众号文章一键保存为本地 Markdown，浏览器内处理、不上传正文，可导入 Obsidian / 思源 / Typora；Freemium — Chrome 扩展 - [更多介绍](https://github.com/wangshan9870/wechat-to-markdown)
 
