@@ -83,9 +83,9 @@
 
 #### Huang Zhiwen - [Github](https://github.com/wdhzw)
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
+
 #### huayanming - [Github](https://github.com/huayanming)
 * :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
-
 
 ### 2026 年 10 月 15 号添加
 
