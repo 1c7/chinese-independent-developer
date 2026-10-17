@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 17 号添加
 
+#### Justin3go - [Github](https://github.com/Justin3go), [博客](https://justin3go.com)
+* :white_check_mark: [Blob0](https://blob0.com)：macOS 上的 Cloudflare R2 / S3 对象存储客户端，像管理本地文件夹一样上传、下载、整理、预览和分享文件，文件存放在自己的存储账户；支持 Obsidian / Typora 粘贴图片自动上传，内置 CLI 与 Agent Skill；完整功能免费试用 30 天，之后 $16.90 一次性买断，无订阅
+
 #### Rory - [Github](https://github.com/Coiggahou2002)
 * :white_check_mark: [VibeCV](https://vibecv.com)：聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费
 
