@@ -8,6 +8,45 @@
 
 ---
 
+### 2024 年 10 月 25 号添加
+#### JARK006 - [Github](https://github.com/jark006)
+* :white_check_mark: [jarkViewer](https://github.com/jark006/jarkViewer)：Windows 平台看图软件
+* :white_check_mark: [FtpServer](https://github.com/jark006/FtpServer)：Windows 平台 FTP 服务器
+* :white_check_mark: [小天气](https://github.com/jark006/weather_widget)：安卓平台桌面天气小部件
+
+#### Q-Sansan
+* :white_check_mark: [Img2Video](https://img2video.ai/)：用文本或图像生成短视频（AI）非常适合社交媒体，立即开始创作爆款内容吧！
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Bluesky Video Downloader](https://blueskyvideodownloader.org/)：Bluesky 视频下载器，输入 Bluesky 文章地址，即可将文章中的视频下载到本地
+
+#### Yue - [Github](https://github.com/yuegao04)
+* :white_check_mark: [Yes/No 塔罗 AI](https://yesnotarot.org/)：融合 AI 技术与塔罗洞见，快速获得"是"与"否"解答
+* :white_check_mark: [ProjectHunt](https://projecthunt.me/)：发现与分享独立项目
+
+#### kevin 不会写代码 - [Twitter](https://x.com/PennyJoly)
+* :x: [CheapGpt - 企业级 I 模型 API](https://ai.linktre.cc)：AI 接口调用平台 (稳定、高效、高并发、便宜、企业级）支持 OpenAI、Claude、Gemini 等主流 AI 大模型
+
+### 2024 年 10 月 23 号添加
+#### Blushyes(北京) - [Github](https://github.com/blushyes)
+* :white_check_mark: [如快](https://sofast.fun)：启动器软件（基于 Tauri 开发，支持 Windows 和 Mac），UI 风格类似 Raycast，对键盘操作友好，大幅提高办公学习效率，支持快捷链接、剪贴板管理等功能并支持开发自定义扩展
+
+#### meetqy(成都) - [Github](https://github.com/meetqy)
+* :x: [aiseka.com](https://aiseka.com)：色彩管理工具，有颜色的介绍，色卡制作，色卡推荐 3 个主要功能
+
+### 2024 年 10 月 22 号添加
+#### fengmao(广州)
+* :white_check_mark: [liusha tech detector](https://liusha.org/)：分析技术栈，提交一个网址，分析该网站用的技术栈，是否 CMS，用什么编程语言，数据分析工具等
+
+ #### QC2168(揭阳) - [Github](https://github.com/QC2168), [博客](https://island-record.vercel.app/)
+* :white_check_mark: [MIB](https://github.com/QC2168/mib)：安卓数据备份软件，根据配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份，节点配置
+
+#### Nico（长沙）- [Github](https://github.com/yijianbo)
+* :x: [Subrise](https://subrise.co/zh)： Subrise 精心为出海创业者打造 Reddit 运营工具，挑选并分类优质的 Reddit 资讯，运营干货。我们帮助你发现高质、与业务匹配的 Reddit 流量社区，分享一线实操运营干货，帮助您实现 Reddit 流量掘金。
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Hurricane Simulator](https://hurricanesimulator.org/)：飓风模拟器，根据不同的季节模拟飓风造成的影响、破坏，提高灾害意识
+
 ### 2024 年 10 月 20 号添加
 #### zhiya(武汉)
 * :white_check_mark: [Image to excel](https://itexcel.izhiyakeji.com/zh-Hans/)：识别图片中的表格并转成可编辑的 Excel 文档
