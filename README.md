@@ -26,6 +26,11 @@
 
 ### 2026 年 10 月 17 号添加
 
+#### Keith - [Github](https://github.com/Keith-CY)
+* :white_check_mark: [拉普拉斯的迷你世界](https://world.lapla.si/zh/)：3D 科学科普网站，100 多个能转动、能拆开的交互模型（四季、潮汐、黑洞、蒸汽机、神经网络……），每页写明模型简化了什么，中英双语，免费无广告，内容 CC BY-NC 4.0
+* :white_check_mark: [言の葉](https://japaneseskills.com/)：JLPT 日语学习网站，9,040 个单词、828 条语法、802 个阅读短句，按 N5–N1 筛选，从五十音学起，可标记进度；入门和 N5 免费，N4 以上订阅
+* :white_check_mark: [MeshMend](https://mesh-mend.pages.dev/)：STL 网格检查与修复工具（英文界面），去掉重复面和零面积面、统一法线朝向、可补小的平面破洞，支持 3MF 转 STL，修复前后对比，文件在浏览器本地处理不上传，免费
+
 #### Rory - [Github](https://github.com/Coiggahou2002)
 * :white_check_mark: [VibeCV](https://vibecv.com)：聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费
 
