@@ -86,10 +86,6 @@
 
 #### Huang Zhiwen - [Github](https://github.com/wdhzw)
 * :white_check_mark: [花花记账](https://apps.apple.com/app/id6801466802)：注重设计与长期记录的 iPhone 生活账本，在本地根据个人记录学习消费习惯，提供分类与下一笔建议，用记账地图回放和月度回顾重温生活；免费下载，部分功能与外观付费
-#### huayanming - [Github](https://github.com/huayanming)
-* :white_check_mark: [DisplayPilot](https://huayanming.github.io/displaypilot/zh-Hans/?src=1c7)：macOS 外接显示器控制台，用 DDC/CI 直接调亮度、音量与输入源；面板不响应 DDC/CI 时自动改用伽马表调光，另含以面板原始曲线为基准的色彩校准，以及先隔离再删除的开发者缓存清理
-
-
 
 ### 2026 年 10 月 15 号添加
 
@@ -615,7 +611,6 @@
 #### DDTer - [Github](https://github.com/DDTer)
 * :white_check_mark: [NeatCompress](https://yasuo.app)：音视频、PDF 和图片的批量压缩工具，用 WebCodecs 硬件加速与 WASM 双引擎在本地处理，文件不上传服务器；支持指定目标大小（微信 25MB/100MB、Discord 10MB/50MB 等）、无损合并、裁剪与转 GIF - [国际站](https://neatcompress.com)
 
-
 ### 2026 年 9 月 19 号添加
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
@@ -806,7 +801,6 @@
 #### lttxzmj - [Github](https://github.com/lttxzmj)
 * :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
 
-
 #### SiteHunter - [Github](https://github.com/SiteHunter)
 * :white_check_mark: [SiteHunter](https://sitehunter.org)：为独立开发者、创业者打造的市场调研平台。找 saas 创业点子不再靠直觉，SiteHunter 监控了一批真实的流量增长数据，用数据看清哪个赛道正在增长，从一个被验证的市场开始
 
@@ -826,7 +820,6 @@
 
 #### coderWenzi - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Gemini Omni](https://geminiomni.video/)：免费生成和编辑视频，保持角色一致性，音频同步
-
 
 ### 2026 年 9 月 4 号添加
 
@@ -898,7 +891,6 @@
 
 #### leo(上海) - [Github](https://github.com/TangSirOnGit)
 * :white_check_mark: [CardShopDir](https://cardshopdir.com/)：美国实体卡牌店目录，收录 7700+ 家店铺、覆盖 51 个州，支持按州、城市和游戏筛选，帮玩家找到宝可梦、万智牌、游戏王等卡牌的线下店，每家店附地址、营业时间、支持游戏和评分
-
 
 ### 2026 年 8 月 30 号添加
 
@@ -1354,7 +1346,6 @@
 #### wisemonkey1990 - [GitHub](https://github.com/wisemonkey1990)
 * :white_check_mark: [诗经阅读](https://song-of-books.github.io/)：305 首《诗经》全文阅读，含注释、译文、拼音标注和古风宣纸体验，支持收藏与搜索 - [GitHub 仓库](https://github.com/song-of-books/song-of-books.github.io)
 
-
 ### 2026 年 7 月 21 号添加
 
 #### cobola - [Github](https://github.com/cobola)
@@ -1804,7 +1795,6 @@
 #### Felix - [Github](https://github.com/greek-zzf)
 * :white_check_mark: [Loomet](https://loomet.app/)：网页端串珠图案制作工具，支持图片导入、精准珠子用量统计、真实珠子预览、手机端 Build Mode 和 PDF 导出
 
-
 ### 2026 年 7 月 3 号添加
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
@@ -2057,7 +2047,6 @@
 #### fishisnow - [Github](https://github.com/fishisnow)
 * :white_check_mark: [PIXAE](https://pixae.app/)：AI 原生创作平台，支持在浏览器端生成图像、视频，提供去背景、老照片修复、高清化、魔法擦除等专项工具及即用型 AI Prompt showcase。
 
-
 #### EveryReach - [Github](https://github.com/Zhangfengmo)
 * :white_check_mark: [2AI Tools](https://2ai.tools/)：AI 工具导航与发现平台，按需求搜索和对比 AI 工具，支持按免费/免费增值/付费/开源筛选，提供工作流推荐和每日 AI 资讯，可社区提交新工具
 
@@ -2299,7 +2288,6 @@
 #### hwlvipone - [Github](https://github.com/hwlvipone)
 * :white_check_mark: [AdMorph](https://ad-morph.com/)：Generate & Test Winning Ad Variations for Your Product
 
-
 ### 2026 年 5 月 9 号添加
 
 #### skyyy47 - [Github](https://github.com/skyyy47)
@@ -2334,7 +2322,6 @@
 #### jsxyzb - [Github](https://github.com/jsxyzb)
 * :white_check_mark: [VideoSnap](https://videosnap.cc/): 视频处理工具，无需安装和登录，支持压缩、转码、提取音频等常用功能，文件在本地浏览器处理，兼顾隐私与速度。
 
-
 ### 2026 年 5 月 7 号添加
 
 #### suncoliner - [Github](https://github.com/suncoliner)
@@ -2359,7 +2346,6 @@
 #### TNT-Likely - [Github](https://github.com/TNT-Likely)
 * :white_check_mark: [BeeCount 蜜蜂记账](https://beecount-website.pages.dev)：开源跨平台记账 App（Android/iOS/Web），主打数据自主与隐私优先 —— 支持自建 BeeCount Cloud / iCloud / Supabase / WebDAV / S3 多端同步，离线可用，可选 AI 识别账单图片自动记账，无广告无订阅 - [Github](https://github.com/TNT-Likely/BeeCount)
 
-
 ### 2026 年 5 月 4 号添加
 
 #### retryu - [Github](https://github.com/retryu)
@@ -2370,7 +2356,6 @@
 
 #### sitecheck - [Github](https://github.com/mymickey/sitecheck)
 * :white_check_mark: [SiteCheck](https://sitecheck.top)：SiteCheck 是一个灵感来源于 https://ipcheck.ing 的 MacOS 桌面端软件 官网是 sitecheck.top，我一直是 ipcheck.ing 的忠实用户，平时只要切换代理、排查线路或者看 DNS 出口，第一反应就是先打开它看一眼。也正因为用得足够久，我才慢慢有了自己做一个同类小工具的想法。SiteCheck 就是在这个基础上做出来的，一个更轻一点、专门常驻 macOS menubar 的本地 app，把我最常用的几件事单独拎出来：看连通性、看 DNS 测试、顺手看一下当前公网 IP。不是想替代 ipcheck.ing，而是想把我自己每天真会反复点开的那部分体验，做成一个更直接的小工具。另外需要致敬阿禅给我们带来这么好用的工具
-
 
 ### 2026 年 5 月 3 号添加
 
@@ -2501,7 +2486,6 @@
 
 #### futurearrived - [Github](https://github.com/futurearrived)
 * :white_check_mark: [Nano Banana Labs](https://nanobananalabs.io)：AI 老照片修复与图像增强工具，上传旧照片或低分辨率图像，自动修复划痕、还原清晰度，支持人像增强与色彩优化，无需注册即可使用。
-
 
 ### 2026 年 4 月 18 号添加
 
@@ -2782,7 +2766,6 @@
 #### yanglian(珠海) - [Github](https://github.com/lian-yang)
 * :white_check_mark: [LTools](https://github.com/lian-yang/ltools)：基于 Wails v3 的插件化跨平台桌面工具箱，集成计算器、剪贴板管理、截图、JSON 编辑、音乐播放器、图片处理等实用工具
 
-
 ### 2026 年 3 月 27 号添加
 
 #### Yaou(上海) - [Github](https://github.com/nogeek-net)
@@ -2867,7 +2850,6 @@
 #### Moresl - [Github](https://github.com/Moresl)
 * :white_check_mark: [ImageMinify](https://github.com/Moresl/ImageMinify)：轻量级图片批量压缩工具，支持 JPEG/PNG/WebP，基于 C# WPF 开发，免费开源
 
-
 ### 2026 年 3 月 16 号添加
 
 #### qqhaosao(广州)
@@ -2907,7 +2889,6 @@
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [macLaunchpads macOS 26 的最佳启动台替代品](https://maclaunchpad.aizeten.me/)：macOS 26启动台改版不习惯？那就直接访问 maclaunchpad.aizeten.me 回到最初的感觉
-
 
 ### 2026 年 3 月 12 号添加
 
@@ -3053,7 +3034,6 @@
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [Download Pilot - 自动整理下载 + 智能命名插件](https://www.downloadpilot.top/zh)：Chrome 扩展：按文件类型自动把下载整理进文件夹，并支持按照网页上下文 乱码/哈希文件名变成可读名称，让下载夹整洁、好找、可搜索
 
-
 ### 2026 年 2 月 21 号添加
 
 #### Remember(HangZhou) - [Github](https://github.com/wuqinqiang)
@@ -3147,8 +3127,6 @@
  * 视频支持平滑延长与衔接，可按用户提示生成连续镜头，不止生成，还能“接着拍”
  * 编辑能力同步增强，支持对已有视频进行角色更替、删减、增加
 
-
-
 ### 2026 年 2 月 7 号添加
 
 #### 我是欧阳 - [Github](https://github.com/iamouyang21)
@@ -3173,7 +3151,6 @@
 
 #### FrankLiBao - [Github](https://github.com/FrankLiBao)
 * :white_check_mark: [AI人生系统](https://life-system-lyart.vercel.app)：受网文"系统流"启发的 AI 游戏化个人成长平台，AI 自动派任务、经验值等级体系、六维属性雷达图 - [更多介绍](https://github.com/FrankLiBao/life-system)
-
 
 ### 2026 年 2 月 3 号添加
 
@@ -3214,7 +3191,6 @@
 #### ventupx
 * :white_check_mark: [upx-cli](https://github.com/ventupx/upx-cli)：通过 cli 生成 AI Coding 通用规则。
 
-
 ### 2026 年 1 月 26 号添加
 
 #### qqhaosao(广州)
@@ -3241,7 +3217,6 @@
 
 #### Justin3go(北京) - [博客](https://justin3go.com)
 * :white_check_mark: [HUNT0 - Ship Early. Hunt Early](https://hunt0.com)：产品发布平台，类似 ProductHunt，欢迎提交～
-
 
 ### 2026 年 1 月 21 号添加
 
@@ -3528,7 +3503,6 @@
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [极简AI生图](https://image.stockai.trade)：AI 生图网站，完全免费、免登录、无广告、无水印
-
 
 ### 2025 年 12 月 14 号添加
 #### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
@@ -4091,7 +4065,6 @@
 * :white_check_mark: [SimpleThumbnail](https://simplethumbnail.com)：YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告
 * :white_check_mark: [YouTubeTitles](https://youtubetitles.com)：YouTube 标题生成器（AI 驱动），提供快速模式与进阶模式，助力提升视频点击率
 
-
 #### xmm（东莞） - [Github](https://github.com/XMM17879829028)
 * :white_check_mark: [Mental Age Test](https://mentalage.org)：心理年龄测试工具，通过科学量表评估用户心理年龄与实际年龄的对比，提供详细且有趣分析报告
 
@@ -4123,7 +4096,6 @@
 * :white_check_mark: [Vidgo AI](https://vidgo.ai)：一站式的图片，视频生成平台
 * :x: [Video Translator](https://videotranslator.io/)：短剧视频翻译工具
 * :white_check_mark: [Doculator](https://doculator.org/)：集文档，视频，图片翻译于一身的平台
-
 
 ### 2025 年 9 月 14 号添加
 #### 饭特稀
@@ -4206,7 +4178,6 @@
 
 #### leftshine(成都) - [Github](https://github.com/leftshine), [gitee](https://gitee.com/leftshine)
 * :white_check_mark: [APKExport](https://github.com/leftshine/APKExport)：APK 导出工具，可以非常方便的导出和分享 apk 文件 - [更多介绍](https://leftshine.gitlab.io/apkexport)
-
 
 ### 2025 年 9 月 4 号添加
 #### AprDeci - [Github](https://github.com/AprDeci)
@@ -4831,7 +4802,6 @@
 
 #### zane - [Github](https://github.com/littleblackone)
 * :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的 AI Agent 目录和新闻
-
 
 ### 2025 年 5 月 28 号添加
 #### Lingglee - [Github](https://github.com/lingglee)
@@ -5556,7 +5526,6 @@
 
 ## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
-
 ### 基于本列表数据源的产品
 
 以下产品由第三方开发者基于本列表的公开数据制作，属于特殊类型的收录：它们和本仓库没有合作关系，由各自的作者独立开发和维护。本列表本身永久以 GitHub 仓库形式存在。
@@ -5565,7 +5534,6 @@
 * :white_check_mark: [中国独立开发者项目列表（网页版）](https://developer.hubing.online/home)：基于本列表数据制作的网页版，开源 - [更多介绍](https://github.com/kisslove/chinese-independent-developer-site)
 * :white_check_mark: [独立星球](https://du.liuwa.xyz/)：中国独立开发者作品集，按项目浏览与发现 - [更多介绍](https://github.com/zhulin025/chinese-independent-developer)
 * :white_check_mark: [独立观察](https://lei1024.github.io/chinese-independent-developer-report/)：把本列表整理成可搜索、可追踪更新的浏览器看板 - [更多介绍](https://github.com/lei1024/chinese-independent-developer-report)
-
 
 ---
 
@@ -5593,7 +5561,6 @@
 * [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
 * [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)
 * [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
-
 
 ## 寻找远程工作
 1. [电鸭](https://eleduck.com/)
