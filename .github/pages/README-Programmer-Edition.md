@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 18 号添加
+
+#### KKKK - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [BeatBrowser](https://github.com/BeatAPI/BeatBrowser)：MIT 开源的 Chrome 扩展和本地 MCP 桥接，让 Codex 等 Agent 沿用现有登录态，在后台任务窗口读取网页与准备表单，用户可暂停和接管；需安装 Node.js 工具并手动加载扩展
+
 ### 2026 年 10 月 16 号添加
 
 #### CaseyCACA - [Github](https://github.com/CaseyCACA)
