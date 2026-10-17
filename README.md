@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 17 号添加
 
+#### Rory - [Github](https://github.com/Coiggahou2002)
+* :white_check_mark: [VibeCV](https://vibecv.com)：聊天写简历的网页工具，讲讲你的经历，AI 整理成规范简历，可导出一页 PDF 或 Word，一句话生成英文版，第一份免费
+
+#### BogerHou - [Github](https://github.com/BogerHou)
+* :white_check_mark: [Fuse Bead Patterns](https://fusebeadpatterns.art/)：拼豆图纸制作工具，将自己的图片转换为 Perler／Hama／Artkal S 配色网格，支持逐格编辑、材料统计、PNG／PDF 导出及工程保存；当前免费，无需注册，图片在浏览器内处理
+
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
 

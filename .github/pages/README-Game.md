@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 17 号添加
+
+#### zard0433-source - [Github](https://github.com/zard0433-source)
+* :white_check_mark: [球场经理](https://courtsidegame.xyz/)：篮球球员抽卡收集与阵容养成的模拟游戏 — 网页版，非盈利个人项目（免费）
+
 ### 2026 年 10 月 16 号添加
 
 #### BogerHou - [Github](https://github.com/BogerHou)
