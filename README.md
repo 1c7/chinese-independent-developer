@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 17 号添加
 
+#### Justin3go - [Github](https://github.com/Justin3go), [博客](https://justin3go.com)
+* :white_check_mark: [Blob0](https://blob0.com)：macOS 上的 Cloudflare R2 / S3 对象存储客户端，像管理本地文件夹一样上传、下载、整理、预览和分享文件，文件存放在自己的存储账户；支持 Obsidian / Typora 粘贴图片自动上传，内置 CLI 与 Agent Skill；完整功能免费试用 30 天，之后 $16.90 一次性买断，无订阅
+
 #### Keith - [Github](https://github.com/Keith-CY)
 * :white_check_mark: [拉普拉斯的迷你世界](https://world.lapla.si/zh/)：3D 科学科普网站，100 多个能转动、能拆开的交互模型（四季、潮汐、黑洞、蒸汽机、神经网络……），每页写明模型简化了什么，中英双语，免费无广告，内容 CC BY-NC 4.0
 * :white_check_mark: [言の葉](https://japaneseskills.com/)：JLPT 日语学习网站，9,040 个单词、828 条语法、802 个阅读短句，按 N5–N1 筛选，从五十音学起，可标记进度；入门和 N5 免费，N4 以上订阅
