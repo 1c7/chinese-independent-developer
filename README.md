@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 17 号添加
+
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
+
 ### 2026 年 10 月 16 号添加
 
 #### zhoujungis - [Github](https://github.com/zhoujungis)
