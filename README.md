@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 17 号添加
 
+#### ChengAoShen - [Github](https://github.com/ChengAoShen)
+* :white_check_mark: [Textus](https://textus.catvinci.com)：所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)
+
 #### strzhao - [Github](https://github.com/strzhao)
 * :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
 * :white_check_mark: [拾光 Relight](https://github.com/strzhao/relight)：本地 AI 照片库，视觉模型在本机给照片打中文美学标签、写一段描述、打质量分，每天选出「每日精选」起标题配短文，macOS 菜单栏 App 自动设成壁纸；推理默认在本机完成，照片和标签不出电脑，开源（MIT）
