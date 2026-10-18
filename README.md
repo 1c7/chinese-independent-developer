@@ -53,6 +53,9 @@
 #### Owen Zhang
 * :white_check_mark: [EOR 雇主服务成本计算器](https://chinaabroadguide.com/eor-cost-calculator/)：输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册
 
+#### tumingguang-svg - [Github](https://github.com/tumingguang-svg)
+* :white_check_mark: [aiMakeVideo](https://aimakevideo.com)：AI 视频与图片创作工作台，文生视频 / 图生视频 / 图生图在同一处切换，可选 Seedance 2.5、MiniMax H3 等模型；另把 Bulin 47、Hotel Lobby、Rumpelstiltskin 等 10 个热门玩法做成独立模板页，上传一张照片就能出 15 秒竖屏视频、不用写提示词；积分包 $9.9 起也可订阅，注册送 10 积分，9 种语言界面
+
 ### 2026 年 10 月 17 号添加
 #### ChengAoShen - [Github](https://github.com/ChengAoShen)
 * :white_check_mark: [Textus](https://textus.catvinci.com)：所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)
