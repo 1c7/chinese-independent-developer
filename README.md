@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 18 号添加
 
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
+
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
 
