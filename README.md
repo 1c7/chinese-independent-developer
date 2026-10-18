@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 18 号添加
 
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
+
 #### dyordo - [Github](https://github.com/dyordo)
 * :white_check_mark: [SortLines](https://sortlines.com)：在线文本行处理工具，粘贴文本即可按字母、数字、自然顺序或长度排序行，并支持删除重复行、对比列表、随机打乱、反转与清理关键词列表，浏览器本地处理不上传，免费无需注册
 
