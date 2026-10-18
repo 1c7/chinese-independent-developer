@@ -25,6 +25,8 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 17 号添加
+#### nbbmw
+* :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等6种语言），已上线20+计算工具，覆盖数学、金融、时间和健身等领域，iOS还支持桌面小组件、输入法、语音播报等功能，[下载地址](https://apps.apple.com/cn/app/id6448260851)。
 
 #### strzhao - [Github](https://github.com/strzhao)
 * :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
