@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 18 号添加
 
+#### dyordo - [Github](https://github.com/dyordo)
+* :white_check_mark: [SortLines](https://sortlines.com)：在线文本行处理工具，粘贴文本即可按字母、数字、自然顺序或长度排序行，并支持删除重复行、对比列表、随机打乱、反转与清理关键词列表，浏览器本地处理不上传，免费无需注册
+
 #### Peacoke - [Github](https://github.com/Peacoke)
 * :white_check_mark: [BeadPattern](https://beadpattern.art/)：拼豆图案与像素画生成工具（免费），照片转 Perler/Hama/Artkal 官方色卡图案并算珠子数，纯前端零上传保护隐私，支持图纸导出与专注拼豆模式
 
