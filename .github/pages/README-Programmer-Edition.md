@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 18 号添加
 
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [apimodels.app](https://apimodels.app/zh)：多模型 AI API 平台，一个 API Key、一套 OpenAI 兼容接口调用 150+ 个图片、视频、语音和大语言模型（GPT Image 2、Nano Banana、Seedance、Kling、Veo、Claude、Gemini、DeepSeek 等），每个模型多条渠道出错自动切换、调用失败不扣费、图片视频任务支持异步回调，价格普遍低于官方价，按量计费无月费；需要写代码调用 API - [文档](https://apimodels.app/docs)
+
 #### KKKK - [Github](https://github.com/erickkkyt)
 * :white_check_mark: [BeatBrowser](https://github.com/BeatAPI/BeatBrowser)：MIT 开源的 Chrome 扩展和本地 MCP 桥接，让 Codex 等 Agent 沿用现有登录态，在后台任务窗口读取网页与准备表单，用户可暂停和接管；需安装 Node.js 工具并手动加载扩展
 
