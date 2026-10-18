@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 18 号添加
+
+#### Owen Zhang
+* :white_check_mark: [EOR 雇主服务成本计算器](https://chinaabroadguide.com/eor-cost-calculator/)：输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册
+
 ### 2026 年 10 月 17 号添加
 #### nbbmw
 * :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等6种语言），已上线20+计算工具，覆盖数学、金融、时间和健身等领域，iOS还支持桌面小组件、输入法、语音播报等功能，[下载地址](https://apps.apple.com/cn/app/id6448260851)。
