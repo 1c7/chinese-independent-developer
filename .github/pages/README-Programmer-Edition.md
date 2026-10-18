@@ -18,6 +18,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 19 号添加
 
+#### PoxenStudio(广州) - [Github](https://github.com/PoxenStudio)
+* :white_check_mark: [MyBooks](https://github.com/PoxenStudio/mybooks)：个人与家庭私有电子书管理服务，基于 Calibre + Vue，支持书单创建分享、WebDAV 同步、epub/azw3/pdf 互转、epub 转有声书与 Podcast 输出，可推送到 Kindle 等设备；Docker 部署 - [官网](https://www.mybooks.top)
+* :white_check_mark: [MyDict](https://github.com/PoxenStudio/mydict)：自托管词典服务，Docker 一键部署，可导入 MDict/StarDict/ECDICT 三种格式词典，提供带 Token 鉴权的查询与生词本 API、网页词典、深浅主题和用量统计
+* :white_check_mark: [MyReader](https://github.com/PoxenStudio/MyReader)：MyBooks 配套的跨平台电子书阅读器，登录自建书库后按分类标签浏览、下载阅读并同步阅读数据，支持 LaTeX 公式与自建词典；提供 macOS/Windows/Linux/Android 安装包
+* :white_check_mark: [MyNexus](https://github.com/PoxenStudio/MyNexus)：把电子书变成可检索可问答的私有知识库，导入 EPUB/PDF/TXT 后自动解析、分块、向量化并支持 RAG 问答，配套书籍、任务与 Token 管理后台；需自行部署 core-api、worker、web-ui 三个服务
+
 #### 2104178150-ai - [Github](https://github.com/2104178150-ai)
 * :white_check_mark: [Megaphone](https://github.com/2104178150-ai/megaphone)：开源项目发布工具箱，粘贴仓库地址得到 0–100 发布就绪分和最该先改的事，再让 AI 按 Hacker News、V2EX、小红书等 17 个渠道各自的规则准备文案 - [在线检测](https://2104178150-ai.github.io/megaphone/)
 
