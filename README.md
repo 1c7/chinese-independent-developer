@@ -29,6 +29,9 @@
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
 
+#### ikeisthere - [Github](https://github.com/ikeisthere)
+* :white_check_mark: [夸夸跨境](https://kuakuakua.com/pricing-calculator/)：面向中国 Ozon 跨境卖家的免费定价计算器（免登录，按类目佣金、rFBS/FBP 物流资费、汇率与目标利润反推建议售价）与中文实操教程；可选多店体检工作台 — Web 应用
+
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [LayerGrab](https://layergrab.com)：AI 图片转图层工具，把一张图拆成可编辑的命名图层并补全被遮挡的背景，可导出 PNG/PSD，也能只提取你指名的一个元素；有 Figma 插件和 Chrome 扩展，网页英文界面，每个账号可免费试用一次 - [更多介绍](https://github.com/layergrab/layergrab-plugins)
 
