@@ -28,6 +28,9 @@
 #### nbbmw
 * :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等6种语言），已上线20+计算工具，覆盖数学、金融、时间和健身等领域，iOS还支持桌面小组件、输入法、语音播报等功能，[下载地址](https://apps.apple.com/cn/app/id6448260851)。
 
+#### xjokerabab - [Github](https://github.com/xjokerabab)
+* :white_check_mark: [IP for AI](https://ipforai.cc/)：AI 网络环境检测网页，打开即测当前 IPv4 / IPv6 出口的地区、ASN 与代理 / VPN / Tor 信号，并检测 ChatGPT、Claude、Gemini 等服务公开资源的连通性、识别各 AI 厂商实际看到的出口；各维度分开列出、不给单一「纯净度」分数，另提供服务器命令行只读检测
+
 #### strzhao - [Github](https://github.com/strzhao)
 * :white_check_mark: [AI Todo](https://github.com/strzhao/ai-todo)：自然语言任务管理，说一句话就改成结构化任务操作，diff 预览、确认后才执行；支持多层嵌套子任务，任务列表可升级为共享项目空间（@成员 + 甘特图）；另提供 JSON 输出的 CLI 供 AI agent 调用，在线版 https://ai-todo.stringzhao.life，开源（MIT）
 * :white_check_mark: [拾光 Relight](https://github.com/strzhao/relight)：本地 AI 照片库，视觉模型在本机给照片打中文美学标签、写一段描述、打质量分，每天选出「每日精选」起标题配短文，macOS 菜单栏 App 自动设成壁纸；推理默认在本机完成，照片和标签不出电脑，开源（MIT）
