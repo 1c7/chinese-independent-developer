@@ -39,6 +39,9 @@
 * :white_check_mark: [EOR 雇主服务成本计算器](https://chinaabroadguide.com/eor-cost-calculator/)：输入员工薪资和雇佣国家，实时对比 Deel、Remote、Playroll 三大 EOR 平台月度总成本（含雇主社保税估算），中文界面，免费无需注册
 
 ### 2026 年 10 月 17 号添加
+#### ChengAoShen - [Github](https://github.com/ChengAoShen)
+* :white_check_mark: [Textus](https://textus.catvinci.com)：所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手逐句给出修改建议，支持 DeepSeek 等 20 多家模型和 Ollama 本地模型；免费开源，无需账号，支持 macOS、Windows、Linux - [下载](https://github.com/CatVinci-Studio/Textus/releases/latest)
+
 #### nbbmw - [Github](https://github.com/nbbmw)
 * :white_check_mark: [Calculator365](https://www.calculator-365.com/zh-Hans)：多语言在线计算器网站（中英日等 6 种语言），提供 20 多个计算工具，覆盖数学、金融、时间和健身等领域，iOS 支持桌面小组件、输入法、语音播报等功能 - [下载地址](https://apps.apple.com/cn/app/id6448260851)
 
