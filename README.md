@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 18 号添加
 
+#### makexyf-max - [Github](https://github.com/makexyf-max)
+* :white_check_mark: [少装一点](https://lessaitools.com/)：AI 插件目录，按具体任务整理 MCP 工具、Skills 与编辑器插件，逐项给出中文用途说明、接入方式和原项目链接，已收录 124 个项目，提供中英等多语言界面
+
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Weather Trip](https://weather-trip.aicake.io)：按未来天气筛选旅行目的地的工具站，支持按温度、降雨、湿度等条件查找全球城市，通过天气地图比较城市预报，提供中英文界面 - [GitHub 仓库](https://github.com/xiaomingio/weather-trip)
 
