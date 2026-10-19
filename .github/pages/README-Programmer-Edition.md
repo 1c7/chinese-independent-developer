@@ -18,8 +18,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 19 号添加
 
+#### virskor(德宏) - [Github](https://github.com/virskor)
+* :white_check_mark: [Mackit](https://www.mingcui.cn/mackit/)：macOS 开发者缓存清理工具，扫描 Xcode、Node、Flutter、Go、Rust、Python 等工具留下的可再生缓存，也能指定代码目录找出 node_modules、build 等构建产物；50+ 条规则并发扫描，每项标出体积、路径和风险等级，默认不勾选、清理移入废纸篓可撤销，完全本地运行 — 需要 macOS 14 及以上
+
 #### 星见 - [X](https://x.com/xingjian_ai)
 * :white_check_mark: [CatCatCode](https://catcatcode.com/)：面向新手的 GPT / Claude API 接入服务，国内直连不用翻墙，注册拿密钥后按教程改 Claude Code / Codex 等即可用；月费 99 / 199 / 299
+
+#### masterball-w - [Github](https://github.com/masterball-w)
+* :white_check_mark: [AI余额管理大师](https://github.com/masterball-w/AI-Balance-Master)：Windows 二次元桌宠式 AI 余额/额度/订阅到期提醒工具，DeepSeek、Kimi、硅基流动、OpenRouter 填 API Key 即可用官方接口查余额，ChatGPT、Cursor 等无公开接口的平台手动记录到期日，没数据一律显示“未获取”；数据全本地、Key 系统加密，MIT 开源，Releases 提供免安装 Windows 压缩包（未签名）
 
 #### PoxenStudio(广州) - [Github](https://github.com/PoxenStudio)
 * :white_check_mark: [MyBooks](https://github.com/PoxenStudio/mybooks)：个人与家庭私有电子书管理服务，基于 Calibre + Vue，支持书单创建分享、WebDAV 同步、epub/azw3/pdf 互转、epub 转有声书与 Podcast 输出，可推送到 Kindle 等设备；Docker 部署 - [官网](https://www.mybooks.top)
