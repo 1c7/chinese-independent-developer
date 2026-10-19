@@ -4,6 +4,7 @@ description: >
   处理 1c7/chinese-independent-developer 仓库的项目提交。
   检查 issue #160 新评论、新开的 Issue、新开的 PR，
   将有效项目添加到对应 README，关闭垃圾内容，并把评论区的意见与建议上报维护者。
+  历史判例与事故记录在同目录的 references/precedents.md，遇到边界判断时按需查阅。
   当用户要求“收录项目”“处理提交”“处理 issue”“跑一下列表”或运行中国独立开发者列表维护流程时使用。
 ---
 
@@ -25,6 +26,7 @@ description: >
 8. **每一次拒绝都必须在最终汇报里单列**，不许悄悄处理掉；致谢评论不用列。
 9. **评论区里的意见与建议只上报、不处置**：不改、不删、不回复、不关闭。
 10. 版面判断必须点开产品链接实际看一眼，不能凭标题猜。
+11. **遇到身份、拒绝、版面、格式、去重、PR、容量、签名、接口任一类判断，先读 `references/precedents.md` 对应小节再拍板**，那是维护者已经定过调的先例；不要让"想当然"覆盖踩过的坑。
 
 ---
 
@@ -48,7 +50,7 @@ SINCE=$(date -u -d '72 hours ago' +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || date -u -v-
 
 COUNT_COMMENTS=$(gh api "repos/1c7/chinese-independent-developer/issues/160/comments?since=$SINCE&per_page=100" | tee /tmp/c160.json | jq 'length')
 COUNT_ISSUES=$(gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
-  | jq '[.[] | select(.number != 160 and .pull_request == null)] | length')
+  | jq '[.[] | select(.number != 160 and .pull_request == null)] | length')   # 另有「已知保留 issue」清单，见第 2 节末尾
 COUNT_PRS=$(gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
   | jq '[.[] | select(.head.ref | startswith("auto-add-") | not)] | length')
 
@@ -59,6 +61,7 @@ wc -c README.md
 - 时间窗统一 **72 小时**（运行间隔不固定，取 3 天余量）。距上次超过 3 天就临时改 `-v-240H`。
 - 评论数偏大是正常的：里面混着我们自己的致谢。
 - **三个数字全为 0 不等于收工**：仍要跑 0.3 的差集、检查一之二、收尾扫描。
+- ⚠️ **`wc -c README.md` 超过 490,000 就地处理，别等到插入条目之后**：运行间隔里别人 merge 也可能顶过线。直接按 6.3 跑 `migrate_archive.py --write`，**即使本次空跑也要单独发一条搬迁 commit**（2026-09-27 实测：开跑时已是 490,082 字节，只想着"这次没新条目"就会把超标状态原样留给下一次）。
 
 ### 0.3 差集（不能只凭"看着都处理过"）
 
@@ -150,7 +153,7 @@ gh api "repos/1c7/chinese-independent-developer/issues?state=open&per_page=50" \
 - **对列表本身的意见 / 纠错 / 投诉** → **不是垃圾，不许关**。保持 open，按 1b 的格式登记进汇报。
 - **内容不清、信息缺漏** → 不是关闭理由，尽力提取收录；确属纯广告无任何可定位产品才关。
 - **确凿是老外** → 按第 4 步拒绝流程。
-- 明显是维护者自己的公告 / 征集 / 置顶帖 → 标注后跳过，不关闭。
+- 明显是维护者自己的公告 / 征集 / 置顶帖 → 不关闭，**把这个 issue 编号记进 automation memory 的「已知保留 issue」清单**，下次运行直接跳过，不要每次都重新判断一遍。
 
 检查二的提交者已在各自 issue 收到致谢，不需要在第 7 步再 @。
 
@@ -172,13 +175,18 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 5. 合并失败（冲突）：**由我们解决，绝不要求提交者 rebase**。优先改他分支再 `--merge`；推不了才本地 `git merge --no-ff` + `git push` + `gh pr close` 兜底（→ 判例：G）。冲突复杂到分不清该保留什么（不只是新增条目，而是改了已有结构）→ **不要瞎猜、不要删任何已有内容**，在 PR 里说明冲突原因、保持打开等人工介入。
 
 ```bash
+# 先取分支信息（冲突路径和推送都靠这两个值）
+HEAD_REF=$(gh api repos/1c7/chinese-independent-developer/pulls/<number> | jq -r '.head.ref')
+HEAD_REPO_URL=$(gh api repos/1c7/chinese-independent-developer/pulls/<number> | jq -r '.head.repo.clone_url')
+MAINTAINER_CAN_MODIFY=$(gh api repos/1c7/chinese-independent-developer/pulls/<number> | jq -r '.maintainer_can_modify')
+
 # maintainer_can_modify=true：改他的分支，让 PR 保持紫色 Merged
 git fetch origin master
 git fetch origin pull/<number>/head:pr-<number>
 git checkout pr-<number> && git merge origin/master --no-edit
 # 手工解决冲突：双方新增的条目都保留，冲突标记清干净
 git add <冲突文件> && git commit --no-edit
-git push "<head.repo.clone_url>" "pr-<number>:<head.ref>"
+git push "$HEAD_REPO_URL" "pr-<number>:$HEAD_REF"
 gh pr merge <number> --merge
 
 # 推不了才兜底（PR 会显示为 Closed，评论里不要提这件事）
@@ -323,7 +331,7 @@ python3 .github/scripts/migrate_archive.py --write
 
 只有脚本不可用时才手剪，且必须按日期定位插入、兼容「日/号」两种标题、不重排分册（→ 判例：H）。分册自己接近 500,000 字节时，把较新的一半拆成 `README-Earlier-Projects-2.md`，编号一旦定下就冻结。
 
-**提交**：`git pull` → 改文件 → `git add` → 一次 commit → `git push origin master`。不建分支、不开 PR。PR 来源不走这条。
+**提交**：`git pull` → 改文件 → `git add` → 一次 commit → `git push origin master`。**pull 必须在 commit 之前**（合并过 PR 后本地是落后的，先 commit 再 push 会被拒）。用 `git pull --rebase` 的，rebase 完必须 `grep` 确认本次新增的条目还在——冲突合并有可能把它弄丢。不建分支、不开 PR；PR 来源不走这条。
 
 ---
 
