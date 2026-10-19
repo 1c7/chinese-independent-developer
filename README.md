@@ -666,6 +666,7 @@
 * :white_check_mark: [MLUE](https://mlue.cn/)：面向多平台创作者的个人主页与工作台，把链接、作品和联系方式整理成一个可分享页面 - [更多介绍](https://mlue.cn/link-in-bio)
 
 #### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [AI Anime Generator](https://ai-anime-generator.io/)：AI 动漫绘图网站，输入文字或上传照片生成动漫角色、头像和 Chibi 图片，可选画风与画面比例，提供可直接使用的提示词；英文界面，需 Google 登录，新账号赠送 30 积分（7 天有效），生成按模型扣积分
 * :white_check_mark: [SummarizeVideoToText](https://summarizevideototext.com/zh)：视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的链接就能拿到带时间戳的章节摘要和完整字幕稿，每句都能点回原视频对应的那一秒，免注册试用 - [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) - [Obsidian 插件](https://summarizevideototext.com/zh/obsidian-plugin)
 
 #### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
