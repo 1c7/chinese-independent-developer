@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 19 号添加
 
+#### 星见 - [X](https://x.com/xingjian_ai)
+* :white_check_mark: [CatCatCode](https://catcatcode.com/)：面向新手的 GPT / Claude API 接入服务，国内直连不用翻墙，注册拿密钥后按教程改 Claude Code / Codex 等即可用；月费 99 / 199 / 299
+
 #### PoxenStudio(广州) - [Github](https://github.com/PoxenStudio)
 * :white_check_mark: [MyBooks](https://github.com/PoxenStudio/mybooks)：个人与家庭私有电子书管理服务，基于 Calibre + Vue，支持书单创建分享、WebDAV 同步、epub/azw3/pdf 互转、epub 转有声书与 Podcast 输出，可推送到 Kindle 等设备；Docker 部署 - [官网](https://www.mybooks.top)
 * :white_check_mark: [MyDict](https://github.com/PoxenStudio/mydict)：自托管词典服务，Docker 一键部署，可导入 MDict/StarDict/ECDICT 三种格式词典，提供带 Token 鉴权的查询与生词本 API、网页词典、深浅主题和用量统计
