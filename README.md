@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 19 号添加
 
+#### 董子航 - [Github](https://github.com/ZihangDong)
+* :white_check_mark: [ToolKnit](https://toolknit.com/)：PDF、图片、音视频和文本在线工具箱，支持中英文切换、无需注册；PDF 转图片、图片裁剪等功能在浏览器本地处理，免费使用有每日共享次数和文件大小限制
+
 #### SatoMini - [Github](https://github.com/SatoMini)
 * :white_check_mark: [WarpNav 曲速导航](https://warpnav.com)：中文 AI 工具与开源项目导航，按视频、图像、写作、编程等分类整理官方入口，另有 GitHub 开源项目解读、软件下载使用指南和 FFmpeg、API、Token 等技术科普，注明版本和适用条件，免费浏览、另有会员增值服务
 
