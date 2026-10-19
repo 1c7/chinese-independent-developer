@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 19 号添加
 
+#### kevinxding - [Github](https://github.com/kevinxding), [推特](https://x.com/whispek_DingXu)
+* :white_check_mark: [Whispek](https://whispek.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新
+
+
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
 
