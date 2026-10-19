@@ -19,7 +19,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 10 月 19 号添加
 
 #### virskor(德宏) - [Github](https://github.com/virskor)
-* :white_check_mark: [Mackit](https://www.mingcui.cn/mackit/)：macOS 开发者缓存清理工具，扫描 Xcode、Node、Flutter、Go、Rust、Python 等工具留下的可再生缓存，也能指定代码目录找出 node_modules、build 等构建产物；50+ 条规则并发扫描，每项标出体积、路径和风险等级，默认不勾选、清理移入废纸篓可撤销，完全本地运行 — 需要 macOS 14 及以上
+* :clock8: [Mackit](https://www.mingcui.cn/mackit/)：代码写久了，依赖缓存占满了磁盘？为开发者打造的依赖缓存清理工具，扫描 Xcode、Node、Flutter、Go、Rust、Python 等工具留下的可再生缓存，逐项标示风险，让你安全地把磁盘空间拿回来；每一项都标好风险，删什么由你决定
 
 #### 星见 - [X](https://x.com/xingjian_ai)
 * :white_check_mark: [CatCatCode](https://catcatcode.com/)：面向新手的 GPT / Claude API 接入服务，国内直连不用翻墙，注册拿密钥后按教程改 Claude Code / Codex 等即可用；月费 99 / 199 / 299
