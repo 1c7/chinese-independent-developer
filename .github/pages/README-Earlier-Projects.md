@@ -8,6 +8,34 @@
 
 ---
 
+### 2024 年 12 月 8 号添加
+#### chrox - [Github](https://github.com/chrox/readest)
+* :white_check_mark: [Readest](https://readest.com?utm_source=indiecn&utm_medium=referral&utm_campaign=post)：阅读软件（极简设计、开源、跨平台） - [更多介绍](https://github.com/chrox/readest)
+
+#### underwoodxie - [Github](https://github.com/underwoodxie)
+* :x: [一键将 Youtube 视频转成 SEO 友好的文章](https://video-to-article.com/)：自己在做网站时发现有些 Youtube 视频的质量很好，想把内容变成文字放在自己的网站上，每次都需要转好几个工具，因此做了一个解决自己问题的工具，如果大家有需要可以使用。
+
+### 2024 年 12 月 7 号添加
+#### Ovelv（西安）- [Github](https://github.com/ovelv)
+* :white_check_mark: [OnionAI](https://onionai.so)：AI 聚合搜索引擎，轻松切换不同的 AI 搜索引擎
+
+### 2024 年 12 月 6 号添加
+#### canghaicheng(苏州) 
+* :x: [桌面世界](https://www.zhuomianshijie.com/)：3D 聊天机器人桌面应用
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :x: [Genie 2](https://genie2.co/)：大规模基础世界模型，能将单张图像转换为完全交互式的 3D 环境
+
+#### Fooying - [Github](https://github.com/fooying), [博客](fooying.com/?ref=chinese-independent-developer)
+* :x: [SECSOSO 安全搜搜](https://secsoso.com/)：网络安全垂直领域AI搜索，安全搜搜，搜索安全 - [更多介绍](https://www.producthunt.com/products/secsoso)
+
+### 2024 年 11 月 24 号添加
+#### 玩具工匠 - [Github](https://github.com/HiToysMaker)
+* :white_check_mark: [字玩](https://www.font-player.com)：字体设计工具 - [源代码](https://github.com/HiToysMaker/fontplayer)
+
+#### zebrapixel - [Twitter](https://x.com/xdkc2000)
+* :x: [像素画家](https://apps.apple.com/app/pixel-one/id6504689184)：简单易用的像素画编辑器 - [更多介绍](https://www.zebrapixel.com)
+
 ### 2024 年 11 月 22 号添加
 #### jianpingliu - [Github](https://github.com/jianpingliu)
 * :white_check_mark: [ExtensionsFox](https://extensionsfox.store)：几个 Instagram 自动化运营小工具 - [更多介绍](https://github.com/asterism-software/extensionsfox.store)
