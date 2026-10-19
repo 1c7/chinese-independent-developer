@@ -1,0 +1,146 @@
+# 判例库（历史事故与先例）
+
+> 这份文件是 `SKILL.md` 的配套材料，**不参与每次运行的流程**，只在遇到需要判断的边界情况时按需查阅。
+> 每个小节都被 `SKILL.md` 里的 `→ 判例：xxx` 引用。
+>
+> 收录原则：只收「已经踩过的坑」和「维护者已经定过调的判断」。写进来是为了不再犯，不是为了解释规则。
+
+---
+
+## A. 身份判断
+
+### A1. 模糊身份，已经定调为「收录」
+
+- **英文站 + 自然中文留言，profile 无中文痕迹** → 收录。MailMergeOnline / Linky-AIinlink：站点全英文，评论正文是通顺自然的中文。
+- **profile 全空或全 fork、PR 正文英文，但 issue 正文自然中文** → 收录。SandBase CLI / denial123789：issue 中文自然，sandbaseai 团队仓库里有 liyb/163 邮箱。
+- **`name` 字段是外文名、bio/location 全空，但仓库描述全是中文** → 收录。Tancky AI / tancky777：`name: "Ramiro Livi"`，但仓库是 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」。
+  **教训：`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22）。
+- **现居海外 ≠ 老外**（2026-10-05）。lianyixin：`name: "Ethan Lian"`、`location: New York`、`company: "MSDS @ Columbia University | BE @ SJTU"` —— Lian 是中国姓、SJTU 是上海交大、评论是通顺中文 → 收录主版面。继续看：姓氏拼音、company 里的中国高校（SJTU / Tsinghua / Peking / ZJU）、评论语言。
+- **反向同样成立**：`location` 写中国城市也不能单独当收录依据，两边合起来看才下结论。
+
+### A2. 作者更新自己的条目
+
+- MyServers（lovercode / codelover）更新官网到 myservers.plus → 合并，属作者维护自己的产品，不算「篡改他人条目」。
+- **这类请求也会出现在评论里**（#1511，2026-10-12）：zeroXu1 先在 issue 里提交新域名 hosthtmlfile.com，被判「同一产品换域名 = 重复」并回帖说明；作者紧接着留言「辛苦换一下域名」→ 应当直接改 README 里 HTMLShare 的 URL。
+  判定作者身份的快捷依据：GitHub `blog` 字段就是旧域名、新域名页面 publisher 仍署名旧品牌并指向旧域名。
+  **教训：判完「重复提交」不要就此收尾，作者常会马上要求把旧条目换到新域名。**
+
+---
+
+## B. 拒绝类别
+
+### B1. 大厂 / 上市公司
+
+Issue #1394（2026-09-17）「Seko，一款 AI 短剧平台」/ wu1064442747：`seko.cgref.cn/s/4onyjv2njx` 落到 `seko.sensetime.com`，是商汤科技的产品，同时带 cakegrowth 渠道参数；该账号 #1332 也在推自家 API 中转站 → 拒绝并关闭。
+
+### B2. 刷量平台的自曝信号
+
+Issue #1402（2026-09-20）「GithubStarMate」/ adevelle：页面销售推广积分（`$5/20 积分`，Star/Watch/Fork 各扣 1 分；会员 `$24.90/月 ≈ 300 Star`；`90 天 Star 保障，掉赞返积分`）。两个实锤：① 站内每个仓库的 Star 数与 Watch 数完全相等（43/43、14/14、55/55）；② 抽查 GitHub API，标 43 Watch 实际 2 个、标 55 Watch 实际 0 个。
+**教训：页面自己写「互动带有互助激励，不应把这些互动数据等同于独立用户评价」，就是自曝，看到直接判刷量。**
+
+### B3. 误判纠正：书径 EbookNest（2026-10-15）
+
+曾被判「侵权资源分发站」拒绝（书籍页列出出版社 Human Kinetics、ISBN 9781492551263、PDF 569 页、网盘分发，`/help` `/about` 无版权表述），**维护者当天复核推翻：正常收录**。
+- 本仓库的收录标准是「中国独立开发者的项目」，不是「内容完全无瑕疵的站点」。
+- **教训：判断超出明文拒绝类别（垃圾广告 / 老外 / 大厂 / 返佣 / 刷量）时，不要自行扩张标准。** 看着有点问题但不属于既有类别的，默认收录；要拒就先问维护者，或把事实摆出来让维护者判断。
+- 仍然有效：提交者自称「博客」实际是含盗版影视资源的**导航站**，拒绝理由是**伪装**（类型与自我描述不符），这条继续成立。「伪装」和「内容有瑕疵」是两回事。
+
+### B4. 返佣判据的边界
+
+- **站内有 affiliate 但落地 URL 干净、内容无付费墙** → 不收进拒绝，只算变现方式。精选副业 jingxuan-fuye.pages.dev（2026-09-22）：页面有生财有术邀请入口，但 100 篇案例正文完整可读 → 收录。核查动作：抽一个内容内页看正文长度、有没有「正式加入后可查看完整内容」这类付费墙。
+- **`ref=` 不等于返佣**（2026-09-25）。Orbi（PR #1416，`orbi.build/zh/?ref=1c7-2609`）：提交者 xqliu 在 `orbi-build/orbi` 有 1050 次提交（贡献者第一）、全站无 affiliate 字样 → 只是作者自己的来源追踪，URL 原样保留。归档里早有 `jsonman.bakchoi.com/?ref=1c7` 同类先例。
+  核作者身份：`gh api repos/<owner>/<repo>/contributors | jq -r '.[] | "\(.login) :: \(.contributions)"'`。
+- **`affiliate` 有三种上下文**：①「not affiliated with X, Inc.」商标免责；②「is not affiliated with or endorsed by Google」式 FAQ 撇清（flowaivideo.im）；③ 真的联盟分销计划。看到关键字先 `grep -oiE '.{100}affiliate.{150}'` 看主语是「无关」还是「有联盟计划」。teslawrapgenerator.com 全站 affiliated 全是特斯拉免责声明 → 收录。
+- **推广服务不等于刷量**：GEO / AI 可见度优化 / 真人测试 / 软文发布，只要不是按 GitHub Star/Watch/Fork 计价、没有掉赞兜底，就按普通产品收。NiubiGeo（2026-09-22，¥99/份诊断报告 + 真人测试按次计费）三条判据全不命中 → 收录。
+
+---
+
+## C. 网络核查：打不开 ≠ 有问题
+
+`SKILL.md` 里规定了「curl 失败必须换 WebFetch 复核」，下面是每种失败的真实形态：
+
+- **`HTTP:000` + `SSL_ERROR_SYSCALL`**：本机走代理，出口 IP 被目标站或 CDN 重置 TLS。`--http1.1` / `--tlsv1.2` / 加 `www.` 都救不回来，不代表站点挂了。ins-transcript.com 三次 curl 全 000，WebFetch 一次拿到完整正文（真实 freemium 产品）→ 收录。
+- **503 限流页**：读错误页正文。写着「今日访问量已达上限，北京时间 08:00 自动恢复」= 站点在跑，正常收录。yiminshuju.com 双通道 503，正文有站长自己写的限额说明 → 收录。没有站长说明的空 503 才需要怀疑。
+- **403 Cloudflare 拦截**：`403 Attention Required!` /「Sorry, you have been blocked」是 WAF 按来源 IP 拦访问者，主语是「你被拦」不是「站点报错」。tanzhang-market-kit.hypebeast2k17.chatgpt.site 双通道 403 → 收录。
+- **双通道都失败时查根域**：产品挂在子域（`games.example.xyz`），去访问根域常能补齐证据链。games.qizhen.xyz（阮奇桢「怀旧游戏合集」）双通道全失败，但 qizhen.xyz 返回 200，`/games.html` 明确写到该子域并链接回 GitHub 仓库 → 判定真实存在，正常收录。
+  判据：**根域可达 + 根域明确指向该子域产品 + 与提交描述一致**，三样都拿不到才算「无法核实」。
+- **托管面域名不是大厂**：`*.pages.dev`（Cloudflare）、`*.github.io`、`*.vercel.app`、`*.netlify.app`、`*.chatgpt.site` 都只是托管，性质和 GitHub Pages 一样，不构成「大厂产品」。
+- **提交者描述与站点不符时以站点为准**（2026-10-05，weidacn 四个 issue 同时投稿）：#1470 写「上传一张照片即可生成」，站点是 from Two Photos；#1467 写「上传单张图片生成几秒视频」，站点实际是 Text & Image 双模 + 同步音效。凡描述里出现数量词、输入模态、是否带音频/水印、计费单位，都用 meta description 复核。
+
+---
+
+## D. 版面判断
+
+- **自托管 Docker 部署被判主版面**（#1206 Site Guard）→ 错，应程序员版面。
+- **摸鱼解压玩具是游戏却提交到主版面**（#1208）→ 错，应游戏版面。
+- **API 中转站 / 套壳服务**归程序员版面：MakerEnd、GPTZZZ、TeamoRouter、Sub2API、AI-ROUTER、CoderPlan、AI SaaS Go、apimodels.app。
+- **桌面 App 看服务对象**（2026-10-19）：Codex Quota Dot、Poke Poke、CCHub、DSH Studio、WorkGround2、状态栏歌词都在程序员版面。反例 MastraWork（multi-agent 工程工作台）曾判主版面，属少数派，不要据此把同类工具往主版面放。
+- **PR 写错版面照样合并**，合并后单独发修正 commit 搬到正确版面；`maintainer_can_modify` 为 true 也可以直接改他的分支。改完如果致谢评论已发出，记得 PATCH 修正版面名。
+
+---
+
+## E. 格式与状态图标
+
+- **状态图标事故（2026-10-19）**：Mackit（virskor）作者原文用 🕗 开发中，被自动化改成 ✅ 已上线，并按官网资料重写了简介。维护者指出后返工。
+  结论：状态是作者对自家产品的陈述，我们只做标点空格和重复链接的清理，不改状态、不改口径。
+- **缺分隔符事故（2026-09-02 StitchCraft）**：提交者写 `…描述[更多介绍](url)`，漏了「 - 」，被维护者纠正。标准格式是 `…描述 - [更多介绍](url)`。
+- **语序误改事故（2026-08-27 PR #1314 Vault Keeper）**：提交者写在句首的「Obsidian vault 自动运维插件：…」被机械套用「形态后置」规则挪到句尾，被维护者要求回退。提交者已定稿的句子，语序一律不动。
+
+---
+
+## F. 去重与二次投稿
+
+- **重复提交已收录产品**：shanleiguang 2026-09-22 重复提交 vPlayer HiFi（2026-08-08 已收录）→ 静默跳过，不发致谢（说「已添加」会误导）。
+- **用户名差集遮掉二次投稿（2026-10-10）**：huangy7 早先的 Lokii 已被致谢，用户名进了 thanked 集合；他在 10-09T14:51Z 又发了 outline-skill 新提交，`comm` 直接判为已处理，被漏了整整一轮。
+  教训：差集只是第一道过滤，必须再逐条核对「这条评论之后有没有 @ 到他的回复」。
+- **同簇套壳站点**：Jev 系列（jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net）、AI 潮流短视频系列（gasstationdance.pro、raindance-ai.pro）。收录，但代拟描述必须写它自己独有的功能点（如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目。
+
+---
+
+## G. PR 合并事故
+
+- **网页端编辑静默截断（2026-09-07 PR #1356）**：贡献者在网页端加 1 行链接，编辑器把文件尾部 193 行（2022 年 1~5 月全部条目）一起删了。处理：把恢复 commit（85440f1）推到贡献者分支再合并，master 净增 1 行。这个是范本。
+  结论：PR 标题只说加了 X，不等于 diff 只有加 X，必须 `gh pr diff` 逐行看。
+- **批量誊抄 + 关闭（2026-07-30 #1220/#1221/#1226/#1227）**：四个合规 PR 因为都要插同一天区块，被「本地誊抄 + 批量 gh pr close」处理，内容进了 README 但四个 PR 全变红色 Closed。正确做法是逐个串行处理，每处理完立即 `git fetch origin master`。
+- **`Base branch was modified` 不是真失败（2026-09-22 PR #1408）**：mergeable 是异步算的，`sleep 5` 后重查 `mergeable/mergeable_state`，看到 `true`/`clean` 再重试一次就成功。绝不能因此退回「本地合并 + 关闭 PR」。
+
+---
+
+## H. 容量与分册
+
+- **渲染截断实测（2026-09-09）**：README.md 527,086 字节时，仓库首页渲染到 2022 年 7 月 14 号区块中间就停了，没有任何警告。GitHub 支持团队口径是 blob 显示限制约 500 KB，社区实测约 512 KB（discussions/23920）。
+- **只剪刚够的量会反复触发**：前几次剪到 489,534 / 489,637 / 486,xxx，下次收 1 条又超线。规则改为一次剪到 487,500 左右。
+- **分册标题有两种写法**：早期 `### 2024年4月24日添加`（日、无空格），后期 `### 2024 年 4 月 24 号添加`（号）。只匹配「号添加」会把「日添加」的区块吞进相邻区块，正则必须兼容两种。
+- **分册里有同日期重复区块**（如 `2024年1月12号添加` 出现两次），各算各的，不要合并。
+- **不能一律「插到分册顶部」**（2026-10-16）：README 末尾残留过 `2024 年 9 月 20 号`，而分册顶部是 `9 月 28 号`，直接插顶会让分册变成「先升后降」。要按日期定位插入，并顺手修正历史错位。
+- **措辞**：分册叫「更早的项目」，不用「存档 / Archive / 归档」；只用一句话交代客观原因（主列表过长、超出 GitHub 渲染上限），不写「不代表过时 / 不再维护」这类辩解。
+- 搬迁脚本：`.github/scripts/migrate_archive.py`（默认预演，`--write` 落盘，自动做行级守恒校验）。
+
+---
+
+## I. 致谢评论与签名残留
+
+- **155 条漏清（2026-06-23 ~ 07-28）**：#160 里 70 条、各 issue/PR 上 85 条致谢评论带着「Generated by Claude Code」，横跨 `1c7` 和 `claude[bot]` 两种身份，而每次运行都自认为验证通过。这就是为什么收尾必须无条件重扫。
+- **只扫 #160 会漏一大半**：检查二、检查三的评论发在各自的 issue / PR 上。
+- **`grep -c` 假阳性（2026-09-17）**：jq 输出空数组会写成一行 `[]`，`wc -l` 报「检出 1 条」。命令末尾必须 `| .[]`。
+- **只修自己发的**：贡献者用 `>` 引用我们带签名的原文，那是他的评论，一个字都不许改（例：#1155 的 5009781050）。
+- **不许凭脚本自报「成功 N 条」收工**（历史事故：循环里 jq 静默失败，计数却报「成功 70 失败 0」）：必须重新拉列表、再 grep 一次确认残留为 0。
+- **`Post/Get ... EOF` 是网络抖动**：循环已带 3 次重试，少量残留单独重跑那几个 ID，不要判整批失败。
+- **不要用 `echo "$json" | jq` 传 JSON**：`echo` 会把 `\n` 展开，jq 全线解析失败。一律用文件传递。
+
+---
+
+## J. GitHub 接口坑
+
+- **单 issue 评论接口不支持排序**：`/issues/{n}/comments` 的 `sort`/`direction` 无效，`per_page>100` 会被截断且返回**最早**的 100 条（2026-10-19 实测：传 `per_page=200&sort=created&direction=desc` 拿到 2020 年 6 月的评论）。要取最新，先读 issue 的 `comments` 总数算末页，倒着取。
+- **仓库级评论接口支持排序**：`/issues/comments?sort=created&direction=desc` 正常可用，收尾扫描用它。
+- **`issues?state=open` 有缓存延迟**：刚关闭的 issue 仍会出现在列表里（2026-10-05 #1467）。不要重跑关闭命令，单独查 `/issues/<n>` 的 `state` 确认。
+- **`gh` 可能不在 PATH**：macOS 先 `export PATH="/opt/homebrew/bin:$PATH"`。
+
+---
+
+## K. 意见与建议上线（2026-10-19）
+
+维护者明确：他很少回看 #160 原文，评论区的纠错、质疑、投诉、建议如果不上报，就等于消失。所以设了「检查一之二」强制上报，且**只登记、不处置**——不改条目、不回复、不关闭。
+
+同一条规则覆盖检查二里的 issue：非提交类的意见保持 open，进汇报的「需要你处理的意见/建议」一节。
