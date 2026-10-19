@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 19 号添加
 
+#### Simon - [Github](https://github.com/simonwong), [博客](https://simonwong.cn)
+* :white_check_mark: [Speaker](https://speaker.moonunder.app)：macOS 原生语音输入工具，BYOK，语音识别可选豆包、OpenAI、千问，macOS 26 及以上可用 Apple 离线识别，不需要 Key；支持多种文字整理模式，也可以自定义；无账号无服务端，会话记录和个人词库只存在本地；免费开源 - [GitHub 仓库](https://github.com/simonwong/speaker)
+
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
 
