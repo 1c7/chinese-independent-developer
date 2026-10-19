@@ -29,6 +29,9 @@
 #### Simon - [Github](https://github.com/simonwong), [博客](https://simonwong.cn)
 * :white_check_mark: [Speaker](https://speaker.moonunder.app)：macOS 原生语音输入工具，BYOK，语音识别可选豆包、OpenAI、千问，macOS 26 及以上可用 Apple 离线识别，不需要 Key；支持多种文字整理模式，也可以自定义；无账号无服务端，会话记录和个人词库只存在本地；免费开源 - [GitHub 仓库](https://github.com/simonwong/speaker)
 
+#### kevinxding - [Github](https://github.com/kevinxding), [推特](https://x.com/whispek_DingXu)
+* :white_check_mark: [Whispek](https://whispek.com)：AI 语音输入桌面应用，按住一个键说话，松开后整理好的文字直接出现在几乎任何应用的光标处，能去掉「嗯」「啊」和重复，还能语音翻译；支持 Windows、macOS、Linux（.deb 和 AppImage），有免费额度，每 7 天刷新
+
 #### 董子航 - [Github](https://github.com/ZihangDong)
 * :white_check_mark: [ToolKnit](https://toolknit.com/)：免费、免注册的 PDF、图片、音视频和文本在线工具箱，支持中英文切换；PDF 转图片、图片裁剪等功能在浏览器本地完成，部分工具设有使用额度或文件大小上限
 
@@ -669,6 +672,7 @@
 * :white_check_mark: [MLUE](https://mlue.cn/)：面向多平台创作者的个人主页与工作台，把链接、作品和联系方式整理成一个可分享页面 - [更多介绍](https://mlue.cn/link-in-bio)
 
 #### 犀利豆 - [Github](https://github.com/diaozxin007)
+* :white_check_mark: [AI Anime Generator](https://ai-anime-generator.io/)：AI 动漫绘图网站，输入文字或上传照片生成动漫角色、头像和 Chibi 图片，可选画风与画面比例，提供可直接使用的提示词；英文界面，需 Google 登录，新账号赠送 30 积分（7 天有效），生成按模型扣积分
 * :white_check_mark: [SummarizeVideoToText](https://summarizevideototext.com/zh)：视频转文字工具，粘贴 YouTube、TikTok、Instagram、X 的链接就能拿到带时间戳的章节摘要和完整字幕稿，每句都能点回原视频对应的那一秒，免注册试用 - [Chrome 扩展](https://summarizevideototext.com/zh/chrome-extension) - [Obsidian 插件](https://summarizevideototext.com/zh/obsidian-plugin)
 
 #### FlickerMi - [Github](https://github.com/FlickerMi), [博客](https://notemi.cn)
