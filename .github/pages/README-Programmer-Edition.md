@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 20 号添加
+
+#### Tony Li - [Github](https://github.com/astonysh)
+* :white_check_mark: [CloudMac](https://cloudmac.dev)：海外云 Mac 服务商对比索引，收录 30 家、12 个国家和地区的独占 Mac mini、macOS 虚拟机与 Mac 托管，可按机房、远程方式（SSH/VNC/root）、IP 类型和用途（远程开发、iOS 构建、AI Agent 常驻、按天租）筛选，价格取自官网并标注核实日期；免费使用，另有中文服务专区和免费 JSON API
+
+#### HyMaple(多伦多) - [Github](https://github.com/Hanyan1822)
+* :white_check_mark: [CloudWorth 云划算](https://www.getcloudworth.com/)：云服务器/VPS 超卖检测工具，10 秒检测 CPU Steal Time、磁盘虚标与老旧硬件溢价，导出审计报告，支持 11 种语言
+
 ### 2026 年 10 月 19 号添加
 
 #### virskor(德宏) - [Github](https://github.com/virskor)

@@ -24,10 +24,18 @@
 
 ## 3. 项目列表
 
-### 2026 年 10 月 19 号添加
+### 2026 年 10 月 20 号添加
+
+#### ayqy - [GitHub](https://github.com/ayqy)
+* :white_check_mark: [黯羽轻扬](https://blog.ayqy.net/)：中文 AI 与软件工程内容网站，提供工程实践文章、AI 知识讲解及课程目录；内容在浏览器内阅读，免费文章可直接看，付费专栏在站内单独标价
+
+#### DuskXi - [Github](https://github.com/DuskXi)
+* :white_check_mark: [SpaceKnife](https://spaceknife.kaltsit.dev/zh/)：硬盘空间分析工具，用实时树图一眼看出磁盘被什么占满，支持 NTFS 快速扫描、快照对比和限制扫描时的磁盘负载，免费开源，支持 Windows 和 Linux - [GitHub](https://github.com/DuskXi/SpaceKnife)
 
 #### ambrosex - [Github](https://github.com/AmbroseX), [推特](https://x.com/ambrosex)
 * :white_check_mark: [AI观潮](https://aiguanchao.com/)：AI 新闻精选站，每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和把多家第三方评测换算到同一尺度的大模型排行榜，网页和 RSS 免费
+
+### 2026 年 10 月 19 号添加
 
 #### xinyanghu7 - [Github](https://github.com/xinyanghu7)
 * :white_check_mark: [苏哲AI](https://suzhe.ai)：ChatGPT 会员开通站，支付宝付款，买卡密后网页自助激活，通常 1–3 分钟到账，订阅类质保 1 个月；另有 Gemini、Super Duolingo 等 AI 会员
