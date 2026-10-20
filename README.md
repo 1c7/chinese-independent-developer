@@ -38,6 +38,9 @@
 #### David-XIa001(武汉) - [Github](https://github.com/David-XIa001)
 * :white_check_mark: [未寄 · Unsent](https://env-00jy5xxt7kdo-static.normal.cloudstatic.cn)：基于地理坐标的时空信箱与情绪树洞，把未曾寄出的话留在真实物理位置上；支持五维情绪呼吸微光、时空信封倒计时封存、纸飞机善意回音与自带经纬度印章的拍立得海报导出，完全开源免费 - [源码](https://github.com/David-XIa001/unsent)
 
+#### 知海图书馆团队
+* :white_check_mark: [知海图书馆](https://www.zhihailib.com)：干净的中文电子书站，可按书名、作者、出版社、ISBN 精确找书，能在线读，没有弹窗广告
+
 #### Nanshanelectrician - [Github](https://github.com/Nanshanelectrician)
 * :white_check_mark: [ExamParser](https://examparser.com)：把 Word、PDF 或 Google 文档一键转成 Canvas 可直接导入的题库，免登录、文件用完即删，老师再也不用手动一道道录题
 
