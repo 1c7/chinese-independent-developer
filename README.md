@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 20 号添加
 
+#### blowxian - [Github](https://github.com/blowxian)
+* :white_check_mark: [AI Doctor Scan](https://aidoctorscan.com/)：可见症状的照片分诊工具，上传照片并可选填写症状，获得 AI 生成的就医紧急程度提示和简短说明；首次结果免费且无需登录，可追加同一区域的照片复查，支持英语等 7 种语言（暂无中文）；仅供健康教育参考，不构成诊断或替代就医
+
 #### DuskXi - [Github](https://github.com/DuskXi)
 * :white_check_mark: [SpaceKnife](https://spaceknife.kaltsit.dev/zh/)：硬盘空间分析工具，用实时树图一眼看出磁盘被什么占满，支持 NTFS 快速扫描、快照对比和限制扫描时的磁盘负载，免费开源，支持 Windows 和 Linux - [GitHub](https://github.com/DuskXi/SpaceKnife)
 
