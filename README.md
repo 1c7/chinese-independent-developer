@@ -1056,8 +1056,8 @@
 * :white_check_mark: [CreateForge AI](https://createforgeai.com/)：AI 图像与视频生成工作台，接入 17 个模型，支持 Seedance 2.5、Veo 3.1 等模型的文生图、图生图、文生视频和图生视频，提供积分报价、任务中心与私有媒体库
 
 #### EthanYoQ - [Github](https://github.com/EthanYoQ)
-* :white_check_mark: [AI 小说作家](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面应用，把角色、世界观、大纲、写作、审校与修订串成可控流程，写长篇不崩，包含续写仿写其他小说的功能；另有 DeepSeek Harness 插件版本，可用本地模型创作成人向（NSFW）小说
-* :white_check_mark: [Invoice Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：电子发票整理与报销准备桌面应用，从 QQ 或 163 邮箱批量下载发票，也可直接把发票二维码下载成发票，OCR 识别、分类归档并生成报销 Excel 汇总；另有 DeepSeek Harness 插件版本
+* :white_check_mark: [书童 Pagekin（原 AI 小说作家）](https://github.com/EthanYoQ/AI-Novel-Writer)：开源免费的 AI 小说写作桌面软件，将设定、章节蓝图、正文、审稿和定稿放在同一项目，支持拆解仿写、续写和改写，内容由作者确认；提供 Windows/macOS 安装包，可自配 Ollama 或云端模型，另有独立的早期 DeepSeek Harness 插件预览
+* :white_check_mark: [InvoiceFlowAI 发票管家](https://github.com/EthanYoQ/Invoice-Downloader)：开源发票整理与报销准备软件，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并导出 Excel，不确定结果留给人工复核；提供 Windows/macOS 桌面版与独立 DeepSeek Harness 插件
 * :white_check_mark: [轻语输入 / Whisper Input](https://github.com/EthanYoQ/whisper-input)：中文 AI 语音输入工具，按全局快捷键即可将口述整理为去口头语、正式汇报或邮件格式，支持自动转成英文与自定模型
 
 #### Darren(深圳) - [Github](https://github.com/darren562)
@@ -1428,10 +1428,10 @@
 * :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
-* :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：电子发票整理与报销准备工具，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DeepSeek Harness 插件
+* :white_check_mark: [InvoiceFlowAI 发票管家](https://github.com/EthanYoQ/Invoice-Downloader)：开源发票整理与报销准备软件，从 QQ/163 邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并导出 Excel，不确定结果留给人工复核；提供 Windows/macOS 桌面版与独立 DeepSeek Harness 插件
 * :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：中文 AI 语音输入工具，按快捷键说话，在 Windows 任意应用把口述整理成去口头语、可分段和结构化的文字并插入当前光标；支持用户词典、中文转英文和自选云端 ASR/LLM
 * :white_check_mark: [agent-xiaohongshu-workbench](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书图文内容工作台，把账号定位、热点研究、选题、原创文稿、品牌配图、完整预览和人工确认组织成一条可控流程；由本地 Codex Agent 驱动，提供 Windows 与 Apple Silicon macOS 安装包
-* :white_check_mark: [AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：AI 小说创作桌面软件，把灵感、角色、世界观、大纲、章节蓝图、写作、审稿和修稿组织成完整流程；提供 Windows/macOS 安装包，支持 Ollama 与 DeepSeek Harness 插件
+* :white_check_mark: [书童 Pagekin（原 AI 小说作家）](https://github.com/EthanYoQ/AI-Novel-Writer)：开源免费的 AI 小说写作桌面软件，将设定、章节蓝图、正文、审稿和定稿放在同一项目，支持拆解仿写、续写和改写，内容由作者确认；提供 Windows/macOS 安装包，可自配 Ollama 或云端模型，另有独立的早期 DeepSeek Harness 插件预览
 
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
