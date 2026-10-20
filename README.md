@@ -26,9 +26,6 @@
 
 ### 2026 年 10 月 20 号添加
 
-#### ayqy - [GitHub](https://github.com/ayqy)
-* :white_check_mark: [黯羽轻扬](https://blog.ayqy.net/)：中文 AI 与软件工程内容网站，提供工程实践文章、AI 知识讲解及课程目录；内容在浏览器内阅读，免费文章可直接看，付费专栏在站内单独标价
-
 #### DuskXi - [Github](https://github.com/DuskXi)
 * :white_check_mark: [SpaceKnife](https://spaceknife.kaltsit.dev/zh/)：硬盘空间分析工具，用实时树图一眼看出磁盘被什么占满，支持 NTFS 快速扫描、快照对比和限制扫描时的磁盘负载，免费开源，支持 Windows 和 Linux - [GitHub](https://github.com/DuskXi/SpaceKnife)
 
