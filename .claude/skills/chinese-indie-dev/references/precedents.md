@@ -74,6 +74,7 @@ Issue #1402（2026-09-20）「GithubStarMate」/ adevelle：页面销售推广�
 - **自托管 Docker 部署被判主版面**（#1206 Site Guard）→ 错，应程序员版面。
 - **摸鱼解压玩具是游戏却提交到主版面**（#1208）→ 错，应游戏版面。
 - **API 中转站 / 套壳服务**归程序员版面：MakerEnd、GPTZZZ、TeamoRouter、Sub2API、AI-ROUTER、CoderPlan、AI SaaS Go、apimodels.app。
+- **卖「会员账号 / 代充卡密」的归主版面，和 API 中转站不是一类**（2026-10-19 郑先生质疑「苏哲AI 为何在主版面」时定的口径）：判据是**买完之后怎么用**——拿到的是能直接登官网/App 的会员 → 主版面（kaigpt.ai、苏哲AI、GPTGeminiGrok.AI、卡网大全、AI 比价）；拿到的是要填进 `base_url`、改 Claude Code / Codex 配置的密钥 → 程序员版面（CatCatCode、MakerEnd、GPTZZZ）。别因为「都是买 AI」就归一类。
 - **桌面 App 看服务对象**（2026-10-19）：Codex Quota Dot、Poke Poke、CCHub、DSH Studio、WorkGround2、状态栏歌词都在程序员版面。反例 MastraWork（multi-agent 工程工作台）曾判主版面，属少数派，不要据此把同类工具往主版面放。
 - **PR 写错版面照样合并**，合并后单独发修正 commit 搬到正确版面；`maintainer_can_modify` 为 true 也可以直接改他的分支。改完如果致谢评论已发出，记得 PATCH 修正版面名。
 
