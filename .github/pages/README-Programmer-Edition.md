@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 20 号添加
 
+#### AniChikage - [Github](https://github.com/AniChikage)
+* :white_check_mark: [Open Resume](https://github.com/AniChikage/open-resume)：可自部署的开源简历编辑器，156 款模板全部开放，免费无水印导出 PDF、PNG 和 JSON 备份，支持中文等七种界面语言，数据保存在自己的 SQLite；需 Docker 或 Node.js 24+ 部署，MIT 协议
+
 #### Tony Li - [Github](https://github.com/astonysh)
 * :white_check_mark: [CloudMac](https://cloudmac.dev)：海外云 Mac 服务商对比索引，收录 30 家、12 个国家和地区的独占 Mac mini、macOS 虚拟机与 Mac 托管，可按机房、远程方式（SSH/VNC/root）、IP 类型和用途（远程开发、iOS 构建、AI Agent 常驻、按天租）筛选，价格取自官网并标注核实日期；免费使用，另有中文服务专区和免费 JSON API
 

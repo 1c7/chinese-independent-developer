@@ -26,6 +26,15 @@
 
 ### 2026 年 10 月 20 号添加
 
+#### Kevin(China) - [Github](https://github.com/kevin0168)
+* :white_check_mark: [DTCStack](https://www.dtcstackhq.com/)：面向 Shopify/DTC 卖家的免费电商工具库，17 个工具覆盖订单利润、广告 ROAS、支付费率、到岸成本、退货、批发定价和商品 SEO，浏览器本地计算、免登录，中英双语 - [更多介绍](https://www.dtcstackhq.com/tools/)
+
+#### David-XIa001(武汉) - [Github](https://github.com/David-XIa001)
+* :white_check_mark: [未寄 · Unsent](https://env-00jy5xxt7kdo-static.normal.cloudstatic.cn)：基于地理坐标的时空信箱与情绪树洞，把未曾寄出的话留在真实物理位置上；支持五维情绪呼吸微光、时空信封倒计时封存、纸飞机善意回音与自带经纬度印章的拍立得海报导出，完全开源免费 - [源码](https://github.com/David-XIa001/unsent)
+
+#### Nanshanelectrician - [Github](https://github.com/Nanshanelectrician)
+* :white_check_mark: [ExamParser](https://examparser.com)：把 Word、PDF 或 Google 文档一键转成 Canvas 可直接导入的题库，免登录、文件用完即删，老师再也不用手动一道道录题
+
 #### blowxian - [Github](https://github.com/blowxian)
 * :white_check_mark: [AI Doctor Scan](https://aidoctorscan.com/)：可见症状的照片分诊工具，上传照片并可选填写症状，获得 AI 生成的就医紧急程度提示和简短说明；首次结果免费且无需登录，可追加同一区域的照片复查，支持英语等 7 种语言（暂无中文）；仅供健康教育参考，不构成诊断或替代就医
 
