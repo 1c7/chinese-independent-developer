@@ -35,6 +35,9 @@
 #### ambrosex - [Github](https://github.com/AmbroseX), [推特](https://x.com/ambrosex)
 * :white_check_mark: [AI观潮](https://aiguanchao.com/)：AI 新闻精选站，每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和把多家第三方评测换算到同一尺度的大模型排行榜，网页和 RSS 免费
 
+#### dlxeva - [Github](https://github.com/dlxeva), [博客](https://aizhiz.com/zh/)
+* :white_check_mark: [VOXR](https://aizhiz.com/voxr/)：导入 AI 配音的 SRT 字幕，在浏览器本地逐句找出语速、停顿和节奏问题，整理成可回看的复核点和交给下一次 TTS 重配的提示词，免费免注册 - [更多介绍](https://aizhiz.com/zh/posts/2026-07-29-voiceover-review-layer/)
+
 ### 2026 年 10 月 19 号添加
 
 #### xinyanghu7 - [Github](https://github.com/xinyanghu7)
