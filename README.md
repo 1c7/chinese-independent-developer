@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 19 号添加
 
+#### ambrosex - [Github](https://github.com/AmbroseX), [推特](https://x.com/ambrosex)
+* :white_check_mark: [AI观潮](https://aiguanchao.com/)：AI 新闻精选站，每天从上千个信息源的几千条 AI、科技和时事新闻里挑出值得看的，附中文总结和原文链接；另有早晚两期 AI 日报、热门事件追踪和把多家第三方评测换算到同一尺度的大模型排行榜，网页和 RSS 免费
+
 #### xinyanghu7 - [Github](https://github.com/xinyanghu7)
 * :white_check_mark: [苏哲AI](https://suzhe.ai)：ChatGPT 会员开通站，支付宝付款，买卡密后网页自助激活，通常 1–3 分钟到账，订阅类质保 1 个月；另有 Gemini、Super Duolingo 等 AI 会员
 
