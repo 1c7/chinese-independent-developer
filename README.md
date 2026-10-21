@@ -23,7 +23,10 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
-
+### 2026 年 10 月 21 号添加
+#### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
+* :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
+  
 ### 2026 年 10 月 20 号添加
 
 #### Kevin(China) - [Github](https://github.com/kevin0168)
