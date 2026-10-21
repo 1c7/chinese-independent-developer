@@ -126,8 +126,17 @@ def main():
         archive, new_readme = new_archive, new_readme2
 
     # ---- 完整性校验：行级多重集守恒（两份文件合起来算，防止搬迁过程丢行或重复行） ----
-    before_lines = Counter([l for l in (readme + "\n" + archive_original).splitlines() if l.strip()])
-    after_lines = Counter([l for l in (new_readme + "\n" + archive).splitlines() if l.strip()])
+    # 年份范围文字（「（2018 年 ~ 2025 年）」）在搬迁时会被正常改写，校验前归一化掉，
+    # 否则第一次搬入新年份的区块时会误报「丢失行」。
+    def _norm(lines):
+        return Counter(
+            re.sub(r"（\d{4} 年 ~ \d{4} 年）", "（YEARS）", l)
+            for l in lines.splitlines()
+            if l.strip()
+        )
+
+    before_lines = _norm(readme + "\n" + archive_original)
+    after_lines = _norm(new_readme + "\n" + archive)
     if before_lines != after_lines:
         lost = before_lines - after_lines
         gained = after_lines - before_lines

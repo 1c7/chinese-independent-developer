@@ -4,7 +4,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [更早的项目（2018 ~ 2024 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
+- [更早的项目（2018 ~ 2025 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -26,11 +26,18 @@
 
 ### 2026 年 10 月 21 号添加
 
-#### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
-* :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [Flux3Max](https://flux3max.net)：FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期
+
+#### Levine - [Github](https://github.com/Enivel)
+* :white_check_mark: [ViewHTML](https://viewhtml.app)：HTML 查看器，左边贴 HTML/CSS/JS 右边实时预览，可直接打开本地 .html 文件，适合预览 ChatGPT/Claude/Codex 生成的 HTML；一键分享为链接、二维码、PNG 或 PDF，免注册免费，另有 Claude Code/Codex/Cursor 分享 Skill - [Skill 源码](https://github.com/Enivel/viewhtml-share-skill)
+* :white_check_mark: [Fondo Blanco](https://fondoblanco.org)：西班牙语抠图工具，一键去掉照片背景并换成白底，保持原图尺寸，支持 JPG/PNG/WebP，适合 Amazon、Mercado Libre、Shopify 商品图和证件、头像照片，免注册免费
 
 #### Phaeris - [Github](https://github.com/PhaerisWakfu)
-* :white_check_mark: [糖包](https://tangbao.phaeris.cn)：从0到1研发的「能工智人」大模型「糖包」上线了，永久免费，支持对话和文生图，新模型「tangbao-vme50-flash」已上线，给你真实人类的情感和温度，用着不烧心。没有新参数，只有一个还醒着的人。
+* :white_check_mark: [糖包](https://tangbao.phaeris.cn)：自研「能工智人」大模型，永久免费，支持对话和文生图，新模型 tangbao-vme50-flash 已上线
+
+#### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
+* :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
 
 #### Jayden-tong - [Github](https://github.com/Jayden-tong)
 * :white_check_mark: [MyFateGPT（紫微命书）](https://myfategpt.com/)：中文紫微斗数排盘与 AI 白话解读工具，免费查看十二宫命盘和部分试读；完整七章报告一次性 ¥299 / US$39，含 PDF，另有出生时间、农历闰月和排盘差异的简繁体指南
@@ -5456,49 +5463,7 @@
 #### zijiuok - [Github](https://github.com/zijiuok), [Twitter/X](https://x.com/zijiuok)
 * :white_check_mark: [小报童排行榜](https://xiaobaoto.com/ranking/)：哪些付费专栏最赚钱
 
-### 2025 年 1 月 12 号添加
-#### SEEEEAL(西安) - [Github](https://github.com/seeeeal)
-* :white_check_mark: [仓鼠工具箱](https://www.hamstertools.org)：各类在线工具，用完即走 - [更多介绍](https://www.hamstertools.org/all_tools)
-
-#### Ethan
-* :x: [Crop Image](https://cropimage.me/)：图片裁剪工具（免费），所有操作都在本地完成，更加隐私和安全。支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，内置常见的裁剪框比例，缩放时始终保持比例不变，使用更省心
-
-#### RolloTomasi
-* :white_check_mark: [whatDoILookLike](https://whatdoilooklike.online/)：在电影或剧集中找出与你相似的角色并一键换脸
-
-### 2025 年 1 月 7 号添加
-#### 韩老师脑暴
-* :x: [aihinto](https://aihinto.com/)：为日语市场提供 AI 导航和 AI 资讯
-
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [Arnis](https://arnis.app/)：将现实世界地点转变为 Minecraft 场景地图的工具
-
-### 2025 年 1 月 6 号添加
-#### pang-xf - [Github](https://github.com/pang-xf)
-- :white_check_mark: [去水印去多多](https://img.pxfe.top/v2/8BjjwDX.jpeg)：复制链接存去水印视频的小程序，支持批量解析转存（免费）
-
-### 2025 年 1 月 4 号添加
-#### GFE - [Github](https://github.com/duanze)
-- :white_check_mark: [InkComic](https://play.google.com/store/apps/details?id=com.feiwen.inkcomic)：漫画阅读器（专为平板、墨水屏设计）超低占用，超高性能 - [更多介绍](https://www.xiaohongshu.com/user/profile/5db006100000000001007dc3), [Pro version](https://play.google.com/store/apps/details?id=com.feiwen.inkcomicpro)
-
-### 2024 年 12 月 30 号添加
-#### Justin3go(重庆) - [Github](https://github.com/Justin3go)， [Twitter](https://x.com/Justin1024go)
-* :white_check_mark: [Template0](https://template0.com/)：收录了近千份免费的网站模板，包含用途、技术栈、预览截图、描述等信息，方便开发者快速找到适合自己的模板以快速上线
-
-### 2024 年 12 月 28 号添加
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :x: [Gemini Coder](https://geminicoder.org/)：AI 应用代码生成器，基于提示词一键生成网站应用
-* :x: [DeepSeek v3](https://deepseekv3.org/)：DeepSeek v3 是一个拥有 671B 参数规模、突破性的大规模语言模型，这是介绍它的网站
-
-### 2024 年 12 月 26 号添加
-#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
-* :white_check_mark: [TRELLIS 3D AI](https://trellis3d.co/)：将图片转换为 3D 资产的免费 AI 工具
-* :x: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像
-
-#### 简具科技(杭州)
-* :x: [八爪鱼收纳](https://www.bzysn.top)：智能物品管理小程序，帮助您轻松管理家中各类物品，让生活更加井然有序
-
-## 👉 更早的项目（2018 年 ~ 2024 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
+## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
 ### 基于本列表数据源的产品

@@ -1,4 +1,4 @@
-# 更早的项目（2018 年 ~ 2024 年）
+# 更早的项目（2018 年 ~ 2025 年）
 
 这里放的是列表头几年收录的中国独立开发者项目。
 
@@ -7,6 +7,48 @@
 [← 返回主列表](../../README.md)
 
 ---
+
+### 2025 年 1 月 12 号添加
+#### SEEEEAL(西安) - [Github](https://github.com/seeeeal)
+* :white_check_mark: [仓鼠工具箱](https://www.hamstertools.org)：各类在线工具，用完即走 - [更多介绍](https://www.hamstertools.org/all_tools)
+
+#### Ethan
+* :x: [Crop Image](https://cropimage.me/)：图片裁剪工具（免费），所有操作都在本地完成，更加隐私和安全。支持裁剪框缩放、图片缩放、旋转、翻转、上下左右拖动调整位置，内置常见的裁剪框比例，缩放时始终保持比例不变，使用更省心
+
+#### RolloTomasi
+* :white_check_mark: [whatDoILookLike](https://whatdoilooklike.online/)：在电影或剧集中找出与你相似的角色并一键换脸
+
+### 2025 年 1 月 7 号添加
+#### 韩老师脑暴
+* :x: [aihinto](https://aihinto.com/)：为日语市场提供 AI 导航和 AI 资讯
+
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [Arnis](https://arnis.app/)：将现实世界地点转变为 Minecraft 场景地图的工具
+
+### 2025 年 1 月 6 号添加
+#### pang-xf - [Github](https://github.com/pang-xf)
+- :white_check_mark: [去水印去多多](https://img.pxfe.top/v2/8BjjwDX.jpeg)：复制链接存去水印视频的小程序，支持批量解析转存（免费）
+
+### 2025 年 1 月 4 号添加
+#### GFE - [Github](https://github.com/duanze)
+- :white_check_mark: [InkComic](https://play.google.com/store/apps/details?id=com.feiwen.inkcomic)：漫画阅读器（专为平板、墨水屏设计）超低占用，超高性能 - [更多介绍](https://www.xiaohongshu.com/user/profile/5db006100000000001007dc3), [Pro version](https://play.google.com/store/apps/details?id=com.feiwen.inkcomicpro)
+
+### 2024 年 12 月 30 号添加
+#### Justin3go(重庆) - [Github](https://github.com/Justin3go)， [Twitter](https://x.com/Justin1024go)
+* :white_check_mark: [Template0](https://template0.com/)：收录了近千份免费的网站模板，包含用途、技术栈、预览截图、描述等信息，方便开发者快速找到适合自己的模板以快速上线
+
+### 2024 年 12 月 28 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :x: [Gemini Coder](https://geminicoder.org/)：AI 应用代码生成器，基于提示词一键生成网站应用
+* :x: [DeepSeek v3](https://deepseekv3.org/)：DeepSeek v3 是一个拥有 671B 参数规模、突破性的大规模语言模型，这是介绍它的网站
+
+### 2024 年 12 月 26 号添加
+#### 疯狂的小波(武汉) - [Github](https://github.com/MuYiBo)
+* :white_check_mark: [TRELLIS 3D AI](https://trellis3d.co/)：将图片转换为 3D 资产的免费 AI 工具
+* :x: [FLUX Style Shaping](https://fluxstyleshaping.com/)：基于 Flux 的图像风格转化工具，将结构元素与艺术风格相结合来转换图像
+
+#### 简具科技(杭州)
+* :x: [八爪鱼收纳](https://www.bzysn.top)：智能物品管理小程序，帮助您轻松管理家中各类物品，让生活更加井然有序
 
 ### 2024 年 12 月 24 号添加
 #### KIAN

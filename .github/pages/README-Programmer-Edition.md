@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 21 号添加
+
+#### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com)
+* :white_check_mark: [Yeahboot 开源后台脚手架](https://yeahboot.com)：基于 Java/SpringBoot 的开源管理后台脚手架
+
 ### 2026 年 10 月 20 号添加
 
 #### AniChikage - [Github](https://github.com/AniChikage)
