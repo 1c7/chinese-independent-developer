@@ -181,7 +181,7 @@ gh api "repos/1c7/chinese-independent-developer/pulls?state=open&per_page=50" \
 1. `gh pr diff <number>` **逐行看**。有删他人条目的 `-` 行 → 先恢复（`maintainer_can_modify` 为 true 就推到贡献者分支；否则本地合并时恢复），让最终 diff 回到纯新增（→ 判例：G）。
 2. 新增行若落在「### 子版面」清单里 → 照常合并，合并后单独 commit 挪到正确位置（普通产品进当天日期区块；基于本列表数据源的产品进 README 底部专属区块）。
 3. `gh pr merge <number> --squash`。报 `Base branch was modified` 不是真失败，`sleep 5` 后重查 `mergeable/mergeable_state`，`true`/`clean` 就重试一次（→ 判例：G）。
-4. 合并成功后在该 PR 发致谢（POST → PATCH → GET），说清收录到哪个版面。
+4. 合并成功后在该 PR 发致谢（POST → PATCH → GET），说清收录到哪个版面。**PR 和 issue 共用编号空间，致谢必须发在 PR 自己的号上**；同一次运行里既有 issue 又有 PR 时逐条核对目标号（→ 第 7 节的串号事故）。
 5. 合并失败（冲突）：**由我们解决，绝不要求提交者 rebase**。优先改他分支再 `--merge`；推不了才本地 `git merge --no-ff` + `git push` + `gh pr close` 兜底（→ 判例：G）。冲突复杂到分不清该保留什么（不只是新增条目，而是改了已有结构）→ **不要瞎猜、不要删任何已有内容**，在 PR 里说明冲突原因、保持打开等人工介入。
 
 ```bash
@@ -357,6 +357,11 @@ python3 .github/scripts/migrate_archive.py --write
 ```
 
 每条都 POST → 立即 PATCH 覆写 → GET 验证正文，且版面名必须带「面」字。
+
+⚠️ **一次处理多个提交时最容易串号：PR 在 API 里也是 issue，编号相同，`issues/<号>/comments` 打错一个数字就把 A 的致谢贴到 B 下面**（2026-10-21 事故：SliceLoft 的致谢被贴到 Issue #1622 Notebook Generator 下，PR #1620 反而没收到，维护者当场发现）。
+
+- 批量发时必须**一条命令只对应一个目标号**，别在循环里拼号；发完把每条评论 id 反查回它所属的编号：`gh api repos/1c7/chinese-independent-developer/issues/comments/<id> --jq .issue_url`。
+- **只按 id GET 正文验证是不够的**——正文对、位置错照样是事故。位置错了就 `-X DELETE` 删掉自己那条（删自己的不算违反红线 2），再往正确的号重发。
 
 ---
 
