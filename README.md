@@ -30,7 +30,7 @@
 * :white_check_mark: [Notebook Generator](https://www.notebookgenerator.com/zh-CN/)：免费生成可打印的笔记本、手帐、日历 PDF，100 多种内页模板与多种纸张尺寸，可导出对折装订的小册子，无需注册，PDF 在浏览器本地生成
 
 #### abyssalyanbin - [Github](https://github.com/abyssalyanbin)
-* :white_check_mark: [SliceLoft](https://sliceloft.com/)：免费的 3D 打印文件工具，全部在浏览器本地运行、不上传文件：把 Bambu Studio / OrcaSlicer 的 3MF 项目按盘或按零件转成 STL，也支持 STL→3MF、OBJ→STL、STEP→STL，在线预览 3MF/STL，还能自定义生成免支撑打印的星形指尖陀螺
+* :white_check_mark: [SliceLoft](https://sliceloft.com/)：3D 打印文件工具（免费），全部在浏览器本地运行、不上传文件：把 Bambu Studio / OrcaSlicer 的 3MF 项目按盘或按零件转成 STL，也支持 STL→3MF、OBJ→STL、STEP→STL，在线预览 3MF/STL，还能自定义生成免支撑打印的星形指尖陀螺
 
 #### Chen Jie - [Github](https://github.com/rosebsnowden-eng)
 * :white_check_mark: [PowerStation Size](https://powerstationsize.com/)：便携储能计算器，按实际负载分别核对容量、持续功率和逆变器浪涌；X-Boost / Power Lifting / SurgePad 等 boost 峰值不能当作冰箱压缩机启动余量，规格从厂商页抄录并标注核对日期，免费开源 — [源码](https://github.com/rosebsnowden-eng/powerstation-size)
