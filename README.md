@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 21 号添加
 
+#### Worldku 团队
+* :white_check_mark: [Rainku](https://www.rainku.com/zh-CN?ref=cid)：AI 日记，在雨声里写下今天，和你的 AI 聊聊，把乱糟糟的一天变成值得留下的东西；中英日韩等 6 种界面语言，登录后在浏览器里用，有免费额度
+* :white_check_mark: [Tuneku FM](https://www.tuneku.com/zh-CN?ref=cid)：私人 AI 电台，把你电脑里的歌变成电台，歌与歌之间你的 AI 时不时像主持人一样聊一两句，打字或用语音点歌；不用下载，登录后在浏览器里听
+
 #### tusunsun - [Github](https://github.com/tusunsun)
 * :white_check_mark: [Notebook Generator](https://www.notebookgenerator.com/zh-CN/)：免费生成可打印的笔记本、手帐、日历 PDF，100 多种内页模板与多种纸张尺寸，可导出对折装订的小册子，无需注册，PDF 在浏览器本地生成
 
