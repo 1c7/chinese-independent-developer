@@ -34,6 +34,9 @@
 
 ### 2026 年 10 月 20 号添加
 
+#### 蚊子 - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [SongFromVideo](https://songfromvideo.com/)：视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费
+
 #### Kevin(China) - [Github](https://github.com/kevin0168)
 * :white_check_mark: [DTCStack](https://www.dtcstackhq.com/)：面向 Shopify/DTC 卖家的免费电商工具库，17 个工具覆盖订单利润、广告 ROAS、支付费率、到岸成本、退货、批发定价和商品 SEO，浏览器本地计算、免登录，中英双语 - [更多介绍](https://www.dtcstackhq.com/tools/)
 
