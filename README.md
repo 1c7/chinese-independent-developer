@@ -29,13 +29,16 @@
 #### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
 * :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
 
+#### Jayden-tong - [Github](https://github.com/Jayden-tong)
+* :white_check_mark: [MyFateGPT（紫微命书）](https://myfategpt.com/)：中文紫微斗数排盘与 AI 白话解读工具，免费查看十二宫命盘和部分试读；完整七章报告一次性 ¥299 / US$39，含 PDF，另有出生时间、农历闰月和排盘差异的简繁体指南
+
 #### fisher-byte - [Github](https://github.com/fisher-byte)
 * :white_check_mark: [AjaxModel Release Tracker](https://ajaxmodel.dev/)：Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载
 
-### 2026 年 10 月 20 号添加
-
 #### 蚊子 - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [SongFromVideo](https://songfromvideo.com/)：视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费
+
+### 2026 年 10 月 20 号添加
 
 #### Kevin(China) - [Github](https://github.com/kevin0168)
 * :white_check_mark: [DTCStack](https://www.dtcstackhq.com/)：面向 Shopify/DTC 卖家的免费电商工具库，17 个工具覆盖订单利润、广告 ROAS、支付费率、到岸成本、退货、批发定价和商品 SEO，浏览器本地计算、免登录，中英双语 - [更多介绍](https://www.dtcstackhq.com/tools/)
