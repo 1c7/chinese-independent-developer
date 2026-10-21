@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 21 号添加
 
+#### Luo - [Github](https://github.com/lovelax1998)
+* :white_check_mark: [Steam图书馆](https://www.steamdownload.cn)：免费游戏发现与下载站，收录 9000+ 款 PC / Switch / 手机游戏，免注册；「AI 荐游」用大白话说出口味，AI 实时检索站内游戏库给出推荐理由，点卡片直达游戏页，每款游戏多个网盘备份 - [AI 荐游](https://www.steamdownload.cn/ai)
+
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [Flux3Max](https://flux3max.net)：FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期
 
