@@ -23,10 +23,15 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+
 ### 2026 年 10 月 21 号添加
+
 #### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
 * :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
-  
+
+#### fisher-byte - [Github](https://github.com/fisher-byte)
+* :white_check_mark: [AjaxModel Release Tracker](https://ajaxmodel.dev/)：Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载
+
 ### 2026 年 10 月 20 号添加
 
 #### Kevin(China) - [Github](https://github.com/kevin0168)
