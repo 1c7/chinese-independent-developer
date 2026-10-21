@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 21 号添加
 
+#### abyssalyanbin - [Github](https://github.com/abyssalyanbin)
+* :white_check_mark: [SliceLoft](https://sliceloft.com/)：免费的 3D 打印文件工具，全部在浏览器本地运行、不上传文件：把 Bambu Studio / OrcaSlicer 的 3MF 项目按盘或按零件转成 STL，也支持 STL→3MF、OBJ→STL、STEP→STL，在线预览 3MF/STL，还能自定义生成免支撑打印的星形指尖陀螺
+
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [Flux3Max](https://flux3max.net)：FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期
 
