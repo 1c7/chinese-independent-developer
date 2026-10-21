@@ -107,6 +107,8 @@ Issue #1402（2026-09-20）「GithubStarMate」/ adevelle：页面销售推广�
 - **重复提交已收录产品**：shanleiguang 2026-09-22 重复提交 vPlayer HiFi（2026-08-08 已收录）→ 静默跳过，不发致谢（说「已添加」会误导）。
 - **用户名差集遮掉二次投稿（2026-10-10）**：huangy7 早先的 Lokii 已被致谢，用户名进了 thanked 集合；他在 10-09T14:51Z 又发了 outline-skill 新提交，`comm` 直接判为已处理，被漏了整整一轮。
   教训：差集只是第一道过滤，必须再逐条核对「这条评论之后有没有 @ 到他的回复」。
+- **同一个坑踩了第二次（2026-10-21）**：stimQQ 的 LayerGrab 已在 10-18 收录并致谢，他 10-21T01:28Z 又投了另一个产品 Flux3Max，用户名差集再次判为已处理。逐条核对时捞回来，已收录。
+  教训：差集按**人**去重，漏的却是**产品**。**结论：查重一律按产品 URL，不按用户名**，已固化为 `.github/scripts/pending_submissions.py`（见 SKILL.md 0.3）。
 - **同簇套壳站点**：Jev 系列（jev.stockai.trade、jev.guide、whatcanjevdo.com、jev-ai.pro、ai-jev.pro、decisionapi.net）、AI 潮流短视频系列（gasstationdance.pro、raindance-ai.pro）。收录，但代拟描述必须写它自己独有的功能点（如 ai-jev.pro 的「Playground + CSV/TXT/JSONL 批量 + 注册送 5 额度」），不要照抄簇里已有条目。
 
 ---

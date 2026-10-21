@@ -63,16 +63,18 @@ wc -c README.md
 - **三个数字全为 0 不等于收工**：仍要跑 0.3 的差集、检查一之二、收尾扫描。
 - ⚠️ **`wc -c README.md` 超过 490,000 就地处理，别等到插入条目之后**：运行间隔里别人 merge 也可能顶过线。直接按 6.3 跑 `migrate_archive.py --write`，**即使本次空跑也要单独发一条搬迁 commit**（2026-09-27 实测：开跑时已是 490,082 字节，只想着"这次没新条目"就会把超标状态原样留给下一次）。
 
-### 0.3 差集（不能只凭"看着都处理过"）
+### 0.3 差集：按产品 URL 查，不按用户名查
 
 ```bash
-jq -r '.[] | select(.user.login != "1c7" and .user.login != "claude[bot]") | .user.login' /tmp/c160.json | sort -u > /tmp/submitters.txt
-jq -r '.[] | select(.user.login == "1c7" or .user.login == "claude[bot]") | .body' /tmp/c160.json \
-  | grep -oE '^@[A-Za-z0-9-]+' | tr -d '@' | sort -u > /tmp/thanked.txt
-comm -23 /tmp/submitters.txt /tmp/thanked.txt
+python3 .github/scripts/pending_submissions.py /tmp/c160.json; echo "EXIT=$?"
 ```
 
-差集非空 → 逐条进检查一。**差集为空也不代表没有新提交**：差集按用户名去重，老作者的二次投稿会被整个遮掉（→ 判例：F）。必须再逐条核对「窗口内每条非致谢评论之后，有没有 @ 到他的回复」。
+脚本把窗口内每条非我方评论里的 URL 抽出来，逐个到 README 系列（主版面 / 程序员版面 / 游戏版面 / 两个分册）里比对，列出**查不到的**。
+
+- 输出「无待处理 URL」→ 本次确实没有新提交，可以空跑。
+- 有输出 → 逐条判断：新产品 → 进检查一；作者主页 / 博客 / 社交页 → 跳过；已收录产品换了域名 → 进检查一（描述要写新功能点）。
+- **禁止用「提交者 - 已致谢」的用户名差集来查重**。撞过两次：huangy7（2026-10-10）、stimQQ（2026-10-21，LayerGrab 已收，又投 Flux3Max）。按人去重会把老作者的新投稿整批遮掉（→ 判例：F）。
+- 用户名差集只剩一个用途：交叉核对有没有**漏发致谢**。不参与「该不该收」的判断。
 
 ---
 
