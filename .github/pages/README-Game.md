@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 21 号添加
+
+#### sam ice(深圳) - [Github](https://github.com/sam-ice-star/ride-a-pet)
+* :white_check_mark: [Ride a Pet Wiki](https://ride-a-pet-rblx.wiki/)：Ride a Pet 非官方资料站，整理宠物、蛋、转生、突变、装备和食物，方便玩家随时查询
+
 ### 2026 年 10 月 17 号添加
 
 #### zard0433-source - [Github](https://github.com/zard0433-source)

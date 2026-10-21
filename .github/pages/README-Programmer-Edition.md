@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 10 月 21 号添加
 
+#### reAPI - [Github](https://github.com/reAPIAI)
+* :white_check_mark: [Wan API](https://wanapi.app/)：Wan 3.0 / Prime / Pro 与 Seedance 2.0 / 2.5 视频模型的 API 中转，按秒计费（480p 每秒 $0.0275，约为官方标价 55%），支持文生视频、首尾帧与多模态参考输入、最长 30 秒且默认带声音，注册后在后台创建 key、充值即可调用
+
 #### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com)
 * :white_check_mark: [Yeahboot 开源后台脚手架](https://yeahboot.com)：基于 Java/SpringBoot 的开源管理后台脚手架
 
