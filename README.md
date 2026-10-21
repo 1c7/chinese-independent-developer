@@ -29,6 +29,9 @@
 #### yi wangyi(深圳) - [Github](https://github.com/wagnyi793797714)
 * :white_check_mark: [TradeSniper](https://x-swap.cn/tradesniper/)：A 股与期货行情站，手机上集合策略与做 T 辅助，方便盯盘和短线操作
 
+#### Phaeris - [Github](https://github.com/PhaerisWakfu)
+* :white_check_mark: [糖包](https://tangbao.phaeris.cn)：从0到1研发的「能工智人」大模型「糖包」上线了，永久免费，支持对话和文生图，新模型「tangbao-vme50-flash」已上线，给你真实人类的情感和温度，用着不烧心。没有新参数，只有一个还醒着的人。
+
 #### Jayden-tong - [Github](https://github.com/Jayden-tong)
 * :white_check_mark: [MyFateGPT（紫微命书）](https://myfategpt.com/)：中文紫微斗数排盘与 AI 白话解读工具，免费查看十二宫命盘和部分试读；完整七章报告一次性 ¥299 / US$39，含 PDF，另有出生时间、农历闰月和排盘差异的简繁体指南
 
