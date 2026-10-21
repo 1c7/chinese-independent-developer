@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 21 号添加
 
+#### Chen Jie - [Github](https://github.com/rosebsnowden-eng)
+* :white_check_mark: [PowerStation Size](https://powerstationsize.com/)：便携储能计算器，按实际负载分别核对容量、持续功率和逆变器浪涌；X-Boost / Power Lifting / SurgePad 等 boost 峰值不能当作冰箱压缩机启动余量，规格从厂商页抄录并标注核对日期，免费开源 — [源码](https://github.com/rosebsnowden-eng/powerstation-size)
+
+
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [Flux3Max](https://flux3max.net)：FLUX 3 Max AI 视频生成器，输入一段文字或上传一张图片（也可以给首帧和尾帧两张图），就能生成 5–20 秒带声音的视频，支持 720p / 1080p 和多种画面比例；网页英文界面，Google 登录，新用户可免费生成一次 5 秒视频，之后按秒付费、积分包不订阅不过期
 
