@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 23 号添加
+
+#### zaylora - [Github](https://github.com/zaylora)
+* :white_check_mark: [连镜](https://canvas.vbing.site)：开源 AI 视觉创作工作台，用无限画布把文本、图片、视频、音频生成连成流程，内置 3D 导演台和画布 Agent，对接可灵、即梦、Vidu、Sora 等多家模型，支持 Docker 自部署 - [更多介绍](https://github.com/zaylora/video-canvas)
+
 ### 2026 年 10 月 22 号添加
 
 #### chenlz22550 - [Github](https://github.com/chenlz22550)

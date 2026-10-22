@@ -24,10 +24,15 @@
 
 ## 3. 项目列表
 
-### 2026 年 10 月 22 号添加
+### 2026 年 10 月 23 号添加
 
 #### 小李哥 - [Github](https://github.com/li13203140613)
-* :white_check_mark: [xsub.ai](https://xsub.ai)：Grok 会员代充，开通到你自己的账号，正规渠道开通，可开发票对公报销，掉订阅质保
+* :white_check_mark: [xsub.ai](https://xsub.ai)：Grok 会员代充，在官方结账页开通到你自己的账号，可开发票对公报销，掉订阅质保
+
+#### Wenxi闻西 - [Github](https://github.com/wenxiuncle/)
+* :white_check_mark: [趣站博物馆](https://sitopia.youquhome.com/)：英文 Sitopia 取自复合词 Site+Utopia，意为网站乌托邦，在浪漫温馨的游戏世界里沉浸式浏览趣站 - [更多介绍](https://youquhome.com/12870/)
+
+### 2026 年 10 月 22 号添加
 
 #### sunerpy - [Github](https://github.com/sunerpy)
 * :white_check_mark: [Voltip](https://voltip.firlab.app/zh/)：开源语音输入工具，按住快捷键说话、松开后文字插入任意应用的光标处，支持 Windows、macOS、Linux 和 Android；可用本机模型离线识别，也可用云端识别和 AI 润色，手机配对后还能当电脑的麦克风 - [更多介绍](https://github.com/sunerpy/voltip/blob/main/docs/readme/README.zh-CN.md)
