@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 22 号添加
+
+#### chenlz22550 - [Github](https://github.com/chenlz22550)
+* :white_check_mark: [watchdog](https://github.com/chenlz22550/watchdog)：老 Windows 机器上的进程守护工具，被守护程序崩溃、假死或端口不通时自动重启并推送企业微信告警，支持 Win7 / Server 2008 R2，带图形界面，绿色运行，MIT 协议
+
 ### 2026 年 10 月 21 号添加
 
 #### reAPI - [Github](https://github.com/reAPIAI)
