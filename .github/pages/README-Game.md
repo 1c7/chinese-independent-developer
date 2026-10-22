@@ -2,13 +2,15 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
-### 2026 年 10 月 21 号添加
+### 2026 年 10 月 22 号添加
 
 #### Worldku 团队
 * :white_check_mark: [Locoku](https://www.locoku.com/zh-CN?ref=cid)：看照片猜地点的网页游戏，看几张真实照片从四个选项里猜是哪里，或在真实街景里找线索、在地图上标出位置，和你的 AI 一起玩；不用下载，登录后开始
 * :white_check_mark: [Fishingku](https://www.fishingku.com/zh-CN?ref=cid)：治愈系网页钓鱼游戏，和你的 AI 同坐一艘小船抛竿、等鱼、聊天，16 处水域、80 种鱼；不用下载，登录后在浏览器里玩
 * :white_check_mark: [Gridku](https://www.gridku.com/zh-CN?ref=cid)：和你的 AI 下国际象棋、中国象棋、五子棋和西洋双陆棋，切磋时对面每一步由你的 AI 来走，挑战时你的 AI 陪你打青铜到钻石对手；不用下载，登录后用浏览器玩
 * :white_check_mark: [AI2P](https://www.ai2papp.com/?ref=cid)：和你的 AI 结伴游玩的 AI 互动小说，挑一个故事，用自己的话提问、行动，一起走向你们的结局；中文，登录后在浏览器里玩
+
+### 2026 年 10 月 21 号添加
 
 #### sam ice(深圳) - [Github](https://github.com/sam-ice-star/ride-a-pet)
 * :white_check_mark: [Ride a Pet Wiki](https://ride-a-pet-rblx.wiki/)：Ride a Pet 非官方资料站，整理宠物、蛋、转生、突变、装备和食物，方便玩家随时查询
