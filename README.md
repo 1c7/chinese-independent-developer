@@ -41,6 +41,9 @@
 #### Wenxi闻西 - [Github](https://github.com/wenxiuncle/)
 * :white_check_mark: [趣站博物馆](https://sitopia.youquhome.com/)：英文 Sitopia 取自复合词 Site+Utopia，意为网站乌托邦，在浪漫温馨的游戏世界里沉浸式浏览趣站 - [更多介绍](https://youquhome.com/12870/)
 
+#### AI 酋长 Andy(北京) - [Github](https://github.com/AIPMAndy), [博客](https://metaver.vip/)
+* :white_check_mark: [失业了咋办](https://aipmandy.github.io/how-to-survive-unemployment/)：失业自救在线指南，按失业前、前 7 天、3 个月、6 个月、1 年给出办理顺序，带 N/2N 试算和 13 周现金流表，附北京上海政策原文，免费免登录
+
 ### 2026 年 10 月 22 号添加
 
 #### sunerpy - [Github](https://github.com/sunerpy)
