@@ -5451,36 +5451,6 @@
 #### Xibobo(上海) 
 * :x: [在线计数器](https://www.clickcounter.online/)：计数器工具，支持手机端和PC端免费使用，可以在线计数并分享，轻量级且用户友好
 
-### 2025 年 1 月 24 号添加
-#### Benson Gao(北京) 
-* :x: [Supametas.AI](https://supametas.ai)：从任何非标准化目标处理为适用 LLM RAG 的结构化数据，更方便的搜集、构建、预处理你的行业领域数据集并集成到 LLM RAG 检索知识库 - [更多介绍](https://supametas.ai/zh/blog/4)
-
-#### JasmineChzI(深圳) 
-* :white_check_mark: [PhotoG](https://photog.art/)：专为电商卖家打造的 AI 摄影工具。轻松制作专业级产品图片，自定义背景，优化视觉效果，助力销售增长
-
-### 2025 年 1 月 23 号添加
-
-#### wo-zx(广州) 
-* :white_check_mark: [优好搜·SEO优化工具](https://www.uhaoseo.com)：免费精准诊断网站 SEO 状况，提供专业审查报告，致力保障网站和品牌在搜索引擎内的可见性 - [更多介绍](https://www.uhaoseo.com/seo-analyzer)
-
-### 2025 年 1 月 22 号添加
-#### moldav(上海) - [Github](https://github.com/HahaHa0099/MinuteTimer) 
-* :white_check_mark: [Minute Timer](https://minutetimers.net/)：计时器（轻量级且用户友好）
-
-### 2025 年 1 月 14 号添加
-#### lezhu(上海)
-* :white_check_mark: [Staying](https://staying.fun)：交互式可视化 Python & Javascript 代码 - [更多介绍](https://staying.fun/zh/docs/getting-started)
-
-#### Sean(成都) - [Github](https://github.com/ShurshanX)
-* :white_check_mark: [Image Describer](https://imagedescriber.app/)：提供对艺术作品的深入分析（背景、寓意、构图元素），帮助用户更深层次地理解和欣赏艺术创作和评价编写
-
-#### 天之蓝源(成都) - [Github](https://github.com/Hacker233/resume-design)
-* :white_check_mark: [猫步简历](https://maobucv.com/)：简历制作神器（开源免费）
-
-### 2025 年 1 月 13 号添加
-#### zijiuok - [Github](https://github.com/zijiuok), [Twitter/X](https://x.com/zijiuok)
-* :white_check_mark: [小报童排行榜](https://xiaobaoto.com/ranking/)：哪些付费专栏最赚钱
-
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
