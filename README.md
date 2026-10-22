@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 22 号添加
 
+#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
+* :clock8: [NEON DUO](https://a2oliteneon.xyz/)：围绕 A2O LITE NEON 的双照片舞蹈视频项目，当前公开趋势说明、双图准备指南及标明用途的参考预览；真实 AI 舞蹈生成尚未开放，网站为英文界面
+
 #### Worldku 团队
 * :white_check_mark: [Rainku](https://www.rainku.com/zh-CN?ref=cid)：AI 日记，在雨声里写下今天，和你的 AI 聊聊，把乱糟糟的一天变成值得留下的东西；中英日韩等 6 种界面语言，登录后在浏览器里用，有免费额度
 * :white_check_mark: [Tuneku FM](https://www.tuneku.com/zh-CN?ref=cid)：私人 AI 电台，把你电脑里的歌变成电台，歌与歌之间你的 AI 时不时像主持人一样聊一两句，打字或用语音点歌；不用下载，登录后在浏览器里听
