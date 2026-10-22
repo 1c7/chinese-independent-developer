@@ -8,6 +8,36 @@
 
 ---
 
+### 2025 年 2 月 24 号添加
+#### Sawana(上海) - [Github](https://github.com/waitlistSawana)
+* :white_check_mark: [高能闪刻 | Highlight Pulse](https://highlightpulse.site/)：实时标记B站直播的高光时刻，一键导出记录数据，查看切片工具箱
+
+#### BHznJNs - [GitHub](https://github.com/BHznJNs)
+* :white_check_mark: [NFC PLinkD (中文名：电纸链接)](https://github.com/BHznJNs/NFC-PLinkD): 能把 NFC 卡片、贴纸当作实体的链接，将电子资料链接到纸质资料中的 App - [更多介绍](https://bhznjns.github.io/#static/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91/%E8%BF%9B%E8%A1%8C%E4%B8%AD/NFC-PLinkD/)
+
+#### Moldav(ShangHai) - [Github](https://github.com/[WebClocks](https://github.com/WebClocks))
+* :white_check_mark: [Online Web Clock](https://webclock.online/)：网页时钟 - 免费在线时钟和时间工具
+
+### 2025 年 2 月 23 号添加
+#### sinpo - [Github](https://github.com/JapaneseNameGenerator/JapaneseNameGenerator)
+* :white_check_mark: [日语名字生成器](https://japanesename-generator.com)：免费 AI 日文名字生成器！生成平假名、片假名、含义和发音
+
+### 2025 年 2 月 22 号添加
+#### Corey Chiu(深圳) - [Github](https://github.com/iamcorey), [博客](https://coreychiu.com/)
+* :white_check_mark: [Image Translate AI](https://imagetranslate.ai)：AI 图片翻译软件，翻译 70 多种语言的图片文本，专为专业人士，电商商家打造。保持图片原始布局，扩大全球影响力，并简化本地化流程
+
+### 2025 年 2 月 20 号添加
+#### Ryan(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小帖](https://apps.apple.com/us/app/xiaotie-batch-image-generator/id6741154916)：iOS 端的模板批量生成图片的工具，支持表格文件和飞书多维表格同步
+
+### 2025 年 2 月 19 号添加
+#### 邱比特(大连) - [Github](https://github.com/MQbit)
+* :white_check_mark: [aiagents42.com](https://aiagents42.com/)：AI Agents 导航站
+
+### 2025 年 2 月 16 号添加
+#### Sen Zheng 郑越升 - [Github](https://github.com/dayinji)
+* :white_check_mark: [freaky-fonts.com](http://freaky-fonts.com/)：怪异字体生成工具，可以把普通的字符变成吸人眼球的字符，发到 Facebook/Instagram/Whatsapp/Twitter 等社交媒体，还有字符变换工具，可以按你喜欢的字体风格随机搭配，自定义字符的映射表/反转文本/打乱文本等
+
 ### 2025 年 2 月 12 号添加
 #### nanshan(北京) - [Github](https://github.com/nansshan)
 * :white_check_mark: [图片切割神器 GridMaker ](https://gridmaker.co)：一键切割图片，完美适配社交媒体多图发布！
