@@ -36,6 +36,9 @@
 #### HugeHard Studio - [Github](https://github.com/ilimei)
 * :clock8: [这图能改](https://hugehard.app/apps/this-pic-can-change/)：iPhone 图片视频工具箱，把任意视频转成可设为动态壁纸的实况照片（Live Photo），还能把图片压缩到指定文件大小、视频压缩、视频转 GIF、格式转换和改尺寸，普通处理全在手机本机完成不上传；iOS 17+，App Store 审核中，现可通过 TestFlight 公开测试免费体验 - [TestFlight 加入链接](https://testflight.apple.com/join/GK8ht2vv)
 
+#### the-beating-light-of-the-nail - [Github](https://github.com/the-beating-light-of-the-nail)
+* :white_check_mark: [MemeBako](https://www.memebako.com/)：高清无水印表情包图片大全与热梗图鉴，咕咕嘎嘎企鹅、奶龙等独立专题库，梗图/贴纸/GIF/壁纸点击一键复制，支持在线自制表情包，中英日韩四语 - 免登录免费，无需注册
+
 ### 2026 年 10 月 21 号添加
 
 #### tusunsun - [Github](https://github.com/tusunsun)
