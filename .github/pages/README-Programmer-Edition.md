@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 23 号添加
+#### anthonyhann - [Github](https://github.com/anthonyhann)
+* :white_check_mark: [token-pilot](https://github.com/anthonyhann/token-pilot)：AI 工具本地账单与预算控制器，一条命令汇总 Claude Code / Codex / Kimi Code 等用量与花费，菜单栏常驻今日费用与预算占比，支持超支通知与打转检测；国产模型自动归一，只读本地日志、数据不出本机 — macOS / Windows
+
 
 #### zaylora - [Github](https://github.com/zaylora)
 * :white_check_mark: [连镜](https://canvas.vbing.site)：开源 AI 视觉创作工作台，用无限画布把文本、图片、视频、音频生成连成流程，内置 3D 导演台和画布 Agent，对接可灵、即梦、Vidu、Sora 等多家模型，支持 Docker 自部署 - [更多介绍](https://github.com/zaylora/video-canvas)
