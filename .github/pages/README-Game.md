@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 23 号添加
+
+#### Zen Nin - [Github](https://github.com/zenanythin)
+* :white_check_mark: [AION 2 Pets](https://aion2pets.app/)：AION 2 宠物收集规划工具，免费免登录，查阅宠物与已记录地图点位，分别估算重复灵魂的 Insight 成本和收集 EXP；手动清单保存在浏览器，支持 JSON 备份与校验合并，地图覆盖不完整，非官方项目
+
 ### 2026 年 10 月 22 号添加
 
 #### Worldku 团队

@@ -25,6 +25,15 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 23 号添加
+#### xuhaotian29-cell - [Github](https://github.com/xuhaotian29-cell)
+* :clock8: [票号核对台](https://piaoh-offline.xuhaotian29.chatgpt.site/)：跨 Excel/CSV 核对相同发票号码的本地工具，导出原文件、工作表及行号便于复核；计划 19.9 元一次购买，尚未开放下单，官网可看合成数据演示
+
+#### Takumi - [Github](https://github.com/VincentL998)
+* :white_check_mark: [匠工具箱 TakumiKit](https://tools.takumikit.com/zh-cn/)：免费在线工具箱，34 个工具含 AI 抠图、HEIC 转 JPG、音视频格式转换、文字转语音和常用计算器，无需注册，图片和音视频文件在浏览器本地处理不上传，支持简繁英日韩 5 种语言
+
+#### potatates - [Github](https://github.com/potatates)
+* :white_check_mark: [字相](https://zixiangfont.com)：收录 237 款可免费商用的简体中文字体，输入任意文字即可在线预览，按笔形、字重等特征找风格相近的字体，最多 4 款并排对比，附授权说明与官方下载链接
+
 #### maysunyoung - [Github](https://github.com/maysunyoung)
 * :white_check_mark: [Pixwit](https://pixwit.ai)：AI 照片转动图/迷因舞蹈特效生成器，上传一张照片即可生成短视频迷因（如乔丹踮脚、Dime Dime Baby），免费额度可用，进阶功能付费
 
