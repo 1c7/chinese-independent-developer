@@ -25,6 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 23 号添加
+#### maysunyoung - [Github](https://github.com/maysunyoung)
+* :white_check_mark: [Pixwit](https://pixwit.ai)：AI 照片转动图/迷因舞蹈特效生成器，上传一张照片即可生成短视频迷因（如乔丹踮脚、Dime Dime Baby），免费额度可用，进阶功能付费
+
 
 #### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
 * :white_check_mark: [Paper Texture](https://paper-texture.com/paper-texture-overlay/)：在线纸纹叠加编辑器，手动编辑免费免登录；选择 AI 生成纸面并调整混合模式、透明度和尺寸，预览自己的图片或内置海报
