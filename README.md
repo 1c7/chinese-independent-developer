@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 23 号添加
 
+#### JonathanOwenTJ - [Github](https://github.com/JonathanOwenTJ)
+* :white_check_mark: [Paper Texture](https://paper-texture.com/paper-texture-overlay/)：在线纸纹叠加编辑器，手动编辑免费免登录；选择 AI 生成纸面并调整混合模式、透明度和尺寸，预览自己的图片或内置海报
+
 #### watreesir - [Github](https://github.com/watreesir)
 * :white_check_mark: [Everygen AI](https://everygenai.io/)：免费 AI 图片与视频创作工作台，Grok Imagine、Kling、Seedance、GPT Image、Nano Banana 等热门模型集中在一处，另可用 Suno 生成音乐；生成图片无需登录，新访客有欢迎积分可直接试用，登录后有新用户奖励和每日免费积分，每次生成前先显示所需积分；独立站点，与同名的其他 Everygen 产品无关
 
