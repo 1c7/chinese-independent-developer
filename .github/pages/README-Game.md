@@ -3,6 +3,14 @@
 本版面放的都是游戏，起始于2025年1月4号
 
 ### 2026 年 10 月 23 号添加
+#### liujd0326 - [Github](https://github.com/liujd0326)
+* :white_check_mark: [Crazy Cattle 3D](https://crazycattle3d.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：非官方粉丝站，在浏览器里免费玩这款物理碰碰羊大逃杀，不用注册、不用下载；用坡度和时机把别的羊撞出地图，尽量活到最后。页面上有新版 Sheep Bonk Arena 和经典版，地图包括爱尔兰、冰岛和新西兰，另有 Windows、macOS、Linux 下载和操作说明。不是原作的官方网站，和原作者没有关系
+
+#### 多奇·灵感实验室
+* :clock8: [准时下班模拟器](https://portal-test.qidianlingzhi.com/phone/h5/index.html?s=v1.IBoZeJLKTBUw1Syj4p_JnZbDpzegix6WvSUU8VyPDvM_mmqk&c=CgVBUUKp6j)：办公室躲避小游戏：先拿工牌，按住移动、松手停下，避开老板和同事走到门口。（H5测试版）
+* :clock8: [躲避二手烟](https://portal-test.qidianlingzhi.com/phone/h5/index.html?s=v1.fTOgmcoH6ajZp8kanP_KsCyJRQERNKX7dmz00tUKPHOBOcP9&c=smHx8ASuGU)：画线躲避小游戏：在便利店、公交站等日常场景里画出路线，避开吸烟的人和烟圈。（H5测试版）
+* :clock8: [喷气飞车](https://portal-test.qidianlingzhi.com/phone/h5/index.html?s=v1.M_x6mP251gHpMC4BSxwl_5mXjR1pAMvhCI_rNDSBWkng7LZH&c=jcZFf2wNe3)：喷气与翻转赛车小游戏：左半边按住喷射，右半边点击翻转到天花板，挑战当天同一条赛道的距离成绩。（H5测试版）
+
 
 #### Zen Nin - [Github](https://github.com/zenanythin)
 * :white_check_mark: [AION 2 Pets](https://aion2pets.app/)：AION 2 宠物收集规划工具，免费免登录，查阅宠物与已记录地图点位，分别估算重复灵魂的 Insight 成本和收集 EXP；手动清单保存在浏览器，支持 JSON 备份与校验合并，地图覆盖不完整，非官方项目

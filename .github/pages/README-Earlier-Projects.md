@@ -8,6 +8,28 @@
 
 ---
 
+### 2025 年 2 月 28 号添加
+#### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
+* :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
+* :white_check_mark: [Dynamic-photo-video-display-wall](https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall)：多宫格动态播放视频/照片
+
+### 2025 年 2 月 27 号添加
+#### Synexa AI - [Github](https://github.com/synexa-ai)
+* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码部署 AI 模型 (Replicate 50% 低价平替)，Synexa 是运行无服务器 AI API 最具性价比的解决方案，提供业界最具竞争力的 A100 GPU 价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
+
+#### SeaEpoch(安徽) - [Github](https://github.com/SeaYJ)
+* :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick)：鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化 
+
+### 2025 年 2 月 26 号添加
+#### 木易(武汉)
+* :x: [DeepSeek Chat](https://ai-chatbot.top/)：DeepSeek R1/V3 671B 满血版在线免费使用
+
+#### damaodog - [Github](https://github.com/damaodog)
+* :white_check_mark: [Midjourney Sref code 收集](https://mjsrefcode.com/)：Midjourney 的sref（风格一致性代码）收集库，现阶段已收集sref代码3000+
+
+#### Sven(昆明) - [Github](https://github.com/shensven)
+* :white_check_mark: [Swads](https://swads.app/)：群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS
+
 ### 2025 年 2 月 24 号添加
 #### Sawana(上海) - [Github](https://github.com/waitlistSawana)
 * :white_check_mark: [高能闪刻 | Highlight Pulse](https://highlightpulse.site/)：实时标记B站直播的高光时刻，一键导出记录数据，查看切片工具箱

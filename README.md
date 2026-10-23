@@ -25,8 +25,14 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 23 号添加
+#### Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)
+* :clock8: [Companest 伴境](https://github.com/Owen-Teng/companest)：Windows AI 工作伙伴应用，通过房间、角色和事项板组织邮件上下文、回复草稿与后续变化；当前可查看虚构数据演示，安装包与源码尚未公开 - [邮件预览说明](https://github.com/Owen-Teng/companest/blob/main/docs/MAIL-FEATURES.zh-CN.md)
+
+#### 子竹 - [Github](https://github.com/zizhu-ai)
+* :white_check_mark: [AI Dance Generator](https://danceaigenerator.com)：AI 照片跳舞视频生成器，上传一张照片、选一个舞蹈模板，几分钟得到 9:16 竖屏跳舞视频，可直接发 TikTok/Reels/Shorts；网页英文界面
+
 #### xuhaotian29-cell - [Github](https://github.com/xuhaotian29-cell)
-* :clock8: [票号核对台](https://piaoh-offline.xuhaotian29.chatgpt.site/)：跨 Excel/CSV 核对相同发票号码的本地工具，导出原文件、工作表及行号便于复核；计划 19.9 元一次购买，尚未开放下单，官网可看合成数据演示
+* :white_check_mark: [票号核对台](https://piaoh-offline.xuhaotian29.chatgpt.site/)：跨 Excel/CSV 核对相同发票号码的本地工具，导出原文件、工作表及行号便于复核；离线版 19.9 元一次购买，限量首发，48 小时内人工交付，官网可看合成数据演示
 
 #### Takumi - [Github](https://github.com/VincentL998)
 * :white_check_mark: [匠工具箱 TakumiKit](https://tools.takumikit.com/zh-cn/)：免费在线工具箱，34 个工具含 AI 抠图、HEIC 转 JPG、音视频格式转换、文字转语音和常用计算器，无需注册，图片和音视频文件在浏览器本地处理不上传，支持简繁英日韩 5 种语言
@@ -5407,28 +5413,6 @@
 ### 2025 年 3 月 6 号添加
 #### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
 * :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
-
-### 2025 年 2 月 28 号添加
-#### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
-* :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
-* :white_check_mark: [Dynamic-photo-video-display-wall](https://github.com/zhaoxiaozhao07/Dynamic-photo-video-display-wall)：多宫格动态播放视频/照片
-
-### 2025 年 2 月 27 号添加
-#### Synexa AI - [Github](https://github.com/synexa-ai)
-* :white_check_mark: [Synexa AI](https://synexa.ai/)：一行代码部署 AI 模型 (Replicate 50% 低价平替)，Synexa 是运行无服务器 AI API 最具性价比的解决方案，提供业界最具竞争力的 A100 GPU 价格，相比其他服务商可节省高达 62% 的 AI 算力成本 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/478)
-
-#### SeaEpoch(安徽) - [Github](https://github.com/SeaYJ)
-* :white_check_mark: [MouseClick](https://github.com/SeaYJ/MouseClick)：鼠标连点器和管理工具，软件界面美观，操作直观，支持鼠标行为模拟，让用户在工作和游戏中实现高效自动化 
-
-### 2025 年 2 月 26 号添加
-#### 木易(武汉)
-* :x: [DeepSeek Chat](https://ai-chatbot.top/)：DeepSeek R1/V3 671B 满血版在线免费使用
-
-#### damaodog - [Github](https://github.com/damaodog)
-* :white_check_mark: [Midjourney Sref code 收集](https://mjsrefcode.com/)：Midjourney 的sref（风格一致性代码）收集库，现阶段已收集sref代码3000+
-
-#### Sven(昆明) - [Github](https://github.com/shensven)
-* :white_check_mark: [Swads](https://swads.app/)：群晖 Download Station 客户端，现代、原生、凭直觉再设计，支持 iOS / macOS
 
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
