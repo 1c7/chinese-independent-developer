@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 24 号添加
+#### liujd0326 - [Github](https://github.com/liujd0326)
+* :white_check_mark: [First Person Boxing](https://firstpersonboxing.net/)：免费 3D 第一人称拳击网页游戏，从自己的拳套后出拳，可滑步反击，含训练、快速对战和五人生涯，无需下载或注册
+
 ### 2026 年 10 月 23 号添加
 #### liujd0326 - [Github](https://github.com/liujd0326)
 * :white_check_mark: [Crazy Cattle 3D](https://crazycattle3d.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：非官方粉丝站，在浏览器里免费玩这款物理碰碰羊大逃杀，不用注册、不用下载；用坡度和时机把别的羊撞出地图，尽量活到最后。页面上有新版 Sheep Bonk Arena 和经典版，地图包括爱尔兰、冰岛和新西兰，另有 Windows、macOS、Linux 下载和操作说明。不是原作的官方网站，和原作者没有关系
