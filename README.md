@@ -25,6 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 24 号添加
+#### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
+* :white_check_mark: [MCLQE](https://github.com/yezi-fak/MCLQE)：开源的 Minecraft 启动器，自动下载游戏与 Java、支持微软正版登录和离线账号、一键安装 Fabric/Forge 与 Modrinth 模组，Windows 解压即用
+
 #### AONIR - [Github](https://github.com/Avarce)
 * :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
 
