@@ -38,6 +38,9 @@
 #### chenaiqifei - [Github](https://github.com/chenaiqifei)
 * :white_check_mark: [AI Image Combiner](https://ai-image-combiner.com/)：上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费
 
+#### LexianLix - [Github](https://github.com/LexianLix)
+*:white_check_mark: [漫匣 Manxia](https://github.com/LexianLix/manxia)：注重书籍质感的 Flutter 漫画阅读器，3D 书架与插件阅读室，支持本地导入和离线阅读。
+
 ### 2026 年 10 月 23 号添加
 #### Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)
 * :clock8: [Companest 伴境](https://github.com/Owen-Teng/companest)：Windows AI 工作伙伴应用，通过房间、角色和事项板组织邮件上下文、回复草稿与后续变化；当前可查看虚构数据演示，安装包与源码尚未公开 - [邮件预览说明](https://github.com/Owen-Teng/companest/blob/main/docs/MAIL-FEATURES.zh-CN.md)
