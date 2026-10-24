@@ -41,7 +41,7 @@
 * :white_check_mark: [AI Image Combiner](https://ai-image-combiner.com/)：上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费
 
 #### LexianLix - [Github](https://github.com/LexianLix)
-*:white_check_mark: [漫匣 Manxia](https://github.com/LexianLix/manxia)：注重书籍质感的 Flutter 漫画阅读器，3D 书架与插件阅读室，支持本地导入和离线阅读。
+* :white_check_mark: [漫匣 Manxia](https://github.com/LexianLix/manxia)：注重书籍质感的 Flutter 漫画阅读器，3D 书架与插件阅读室，支持本地导入和离线阅读
 
 ### 2026 年 10 月 23 号添加
 #### Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)
@@ -518,6 +518,7 @@
 #### Cayden(上海) - [Github](https://github.com/caydock), [博客](https://caydock.com)
 * :white_check_mark: [WorthCay](https://worthcay.com)：Coast FIRE 计算器（免费），输入年龄、退休年龄、退休后年支出、当前投资资产与每月投入，算出 Coast FIRE 数字与完整 FIRE 数字；可保存目标并按 Actual vs Goal 跟踪进度，对比「继续投入」与「停止投入让收益复利」两条路径的增长曲线
 * :white_check_mark: [CoverCay](https://cover.caydock.com)：音乐专辑封面搜索下载（免费），基于 iTunes 数据检索专辑封面、歌曲封面与音乐视频封面，支持多国家地区与多种尺寸一键下载或复制
+* :white_check_mark: [FlowCay](https://flowcay.com)：电商 AI 工具导航，精选电商场景的 AI 工具、工作流、Skills 与 MCP，帮卖家和 Agent 找对工具
 
 ### 2026 年 10 月 8 号添加
 
@@ -5404,34 +5405,6 @@
 #### 7SaiWen(成都)
 * :white_check_mark: [SSH Monitor: SSH终端与服务器监控](https://apps.apple.com/cn/app/id6479361680)：SSH 远程云服务器/容器监控管理终端
 * :white_check_mark: [OpenTerm](https://apps.apple.com/cn/app/openterm/id1481149807)：终端模拟器, 口袋里的 Linux
-
-### 2025 年 3 月 12 号添加
-#### 超杰(河南)
-* :x: [SlideBrowser](https://deepthinkapps.com/zh/apps/slide-browser/)：轻量的滑动浏览器，给你不一样的浏览器交互体验
-
-#### suwenly(广州) - [Github](https://github.com/TravelTranslator/)
-* :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，实时语音转文字并翻译成多国语言，朗读翻译的结果，与外国友人无缝沟通
-
-#### CrisChr - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
-* :x: [JSON Translator](https://jsontrans.vercel.app/)：用 DeepSeek-V3 帮助网站进行多语言翻译的工具，支持几十种国家的语言，只需提供 DeepSeek API key 并上传 i18n JSON 文件，选择要翻译的语言即可。服务于前端开发者。
-
-### 2025 年 3 月 8 号添加
-#### timerring - [Github](https://github.com/timerring)
-* :white_check_mark: [bilive](https://bilive.timerring.com/)：自动监听并录制 B 站直播和弹幕，7 x 24 小时无人监守录制、渲染弹幕、识别字幕、自动切片、自动上传、启动项目，人人都是录播员 - [开源地址](https://github.com/timerring/bilive)
-
-### 2025 年 3 月 7 号添加
-#### Peter - [Github](https://github.com/hx23840),
-* :x: [JustSEO](https://justseo.org/)：导航站，发现最佳 SEO 工具与资源，用于发现和比较顶级 SEO 工具、插件、软件和资源，以提升您的搜索排名
-
-#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
-* :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)：中英文完美 2:1 宽的 JetBrains Mono + Maple Mono 无衬线合成字体，工整，优雅，超高可读性
-
-#### howoii(上海) - [Github](https://github.com/howoii/SmartBookmark)
-* :white_check_mark: [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa)：AI 智能书签管理插件，自动生成标签，语义化搜索，告别繁琐管理——用AI重构你的书签管理体验
-
-### 2025 年 3 月 6 号添加
-#### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
-* :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
 
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

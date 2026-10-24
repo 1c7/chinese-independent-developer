@@ -8,6 +8,34 @@
 
 ---
 
+### 2025 年 3 月 12 号添加
+#### 超杰(河南)
+* :x: [SlideBrowser](https://deepthinkapps.com/zh/apps/slide-browser/)：轻量的滑动浏览器，给你不一样的浏览器交互体验
+
+#### suwenly(广州) - [Github](https://github.com/TravelTranslator/)
+* :white_check_mark: [Travel Translator](https://besttraveltranslator.com)：旅游翻译助手，实时语音转文字并翻译成多国语言，朗读翻译的结果，与外国友人无缝沟通
+
+#### CrisChr - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
+* :x: [JSON Translator](https://jsontrans.vercel.app/)：用 DeepSeek-V3 帮助网站进行多语言翻译的工具，支持几十种国家的语言，只需提供 DeepSeek API key 并上传 i18n JSON 文件，选择要翻译的语言即可。服务于前端开发者。
+
+### 2025 年 3 月 8 号添加
+#### timerring - [Github](https://github.com/timerring)
+* :white_check_mark: [bilive](https://bilive.timerring.com/)：自动监听并录制 B 站直播和弹幕，7 x 24 小时无人监守录制、渲染弹幕、识别字幕、自动切片、自动上传、启动项目，人人都是录播员 - [开源地址](https://github.com/timerring/bilive)
+
+### 2025 年 3 月 7 号添加
+#### Peter - [Github](https://github.com/hx23840),
+* :x: [JustSEO](https://justseo.org/)：导航站，发现最佳 SEO 工具与资源，用于发现和比较顶级 SEO 工具、插件、软件和资源，以提升您的搜索排名
+
+#### Space Time - [Github](https://github.com/SpaceTimee), [博客](https://blog.spacetimee.xyz/)
+* :white_check_mark: [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono)：中英文完美 2:1 宽的 JetBrains Mono + Maple Mono 无衬线合成字体，工整，优雅，超高可读性
+
+#### howoii(上海) - [Github](https://github.com/howoii/SmartBookmark)
+* :white_check_mark: [Smart Bookmark](https://chromewebstore.google.com/detail/smart-bookmark/nlboajobccgidfcdoedphgfaklelifoa)：AI 智能书签管理插件，自动生成标签，语义化搜索，告别繁琐管理——用AI重构你的书签管理体验
+
+### 2025 年 3 月 6 号添加
+#### crischr(成都) - [Github](https://github.com/CrisChr), [博客](https://red666.vercel.app/)
+* :white_check_mark: [Formulas AI](https://formulas-ai.vercel.app/)：帮助用户生成 Excel 公式，基于 DeepSeek-V3 的 AI 工具产品（需要用户自己填入key）
+
 ### 2025 年 2 月 28 号添加
 #### zhaoxiaozhao(杭州) - [Github](https://github.com/zhaoxiaozhao07)
 * :white_check_mark: [mouse-click](https://github.com/zhaoxiaozhao07/mouse-click)：带后台模式的 Windows 自动连点器
