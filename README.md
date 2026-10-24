@@ -25,6 +25,8 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 24 号添加
+#### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
+* :white_check_mark: [MCLQE](https://github.com/yezi-fak/MCLQE)：开源的 Minecraft 启动器，自动下载游戏与 Java、支持微软正版登录和离线账号、一键安装 Fabric/Forge 与 Modrinth 模组，Windows 解压即用
 
 #### aivideolab12 - [Github](https://github.com/aivideolab12)
 * :white_check_mark: [seedance 3.0](https://seedance3.si/)：图片、视频、音频混合输入合成一条视频，并可只替换片中商品或人物、保留原运镜；可切换 Seedance、Kling、Veo 等模型；第三方站点，非字节跳动官方产品
