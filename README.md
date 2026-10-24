@@ -25,6 +25,12 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 24 号添加
+#### AONIR - [Github](https://github.com/Avarce)
+* :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [PalaPili](https://palapili.com/)：AI 图像和视频创作工具网站，支持快速生成图片、视频，无限画布创作，持续迭代版本树创作 - [更多介绍](https://palapili.com/studio)
+
 #### chenaiqifei - [Github](https://github.com/chenaiqifei)
 * :white_check_mark: [AI Image Combiner](https://ai-image-combiner.com/)：上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费
 

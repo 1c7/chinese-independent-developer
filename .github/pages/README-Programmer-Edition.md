@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 24 号添加
+#### reAPI - [Github](https://github.com/reAPIAI)
+* :white_check_mark: [SeedRouter](https://seedrouter.ai/)：图像、视频、语言、音频模型聚合到一个 API Key，按次计费，失败请求不计费
+
 ### 2026 年 10 月 23 号添加
 #### anthonyhann - [Github](https://github.com/anthonyhann)
 * :white_check_mark: [token-pilot](https://github.com/anthonyhann/token-pilot)：AI 工具本地账单与预算控制器，一条命令汇总 Claude Code / Codex / Kimi Code 等用量与花费，菜单栏常驻今日费用与预算占比，支持超支通知与打转检测；国产模型自动归一，只读本地日志、数据不出本机 — macOS / Windows
