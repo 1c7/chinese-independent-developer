@@ -28,6 +28,9 @@
 #### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
 * :white_check_mark: [MCLQE](https://github.com/yezi-fak/MCLQE)：开源的 Minecraft 启动器，自动下载游戏与 Java、支持微软正版登录和离线账号、一键安装 Fabric/Forge 与 Modrinth 模组，Windows 解压即用
 
+#### aivideolab12 - [Github](https://github.com/aivideolab12)
+* :white_check_mark: [seedance 3.0](https://seedance3.si/)：图片、视频、音频混合输入合成一条视频，并可只替换片中商品或人物、保留原运镜；可切换 Seedance、Kling、Veo 等模型；第三方站点，非字节跳动官方产品
+
 #### AONIR - [Github](https://github.com/Avarce)
 * :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
 
@@ -36,6 +39,9 @@
 
 #### chenaiqifei - [Github](https://github.com/chenaiqifei)
 * :white_check_mark: [AI Image Combiner](https://ai-image-combiner.com/)：上传 2–5 张照片，用文字把人物、商品或背景组合到同一场景；有同框、家庭合照和商品场景提示词模板，首次免注册免费试用一次，下载无本站水印，之后登录继续使用，更多额度付费
+
+#### LexianLix - [Github](https://github.com/LexianLix)
+*:white_check_mark: [漫匣 Manxia](https://github.com/LexianLix/manxia)：注重书籍质感的 Flutter 漫画阅读器，3D 书架与插件阅读室，支持本地导入和离线阅读。
 
 ### 2026 年 10 月 23 号添加
 #### Owen Teng · 滕新阳 — 与 Robinson AI Lab 共建 - [GitHub](https://github.com/Owen-Teng)
