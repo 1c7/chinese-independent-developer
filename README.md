@@ -25,6 +25,10 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 24 号添加
+
+#### aivideolab12 - [Github](https://github.com/aivideolab12)
+* :white_check_mark: [seedance 3.0](https://seedance3.si/)：图片、视频、音频混合输入合成一条视频，并可只替换片中商品或人物、保留原运镜；可切换 Seedance、Kling、Veo 等模型；第三方站点，非字节跳动官方产品
+
 #### AONIR - [Github](https://github.com/Avarce)
 * :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
 
