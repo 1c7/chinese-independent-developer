@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 25 号添加
+#### Qovia - [Github](https://github.com/qovia)
+* :white_check_mark: [Qovia](https://qovia.ai/zh/)：中文社媒公开数据 API，一个 Key 拿到抖音、小红书、微博、B 站、快手、知乎、淘宝/京东评论等 20 多个平台的帖子、评论、达人资料和热榜，统一 JSON 格式；也可作为 MCP 接入 Claude、Cursor 等 AI 助手，空结果和失败不收费，新用户送 50 次试用
+
 ### 2026 年 10 月 24 号添加
 #### reAPI - [Github](https://github.com/reAPIAI)
 * :white_check_mark: [SeedRouter](https://seedrouter.ai/)：图像、视频、语言、音频模型聚合到一个 API Key，按次计费，失败请求不计费
