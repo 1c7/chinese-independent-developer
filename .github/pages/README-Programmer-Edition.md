@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 26 号添加
+#### cobalt-kite12 - [Github](https://github.com/cobalt-kite12)
+* :white_check_mark: [invoice-archiver](https://github.com/cobalt-kite12/invoice-archiver)：邮件发票自动归档命令行工具，从 .eml 或只读 IMAP 取 PDF 发票（含诺诺网链接发票），按「项目-金额-月日」改名、按月归档、按发票号去重并记 CSV 台账；纯 Python 标准库 + pdftotext，MIT 协议
+
 ### 2026 年 10 月 25 号添加
 #### Qovia - [Github](https://github.com/qovia)
 * :white_check_mark: [Qovia](https://qovia.ai/zh/)：中文社媒公开数据 API，一个 Key 拿到抖音、小红书、微博、B 站、快手、知乎、淘宝/京东评论等 20 多个平台的帖子、评论、达人资料和热榜，统一 JSON 格式；也可作为 MCP 接入 Claude、Cursor 等 AI 助手，空结果和失败不收费，新用户送 50 次试用
