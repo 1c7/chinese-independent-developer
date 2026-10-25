@@ -25,6 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 25 号添加
+#### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
+* :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)
+
 #### Jianyu Chen - [Github](https://github.com/CJianYu)
 * :white_check_mark: [ShotTide](https://shottide.com/)：AI 视频创作工作台，可规划和编辑分镜，生成图片与视频，添加中英文旁白和字幕并导出 MP4。支持中英文界面，适合产品展示、社交短视频和视觉故事
 
