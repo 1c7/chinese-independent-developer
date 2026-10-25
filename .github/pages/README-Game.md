@@ -4,7 +4,7 @@
 
 ### 2026 年 10 月 25 号添加
 #### liujd0326 - [Github](https://github.com/liujd0326)
-* :white_check_mark: [Choicer Voicer](https://choicervoicer.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：浏览器配音游戏，选现成配音包，用麦克风逐句录音、重录并预览，再下载成品 MP4；也可以开最多五人的私密房间一起配音。免费开玩，不用下载
+* :white_check_mark: [Choicer Voicer](https://choicervoicer.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：The Choicer Voicer 的第三方社区配音包资源站，提供 Voice Pack、Dub Pack 等素材检索、预览与原始来源链接，附浏览器本地 ZIP 校验和配音包制作工具
 
 ### 2026 年 10 月 24 号添加
 #### liujd0326 - [Github](https://github.com/liujd0326)

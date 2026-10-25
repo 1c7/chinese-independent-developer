@@ -25,6 +25,12 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 25 号添加
+#### LeenMa - [Github](https://github.com/leenlbma)
+* :white_check_mark: [审美工程](https://leenlbma.github.io/aesthetic-engineering/)：写给 AIGC 创作者与产品团队的 12 篇开源方法随笔，讨论审美判断怎样被描述、落实和检查，CC BY 4.0，附 llms.txt 方便交给 AI 阅读 - [更多介绍](https://github.com/leenlbma/aesthetic-engineering)
+
+#### Feng - [Github](https://github.com/Feng6611)
+* :white_check_mark: [Command Reopen](https://commandreopen.com/)：Mac 实用小工具，让原生 Cmd+Tab 切换时恢复最小化窗口，并在窗口全部关闭时重新打开窗口；无需辅助功能和录屏权限，14 天免费试用，$9.99 买断或 $5.99/年 - [App Store](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924)
+
 #### 259007 - [Github](https://github.com/259007)
 * :white_check_mark: [Aitoword](https://aitoword.online/)：文档转换工具（免费），完全在浏览器本地运行，把 AI 回答、Markdown 文本或 .md / .txt 文件转成可编辑 Word，保留标题、表格和 LaTeX 公式，提供三套排版预设，无需注册登录
 
@@ -35,12 +41,6 @@
 
 #### 杭州文旭互动科技 - [Github](https://github.com/TripleTre)
 * :white_check_mark: [DoCube](https://docube.venglyph.com/)：本地优先的个人知识库，把 PDF、EPUB、网页、Markdown 和视频收进同一库，阅读中完成标注、文档链接、全文搜索与间隔复习；支持 Mac / iPhone / iPad，免费最多 5 篇文档，Pro 一次性买断 - [App Store](https://apps.apple.com/app/id6470183496)
-
-#### LeenMa - [Github](https://github.com/leenlbma)
-* :white_check_mark: [审美工程](https://leenlbma.github.io/aesthetic-engineering/)：写给 AIGC 创作者与产品团队的 12 篇开源方法随笔，讨论审美判断怎样被描述、落实和检查，CC BY 4.0，附 llms.txt 方便交给 AI 阅读 - [更多介绍](https://github.com/leenlbma/aesthetic-engineering)
-
-#### Feng - [Github](https://github.com/Feng6611)
-* :white_check_mark: [Command Reopen](https://commandreopen.com/)：Mac 实用小工具，让原生 Cmd+Tab 切换时恢复最小化窗口，并在窗口全部关闭时重新打开窗口；无需辅助功能和录屏权限，14 天免费试用，$9.99 买断或 $5.99/年 - [App Store](https://apps.apple.com/us/app/command-reopen-fix-cmd-tab/id6757333924)
 
 ### 2026 年 10 月 24 号添加
 #### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
