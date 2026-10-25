@@ -24,6 +24,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 25 号添加
+#### 259007 - [Github](https://github.com/259007)
+* :white_check_mark: [Aitoword](https://aitoword.online/)：文档转换工具（免费），完全在浏览器本地运行，把 AI 回答、Markdown 文本或 .md / .txt 文件转成可编辑 Word，保留标题、表格和 LaTeX 公式，提供三套排版预设，无需注册登录
+
+#### Yansoul - [Github](https://github.com/Yansoul)
+* :white_check_mark: [Time Overlay](https://timeoverlay.co/)：浏览器本地倒计时叠加层生成器，导出透明 PNG 序列或带 alpha 的 WebM，给 OBS、Premiere 和 DaVinci 用，无需上传视频、无需注册
+* :white_check_mark: [VideoDance](https://videodance.co/)：AI 视频和图片生成网站，用文字或参考图生成视频和图片，可选 Seedance、Kling、Veo 等模型
+* :white_check_mark: [YouTube GIF Comments](https://youtubegifcomments.com/)：浏览器本地的视频转 GIF 和 GIF 压缩工具，附带 YouTube GIF 评论教程，无需注册、不上传文件
+
+#### 杭州文旭互动科技 - [Github](https://github.com/TripleTre)
+* :white_check_mark: [DoCube](https://docube.venglyph.com/)：本地优先的个人知识库，把 PDF、EPUB、网页、Markdown 和视频收进同一库，阅读中完成标注、文档链接、全文搜索与间隔复习；支持 Mac / iPhone / iPad，免费最多 5 篇文档，Pro 一次性买断 - [App Store](https://apps.apple.com/app/id6470183496)
+
 ### 2026 年 10 月 24 号添加
 #### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
 * :white_check_mark: [MCLQE](https://github.com/yezi-fak/MCLQE)：开源的 Minecraft 启动器，自动下载游戏与 Java、支持微软正版登录和离线账号、一键安装 Fabric/Forge 与 Modrinth 模组，Windows 解压即用
