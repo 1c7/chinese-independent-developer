@@ -36,6 +36,9 @@
 #### 杭州文旭互动科技 - [Github](https://github.com/TripleTre)
 * :white_check_mark: [DoCube](https://docube.venglyph.com/)：本地优先的个人知识库，把 PDF、EPUB、网页、Markdown 和视频收进同一库，阅读中完成标注、文档链接、全文搜索与间隔复习；支持 Mac / iPhone / iPad，免费最多 5 篇文档，Pro 一次性买断 - [App Store](https://apps.apple.com/app/id6470183496)
 
+#### LeenMa - [Github](https://github.com/leenlbma)
+* :white_check_mark: [审美工程](https://leenlbma.github.io/aesthetic-engineering/)：写给 AIGC 创作者与产品团队的 12 篇开源方法随笔，讨论审美判断怎样被描述、落实和检查，CC BY 4.0，附 llms.txt 方便交给 AI 阅读 - [更多介绍](https://github.com/leenlbma/aesthetic-engineering)
+
 ### 2026 年 10 月 24 号添加
 #### 椰子(潍坊) - [Github](https://github.com/yezi-fak)
 * :white_check_mark: [MCLQE](https://github.com/yezi-fak/MCLQE)：开源的 Minecraft 启动器，自动下载游戏与 Java、支持微软正版登录和离线账号、一键安装 Fabric/Forge 与 Modrinth 模组，Windows 解压即用
