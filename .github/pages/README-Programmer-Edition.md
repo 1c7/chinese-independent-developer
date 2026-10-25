@@ -19,7 +19,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
 * :white_check_mark: [apkgo](https://github.com/KevinGong2013/apkgo)：Android APK 多渠道分发 CLI，一条命令并发上传到华为 / 小米 / OPPO / vivo / 荣耀 / 应用宝 / Google Play / Samsung / 蒲公英 / fir.im 等 10+ 应用市场，也支持鸿蒙 .app；输出 JSON 与语义化退出码，适合接 GitHub Actions / GitLab CI，另有 Web GUI、Go 库调用与上传前后 Shell Hook
-* :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo ；上手指南：https://apkgo.baici.tech/onboarding
 
 #### Qovia - [Github](https://github.com/qovia)
 * :white_check_mark: [Qovia](https://qovia.ai/zh/)：中文社媒公开数据 API，一个 Key 拿到抖音、小红书、微博、B 站、快手、知乎、淘宝/京东评论等 20 多个平台的帖子、评论、达人资料和热榜，统一 JSON 格式；也可作为 MCP 接入 Claude、Cursor 等 AI 助手，空结果和失败不收费，新用户送 50 次试用
