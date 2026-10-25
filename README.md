@@ -25,6 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 25 号添加
+#### Jianyu Chen - [Github](https://github.com/CJianYu)
+* :white_check_mark: [ShotTide](https://shottide.com/)：AI 视频创作工作台，可规划和编辑分镜，生成图片与视频，添加中英文旁白和字幕并导出 MP4。支持中英文界面，适合产品展示、社交短视频和视觉故事
+
 #### LeenMa - [Github](https://github.com/leenlbma)
 * :white_check_mark: [审美工程](https://leenlbma.github.io/aesthetic-engineering/)：写给 AIGC 创作者与产品团队的 12 篇开源方法随笔，讨论审美判断怎样被描述、落实和检查，CC BY 4.0，附 llms.txt 方便交给 AI 阅读 - [更多介绍](https://github.com/leenlbma/aesthetic-engineering)
 
@@ -5387,42 +5390,6 @@
 #### Duan - [Github](https://github.com/duanduanhh)
 * :white_check_mark: [VIEW PRE](https://viewpre.com/)：中国观景指数预测，当前提供泰山、黄山、武功山云海近三日指数预测，后续扩展更多景点指数预测。期待大家的旅行都不扫兴而归！
 * :x: [Tool Hut](https://tool-hut.com/)：工具箱，内页支持文本 DIFF、JSON 序列化、时间戳转换等小工具，让天下没有难用的工具。
-
-### 2025 年 3 月 19 号添加
-#### Ryan - [Github](https://github.com/Ryan10Yu)
-* :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/)：基于 Flux 的图像生成网站
-* :x: [AI Hairstyle](https://aihairstyle.net/)：上传照片，用 AI 生成不同发型的图片，帮助您选择合适的发型
-
-### 2025 年 3 月 16 号添加
-#### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
-* :white_check_mark: [海嘉 AI 实验室智能应用](http://117.72.40.129:8001/)：表格问答，文字 OCR，表格图片结构识别等
-
-#### Jeremyym - [Github](https://github.com/Jeremyymxiao)
-* :white_check_mark: [AI Agents Directory](https://ai-agents-directory.com)：AI 智能体导航站
-* :white_check_mark: [Chinese Name Generator](https://chinese-name-generator.com)：给外国人起中文名，基于 DeepSeek V3
-* :white_check_mark: [Learn Kana](https://learnkana.pro)：学习日语平假名片假名, 基于 DeepSeek V3
-* :x: [AI Death Calculator](https://aideathcalculator.info)：用 AI 计算还剩多少寿命
-
-### 2025 年 3 月 15 号添加
-#### 橘子哥
-* :white_check_mark: [TempMail.Love](https://tempmail.love/)：即用即走的临时邮箱，保护你的个人隐私安全 
-
-#### Someuxyz - [Github](github.com/someu/aigotools) 
-* :white_check_mark:  [Aigotools](https://github.com/someu/aigotools/blob/main/README.zh-CN.md)：开源导航站
-* :white_check_mark: [Similarlabs](http://similarlabs.com/)：洞察需求和流量，发现和对比你的下一个心仪工具
-
-### 2025 年 3 月 14 号添加
-#### jzhone(佛山)
-* :white_check_mark: [反斗限免](https://free.apprcn.com)：软件、游戏限免资讯网站
-* :white_check_mark: [BFP Calculator](https://bfpcalculator.com)：免费计算你的体脂率，并提供相应解决方案
-
-### 2025 年 3 月 13 号添加
-#### Go7hic - [Github](https://github.com/Go7hic)
-* :white_check_mark: [涂色乐园](https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad)：通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)
-
-#### 7SaiWen(成都)
-* :white_check_mark: [SSH Monitor: SSH终端与服务器监控](https://apps.apple.com/cn/app/id6479361680)：SSH 远程云服务器/容器监控管理终端
-* :white_check_mark: [OpenTerm](https://apps.apple.com/cn/app/openterm/id1481149807)：终端模拟器, 口袋里的 Linux
 
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

@@ -8,6 +8,42 @@
 
 ---
 
+### 2025 年 3 月 19 号添加
+#### Ryan - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [FLUX AI ART](https://fluxaiart.ai/)：基于 Flux 的图像生成网站
+* :x: [AI Hairstyle](https://aihairstyle.net/)：上传照片，用 AI 生成不同发型的图片，帮助您选择合适的发型
+
+### 2025 年 3 月 16 号添加
+#### jiangnanboy - [Github](https://github.com/jiangnanboy), [博客](https://jiangnanboy.github.io/)
+* :white_check_mark: [海嘉 AI 实验室智能应用](http://117.72.40.129:8001/)：表格问答，文字 OCR，表格图片结构识别等
+
+#### Jeremyym - [Github](https://github.com/Jeremyymxiao)
+* :white_check_mark: [AI Agents Directory](https://ai-agents-directory.com)：AI 智能体导航站
+* :white_check_mark: [Chinese Name Generator](https://chinese-name-generator.com)：给外国人起中文名，基于 DeepSeek V3
+* :white_check_mark: [Learn Kana](https://learnkana.pro)：学习日语平假名片假名, 基于 DeepSeek V3
+* :x: [AI Death Calculator](https://aideathcalculator.info)：用 AI 计算还剩多少寿命
+
+### 2025 年 3 月 15 号添加
+#### 橘子哥
+* :white_check_mark: [TempMail.Love](https://tempmail.love/)：即用即走的临时邮箱，保护你的个人隐私安全 
+
+#### Someuxyz - [Github](github.com/someu/aigotools) 
+* :white_check_mark:  [Aigotools](https://github.com/someu/aigotools/blob/main/README.zh-CN.md)：开源导航站
+* :white_check_mark: [Similarlabs](http://similarlabs.com/)：洞察需求和流量，发现和对比你的下一个心仪工具
+
+### 2025 年 3 月 14 号添加
+#### jzhone(佛山)
+* :white_check_mark: [反斗限免](https://free.apprcn.com)：软件、游戏限免资讯网站
+* :white_check_mark: [BFP Calculator](https://bfpcalculator.com)：免费计算你的体脂率，并提供相应解决方案
+
+### 2025 年 3 月 13 号添加
+#### Go7hic - [Github](https://github.com/Go7hic)
+* :white_check_mark: [涂色乐园](https://apps.apple.com/us/app/coloringland/id6742505878?platform=ipad)：通过 AI 生成涂画的涂色应用 - [更多介绍](https://www.dyy.im/coloring-land)
+
+#### 7SaiWen(成都)
+* :white_check_mark: [SSH Monitor: SSH终端与服务器监控](https://apps.apple.com/cn/app/id6479361680)：SSH 远程云服务器/容器监控管理终端
+* :white_check_mark: [OpenTerm](https://apps.apple.com/cn/app/openterm/id1481149807)：终端模拟器, 口袋里的 Linux
+
 ### 2025 年 3 月 12 号添加
 #### 超杰(河南)
 * :x: [SlideBrowser](https://deepthinkapps.com/zh/apps/slide-browser/)：轻量的滑动浏览器，给你不一样的浏览器交互体验
