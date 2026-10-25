@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 10 月 25 号添加
+#### liujd0326 - [Github](https://github.com/liujd0326)
+* :white_check_mark: [Choicer Voicer](https://choicervoicer.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：浏览器配音游戏，选现成配音包，用麦克风逐句录音、重录并预览，再下载成品 MP4；也可以开最多五人的私密房间一起配音。免费开玩，不用下载
+
 ### 2026 年 10 月 24 号添加
 #### liujd0326 - [Github](https://github.com/liujd0326)
 * :white_check_mark: [First Person Boxing](https://firstpersonboxing.net/)：免费 3D 第一人称拳击网页游戏，从自己的拳套后出拳，可滑步反击，含训练、快速对战和五人生涯，无需下载或注册
