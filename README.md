@@ -25,6 +25,10 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 25 号添加
+
+#### Hans - [Github](https://github.com/coffeefreehans)
+* :white_check_mark: [GitHubPlay](https://githubplay.com)：精选 GitHub 优质开源客户端软件与 AI 工具目录，提供每日/每周 Star 增长排行榜与多平台 Releases 安装包直达下载 - [源码/主页](https://github.com/coffeefreehans/githubplay)
+
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
 * :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)
 
