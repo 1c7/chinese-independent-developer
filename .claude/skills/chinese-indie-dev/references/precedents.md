@@ -94,7 +94,11 @@ EveFab（evefab.com / gexiansen007）提交的是一条 B2B 制造业站点：�
 - **自托管 Docker 部署被判主版面**（#1206 Site Guard）→ 错，应程序员版面。
 - **摸鱼解压玩具是游戏却提交到主版面**（#1208）→ 错，应游戏版面。
 - **API 中转站 / 套壳服务**归程序员版面：MakerEnd、GPTZZZ、TeamoRouter、Sub2API、AI-ROUTER、CoderPlan、AI SaaS Go、apimodels.app。
-- **卖「会员账号 / 代充卡密」的归主版面，和 API 中转站不是一类**（2026-10-19 郑先生质疑「苏哲AI 为何在主版面」时定的口径）：判据是**买完之后怎么用**——拿到的是能直接登官网/App 的会员 → 主版面（kaigpt.ai、苏哲AI、GPTGeminiGrok.AI、卡网大全、AI 比价）；拿到的是要填进 `base_url`、改 Claude Code / Codex 配置的密钥 → 程序员版面（CatCatCode、MakerEnd、GPTZZZ）。别因为「都是买 AI」就归一类。
+- **⚠️ 代充站口径已翻转（2026-10-26 郑先生定）**：AI API 中转站 **和** 卖会员账号 / 代充卡密的，**一律程序员版面**。理由是「主版面不能被一大堆卖 AI 额度、卖会员的污染」，且这类提交量大、随时可能变。**作废 2026-10-19 那条「代充归主版面」的旧口径**（当时按「拿到的是能登官网的会员还是 base_url 密钥」区分，已不再使用，不要再拿它把代充站留在主版面）。
+  - 已按新口径搬迁：AONIR（aonir.com）、xsub.ai、GPTGeminiGrok.AI（trygrokai.asia）从主版面挪到程序员版面，各自保留原添加日期区块。
+  - **仍留主版面**：自己不卖货的目录 / 比价 / 评测站——卡网大全 CardNav、AI 比价（china-ai-arbitrage）、OkkMax、CCNavX、巨浪 AI，以及中转站检测工具（一叶知秋、cocodot 降智检测）。判据是「有没有自己的货架和收银台」，不是「有没有提到中转站」。
+  - 执行优先级：主版面宁可漏收，程序员版面可以堆。
+
 - **桌面 App 看服务对象**（2026-10-19）：Codex Quota Dot、Poke Poke、CCHub、DSH Studio、WorkGround2、状态栏歌词都在程序员版面。反例 MastraWork（multi-agent 工程工作台）曾判主版面，属少数派，不要据此把同类工具往主版面放。
 - **PR 写错版面照样合并**，合并后单独发修正 commit 搬到正确版面；`maintainer_can_modify` 为 true 也可以直接改他的分支。改完如果致谢评论已发出，记得 PATCH 修正版面名。
 

@@ -59,9 +59,6 @@
 #### aivideolab12 - [Github](https://github.com/aivideolab12)
 * :white_check_mark: [seedance 3.0](https://seedance3.si/)：图片、视频、音频混合输入合成一条视频，并可只替换片中商品或人物、保留原运镜；可切换 Seedance、Kling、Veo 等模型；第三方站点，非字节跳动官方产品
 
-#### AONIR - [Github](https://github.com/Avarce)
-* :white_check_mark: [AONIR](https://aonir.com/?utm_source=cnindie&utm_medium=github)：ChatGPT 会员充值站，微信支付自助下单，直充到你自己的账号，通常 1–5 分钟到账；Plus ¥168/月，Pro 100、Pro 200 也可自助，无法交付经核实后退款 - [代充怎么选：安全与封号说明](https://github.com/Avarce/gpt-daichong-guide)
-
 #### Shawn(北京) - [Github](https://github.com/ShawnHacks)
 * :white_check_mark: [PalaPili](https://palapili.com/)：AI 图像和视频创作工具网站，支持快速生成图片、视频，无限画布创作，持续迭代版本树创作 - [更多介绍](https://palapili.com/studio)
 
@@ -102,9 +99,6 @@
 
 #### 2EU55 - [Github](https://github.com/2EU55)
 * :white_check_mark: [巨浪 AI](https://jvlangai.com/)：AI 模型/API 报价查询网站（免费），无需登录，可按模型查服务商报价、计费单位和原始来源，区分账户余额与实际费用
-
-#### 小李哥 - [Github](https://github.com/li13203140613)
-* :white_check_mark: [xsub.ai](https://xsub.ai)：Grok 会员代充，在官方结账页开通到你自己的账号，可开发票对公报销，掉订阅质保
 
 #### Wenxi闻西 - [Github](https://github.com/wenxiuncle/)
 * :white_check_mark: [趣站博物馆](https://sitopia.youquhome.com/)：英文 Sitopia 取自复合词 Site+Utopia，意为网站乌托邦，在浪漫温馨的游戏世界里沉浸式浏览趣站 - [更多介绍](https://youquhome.com/12870/)
@@ -2037,9 +2031,6 @@
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
 * :white_check_mark: [HN 每日精选](https://pageslabs.com/zh)：每日更新 Hacker News 热门话题和讨论，支持多语言
-
-#### xianyu110 - [Github](https://github.com/xianyu110)
-* :white_check_mark: [GPTGeminiGrok.AI](https://trygrokai.asia/list/#/home)：Grok / SuperGrok 为主的 AI 模型服务入口，同时提供 GPTPlus、GeminiPro、ClaudeProMax 账号及 API 中转
 
 #### Felix - [Github](https://github.com/greek-zzf)
 * :white_check_mark: [Passport Size Photo](https://passportsizephoto.net)：证件照制作工具，上传照片后选择国家/证件预设，预览尺寸、背景和人脸裁剪，下载数字文件或 4x6 打印排版
