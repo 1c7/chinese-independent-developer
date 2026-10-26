@@ -5382,35 +5382,6 @@
 #### zhushen - [Github](https://github.com/zhushen12580)
 * :x: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
 
-### 2025 年 3 月 27 号添加
-#### Yasuomang(杭州)
-* :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
-
-#### Sawyer(上海) - [Github](https://github.com/Sawyer-G)
-* :white_check_mark: [idiom.today-中文成语学习工具](https://idiom.today/)：帮助英文用户学习中文成语的网站，通过脑图的形式拆分中文成语，提供词义解释，成语故事以及使用案例
-
-### 2025 年 3 月 26 号添加
-#### PixelBear - [GitHub](https://github.com/JobYu)
-* :white_check_mark: [Image2pixel](https://store.steampowered.com/app/3475120/Image2pixelPixelArtGenerator/)：图片转像素画工具，已上架 Steam
-
-#### 超能刚哥 - [Github](https://github.com/margox/)
-* :white_check_mark: [音之梦](https://apps.apple.com/cn/app/%E9%9F%B3%E4%B9%8B%E6%A2%A6-%E5%8A%A9%E4%BD%A0%E4%B8%80%E5%A4%9C%E5%A5%BD%E6%A2%A6/id6742869783)：轻音乐、白噪声和环境声 App，提供数十首轻音乐、几十种环境声，数十亿种搭配混合结果，用于辅助睡眠或者冥想，已上架 iOS App Store - [作者提供了一些兑换码](https://github.com/1c7/chinese-independent-developer/pull/485#issue-2945709859)
-
-#### Lingglee - [Github](https://github.com/lingglee)
-* :x: [Pronunciation Exercises](https://pronunciationexercises.com/)：AI 全球发音训练平台
-
-### 2025 年 3 月 24 号添加
-#### underwoodxie
-* :white_check_mark: [Simpedit](https://simpedit.com/)：提供高质量图像特效的免费在线平台，无论您是专业设计师还是普通用户，都能通过简单几步创造出具有艺术感的图像作品 - [更多介绍](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-2746268292)
-
-#### 参要字帖 - [Github](https://github.com/giroudg)
-* :white_check_mark: [参要 AI - 诗词字帖](https://canyaoai.com/copybooks?from=1c7_chinese_independent_developer)：用诗词作为练字内容，又练字又温习诗词，双倍收获
-
-### 2025 年 3 月 20 号添加
-#### Duan - [Github](https://github.com/duanduanhh)
-* :white_check_mark: [VIEW PRE](https://viewpre.com/)：中国观景指数预测，当前提供泰山、黄山、武功山云海近三日指数预测，后续扩展更多景点指数预测。期待大家的旅行都不扫兴而归！
-* :x: [Tool Hut](https://tool-hut.com/)：工具箱，内页支持文本 DIFF、JSON 序列化、时间戳转换等小工具，让天下没有难用的工具。
-
 ## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
