@@ -28,6 +28,9 @@
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
+#### hankok - [Github](https://github.com/hankok)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
+
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
 * :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)
