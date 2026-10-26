@@ -26,7 +26,9 @@
 
 ### 2026 年 10 月 26 号添加
 #### 刘峰 - [Github](https://github.com/mainliufeng)
-- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
+#### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
+* :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
+
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
 ### 2026 年 10 月 25 号添加
