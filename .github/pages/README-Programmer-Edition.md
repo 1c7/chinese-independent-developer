@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 26 号添加
+#### Kajian(佛山) - [Github](https://github.com/gdfsdjj145), [博客](https://kajian.dev/)
+* :white_check_mark: [GameSkill](https://gameskill.dev/)：收藏了上百个 game skill，让 Claude Code、Codex、Cursor、Kimi 等 AI 编程 Agent 更会做游戏的 Skill（SKILL.md）、MCP 服务器和配套工具 - 覆盖 Unity / Unreal / Godot / Bevy / Roblox 等引擎，以及美术资产、像素风格、音效、测试与逆向。所有链接都经过可访问性检查，星数和许可证来自 GitHub API（2026-10-26 更新）。同一个仓库里的多个 skill 合并为一行，data/skills.json 里保留了全部 255 个 skill 的明细
+
 #### cobalt-kite12 - [Github](https://github.com/cobalt-kite12)
 * :white_check_mark: [invoice-archiver](https://github.com/cobalt-kite12/invoice-archiver)：邮件发票自动归档命令行工具，从 .eml 或只读 IMAP 取 PDF 发票（含诺诺网链接发票），按「项目-金额-月日」改名、按月归档、按发票号去重并记 CSV 台账；纯 Python 标准库 + pdftotext，MIT 协议
 
