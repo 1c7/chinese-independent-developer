@@ -298,7 +298,7 @@
 
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
-* :white_check_mark: [涟漪](https://tumingke0.github.io/ripple/)：安卓上的戒短视频与自控小工具。装上自带晚间专注时段与短视频每日 90 分钟上限；收紧规则立刻生效，放松规则或卸载得先等 15 分钟冷静期（支持无障碍 + 设备管理器防冲动卸载，以及可选的本机无线调试高级保护，划掉后台或重启手机都能自己恢复）。免费无广告，数据纯本地 - [安装包下载](https://github.com/tumingke0/ripple/releases/latest)
+* :white_check_mark: [涟漪](https://tumingke0.github.io/ripple/)：安卓上的戒短视频与防沉迷小工具（自己管手或家长管孩子看手机都能用）。自带晚间专注时段与短视频每日时长上限；收紧规则立刻生效，放松规则或卸载得先等 15 分钟～2 小时冷静期或由家长/亲友输入解锁码（支持防卸载、防改系统时间，以及可选的本机无线调试高级保护，杀后台或重启手机都能自己恢复，不影响电话和闹钟）。免费无广告，数据纯本地 - [安装包下载](https://github.com/tumingke0/ripple/releases/latest)
 
 ### 2026 年 10 月 16 号添加
 
