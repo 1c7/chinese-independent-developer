@@ -28,6 +28,9 @@
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
+#### 关津 - [Github](https://github.com/bjianhang)
+* :white_check_mark: [关津](https://guanjin.app/)：外贸单证工具站，报关单 PDF 转 Excel、装柜计算、发票装箱单生成、单据核对等 15 个工具，浏览器本地处理，免费无需注册
+
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
 * :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)
