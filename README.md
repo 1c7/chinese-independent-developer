@@ -25,21 +25,30 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 26 号添加
-#### 刘峰 - [Github](https://github.com/mainliufeng)
-#### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
-* :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
+#### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
+* :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
+
+#### Miracle - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [ReelMorph](https://reelmorph.app/)：面向内容创作者及普通用户的 AI 照片转视频工具，上传照片并描述想要的动态效果，或选择预设特效，用自己的照片创作热门同款视频
+* :white_check_mark: [CarWrapDesign](https://carwrapdesign.app/)：帮助车主和汽车爱好者将车衣创意转化为可视化方案，选择支持车型版本，使用免费的浏览器编辑器或 AI 生成器创作图案，在 3D 车辆上比较五种表面效果，并保存、分享、发布或下载设计成果
+
+#### Jiguang - [Github](https://github.com/indielucas)
+* :white_check_mark: [YIX](https://yix.ai)：AI 图像与视频创作网站，在同一工作台完成图像生成、视频生成、修图、老照片修复和商品视觉制作；生成按积分付费，提供免费提示词工具，注册不赠送积分
 
 #### hankok - [Github](https://github.com/hankok)
 * :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
 
+#### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
+* :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
+
 #### 关津 - [Github](https://github.com/bjianhang)
 * :white_check_mark: [关津](https://guanjin.app/)：外贸单证工具站，报关单 PDF 转 Excel、装柜计算、发票装箱单生成、单据核对等 15 个工具，浏览器本地处理，免费无需注册
 
+#### 重庆安星纪科技有限公司 - [Github](https://github.com/MonsterJay)
+* :white_check_mark: [安星纪工具站](https://anxingjilab.com/)：在线处理图片、按 Excel 清单批量改名和核对文件是否收齐；另提供 Windows 截图粘贴存图、剪贴板日记及操作手册生成工具，在线功能需登录开通会员，桌面工具提供 3 天试用、单款 10 元激活
+
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
-
-#### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
-* :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
 
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
