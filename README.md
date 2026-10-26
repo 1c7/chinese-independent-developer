@@ -29,10 +29,14 @@
 #### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
 * :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
 
-* :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
+#### hankok - [Github](https://github.com/hankok)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
 
 #### 关津 - [Github](https://github.com/bjianhang)
 * :white_check_mark: [关津](https://guanjin.app/)：外贸单证工具站，报关单 PDF 转 Excel、装柜计算、发票装箱单生成、单据核对等 15 个工具，浏览器本地处理，免费无需注册
+
+#### 刘峰 - [Github](https://github.com/mainliufeng)
+* :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
