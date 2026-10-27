@@ -28,6 +28,9 @@
 #### Charlie W - [Github](https://github.com/charliewwdev)
 * :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
 
+#### Jazmín - [Github](https://github.com/ljmng7)
+* :white_check_mark: [MacMix](https://macmix.jazminli.com)：Mac 菜单栏音量混音器，支持按应用独立调节音量、自定义 EQ 和多设备输出；基础功能免费，高级功能 ¥29.99 一次性买断，代码全部开源（GPL-3.0） - [GitHub](https://github.com/ljmng7/MacMix)
+
 ### 2026 年 10 月 26 号添加
 #### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
 * :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
@@ -53,6 +56,9 @@
 
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
+
+#### 枯白啃设计 - [Github](https://github.com/kubai087)
+* :white_check_mark: [Lumno](https://lumno.kubai.design/)：浏览器命令栏与新标签页扩展，任意网页一个快捷键同时搜索标签页、书签和历史记录，支持拼音搜中文、40+ 网站站内搜索和直接问 ChatGPT/DeepSeek 等 AI；免费开源（GPL-3.0），本地处理无需注册，支持 Chrome / Edge / Firefox - [GitHub](https://github.com/kubai087/lumno-extension)
 
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
@@ -302,6 +308,7 @@
 
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)：Mac 外接屏窗口布局恢复工具，拔掉显示器再插回，窗口自动回到原来的位置和桌面（Space），家里公司换着接不同的显示器也行；还能用键盘亮度键直接调外接屏亮度，免费开源 - [下载](https://github.com/tumingke0/LayoutKeeper/releases/latest)
+* :white_check_mark: [涟漪](https://ripplefocus.github.io/)：安卓上的戒短视频与防沉迷小工具（自己管手或家长管孩子看手机都能用）。自带晚间专注时段与短视频每日时长上限；收紧规则立刻生效，放松规则或卸载得先等 15 分钟～2 小时冷静期或由家长/亲友输入解锁码（支持防卸载、防改系统时间，以及可选的本机无线调试高级保护，杀后台或重启手机都能自己恢复，不影响电话和闹钟）。免费无广告，数据纯本地 - [安装包下载](https://github.com/ripplefocus/ripplefocus.github.io/releases/latest)
 
 ### 2026 年 10 月 16 号添加
 
