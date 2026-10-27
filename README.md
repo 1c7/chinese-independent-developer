@@ -25,6 +25,9 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 27 号添加
+#### Charlie W - [Github](https://github.com/charliewwdev)
+* :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
+
 #### Jazmín - [Github](https://github.com/ljmng7)
 * :white_check_mark: [MacMix](https://macmix.jazminli.com)：Mac 菜单栏音量混音器，支持按应用独立调节音量、自定义 EQ 和多设备输出；基础功能免费，高级功能 ¥29.99 一次性买断，代码全部开源（GPL-3.0） - [GitHub](https://github.com/ljmng7/MacMix)
 
