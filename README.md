@@ -4,7 +4,7 @@
 ### 子版面
 - [程序员版面](./.github/pages/README-Programmer-Edition.md)：使用需要命令行或写代码
 - [游戏版面](./.github/pages/README-Game.md)：都是游戏
-- [更早的项目（2018 ~ 2025 年）](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
+- [2018 ~ 2025 年收录的项目](./.github/pages/README-Earlier-Projects.md)：项目太多，从主列表单独分出一册
 
 备注：您当前查看的是主版面，收录的产品是打开即用，和子版面中的产品类型不同。
 
@@ -5354,7 +5354,7 @@
 #### rukShen(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
 * :white_check_mark: [ReplayTact - Form Automation Tester](https://chromewebstore.google.com/detail/replaytact-form-automatio/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)：自动化填写和测试网页表单的 Chrome 插件，支持动态数据生成和用户操作重放，提升测试效率和覆盖率
 
-## 👉 更早的项目（2018 年 ~ 2025 年）在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
+## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
 ### 基于本列表数据源的产品
