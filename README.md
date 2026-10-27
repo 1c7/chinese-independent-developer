@@ -50,6 +50,9 @@
 #### 刘峰 - [Github](https://github.com/mainliufeng)
 * :white_check_mark: [Quick Image Kit](https://quickimagekit.com)：免费图片处理工具，把图片压缩到指定 KB、裁剪、转换格式，支持 JPG/PNG/WebP，全部在浏览器本地处理，不上传、无需注册
 
+#### 枯白啃设计 - [Github](https://github.com/kubai087)
+* :white_check_mark: [Lumno](https://lumno.kubai.design/)：浏览器命令栏与新标签页扩展，任意网页一个快捷键同时搜索标签页、书签和历史记录，支持拼音搜中文、40+ 网站站内搜索和直接问 ChatGPT/DeepSeek 等 AI；免费开源（GPL-3.0），本地处理无需注册，支持 Chrome / Edge / Firefox - [GitHub](https://github.com/kubai087/lumno-extension)
+
 ### 2026 年 10 月 25 号添加
 #### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
 * :white_check_mark: [apkgo / apkgo cloud](https://apkgo.baici.tech)：一次上传，并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（App Store）上架；开源 CLI（PolyForm Noncommercial）：https://github.com/KevinGong2013/apkgo - [上手指南](https://apkgo.baici.tech/onboarding)
