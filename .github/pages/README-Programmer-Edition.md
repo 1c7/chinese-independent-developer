@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 27 号添加
+#### HyperClockUp - [Github](https://github.com/HyperClockUp)
+* :white_check_mark: [Coday](https://github.com/HyperClockUp/Coday)：Windows 桌面工具，让 Devin、Cursor、Windsurf、Kiro 和 VS Code 使用自选的 OpenAI / Claude 兼容接口，支持多源故障转移、跨 IDE 项目规则及 Devin 汉化；提供安装包和中文界面，源码未开放
+
 #### anmutu - [Github](https://github.com/anmutu)
 * :white_check_mark: [TeapotRouter](https://teapotrouter.com)：按用量计费的 AI 模型网关，一个 Key 双协议通用：Claude Code 设置 ANTHROPIC_BASE_URL、OpenAI SDK 改 base_url 即可接入，价格公开、每笔请求成本可查，支持组织内多发 Key 与用量审计、多上游自动故障转移；名字与 logo 源自 HTTP 彩蛋 418 I'm a teapot
 
