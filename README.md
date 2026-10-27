@@ -25,6 +25,15 @@
 ## 3. 项目列表
 
 ### 2026 年 10 月 27 号添加
+#### 影下独作 IndieShade - [Github](https://github.com/indieshade)
+* :white_check_mark: [回想册 Idea Rewind](https://indieshade.com/products/recollect/)：碎片笔记 App，随手记录文字、照片、录音和视频，用多个收纳箱交叉归类，再以卡片回顾、继续写旧想法；本地记录无需注册，基础功能免费、可选 Pro。iOS 已上线，Android 正在 Google Play 封测 - [App Store](https://apps.apple.com/cn/app/id6806823786)
+
+#### fengyandefeng(佛山) - [Github](https://github.com/fengyandefeng)
+* :white_check_mark: [风言写作](https://www.linkwrite.cn)：面向长篇小说与网文连载的本地写作软件，随正文呈现相关人物与世界观设定，支持设定属性追踪、卷章管理和同一局域网手机续写；书稿保存在自己的电脑，基础创作免费、无需注册
+
+#### Zin - [Github](https://github.com/zina26)
+* :white_check_mark: [Spaceora](https://spaceora.app/)：AI 家居与花园设计工具，上传一张房间或庭院照片即可生成室内改造、虚拟布置、景观和后院设计效果，并可根据 USDA 种植区推荐植物；提供免费使用次数，生成结果用于设计构思而非精确施工图
+
 #### Charlie W - [Github](https://github.com/charliewwdev)
 * :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
 
