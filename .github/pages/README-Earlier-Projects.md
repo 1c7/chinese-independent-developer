@@ -8,6 +8,47 @@
 
 ---
 
+### 2025 年 4 月 3 号添加
+#### nogeek(杭州) - [Github](https://github.com/nogeek-cn), [博客](https://nogeek.cn)
+* :white_check_mark: [javaguide](https://javaguide.net/)：「Java学习 + 面试指南」涵盖 Java 程序员、架构师需要掌握的核心知识
+* :white_check_mark: [chequewriting](https://chequewriting.com/)：将金额转成大小写的工具站
+* :white_check_mark: [acodenav](https://acodenav.com)：只收集编程导航，程序员导航的导航站
+* :white_check_mark: [atemplate](https://atemplate.com)：只收集完全免费的网页模板的导航站
+
+#### Leochens(北京) - [Github](https://github.com/Leochens) 
+* :white_check_mark: [PNG贴纸切割器](https://tools.xiaotie.top/sticker-crop.html)：贴纸素材不规整，它来帮你自动切割成单个的，省时又省力！
+
+### 2025 年 4 月 2 号添加
+#### Nicole(深圳）
+* :white_check_mark: [Ghibli Meme Generator](https://ghibli-meme.com/)：免费生成吉卜力（Ghibli）风格的梗图（meme）
+
+#### Leochens(北京) - [Github](https://github.com/Leochens)
+* :white_check_mark: [小贴](https://apps.apple.com/cn/app/%E5%B0%8F%E8%B4%B4-%E6%99%BA%E8%83%BD%E8%AE%BE%E8%AE%A1%E6%A8%A1%E6%9D%BF%E5%8D%A1%E7%89%87%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/id6741154916)：智能设计模板卡片生成工具 (iOS App)
+
+### 2025 年 4 月 1 号添加
+#### Selenium39(广州) - [Github](https://github.com/Selenium39)
+* :white_check_mark: [ChatTempMail](https://chat-tempmail.com)：AI 驱动的临时邮箱服务
+
+#### zeikia(广州)
+* :white_check_mark: [Face Shape AI](https://detectorfaceshape.com/)：AI 脸型检测
+
+#### swiftzl(深圳)
+* :white_check_mark: [snapmail - 临时邮箱](https://snapmail100.com)：临时无限邮箱保护你的隐私安全
+
+#### XuanXu - [官网](https://aiverything.me/)
+* :white_check_mark: [Aiverything](https://aiverything.me/)：本地文件搜索。结合 GPU 并行计算、智能索引和优化排序算法，提供更快、更精准的本地文件搜索体验，有扩展可实现更多功能 - [更多介绍](https://meta.appinn.net/t/topic/66229)
+
+### 2025 年 3 月 29 号添加
+#### jaywongX(广州) 
+* :white_check_mark: [UFreeTools - 你的免费工具集](https://ufreetools.com)：综合工具平台，提供高质量、易用的在线工具，解决开发和设计的各种需求
+
+#### jess(广州)- [Github](https://github.com/4o-image-gen)
+* :white_check_mark: [4oimage](https://4o-image.com/)：文生图网站，基于 Gemini 和 GPT4o
+
+### 2025 年 3 月 28 号添加
+#### zhushen - [Github](https://github.com/zhushen12580)
+* :x: [精准截图](https://puzzledu.com/shot)：智能精准截图工具（更懂内容创作者）
+
 ### 2025 年 3 月 27 号添加
 #### Yasuomang(杭州)
 * :white_check_mark: [imghunt](https://imghunt.com/)：图片下载浏览器扩展，能自动检测、批量下载并转换网页上的各类图片格式，并且支持自定义导出尺寸
