@@ -16,6 +16,8 @@
 - **`name` 字段是外文名、bio/location 全空，但仓库描述全是中文** → 收录。Tancky AI / tancky777：`name: "Ramiro Livi"`，但仓库是 Cursor-reset-tools、wechat-radar「微信聊天情报看板」、article-extractor「微信公众号」。
   **教训：`name` 字段单独看最容易误判，必须看仓库描述的语言**（2026-09-22）。
 - **现居海外 ≠ 老外**（2026-10-05）。lianyixin：`name: "Ethan Lian"`、`location: New York`、`company: "MSDS @ Columbia University | BE @ SJTU"` —— Lian 是中国姓、SJTU 是上海交大、评论是通顺中文 → 收录主版面。继续看：姓氏拼音、company 里的中国高校（SJTU / Tsinghua / Peking / ZJU）、评论语言。
+- **美国向全英文站 + 自然中文留言 + profile 全空 → 收录**（2026-10-27 郑先生确认「可以收录，没问题」）。Spaceora（spaceora.app / zina26）：站点全英文无中文版，按美国 ZIP、USDA 种植区、NAR-MLS 口径设计；提交者 name/bio/location 全空、仓库全英文，评论是通顺中文 → 主版面。
+  页面 CSS 残留 `collov-landing` 类名（Collov 是美国 AI 室内设计公司），但站上无公司署名 → **不构成大厂证据，不要据此拒**（同 B3：不自行扩张拒绝标准）。
 - **反向同样成立**：`location` 写中国城市也不能单独当收录依据，两边合起来看才下结论。
 
 ### A2. 作者更新自己的条目
