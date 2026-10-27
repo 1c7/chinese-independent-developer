@@ -46,6 +46,9 @@
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [涟漪](https://ripplefocus.github.io/)：安卓上的戒短视频与防沉迷小工具（自己管手或家长管孩子看手机都能用）。自带晚间专注时段与短视频每日时长上限；收紧规则立刻生效，放松规则或卸载得先等 15 分钟～2 小时冷静期或由家长/亲友输入解锁码（支持防卸载、防改系统时间，以及可选的本机无线调试高级保护，杀后台或重启手机都能自己恢复，不影响电话和闹钟）。免费无广告，数据纯本地 - [安装包下载](https://github.com/ripplefocus/ripplefocus.github.io/releases/latest)
 
+#### DreamOfXM - [Github](https://github.com/DreamOfXM)
+* :white_check_mark: [DiskWise](https://github.com/DreamOfXM/diskwise)：Mac 磁盘清理工具，把整块盘画成一个环，每一段写明是什么、删了会怎样；node_modules、Xcode、Docker 和 AI 工具缓存能按项目列出来，删除只进废纸篓、随时可撤销；免费开源、无订阅、不联网 - [App Store](https://apps.apple.com/cn/app/id6813265402)
+
 ### 2026 年 10 月 26 号添加
 #### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
 * :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
