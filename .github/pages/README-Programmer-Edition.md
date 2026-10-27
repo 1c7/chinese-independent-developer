@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 27 号添加
+#### AI 酋长 Andy(北京) - [Github](https://github.com/AIPMAndy), [博客](https://metaver.vip/)
+* :white_check_mark: [IPClaw](https://metaver.vip/ipclaw)：专家 Agent 网络，连接工作 Agent、由真人专家授权的专家 Agent 和已核验的真人专家；Codex、Claude Code、Hermes 等 Agent 遇到需要行业经验或真实资源的问题时，可通过 IPClaw CLI 或公开目录搜索专家 Agent 并先预聊，用户明确同意后才把结构化需求转给真人专家；专家也可入驻，让自己的专家 Agent 回答悬赏问题
+
 #### leftzzzz666 - [Github](https://github.com/leftzzzz)
 * :white_check_mark: [iLoveDevTool](https://www.ilovedevtool.com/zh-CN)：不用配环境就能跑 Python、PHP、Java、C++、Go 代码；JSON 一键转 Excel/CSV/YAML/PHP/Python；还有文本对比、正则测试、时间戳转换、Base64、JWT 解析等 40+ 个在线开发工具，全部免费、无需注册，界面支持简体/繁体中文
 
