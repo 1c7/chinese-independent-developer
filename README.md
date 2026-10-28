@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### 小明 - [Github](https://github.com/xiaomingio)
+* :white_check_mark: [Neat CSV](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-csv)：VS Code CSV/TSV 编辑器，支持大文件浏览、表格与对齐文本编辑、筛选排序和块编辑，文件在本地处理，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-csv)
+* :white_check_mark: [Neat SQLite](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-sqlite)：VS Code SQLite 编辑器，支持表格编辑、SQL 查询和 CSV 导入导出，跨表修改暂存后通过一个事务统一保存，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-sqlite)
+
 #### wujieli - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
 
