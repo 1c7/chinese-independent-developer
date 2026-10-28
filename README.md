@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### Peacoke - [Github](https://github.com/Peacoke)
+* :white_check_mark: [Squishy Paper](https://squishypaper.com/)：免费可打印的纸捏捏（Paper Squishy）手工图纸库，支持 4 种语言，单页包含正反面与剪裁线，可直接下载 PDF 与涂色线稿
+
 #### rudy2steiner - [Github](https://github.com/rudy2steiner)
 * :white_check_mark: [ReclipMuse](https://www.reclipmuse.com)：上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起
 
