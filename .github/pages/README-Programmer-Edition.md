@@ -20,7 +20,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Neat CSV](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-csv)：VS Code CSV/TSV 编辑器，支持大文件浏览、表格与对齐文本编辑、筛选排序和块编辑，文件在本地处理，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-csv)
-* :white_check_mark: [Neat SQLite](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-sqlite)：VS Code SQLite 编辑器，支持表格编辑、SQL 查询和 CSV 导入导出，跨表修改暂存后通过一个事务统一保存；免费开源，当前安装包支持 macOS Apple Silicon - [GitHub 仓库](https://github.com/xiaomingio/neat-sqlite)
+* :white_check_mark: [Neat SQLite](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-sqlite)：VS Code SQLite 编辑器，支持表格编辑、SQL 查询和 CSV 导入导出，跨表修改暂存后通过一个事务统一保存，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-sqlite)
 
 ### 2026 年 10 月 27 号添加
 #### HyperClockUp - [Github](https://github.com/HyperClockUp)
