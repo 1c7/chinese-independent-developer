@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### guetyitudabian - [Github](https://github.com/guetyitudabian)
+* :white_check_mark: [JoJo Characters](https://jojocharacters.com/)：独立的《JOJO的奇妙冒险》人物百科，按部数和作品浏览人物、已有配图与替身资料，支持姓名和别名搜索，附来源及剧情防剧透。
+
 #### Koroo - [Github](https://github.com/CClishan)
 * :white_check_mark: [ZoopFizz](https://zoopfizz.com/)：选模板或写提示词，上传照片或输入文字，在同一积分工作区用 Seedance / Veo / Wan 等模型生成 TikTok/Reels 短视频；草稿免费，新验证账号送 100 积分（30 天），月付从 $29.99 起 - [模型与积分](https://zoopfizz.com/models.md)
 
