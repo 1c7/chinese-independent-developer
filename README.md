@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### Koroo - [Github](https://github.com/CClishan)
+* :white_check_mark: [ZoopFizz](https://zoopfizz.com/)：选模板或写提示词，上传照片或输入文字，在同一积分工作区用 Seedance / Veo / Wan 等模型生成 TikTok/Reels 短视频；草稿免费，新验证账号送 100 积分（30 天），月付从 $29.99 起 - [模型与积分](https://zoopfizz.com/models.md)
+
+#### Nolan - [Github](https://github.com/NolanSoloBuilder)
+* :white_check_mark: [铝构AI BeamJoin](https://forgepane.com)：在线铝型材设计工具，用自然语言辅助搭建和修改桌架、工作台、置物架等三维方案，并整理型材切割长度、材料与加工清单，支持 PDF、Excel 导出
+
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Neat CSV](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-csv)：VS Code CSV/TSV 编辑器，支持大文件浏览、表格与对齐文本编辑、筛选排序和块编辑，文件在本地处理，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-csv)
 * :white_check_mark: [Neat SQLite](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-sqlite)：VS Code SQLite 编辑器，支持表格编辑、SQL 查询和 CSV 导入导出，跨表修改暂存后通过一个事务统一保存，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-sqlite)
