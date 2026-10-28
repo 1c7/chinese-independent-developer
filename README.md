@@ -26,14 +26,14 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### wujieli - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
+
 #### Peacoke - [Github](https://github.com/Peacoke)
 * :white_check_mark: [Squishy Paper](https://squishypaper.com/)：免费可打印的纸捏捏（Paper Squishy）手工图纸库，支持 4 种语言，单页包含正反面与剪裁线，可直接下载 PDF 与涂色线稿
 
 #### rudy2steiner - [Github](https://github.com/rudy2steiner)
 * :white_check_mark: [ReclipMuse](https://www.reclipmuse.com)：上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起
-
-#### wujieli - [Github](https://github.com/wujieli0207)
-* :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
 
 ### 2026 年 10 月 27 号添加
 
@@ -105,7 +105,7 @@
 * :white_check_mark: [YIX](https://yix.ai)：AI 图像与视频创作网站，在同一工作台完成图像生成、视频生成、修图、老照片修复和商品视觉制作；生成按积分付费，提供免费提示词工具，注册不赠送积分
 
 #### hankok - [Github](https://github.com/hankok)
-* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描 75 个技术信号并给出每个信号在7000多只股票上的历史胜率，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器 - [每日复盘](https://waveradar.us/zh/daily)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描 75 个技术信号并给出每个信号在 7000 多只股票上的历史胜率，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器 - [每日复盘](https://waveradar.us/zh/daily)
 
 #### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
 * :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
