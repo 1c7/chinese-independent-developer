@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 28 号添加
+
+#### rudy2steiner - [Github](https://github.com/rudy2steiner)
+* :white_check_mark: [ReclipMuse](https://www.reclipmuse.com)：上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起
+
 ### 2026 年 10 月 27 号添加
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
