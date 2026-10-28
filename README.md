@@ -99,7 +99,7 @@
 * :white_check_mark: [YIX](https://yix.ai)：AI 图像与视频创作网站，在同一工作台完成图像生成、视频生成、修图、老照片修复和商品视觉制作；生成按积分付费，提供免费提示词工具，注册不赠送积分
 
 #### hankok - [Github](https://github.com/hankok)
-* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描等浪/斐波那契扩展与缠论买卖点，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器和任意标的的等浪/缠论图 - [每日复盘](https://waveradar.us/zh/daily)
+* :white_check_mark: [Wave Radar](https://waveradar.us)：美股、A股、港股研究工具，全市场扫描 75 个技术信号并给出每个信号在7000多只股票上的历史胜率，附期权 Gamma 敞口、合理估值、13F 和社区恐惧贪婪指数；免费账号可用全市场筛选器 - [每日复盘](https://waveradar.us/zh/daily)
 
 #### zhangwenhao66 - [Github](https://github.com/zhangwenhao66)
 * :white_check_mark: [Ideoy](https://ideoy.ai)：用一张自拍重制本周热门梗视频模板，AI 生成竖屏短视频；免费增值，仅限成年人，输出内容标注 AI 生成
