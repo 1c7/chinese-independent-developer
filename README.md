@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### yt1988 - [Github](https://github.com/yt1988)
+* :white_check_mark: [Me2Cloud](https://m2c.1ms.dog)：云服务器延迟测试工具，打开网页就能测你家网络到 AWS、阿里云等 17 家云厂商 361 个区域的延迟、抖动和丢包，买服务器前先挑最快的区域，免费开源无需注册
+
 #### wujieli - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
 
