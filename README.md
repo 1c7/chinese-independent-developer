@@ -29,6 +29,9 @@
 #### rudy2steiner - [Github](https://github.com/rudy2steiner)
 * :white_check_mark: [ReclipMuse](https://www.reclipmuse.com)：上传 1–3 张照片，选择 Hotel Lobby、Burning Bridges、Fireline 等效果，生成 5–30 秒 AI 说唱短视频（独立工具，非官方）；一次性积分包 $4.90 起
 
+#### wujieli - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Make Dime Dime Baby](https://makedimedimebaby.com)：一张照片生成约 10 秒 9:16 Dime Dime Baby 派对舞蹈短视频，浏览器直接用、不带水印（独立工具，非官方）；新账号 1 条免费，之后 1 条 $9.99、3 条 $24.99
+
 ### 2026 年 10 月 27 号添加
 
 #### xianyu110 - [Github](https://github.com/xianyu110)
