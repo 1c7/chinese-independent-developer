@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 29 号添加
 
+#### cena(深圳) - [Github](https://github.com/cena001plus)
+* :white_check_mark: [Pixsolo](https://www.pixsolo.com/)：一款面向 iOS / Android 开发者的免安装 Web 端应用商店截图设计平台 - [更多介绍](https://www.pixsolo.com/)
+
 #### zimjin - [Github](https://github.com/zimjin)
 * :white_check_mark: [HD Image Enhancer](https://hdimageenhancer.com/)：免费 AI 图片画质增强工具，放大并锐化模糊照片，无需注册即可使用
 
