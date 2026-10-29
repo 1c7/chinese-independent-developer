@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 29 号添加
 
+#### Yoan98 - [Github](https://github.com/Yoan98)
+* :white_check_mark: [馆长（NCurator）](https://www.guanzhangai.cn/zh)：用自然语言读取、创建和编辑本地 DOCX、XLSX、PPTX 的开源 AI 办公助手，支持查看文件修改差异、PDF 阅读和本地知识库检索，软件免费、自备模型 API Key，Windows、macOS 可用 — [开源仓库](https://github.com/Yoan98/Ncurator)
+
+#### goodlettdummett-alt - [Github](https://github.com/goodlettdummett-alt)
+* :white_check_mark: [知周 ZhiZhou](https://zhizhou.app/)：八字和紫微斗数排盘网站，按出生地经度、均时差和各地历史夏令时自动换算真太阳时，免登录排盘；可免费生成 AI 写的命盘报告，前两节免费读，全文 US$9.90，有简繁两版 - [真太阳时换算器](https://zhizhou.app/true-solar)
+
 #### 沉默者之二 - [Github](https://github.com/chenmozhe008)
 * :white_check_mark: [闪电全能下载](https://github.com/chenmozhe008/shandian-download)：Mac 下载工具，磁力、种子、网页文件和 YouTube、B 站、抖音、小红书视频放在一个窗口下载，复制链接按 ⌘V 即开始，抖音小红书无水印，电影可边下边看，免费开源
 * :white_check_mark: [小清](https://github.com/chenmozhe008/qingo)：Mac 清理工具，识别剪映、达芬奇、Adobe 和 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清能自动重建的部分、不碰项目和对话，一键清理可撤销，免费开源不联网
@@ -5278,32 +5284,6 @@
 ### 2025 年 5 月 13 号添加
 #### Brice(南京) 
 * :white_check_mark: [Attractiveness Scale](https://attractivenessscale.com/)：颜值打分网站（基于 AI）
-
-### 2025 年 5 月 12 号添加
-#### cmdragon(广州) - [Github](https://[github.com/Amd794](https://github.com/Amd794))
-* :white_check_mark: [在线工具箱](https://tools.cmdragon.cn/zh)：满足各种任务需求的在线工具，强大的AI驱动工具，提升您的工作效率
-
-#### Jacky(南京) 
-* :white_check_mark: [FacelessVideos.APP](https://facelessvideos.app)：将一个 idea 转化成短视频 ，自动加上语音，可以定制化背景音乐和字幕，发布在 youtube 频道中。
-* :white_check_mark: [ImagesArt.ai](https://imagesart.ai)：生成完美的AI艺术提示词。使用这个工具为Flux、Midjourney和Stable Diffusion模型生成并优化图像提示词。
-* :white_check_mark: [Flux2Klein.io](https://flux2klein.io/)：在 0.5 秒内生成照片级真实图像。基于 Flux2 Klein 9B 模型，提供统一的图像生成和编辑功能。无需注册即可免费生成 2 次。
-
-#### sing1ee - [Github](https://github.com/sing1ee)
-* :white_check_mark: [PapyrusFont.com](https://papyrusfont.com/): 用 Papyrus 字体创建精美的文字设计，可保存为 PNG
-
-#### vampirewy - [Github](https://github.com/vampirewy)
-* :white_check_mark: [免费在线 AI 角色脑洞生成工具](https://characterheadcanongen.com/zh)：借助先进 AI 技术，一键生成多维度角色设定——性格、成长经历、人际关系、价值观等一应俱全。无需注册，完全免费，适用于小说、漫画、游戏等创作场景，智能解析人物特征，助你轻松突破瓶颈，打造鲜活立体的角色。
-
-### 2025 年 5 月 11 号添加
-#### Ayden - [Github](https://github.com/Ayden-123)
-* :white_check_mark: [Calligraphy Font Generator](https://calligraphyfontgenerator.org/)：免费在线书法字体生成工具，一键将普通文字转换为优雅的艺术字体，提供50多种风格选择，适用于设计、社交媒体等多种场景。
-
-### 2025 年 5 月 10 号添加
-#### Qiwei - [GitHub](https://github.com/qiweiii)
-* :white_check_mark: [Bilibili “换一换” 历史插件](https://chromewebstore.google.com/detail/bilibili-%E2%80%9D%E6%8D%A2%E4%B8%80%E6%8D%A2%E2%80%9C-%E5%8E%86%E5%8F%B2/npfopljnjbamegincfjelhjhnonnjloo)：查看 B 站首页的换一换历史。有时不小心点太快导致错过了想看的视频，这个插件可以让你往回走，查看前几组推荐视频
-
-#### Christine(上海) - [Github](https://github.com/liuyinjiwen06)
-* :white_check_mark: [Addsubtitle](https://addsubtitle.ai/)：视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
