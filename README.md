@@ -26,6 +26,10 @@
 
 ### 2026 年 10 月 29 号添加
 
+#### 沉默者之二 - [Github](https://github.com/chenmozhe008)
+* :white_check_mark: [闪电全能下载](https://github.com/chenmozhe008/shandian-download)：Mac 下载工具，磁力、种子、网页文件和 YouTube、B 站、抖音、小红书视频放在一个窗口下载，复制链接按 ⌘V 即开始，抖音小红书无水印，电影可边下边看，免费开源
+* :white_check_mark: [小清](https://github.com/chenmozhe008/qingo)：Mac 清理工具，识别剪映、达芬奇、Adobe 和 Cursor、Claude Code 等 60 余款剪辑与 AI 工具的缓存，只清能自动重建的部分、不碰项目和对话，一键清理可撤销，免费开源不联网
+
 #### SirMem - [Github](https://github.com/SirMem)
 * :white_check_mark: [周五追账排序器 Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool/)：打开网页粘贴欠款清单，按 Current / 1–30 / 31–60 / 60+ 排出本周五该催的 Top3，本地运行无需注册，免费开源 — [源码](https://github.com/SirMem/friday-invoice-chase-tool)
 
