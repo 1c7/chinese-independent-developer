@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 29 号添加
 
+#### zimjin - [Github](https://github.com/zimjin)
+* :white_check_mark: [HD Image Enhancer](https://hdimageenhancer.com/)：免费 AI 图片画质增强工具，放大并锐化模糊照片，无需注册即可使用
+
 #### Yoan98 - [Github](https://github.com/Yoan98)
 * :white_check_mark: [馆长（NCurator）](https://www.guanzhangai.cn/zh)：用自然语言读取、创建和编辑本地 DOCX、XLSX、PPTX 的开源 AI 办公助手，支持查看文件修改差异、PDF 阅读和本地知识库检索，软件免费、自备模型 API Key，Windows、macOS 可用 — [开源仓库](https://github.com/Yoan98/Ncurator)
 
