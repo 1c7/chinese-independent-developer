@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 29 号添加
 
+#### Paul - [Github](https://github.com/paulfan2200-debug)
+* :white_check_mark: [AIVIZENS](https://aivizens.com/?utm_source=chinese_independent_developer&utm_medium=submission)：中文 AI 日报，每天 5 分钟读完，固定拆解两个一人公司（OPC）案例，附当天 AI 要闻与热门开源工具；免费，邮箱订阅，每期也有独立网页可直接读
+
 #### cena(深圳) - [Github](https://github.com/cena001plus)
 * :white_check_mark: [Pixsolo](https://www.pixsolo.com/)：一款面向 iOS / Android 开发者的免安装 Web 端应用商店截图设计平台 - [更多介绍](https://www.pixsolo.com/)
 
