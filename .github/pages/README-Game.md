@@ -133,7 +133,7 @@
 * :white_check_mark: [Mimic Party Online](https://mimicparty.org)：听一段短声音，用自己的声音模仿它，再获得相似度评分；内置 10 个 Sound World，支持 Daily Challenge 和 Survival 等模式，录音和评分均在本地完成、声音不上传 — 浏览器即开即玩的免费声音模仿游戏
 
 #### firegomove(广东) - [Github](https://github.com/firegomove)
-* :white_check_mark: [PixelArtGame](https://pixelartgame.online/)：一款结合了像素艺术与轻松玩法的网页游戏。无需下载安装，打开即可游玩。游戏以复古像素画风为核心，配合轻快的背景音乐，营造出沉浸式的游戏体验。无论是怀旧玩家还是休闲爱好者，都能快速找到属于自己的乐趣
+* :white_check_mark: [PixelArtGame](https://pixelartgame.online/)：结合了像素艺术与轻松玩法的网页游戏。无需下载安装，打开即可游玩。游戏以复古像素画风为核心，配合轻快的背景音乐，营造出沉浸式的游戏体验。无论是怀旧玩家还是休闲爱好者，都能快速找到属于自己的乐趣
 
 #### hbwang76 - [Github](https://github.com/hbwang76)
 * :white_check_mark: [Blood of Dawnwalker Tools](https://bloodofdawnwalker.win)：The Blood of Dawnwalker 粉丝工具站，含 Vampire/Human 构建计算器、7 结局追踪器和 47 奖杯清单，浏览器直接使用，无需注册账号

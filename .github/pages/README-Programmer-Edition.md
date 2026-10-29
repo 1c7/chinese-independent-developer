@@ -691,7 +691,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [Teleport](https://github.com/samuelhe52/Teleport)：macOS、iOS 定位模拟工具，支持模拟器与 USB/Wi-Fi 连接真机，可实时移动位置、规划路线及导入导出 GPX
 
 #### aigao - [Github](https://github.com/BAIGAOa)
-* :white_check_mark: [ink-cartridge](https://github.com/BAIGAOa/ink-cartridge)：一个终端 UI 库，核心是一个框架无关(此库建立在这个自研的引擎之上)的键盘引擎——用 9 层优先级管道替代传统 if-else 堆叠，让复杂的按键冲突（模态框 > 覆盖层 > 全局快捷键 > 页面绑定）能用声明式 API 直接消解，而不是靠嵌套条件分支硬撑，另外还支持类vim可编程式的组合键。
+* :white_check_mark: [ink-cartridge](https://github.com/BAIGAOa/ink-cartridge)：终端 UI 库，核心是一个框架无关(此库建立在这个自研的引擎之上)的键盘引擎——用 9 层优先级管道替代传统 if-else 堆叠，让复杂的按键冲突（模态框 > 覆盖层 > 全局快捷键 > 页面绑定）能用声明式 API 直接消解，而不是靠嵌套条件分支硬撑，另外还支持类vim可编程式的组合键。
 
 #### MarchBeta2087(泉州) - [Github](https://github.com/MarchBeta2087)
 * :white_check_mark: [Binary Collatz](https://github.com/MarchBeta2087/binary_collatz)：基于大整数位操作的 Collatz 过程命令行演示工具，支持任意长度二进制数、多种输出模式、缩略显示和高精度计时
@@ -1229,7 +1229,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ---
 #### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [Bilibili](https://space.bilibili.com/65858958), [知乎](https://www.zhihu.com/people/SPeakShen)
 * :clock8:  [DStruct](https://github.com/Sunrisepeak/DStruct)：🔥 一个**易于移植/使用/学习且结构简洁**的**数据结构模板库**
-* :clock8:  [DSVisual](https://github.com/Sunrisepeak/DSVisual)：一个**数据结构可视化**组件库
+* :clock8:  [DSVisual](https://github.com/Sunrisepeak/DSVisual)：数据结构可视化组件库
 
 
 ### 2023年7月22号添加

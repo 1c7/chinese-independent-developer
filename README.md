@@ -551,7 +551,7 @@
 * :white_check_mark: [Science Diagram](https://sciencediagram.com/)：AI 科学示意图工具，一句话生成带标签、可编辑的论文/课件插图，支持多种学科模板并导出 PNG；Beta 期免费
 
 #### Miracle - [Github](https://github.com/zhoulianbo)
-* :white_check_mark: [SpritePixel](https://spritepixel.com/)：一款面向个人和独立游戏开发者的 AI 游戏资产工作室，用 AI 创建风格一致的游戏精灵图、动画、精灵图表和配套图标套装，并围绕同一个游戏项目持续生成与管理
+* :white_check_mark: [SpritePixel](https://spritepixel.com/)：面向个人和独立游戏开发者的 AI 游戏资产工作室，用 AI 创建风格一致的游戏精灵图、动画、精灵图表和配套图标套装，并围绕同一个游戏项目持续生成与管理
 
 #### juren056 - [Github](https://github.com/juren056)
 * :white_check_mark: [Nano Banana 2.1](https://nanobanana21pro.com/)：AI 图片生成与参考图编辑网站，支持商品场景、虚构人物分镜和带文字海报创作，提交前显示所选模型、输出设置与积分费用 - [教程与原创示例](https://github.com/juren056/nano-banana-image-workflows)
@@ -1011,7 +1011,7 @@
 ### 2026 年 9 月 18 号添加
 
 #### 0xhappyboy - [Github](https://github.com/0xhappyboy)
-* :white_check_mark: [SoulCut](https://soulcut-art.vercel.app/)：一款为每一帧画面注入灵魂的非线性视频编辑系统，免费使用，内置 15 种滤镜、78 种视觉特效、26 种转场，支持多机位渲染与音视频同轨编辑 - [GitHub 仓库](https://github.com/0xhappyboy/SoulCut) - [下载（Windows/macOS/Linux）](https://github.com/0xhappyboy/SoulCut/releases/latest)
+* :white_check_mark: [SoulCut](https://soulcut-art.vercel.app/)：为每一帧画面注入灵魂的非线性视频编辑系统，免费使用，内置 15 种滤镜、78 种视觉特效、26 种转场，支持多机位渲染与音视频同轨编辑 - [GitHub 仓库](https://github.com/0xhappyboy/SoulCut) - [下载（Windows/macOS/Linux）](https://github.com/0xhappyboy/SoulCut/releases/latest)
 
 ### 2026 年 9 月 17 号添加
 
@@ -1033,7 +1033,7 @@
 * :white_check_mark: [PICWALL](https://picwall.dpdns.org)：AI 图片与视频提示词库，按作品、媒体类型与风格标签浏览灵感
 
 #### 0xhappyboy - [Github](https://github.com/0xhappyboy)
-* :white_check_mark: [hippoxOS](https://hippoxos.vercel.app/)：一款真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)
+* :white_check_mark: [hippoxOS](https://hippoxos.vercel.app/)：真正意义上的 LLM 操作系统，内置 6 个子系统，统一由自然语言控制：通用对话计算机控制系统、完整的视频编辑系统（自研 NLE 引擎）、金融数据分析系统、地理信息系统、代码编辑系统、3D 沙盒系统 - [GitHub 仓库](https://github.com/HippoxHQ/hippoxOS)
 
 ### 2026 年 9 月 14 号添加
 
@@ -2849,7 +2849,7 @@
 
 #### fishisnow - [Github](https://github.com/fishisnow)
 * :white_check_mark: [Square Face Generator](https://squareface.me/)：免费在线生成方形可爱头像，200+ 选项，实时预览，纯浏览器运行，无需注册，比 Flash 版快 10 倍。
-* :white_check_mark: [Pdf To MD Converter](http://mdpdf.net/)：一款免费的 PDF 转 Markdown 在线转换工具, 快速且精准地把 PDF 文件转换成简洁的 Markdown 格式。
+* :white_check_mark: [Pdf To MD Converter](http://mdpdf.net/)：PDF 转 Markdown 在线转换工具（免费）, 快速且精准地把 PDF 文件转换成简洁的 Markdown 格式。
 * :white_check_mark: [Stock Scope](https://invest.fishisnow.xyz/)：在一个平台中，快速看清投资机会、市场宽度、今日强势榜单。
 
 #### kiddyu - [Github](https://github.com/kiddyuchina)
@@ -5142,7 +5142,7 @@
 * :white_check_mark: [AI 取名网](https://bbname.cc/)：用 AI 帮助宝宝取名服务，依据中国传统命理学为您的宝宝提供最为合适的名字。这款扩展功能融合了八字、生肖、五行以及三才五格等多种传统命理因素，为您的宝宝量身打造吉祥如意的好名字 - [更多介绍](https://bbname.cc/about)
 
 #### rns
-* :white_check_mark: [FLUX.1 Kontext Image Generator](https://flux1kontextimagegenerator.online/)，FLUX.1 Kontext 图像生成器：一种具有上下文理解、角色一致性和本地编辑功能的 AI 图像生成器
+* :white_check_mark: [FLUX.1 Kontext Image Generator](https://flux1kontextimagegenerator.online/)：具有上下文理解、角色一致性和本地编辑功能的 AI 图像生成器
 
 #### Ryan
 * :white_check_mark: [AI Baby Generator](https://aibabygenerator.art/)：基于 AI 的宝宝长相预测工具
