@@ -424,7 +424,7 @@
 * :white_check_mark: [Ghost Filter Prank](https://ghostfilterprank.net)：上传一张自拍生成鬼影从肩后爬出的 10 秒竖屏恐怖视频（带声音），可选「慢慢靠近」或「突然扑脸」两种惊吓，$4.99 一次性付费，无需拍摄或安装
 * :white_check_mark: [Seedance 3.0 AI](https://seedance3ai.plus)：PlusFrame 工作室的 AI 视频生成站，支持文字、图片与参考素材（图 / 视频 / 音频）转视频并带原生音频，可选 Seedance 2.5 或 Seedance 2.0 的 Mini / Fast / Standard 档，5 到 30 秒、最高 1080p；站名里的 Seedance 3.0 尚未上线、仍处计划中，非官方站点
 * :white_check_mark: [Alors on Danse AI](https://alorsondanseai.im)：上传两张照片，把你和朋友分别放进白色影棚的键盘位与笔记本位，合成 10 秒双人合奏视频，可选 16:9 横屏或 9:16 竖屏，无需写提示词，$9.99 一条
-* :white_check_mark: [Ausar AI](https://ausarai.com)：一站式 AI 视频与图像生成工作台，可调 Kling 3.0、Veo 3.1、Seedance 2.0、Wan 3.0、Hailuo 2.3、Nano Banana Pro、GPT Image 2、Seedream 5、Grok Imagine 等模型，另有 Motion Control 把 30 秒以内的舞蹈或动作片段迁移到任意角色，以及上传一张照片即可套用的热门舞蹈模板（10 秒、无需提示词）
+* :white_check_mark: [Ausar AI](https://ausarai.com)：AI 视频与图像生成工作台，可调 Kling 3.0、Veo 3.1、Seedance 2.0、Wan 3.0、Hailuo 2.3、Nano Banana Pro、GPT Image 2、Seedream 5、Grok Imagine 等模型，另有 Motion Control 把 30 秒以内的舞蹈或动作片段迁移到任意角色，以及上传一张照片即可套用的热门舞蹈模板（10 秒、无需提示词）
 * :white_check_mark: [Bad Times AI](https://badtimesai.net)：上传一张自己的、宠物的或孩子的照片，生成「Bad Times」吵架梗的 10 秒竖屏 MP4（带该梗原声）：宠物版让猫狗站起来指着镜头，人物版走宝宝式指点和摊手，含「等等先别动手」的停顿镜头，$9.99 一条
 * :white_check_mark: [Remaker AI](https://remaker-ai.net)：AI 图像生成、编辑与放大工作台，可选 Nano Banana 2 / 2.1 / Pro、GPT Images 2.5、GPT Image 2、Seedream 5.0、Flux Kontext、Qwen Image 2.0、Grok Imagine 等模型，输出最高 4K，另带放大、去背景、照片滤镜与 Veo 3.1 视频，每次生成前先显示价格；与使用 Remaker 名称的其他产品无关
 * :white_check_mark: [Jean Phil AI](https://jeanphilai.pro)：不用上传照片，从巴黎公寓、街舞擂台、美术馆、咖啡馆露台、鬼屋 5 个场景与拳击、Gang Gang 舞、走秀、捻胡子 4 个动作里组合，生成以虚构金发卷胡绅士为主角的 10 秒竖屏视频（带声音），$9.99 一条
@@ -1140,7 +1140,7 @@
 * :white_check_mark: [Ropond Proxy Cloud](https://ropond.com/)：全球高纯净动态住宅代理网络，专为出海企业、跨境电商独立站与 AI 深度搜索提供防封穿透基础设施，提供 1GB 免费开发者测试配额 - [反爬与社媒过盾基准看板](https://antonli-pm.github.io/anti-bot-bypass-benchmark/)
 
 #### Ryan Yu(北京) - [Github](https://github.com/Ryan10Yu)
-* :white_check_mark: [Hevzo](https://hevzo.com)：一站式的 AI 视频和图片生成平台，集中了主流的视频和图片模型
+* :white_check_mark: [Hevzo](https://hevzo.com)：AI 视频和图片生成平台，集中了主流的视频和图片模型
 
 #### Felicia - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Pixel Art Base](https://www.pixelartbase.com)：图片转像素画工具，支持裁剪与尺寸调整、调色板和抖动设置、颜色查看及清晰 PNG 导出；图片在浏览器本地处理，并提供 Minecraft 像素画生成器，可生成方块网格、精确材料清单、编号建造指南和 Java 蓝图
@@ -1816,7 +1816,7 @@
 * :white_check_mark: [Await (iOS)](https://apps.apple.com/cn/app/id6755678187)：小组件工坊，可以 DIY 任何小组件 - [更多介绍](https://awaitwidget.com)
 
 #### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
-* :white_check_mark: [Fullmira](https://fullmira.com/)：一站式 AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作
+* :white_check_mark: [Fullmira](https://fullmira.com/)：AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作
 
 #### Yana Li - [Github](https://github.com/woshiliyana)
 * :white_check_mark: [CreateFaceless](https://createfaceless.com/en)：AI 不出镜 YouTube Shorts 一键生成工具，从脚本、画面、配音、字幕到封面和成片自动完成，无需剪辑经验
@@ -2070,7 +2070,7 @@
 * :white_check_mark: [独立淘金地图](https://berich.aichi.food)：面向小白的赚钱路子汇总，整合一个人也能做的独立创收机会
 
 #### charles - [Github](https://github.com/charleslee8266)
-* :white_check_mark: [卡网大全 · CardNav](https://cardnav.xyz)：一站式 AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)
+* :white_check_mark: [卡网大全 · CardNav](https://cardnav.xyz)：AI 大模型账号购买导航，聚合中转站、卡网、官方订阅比价、模型排行、使用指南和实用工具 - [更多介绍](https://github.com/charleslee8266/cardnav-web)
 
 #### xsf0221(深圳)
 * :white_check_mark: [Listlift](https://listlift.dev)：面向 Etsy 卖家的内容引擎，将自有商品 Listing 转成符合卖家口吻、可审核编辑的 Pinterest 与 Instagram 内容
@@ -2095,7 +2095,7 @@
 * :white_check_mark: [Vivify 实时视频换脸](https://vivify.video/zh/realtime-face-swap)：AI 实时视频换脸，支持一键换脸、变装和风格重绘
 
 #### lvning
-* :white_check_mark: [Dramily](https://dramily.com)：一站式真人短剧生成工厂
+* :white_check_mark: [Dramily](https://dramily.com)：真人短剧生成工厂
 
 #### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
 * :white_check_mark: [AI YouTube Transcript](https://aiyoutubetranscript.com/)：无需注册的 YouTube 转录工具，可搜索 transcript、跳转时间戳，并导出 TXT、SRT、VTT
@@ -2242,7 +2242,7 @@
 ### 2026 年 6 月 25 号添加
 
 #### camaker(内蒙) - [Github](https://github.com/camaker)
-* :white_check_mark: [VisioArt](https://visioart.ai)：一站式 AI 图片和视频创作平台
+* :white_check_mark: [VisioArt](https://visioart.ai)：AI 图片和视频创作平台
 * :white_check_mark: [Lang Study](https://getlangstudy.com)：中文汉字描红练习平台，支持描红、复习和练习题
 * :white_check_mark: [ClassGamifyy](https://classgamify.com)：把课堂内容变成互动学习游戏的教学平台
 * :white_check_mark: [xtimer](https://xtimer.app)：用于演讲、工作坊、课堂和现场活动的远程计时器
@@ -2252,7 +2252,7 @@
 * :white_check_mark: [Seedance 2.5](https://aiseedance25.ai)：Seedance 2.5 视频生成模型在线体验，输入文字或图片即可生成高质量 AI 视频
 
 #### junwei000 - [Github](https://github.com/junwei000)
-* :white_check_mark: [aniv](https://aniv.ai)：一站式 AI 创作工具站，浏览器打开即用：AI 文生图、AI 文生视频、视频画质增强、字幕合成
+* :white_check_mark: [aniv](https://aniv.ai)：AI 创作工具站，浏览器打开即用：AI 文生图、AI 文生视频、视频画质增强、字幕合成
 
 ### 2026 年 6 月 24 号添加
 
@@ -2675,7 +2675,7 @@
 
 #### skyyy47 - [Github](https://github.com/skyyy47)
 * :white_check_mark: [ChatGPT Image2](https://www.gptimages2.net)：AI 图片生成工具，集 AI 图片生成、图片编辑与视频创作于一体的一站式工作流平台，帮助用户从文字或图片快速生成高质量创意内容。
-* :white_check_mark: [Zuss AI Video Generator](https://www.zuss.ai)：一站式 AI 图片与视频生成平台，整合多种先进模型，支持文字生成图片、图片生成视频、图片编辑和多模型创作工作流。
+* :white_check_mark: [Zuss AI Video Generator](https://www.zuss.ai)：AI 图片与视频生成平台，整合多种先进模型，支持文字生成图片、图片生成视频、图片编辑和多模型创作工作流
 * :white_check_mark: [AI Dance Generator](https://aidancing.io/)：AI 舞蹈视频生成工具，用户上传人物或角色图片并选择参考舞蹈视频，即可快速生成热门风格的跳舞视频。
 
 #### lqomg(成都) - [Github](https://github.com/lqomg)
@@ -3247,7 +3247,7 @@
 ### 2026 年 3 月 15 号添加
 
 #### Eric（浙江） - [Github](https://github.com/erickkkyt)
-* :white_check_mark: [WMHub](https://wmhub.io/)：一体化 AI 创作工作空间，支持视频、图像与 3D 生成，帮助团队更快产出高质量媒体资产。
+* :white_check_mark: [WMHub](https://wmhub.io/)：AI 创作工作空间，支持视频、图像与 3D 生成，帮助团队更快产出高质量媒体资产
 
 #### 阿健(杭州) - [Github](https://github.com/hugh2nd), [博客](https://parseword.net/blog)
 * :white_check_mark: [Parseword](https://parseword.net)：聚合多种经典每日单词谜题
@@ -3540,7 +3540,7 @@
 * :white_check_mark: [Owl 猫头鹰](https://owl.hanshutx.com/)：小红书公众号在线敏感词检测工具。我做了半年自媒体之后才发现需要规避平台敏感词，但是之前用的工具停服了，市面上其他的需要登录或者关注他们的公众号才可以使用，于是我 vibe coding 了一个敏感词检测工具，词库是根据网上找的，精简下来有 6 万多个。用了 cloudflare 的开发者穷鬼套餐，所以每人每天限制 10 次，主要是防止第三方调接口把额度耗完大家都没得用，应该对于大多数创作者都是足够使用的了
 
 #### wang1309 - [Github](https://github.com/wang1309)
-* :white_check_mark: [fluxchat](https://fluxchat.org/)：一站式 AI 功能聚合网站，包含 AI Image、AI Music、AI Video、AI chatbot 等功能
+* :white_check_mark: [fluxchat](https://fluxchat.org/)：AI 功能聚合网站，包含 AI Image、AI Music、AI Video、AI chatbot 等功能
 
 #### FrankLiBao - [Github](https://github.com/FrankLiBao)
 * :white_check_mark: [AI人生系统](https://life-system-lyart.vercel.app)：受网文"系统流"启发的 AI 游戏化个人成长平台，AI 自动派任务、经验值等级体系、六维属性雷达图 - [更多介绍](https://github.com/FrankLiBao/life-system)
@@ -3837,7 +3837,7 @@
 * :white_check_mark: [UniMusic AI](https://unimusic.ai)：AI 音乐生成 - 根据你的描述一键生成专业完整的音乐
 
 #### amierhan - [Github](https://github.com/amierhan)
-* :white_check_mark: [nbpro.io](https://nbpro.io/)：一站式 AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景
+* :white_check_mark: [nbpro.io](https://nbpro.io/)：AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景
 
 #### zhugezifang - [Github](https://github.com/zhugezifang)
 * :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
@@ -4143,13 +4143,13 @@
 
 ### 2025 年 11 月 10 号添加
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
-* :white_check_mark: [musci](https://musci.io)：一站式 music 生成平台 
+* :white_check_mark: [musci](https://musci.io)：music 生成平台
 
 #### randompaga - [Github](https://github.com/randompaga)
 * :white_check_mark: [Sora 2](https://forvideo.ai/sora2)：For Video AI 一站式视频生成平台，使用Sora 2、Sora 2 Pro、Sora 2 Storyboard、Veo 3.1、Veo 3、Wan 2.5、Wan 2.2、Kling AI、Hailuo AI、Midjourney Video创建带音频的视频。
 
 #### amierhan - [Github](https://github.com/amierhan)
-* :white_check_mark: [nanobana.net](https://github.com/1c7/chinese-independent-developer/issues/url)：一站式 AI 图像、视频生成平台网站，集合了目前世界最先进的模型，如：Nano banana、sora2 等
+* :white_check_mark: [nanobana.net](https://github.com/1c7/chinese-independent-developer/issues/url)：AI 图像、视频生成平台网站，集合了目前世界最先进的模型，如：Nano banana、sora2 等
 
 ### 2025 年 11 月 8 号添加
 #### Ri-vai - [Github](https://github.com/Ri-vai)
@@ -4491,7 +4491,7 @@
 * :white_check_mark: [DR Checker](https://drchecker.org/)：检查并展示任何网站的 Domain rating，并且一键生成可展示的DR徽章
 
 #### Ronny（深圳）
-* :white_check_mark: [Vidgo AI](https://vidgo.ai)：一站式的图片，视频生成平台
+* :white_check_mark: [Vidgo AI](https://vidgo.ai)：图片、视频生成平台
 * :x: [Video Translator](https://videotranslator.io/)：短剧视频翻译工具
 * :white_check_mark: [Doculator](https://doculator.org/)：集文档，视频，图片翻译于一身的平台
 
@@ -4697,7 +4697,7 @@
 
 ### 2025 年 8 月 15 号添加
 #### Selenium39(广州) - [Github](http://github.com/Selenium39)
-* :white_check_mark: [原牛](https://mihoyonb.com)：一站式自媒体工具平台
+* :white_check_mark: [原牛](https://mihoyonb.com)：自媒体工具平台
 
 #### BHznJNs
 * :white_check_mark: [狸语字幕助手](https://apps.microsoft.com/store/detail/9PFLDTV29JFV?cid=DevShareMCLPCS)：让你不开麦也能在直播时“开口”互动的小工具
@@ -5047,7 +5047,7 @@
 * :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
 
 #### monsoonw(杭州)
-* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：一站式聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
 
 #### DamonTsang986(深圳) 
 * :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
