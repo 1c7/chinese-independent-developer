@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 29 号添加
+
+#### SirMem - [Github](https://github.com/SirMem)
+* :white_check_mark: [周五追账排序器 Friday Invoice Chase Ranker](https://sirmem.github.io/friday-invoice-chase-tool/)：打开网页粘贴欠款清单，按 Current / 1–30 / 31–60 / 60+ 排出本周五该催的 Top3，本地运行无需注册，免费开源 — [源码](https://github.com/SirMem/friday-invoice-chase-tool)
+
 ### 2026 年 10 月 28 号添加
 
 #### guetyitudabian - [Github](https://github.com/guetyitudabian)
