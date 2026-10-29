@@ -26,7 +26,7 @@
 
 ### 2026 年 10 月 29 号添加
 
-#### 陈增萍 - [Github](https://github.com/zimjin)
+#### zimjin - [Github](https://github.com/zimjin)
 * :white_check_mark: [HD Image Enhancer](https://hdimageenhancer.com/)：免费 AI 图片画质增强工具，放大并锐化模糊照片，无需注册即可使用
 
 #### Yoan98 - [Github](https://github.com/Yoan98)
