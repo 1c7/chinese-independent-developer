@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 28 号添加
 
+#### 瑶瑶 - [Github](https://github.com/yaoyao-ai-trainer)
+* :white_check_mark: [瑶瑶 AI 会员代充](https://kw.yaoyao.chat/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro、Claude Pro / Max、SuperGrok、Gemini 会员人民币代充，不用海外信用卡，支付宝付款，付款后平均 2 分钟到账；订阅有质保、掉会员补，24 小时客服；Plus ¥129/月；独立第三方，非官方 - [开通教程](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)
+
 #### guetyitudabian - [Github](https://github.com/guetyitudabian)
 * :white_check_mark: [JoJo Characters](https://jojocharacters.com/)：独立的《JOJO的奇妙冒险》人物百科，按部数和作品浏览人物、已有配图与替身资料，支持姓名和别名搜索，附来源及剧情防剧透
 
