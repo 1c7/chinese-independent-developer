@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 29 号添加
+#### 瑶瑶 - [Github](https://github.com/yaoyao-ai-trainer)
+* :white_check_mark: [瑶瑶 AI 会员代充](https://kw.yaoyao.chat/?utm_source=cnindie&utm_medium=github)：ChatGPT Plus / Pro、Claude Pro / Max、SuperGrok、Gemini 会员人民币代充，不用海外信用卡，支付宝付款，付款后平均 2 分钟到账；订阅有质保、掉会员补，24 小时客服；Plus ¥129/月；独立第三方，非官方 - [开通教程](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)
+
 ### 2026 年 10 月 28 号添加
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Neat CSV](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-csv)：VS Code CSV/TSV 编辑器，支持大文件浏览、表格与对齐文本编辑、筛选排序和块编辑，文件在本地处理，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-csv)
