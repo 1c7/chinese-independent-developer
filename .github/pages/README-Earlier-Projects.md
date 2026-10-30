@@ -6,6 +6,36 @@
 
 ---
 
+### 2025 年 5 月 17 号添加
+#### SAM-TTS-Tool - [Github](https://github.com/SAM-TTS-Tool)
+* :white_check_mark: [Microsoft SAM TTS](https://samtts.com/)：复刻 Microsoft SAM 的文本转语音工具，支持文字输入并生成极具复古感的电子语音。用户可自定义音高、语速、嘴型、喉咙共鸣等参数，还可下载生成的语音（WAV 格式），无需登录，适合内容创作、游戏配音、搞笑语音等多种场景。
+
+### 2025 年 5 月 16 号添加
+#### apple1413 - [Github](https://github.com/apple1413)
+* :white_check_mark: [Free Voice Cloning](https://aiclonevoicefree.com/)：仅需 5 秒音频样本，即可克隆你的声音 无需登录 免费无限制使用
+
+#### Ayden - [Github](https://github.com/Ayden-123)
+* :white_check_mark: [Image to Image AI](https://imgtoimgai.org/)：将您的普通照片转换为令人惊叹的艺术作品。是艺术家、设计师和创意专业人士重新构想视觉内容的理想工具
+
+### 2025 年 5 月 15 号添加
+#### lwj973 - [Github](https://github.com/lwj973)
+* :white_check_mark: [SafeWrite AI](https://safewrite.ai/)：结合 AI Humanizer 与 AI 检测功能的写作工具，帮助用户生成更自然、难以被检测为 AI 的内容。支持训练私有化的 Humanizer，模拟个人文风并确保隐私不泄露。同时整合 GPTZero、Turnitin 等检测器，一键获取多平台检测结果。通过“改写-检测-再改写”的自动流程，有效提升内容通过率，适用于学生、自由写手及内容创作者。
+
+#### Sarkory(广州)
+* :white_check_mark: [FramePack AI](https://frame-pack.video)：AI 视频生成
+
+### 2025 年 5 月 14 号添加
+#### bear-clicker - [Github](https://github.com/bear-clicker) 
+* :white_check_mark: [ACE-Step](https://acestep.app/)：音乐生成，文本转音乐 歌词生成
+
+#### lkunxyz - [Github](https://github.com/lkunxyz) 
+* :white_check_mark: [Graffitiart app](https://graffitiart.app/)：涂鸦生成工具，可以生成各种不同风格的涂鸦
+* :white_check_mark: [Musci](https://musci.app)：AI 音乐生成，文本转音乐 歌词生成
+
+### 2025 年 5 月 13 号添加
+#### Brice(南京) 
+* :white_check_mark: [Attractiveness Scale](https://attractivenessscale.com/)：颜值打分网站（基于 AI）
+
 ### 2025 年 5 月 12 号添加
 #### cmdragon(广州) - [Github](https://[github.com/Amd794](https://github.com/Amd794))
 * :white_check_mark: [在线工具箱](https://tools.cmdragon.cn/zh)：满足各种任务需求的在线工具，强大的AI驱动工具，提升您的工作效率
