@@ -26,6 +26,14 @@
 
 ### 2026 年 10 月 30 号添加
 
+#### yehyakin - [Github](https://github.com/yehyakin)
+* :white_check_mark: [IPZOR](https://ipzor.com/)：IP 地址查询与网络检测工具，查公网 IP、大致地区、ASN 和运营网络，还能对比网站出口、DNS、WebRTC 检测结果，每条数据都标明来源，免费无需注册
+* :white_check_mark: [HKDone 香港办事指南](https://hkdone.com/)：给内地短期访港用户的办事指南，整理 33 项香港银行开户、电话卡、支付和交通服务的办理条件、所需材料和步骤，没有香港身份证也能提前准备
+* :white_check_mark: [VAQIRA · 独立产品收入榜](https://vaqira.com/)：独立开发者真实收入排行榜，每个数字都附创始人公开的原文出处，不估算、不换算，每天更新，数据按 CC BY 4.0 开放下载 - [收录规则](https://vaqira.com/method/)
+
+#### pydaxing - [Github](https://github.com/pydaxing)
+* :white_check_mark: [食愿小灶](https://github.com/pydaxing/shiyuan#readme)：面向两个人或一家人的家庭餐食协作微信小程序，一起选菜、安排每餐、调整备菜用量、整理采购清单；微信搜索「食愿小灶」使用 - [更多介绍与小程序码](https://github.com/pydaxing/shiyuan#readme)
+
 #### KorlynShae - [Github](https://github.com/KorlynShae)
 * :white_check_mark: [Asteriadne](https://korlyn.xyz)：实用网站与在线工具导航，每个网站都实际打开核实过并配有中文介绍和截图，按主题分类浏览，免费无需注册
 
