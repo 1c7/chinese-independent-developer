@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 30 号添加
+#### AloneMonkey - [Github](https://github.com/AloneMonkey)
+* :white_check_mark: [HotRepo](https://hotrepo.ai/zh)：GitHub 热门项目发现网站，提供中英双语 AI 解读，可按日、周、月及历史榜单查看项目，网页版免费浏览、无需登录
+
 #### mozzie49 - [Github](https://github.com/mozzie49)
 * :white_check_mark: [Polish Proof](https://github.com/mozzie49/polish-proof)：现有网页的视觉润色 Skill，围绕约定的文案、品牌、控件和行为限制修改范围，配套前后截图、保护项检查与交互测试记录；MIT 开源 - [演示与使用说明](https://github.com/mozzie49/polish-proof#same-product-css-only-polish)
 
