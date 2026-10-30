@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 30 号添加
+#### mozzie49 - [Github](https://github.com/mozzie49)
+* :white_check_mark: [Polish Proof](https://github.com/mozzie49/polish-proof)：现有网页的视觉润色 Skill，围绕约定的文案、品牌、控件和行为限制修改范围，配套前后截图、保护项检查与交互测试记录；MIT 开源 - [演示与使用说明](https://github.com/mozzie49/polish-proof#same-product-css-only-polish)
+
 ### 2026 年 10 月 29 号添加
 #### xxapi
 * :white_check_mark: [xxapi](https://xxapi.ai/)：Claude Code / Codex API 中转站，一个账号调用 Claude（Opus 5.5、Sonnet 5.5 等）和 GPT（GPT-6.1、GPT-5.6 等）模型；Claude Code 填 `https://xxapi.ai`，Codex 等 OpenAI 兼容工具填 `https://xxapi.ai/v1`；支付宝、微信、Stripe 充值 ¥1 = $1，余额不过期，按量计费，无月费 - [中文教程](https://docs.xxapi.ai/)
