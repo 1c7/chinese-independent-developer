@@ -39,6 +39,15 @@ NOISE_RE = re.compile(
     r"t\.me/[^/]+|"
     r"www\.v2ex\.com/member/[^/]+)$"
 )
+# 多产品共用的公共域名：host 本身必然已在 README 里出现，
+# 对这类 host 不能做 host 级命中判断，只能看完整 URL
+SHARED_HOSTS = {
+    "github.com", "gist.github.com", "gitlab.com", "gitee.com",
+    "bitbucket.org", "codeberg.org", "sourceforge.net",
+    "marketplace.visualstudio.com", "apps.apple.com", "play.google.com",
+    "huggingface.co", "npmjs.com", "www.npmjs.com", "pypi.org",
+    "greasyfork.org", "chromewebstore.google.com", "addons.mozilla.org",
+}
 
 
 def norm_url(url: str) -> str:
@@ -97,7 +106,9 @@ def main() -> int:
             key = (c.get("id"), host)  # 同评论同站点的「更多介绍」子路径只报一次
             if key in seen:
                 continue
-            if u in readme_norm or host in readme_norm:
+            if u in readme_norm:
+                continue
+            if host not in SHARED_HOSTS and host in readme_norm:
                 continue
             seen.add(key)
 
