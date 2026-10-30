@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 30 号添加
+
+#### wlmosv - [Github](https://github.com/wlmosv-png)
+* :white_check_mark: [WPAForge](https://wlmosv.dpdns.org/wpaforge/)：Android 上的 Wi-Fi 网络审计工具，在手机本地逐条试出你自己路由器的 WPA/WPA2 口令，每条候选都真实发起一次关联、以 4-Way Handshake 是否完成为判据而非靠猜，附带 WPS 拆半攻击与离线 .cap/.hc22000 校验 - [开源仓库](https://github.com/wlmosv-png/wpaforge)
+
 ### 2026 年 10 月 29 号添加
 
 #### Paul - [Github](https://github.com/paulfan2200-debug)
