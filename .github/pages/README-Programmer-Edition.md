@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 31 号添加
+#### YeefyisOK - [Github](https://github.com/YeefyisOK)
+* :white_check_mark: [jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator)：开源 SRT 字幕翻译工具，用结构化 LLM 输出（OpenRouter，可选 GPT/Claude/Gemini/DeepSeek 等）翻译字幕，保留每条字幕的序号和时间轴，漏译自动按 ID 重试，并用 Jev 自动质检，提供本地网页界面和 CLI。是 GeekLink 字幕软件开源出来的翻译引擎
+
 #### rowink - [Github](https://github.com/rowink)
 * :white_check_mark: [Iris Analytics](https://github.com/rowink/IrisAnalytics)：轻量开源的网站流量分析面板，基于 Cloudflare Pages + Analytics Engine，无需数据库，部署后一条 script 标签即可统计访问数据，支持密码保护、站点白名单和 IP 黑名单过滤，免费自托管
 
