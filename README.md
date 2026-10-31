@@ -24,6 +24,15 @@
 
 ## 3. 项目列表
 
+### 2026 年 10 月 31 号添加
+
+#### Jun Dong - [Github](https://github.com/dj05305)
+* :white_check_mark: [ChanScout](https://chanscout.com/)：中文 Telegram 公开资源目录，收录可核验的频道、群组与机器人，支持分类浏览与持续核验，免费使用
+
+#### isixe - [Github](https://github.com/isixe)
+* :white_check_mark: [BGX](https://bgx.itea.dev/)：AI 抠图工具，内置 U2Net / ISNet / BRIA RMBG 等 9 个模型，全部在浏览器本地推理、图片不上传，可导出透明 PNG、白底 JPG 或 WebP，另有 Windows 桌面版可离线使用，免费无需注册 - [开源仓库](https://github.com/isixe/bgx)
+* :white_check_mark: [bg2x](https://bg2x.itea.dev/)：AI 图片无损放大工具，Real-ESRGAN / Swin2SR / Real-CUGAN 共 10 个模型本地推理，最高 4 倍放大、GPU 加速、批量导出 ZIP，图片不上传、首次下载模型后可离线，免费开源 - [开源仓库](https://github.com/isixe/bg2x)
+
 ### 2026 年 10 月 30 号添加
 
 #### yehyakin - [Github](https://github.com/yehyakin)

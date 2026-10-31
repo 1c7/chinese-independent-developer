@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 10 月 31 号添加
+#### rowink - [Github](https://github.com/rowink)
+* :white_check_mark: [Iris Analytics](https://github.com/rowink/IrisAnalytics)：轻量开源的网站流量分析面板，基于 Cloudflare Pages + Analytics Engine，无需数据库，部署后一条 script 标签即可统计访问数据，支持密码保护、站点白名单和 IP 黑名单过滤，免费自托管
+
 #### Kris Yang - [Github](https://github.com/krisyangdev)
 * :white_check_mark: [Motionboard](https://motionboard.app)：发布片镜头配方库，38 个 Apple、Linear 等官方发布片镜头的 HyperFrames 复刻，附 agent skill，npx skills add 一行安装让 Claude Code 做发布片
 
