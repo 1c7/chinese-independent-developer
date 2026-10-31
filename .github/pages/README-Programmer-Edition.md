@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 10 月 31 号添加
+#### Kris Yang - [Github](https://github.com/krisyangdev)
+* :white_check_mark: [Motionboard](https://motionboard.app)：发布片镜头配方库，38 个 Apple、Linear 等官方发布片镜头的 HyperFrames 复刻，附 agent skill，npx skills add 一行安装让 Claude Code 做发布片
+
 ### 2026 年 10 月 30 号添加
 #### AloneMonkey - [Github](https://github.com/AloneMonkey)
 * :white_check_mark: [HotRepo](https://hotrepo.ai/zh)：GitHub 热门项目发现网站，提供中英双语 AI 解读，可按日、周、月及历史榜单查看项目，网页版免费浏览、无需登录
