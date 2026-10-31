@@ -26,6 +26,12 @@
 
 ### 2026 年 10 月 31 号添加
 
+#### 18841144913 - [Github](https://github.com/18841144913)
+* :white_check_mark: [KanaCraft 卡娜日语 / 卡娜英语](https://kanacraft.cn/library)：面向中文用户的日语与英语自学网站，日语从零基础五十音与听写入门，覆盖 JLPT N5–N1 词汇和教材词书，英语用打字、听写、卡片与连连看背单词并带语法知识库，覆盖四六级、考研与雅思托福词库；基础功能免费、会员可选 — 浏览器即可用，适配手机、平板与电脑 - [卡娜英语](https://english.kanacraft.cn/)
+
+#### ceasarXuu - [Github](https://github.com/ceasarXuu)
+* :white_check_mark: [豆门](https://doumen.work/)：面向拼豆爱好者的图纸识别与制作 App，导入现成图纸或照片后核对网格与颜色，编辑导出并记录制作进度；免费、无需注册，支持 iOS / iPadOS 与 Android - [原创图纸与入门教程](https://doumen.work/blog/beginner-guide/)
+
 #### Jun Dong - [Github](https://github.com/dj05305)
 * :white_check_mark: [ChanScout](https://chanscout.com/)：中文 Telegram 公开资源目录，收录可核验的频道、群组与机器人，支持分类浏览与持续核验，免费使用
 
