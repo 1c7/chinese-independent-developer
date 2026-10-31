@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 31 号添加
 
+#### Li Wen - [Github](https://github.com/wenliabc2007)
+* :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
+
 #### 18841144913 - [Github](https://github.com/18841144913)
 * :white_check_mark: [KanaCraft 卡娜日语 / 卡娜英语](https://kanacraft.cn/library)：面向中文用户的日语与英语自学网站，日语从零基础五十音与听写入门，覆盖 JLPT N5–N1 词汇和教材词书，英语用打字、听写、卡片与连连看背单词并带语法知识库，覆盖四六级、考研与雅思托福词库；基础功能免费、会员可选 — 浏览器即可用，适配手机、平板与电脑 - [卡娜英语](https://english.kanacraft.cn/)
 
