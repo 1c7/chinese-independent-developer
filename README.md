@@ -26,6 +26,9 @@
 
 ### 2026 年 10 月 31 号添加
 
+#### szj2ys - [Github](https://github.com/szj2ys)
+* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：Convert uploaded raster images to editable SVG paths with hosted tracing; includes a free browser-local SVG structure checker for files up to 2 MB, with no account or upload - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
+
 #### 18841144913 - [Github](https://github.com/18841144913)
 * :white_check_mark: [KanaCraft 卡娜日语 / 卡娜英语](https://kanacraft.cn/library)：面向中文用户的日语与英语自学网站，日语从零基础五十音与听写入门，覆盖 JLPT N5–N1 词汇和教材词书，英语用打字、听写、卡片与连连看背单词并带语法知识库，覆盖四六级、考研与雅思托福词库；基础功能免费、会员可选 — 浏览器即可用，适配手机、平板与电脑 - [卡娜英语](https://english.kanacraft.cn/)
 
