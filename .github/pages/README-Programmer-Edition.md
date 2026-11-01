@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 1 号添加
+#### SimZhou - [Github](https://github.com/SimZhou)
+* :white_check_mark: [AudioLens](https://marketplace.visualstudio.com/items?itemName=simzhou.audiolens)：VS Code 音频查看与分析扩展，在本地或 Remote SSH 工作区查看多声道波形、频谱和选区 RMS/峰值，支持原始 PCM 与 Kaldi Ark 中的 WAV 条目，免费、Apache-2.0 开源 - [GitHub 仓库与演示](https://github.com/SimZhou/vscode-audiolens)
+
 #### OakcoderX - [Github](https://github.com/OakcoderX)
 * :clock8: [SoloPup Memory](https://github.com/OakcoderX/solopup-memory)：DeepSeek Harness 原生文本记忆插件，按项目/全局保存决定与工作偏好，记录出处、条件和修订；MIT 公开测试版，需 Node 24.9+、DSH >=0.2.1-rc.0 <0.3.0，配置的模型 API 可另计费
 
