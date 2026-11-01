@@ -29,6 +29,9 @@
 #### xuantingjiang39 - [Github](https://github.com/xuantingjiang39)
 * :white_check_mark: [旅伴 TripMate](https://111.230.133.155/)：家庭出游 AI 行程工具，按目的地、预算和同行需求整理可编辑的每日安排、交通与费用，网页和 Windows 可导出 PDF；支持网页、Windows 和安卓（Beta），游客预览第 1 天，AI 生成使用额度 - [介绍与下载](https://github.com/xuantingjiang39/TripMate)
 
+#### clarkloveProduct - [Github](https://github.com/clarkloveProduct)
+* :white_check_mark: [听笺](https://tingjian.art/)：粘贴中英文文章或导入公众号链接，自动提炼 AI 文字要点，点击后生成语音，先听重点再听原文，支持倍速播放、七天账号记录和跨设备续听
+
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议
 
