@@ -42,6 +42,9 @@
 #### 湾区AI日历(广东) - [Github](https://github.com/tgchtggn29-bit)
 * :white_check_mark: [湾区 AI 日历](https://wqai.ltd/)：粤港澳大湾区 AI 活动与赛事日历，把深圳、广州、中国香港、东莞、珠海的 AI 大会、行业沙龙和黑客松按城市和日期排好，每天核对一次，每场都带主办方与官方报名入口，可一键订阅到手机日历
 
+#### LinMoQC - [Github](https://github.com/LinMoQC)
+* :white_check_mark: [Magic Resume](https://www.magic-resume.cn/)：开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)
+
 ### 2026 年 10 月 31 号添加
 
 #### 18841144913 - [Github](https://github.com/18841144913)
