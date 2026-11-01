@@ -27,7 +27,7 @@
 ### 2026 年 11 月 1 号添加
 
 #### Jeff Song - [About](https://trustbible.org/en/about/)
-* :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：Free KJV and Chinese Union Version text counts with matching verses, Old/New Testament totals and CSV export; English/Chinese interface, no account required. Character matches are literal, not theological interpretation.
+* :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：KJV 与和合本全文词频统计，输出命中经文、旧约/新约分部计数并支持 CSV 导出；中英双语界面，无需注册，按字面字符匹配、不做神学解释
 
 #### xuantingjiang39 - [Github](https://github.com/xuantingjiang39)
 * :white_check_mark: [旅伴 TripMate](https://111.230.133.155/)：家庭出游 AI 行程工具，按目的地、预算和同行需求整理可编辑的每日安排、交通与费用，网页和 Windows 可导出 PDF；支持网页、Windows 和安卓（Beta），游客预览第 1 天，AI 生成使用额度 - [介绍与下载](https://github.com/xuantingjiang39/TripMate)
@@ -47,7 +47,7 @@
 #### szj2ys - [Github](https://github.com/szj2ys)
 * :white_check_mark: [Pic2SVG](https://pic2svg.com/)：上传普通图片（JPG/PNG 等），转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
 * :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols)：Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册
-* :white_check_mark: [imgmov Image Prep](https://imgmov.com/resize-image-for-ai-video): Browser image-preparation utility: crop or pad a starting frame to a chosen aspect ratio and export JPEG or PNG locally; free and no account required.
+* :white_check_mark: [imgmov Image Prep](https://imgmov.com/resize-image-for-ai-video)：浏览器内图片预处理工具，为 AI 视频首帧裁剪或补边到指定比例，本地导出 JPEG / PNG，免费、无需注册
 
 #### Li Wen - [Github](https://github.com/wenliabc2007)
 * :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
