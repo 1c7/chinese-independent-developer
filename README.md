@@ -45,6 +45,9 @@
 #### LinMoQC - [Github](https://github.com/LinMoQC)
 * :white_check_mark: [Magic Resume](https://www.magic-resume.cn/)：开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)
 
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [ReferralCodes Canada](https://referralcodescanada.com/)：加拿大推荐码与注册奖励目录，查找、比较并分享各种服务的推荐码，了解奖励详情、资格要求和分享规则，帮助用户在加拿大获取更多优惠
+
 ### 2026 年 10 月 31 号添加
 
 #### 18841144913 - [Github](https://github.com/18841144913)
