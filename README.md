@@ -44,6 +44,7 @@
 #### szj2ys - [Github](https://github.com/szj2ys)
 * :white_check_mark: [Pic2SVG](https://pic2svg.com/)：上传普通图片（JPG/PNG 等），转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
 * :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols)：Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册
+* :white_check_mark: [imgmov Image Prep](https://imgmov.com/resize-image-for-ai-video): Browser image-preparation utility: crop or pad a starting frame to a chosen aspect ratio and export JPEG or PNG locally; free and no account required.
 
 #### Li Wen - [Github](https://github.com/wenliabc2007)
 * :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
