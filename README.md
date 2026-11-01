@@ -48,6 +48,9 @@
 #### Linky - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [ReferralCodes Canada](https://referralcodescanada.com/)：加拿大推荐码与注册奖励目录，查找、比较并分享各种服务的推荐码，了解奖励详情、资格要求和分享规则，帮助用户在加拿大获取更多优惠
 
+#### tumingke0 - [Github](https://github.com/tumingke0)
+* :white_check_mark: [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议
+
 ### 2026 年 10 月 31 号添加
 
 #### 18841144913 - [Github](https://github.com/18841144913)
