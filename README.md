@@ -33,8 +33,8 @@
 * :white_check_mark: [Logo Animation AI](https://logoanimationai.com/)：上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧
 
 #### szj2ys - [Github](https://github.com/szj2ys)
-* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：Convert uploaded raster images to editable SVG paths with hosted tracing; includes a free browser-local SVG structure checker for files up to 2 MB, with no account or upload - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
-* :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols): Free unofficial English/Chinese Big Walk guide with a browser signal-code planner, coordinate lookup and puzzle walkthroughs; no registration.
+* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：上传光栅图片，转成可编辑的 SVG 路径，浏览器本地运行、文件不上传，2 MB 以内免费无需注册，另附 SVG 结构检查器 - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
+* :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols)：Big Walk 非官方中英攻略，浏览器内信号码规划器、坐标查询与谜题 walkthrough，免费无需注册
 
 #### Li Wen - [Github](https://github.com/wenliabc2007)
 * :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
