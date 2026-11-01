@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 1 号添加
 
+#### Jeff Song - [About](https://trustbible.org/en/about/)
+* :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：Free KJV and Chinese Union Version text counts with matching verses, Old/New Testament totals and CSV export; English/Chinese interface, no account required. Character matches are literal, not theological interpretation.
+
 #### xuantingjiang39 - [Github](https://github.com/xuantingjiang39)
 * :white_check_mark: [旅伴 TripMate](https://111.230.133.155/)：家庭出游 AI 行程工具，按目的地、预算和同行需求整理可编辑的每日安排、交通与费用，网页和 Windows 可导出 PDF；支持网页、Windows 和安卓（Beta），游客预览第 1 天，AI 生成使用额度 - [介绍与下载](https://github.com/xuantingjiang39/TripMate)
 
