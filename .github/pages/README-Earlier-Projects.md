@@ -6,6 +6,47 @@
 
 ---
 
+### 2025 年 5 月 29 号添加
+#### Charlie(上海) - [Github](https://github.com/weight567)
+* :white_check_mark: [Transmonkey](https://www.transmonkey.ai/)：所有您所需的翻译工具，一应俱全 - [更多介绍](https://www.transmonkey.ai/faq)
+* :white_check_mark: [TeachAny](https://www.teachany.com/)：使用 TeachAny AI 工具，简化您的教学 - [更多功能](https://www.teachany.com/tools)
+* :white_check_mark: [Imgkits](https://www.imgkits.com/)：全能 AI 图像、视频编辑器：使用 Imgkits 创建令人惊艳的照片和视频 - [更多功能](https://www.imgkits.com/create/image)
+
+#### zane - [Github](https://github.com/littleblackone)
+* :white_check_mark: [AgentHunter](https://www.agenthunter.io/)：每日更新的 AI Agent 目录和新闻
+
+### 2025 年 5 月 28 号添加
+#### Lingglee - [Github](https://github.com/lingglee)
+* :white_check_mark: [English Daily](https://englishdaily.ai/)：AI 每日英语学习平台
+
+### 2025 年 5 月 26 号添加
+#### 羊上上(杭州) - [Github](https://github.com/yangbishang/)
+* :white_check_mark: [AI 今日热榜](https://aihot.today)：汇集全球顶尖来源的最新 AI 新闻、研究和趋势，为您节省宝贵时间
+
+### 2025 年 5 月 25 号添加
+#### 3d-animation - [Github](https://github.com/3d-animation)
+- :x: [buzz-cut AI](https://buzz-cut.me)：上传您的照片，用 AI 变成"寸头"(buzz cut）发型。预览发型效果
+
+##### Sarkory(广州)
+- :white_check_mark: [Veo 3 AI](https://veo3ai.org)：Veo 3 AI 视频生成
+
+### 2025 年 5 月 22 号添加
+#### Sawana Huang
+* :white_check_mark: [Board Foot Calculator](https://boardfootcalculator.cc/)：简便的在线版英尺计算器，用来计算木材的体积和对应的价格，面向木工爱好者，或者要购买木材的买家
+
+#### Indie Maker Fox - [Github](https://github/javayhu) [Twitter](https://x.com/indie_maker_fox) [Blog](https://mksaas.me)
+* :white_check_mark: [mksaas.com](https://mksaas.com)：最好的 AI SaaS 模板，只需1个周末就可以上线你的 AI SaaS
+
+### 2025 年 5 月 21 号添加
+#### Axis Wang(深圳) - [Github](https://github/wangxs404)
+* :white_check_mark: [video2ppt.com](https://video2ppt.com)：将任意来源的视频转换为 PPT 演示文档
+
+#### Rns - [Github](https://github.com/rnsss)
+* :white_check_mark: [AI Doll](https://ai-doll.online/)：用 AI 将人像照片转换成玩具人偶
+
+#### hanlaoshinb - [Github](https://github.com/hanlaoshinb)
+* :white_check_mark: [TarotDreamHub](https://www.tarotdreamhub.com/)：免费 AI 塔罗牌占卜。想好您想占卜的问题，在线抽牌后就可以一键解牌啦！
+
 ### 2025 年 5 月 20 号添加
 #### Lee - [Github](https://github.com/lkunxyz)
 * :white_check_mark: [bratgenerator](https://bratgenerator.dev/)：可以设置字体，背景颜色等
