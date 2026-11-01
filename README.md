@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 1 号添加
 
+#### Jeff Song - [About](https://trustbible.org/en/about/)
+* :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：Free KJV and Chinese Union Version text counts with matching verses, Old/New Testament totals and CSV export; English/Chinese interface, no account required. Character matches are literal, not theological interpretation.
+
 #### tumingke0 - [Github](https://github.com/tumingke0)
 * :white_check_mark: [DisconfirmAI](https://disconfirmai.com/zh)：AI 投资研究与阅读平台，下结论前先找可能推翻自己判断的证据。每天整理公开来源的 AI 与投资资讯，每条附原文链接；可以对着财报和数据做研究，让雷达按你写下的条件定时扫描变化，也能写下自己的投资体系，另有 AI 100 榜单和产业地图。阅读和投资体系永久免费，注册送 400 积分，不提供买卖建议
 
