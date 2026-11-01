@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 1 号添加
+#### OakcoderX - [Github](https://github.com/OakcoderX)
+* :clock8: [SoloPup Memory](https://github.com/OakcoderX/solopup-memory)：DeepSeek Harness 原生文本记忆插件，按项目/全局保存决定与工作偏好，记录出处、条件和修订；MIT 公开测试版，需 Node 24.9+、DSH >=0.2.1-rc.0 <0.3.0，配置的模型 API 可另计费
+
 ### 2026 年 10 月 31 号添加
 #### YeefyisOK - [Github](https://github.com/YeefyisOK)
 * :white_check_mark: [jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator)：开源 SRT 字幕翻译工具，用结构化 LLM 输出（OpenRouter，可选 GPT/Claude/Gemini/DeepSeek 等）翻译字幕，保留每条字幕的序号和时间轴，漏译自动按 ID 重试，并用 Jev 自动质检，提供本地网页界面和 CLI。是 GeekLink 字幕软件开源出来的翻译引擎
