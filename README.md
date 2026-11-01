@@ -27,7 +27,7 @@
 ### 2026 年 11 月 1 号添加
 
 #### z4none - [Github](https://github.com/z4none)
-* :white_check_mark: [Kyna Player](https://kyna.fynxlab.com/)：支持 GPU 播放、DLSS 画质增强和 AI 字幕工具的 Windows 视频播放器
+* :white_check_mark: [Kyna Player](https://kyna.fynxlab.com/)：Windows 视频播放器，支持 GPU 播放、DLSS 画质增强和 AI 字幕工具
 
 #### kian - [Github](https://github.com/BossChow)
 * :white_check_mark: [Logo Animation AI](https://logoanimationai.com/)：上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧
