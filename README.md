@@ -26,8 +26,23 @@
 
 ### 2026 年 11 月 1 号添加
 
-#### LinMoQC - [Github](https://github.com/LinMoQC)
+#### z4none - [Github](https://github.com/z4none)
+* :white_check_mark: [Kyna Player](https://kyna.fynxlab.com/)：支持 GPU 播放、DLSS 画质增强和 AI 字幕工具的 Windows 视频播放器
 
+#### kian - [Github](https://github.com/BossChow)
+* :white_check_mark: [Logo Animation AI](https://logoanimationai.com/)：上传静态 Logo，选择动效模板或用文字描述效果，生成用于品牌展示、视频片头和社交媒体的 Logo 动画，无需掌握剪辑或关键帧
+
+#### szj2ys - [Github](https://github.com/szj2ys)
+* :white_check_mark: [Pic2SVG](https://pic2svg.com/)：Convert uploaded raster images to editable SVG paths with hosted tracing; includes a free browser-local SVG structure checker for files up to 2 MB, with no account or upload - [SVG checker](https://pic2svg.com/svg-cut-file-checker/)
+* :white_check_mark: [Big Walk Guide](https://thebigwalk.world/en/protocols): Free unofficial English/Chinese Big Walk guide with a browser signal-code planner, coordinate lookup and puzzle walkthroughs; no registration.
+
+#### Li Wen - [Github](https://github.com/wenliabc2007)
+* :white_check_mark: [Roam Radio](https://roamradios.com/)：全球网络电台目录与播放器，按国家、音乐流派、语言或在 3D 地球上找台，浏览器直接收听，每个电台有独立详情页，免费无需注册
+
+#### 湾区AI日历(广东) - [Github](https://github.com/tgchtggn29-bit)
+* :white_check_mark: [湾区 AI 日历](https://wqai.ltd/)：粤港澳大湾区 AI 活动与赛事日历，把深圳、广州、中国香港、东莞、珠海的 AI 大会、行业沙龙和黑客松按城市和日期排好，每天核对一次，每场都带主办方与官方报名入口，可一键订阅到手机日历
+
+#### LinMoQC - [Github](https://github.com/LinMoQC)
 * :white_check_mark: [Magic Resume](https://www.magic-resume.cn/)：开源 AI 简历工作台，支持实时预览、按目标岗位获取建议，逐条采纳或跳过 AI 修改；提供中英文、可自定义模板及 PDF/JSON 导出，云端版提供免费和付费计划 - [源码](https://github.com/Magic-Resume/Magic-Resume)
 
 ### 2026 年 10 月 31 号添加
