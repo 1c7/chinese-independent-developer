@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 2 号添加
 
+#### 88slash(北京) - [Github](https://github.com/88slash)
+* :white_check_mark: [Particle Logo](https://particlelogo.com/zh)：Logo 粒子动画在线工具，上传 PNG、SVG、JPG 或 WebP，从 9 种粒子效果里选一种，导出视频、GIF 或零依赖的 HTML 文件、Vue 3 与 React 组件；图片只在浏览器里处理不上传，免费版可预览全部效果，Pro 去水印并提供 4K 视频和透明背景
+
 #### fansion(北京) - [GitHub](https://github.com/yafanisonya)
 * :white_check_mark: [RapMotion](https://rapmotion.app)：AI 双人 Rap 视频生成工具。上传两张人物照片并选择预设风格，即可生成两人同台 Rap、带原创歌词与节拍且口型同步的竖屏短视频，适合制作朋友合拍、生日祝福和社交媒体内容；无需写提示词、安装 App 或剪辑视频 - [更多介绍](https://rapmotion.app)
 
