@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 2 号添加
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Poker Practice Simulator](https://pokerpracticesimulator.com/)：免费的在线德州扑克练习工具，与电脑对手对局，实时查看胜率、补牌与底池赔率，支持中英文，无需注册 - [更多介绍](https://pokerpracticesimulator.com/zh/about)
+
 ### 2026 年 10 月 25 号添加
 #### liujd0326 - [Github](https://github.com/liujd0326)
 * :white_check_mark: [Choicer Voicer](https://choicervoicer.com/?utm_source=chineseindie.com&utm_medium=referral&utm_campaign=directory)：The Choicer Voicer 的第三方社区配音包资源站，提供 Voice Pack、Dub Pack 等素材检索、预览与原始来源链接，附浏览器本地 ZIP 校验和配音包制作工具
