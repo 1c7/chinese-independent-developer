@@ -17,6 +17,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 2 号添加
+#### Fizee
+
+- :white_check_mark: [LapseZero](https://cn.lapsezero.com/)：SSL 证书自动化平台，自动申请、续期并部署到 Nginx、阿里云和腾讯云等目标；免费管理 3 个域名、5 个部署目标和 5 个证书监控，国内付费套餐 6 元/月起
+
 #### Peter Zhang - [Github](https://github.com/peterzhang0216)
 * :white_check_mark: [Swift 与 App Store 开发者工具](https://obelisk.club/toolkit?lang=zh)：iOS / Mac 应用上架前用的免费浏览器工具，Info.plist 检查、ITMS 上传报错查询、隐私政策生成、App Store 链接生成等，无需注册，文件不上传
 
