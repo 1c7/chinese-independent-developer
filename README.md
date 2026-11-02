@@ -26,6 +26,21 @@
 
 ### 2026 年 11 月 2 号添加
 
+#### fansion(北京) - [GitHub](https://github.com/yafanisonya)
+* :white_check_mark: [RapMotion](https://rapmotion.app)：AI 双人 Rap 视频生成工具。上传两张人物照片并选择预设风格，即可生成两人同台 Rap、带原创歌词与节拍且口型同步的竖屏短视频，适合制作朋友合拍、生日祝福和社交媒体内容；无需写提示词、安装 App 或剪辑视频 - [更多介绍](https://rapmotion.app)
+
+#### 259007 - [Github](https://github.com/259007)
+* :white_check_mark: [Dayfly Mail](https://dayfly.email/zh-CN)：临时邮箱网站，适合临时接收验证邮件或开发应用时测试收信，免费、无需注册也不用填手机号，有效期 10 分钟、1 小时、24 小时和 3 天可选，邮箱前缀随机生成或自己填写，支持查看文本和 HTML 邮件、用完手动销毁；只收不发、不保存附件
+
+#### Cody - [Github](https://github.com/cody147)
+* :white_check_mark: [virtual ring try on](https://aijewelrymodel.app/virtual-ring-try-on)（AI Jewelry Model）：上传手部照片和戒指图片，生成戒指佩戴预览，适合珠宝商品视觉展示；不是戒围或真实尺寸测量工具
+* :white_check_mark: [AI fashion model generator](https://modelsnap.app/)（ModelSnap）：将服装商品照片转为模特穿着的展示图，适合电商详情页和穿搭素材，发布前需核对服装细节
+* :white_check_mark: [AI lyric video maker](https://lyricfast.com/)（LyricFast）：上传歌曲并整理歌词，制作带歌词字幕的音乐视频，适合歌曲发布和社交分享，需使用有权处理的音频与歌词
+* :white_check_mark: [AI clothes changer](https://samemuse.com/)（SameMuse）：用人物照片和服装参考图生成换装预览，适合比较穿搭视觉效果，不保证真实试穿合身度
+
+#### Nico - [Github](https://github.com/niyongsheng)
+* :white_check_mark: [AudioScript 声稿](https://audioscript.looplooptech.com/)：离线优先的实时同传字幕工具，监听系统声音并在悬浮窗中流式显示原文与译文，音频全程在本机处理，支持 macOS / Windows / Linux，免费开源 - [源码](https://github.com/niyongsheng/AudioScript)
+
 #### Peter Zhang - [Github](https://github.com/peterzhang0216), [博客](https://obelisk.club/blog?lang=zh)
 * :white_check_mark: [QuickPix](https://obelisk.club/quickpix?lang=zh)：Mac 图片压缩与格式转换 App，支持 HEIC 和 RAW，画质可调，图片全程在本机处理不上传，免费下载
 * :white_check_mark: [QuickVid](https://obelisk.club/quickvid?lang=zh)：Mac 视频压缩 App，拖入视频即可压到适合邮件和聊天发送的大小，用 Apple 芯片硬件编码，文件留在本机
