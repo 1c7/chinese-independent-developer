@@ -26,6 +26,11 @@
 
 ### 2026 年 11 月 1 号添加
 
+#### Peter Zhang - [Github](https://github.com/peterzhang0216), [博客](https://obelisk.club/blog?lang=zh)
+* :white_check_mark: [QuickPix](https://obelisk.club/quickpix?lang=zh)：Mac 图片压缩与格式转换 App，支持 HEIC 和 RAW，画质可调，图片全程在本机处理不上传，免费下载
+* :white_check_mark: [QuickVid](https://obelisk.club/quickvid?lang=zh)：Mac 视频压缩 App，拖入视频即可压到适合邮件和聊天发送的大小，用 Apple 芯片硬件编码，文件留在本机
+* :white_check_mark: [饮品咖啡因速查](https://obelisk.club/caffeine-in?lang=zh)：咖啡、茶、奶茶、能量饮料和汽水的咖啡因含量对照，附份量、入睡时间和每日上限参考，免费无需注册
+
 #### Jeff Song - [About](https://trustbible.org/en/about/)
 * :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：KJV 与和合本全文词频统计，输出命中经文、旧约/新约分部计数并支持 CSV 导出；中英双语界面，无需注册，按字面字符匹配、不做神学解释
 
