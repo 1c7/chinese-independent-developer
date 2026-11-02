@@ -16,10 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 11 月 1 号添加
+### 2026 年 11 月 2 号添加
 #### Peter Zhang - [Github](https://github.com/peterzhang0216)
 * :white_check_mark: [Swift 与 App Store 开发者工具](https://obelisk.club/toolkit?lang=zh)：iOS / Mac 应用上架前用的免费浏览器工具，Info.plist 检查、ITMS 上传报错查询、隐私政策生成、App Store 链接生成等，无需注册，文件不上传
 
+### 2026 年 11 月 1 号添加
 #### SimZhou - [Github](https://github.com/SimZhou)
 * :white_check_mark: [AudioLens](https://marketplace.visualstudio.com/items?itemName=simzhou.audiolens)：VS Code 音频查看与分析扩展，在本地或 Remote SSH 工作区查看多声道波形、频谱和选区 RMS/峰值，支持原始 PCM 与 Kaldi Ark 中的 WAV 条目，免费、Apache-2.0 开源 - [GitHub 仓库与演示](https://github.com/SimZhou/vscode-audiolens)
 

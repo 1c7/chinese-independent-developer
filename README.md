@@ -24,12 +24,22 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 1 号添加
+### 2026 年 11 月 2 号添加
 
 #### Peter Zhang - [Github](https://github.com/peterzhang0216), [博客](https://obelisk.club/blog?lang=zh)
 * :white_check_mark: [QuickPix](https://obelisk.club/quickpix?lang=zh)：Mac 图片压缩与格式转换 App，支持 HEIC 和 RAW，画质可调，图片全程在本机处理不上传，免费下载
 * :white_check_mark: [QuickVid](https://obelisk.club/quickvid?lang=zh)：Mac 视频压缩 App，拖入视频即可压到适合邮件和聊天发送的大小，用 Apple 芯片硬件编码，文件留在本机
 * :white_check_mark: [饮品咖啡因速查](https://obelisk.club/caffeine-in?lang=zh)：咖啡、茶、奶茶、能量饮料和汽水的咖啡因含量对照，附份量、入睡时间和每日上限参考，免费无需注册
+
+#### ixiehao - [Github](https://github.com/ixiehao)
+* :white_check_mark: [ShotMap](https://ixiehao.github.io/ShotMap/zh/)：macOS 视频拼图工具，自动或手动选帧，批量导出带时间码的分镜图，视频在本机处理；免费、MIT 开源，macOS 13+ - [源码与下载](https://github.com/ixiehao/ShotMap)
+* :white_check_mark: [MP4Flow](https://ixiehao.github.io/MP4Flow/)：macOS 视频处理工具，批量转 MP4、截取片段、裁切画面、旋转和合并；免费、MIT 开源，macOS 13+，需另装 FFmpeg 和 ffprobe - [源码与安装说明](https://github.com/ixiehao/MP4Flow)
+* :white_check_mark: [LumaView](https://ixiehao.github.io/LumaView/)：macOS 轻量看图工具，直接浏览文件夹、缩放旋转、查看 EXIF 和多页 PDF；免费、MIT 开源，macOS 12+，通用版 DMG 约 2.5 MB - [源码与下载](https://github.com/ixiehao/LumaView)
+
+#### Hsiao-Yi Yang - [网站](https://www.nihongotojapan.com/zh-cn)
+* :white_check_mark: [Nihongo to Japan](https://www.nihongotojapan.com/zh-cn)：日语自学网站，从五十音到 JLPT N1，650+ 篇文法解说、191 课自学教材、程度测验与动词变化表，支持简体中文等 9 种界面；核心内容免费无需注册，另有可选支持方案（额外练习与 PDF），网站含广告
+
+### 2026 年 11 月 1 号添加
 
 #### Jeff Song - [About](https://trustbible.org/en/about/)
 * :white_check_mark: [TrustBible Bible Word Counter](https://trustbible.org/zh-cn/bible-word-counter/)：KJV 与和合本全文词频统计，输出命中经文、旧约/新约分部计数并支持 CSV 导出；中英双语界面，无需注册，按字面字符匹配、不做神学解释
@@ -5209,63 +5219,6 @@
 
 #### Schopenlaam - [博客](https://schopenlaam.com/)
 * :white_check_mark: [Mouse Pro](https://mousepro.app)：鼠标高亮、放大、聚焦、阅读，适用于视频会议屏幕共享、演示和视频教程录制等
-
-### 2025 年 6 月 4 号添加
-#### CodaPrime 
-* :white_check_mark: [AI 取名网](https://bbname.cc/)：用 AI 帮助宝宝取名服务，依据中国传统命理学为您的宝宝提供最为合适的名字。这款扩展功能融合了八字、生肖、五行以及三才五格等多种传统命理因素，为您的宝宝量身打造吉祥如意的好名字 - [更多介绍](https://bbname.cc/about)
-
-#### rns
-* :white_check_mark: [FLUX.1 Kontext Image Generator](https://flux1kontextimagegenerator.online/)：具有上下文理解、角色一致性和本地编辑功能的 AI 图像生成器
-
-#### Ryan
-* :white_check_mark: [AI Baby Generator](https://aibabygenerator.art/)：基于 AI 的宝宝长相预测工具
-
-#### dy 
-* :white_check_mark: [台灣解夢](https://twjiemeng.com/)：融合 AI 技术与传统解梦学说，为用户提供免费梦境解析服务，无需注册即可一直免费使用 - [更多介绍](https://twjiemeng.com/about)
-
-#### mao wei - [Github](https://github.com/mw138)
-* :white_check_mark: [AI 随机图片生成器](https://randomimagegenerator.info/index.html)：随机图片生成工具（免费），支持数字艺术、抽象背景、概念插图等多种风格
-
-#### Anna - [Github](https://github.com/fluxstrive)
-* :x: [Bypass Turnitin](https://bypassturnitin.net/)：将 AI 生成的内容转换为自然的文本，绕过 Turnitin 和 AI 检测，同时保留原文的含义和质量
-
-#### aipromptdirectory - [Github](https://github.com/aipromptdirectory)
-* :x: [product-rule](https://product-rule.com)：探索并发现最具创新性的人工智能产品、工具和解决方案，以改变您的工作流程并提升生产力，汇聚了大量的优秀 AI 产品
-
-#### dy 
-* :white_check_mark: [AI Line Art Generator](https://lineart.app/)：功能强大的 AI 线稿生成平台，为用户提供多样化的线稿创作与获取服务 - [更多介绍](https://lineart.app/about)
-
-### 2025 年 6 月 3 号添加
-#### Amyang - [Github](https://github.com/AmyangXYZ)
-* :white_check_mark: [Proof of Awesome](https://proof-of-awesome.app)：AI 辅助的学术同行评审的共识机制，将你的真实成就永久记录在区块链上，用有意义的人类成就取代传统挖矿 - [更多介绍](https://proof-of-awesome.app/call-for-achievement)
-
-### 2025 年 6 月 2 号添加
-#### Allen(深圳) 
-* :white_check_mark: [FLUX Kontext](https://kontextflux.com)：FLUX 图片生成工具，简单图文指令实现专业级视觉创作
-
-#### sing1ee- [Github](https://github.com/sing1ee)
-* :white_check_mark: [Veo3 video](https://veo3.directory/)：收集 Veo3 生成的最新视频，每天更新
-
-#### [Github](https://github.com/bear-clicker)
-* :white_check_mark: [LoraAI](https://loraai.io/)：flux lora 图片生成工具，用户可以选择不同的 lora 风格实时生成对应的风格图片，价格便宜
-
-#### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [Ask Me Anything](https://ama.stockai.trade/)：世界上最简单的问答网站，内置实时联网搜索，你可以问它任何问题，还可以查询任何推特/X用户的最新动态，例如输入@elonmusk即可获得马斯克的最新X动态
-
-### 2025 年 5 月 30 号添加
-#### NoteGen - [Github](https://github.com/codexu/note-gen)
-* :white_check_mark: [NoteGen](https://notegen.top/)：跨平台的 Markdown AI 笔记软件，致力于使用 AI 建立记录和写作的桥梁
-
-#### Anna - [Github](https://github.com/fluxstrive)
-* :white_check_mark: [Mii Maker](https://miimaker.net/)：角色创建者（免费），可以让你设计个性化的 Mii 化身。创建具有可定制功能的独特虚拟角色，包括脸型、发型、眼睛、衣服和配饰
-
-#### Corey Chiu - [Github](https://github.com/iamcorey)
-* :white_check_mark: [JSON Merge](https://jsonmerge.com/)：JSON 合并工具
-
-#### ShownHacks - [Github](https://github.com/ShawnHacks), 北京
-* :white_check_mark: [AIHuntList](https://aihuntlist.com/)：发现最佳 AI 产品和工具的搜索导航
-* :white_check_mark: [NestSaaS](https://nestsaas.com): 构建内容驱动的网站和SaaS应用的现代框架，配备强大的管理工具
-* :white_check_mark: [SnapReader](https://chromewebstore.google.com/detail/snapreader/mogfnnfmcbchdciddfejbkfgahklegpp)：立即快速保存在线内容，稍后轻松阅读，SnapReader 是一款轻量级的浏览器扩展，旨在帮助你以最小的阻力捕获在线内容
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
