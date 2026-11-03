@@ -26,6 +26,11 @@
 
 ### 2026 年 11 月 3 号添加
 
+#### phinn - [Github](https://github.com/phinn)
+* :white_check_mark: [KinetMagicDisk](https://apps.apple.com/cn/app/id6813423397)：Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6813423397)
+* :white_check_mark: [KinetFlashFind](https://apps.apple.com/cn/app/id6808698046)：Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6808698046)
+* :white_check_mark: [DriftDesk](https://apps.apple.com/cn/app/id6817377455)：Mac 专注氛围声 App，内置雨声、白噪等声景与极简桌面组件，帮助专注与放松 - [更多介绍](https://apps.apple.com/cn/app/id6817377455)
+
 #### my19940202(上海) - [Github](https://github.com/my19940202)
 * :white_check_mark: [绘页](https://huiye.org)：生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用 - [更多介绍](https://huiye.org/zh/about)
 
