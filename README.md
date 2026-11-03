@@ -26,7 +26,7 @@
 
 ### 2026 年 11 月 3 号添加
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
 
 #### phinn - [Github](https://github.com/phinn)
