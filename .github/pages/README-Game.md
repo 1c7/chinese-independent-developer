@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 3 号添加
+#### Leo Lin - [Github](https://github.com/flukier1016)
+* :white_check_mark: [人间走一遭](https://cn.zouyizao.com/?from=cid)：中文人生模拟网页游戏，投胎三选一，一年一回合过完一生，出生年份 1950 到 2049 可选；含 4992 个随机事件、200 种职业、75 座城市，水墨画风，免费、免注册，手机电脑都能玩
+
 ### 2026 年 11 月 2 号添加
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [Poker Practice Simulator](https://pokerpracticesimulator.com/)：免费的在线德州扑克练习工具，与电脑对手对局，实时查看胜率、补牌与底池赔率，支持中英文，无需注册 - [更多介绍](https://pokerpracticesimulator.com/zh/about)
