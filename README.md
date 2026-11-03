@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 3 号添加
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [绘页](https://huiye.org)：生成绘本轮播视频，把文字做成一页一页切换的竖屏故事，30 多种手绘风格 — Web 应用 - [更多介绍](https://huiye.org/zh/about)
+
 ### 2026 年 11 月 2 号添加
 
 #### 88slash(北京) - [Github](https://github.com/88slash)
