@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 3 号添加
 
+#### hwlvipone - [Github](https://github.com/hwlvipone)
+* :white_check_mark: [Hookai](https://hookai.io/)：上传一张或两张人物照片，生成带人声演唱与节拍的竖屏说唱短视频，5-15 秒，无需剪辑；示例免费观看，实际生成需注册和点数
+
 #### fan3cn - [Github](https://github.com/fan3cn)
 * :white_check_mark: [BayesChat](https://bayeschat.xyz)：iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断
 
@@ -412,7 +415,7 @@
 #### fisher-byte - [Github](https://github.com/fisher-byte)
 * :white_check_mark: [AjaxModel Release Tracker](https://ajaxmodel.dev/)：Ajax 模型发布追踪站，汇总官方来源、发布时间线和本地运行指南，免登录查看；非官方项目，不提供未发布模型的权重下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [SongFromVideo](https://songfromvideo.com/)：视频识曲工具，粘贴 TikTok/YouTube/Instagram/Facebook/X 链接或上传音视频就能找出背景音乐，登录后首次识别免费
 
 ### 2026 年 10 月 20 号添加
@@ -1659,7 +1662,7 @@
 #### PigFetch Team - [Github](https://github.com/my-name-7)
 * :white_check_mark: [PigFetch](https://pigfetch.com)：Windows 视频链接下载工具，粘贴分享链接后可选择可用画质下载到电脑，适合素材留存与本地整理；新用户注册可使用 100 次，会员可无限下载
 
-#### 蚊子 - [Github](https://github.com/coderWenzi)
+#### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [VidLux AI](https://vidlux.ai/)：AI 视频生成与编辑平台，支持文生视频、图生视频、参考生视频和视频编辑
 
 ### 2026 年 8 月 4 号添加
