@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 3 号添加
 
+#### Lucius Miao - [Github](https://github.com/suicuLsi)
+* :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)
+
 #### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
 
