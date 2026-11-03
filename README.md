@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 3 号添加
 
+#### 蚊子 - [Github](https://github.com/coderWenzi)
+* :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
+
 #### phinn - [Github](https://github.com/phinn)
 * :white_check_mark: [KinetMagicDisk](https://apps.apple.com/cn/app/id6813423397)：Mac 磁盘空间清理 App，可视化查看磁盘占用、快速定位大文件并安全清理，本地处理不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6813423397)
 * :white_check_mark: [KinetFlashFind](https://apps.apple.com/cn/app/id6808698046)：Mac 文件搜索 App，按名称或内容秒级定位文件并支持预览，本地索引不上传数据 - [更多介绍](https://apps.apple.com/cn/app/id6808698046)
