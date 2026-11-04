@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 4 号添加
+#### 欧克元
+* :white_check_mark: [ChatGPT礼品卡](https://aicardhub.shop/)：ChatGPT 多面值礼品卡，可直充自己账户
+
 #### 熠辉(北京) - [Github](https://github.com/yihui-dev)
 * :white_check_mark: [Skillry](https://skillry.dev/zh/)：Agent Skill 库，每个 Skill 对应一种设计好的风格（如杂志感品牌故事 PPT、像素风宣传片），装进 Claude Code、Codex、Cursor 等 Agent，就能照着做出没有 AI 味的幻灯片、网页、图片和视频；装前可看真实成品
 

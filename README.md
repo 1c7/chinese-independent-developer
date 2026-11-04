@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 4 号添加
 
+#### suio03 - [Github](https://github.com/suio03)
+* :white_check_mark: [Tapemoon](https://tapemoon.com)：AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具
+
 #### Linhao Cui - [Github](https://github.com/cuilinhao)
 * :white_check_mark: [SoulPaw](https://soulpaw.art/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
 
