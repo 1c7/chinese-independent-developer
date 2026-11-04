@@ -6,6 +6,38 @@
 
 ---
 
+### 2025 年 6 月 21 号添加
+#### z3674313
+* :white_check_mark: [WhatsMyName](https://whatsmyname.me/)：在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)
+
+#### james(杭州)
+* :white_check_mark: [asmrvideo.ai](https://asmrvideo.ai/): 用 Veo3 生成高质量的 ASMR 视频
+
+#### DeepBlue-杭州
+* :x: [AI Rap Generator](https://rapgenerator.io/)：Rap 歌曲生成器
+
+#### kkkk-杭州
+* :white_check_mark: [Vogue Veo 3 Generator](https://www.vogueai.net/veo-3-generator)：最便宜的 Veo3 文本生成视频
+
+#### leo(上海)
+* :white_check_mark: [Coast FIRE Calculator](https://coast-fire-calculator.com/)：退休储蓄计算器
+
+#### monsoonw(杭州)
+* :white_check_mark: [Free AI Image Generator](https://ai-image-generator.co)：聚合所有主流 AI 图片生成模型，无需登录使用 - [更多介绍](https://github.com/free-ai-image-generator/Free-AI-Image-Generator)
+
+#### DamonTsang986(深圳) 
+* :white_check_mark: [CleverGet Free Recorder](https://www.leawo.org/cleverget-recorder/)：免费录制在线视频并可过滤广告的工具
+* :white_check_mark: [免费录屏器](https://www.leawo.com/free-screen-recorder/)：4 合 1 屏幕录制软件（免费）
+
+### 2025 年 6 月 19 号添加
+#### smkwls(深圳) - [Github](https://github.com/smkwls)
+* :white_check_mark: [sound effect generator](https://soundeffectgenerator.org/)：音效生成网站, 生成自定义音效
+* :white_check_mark: [Lip Sync](https://lipsync.studio/)：视频和音频嘴形同步，将视频中人的嘴形进行改变以适配音频
+* :white_check_mark: [Quit Porn AI](https://quitporn.ai/)：帮助人们戒除色情成瘾
+
+#### vladelaina - [Github](https://github.com/vladelaina), [博客](https://vladelaina.com/blog)
+* :white_check_mark: [Catime](https://github.com/vladelaina/Catime)：极致轻量的 Windows 倒计时工具，具有番茄工作法功能、透明界面和丰富自定义选项，只需几 MB 内存且几乎不占用 CPU 资源，便可在 Windows 上优雅掌控时间 - [更多介绍](https://vladelaina.github.io/Catime/)
+
 ### 2025 年 6 月 18 号添加
 #### Caron77 - [Github](https://github.com/Caron77ai)
 * :white_check_mark: [Veo3 AI Video Generator](https://veo-3.art)：支持文本转视频和图像转视频，配备原生音频生成和精准唇形同步，2-5秒完成专业级视频创作。
