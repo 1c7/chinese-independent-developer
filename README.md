@@ -55,6 +55,9 @@
 #### Liujiacheng-yuexin - [Github](https://github.com/Liujiacheng-yuexin)
 * :white_check_mark: [PicYep](https://picyep.com/zh)：上传一张参考照或写一句描述，生成真人感头像、证件照、自拍与宠物写真；注册送免费积分、无需绑卡，付费计划从 $12/月起
 
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Mandarin Recall](https://mandarinrecall.com)：HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈
+
 ### 2026 年 11 月 3 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)
