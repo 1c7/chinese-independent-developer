@@ -24,6 +24,22 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 4 号添加
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [SoulPaw](https://soulpaw.art/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
+
+#### Masker99 - [Github](https://github.com/Masker99)
+* :white_check_mark: [FlyingCar AI Video](https://flyingcaraivideo.app/)：AI 飞车视频生成工具，上传汽车或产品照片，选择模板即可生成炫酷的飞行特效视频
+* :white_check_mark: [12 Axes Test](https://12axestest.site/)：在线多维价值观测试（免费），通过回答问题探索自己的政治观点与价值观倾向
+* :white_check_mark: [HackerTube Guide](https://hackertube.top/)：HackerTube 介绍与资源导航站，提供使用指南、常见问题解答及相关项目推荐
+
+#### 熠辉(北京) - [Github](https://github.com/yihui-dev)
+* :white_check_mark: [BizPeel](https://bizpeel.com/zh/)：有真实收入的海外产品数据库，可按 MRR、近 30 天收入、增长速度和赛道筛选，每家都有增长拆解：流量从哪来、做了哪些营销动作、用户为什么付钱，适合找出海生意点子
+
+#### Liujiacheng-yuexin - [Github](https://github.com/Liujiacheng-yuexin)
+* :white_check_mark: [PicYep](https://picyep.com/zh)：上传一张参考照或写一句描述，生成真人感头像、证件照、自拍与宠物写真；注册送免费积分、无需绑卡，付费计划从 $12/月起
+
 ### 2026 年 11 月 3 号添加
 
 #### hwlvipone - [Github](https://github.com/hwlvipone)

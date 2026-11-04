@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 4 号添加
+#### 熠辉(北京) - [Github](https://github.com/yihui-dev)
+* :white_check_mark: [Skillry](https://skillry.dev/zh/)：Agent Skill 库，每个 Skill 对应一种设计好的风格（如杂志感品牌故事 PPT、像素风宣传片），装进 Claude Code、Codex、Cursor 等 Agent，就能照着做出没有 AI 味的幻灯片、网页、图片和视频；装前可看真实成品
+
 ### 2026 年 11 月 2 号添加
 #### zannezheng - [Github](https://github.com/zannezheng)
 * :white_check_mark: [OpenTandem](https://github.com/opentandem/opentandem)：多台电脑上的 AI 编程工具管理工具，用手机指挥 Claude Code、Codex、OpenCode 等 18 个 Agent，任务中途可换 Agent 和模型，还能远程预览电脑上的 localhost；命令行和 Runner 开源（AGPL-3.0） - [更多介绍](https://opentandem.org/zh)
