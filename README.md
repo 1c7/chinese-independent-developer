@@ -25,7 +25,18 @@
 ## 3. 项目列表
 
 ### 2026 年 11 月 4 号添加
-[PosterSheet 在线海报打印工具](https://postersheet.com/)，可将图片拆分成多张纸打印，再拼接成大幅海报，轻松用家用打印机制作墙面装饰和活动海报。
+
+#### Robin Ma - [Github](https://github.com/Maaaaph)
+* :white_check_mark: [OnTrend AI](https://ontrendai.com)：趣味 AI 短视频生成工具，面向普通用户与年轻人，无需编写提示词或掌握剪辑，挑选正在流行的爆款模板并上传 1-2 张照片，即可把静态照片变成带原版音乐与动作卡点的 9:16 搞笑短视频
+
+#### Bowen Guo
+* :white_check_mark: [ResumeInvited](https://resumeinvited.com/)：英文简历制作工具（免费），支持模板、实时预览和 PDF 或可编辑 Word 导出，无需注册
+
+#### Qing Shao - [Github](https://github.com/aloow)
+* :white_check_mark: [Live Face Swap](https://live-face-swap.net/)：在浏览器里用摄像头实时试换脸、画面风格和服装造型，录下片段后可直接回看并下载；摄像头预览免费，实时 AI 生成需登录并消耗积分
+
+#### djyou32 - [Github](https://github.com/djyou32)
+* :white_check_mark: [PosterSheet](https://postersheet.com/)：海报打印工具，将图片拆分成多张纸打印，再拼接成大幅海报，用家用打印机制作墙面装饰和活动海报
 
 #### suio03 - [Github](https://github.com/suio03)
 * :white_check_mark: [Tapemoon](https://tapemoon.com)：AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具
