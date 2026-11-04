@@ -6,6 +6,28 @@
 
 ---
 
+### 2025 年 6 月 25 号添加
+#### DT986(深圳) 
+* :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
+* :white_check_mark: [免费的5合1播放器软件](https://www.leawo.com/)：可播放 4K 蓝光、蓝光、DVD、视频与音频
+#### HongZhong(北京)
+* :white_check_mark: [Kmail临时邮箱](https://kmail.pw/)：免费安全的临时邮箱，保护您的个人隐私，告别广告垃圾邮件的骚扰
+
+### 2025 年 6 月 24 号添加
+#### Poiybro
+* :white_check_mark: [My Ringtone](https://myringtone.app/zh-cn/)：免费无注册的 100w+ 铃声资源 在线下载工具，只要你想要，没有你搜不到的铃声 - [更多介绍](https://myringtone.app/zh-cn/about)
+
+### 2025 年 6 月 23 号添加
+#### wtechtec(深圳) - [Github](https://github.com/WtecHtec), [博客](https://iam.xujingyichang.top/)
+* :white_check_mark: [whisperkeyboard](https://whisperkeyboard.app/)：灵动岛 + LLM + whisper 语音输入
+
+#### zhucm - [Github](https://github.com/zhucm)
+* :white_check_mark: [金句盲盒](http://jinju.yotooapp.com)：趣站，页面定时随机推荐一条影视、歌曲或书籍等精彩文字内容，自定义配图或AI生成配图，可复制链接或创建卡片分享。
+
+### 2025 年 6 月 22 号添加
+#### Horatio (广州)
+* :white_check_mark: [Labubu Live Wallpaper](https://labubulivewallpaper.cc)：专为 Labubu 爱好者打造的免费高清动态壁纸宝库，收录超过100款动态壁纸，让可爱的 Labubu 在你的屏幕上动起来，网站提供免费下载获取精美动画 Labubu 动态壁纸设计，并适用于所有设备。
+
 ### 2025 年 6 月 21 号添加
 #### z3674313
 * :white_check_mark: [WhatsMyName](https://whatsmyname.me/)：在互联网上搜索用户名足迹的网站。它可覆盖主流社交媒体、论坛、代码托管平台等进行全局搜索，借助高效算法快速出结果 - [更多介绍](https://whatsmyname.me/about)
