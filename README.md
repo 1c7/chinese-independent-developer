@@ -25,6 +25,7 @@
 ## 3. 项目列表
 
 ### 2026 年 11 月 4 号添加
+[PosterSheet 在线海报打印工具](https://postersheet.com/)，可将图片拆分成多张纸打印，再拼接成大幅海报，轻松用家用打印机制作墙面装饰和活动海报。
 
 #### suio03 - [Github](https://github.com/suio03)
 * :white_check_mark: [Tapemoon](https://tapemoon.com)：AI 音乐视频生成器，上传一首歌（适合 Suno、Udio 生成的 AI 歌曲），自动生成分镜并按人声对齐歌词，渲染前可逐镜修改，可选 Seedance 或 Kling 出 16:9 / 9:16 MV；新用户送免费积分可预览，另有免费的逐字同步歌词视频工具
