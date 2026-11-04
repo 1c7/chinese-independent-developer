@@ -73,6 +73,9 @@
 * :white_check_mark: [KinetSoul](https://apps.apple.com/cn/app/id6780600464)：AI 情绪日记 App，把每天的情绪记下来并回看 - [更多介绍](https://apps.apple.com/cn/app/id6780600464)
 * :white_check_mark: [KinetRain](https://apps.apple.com/cn/app/id6814033986)：雨声白噪音 App，随时放一场雨 - [更多介绍](https://apps.apple.com/cn/app/id6814033986)
 * :white_check_mark: [KinetElf](https://apps.apple.com/cn/app/id6807457522)：桌面宠物 App，养一只会长大的口袋精灵 - [更多介绍](https://apps.apple.com/cn/app/id6807457522)
+* :white_check_mark: [KinetTask](https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289)：私有 AI 任务管理 App，本地运行的任务规划与跟踪 - [更多介绍](https://apps.apple.com/us/app/kinettask-private-ai-tasks/id6780944289)
+* :white_check_mark: [Promptside](https://apps.apple.com/us/app/promptside/id6820624868)：Prompt 管理工具，整理和复用 AI 提示词 - [更多介绍](https://apps.apple.com/us/app/promptside/id6820624868)
+* :white_check_mark: [FurChart](https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084)：宠物健康记录 App，追踪疫苗、体检等档案 - [更多介绍](https://apps.apple.com/us/app/furchart-pet-health-records/id6817339084)
 * :white_check_mark: [DuoFolio](https://apps.apple.com/cn/app/id6823855712)：折叠屏阅读 App，左右对开显示两页 - [更多介绍](https://apps.apple.com/cn/app/id6823855712)
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
