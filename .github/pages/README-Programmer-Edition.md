@@ -16,6 +16,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 5 号添加
+#### 王乐
+* :white_check_mark: [小羊Plus](https://xiaoyangplus.com/)：国内ChatGPT 代充平台，支持使用Account ID充值，无需账号密码，无需验证码，可开正规公司发票，充值失败全额退款。
+
 ### 2026 年 11 月 4 号添加
 #### 欧克元
 * :white_check_mark: [ChatGPT礼品卡](https://aicardhub.shop/)：ChatGPT 多面值礼品卡，可直充自己账户
