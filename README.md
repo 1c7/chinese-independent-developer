@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 5 号添加
 
+#### Anthony - [Github](https://github.com/CoatingKnowledgeHub)
+* :white_check_mark: [涂装知识网站](https://muse.ai/s/tu-zhuang-zhi-shi-wang-zhan-xjf6h2xd3fxfxdxv/M__w8toiRYQ-oNAQlbmG5XnqVvhQwcJugMiT_gZIXQA)：免费涂装知识库，面向工业涂装工程师，涵盖涂装理论、22 条缺陷诊断、涂膜性能要求、28 种检测方法与露点、膜厚、涂布率等车间计算工具，简体中文
+
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Mandarin Recall](https://mandarinrecall.com)：HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈
 
