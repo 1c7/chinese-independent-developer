@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 5 号添加
 
+#### bob(深圳)
+* :white_check_mark: [dola](https://dolaai.video/)：AI 视频与图片生成器，用文字、首尾帧或参考图生成短片，Seedance 2.5 最高 1080p，导出不带水印，按次扣额度、无免费试用
+
 #### sdupig - [Github](https://github.com/sdupig)
 * :white_check_mark: [CrestGeo](https://crestgeo.com)：想知道豆包、DeepSeek、Kimi 等 AI 回答问题时会不会提到你的网站或店铺、说得对不对、推荐了谁？输入网址或品牌名/店铺名先看分数，并给出可执行的修改建议
 
