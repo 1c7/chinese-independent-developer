@@ -1366,7 +1366,7 @@
 * :white_check_mark: [CubistAI](https://cubistai.org/)：AI 图片生成工具，输入文字秒出高清图，集成 Nano Banana 2、Seedream、FLUX.2 等模型，每天有免费额度，另附 AI 头像、卡通化、涂色页、抠图、水印去除等专项工具
 
 #### lttxzmj - [Github](https://github.com/lttxzmj)
-* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实；数据全在本机不上云。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
+* :white_check_mark: [法脉 LawPulse](https://lttxzmj.github.io/lawpulse-site/)：给中国执业律师的本地离线法律研究工具（macOS）：412 部现行法律逐条检索，笔记直接挂在法条下自动成链，AI 合同审查用自己的模型密钥且引用逐条回本地法库核实。公测期免费。配套开源了 [chinese-law-corpus](https://github.com/lttxzmj/chinese-law-corpus)（412 部法律逐条 JSON + 723 件案例，CC0）
 
 
 #### SiteHunter - [Github](https://github.com/SiteHunter)
