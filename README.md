@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 5 号添加
 
+#### leafiy - [Github](https://github.com/leafiy)
+* :white_check_mark: [TATOOLS](https://tatools.cn/)：面向人文社科研究者的中文在线文本分析平台，无需编程即可做词频统计、情感分析与主题建模，按算力点数收费 - [更多介绍与教程](https://tatools.cn/article)
+
+#### JhuoW - [Github](https://github.com/JhuoW)
+* :white_check_mark: [PDF-Editor](https://wei2hu0.github.io/PDF-Editor/)：免费开源的网页 PDF 编辑器，可在浏览器内改文字和图片、批注及合并页面，文件无需上传
+* :white_check_mark: [OpenMathpix](https://github.com/JhuoW/OpenMathpix/releases/latest)：Windows 公式截图工具（免费），首次下载模型后可在本机离线将单个公式截图转为 LaTeX
+
 #### Anthony - [Github](https://github.com/CoatingKnowledgeHub)
 * :white_check_mark: [涂装知识网站](https://muse.ai/s/tu-zhuang-zhi-shi-wang-zhan-xjf6h2xd3fxfxdxv/M__w8toiRYQ-oNAQlbmG5XnqVvhQwcJugMiT_gZIXQA)：免费涂装知识库，面向工业涂装工程师，涵盖涂装理论、22 条缺陷诊断、涂膜性能要求、28 种检测方法与露点、膜厚、涂布率等车间计算工具，简体中文
 
