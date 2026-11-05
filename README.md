@@ -32,9 +32,6 @@
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Mandarin Recall](https://mandarinrecall.com)：HSK 3.0 词汇站，2025 考纲每个词带拼音、发音和旧新级别对照；间隔重复免费且不用注册，写自己的句子可以得到 AI 反馈
 
-#### mac nie - [Github](https://github.com/macuns)
-* :white_check_mark: [券到卡包](https://www.quandaokabao.com)：微信电子券制作小程序，面向实体店永久免费做优惠券、券包、次卡；顾客领进卡包，到店扫码核销，不用自己开发
-
 #### air158 - [Github](https://github.com/air158)
 * :white_check_mark: [题伴](https://tiban.momoai.pro/app)：中文截图与文字练习助手，粘贴题目或上传截图，查看编程题、选择题、填空及主观题的答案和解析；需登录，新账号赠送 10 次体验，后续按次付费 - [更多介绍](https://tiban.momoai.pro/)
 
