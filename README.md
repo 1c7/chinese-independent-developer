@@ -24,6 +24,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 5 号添加
+#### charliewwdev - [Github](https://github.com/charliewwdev)
+* :white_check_mark: [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage)：可自己部署的 AI 短剧工作台，剧本→角色→场景→道具→分镜→配音→剪辑一条线走完，角色和场景参考图跨镜头复用保持人物一致；Docker Compose 部署，接任意 OpenAI 兼容大模型，图像视频走 Seedream/Seedance（付费 API）或自己的 ComfyUI，AGPL-3.0 开源，[在线体验](https://openmontage.dtok.io)
+
 ### 2026 年 10 月 26 号添加
 #### Run Cheng - [Github](https://github.com/WuDao0123), [博客](https://dev.to/wudao0123)
 * :white_check_mark: [Space Simulator Online](https://spacesimulator.online/)：浏览器 3D 太阳系与太空探索模拟器，基于 NASA/JPL 真实星历与原生 WebGL2/WebGPU 渲染 6,000+ 系外行星、TESS 凌星光变曲线实验室、N 体星系碰撞与 110 个梅西耶深空天体，支持中英等 10 种语言，免费免安装无需注册 - [更多介绍](https://dev.to/wudao0123/building-a-browser-solar-system-explorer-with-nasa-data-and-raw-webgl2-5bkj)
