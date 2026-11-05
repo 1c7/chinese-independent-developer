@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 5 号添加
 
+#### sdupig - [Github](https://github.com/sdupig)
+* :white_check_mark: [CrestGeo](https://crestgeo.com)：想知道豆包、DeepSeek、Kimi 等 AI 回答问题时会不会提到你的网站或店铺、说得对不对、推荐了谁？输入网址或品牌名/店铺名先看分数，并给出可执行的修改建议
+
+#### Jayden-tong - [GitHub](https://github.com/Jayden-tong)
+* :white_check_mark: [InkByYou](https://inkbyyou.com/)：AI 纹身设计工具，用文字或参考图生成纹身草图，支持多种风格、AI 修改、线稿提取和上身预览；提供免费预览，高清原创图下载需付费
+* :white_check_mark: [WordStar 词光](https://www.wordstar.cc)：面向雅思备考者的词汇学习网站，通过插画、英美发音、例句、拼写练习和间隔复习记单词；免费试学 100 词，完整词表文件免费下载，全词库在线学习需会员
+
 #### leafiy - [Github](https://github.com/leafiy)
 * :white_check_mark: [TATOOLS](https://tatools.cn/)：面向人文社科研究者的中文在线文本分析平台，无需编程即可做词频统计、情感分析与主题建模，按算力点数收费 - [更多介绍与教程](https://tatools.cn/article)
 
