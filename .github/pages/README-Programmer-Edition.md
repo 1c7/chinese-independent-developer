@@ -17,8 +17,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 5 号添加
+#### Shiqi Cao - [Github](https://github.com/shiqicao)
+* :white_check_mark: [gh-pull](https://github.com/shiqicao/gh-pull)：免费、MIT 开源的 GitHub CLI 扩展，在本地浏览器中集中查看多个仓库的 PR，保存搜索与分组，查看堆叠 PR 依赖、CI 状态和已解决／总评审线程数 - [演示视频](https://youtu.be/4LBga5H5Wwk)
+
+#### YKLovePython - [GitHub](https://github.com/YKLovePython)
+* :white_check_mark: [halfsize](https://github.com/YKLovePython/halfsize)：开源的视频压缩命令行工具（自带本地网页界面），把视频精确压到指定大小（微信 / Discord 20 MB、邮件 20 MB 等），并用 VMAF/SSIM 报告画质损失；一条命令、文件不上传、无需账号，Windows / macOS / Linux 都能用 - [更多介绍](https://github.com/YKLovePython/halfsize#readme)
+
 #### 王乐
-* :white_check_mark: [小羊Plus](https://xiaoyangplus.com/)：国内ChatGPT 代充平台，支持使用Account ID充值，无需账号密码，无需验证码，可开正规公司发票，充值失败全额退款。
+* :white_check_mark: [小羊Plus](https://xiaoyangplus.com/)：国内 ChatGPT 代充平台，支持使用 Account ID 充值，无需账号密码，无需验证码，可开正规公司发票，充值失败全额退款
 
 ### 2026 年 11 月 4 号添加
 #### 欧克元
