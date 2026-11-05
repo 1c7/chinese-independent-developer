@@ -6,6 +6,37 @@
 
 ---
 
+### 2025 年 6 月 28 号添加
+#### hjiayu799
+* :x: [AI Instagram Username Generator](https://instagramusername.org/)：生成用户名的网站，输入关键词并选择风格快速生成创意名称。
+它还提供匹配的简介建议，特是针对于社交媒体 facebook twitter Instagram...微博之类的，且基于 AI 技术分析流行趋势，生成的内容兼具独特性与吸引力。并且防止重复无法注册 - [更多介绍](https://instagramusername.org/about)
+
+#### leo(上海)
+* :white_check_mark: [Asphalt Calculator](https://asphaltcalculatorhub.com/)：沥青价格计算器
+  
+#### Ethan Sunray
+* :white_check_mark: [KKV AI](https://kkv.ai)：KKV 是一站式 AI 创作平台，提供视频生成、图像创作、照片编辑、趣味滤镜、AI 聊天助手等功能，无障碍访问 Veo 3、Flux、Claude Opus 4 等 100+ 顶级模型
+
+#### erickkkyt - [Github](https://github.com/erickkkyt)
+* :white_check_mark: [AI  Dog Olympics Generator](https://www.dogolympics.net/)：制作独一无二、爆火的动物奥运会 AI 视频
+
+### 2025 年 6 月 27 号添加
+#### toby(南京)
+* :white_check_mark: [FantasyGen](https://fantasygen.net/)：AI 生成奇幻地图和人物
+
+#### sing1ee(上海)
+* :white_check_mark: [Curate Click](https://curateclick.com/)：导航站，收录产品和工具。
+
+#### james(杭州）
+* :white_check_mark: [fluxcontext](https://fluxcontext.app/) : 用 AI 修改你的图片（使用 FLUX KONTEXT AI），Professional Online Image Enhance with FLUX KONTEXT AI
+
+### 2025 年 6 月 26 号添加
+#### Allen(深圳) 
+* :white_check_mark: [FLUX Kontext](https://kontextflux.com )：上下文感知智能图像编辑平台，内置 FLUX.1 Kontext ，Gpt4o image 图像编辑器。能够保持人物一致性，对画面精修
+
+#### rns
+* :white_check_mark: [Headcanon 生成器 - 创作同人小说创意](https://headcanongenerator.fun/)： 为您喜爱的角色创作独特的同人小说创意
+
 ### 2025 年 6 月 25 号添加
 #### DT986(深圳) 
 * :white_check_mark: [Amazon Downloader](https://www.leawo.org/save-video/)：Amazon 的点播视频下载工具
