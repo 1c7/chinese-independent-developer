@@ -859,7 +859,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 6 月 6 号添加
 
 #### AstroPixelian - [Github](https://github.com/AstroPixelian)
-* :white_check_mark: [CoderPlan](https://coderplan.ai)：LLM API 中转网关，OpenAI 兼容接口，一行配置接入 Claude Code / Codex CLI / Gemini CLI，新用户免费额度，按量付费，支持支付宝/微信
+* :white_check_mark: [CoderPlan](https://coderplan.ai)：AI 编程 API 中转站，一个 Key 调 Claude（Opus 5.5、Sonnet 5.5 等）、GPT（GPT-6.1、GPT-5.6 等）、Gemini、Grok、MiniMax 模型，同时服务 Claude Code、Codex CLI、Cursor、Gemini CLI；Claude Code 填 `https://api.coderplan.ai`，OpenAI 兼容工具填 `https://api.coderplan.ai/v1`；Stripe 国际卡充值，价格表注册前可查，每笔请求明细（模型 / tokens / 缓存 / 费用）可核对，余额不过期，按量计费无月费；文档部分为中文，英文版进行中 - [定价页](https://coderplan.ai/pricing)
 
 ### 2026 年 4 月 10 号添加
 
