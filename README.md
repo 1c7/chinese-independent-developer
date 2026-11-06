@@ -318,7 +318,7 @@
 * :white_check_mark: [Spaceora](https://spaceora.app/)：AI 家居与花园设计工具，上传一张房间或庭院照片即可生成室内改造、虚拟布置、景观和后院设计效果，并可根据 USDA 种植区推荐植物；提供免费使用次数，生成结果用于设计构思而非精确施工图
 
 #### Charlie W - [Github](https://github.com/charliewwdev)
-* :white_check_mark: [OpenMontage Drama Studio](https://openmontage.dtok.io)：开源 AI 短剧与短视频工坊，一句话灵感依次走完剧本、角色、场景、道具、分镜、配音、剪辑 7 个环节，也可用内置电商带货模板做广告片；无需登录可浏览灵感墙和示例，生成需登录并填写自己的模型 Key（Seedream / Seedance 为付费 API），AGPL-3.0 开源、支持 Docker 自部署 - [Github](https://github.com/charliewwdev/OpenMontage)
+* :white_check_mark: [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage)：可自己部署的 AI 短剧工作台，剧本→角色→场景→道具→分镜→配音→剪辑一条线走完，角色和场景参考图跨镜头复用保持人物一致；Docker Compose 部署，接任意 OpenAI 兼容大模型，图像视频走 Seedream/Seedance（付费 API）或自己的 ComfyUI，AGPL-3.0 开源 - [在线体验](https://openmontage.dtok.io)
 
 #### Jazmín - [Github](https://github.com/ljmng7)
 * :white_check_mark: [MacMix](https://macmix.jazminli.com)：Mac 菜单栏音量混音器，支持按应用独立调节音量、自定义 EQ 和多设备输出；基础功能免费，高级功能 ¥29.99 一次性买断，代码全部开源（GPL-3.0） - [GitHub](https://github.com/ljmng7/MacMix)
