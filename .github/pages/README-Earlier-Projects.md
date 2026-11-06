@@ -6,6 +6,31 @@
 
 ---
 
+### 2025 年 7 月 2 号添加
+#### yelo1900 - [Github](https://github.com/yelo1900)
+* :white_check_mark: [Crybaby Wallpaper 4K 高清壁纸](https://crybaby-wallpaper.com)
+
+#### tao(杭州) - [Github](https://github.com/nietao2018)
+* :white_check_mark: [Converters.pro](https://www.converters.pro)：基于 AI 的图片和视频转换网站，可以帮你做背景修复、老照片恢复、虚拟换衣
+
+### 2025 年 7 月 1 号添加
+#### rns
+* :white_check_mark: [Quitar Fondo](https://quitarfondo.cc/)：（西班牙语产品，无中文或英文版）用 AI 删除图片背景
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [MARS AI](https://marsai.site/)：MARS AI 提供免费的 AI 视频生成和图像生成，用文本或图片创建专业视频和图片，把点子转为视觉内容
+
+#### RainbowBird | 洛灵 (上海) - [Github](https://github.com/luoling8192), [博客](https://blog.luoling.moe)
+* :white_check_mark: [AIRI](https://github.com/moeru-ai/airi)：包含 AI 老婆/虚拟角色灵魂的容器，将它们带入我们的世界，希望达到 Neuro-sama 的高度，完全由 LLM 和 AI 驱动，能够进行实时语音聊天、玩 Minecraft、玩Factorio。可在浏览器或桌面运行。
+
+### 2025 年 6 月 30 号添加
+#### seeeeal（西安） - [Github](https://github.com/seeeeal) [Blog](https://seeeeal.fun/)
+* :white_check_mark: [相机水印生成器](https://exifframe.org): 在线为图片添加相机水印。相机水印包含相机品牌 / 型号 / 拍摄时间 / 拍摄地点 / 光圈 / 快门 / ISO 等信息。优雅的展示你的摄影作品。无需注册登录，免费导出。
+
+### 2025 年 6 月 29 号添加
+#### Dylan Tao(合肥)
+* :white_check_mark: [SaaSGree](https://saasgree.com)：SaaSGree 专为企业间签订各类 SaaS 合同的场景而设计，帮助用户通过专业合同模板快速生成协议，无需高价聘请律师，也避免使用低质量模板带来的法律风险。
+
 ### 2025 年 6 月 28 号添加
 #### hjiayu799
 * :x: [AI Instagram Username Generator](https://instagramusername.org/)：生成用户名的网站，输入关键词并选择风格快速生成创意名称。
