@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 6 号添加
 
+#### Weijian Zhang - [Github](https://github.com/MicroZ-LLC/AllInOneIME)
+* :white_check_mark: [AllInOneIME](https://allinoneime.com/zh/)：Mac 输入法，在任何 App 的输入框句首打 @improve、@translate 或 @question 再按回车，就地润色、翻译或提问，选中结果直接上屏，不用复制到聊天窗口；自带 Rime 雾凇拼音，免费，每天 20 次免费 AI，也可以用自己的 Claude / Gemini / DeepSeek key
+
 #### Linhao Cui - [Github](https://github.com/cuilinhao)
 * :white_check_mark: [Pettenderly](https://pettenderly.com/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
 
