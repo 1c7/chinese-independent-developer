@@ -17,6 +17,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 -->
 
 ### 2026 年 11 月 6 号添加
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [ouba-classmate](https://github.com/ouxxyy/ouba-classmate)：免费、MIT 开源的中文求职与创作 Agent Skills 套件（支持 Claude Code / Codex / Cursor 一行命令安装），覆盖多平台岗位搜索、简历与 JD 可复算匹配评分（内置本地零依赖 MCP Server）、中文经历面试追问与 Offer 前公司证据调查，附 12 个主流求职 Skill 实测公开横评数据 - [横评报告与在线数据页](https://ouxxyy.github.io/ouba-classmate/)
+
 #### supertj - [Github](https://github.com/supertj)
 * :white_check_mark: [UsageRail](https://usagerail.com/)：API 计费与限流工具，几行中间件给自己的 API 发 Key、按套餐限流和配额，用量通过你自己的 Stripe 按量扣费；Key 和限额在你的服务进程里校验，请求不经过第三方；每月经它计费 1000 美元以内免费 - [文档](https://usagerail.com/docs)
 
