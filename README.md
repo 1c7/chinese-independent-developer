@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 6 号添加
+
+#### Linhao Cui - [Github](https://github.com/cuilinhao)
+* :white_check_mark: [Pettenderly](https://pettenderly.com/)：在线 AI 宠物写真工具，上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像
+
 ### 2026 年 11 月 5 号添加
 
 #### bob(深圳)
