@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 6 号添加
 
+#### Sphinx-Shawn - [Github](https://github.com/Sphinx-Shawn)
+* :white_check_mark: [妙比特 funnybit](https://funnybit.cn/)：Vibe Coding 作品与 AI 应用灵感发现平台，汇集独立开发者创作的 AI 应用和实际作品案例，包含官方开发的一些应用，支持分类浏览与作品探索，并提供原创 AI 日报和周报
+
 #### Weijian Zhang - [Github](https://github.com/MicroZ-LLC/AllInOneIME)
 * :white_check_mark: [AllInOneIME](https://allinoneime.com/zh/)：Mac 输入法，在任何 App 的输入框句首打 @improve、@translate 或 @question 再按回车，就地润色、翻译或提问，选中结果直接上屏，不用复制到聊天窗口；自带 Rime 雾凇拼音，免费，每天 20 次免费 AI，也可以用自己的 Claude / Gemini / DeepSeek key
 
