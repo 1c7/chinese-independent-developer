@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 6 号添加
+#### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Parallel Parking Simulator](https://parallelparkingsimulator.com/)：侧方停车模拟器（免费），打开网页即可练习打方向、倒车入位和回正，附分步停车指南
+
 ### 2026 年 11 月 3 号添加
 #### 词不一样就跑步 - [Github](https://github.com/bukun678)
 * :white_check_mark: [词不一样就跑步](https://glm5.pro/)：两人面对面共用一部手机的中文联想网页小游戏，从两个起始词各想相关词，倒计时后同时说出，不同就继续联想直到答案一致；三类共60组起始词，3/5/10秒倒计时，免费、无需下载或注册
