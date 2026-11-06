@@ -412,7 +412,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 9 月 8 号添加
 
 #### yangzhou-chaofan - [Github](https://github.com/yangzhou-chaofan)
-* :white_check_mark: [TeamoRouter](https://teamorouter.cn)：多模型 AI API 中转网关，GPT-6 Astra / Claude / Gemini 用一个 Key 调用，Codex 和 Claude Code 改 base_url 即用，支持支付宝/微信充值、按量计费 - [Astra + Codex 配置教程](https://teamorouter.cn/blogs/gpt-6-astra-codex-cursor-setup)
+* :white_check_mark: [TeamoRouter](https://teamorouter.cn)：多模型 AI API 网关，一个 Key 调用 DeepSeek、Kimi、GLM、Qwen、MiniMax、豆包等国产模型，兼容 OpenAI / Anthropic 协议，Claude Code、Codex、CC Switch、Cherry Studio 改 base_url 即用，支持支付宝/微信充值、按量计费 - [接入文档](https://teamorouter.cn/zh/docs/api-integration)
 
 ### 2026 年 9 月 6 号添加
 
@@ -844,7 +844,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 7 月 4 号添加
 
-#### blammectrappora - [Github](https://github.com/teamorouter)
+#### blammectrappora - [Github](https://github.com/blammectrappora)
 * :white_check_mark: [TeamoRouter](https://teamorouter.com)：AI 编程 API 智能路由网关，一个 Key 接入 Claude/GPT/Gemini/DeepSeek，国内可直连，微信/支付宝充值
 
 #### nichenqin - [Github](https://github.com/nichenqin)
