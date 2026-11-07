@@ -16,11 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 11 月 6 号添加
+### 2026 年 11 月 7 号添加
 #### Harrison - [Github](https://github.com/harrison-ming)
 * :white_check_mark: [chuhai-skills](https://github.com/harrison-ming/chuhai-skills)：MIT 开源的出海电商 Agent Skills（Claude Code / Codex / Cursor 可用，`npx skills add` 一行安装），拆解任意公开 Shopify 独立站的店龄、商品价格带、上新节奏、主题应用与政策一致性，每条结论标注证据等级，输出中文 PDF 报告和商品 CSV；只读公开数据，无需 API key - [中文说明](https://github.com/harrison-ming/chuhai-skills/blob/main/README.zh-CN.md)
 * :white_check_mark: [moveset](https://moveset.io/zh)：出海电商 Agent Skill 商店，每个 Skill 写明适配哪些 agent、实测过哪些、联不联网和读哪些文件；免费版登录即可领取，Pro 版付费（一次性，含 12 个月更新，跑不通 14 天内退款），也收录通过自动审核的社区 Skill
 
+### 2026 年 11 月 6 号添加
 #### 欧八同学 - [GitHub](https://github.com/ouxxyy)
 * :white_check_mark: [ouba-classmate](https://github.com/ouxxyy/ouba-classmate)：免费、MIT 开源的中文求职与创作 Agent Skills 套件（支持 Claude Code / Codex / Cursor 一行命令安装），覆盖多平台岗位搜索、简历与 JD 可复算匹配评分（内置本地零依赖 MCP Server）、中文经历面试追问与 Offer 前公司证据调查，附 12 个主流求职 Skill 实测公开横评数据 - [横评报告与在线数据页](https://ouxxyy.github.io/ouba-classmate/)
 
