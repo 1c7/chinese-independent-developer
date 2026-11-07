@@ -24,7 +24,10 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 6 号添加
+### 2026 年 11 月 8 号添加
+
+#### Daniel Zhang
+* :white_check_mark: [Athena Reader](https://athena-reader.com/)：自带书的免费 EPUB/PDF 阅读器：朗读、笔记、带出处的 AI 问答，多端同步，离线也能读。
 
 #### Sphinx-Shawn - [Github](https://github.com/Sphinx-Shawn)
 * :white_check_mark: [妙比特 funnybit](https://funnybit.cn/)：Vibe Coding 作品与 AI 应用灵感发现平台，汇集独立开发者创作的 AI 应用和实际作品案例，包含官方开发的一些应用，支持分类浏览与作品探索，并提供原创 AI 日报和周报
