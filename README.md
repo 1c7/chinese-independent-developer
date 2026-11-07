@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 7 号添加
+
+#### parallelpan - [Github](https://github.com/parallelpan)
+* :white_check_mark: [红果短剧批量下载](https://guoshi.app)：粘贴短剧分享链接，云端解析整部剧集并批量下载到电脑，可按集取直链或一次生成整剧 ZIP；1000 集约 85 秒完成，按实际取件集数计费、无需安装客户端
+
 ### 2026 年 11 月 6 号添加
 
 #### Sphinx-Shawn - [Github](https://github.com/Sphinx-Shawn)
