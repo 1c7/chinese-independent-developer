@@ -26,11 +26,17 @@
 
 ### 2026 年 11 月 8 号添加
 
+#### craftboat - [Github](https://github.com/craftboat)
+* :white_check_mark: [职页 KeenPage](https://keenpage.com/zh)：按职业找 AI 提示词卡，输入职业（已收录 2,054 个）、选一项工作、点选补一句，就拼好能直接发给任何 AI 的提示词，附结果示例；免费、不用注册，中英双语
+
+#### Jingbo Chai(悉尼) - [Github](https://github.com/shuxiachai)
+* :white_check_mark: [学术成果商业化评估系统](https://academic-commercialization-agent.up.railway.app/samples)：科研成果转化初筛工具，输入一篇论文或研究方向，生成带引用的技术成熟度、专利和市场报告，MIT 开源。示例报告打开就能看，无需注册；跑新分析需自备模型和搜索 Key
+
 #### parallelpan - [Github](https://github.com/parallelpan)
 * :white_check_mark: [红果短剧批量下载](https://guoshi.app)：粘贴短剧分享链接，云端解析整部剧集并批量下载到电脑，可按集取直链或一次生成整剧 ZIP；1000 集约 85 秒完成，按实际取件集数计费、无需安装客户端
 
 #### Daniel Zhang
-* :white_check_mark: [Athena Reader](https://athena-reader.com/)：自带书的免费 EPUB/PDF 阅读器：朗读、笔记、带出处的 AI 问答，多端同步，离线也能读。
+* :white_check_mark: [Athena Reader](https://athena-reader.com/)：自带书的免费 EPUB/PDF 阅读器：朗读、笔记、带出处的 AI 问答，多端同步，离线也能读
 
 ### 2026 年 11 月 6 号添加
 

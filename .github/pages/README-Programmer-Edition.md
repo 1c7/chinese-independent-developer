@@ -16,10 +16,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 11 月 7 号添加
+### 2026 年 11 月 8 号添加
 
 #### 小明 - [Github](https://github.com/xiaomingio)
 * :white_check_mark: [Neat MD](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-md)：VS Code Markdown 编辑器，支持边写边预览、源码与预览并排显示、表格编辑、Mermaid 图表和 KaTeX 公式，免费开源 - [GitHub 仓库](https://github.com/xiaomingio/neat-md)
+
+### 2026 年 11 月 7 号添加
 
 #### Harrison - [Github](https://github.com/harrison-ming)
 * :white_check_mark: [chuhai-skills](https://github.com/harrison-ming/chuhai-skills)：MIT 开源的出海电商 Agent Skills（Claude Code / Codex / Cursor 可用，`npx skills add` 一行安装），拆解任意公开 Shopify 独立站的店龄、商品价格带、上新节奏、主题应用与政策一致性，每条结论标注证据等级，输出中文 PDF 报告和商品 CSV；只读公开数据，无需 API key - [中文说明](https://github.com/harrison-ming/chuhai-skills/blob/main/README.zh-CN.md)

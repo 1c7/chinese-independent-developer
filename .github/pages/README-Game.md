@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 8 号添加
+#### PlanJ（Weiqi Jiang）
+* :white_check_mark: [Azeroth Survivors 构筑计算器](https://azerothsurvivors.app/build-calculator/)：面向 Azeroth Survivors 玩家的非官方构筑规划工具，搭配天赋、技能和装备，生成可继续编辑的分享链接或导出 PNG；核心规划功能免费，无需注册
+
 ### 2026 年 11 月 6 号添加
 #### Linky-AIinlink - [Github](https://github.com/Linky-AIinlink)
 * :white_check_mark: [Parallel Parking Simulator](https://parallelparkingsimulator.com/)：侧方停车模拟器（免费），打开网页即可练习打方向、倒车入位和回正，附分步停车指南
