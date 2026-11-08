@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 8 号添加
 
+#### JackMa
+* :white_check_mark: [InvestorTube](https://www.investortube.org/)：投资人物访谈视频索引，整理 YouTube 与 B站上的投资人访谈、演讲和对谈，可按投资流派、人物、平台和时长筛选，中文界面，免费无需注册（独立整理，不构成投资建议）
+
 #### quven1990
 * :white_check_mark: [出海找需求](https://zhaoxuqiu.online/)：面向独立开发者的海外产品机会研究站，可免费浏览需求概况、美国月搜和关键词难度，并用图文指南和虚构样板练习需求验证。完整研究报告按份付费 - [研究方法](https://zhaoxuqiu.online/methodology)
 
