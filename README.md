@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 8 号添加
 
+#### quven1990
+* :white_check_mark: [出海找需求](https://zhaoxuqiu.online/)：面向独立开发者的海外产品机会研究站，可免费浏览需求概况、美国月搜和关键词难度，并用图文指南和虚构样板练习需求验证。完整研究报告按份付费 - [研究方法](https://zhaoxuqiu.online/methodology)
+
 #### craftboat - [Github](https://github.com/craftboat)
 * :white_check_mark: [职页 KeenPage](https://keenpage.com/zh)：按职业找 AI 提示词卡，输入职业（已收录 2,054 个）、选一项工作、点选补一句，就拼好能直接发给任何 AI 的提示词，附结果示例；免费、不用注册，中英双语
 
