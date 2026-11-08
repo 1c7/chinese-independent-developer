@@ -24,10 +24,13 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 7 号添加
+### 2026 年 11 月 8 号添加
 
 #### parallelpan - [Github](https://github.com/parallelpan)
 * :white_check_mark: [红果短剧批量下载](https://guoshi.app)：粘贴短剧分享链接，云端解析整部剧集并批量下载到电脑，可按集取直链或一次生成整剧 ZIP；1000 集约 85 秒完成，按实际取件集数计费、无需安装客户端
+
+#### Daniel Zhang
+* :white_check_mark: [Athena Reader](https://athena-reader.com/)：自带书的免费 EPUB/PDF 阅读器：朗读、笔记、带出处的 AI 问答，多端同步，离线也能读。
 
 ### 2026 年 11 月 6 号添加
 
