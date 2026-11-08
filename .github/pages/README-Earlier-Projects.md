@@ -6,6 +6,32 @@
 
 ---
 
+### 2025 年 7 月 6 号添加
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Gemlink.app](https://gemlink.app)：集内容收集、整理与社交分享于一体的平台。可以作为“稍后阅读”替代使用。旨在解决信息过载、跨平台内容割裂和深度阅读缺失的问题，打造“个性化互联网精华库与思想交流空间” - [配套浏览器插件](https://chromewebstore.google.com/detail/gemlink-your-space-for-sm/pickcibaiaapcbobgbjgmomocmcdpmmn)
+
+#### Margox(北京) - [Github](http://github.com/margox)
+* :white_check_mark: [晚星](https://dream.sayhi.cc/): 简约纯粹的白噪音App，包含上百种自然音效和轻音乐，可自由搭配组合，辅助睡眠、放松情绪，缓解压力。
+
+### 2025 年 7 月 5 号添加
+#### zgcoder
+* :white_check_mark: [图片压缩神器](https://www.zgcoder.com/tic/)：对图片进行快速高效的批量压缩和格式转换
+
+### 2025 年 7 月 4 号添加
+#### Orion - [Github](https://github.com/OrionTyce)
+* :white_check_mark: [Ries.AI](https://ries.ai/zh/learn-english?c=sP0B)：颠覆你对学英语的认知！英语学不好的最大原因是接触的太少！我们创新地将高频词汇融入你看的视频和文章，把每天接触的大量中文改造一部分成英语接触，渐进低压拓展语言边界。
+
+#### james（武汉）
+* :white_check_mark: [实时工资计时器](https://www.realtimesalary.info/)：输入你的年薪或月薪，即可实时看到每一秒赚了多少钱。支持多种货币和实时汇率转换，适合远程工作者、自由职业者等，随时感受赚钱的爽感！比如干远程的小伙伴，赚的是美金，可以实时转换成人民币，干活的时候，非常的有爽感。
+
+### 2025 年 7 月 3 号添加
+#### ChillWay
+* :white_check_mark: [TwitterDown](https://twitterdown.com/): 下载 Twitter 视频
+* :white_check_mark: [KuaishouVideoDownload](https://kuaishou-video-download.com/): 下载快手视频
+
+#### wdh(杭州) 
+* :white_check_mark: [Veegen](https://veegen.ai/)：图片生成视频工具
+
 ### 2025 年 7 月 2 号添加
 #### yelo1900 - [Github](https://github.com/yelo1900)
 * :white_check_mark: [Crybaby Wallpaper 4K 高清壁纸](https://crybaby-wallpaper.com)
