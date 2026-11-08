@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 8 号添加
+
+#### Daniel Zhang
+* :white_check_mark: [Athena Reader](https://athena-reader.com/)：自带书的免费 EPUB/PDF 阅读器：朗读、笔记、带出处的 AI 问答，多端同步，离线也能读。
+
 ### 2026 年 11 月 6 号添加
 
 #### Sphinx-Shawn - [Github](https://github.com/Sphinx-Shawn)
