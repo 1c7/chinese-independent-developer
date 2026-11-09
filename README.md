@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 9 号添加
+
+#### lingki1 - [Github](https://github.com/lingki1)
+* :white_check_mark: [Lingki AI](https://lingki.info/app?utm_source=chinese-indie-dev&utm_medium=list&utm_campaign=lingki-ai-2026-11)：网页版 AI 角色扮演聊天，兼容酒馆（SillyTavern）V2/V3 角色卡导入导出，聊天记录存在自己浏览器里；自带模型 API Key 免费，内置模型按 token 付费 - [更多介绍](https://lingki.info/ai)
+
+#### nicoinvest - [网站](https://invest-nav.com/)
+* :white_check_mark: [投资导航](https://invest-nav.com/)：专为大陆用户写的投资理财实操教程站。怎么投资美股（券商开户、入金、买 ETF）、怎么投资加密货币（交易所注册、买币、出入金和安全）、怎么开通香港银行卡、CRS 税务怎么理解，以及大陆用户投资理财相关的方方面面，都会在教程里配实操截图一步步讲清楚。网站还有多款免费投资工具：[QDII 额度宝](https://invest-nav.com/tools/qdii-quota/)（每天更新 QDII 基金申购额度）、[ETF 对比](https://invest-nav.com/tools/etf/compare/)、[定投计算器](https://invest-nav.com/tools/dca-calculator/)
+
 ### 2026 年 11 月 8 号添加
 
 #### JackMa
