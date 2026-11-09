@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 10 号添加
+
+#### ClapClip - [Github](https://github.com/ClapClip)
+* :white_check_mark: [ClapClip AI](https://www.clapclip.net/)：在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅
+
 ### 2026 年 11 月 9 号添加
 
 #### Torres
