@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 9 号添加
 
+#### Torres
+* :white_check_mark: [OK JLPT](https://okjlpt.com/zh-Hans)：日语能力考试（JLPT）练习网站，N5–N1 按年份整理的 104 套整卷练习（2010–2026），带听力音频，在线作答、交卷自动估分并给出中文解析；另有免费的[估分计算器](https://okjlpt.com/zh-Hans/tools/score)和助词、动词变形练习。N5、N4 全部免费，N3–N1 各一套免费，其余需会员
+
+#### bellefly-god - [Github](https://github.com/bellefly-god)
+* :white_check_mark: [THE JURY](https://jury.pagecleans.com)：匿名困境盲投裁决社区，发私人两难陌生人盲投，满 30 票且单项严格过半才结案生成可分享裁决卡，浏览和投稿无需注册
+* :white_check_mark: [OurYearbook](https://ouryearbook.pagecleans.com)：同学共同书写的线上班级纪念册，回忆由不同同学补充各自视角，设定日期才解锁的未来信件，隐私优先仅开放示例班
+
 #### lingki1 - [Github](https://github.com/lingki1)
 * :white_check_mark: [Lingki AI](https://lingki.info/app?utm_source=chinese-indie-dev&utm_medium=list&utm_campaign=lingki-ai-2026-11)：网页版 AI 角色扮演聊天，兼容酒馆（SillyTavern）V2/V3 角色卡导入导出，聊天记录存在自己浏览器里；自带模型 API Key 免费，内置模型按 token 付费 - [更多介绍](https://lingki.info/ai)
 
@@ -5139,29 +5146,6 @@
 
 #### SSShooter - [GitHub](https://github.com/SSShooter)
 * :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
-
-### 2025 年 7 月 10 号添加
-#### liunice (深圳)
-* :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI 换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
-
-#### 李恩泽 - [GitHub](https://github.com/enzeberg)
-* :white_check_mark: [铜钟](https://tonzhon.whamon.com/)：专注听歌，无广告和社交，下载 歌曲/歌词，创建歌单，资源丰富，UI 清爽 - [更多介绍](https://about-tonzhon.netlify.app/)
-
-#### hcc(北京)
-* :white_check_mark: [分身宝](https://clone.youchong.club)：Android 应用多开工具，支持微信、QQ、抖音、小红书、淘宝、京东、拼多多、美团、快手、咸鱼等绝大多数主流应用以及各类游戏，轻松管理多个账号。
-
-#### asui(泉州)
-* :white_check_mark: [客群采集-微信小程序](https://my-works.oss-cn-beijing.aliyuncs.com/images/download.jpg)：拓客小工具，基于地理位置以及一些开放的api去采集商户信息，并围绕这些信息提供了一系列的小功能，例如：数据导入导出、拨打电话、保存通讯录、导航等等
-
-### 2025 年 7 月 8 号添加
-#### iam-tin - [Github](https://github.com/iam-tin)
-* :white_check_mark: [Humanizar Text](https://humanizartexto.app/)：一键优化 AI 生成的文本，让AI无法检测到文本是AI所生成，AI时代下“去AI”的本文神器。
-* :white_check_mark: [HIDream AI](https://hidream.online/)：HiDream 大模型在线生成图像，让图像更清晰更逼真。
-* :white_check_mark: [MORSE CODE](https://morsecode-translator.app/)：一键把内容生成对应的摩斯电码的平台，可以通过摩斯电码表达爱意，或者让莫斯电码成为两个人之间的“加密”语言。
-
-### 2025 年 7 月 7 号添加
-#### sk(广州)
-* :x: [摸鱼地图](https://moyumap.com/)：记录和可视化大家"摸鱼"次数的趣味网站。包括摸鱼区域热力图，摸鱼排行榜，看看今天谁在一起摸鱼。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
