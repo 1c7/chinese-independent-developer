@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 10 号添加
+
+#### Victor - [Github](https://github.com/victor-zzh)
+* :white_check_mark: [HopBase](https://hop-base.com)：多模型 AI API 网关，一个 Base URL 调用 Claude / GPT / Gemini / DeepSeek / 千问等文本模型，以及 Seedream、Seedance、可灵等图片和视频模型；兼容 OpenAI、Anthropic、Gemini 三种接口格式，Claude Code / Codex 改 base_url 和 key 即可使用，按量计费 - [接入文档](https://hop-base.com/zh-cn/docs)
+
 ### 2026 年 11 月 8 号添加
 
 #### 小明 - [Github](https://github.com/xiaomingio)
