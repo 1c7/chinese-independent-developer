@@ -34,6 +34,9 @@
 
 ### 2026 年 11 月 9 号添加
 
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [知音](https://zhiyin.billpwchan.art/card?ref=1c7)：贴网易云「我喜欢的音乐」或 QQ 音乐主页的分享链接，不用登录，Claude 给你的口味起个名字、锐评一句，再按每首歌点喜欢的月份画成一张能分享的唱片；用 YouTube Music 的话还是一个每周更新的私人电台，每首歌都说为什么选它 - [GitHub 仓库](https://github.com/billpwchan/zhiyin)
+
 #### Torres
 * :white_check_mark: [OK JLPT](https://okjlpt.com/zh-Hans)：日语能力考试（JLPT）练习网站，N5–N1 按年份整理的 104 套整卷练习（2010–2026），带听力音频，在线作答、交卷自动估分并给出中文解析；另有免费的[估分计算器](https://okjlpt.com/zh-Hans/tools/score)和助词、动词变形练习。N5、N4 全部免费，N3–N1 各一套免费，其余需会员
 
