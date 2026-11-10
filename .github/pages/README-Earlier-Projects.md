@@ -6,6 +6,33 @@
 
 ---
 
+### 2025 年 7 月 19 号添加
+#### Patrick (顺德)
+* :white_check_mark: [怼怼侠](https://www.duiduixia.com/)：小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话
+
+#### Q.Jin - [Github](https://github.com/qijin-3)
+* :x: [好有链接 数字名片](https://links.haoyou.tech)：数字名片工具，支持多身份名片管理和中文口令分享。它帮助你为每一个社交身份创建独立的名片，分别绑定不同的社交账号、内容卡片和联系方式。在不同场合，分享不同的自己，让对方快速了解你，无需反复自我介绍。除了支持微信分享你的名片。你还可以给每张卡片都绑定中文口令。通过口令搜索和分享卡片，轻巧、便捷，也更有趣 - [小程序二维码](https://links.haoyou.tech/Drawing_bed/Slide_16_9_-_25.png)
+
+#### Hnher(郑州) - [博客](https://www.hnher.com)
+* :white_check_mark: [会员次卡通](https://emember.hnher.com)：会员计次卡管理系统
+* :white_check_mark: [互游侠](https://egame.hnher.com)：游戏卡册收集器
+
+### 2025 年 7 月 18 号添加
+#### fx(深圳) - [Github](https://github.com/limxfx)
+* :white_check_mark: [ContactHelper](https://apps.apple.com/us/app/contacthelper/id6738916060)：编辑通讯录联系人属性，让 iPhone 支持T9拨号以及非中文系统下的通讯录排序
+* :white_check_mark: [Gone & Left](https://apps.apple.com/us/app/gone-left/id6744050306)：时间可视化，感受每一刻时间的流逝，支持 iPhone 小组件
+
+### 2025 年 7 月 17 号添加
+#### ziwu(广州) - [Github](https://github.com/ziwu7)
+* :white_check_mark: [Omnigen2](https://omnigen2.org/)：智源开源的 7B 统一多模态图像生成模型，一句话精准完成风格转换、元素增删、背景替换等高阶 PS 级操作。
+
+#### hnher(郑州)
+* :white_check_mark: [水印相机](https://camera.hnher.com/)：可以拍带水印照片并分享给微信好友。
+
+### 2025 年 7 月 16 号添加
+#### james（武汉）- [Github](https://github.com/JamesHuang22)
+* :white_check_mark: [去留助手AI](https://www.huiguo.info/)：专为海外留学生和海外发展的华人打造的智能决策辅助工具。通过 AI 大模型分析，根据每个人不同的情况，评估“回国发展”与“留在海外”两种路径的优劣，助力做出更明智的职业与人生选择。并且能通过大数据分析，智能计算与同龄人平均水平的位置。
+
 ### 2025 年 7 月 14 号添加
 #### heyjude(上海）
 * :white_check_mark: [TmpMail](https://www.tmpmail.online): 免费临时邮箱TmpMail
