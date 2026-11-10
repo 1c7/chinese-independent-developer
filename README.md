@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 10 号添加
 
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [EmoteLoop](https://emoteloop.com/)：AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画
+
 #### Samuel Shek - [Github](https://github.com/Samuel-Shek)
 * :white_check_mark: [Models Rank 模型榜](https://modelsrank.org/)：AI 大模型榜单，汇总 Artificial Analysis 等第三方公开评测，把能力分、单任务成本和速度放在一张表里比较，每个模型有标注来源的详情页，每周更新，中英双语
 
@@ -43,9 +46,6 @@
 
 #### ClapClip - [Github](https://github.com/ClapClip)
 * :white_check_mark: [ClapClip AI](https://www.clapclip.net/)：在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅
-
-#### Wujie Li - [Github](https://github.com/wujieli0207)
-* :white_check_mark: [EmoteLoop](https://emoteloop.com/)：AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画
 
 ### 2026 年 11 月 9 号添加
 
