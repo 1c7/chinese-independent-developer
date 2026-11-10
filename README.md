@@ -26,6 +26,18 @@
 
 ### 2026 年 11 月 10 号添加
 
+#### FlyDesk 飞桌开发团队（成都） - [Github](https://github.com/lyingjack)
+* :white_check_mark: [FlyDesk 飞桌](https://desk.flychat.work/)：远程桌面软件，在手机上输入设备 ID 与访问码连接自己的电脑，支持触控、键盘操作、同账号设备管理和云收藏；普通单人连接免费，含 VIP 付费权益 - [下载](https://desk.flychat.work/downloads) · [开发方介绍与体验招募](https://zhuanlan.zhihu.com/p/2103291767672026342)
+
+#### Pamela - [Github](https://github.com/pamelaaaaa1218)
+* :white_check_mark: [wmfree](https://wmfree.com/)：网页图片去水印工具，在浏览器里涂抹或框选即可修复、打码或裁剪，本地处理不上传，打开即用、无需注册 - [更多介绍](https://github.com/pamelaaaaa1218/watermark-remover)
+
+#### Kai Jiang - [Github](https://github.com/jiangqizheng)
+* :white_check_mark: [EarlyLore](https://earlylore.com)：产品调研网站，写下想法或粘贴网址，对照真实在线软件看竞争、定价和获客后再决定是否动手；流量为估算，免费可用，提供中日文界面
+
+#### kiya0908 - [Github](https://github.com/kiya0908)
+* :white_check_mark: [Lyrics to Song AI](https://lyricstosongai.org)：AI 歌词成曲工具，把你写好的歌词做成带人声的完整歌曲，可选风格并一次生成多个版本对比
+
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [EmoteLoop](https://emoteloop.com/)：AI Twitch emote 生成器，写一句话或上传一张自拍，大约 20 秒得到透明背景、无限循环的 512px GIF，动作按描述生成，不是给静态表情套预设动画
 

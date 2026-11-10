@@ -19,7 +19,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 11 月 10 号添加
 
 #### Eternal-Wanderer-Vegetable - [Github](https://github.com/Eternal-Wanderer-Vegetable)
-* :clock8: [Ligamina](https://github.com/Eternal-Wanderer-Vegetable/Ligamina)：让 Koishi、NoneBot 和 AstrBot 的聊天机器人插件以原样在各自的原生框架中运行，并通过统一的类 MCP 接口供任意 bot 框架或 AI 编程助手使用。Rust Core 为每个框架监督一个隔离的 Host 进程；插件保留自己的命令解析、中间件、权限与存储。
+* :clock8: [Ligamina](https://github.com/Eternal-Wanderer-Vegetable/Ligamina)：让 Koishi、NoneBot 和 AstrBot 的聊天机器人插件以原样在各自的原生框架中运行，并通过统一的类 MCP 接口供任意 bot 框架或 AI 编程助手使用。Rust Core 为每个框架监督一个隔离的 Host 进程；插件保留自己的命令解析、中间件、权限与存储
 
 #### Victor - [Github](https://github.com/victor-zzh)
 * :white_check_mark: [HopBase](https://hop-base.com)：多模型 AI API 网关，一个 Base URL 调用 Claude / GPT / Gemini / DeepSeek / 千问等文本模型，以及 Seedream、Seedance、可灵等图片和视频模型；兼容 OpenAI、Anthropic、Gemini 三种接口格式，Claude Code / Codex 改 base_url 和 key 即可使用，按量计费 - [接入文档](https://hop-base.com/zh-cn/docs)
