@@ -6,6 +6,33 @@
 
 ---
 
+### 2025 年 7 月 14 号添加
+#### heyjude(上海）
+* :white_check_mark: [TmpMail](https://www.tmpmail.online): 免费临时邮箱TmpMail
+* :x: [Posterfy](https://www.posterfy.art/): 生成音乐海报
+* :white_check_mark: [Avatify](https://www.avatify.online/): 生成头像
+
+#### Selenium39(广州) - [Selenium39](http://github.com/Selenium39)
+* :white_check_mark: [LLMOCR](https://llmocr.com)：基于 AI 的 OCR 服务
+* :white_check_mark: [FWFW](https://fwfw.app)：Find Websites From World
+
+### 2025 年 7 月 13 号添加
+#### nogeek(杭州)
+* :white_check_mark: [stater best](https://starterbest.com/)：收集一下发布的产品，可以作为导航站、发布站
+
+### 2025 年 7 月 12 号添加
+#### fanison(北京)
+* :white_check_mark: [melhorar imagem](https://melhorarimagem.org)：专注巴西市场的在线图像处理工具，用 AI 帮助用户提升图片分辨率、增强画质、修复模糊和噪点，让您的照片焕然一新。
+
+#### hjiayu799
+* :white_check_mark: [魔镜歌词网](https://mojigeci.com/)：500 万歌词库，专业歌词搜索平台 - [更多介绍](https://mojigeci.com/about)
+
+#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
+* :white_check_mark: [PoPo](https://popo.love)：LLM 在线生成 MMD 纸片人姿势
+
+#### SSShooter - [GitHub](https://github.com/SSShooter)
+* :white_check_mark: [SS 工具箱](https://tools.mind-elixir.com/)：SS 工具箱是一个集成 40+ 实用在线工具的综合平台，专为提升你的工作效率和创造力而设计。所有工具完全在浏览器中运行，无需上传数据，确保完全的隐私和安全
+
 ### 2025 年 7 月 10 号添加
 #### liunice (深圳)
 * :white_check_mark: [KissPixel](https://kisspixel.ai/)：AI 图像生成平台，集成六大核心工具：文本生成图像、图像风格转换、AI 换脸、智能图像替换、图像扩展和图像放大。平台采用积分制运营模式，新用户注册即可获得免费积分。支持多种订阅计划，满足不同用户需求。所有生成的图像均享有商业使用许可，可用于个人和商业项目。无论您是内容创作者、设计师还是营销专业人士，KissPixel 都能为您提供专业的 AI 图像创作解决方案。
