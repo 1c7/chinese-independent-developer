@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 10 号添加
+
+#### Tao Wang - [Github](https://github.com/hellotaotao)
+* :white_check_mark: [TypeAloud](https://typealoud.app/zh)：Mac/Windows 语音输入工具，在任意应用里按住快捷键说话、松手文字就出现在光标处，用千问 Qwen3-ASR 在本机转写，中英混说也能识别；免费开源，本地转写无需注册或 API Key - [更多介绍](https://github.com/hellotaotao/typealoud)
+
 ### 2026 年 11 月 9 号添加
 
 #### Torres
