@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 10 号添加
 
+#### Opie Studio(多伦多) - [网站](https://vvid.tv/home)
+* :white_check_mark: [vvid](https://vvid.tv/home)：给特斯拉车机浏览器用的网页应用，手机上把 YouTube、B站、抖音链接加进媒体库，车机浏览器打开同一账号就能播，无需安装 App
+
 #### FlyDesk 飞桌开发团队（成都） - [Github](https://github.com/lyingjack)
 * :white_check_mark: [FlyDesk 飞桌](https://desk.flychat.work/)：远程桌面软件，在手机上输入设备 ID 与访问码连接自己的电脑，支持触控、键盘操作、同账号设备管理和云收藏；普通单人连接免费，含 VIP 付费权益 - [下载](https://desk.flychat.work/downloads) · [开发方介绍与体验招募](https://zhuanlan.zhihu.com/p/2103291767672026342)
 
