@@ -29,6 +29,9 @@
 #### Tao Wang - [Github](https://github.com/hellotaotao)
 * :white_check_mark: [TypeAloud](https://typealoud.app/zh)：Mac/Windows 语音输入工具，在任意应用里按住快捷键说话、松手文字就出现在光标处，用千问 Qwen3-ASR 在本机转写，中英混说也能识别；免费开源，本地转写无需注册或 API Key - [更多介绍](https://github.com/hellotaotao/typealoud)
 
+#### ClapClip - [Github](https://github.com/ClapClip)
+* :white_check_mark: [ClapClip AI](https://www.clapclip.net/)：在自己的 Windows 10/11 电脑上给照片和长视频换脸，4 个模型可选，实时预览，NVIDIA/AMD/Intel 显卡加速，素材不上传；安装和预览免费，导出需订阅
+
 ### 2026 年 11 月 9 号添加
 
 #### Torres
