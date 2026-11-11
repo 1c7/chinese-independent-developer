@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 12 号添加
+
+#### Ollivander23 - [Github](https://github.com/ollivander23),[博客](https://blog.csdn.net/2301_76996311)
+* :white_check_mark: [CBZ Reader](https://cbzreader.mavi.help/)：免费在线CBZ漫画阅读器，打开网页就能看书、也能把 CBZ 转成 PDF；无需注册，文件只在本地处理，访问一次后缓存页可离线阅读和转换格式
+
 ### 2026 年 11 月 11 号添加
 
 #### 王光明 - [GitHub](https://github.com/no1guangming)
