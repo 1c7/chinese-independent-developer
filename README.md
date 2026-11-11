@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### 王光明 - [GitHub](https://github.com/no1guangming)
+* :white_check_mark: [MingList](https://minglist.top)：纯 Serverless 架构的出海隐私分类信息平台。用 Cloudflare 边缘节点实现了双向匿名邮件中继，主打海外 24 城本地交易，防爬虫、不暴露真实邮箱
+
 #### Masker99 - [Github](https://github.com/Masker99)
 * :white_check_mark: [AI Rap Video](https://ai-rapvideo.cc/)：AI 说唱视频生成工具，利用 AI 将照片转化为有趣的 Rap 风格短视频，适合社交媒体分享
 
