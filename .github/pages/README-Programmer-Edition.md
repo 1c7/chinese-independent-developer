@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 11 号添加
+
+#### Tw93 - [Github](https://github.com/tw93), [Twitter](https://x.com/HiTw93), [博客](https://tw93.fun)
+* :white_check_mark: [Mole](https://github.com/tw93/Mole)：开源的 Mac 和 Windows 命令行清理工具，`brew install mole` 或 `scoop install mole` 装好后用 `mo` 清理缓存和残留、卸载 App、分析磁盘、查看系统状态
+
 ### 2026 年 11 月 10 号添加
 
 #### Eternal-Wanderer-Vegetable - [Github](https://github.com/Eternal-Wanderer-Vegetable)
