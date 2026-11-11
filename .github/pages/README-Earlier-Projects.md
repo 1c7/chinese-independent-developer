@@ -6,6 +6,32 @@
 
 ---
 
+### 2025 年 7 月 22 号添加
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Tovo - AI 会议/面试助手](https://tovo.dev)：在会议中，Tovo 是一款注重隐私的 AI 助手，完全在您的设备上运行，为会议和对话提供实时转录和智能协助，无需向外部服务器发送任何数据。
+
+#### Enda （香港）
+* :white_check_mark: [AI Todo](https://www.aitodo.art) ：像很多程序员一样，我日常要兼顾工作任务、生活琐事、项目计划，时常感到事情多但漏掉的也不少。想用智能方式管理这些待办，但市面上的工具要么设计臃肿，要么 AI 能力很弱。于是我花了几周开发了 AI Todo，目标是: 
+* 只关注待办本身，不捆绑笔记、文档、时间轴等多余功能
+* 使用 AI 把“随手输入”自动转换为结构化任务（包含分类、优先级、预期时间等）
+* 实时排序，帮你优先处理最关键的事
+
+#### leo(上海)
+* :white_check_mark: [Dog Names World](https://dognamesworld.com/)：专为宠物爱好者打造的狗名导航网站，可按性别、风格、含义等多维度筛选，快速找到最适合你爱犬的名字。从可爱风到霸气风，一应俱全
+
+#### 雷光（石家庄）
+* :white_check_mark: [中文古籍數字復刻計劃](https://github.com/shanleiguang/vBooks)：古籍刻本掃描影像通常存在掃描變形、頁面瑕疵、文件巨大等問題，且圖像無法選中其文字從而不能查詢生字生詞，因而不便閱讀。該計劃目的是參照古籍刻本之原貌，復刻出文字版的電子書，支持圈註、查閱，方便存入電子閱讀器隨時閱讀。通過古籍刻本古樸形式所帶來的沉浸優雅之閱讀體驗，也許將吸引更多讀者愛上古籍閱讀。
+
+#### meetqy(成都)
+* :white_check_mark: [HiColors](https://hicolors.org)：专注收集动漫/游戏人物，制作成调色板的网站。
+
+#### alex(广州)
+* :x: [英语情景说（微信小程序）](https://english.iamdev.cn/)：真实场景英语口语练习，通过真实生活场景对话，让英语口语练习更有趣、更实用！
+
+### 2025 年 7 月 21 号添加
+#### fanison(北京) 
+* :white_check_mark: [photo color changer](https://photocolorchanger.com/)：免费在线更改图像颜色，简化图像类型的处理流程。只需使用直观的颜色选择器选择目标区域（前景或背景），然后选择新的颜色即可
+
 ### 2025 年 7 月 19 号添加
 #### Patrick (顺德)
 * :white_check_mark: [怼怼侠](https://www.duiduixia.com/)：小网站，用 AI 帮你优雅回怼阴阳怪气，不带脏话
