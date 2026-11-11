@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### crafthwj（杭州） - [Github](https://github.com/crafthwj)
+* :white_check_mark: [Origrab](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)：把当前网页里的图片全部列出来，标出尺寸和格式，勾选后一键打包成 ZIP 下载；不用注册、不上传，全程在浏览器本地完成，免费
+
 #### Vino - [Github](https://github.com/88slash)
 * :white_check_mark: [NeewP](https://neewp.com)：全球独立产品真实营收雷达，每天追踪 1,058 款产品，只用可核验的真数字（TrustMRR Stripe 实测流水、Latka、Indie Hackers 与 App Store 榜单），变现榜+增长榜拆解变现模式与流量来源，中英文双语、每日更新
 
@@ -38,9 +41,6 @@
 
 #### Opie Studio(多伦多) - [网站](https://vvid.tv/home)
 * :white_check_mark: [vvid](https://vvid.tv/home)：给特斯拉车机浏览器用的网页应用，手机上把 YouTube、B站、抖音链接加进媒体库，车机浏览器打开同一账号就能播，无需安装 App
-
-#### crafthwj（杭州） - [Github](https://github.com/crafthwj)
-* :white_check_mark: [Origrab](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)：把当前网页里的图片全部列出来，标出尺寸和格式，勾选后一键打包成 ZIP 下载；不用注册、不上传，全程在浏览器本地完成，免费
 
 ### 2026 年 11 月 10 号添加
 
