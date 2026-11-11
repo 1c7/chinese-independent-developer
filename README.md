@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### Vino - [Github](https://github.com/88slash)
+* :white_check_mark: [NeewP](https://neewp.com)：全球独立产品真实营收雷达，每天追踪 1,058 款产品，只用可核验的真数字（TrustMRR Stripe 实测流水、Latka、Indie Hackers 与 App Store 榜单），变现榜+增长榜拆解变现模式与流量来源，中英文双语、每日更新
+
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://x.com/HiTw93), [博客](https://tw93.fun)
 * :white_check_mark: [Mole](https://mole.fit)：Mac 和 Windows 上的原生清理工具，清理电脑残留垃圾、连同残留一起卸载 App、看清磁盘空间被谁占了，删之前都先列出来让你确认，一次买断 - [Windows 版](https://mole.fit/windows)
 * :white_check_mark: [Pake](https://pake.run/)：把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，不用装 Node.js 或 Rust，免费做 2 个，之后一次买断
