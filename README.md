@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### Nei Chen - [Github](https://github.com/neichen)
+* :white_check_mark: [time.foo](https://time.foo)：在 3D 地球上看世界各地此刻的时间和昼夜分界，可以对比多个城市、换算时区、转换 Unix 时间戳；免费、无广告、不用注册，支持 8 种语言
+
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://x.com/HiTw93), [博客](https://tw93.fun)
 * :white_check_mark: [Mole](https://mole.fit)：Mac 和 Windows 上的原生清理工具，清理电脑残留垃圾、连同残留一起卸载 App、看清磁盘空间被谁占了，删之前都先列出来让你确认，一次买断 - [Windows 版](https://mole.fit/windows)
 * :white_check_mark: [Pake](https://pake.run/)：把常用网站变成 Mac、Windows 和 Linux 上的桌面 App，从画廊挑一个或贴上网址就能生成，有自己的图标和窗口，不用装 Node.js 或 Rust，免费做 2 个，之后一次买断
