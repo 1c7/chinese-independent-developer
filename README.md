@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### Vino - [Github](https://github.com/88slash)
+* :white_check_mark: [NeewP](https://neewp.com)：全球独立产品真实营收雷达，每天追踪 1,058 款产品，只用可核验的真数字（TrustMRR Stripe 实测流水、Latka、Indie Hackers 与 App Store 榜单），变现榜+增长榜拆解变现模式与流量来源，中英文双语、每日更新
+
 #### Nei Chen - [Github](https://github.com/neichen)
 * :white_check_mark: [time.foo](https://time.foo)：在 3D 地球上看世界各地此刻的时间和昼夜分界，可以对比多个城市、换算时区、转换 Unix 时间戳；免费、无广告、不用注册，支持 8 种语言
 
