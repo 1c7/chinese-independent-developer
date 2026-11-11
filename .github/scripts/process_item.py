@@ -1,10 +1,16 @@
 # 自动扫描 GitHub Issues 中被标记为 🚀 的项目提交，通过 AI 格式化后批量添加到 README 并创建 Pull Request。
 import os
 import re
+import sys
 import datetime
+from pathlib import Path
 from github import Github 
 from openai import OpenAI
 from datetime import datetime, timedelta, timezone
+
+# 允许以 `python .github/scripts/process_item.py` 和测试里动态加载两种方式导入
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from check_links import filter_entry, format_problems  # noqa: E402
 
 # ================= 配置区 =================
 PAT_TOKEN = os.getenv("PAT_TOKEN")  # GitHub Personal Access Token
@@ -143,7 +149,10 @@ def main():
 
     # ===== 阶段 2：格式化和 AI 处理 =====
     formatted_entries = []
-    processed_items = [] # 用于最后标记和回复
+    processed_items = []  # 已收录：(item, parent, entry)
+    rejected_items = []  # 全部条目链接都打不开、整条跳过：(item, parent, problems)
+    dropped_links = {}  # parent -> [(item, problems)]，部分条目因链接失效被摘掉
+    link_cache = {}  # 同一次运行里同一个链接只查一次
 
     for obj, parent in pending_items:
         print(f"\n{'='*60}")
@@ -192,93 +201,147 @@ def main():
         # AI 处理项目详情行
         project_line = get_ai_project_line(body_for_ai)
         formatted_entry = f"{header_line}\n{project_line}"
-        
+
+        # 链接必须能打开：打不开的产品行摘掉，记下原因用于回复
+        formatted_entry, dropped = filter_entry(formatted_entry, link_cache)
+        if dropped:
+            print(f"⚠️ 摘掉 {len(dropped)} 条链接打不开的条目：")
+            for problem in dropped:
+                print(f"   - {problem.url}：{problem.reason}")
+
+        if not any(line.lstrip().startswith('*') for line in formatted_entry.splitlines()):
+            print("❌ 所有条目链接都打不开，整条跳过")
+            rejected_items.append((obj, parent, dropped))
+            continue
+
+        if dropped:
+            dropped_links.setdefault(parent, []).append((obj, dropped))
+
         formatted_entries.append(formatted_entry)
         processed_items.append((obj, parent, formatted_entry))
 
     # ===== 阶段 3：批量提交 =====
-    # 更新 README
-    content = repo.get_contents("README.md", ref="master")
-    readme_text = content.decoded_content.decode("utf-8")
+    pr = None
+    if formatted_entries:
+        # 更新 README
+        content = repo.get_contents("README.md", ref="master")
+        readme_text = content.decoded_content.decode("utf-8")
 
-    today_str = datetime.now().strftime("%Y 年 %-m 月 %-d 号添加")
-    date_header = f"### {today_str}"
+        today_str = datetime.now().strftime("%Y 年 %-m 月 %-d 号添加")
+        date_header = f"### {today_str}"
 
-    if date_header not in readme_text:
-        new_readme = readme_text.replace("3. 项目列表\n", f"3. 项目列表\n\n{date_header}\n")
-    else:
-        new_readme = readme_text
+        if date_header not in readme_text:
+            new_readme = readme_text.replace("3. 项目列表\n", f"3. 项目列表\n\n{date_header}\n")
+        else:
+            new_readme = readme_text
 
-    # 插入所有条目（用两个换行分隔）
-    insertion_point = new_readme.find(date_header) + len(date_header)
-    all_entries_str = "\n\n".join(formatted_entries)
-    # 确保新条目和原有内容之间有两个换行（原有内容可能只有一个 \n）
-    remaining = new_readme[insertion_point:].lstrip('\n')
-    final_readme = new_readme[:insertion_point] + "\n\n" + all_entries_str + "\n\n" + remaining
+        # 插入所有条目（用两个换行分隔）
+        insertion_point = new_readme.find(date_header) + len(date_header)
+        all_entries_str = "\n\n".join(formatted_entries)
+        # 确保新条目和原有内容之间有两个换行（原有内容可能只有一个 \n）
+        remaining = new_readme[insertion_point:].lstrip('\n')
+        final_readme = new_readme[:insertion_point] + "\n\n" + all_entries_str + "\n\n" + remaining
 
-    # 创建分支
-    branch_name = f"batch-add-projects-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
-    base = repo.get_branch("master")
+        # 创建分支
+        branch_name = f"batch-add-projects-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
+        base = repo.get_branch("master")
 
-    try:
-        repo.get_git_ref(f"heads/{branch_name}").delete()
-    except:
-        pass
+        try:
+            repo.get_git_ref(f"heads/{branch_name}").delete()
+        except:
+            pass
 
-    repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
-    repo.update_file(
-        "README.md",
-        f"docs: batch add {len(processed_items)} projects",
-        final_readme,
-        content.sha,
-        branch=branch_name
-    )
+        repo.create_git_ref(ref=f"refs/heads/{branch_name}", sha=base.commit.sha)
+        repo.update_file(
+            "README.md",
+            f"docs: batch add {len(processed_items)} projects",
+            final_readme,
+            content.sha,
+            branch=branch_name
+        )
 
-    # 构建 PR body
-    item_links = "\n".join([
-        f"- [{obj.user.login}]({obj.html_url})"
-        for obj, parent, entry in processed_items
-    ])
+        # 构建 PR body
+        item_links = "\n".join([
+            f"- [{obj.user.login}]({obj.html_url})"
+            for obj, parent, entry in processed_items
+        ])
 
-    pr_body = f"""批量添加 {len(processed_items)} 个项目
+        skipped = [
+            problem
+            for entries in dropped_links.values()
+            for _, problems in entries
+            for problem in problems
+        ]
+        skipped += [problem for _, _, problems in rejected_items for problem in problems]
+        skipped_section = ""
+        if skipped:
+            skipped_section = "\n## 链接不可访问（未收录）\n" + "\n".join(
+                f"- [{problem.label}]({problem.url})：{problem.reason}"
+                for problem in skipped
+            ) + "\n"
+
+        pr_body = f"""批量添加 {len(processed_items)} 个项目
 
 ## 原始链接
 {item_links}
-
+{skipped_section}
 ---
 自动生成，触发机制：用户 {ADMIN_HANDLE} 点击 🚀
 """
 
-    pr = repo.create_pull(
-        title=f"新增项目：批量添加 {len(processed_items)} 个项目",
-        body=pr_body,
-        head=branch_name,
-        base="master"
-    )
+        pr = repo.create_pull(
+            title=f"新增项目：批量添加 {len(processed_items)} 个项目",
+            body=pr_body,
+            head=branch_name,
+            base="master"
+        )
 
-    print(f"\n✅ PR 创建成功：{pr.html_url}")
+        print(f"\n✅ PR 创建成功：{pr.html_url}")
+    else:
+        print("\n⚠️ 没有可收录的条目（链接全部不可访问），跳过 PR")
 
     # ===== 阶段 4：标记成功并回复 =====
-    replies = {} # parent_issue -> set of users
+    replies = {}  # parent_issue -> set of users
 
     for obj, parent, entry in processed_items:
         # 标记所有条目（添加 🎉 表情）
         obj.create_reaction(SUCCESS_EMOJI)
-        
+
         # 收集需要回复的 Issue 和用户
         if parent not in replies:
             replies[parent] = set()
         replies[parent].add(obj.user.login)
 
+    # 把每个 Issue 下被摘掉的链接汇总起来，一并回复
+    problems_by_parent = {}
+    for parent, entries in dropped_links.items():
+        for _, problems in entries:
+            problems_by_parent.setdefault(parent, []).extend(problems)
+    for obj, parent, problems in rejected_items:
+        problems_by_parent.setdefault(parent, []).extend(problems)
+
     # 分别在各 Issue 回复
-    for parent, users in replies.items():
-        user_mentions = " ".join([f"@{u}" for u in users])
-        reply_body = f"{user_mentions} 感谢提交，已添加！\n\n PR 链接：{pr.html_url}"
-        parent.create_comment(reply_body)
-        if parent.number != ISSUE_NUMBER:
+    for parent in set(replies) | set(problems_by_parent):
+        users = replies.get(parent, set())
+        problems = problems_by_parent.get(parent, [])
+
+        parts = []
+        if users:
+            user_mentions = " ".join([f"@{u}" for u in users])
+            parts.append(f"{user_mentions} 感谢提交，已添加！")
+            if pr:
+                parts.append(f"PR 链接：{pr.html_url}")
+        else:
+            parts.append("感谢提交，这条暂时没有收录。")
+        if problems:
+            parts.append(format_problems(problems))
+
+        parent.create_comment("\n\n".join(parts))
+        # 只有全部收录才关 Issue；有待补链接的留着等提交者回话
+        if parent.number != ISSUE_NUMBER and not problems:
             parent.edit(state='closed')
 
-    print(f"\n✅ 已在 {len(replies)} 个 Issue 中标记并回复")
+    print(f"\n✅ 已在 {len(set(replies) | set(problems_by_parent))} 个 Issue 中标记并回复")
 
 if __name__ == "__main__":
     main()
