@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### Masker99 - [Github](https://github.com/Masker99)
+* :white_check_mark: [AI Rap Video](https://ai-rapvideo.cc/)：AI 说唱视频生成工具，利用 AI 将照片转化为有趣的 Rap 风格短视频，适合社交媒体分享
+
+#### AIBanlv 开发团队 - [GitHub](https://github.com/AIBanlv)
+* :white_check_mark: [AIBanlv Bot](https://aibanlv.ai/zh?view=desktop-companion)：Windows / macOS 桌面 AI 伴侣，支持透明悬浮的 3D 形象、文字和语音交流，可连接 Harness、Codex 等工具处理任务；支持自备模型 Key 或使用平台积分 - [开源代码](https://github.com/AIBanlv/AIBanlv-Bot)
+
 #### crafthwj（杭州） - [Github](https://github.com/crafthwj)
 * :white_check_mark: [Origrab](https://chromewebstore.google.com/detail/origrab-bulk-image-downlo/bmafbkjjmmcmckabcibobnicmfafpmmg)：把当前网页里的图片全部列出来，标出尺寸和格式，勾选后一键打包成 ZIP 下载；不用注册、不上传，全程在浏览器本地完成，免费
 

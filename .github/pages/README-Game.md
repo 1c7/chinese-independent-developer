@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 11 号添加
+#### Vibes College - [Github](https://github.com/Vibes-college)
+* :white_check_mark: [Vibes College](https://vibes.college/)：雅思备考闯关游戏，手机浏览器打开就玩，不用下载；在一张地图上一关一关打听力、阅读、词汇、语法，卡住了看锦囊、问 AI 英语助教；第一章免费，注册就能玩 - [雅思攻略](https://vibes.college/guides/)
+
 ### 2026 年 11 月 8 号添加
 #### PlanJ（Weiqi Jiang）
 * :white_check_mark: [Azeroth Survivors 构筑计算器](https://azerothsurvivors.app/build-calculator/)：面向 Azeroth Survivors 玩家的非官方构筑规划工具，搭配天赋、技能和装备，生成可继续编辑的分享链接或导出 PNG；核心规划功能免费，无需注册

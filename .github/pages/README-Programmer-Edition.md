@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 11 号添加
 
+#### 咖影AI - [Github](https://github.com/kaying-ai)
+* :white_check_mark: [KayingCode](https://kayingai.com/)：专为游戏开发优化的开源 AI Agent Harness，描述玩法即可让 Agent 写代码，在同一个桌面工作台运行预览、试玩验证，并通过 TapTap Maker 构建发布 - [GitHub 仓库与下载](https://github.com/kaying-ai/KayingCode)
+
 #### Tw93 - [Github](https://github.com/tw93), [Twitter](https://x.com/HiTw93), [博客](https://tw93.fun)
 * :white_check_mark: [Mole](https://github.com/tw93/Mole)：开源的 Mac 和 Windows 命令行清理工具，`brew install mole` 或 `scoop install mole` 装好后用 `mo` 清理缓存和残留、卸载 App、分析磁盘、查看系统状态
 
