@@ -39,6 +39,9 @@
 * :white_check_mark: [SnapDuo](https://api.newkwlab.com/duo/)：两张照片合成一张热梗同框合照，免费预览，满意再解锁高清
 * :white_check_mark: [PaperStage](https://api.newkwlab.com/walk/)：把一张照片变成几秒钟的纸片风行走动画，自带配乐
 
+#### Ollivander23 - [Github](https://github.com/ollivander23),[博客](https://blog.csdn.net/2301_76996311)
+* :white_check_mark: [CBZ Reader](https://cbzreader.mavi.help/)：免费在线CBZ漫画阅读器，打开网页就能看书、也能把 CBZ 转成 PDF；无需注册，文件只在本地处理，访问一次后缓存页可离线阅读和转换格式
+
 ### 2026 年 11 月 11 号添加
 
 #### 王光明 - [GitHub](https://github.com/no1guangming)
