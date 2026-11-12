@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 12 号添加
+
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [欧八面试陪练](https://interview.redboook.cn/)：中文语音与文字 AI 面试陪练网站，结合目标岗位 JD 与个人真实经历，先练 1–2 分钟自我介绍，再用三道经历题进行连环追问、原话引用五维点评与初答重答对比；内置 AI 产品、后端研发、数据分析等岗位练习库，平台免费且 MIT 开源，需自备百炼 API Key - [开源代码](https://github.com/ouxxyy/ai-interviewer)
+
 ### 2026 年 11 月 11 号添加
 
 #### 王光明 - [GitHub](https://github.com/no1guangming)

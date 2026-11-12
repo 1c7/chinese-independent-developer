@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 12 号添加
+
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [jd-resume-match](https://github.com/ouxxyy/jd-resume-match)：中文简历与 JD 可复算匹配体检工具及本地 MCP Server，对照目标岗位 JD 逐条绑定简历原文行号（L1..Ln）核查证据缺口，通过确定性 Python 公式复算匹配分并导出单文件 HTML 体检报告，零网络上传、MIT 开源 - [30 秒职业战力与简历体检页](https://ouxxyy.github.io/ouba-classmate/#career-radar)
+* :white_check_mark: [job-search](https://github.com/ouxxyy/job-search)：跨平台招聘筛选 Agent Skill，按确认条件检索 BOSS直聘、猎聘、脉脉、智联招聘、前程无忧 5 大平台，去重清洗后生成带原始链接与筛选依据的 HTML、Excel 和 JSON 投递短名单，MIT 开源
+* :white_check_mark: [sherlock-company](https://github.com/ouxxyy/sherlock-company)：接 Offer 前公司证据背调 Agent Skill，将公开企业信息与员工评价整理为已证实、有线索、说法冲突、还不知道四态档案，主动排查合同主体不一致与隐形加班三类预警，输出单文件离线 HTML 核实清单，MIT 开源
+* :white_check_mark: [mbai](https://github.com/ouxxyy/mbai)：工作任务 AI 不可替代指数评估工具，拆解日常岗位工作任务并结合贡献证据完成 AI 替代风险自评，输出结构化转型建议与离线报告，支持命令行与 Claude Code 调用 - [2026 求职防身情报库](https://github.com/ouxxyy/ouba-classmate/blob/main/radar/README.md)
+
 ### 2026 年 11 月 11 号添加
 
 #### 咖影AI - [Github](https://github.com/kaying-ai)
