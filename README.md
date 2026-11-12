@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### Yumin Gui(旧金山湾区) - [Github](https://github.com/guiyumin)
+* :white_check_mark: [FinchGram](https://www.finchgram.com)：开源的 macOS Telegram 第三方客户端，Rust + Slint 编写，支持多账号与 MCP（AI 工具接入） - [开源代码](https://github.com/FinchGram/FinchGram)
+
 #### 欧八同学 - [GitHub](https://github.com/ouxxyy)
 * :white_check_mark: [欧八面试陪练](https://interview.redboook.cn/)：中文语音与文字 AI 面试陪练网站，结合目标岗位 JD 与个人真实经历，先练 1–2 分钟自我介绍，再用三道经历题进行连环追问、原话引用五维点评与初答重答对比；内置 AI 产品、后端研发、数据分析等岗位练习库，平台免费且 MIT 开源，需自备百炼 API Key - [开源代码](https://github.com/ouxxyy/ai-interviewer)
 
@@ -37,9 +40,6 @@
 * :white_check_mark: [PaperStage](https://api.newkwlab.com/walk/)：把一张照片变成几秒钟的纸片风行走动画，自带配乐
 
 ### 2026 年 11 月 11 号添加
-
-#### Yumin Gui(旧金山湾区) - [Github](https://github.com/guiyumin)
-* :white_check_mark: [FinchGram](https://www.finchgram.com)：开源的 macOS Telegram 第三方客户端，Rust + Slint 编写，支持多账号与 MCP（AI 工具接入） - [开源代码](https://github.com/FinchGram/FinchGram)
 
 #### 王光明 - [GitHub](https://github.com/no1guangming)
 * :white_check_mark: [MingList](https://minglist.top)：纯 Serverless 架构的出海隐私分类信息平台。用 Cloudflare 边缘节点实现了双向匿名邮件中继，主打海外 24 城本地交易，防爬虫、不暴露真实邮箱
