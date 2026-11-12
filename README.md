@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### 阿東 - [GitHub](https://github.com/antonailog)
+* :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报
+
 #### frank(上海) - [Github](https://github.com/fxxqq)
 * :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
 
