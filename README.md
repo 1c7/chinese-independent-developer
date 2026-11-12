@@ -26,6 +26,22 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### wujm12138 - [GitHub](https://github.com/wujm12138)
+* :white_check_mark: [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg)：给经常出差、先替公司垫钱的人用的微信小程序。每趟出差单开一个账本，路上说一句或传张票就能记一笔，回来按趟导出 Excel
+
+#### Tom Wang - [Github](https://github.com/WanderZil)
+* :white_check_mark: [SplitImage](https://splitimage.io)：浏览器图片分割工具，支持宫格、对半和切条，可预览后下载，图片在本地处理
+* :white_check_mark: [Bulk Image Editor](https://bulkimage.io)：浏览器批量图片编辑工具，支持裁剪、缩放、压缩、格式转换、水印和重命名，图片在本地处理
+* :white_check_mark: [Batch Image Crop](https://batchimagecrop.com)：浏览器批量裁剪工具，可按比例、像素、形状或社媒预设裁剪并预览，支持打包 ZIP 下载，图片在本地处理
+* :white_check_mark: [Canmetry](https://canmetry.com)：CAN / CAN FD 日志查看器，支持 BLF、MF4、ASC 文件、DBC 解码、过滤、曲线绘制及 CSV 导出；本地查看无需安装软件，云项目和团队工作区需登录
+* :white_check_mark: [Bulk Image Download](https://bulkimagedownload.com)：网页图片提取工具，粘贴链接后可预览并批量下载，也可打包为 ZIP，无需安装扩展
+
+#### 费马测试 - [GitHub](https://github.com/fermatmind)
+* :white_check_mark: [费马测试（FermatMind）](https://fermatmind.com/)：在线人格与职业兴趣测评网站，无需注册即可体验 MBTI、大五人格和霍兰德职业兴趣测试，并结合结果查看职业档案、比较职业方向
+
+#### cena001plus - [Github](https://github.com/cena001plus)
+* :white_check_mark: [Builderoom](https://www.builderoom.com/zh-CN)：独立开发者作品展台，用一句话描述需求就能找到软件，发布作品只需贴一个链接，AI 自动整理介绍与分类，免费提交、不卖排名
+
 #### borong.zheng - [Github](https://github.com/borongzheng-sketch)
 * :white_check_mark: [AMAN Machine](https://www.amanmachine.com/)：发一张瓶样或图纸，就能询价吹瓶机和模具——瓶盖、化妆品罐、瓶子、PET 瓶坯的模具，可配我们的机器或你现有的机器；英文站，2007 年起服务 100 多个国家
 * :white_check_mark: [Aman Machinery](https://www.amanmachinery.com/)：发一份图纸或零件，就能询价组装机和包装自动化设备——瓶盖、泵头、化妆品包装、医疗件、笔和电器件的装配线；英文站

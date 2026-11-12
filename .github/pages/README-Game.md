@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 12 号添加
+#### bei666qi-pan - [GitHub](https://github.com/bei666qi-pan)
+* :white_check_mark: [404世界](https://versecraft.cn/)：AI 互动小说网站，可进入喜欢的小说参与剧情、改变结局；用一句话一键成书，创作自己的小说，包括二创同人；还可将喜欢的角色拉进同一个聊天群，让他们互相聊天，体验好感度等互动机制
+
 ### 2026 年 11 月 11 号添加
 #### Vibes College - [Github](https://github.com/Vibes-college)
 * :white_check_mark: [Vibes College](https://vibes.college/)：雅思备考闯关游戏，手机浏览器打开就玩，不用下载；在一张地图上一关一关打听力、阅读、词汇、语法，卡住了看锦囊、问 AI 英语助教；第一章免费，注册就能玩 - [雅思攻略](https://vibes.college/guides/)
