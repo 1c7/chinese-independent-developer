@@ -5132,30 +5132,6 @@
 #### monsoonw(杭州)
 * :white_check_mark: [AI Stem Splitter](https://aistemsplitter.net)：AI 音轨分离器
 
-### 2025 年 7 月 26 号添加
-#### 码上云行科技(上海) - [官网](https://www.jessenbox.com/)
-* :white_check_mark: [极巧立算 (iOS)](https://apps.apple.com/cn/app/id6448924181)：汇集各种计算工具的全能计算器 App - [Android - GooglePlay](https://play.google.com/store/apps/details?id=com.jessen.unitsconverter), [Android - 国内应用商店](https://www.jessenbox.com/)
-
-#### **Ch3nyang(南京)** - [Github](https://github.com/wcy-dt), [博客](https://blog.ch3nyang.top/)
-* :white_check_mark: [EasyTransfer](https://file.ch3nyang.top/)：免费、匿名、加密且易于使用的 E2EE 文件传输工具。只需访问一个简单的网页，即可使用设备代码连接到任何网络中的任何设备。支持免费的内网穿透，也可自行部署 - [仓库](https://github.com/WCY-dt/EasyTransfer)
-* :white_check_mark: [my-github-2024](https://2024.ch3nyang.top/)：统计用户2024年在GitHub上的活动，并根据提交记录等生成一份数据报告。预计下半年会更新为2025版 - [效果预览](https://github.com/WCY-dt/my-github-2024)
-
-#### 金川(杭州) 
-* :white_check_mark: [AI ASMR Generator](https://aiasmrgenerator.com)：AI ASMR 视频生成器
-
-### 2025 年 7 月 25 号添加
-#### guangzhengli - [Github](https://github.com/guangzhengli) [Twitter](https://x.com/iguangzhengli) [Blog](https://guangzhengli.com)
-* :white_check_mark: [NextDevKit](https://nextdevkit.com)：Next.js & OpenNext 启动模板，可以比以往快 10 倍地构建你的SaaS应用程序，包括身份验证、支付、落地页、电子邮件、存储、博客、文档和数据库，只需要一天就能启动你的项目，支持部署到所有平台，原生支持 Cloudflare Workers & AWS 等平台。
-
-### 2025 年 7 月 24 号添加
-#### DT986(深圳) 
-* :white_check_mark: [Photo AI Enhancer - 图片AI增强工具](https://www.leawo.com/image-enhancer/)：图片 AI 增强器，可自动或手动调整图片效果，如自动校正曝光、增强光线、去除噪点、调整眼睛大小、自动锐化等，支持批量图片效果增强 。
-* :white_check_mark: [DVD刻录](https://www.leawo.com/pro/dvd-creator.html)：帮助把图片或者视频刻录成DVD-9/DVD-5碟片、文件夹或者是ISO镜像文件，允许选择字幕与音轨，添加外部字幕，预置多个菜单模板并允许自定义菜单，提供多个视频编辑功能。
-
-### 2025 年 7 月 23 号添加
-#### 多喝热水 - [GitHub](https://github.com/acmenlei)
-* :white_check_mark: [OfferStar - AI 笔试面试辅助工具](https://www.offerstar.cn)：AI 笔试面试辅助工具，隐蔽性高，无视屏幕共享，切屏等检测，AI 问答秒级响应。
-
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
