@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### AutoResearch
+* :white_check_mark: [免费科研计划工具](https://autoresearch.me/zh/research-plan/)：无需注册，在浏览器里整理并下载科研实验计划；训练前明确研究问题、数据划分、对比基线、评估指标与所需证据。该工具不执行实验、不自动保存。完整 AutoResearch 系统（https://autoresearch.me）目前为需管理员审批的内测，与本工具不是同一回事。
+
 #### frank(上海) - [Github](https://github.com/fxxqq)
 * :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
 
