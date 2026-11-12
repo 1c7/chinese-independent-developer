@@ -6,6 +6,65 @@
 
 ---
 
+### 2025 年 8 月 4 号添加
+#### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki), [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
+* :white_check_mark: [AI资讯日报](https://ai.hubtoday.app/)：每日精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成 - [后端项目](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) 与 [配套前端项目](https://github.com/justlovemaki/Hextra-AI-Insight-Daily)。
+
+### 2025 年 8 月 3 号添加
+#### nogeek(南京)
+* :white_check_mark: [The One Startup](https://theonestartup.com)：每个小产品都是一个小公司，发现一些小公司，让每个小产品都有被发现的机会
+
+#### feiyu(北京) 
+* :white_check_mark: [AI剪影生成器](https://silhouettegenerator.app/)：免费 AI 剪影生成器，瞬间将任何照片转换为令人惊艳的剪影
+
+### 2025 年 8 月 2 号添加
+#### gemoonly - [Twitter](https://x.com/gell_moon)
+* :white_check_mark: [Neetoo](https://apps.apple.com/cn/app/neetoo/id6743790550?mt=12)：上班摸鱼小说阅读器，可以在工作之余尽情的阅读小说，不用担心被发现（macOS，可隐藏）
+
+#### Jay6343 - [Github](https://github.com/1c7/chinese-independent-developer/issues/160#issuecomment-3138860512)
+* :white_check_mark: [AI 亲吻视频生成器](https://kissingai.app/)：用 AI 基于照片创建逼真的接吻视频，从多种亲吻风格中选择，如法式亲吻或雨中亲吻
+
+### 2025 年 7 月 31 号添加
+#### biboom(广州) 
+* :white_check_mark: [smartimagix](http://smartimagix.cloud)：用 AI 修改图片
+
+#### tushenmei(杭州) 
+* :white_check_mark: [Green Screen Remover 免费一键抠图](https://greenscreenremover.online/)：手动抠图太慢太烦？我们都懂。免费AI背景抠图网站，释放你的创作力
+
+### 2025 年 7 月 30 号添加
+#### Flicker(成都)
+* :white_check_mark: [AI LRC Generator](https://ailrcgenerator.com/)：AI LRC Generator 使用 AI 技术一键生成音频 LRC 文件！支持自动识别音频内容，精准同步时间轴，适用于配音、字幕、K歌、播客等多种场景。做这个起因是因为手里有一些老歌或者一些市面上消失的歌，没有歌词，所以搞了个音频处理+AI生成歌词的网站。
+
+### 2025 年 7 月 29 号添加
+#### dallen(武汉) 
+* :x: [BirthChartAI](https://birthchartai.com/)：精准星盘分析，AI智能揭示你的性格与命运轨迹
+* :x: [HowHotAmI](https://howhotami.org/)：AI颜值评分神器，一键测出你的吸引力与面部黄金比例
+
+#### heyjude(github)
+* :white_check_mark: [FreeConvert](https://www.freeconvert.cc/)：提供图片格式转换功能，支持 heic、heif、png、jpg、pdf 等格式
+
+### 2025 年 7 月 28 号添加
+#### sk(广州)
+* :white_check_mark: [AIColoringPages](https://ai-coloring-pages.art)：提供各种类型的着色图，支持收藏和PDF下载，所有着色图均是用AI生成，每天持续更新着色图，后续考虑支持用户自己AI生成着色图
+
+#### minutes
+* :white_check_mark: [Runway Aleph](https://runwayaleph.net/)：视频编辑新方式，Runway Aleph 是 AI 视频编辑平台，能通过简单的文本提示来改造视频内容。用户可以增删物体、生成新视角、应用风格迁移、调整光线，轻松达到专业级效果。
+
+#### Brice(南京) 
+* :x: [kawaii coloring](https://kawaiicoloring.org/)：提供可爱类型的线稿图，持续更新
+
+#### nogeek(南京)
+* :white_check_mark: [Days Launch](https://dayslaunch.com/)：每天构建，每天发布。做一个发布站+目录站，让开发者都可以免费的发布自己的作品，进行获客和宣传
+
+#### Shanshi(武汉) - [Github](https://github.com/Shanshi66)
+* :white_check_mark: [Easy2Text](https://easy2text.app/)：将语音转成文本、字幕等多种格式
+
+#### wmin(北京) - [github](https://github.com/worminone)
+* :white_check_mark: [How To Sketch](https://howtosketch.net/): 图片转素描网站
+
+#### monsoonw(杭州)
+* :white_check_mark: [AI Stem Splitter](https://aistemsplitter.net)：AI 音轨分离器
+
 ### 2025 年 7 月 26 号添加
 #### 码上云行科技(上海) - [官网](https://www.jessenbox.com/)
 * :white_check_mark: [极巧立算 (iOS)](https://apps.apple.com/cn/app/id6448924181)：汇集各种计算工具的全能计算器 App - [Android - GooglePlay](https://play.google.com/store/apps/details?id=com.jessen.unitsconverter), [Android - 国内应用商店](https://www.jessenbox.com/)
