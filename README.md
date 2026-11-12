@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### frank(上海) - [Github](https://github.com/fxxqq)
+* :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
+
 #### wujm12138 - [GitHub](https://github.com/wujm12138)
 * :white_check_mark: [AI秒记账](https://gist.githubusercontent.com/wujm12138/1cad024149ad8528c03a4286dcffcb58/raw/a097ee5ce7d86bf9b005d657c24d14fc53c8d8b4/ai-miaojizhang.jpg)：给经常出差、先替公司垫钱的人用的微信小程序。每趟出差单开一个账本，路上说一句或传张票就能记一笔，回来按趟导出 Excel
 
