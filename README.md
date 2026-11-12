@@ -42,6 +42,10 @@
 #### cena001plus - [Github](https://github.com/cena001plus)
 * :white_check_mark: [Builderoom](https://www.builderoom.com/zh-CN)：独立开发者作品展台，用一句话描述需求就能找到软件，发布作品只需贴一个链接，AI 自动整理介绍与分类，免费提交、不卖排名
 
+#### 张文健(东莞) - [Github](https://github.com/wenjianzhang70-dot)
+* :white_check_mark: [PhotoSway](https://photosway.com/)：AI 照片变视频工具站，上传一张宠物照片，套用 Car Alarm、OIIA 猫等爆款跳舞模板做成短视频，附 15 篇分步教程；生成功能正在等候名单中
+* :white_check_mark: [Reroll Odds](https://rerollodds.com/)：抽卡保底计算器，输入抽数算出金概率与期望抽数，覆盖 Clover RPG、怪物猎人 Outlanders、碧蓝普罗米亚、Epic Seven 等游戏
+
 #### borong.zheng - [Github](https://github.com/borongzheng-sketch)
 * :white_check_mark: [AMAN Machine](https://www.amanmachine.com/)：发一张瓶样或图纸，就能询价吹瓶机和模具——瓶盖、化妆品罐、瓶子、PET 瓶坯的模具，可配我们的机器或你现有的机器；英文站，2007 年起服务 100 多个国家
 * :white_check_mark: [Aman Machinery](https://www.amanmachinery.com/)：发一份图纸或零件，就能询价组装机和包装自动化设备——瓶盖、泵头、化妆品包装、医疗件、笔和电器件的装配线；英文站
@@ -73,11 +77,6 @@
 
 #### Ollivander23 - [Github](https://github.com/ollivander23),[博客](https://blog.csdn.net/2301_76996311)
 * :white_check_mark: [CBZ Reader](https://cbzreader.mavi.help/)：免费在线CBZ漫画阅读器，打开网页就能看书、也能把 CBZ 转成 PDF；无需注册，文件只在本地处理，访问一次后缓存页可离线阅读和转换格式
-
-#### 张文健(东莞) - [Github](https://github.com/wenjianzhang70-dot)
-
-* :white_check_mark: [PhotoSway](https://photosway.com/)：AI 照片变视频工具站，上传一张宠物照片，套用 Car Alarm、OIIA 猫等爆款跳舞模板做成短视频，附 15 篇分步教程；生成功能正在等候名单中
-* :white_check_mark: [Reroll Odds](https://rerollodds.com/)：抽卡保底计算器，输入抽数算出金概率与期望抽数，覆盖 Clover RPG、怪物猎人 Outlanders、碧蓝普罗米亚、Epic Seven 等游戏
 
 ### 2026 年 11 月 11 号添加
 
