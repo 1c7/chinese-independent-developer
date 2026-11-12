@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [欧八面试陪练](https://interview.redboook.cn/)：中文语音与文字 AI 面试陪练网站，结合目标岗位 JD 与个人真实经历，先练 1–2 分钟自我介绍，再用三道经历题进行连环追问、原话引用五维点评与初答重答对比；内置 AI 产品、后端研发、数据分析等岗位练习库，平台免费且 MIT 开源，需自备百炼 API Key - [开源代码](https://github.com/ouxxyy/ai-interviewer)
+
 #### Vision(广州) - [Github](https://github.com/binbin7418-dotcom)
 * :white_check_mark: [PitchReel](https://pitchreel.newkwlab.com)：把文字简历变成竖版口播视频简历，带讲解和字幕，投递前还能先做一次 AI 就绪度评分
 * :white_check_mark: [EmailCheck](https://email.newkwlab.com/)：批量筛查邮箱名单里的无效地址，发信前先把会退信的挑出来，免费单查
