@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### borong.zheng - [Github](https://github.com/borongzheng-sketch)
+* :white_check_mark: [AMAN Machine](https://www.amanmachine.com/)：发一张瓶样或图纸，就能询价吹瓶机和模具——瓶盖、化妆品罐、瓶子、PET 瓶坯的模具，可配我们的机器或你现有的机器；英文站，2007 年起服务 100 多个国家
+* :white_check_mark: [Aman Machinery](https://www.amanmachinery.com/)：发一份图纸或零件，就能询价组装机和包装自动化设备——瓶盖、泵头、化妆品包装、医疗件、笔和电器件的装配线；英文站
+* :white_check_mark: [AMAN 灌装包装机](https://amanfilling.com/)：选灌装机、旋盖机、贴标机、包装机的英文站，从台式单机到整条线，按你的产品和产量询价
+* :white_check_mark: [Aman Pack](https://www.aman-pack.com/)：化妆品包装英文站，瓶盖、泵头、瓶子，可选标准款、按你的颜色加 Logo，或按你的设计做
+* :white_check_mark: [CNCMAN](https://www.cncman.net/)：首饰戒指雕刻机 AM30、光纤激光打标机、CO2 激光切割机和数控雕刻机的英文站，面向店铺和小工坊，发需求即可询价
+
 #### Livis
 * :white_check_mark: [套餐雷达](https://taocanleida.com/)：国产 AI 编程 / Agent 订阅套餐对照站，汇总各档价格、额度和库存状态，每条尽量附官方来源和核对日期，免费查阅
 
