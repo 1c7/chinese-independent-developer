@@ -38,6 +38,9 @@
 
 ### 2026 年 11 月 11 号添加
 
+#### Yumin Gui(旧金山湾区) - [Github](https://github.com/guiyumin)
+* :white_check_mark: [FinchGram](https://www.finchgram.com)：开源的 macOS Telegram 第三方客户端，Rust + Slint 编写，支持多账号与 MCP（AI 工具接入） - [开源代码](https://github.com/FinchGram/FinchGram)
+
 #### 王光明 - [GitHub](https://github.com/no1guangming)
 * :white_check_mark: [MingList](https://minglist.top)：纯 Serverless 架构的出海隐私分类信息平台。用 Cloudflare 边缘节点实现了双向匿名邮件中继，主打海外 24 城本地交易，防爬虫、不暴露真实邮箱
 
