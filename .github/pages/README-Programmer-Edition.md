@@ -18,6 +18,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 12 号添加
 
+#### Skillπ - [GitHub](https://github.com/Findskills)
+* :white_check_mark: [Skillπ](https://skillpi.com)：给 AI 助手找技能的市场，按任务搜索，作者授权的技能复制一条命令就能装到 Claude Code、Codex 或 Cursor 上，中英双语，免费浏览
+
+#### kejike - [Github](https://github.com/1528960014)
+* :white_check_mark: [Kejike API中转站](https://www.kejike.top)：AI API 中转服务，OpenAI 兼容接口调用 GPT、Claude、Gemini、DeepSeek、Grok、Kimi、GLM 七类模型，提供 Codex 接入文档与控制台用量账单
+
 #### 欧八同学 - [GitHub](https://github.com/ouxxyy)
 * :white_check_mark: [jd-resume-match](https://github.com/ouxxyy/jd-resume-match)：中文简历与 JD 可复算匹配体检工具及本地 MCP Server，对照目标岗位 JD 逐条绑定简历原文行号（L1..Ln）核查证据缺口，通过确定性 Python 公式复算匹配分并导出单文件 HTML 体检报告，零网络上传、MIT 开源 - [30 秒职业战力与简历体检页](https://ouxxyy.github.io/ouba-classmate/#career-radar)
 * :white_check_mark: [job-search](https://github.com/ouxxyy/job-search)：跨平台招聘筛选 Agent Skill，按确认条件检索 BOSS直聘、猎聘、脉脉、智联招聘、前程无忧 5 大平台，去重清洗后生成带原始链接与筛选依据的 HTML、Excel 和 JSON 投递短名单，MIT 开源

@@ -26,6 +26,15 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### Livis
+* :white_check_mark: [套餐雷达](https://taocanleida.com/)：国产 AI 编程 / Agent 订阅套餐对照站，汇总各档价格、额度和库存状态，每条尽量附官方来源和核对日期，免费查阅
+
+#### Square Face Studio - [博客](https://www.squarefaceicongenerator.app/blog)
+* :white_check_mark: [Square Face Generator](https://www.squarefaceicongenerator.app/)：九个免费头像小工具放在一个网站里：方块脸、椭圆脸、8-bit 像素图标、全身像素小人、像素猫、Q 版角色，还能打印成纸方块，每个部件都能换色，存 PNG 无水印，不用注册
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Digital Love Letters](https://digiloveletter.com/)：数字情书服务（免费），选九种模板之一，写下心意密封后发送私密链接，收件人轻触封印即可展开阅读，无需注册
+
 #### Yumin Gui(旧金山湾区) - [Github](https://github.com/guiyumin)
 * :white_check_mark: [FinchGram](https://www.finchgram.com)：开源的 macOS Telegram 第三方客户端，Rust + Slint 编写，支持多账号与 MCP（AI 工具接入） - [开源代码](https://github.com/FinchGram/FinchGram)
 
