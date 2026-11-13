@@ -26,9 +26,13 @@
 
 ### 2026 年 11 月 12 号添加
 
+#### aiyo407(广州)
+* :white_check_mark: [SeekPhoto](https://www.seekphoto.cn)：Windows 本地 AI 搜图工具，用一句中文描述（如「海滩日落」「孩子笑脸」）就能在几万张照片里找到那张，还能以图搜图、搜照片上的文字；照片和 AI 都在自己电脑上跑、不上传云端，直接在原有文件夹建索引，免费版永久可用，Pro 一次性买断
+
 #### 阿東 - [GitHub](https://github.com/antonailog)
 * :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报
 
+>>>>>>> origin/master
 #### frank(上海) - [Github](https://github.com/fxxqq)
 * :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
 
