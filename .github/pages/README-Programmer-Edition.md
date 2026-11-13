@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 12 号添加
 
+#### 阿東 - [GitHub](https://github.com/antonailog)
+* :white_check_mark: [skills](https://github.com/antonailog/skills)：Claude Code / Codex 用的 Agent Skill 合集，做调研报告、播客笔记、公众号和小红书稿、生图 prompt 和新 Skill，每个附一个真实跑过的例子
+
 #### Skillπ - [GitHub](https://github.com/Findskills)
 * :white_check_mark: [Skillπ](https://skillpi.com)：给 AI 助手找技能的市场，按任务搜索，作者授权的技能复制一条命令就能装到 Claude Code、Codex 或 Cursor 上，中英双语，免费浏览
 
