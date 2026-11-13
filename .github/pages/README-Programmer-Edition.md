@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 13 号添加
 
+#### bebincas - [Github](https://github.com/bebincas)
+* :white_check_mark: [Github加速器](https://github.com/bebincas/IPOptimize)：免费开源 Windows 本地工具，通过优选 IP 来加速 GitHub 和 Cloudflare CDN 网站（非 VPN）
+
 #### 阿東 - [GitHub](https://github.com/antonailog)
 * :white_check_mark: [skills](https://github.com/antonailog/skills)：Claude Code / Codex 用的 Agent Skill 合集，做调研报告、播客笔记、公众号和小红书稿、生图 prompt 和新 Skill，每个附一个真实跑过的例子
 
