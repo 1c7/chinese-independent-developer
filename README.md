@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### Yoking Chan(广州)
+* :white_check_mark: [Tunenoodle](https://tunenoodle.com)：AI 音乐生成网站，写一句描述、填歌词或哼一段旋律就能生成歌曲，另有 30+ 个免注册的浏览器音频工具（音频转 MIDI、BPM 测速、和弦分析）
+
 #### Kan - [Github](https://github.com/kanlac)
 * :white_check_mark: [Tutti](https://tutti-studio.com)：乐谱 PDF 转 MusicXML 工具，直接读取 Sibelius 等打谱软件导出 PDF 里的音符数据，而不是靠图像识别，转完可在 MuseScore、Dorico、Sibelius 里继续编辑，每周 5 页免费
 
