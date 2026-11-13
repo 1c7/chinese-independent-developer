@@ -16,10 +16,15 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
-### 2026 年 11 月 12 号添加
+### 2026 年 11 月 13 号添加
 
 #### 阿東 - [GitHub](https://github.com/antonailog)
 * :white_check_mark: [skills](https://github.com/antonailog/skills)：Claude Code / Codex 用的 Agent Skill 合集，做调研报告、播客笔记、公众号和小红书稿、生图 prompt 和新 Skill，每个附一个真实跑过的例子
+
+#### 卡站 KAZHAN
+* :white_check_mark: [卡站 AI 会员选购助手](https://kazhan.store/choose?utm_source=github_chinese_independent_developer&utm_campaign=launch_20261113)：AI 会员选购与比价网站，按平台和预算筛选套餐，支持最多 3 件商家报价同屏对比，选购比价免费且无需注册
+
+### 2026 年 11 月 12 号添加
 
 #### Skillπ - [GitHub](https://github.com/Findskills)
 * :white_check_mark: [Skillπ](https://skillpi.com)：给 AI 助手找技能的市场，按任务搜索，作者授权的技能复制一条命令就能装到 Claude Code、Codex 或 Cursor 上，中英双语，免费浏览

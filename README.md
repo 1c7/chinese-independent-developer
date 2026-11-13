@@ -24,7 +24,7 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 12 号添加
+### 2026 年 11 月 13 号添加
 
 #### AutoResearch
 * :white_check_mark: [免费科研计划工具](https://autoresearch.me/zh/research-plan/)：无需注册，在浏览器里整理并下载科研实验计划；训练前明确研究问题、数据划分、对比基线、评估指标与所需证据。该工具不执行实验、不自动保存。完整 AutoResearch 系统（https://autoresearch.me）目前为需管理员审批的内测，与本工具不是同一回事。
@@ -35,8 +35,17 @@
 #### 阿東 - [GitHub](https://github.com/antonailog)
 * :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报
 
->>>>>>> origin/master
->>>>>>> origin/master
+#### gessov 的开发者
+* :white_check_mark: [gessov](https://apps.apple.com/cn/app/id6815108797)：英英词汇 iPhone app，先读英文例句理解语境，再看全英文解释，不给中文释义；无需注册，进度只存在手机上 - [更多介绍](https://gessov.com)
+
+#### lhq1363511234 - [Github](https://github.com/lhq1363511234)
+* :white_check_mark: [inspace](https://opctoai.com/inspace)：地点攻略与故事网站，按地点查阅内容，并用一个空间链接分享攻略和记录 - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)
+
+#### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.hashnode.dev/)
+* :white_check_mark: [AI Photo Editor](https://getaiphotoeditor.com/)：免费在线 AI 图片编辑器，无需注册
+
+### 2026 年 11 月 12 号添加
+
 #### frank(上海) - [Github](https://github.com/fxxqq)
 * :white_check_mark: [造梦橱窗](https://zm94.com/)：独立开发者作品收录榜，免费投稿网站、小程序、软件，按每周数据打分选出精选作品上榜展示
 
