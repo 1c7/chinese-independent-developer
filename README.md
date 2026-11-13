@@ -26,6 +26,15 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### leontloveless - [GitHub](https://github.com/leontloveless)
+* :white_check_mark: [ShortDramaKit](https://shortdramakit.com)：短剧片单工具，在 Chrome 侧边栏保存剧目链接、标签和备注，支持 CSV 导出与 JSON 备份。本地片单免费、无需注册；受支持的联网采集和下载按任务消耗积分
+
+#### 315fang - [Github](https://github.com/315fang)
+* :white_check_mark: [雅思爱我](https://yasilove.me)：雅思和四六级背单词网站，一屏只放一个词：英美音标、中文核心义、一句记忆钩子和雅思语境例句；每天按计划学新词，到期自动复习，答错的词进错词本；另有名人演讲逐句精听，字幕里的生词点一下就能查。打开即用，登录同一邮箱可多端同步
+
+#### Joelpillar1 - [GitHub](https://github.com/Joelpillar1)
+* :white_check_mark: [TopSAAS](https://topsaas.space/)：SaaS 产品与 AI 工具导航目录，支持免费提交产品，可按 AI、效率、营销、设计等分类浏览、对比和发现热门新品
+
 #### Yoking Chan(广州)
 * :white_check_mark: [Tunenoodle](https://tunenoodle.com)：AI 音乐生成网站，写一句描述、填歌词或哼一段旋律就能生成歌曲，另有 30+ 个免注册的浏览器音频工具（音频转 MIDI、BPM 测速、和弦分析）
 

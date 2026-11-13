@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 13 号添加
 
+#### Junexus - [GitHub](https://github.com/shadowDragons)
+* :clock8: [vsux](https://vsux.sphrag.com/)：原生 Mac 轻量编辑器，按项目组织分屏终端、文件、Git 变更、常用命令与后台服务；免费、MIT 开源，支持中英文，需要 macOS 14+ 与 Apple Silicon，目前为 v0.1.2 预发布版 - [源码与下载](https://github.com/shadowDragons/vsux)
+
 #### bebincas - [Github](https://github.com/bebincas)
 * :white_check_mark: [Github加速器](https://github.com/bebincas/IPOptimize)：免费开源 Windows 本地工具，通过优选 IP 来加速 GitHub 和 Cloudflare CDN 网站（非 VPN）
 

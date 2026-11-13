@@ -3,6 +3,9 @@
 本版面放的都是游戏，起始于2025年1月4号
 
 ### 2026 年 11 月 13 号添加
+#### omogglegame.com 团队
+* :white_check_mark: [Omoggle Game](https://omogglegame.com/)：浏览器 1v1 "mog battle" 镜头对战游戏，先做一次端侧 PSL 面部评分（对称、协调、下颌、皮肤、眼角倾斜，模型在浏览器本地运行、画面不上传），再随机匹配陌生人进行 15 秒开镜头对决，观众投票定胜负并计入 ELO 天梯；基础对战、私人房间和天梯免费且无需注册，可选 VIP（$4.99/月或 $12.99 买断）提供优先队列和性别/地区筛选；实时视频匹配仅限 18 岁以上
+
 #### 芽朵软件 - [Github](https://github.com/tiyinet)
 * :white_check_mark: [萌宠出征](https://www.mcleyuan.com/cz/index.html)：Windows 桌面宠物割草游戏，养 16 种猫狗鸟龟躲虫群打 40 关，通关 5 关宠物住进桌面，全程离线免费无广告
 
