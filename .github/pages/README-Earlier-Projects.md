@@ -6,6 +6,33 @@
 
 ---
 
+### 2025 年 8 月 12 号添加
+#### jammy24 - [Github](https://github.com/chenminjie24)
+* :white_check_mark: [PromptArk](https://promptark.net/)：帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词
+
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [LLM from URL](https://818233.xyz/)：通过网址直接使用大模型，完全免费，只需把提问放在 [818233.xyz](https://818233.xyz/) 之后作为新的网址即可获得大模型的回答，支持中文，也支持从 Linux/Mac 终端通过 wget 调用
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [TweetCloner](https://tweetcloner.com/)：为使用 X/Twitter 设计的创意工具。克隆任何推文创意，翻译或再创作，将其改造成你自己的全新原创内容，再发布到 X/Twitter
+
+#### heyjude(上海）- [Github](https://github.com/heyjude1817)
+* :white_check_mark: [MP3TO](https://www.mp3to.cc): mp3 格式转换工具网站
+* :white_check_mark: [MP4TO](https://www.mp4to.cc): mp4 格式转换工具网站
+
+### 2025 年 8 月 8 号添加
+#### lio(广东) - [Github](https://github.com/31702160136/ComfyUI-GrsAI)
+* :white_check_mark: [GrsAi](https://grsai.com/)：GrsAI 国外主流 AI 模型 API 平台。提供价格便宜（全网最低价）稳定的 GPT-4o、Gemini、Flux 和 Veo3 AI API，GPT-4o 图像生成仅需 0.02 一张图
+
+#### Leochens(北京)
+* :white_check_mark: [状态栏小本本 (macOS)](https://apps.apple.com/us/app/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B0%8F%E6%9C%AC%E6%9C%AC/id6749236800)：可以在状态栏调起的小本本，查看备忘或者速记灵感，不需要回到主页面，在任何屏幕上方都可以直接调起。支持富文本编辑、快捷键调出。
+
+#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [WebsiteScreenshot.online](https://websitescreenshot.online/)：免费在线网站截图工具。支持 PNG、JPEG、PDF 格式，支持自定义分辨率，支持移动端和桌面端视图。无需注册，立即使用！ - [更多介绍](https://websitescreenshot.online/zh-CN#features)
+
+#### monoonw(杭州)
+* :white_check_mark: [Discord Timestamp Generator](https://discordtimestampgenerator.net)：简化了在 Disord 中创建特殊格式信息的过程，这些信息会以每个查看者的当地时区显示日期和时间，从而使跨时区的活动协调变得更加容易。
+
 ### 2025 年 8 月 4 号添加
 #### 何夕2077 (武汉)- [GIthub](https://github.com/justlovemaki), [小宇宙](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)
 * :white_check_mark: [AI资讯日报](https://ai.hubtoday.app/)：每日精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成 - [后端项目](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) 与 [配套前端项目](https://github.com/justlovemaki/Hextra-AI-Insight-Daily)。
