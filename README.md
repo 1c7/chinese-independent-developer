@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### Kan - [Github](https://github.com/kanlac)
+* :white_check_mark: [Tutti](https://tutti-studio.com)：乐谱 PDF 转 MusicXML 工具，直接读取 Sibelius 等打谱软件导出 PDF 里的音符数据，而不是靠图像识别，转完可在 MuseScore、Dorico、Sibelius 里继续编辑，每周 5 页免费
+
 #### AutoResearch
 * :white_check_mark: [AutoResearch](https://autoresearch.me/zh/)：浏览器端 AI 科研系统，将文献探索、科研想法、模型实现、GPU 实验与论文写作连在同一流程。完整系统目前为内测：需在官网提交申请，经管理员审核通过后，按邮件引导设置密码并登录；获批成员获赠 5,000 初始 credits。官方说明内测期间免费，但这是有限额度，不是无限免费；后续方案已在价格页预览，具体价格尚未公布
 
