@@ -27,7 +27,7 @@
 ### 2026 年 11 月 13 号添加
 
 #### AutoResearch
-* :white_check_mark: [免费科研计划工具](https://autoresearch.me/zh/research-plan/)：无需注册，在浏览器里整理并下载科研实验计划；训练前明确研究问题、数据划分、对比基线、评估指标与所需证据
+* :white_check_mark: [AutoResearch](https://autoresearch.me/zh/)：浏览器端 AI 科研系统，将文献探索、科研想法、模型实现、GPU 实验与论文写作连在同一流程。完整系统目前为内测：需在官网提交申请，经管理员审核通过后，按邮件引导设置密码并登录；获批成员获赠 5,000 初始 credits。官方说明内测期间免费，但这是有限额度，不是无限免费；后续方案已在价格页预览，具体价格尚未公布
 
 #### aiyo407(广州)
 * :white_check_mark: [SeekPhoto](https://www.seekphoto.cn)：Windows 本地 AI 搜图工具，用一句中文描述（如「海滩日落」「孩子笑脸」）就能在几万张照片里找到那张，还能以图搜图、搜照片上的文字；照片和 AI 都在自己电脑上跑、不上传云端，直接在原有文件夹建索引，免费版永久可用，Pro 一次性买断
