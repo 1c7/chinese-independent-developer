@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 14 号添加
+
+#### BukeLy - [Github](https://github.com/BukeLy)
+* :white_check_mark: [WordLinea](https://wordlinea.com/zh)：看剧学外语的浏览器插件（Chrome、Edge、Safari），YouTube、Netflix、B 站字幕译成两行，点字幕里的生词按这句台词给释义，词连同台词和播放到的那一秒存进词库，到期出一道题复习；所有功能免费账号都能用 - [更多介绍](https://wordlinea.com/zh/subtitles)
+
 ### 2026 年 11 月 13 号添加
 
 #### leontloveless - [GitHub](https://github.com/leontloveless)
