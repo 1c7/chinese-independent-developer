@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 14 号添加
 
+#### QThans - [Github](https://github.com/QThans)
+* :white_check_mark: [SourceWeft](https://sourceweft.com/zh-CN)：开源 AI 工作站，多智能体、技能库、MCP 和带引用的知识库放在一起，可自托管并使用自己的模型 Key，提供 Web 端与 macOS/Windows/Linux 桌面端 - [更多介绍](https://github.com/SourceWeft/SourceWeft)
+
 #### 王文 - [Github](https://github.com/Conn-Ho)
 * :white_check_mark: [okdata](https://okdata.online/zh/)：给 AI 智能体和开发者用的社媒数据 API 和 MCP，覆盖抖音、小红书、公众号、视频号、B站、微博、快手、TikTok、X、YouTube 等 17 个平台约 200 个接口；按次付费，失败不扣费，新账号送 0.1 美元试用额度 - [源码与 SDK](https://github.com/okdataapi/okdata)
 
