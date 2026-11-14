@@ -26,6 +26,18 @@
 
 ### 2026 年 11 月 14 号添加
 
+#### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
+* :white_check_mark: [灵犀 Lyncis](https://lyncis.app)：国学版 MBTI，输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，还能拉朋友合一卦，看你们是什么组合；不算命、不断吉凶，每一句都有古籍出处，支持中英文，网页直接用
+
+#### 数字生命卡兹克 - [Github](https://github.com/KKKKhazix)
+* :white_check_mark: [AIHOT](https://aihot.news/)：中文 AI 资讯网站，把模型发布、新产品、研究和行业动态整理成精选与日、周、月报，每条保留原文链接，也可以按主题跟踪进展。打开即读，无需注册
+
+#### CrabMen - [GitHub](https://github.com/CrabMen)
+* :white_check_mark: [農民曆](https://nongminli.tw/)：面向台湾的农历、宜忌与国定假日查询网站，附资料来源；提供免费的假日行事历订阅，目前包含 2026、2027 年，无需注册即可使用 - [订阅教学](https://github.com/CrabMen/nongminli.tw/blob/main/docs/calendar-subscription.md)
+
+#### Alwzc - [GitHub](https://github.com/Alwzc)
+* :white_check_mark: [光梦 AlphaDrama](https://www.getalphadrama.com/)：AI 短剧漫剧与带货视频工作台，把网文小说或商品图一键改写成 60 秒 9:16 竖屏剧本、生成角色正侧背三视图锁脸、拆解 12–18 镜分镜表，接 Seedance / 可灵 / 海螺 / Wan / Veo 批量生视频并配音压字幕导出成片；也支持粘贴爆款短视频链接按镜拆解复刻。新注册送免费体验额度 - [国内直连](https://ad.yosweet.cn/)
+
 #### jayyaj642111-bit - [GitHub](https://github.com/jayyaj642111-bit)
 * :white_check_mark: [PixBloom](https://pixbloom.org)：上传一张商品实拍，一次出齐白底主图、使用场景图、材质细节图和多角度图（电商套图）；也能一句话生成小红书封面、春节海报、头像和壁纸。按张消耗积分（每张 10 积分），首单 ¥9.9 可生成 4 张，生成失败自动退回积分
 
