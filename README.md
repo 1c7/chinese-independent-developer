@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### 王天如（北京） - [Github](https://github.com/korey2028-prog), [博客](https://korey2028.tech)
+* :white_check_mark: [Fitness OS](https://korey2028.tech/fitness/app/?demo=1&lang=zh)：私教工作台，把会员训练、到课和跟进记在同一页，免登录即可打开演示；源自亲自服务 40+ 名健身会员的案例，不是对外售卖的 SaaS - [更多介绍](https://korey2028.tech/work/fitness-os.html)
+
 #### leontloveless - [GitHub](https://github.com/leontloveless)
 * :white_check_mark: [ShortDramaKit](https://shortdramakit.com)：短剧片单工具，在 Chrome 侧边栏保存剧目链接、标签和备注，支持 CSV 导出与 JSON 备份。本地片单免费、无需注册；受支持的联网采集和下载按任务消耗积分
 
