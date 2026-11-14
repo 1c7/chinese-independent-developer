@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 14 号添加
 
+#### QThans - [Github](https://github.com/QThans)
+* :white_check_mark: [SourceWeft](https://sourceweft.com/zh-CN)：开源 AI 工作站，多智能体、技能库、MCP 和带引用的知识库放在一起，可自托管并使用自己的模型 Key，提供 Web 端与 macOS/Windows/Linux 桌面端 - [更多介绍](https://github.com/SourceWeft/SourceWeft)
+
 #### jayyaj642111-bit - [GitHub](https://github.com/jayyaj642111-bit)
 * :white_check_mark: [PixBloom](https://pixbloom.org)：上传一张商品实拍，一次出齐白底主图、使用场景图、材质细节图和多角度图（电商套图）；也能一句话生成小红书封面、春节海报、头像和壁纸。按张消耗积分（每张 10 积分），首单 ¥9.9 可生成 4 张，生成失败自动退回积分
 
