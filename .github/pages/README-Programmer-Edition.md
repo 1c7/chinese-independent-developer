@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 14 号添加
+
+#### 王文 - [Github](https://github.com/Conn-Ho)
+* :white_check_mark: [okdata](https://okdata.online/zh/)：给 AI 智能体和开发者用的社媒数据 API 和 MCP，覆盖抖音、小红书、公众号、视频号、B站、微博、快手、TikTok、X、YouTube 等 17 个平台约 200 个接口；按次付费，失败不扣费，新账号送 0.1 美元试用额度 - [源码与 SDK](https://github.com/okdataapi/okdata)
+
 ### 2026 年 11 月 13 号添加
 
 #### Junexus - [GitHub](https://github.com/shadowDragons)
