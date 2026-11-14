@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 14 号添加
+#### liuzhen264 - [GitHub](https://github.com/liuzhen264)
+* :white_check_mark: [ROB RUN Wiki](https://www.robrun-game.com/)：面向《ROB RUN》玩家的免费攻略站，可以查新手入门步骤、遇到好友不在同一服务器时如何组队，以及服务器重置可能影响哪些进度。主要攻略有简体中文、繁体中文和英文版本
+
 ### 2026 年 11 月 13 号添加
 #### omogglegame.com 团队
 * :white_check_mark: [Omoggle Game](https://omogglegame.com/)：浏览器 1v1 "mog battle" 镜头对战游戏，先做一次端侧 PSL 面部评分（对称、协调、下颌、皮肤、眼角倾斜，模型在浏览器本地运行、画面不上传），再随机匹配陌生人进行 15 秒开镜头对决，观众投票定胜负并计入 ELO 天梯；基础对战、私人房间和天梯免费且无需注册，可选 VIP（$4.99/月或 $12.99 买断）提供优先队列和性别/地区筛选；实时视频匹配仅限 18 岁以上
