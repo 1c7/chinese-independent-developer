@@ -24,12 +24,18 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 14 号添加
+
+#### BukeLy - [Github](https://github.com/BukeLy)
+* :white_check_mark: [WordLinea](https://wordlinea.com/zh)：看剧学外语的浏览器插件（Chrome、Edge、Safari），YouTube、Netflix、B 站字幕译成两行，点字幕里的生词按这句台词给释义，词连同台词和播放到的那一秒存进词库，到期出一道题复习；所有功能免费账号都能用 - [更多介绍](https://wordlinea.com/zh/subtitles)
+
 ### 2026 年 11 月 13 号添加
 
-#### Ollivander23 - [Github](https://github.com/ollivander23),[博客](https://blog.csdn.net/2301_76996311)
+#### 王天如（北京） - [Github](https://github.com/korey2028-prog), [博客](https://korey2028.tech)
+* :white_check_mark: [Fitness OS](https://korey2028.tech/fitness/app/?demo=1&lang=zh)：私教工作台，把会员训练、到课和跟进记在同一页，免登录即可打开演示；源自亲自服务 40+ 名健身会员的案例，不是对外售卖的 SaaS - [更多介绍](https://korey2028.tech/work/fitness-os.html)
+
+#### Ollivander23 - [Github](https://github.com/ollivander23), [博客](https://blog.csdn.net/2301_76996311)
 * :white_check_mark: [热力地图工坊](https://heatmap.mavi.help/)：小而美的Excel数据地图工坊，一键生成可下钻，可联动柱状图的动态地图。地图覆盖全国 34 个省级行政区、388 个地级市、2897 个县级行政区。支持"全国+区县级"、"xx省+区县级"组合，任意粒度任意层级，想看多细的划分，由你决定！
-
-### 2026 年 11 月 13 号添加
 
 #### leontloveless - [GitHub](https://github.com/leontloveless)
 * :white_check_mark: [ShortDramaKit](https://shortdramakit.com)：短剧片单工具，在 Chrome 侧边栏保存剧目链接、标签和备注，支持 CSV 导出与 JSON 备份。本地片单免费、无需注册；受支持的联网采集和下载按任务消耗积分
