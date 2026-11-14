@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### Aster110 - [GitHub](https://github.com/Aster110)
+* :white_check_mark: [Secret Santa Generator](https://secretsantagenerator.xyz/)：圣诞交换礼物（Secret Santa）在线抽签工具，3 到 200 人，可设排除名单（情侣、同住不互抽）和礼物预算，每人一个私密链接或打印纸条；免费、无需注册、不收邮箱
+
 #### leontloveless - [GitHub](https://github.com/leontloveless)
 * :white_check_mark: [ShortDramaKit](https://shortdramakit.com)：短剧片单工具，在 Chrome 侧边栏保存剧目链接、标签和备注，支持 CSV 导出与 JSON 备份。本地片单免费、无需注册；受支持的联网采集和下载按任务消耗积分
 
