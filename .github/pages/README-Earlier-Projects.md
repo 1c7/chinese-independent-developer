@@ -6,6 +6,57 @@
 
 ---
 
+### 2025 年 8 月 21 号添加
+#### kajian(广州)
+* :white_check_mark: [codebox-有趣的二维码平台](https://www.codebox.club)：超萌的免费二维码生成器，每一个二维码都有故事
+
+#### 林悦己(杭州) 
+* :white_check_mark: [Chat Recap AI](https://chatrecap.io)：揭示你對話中隱藏的模式、情緒與紅旗，讓你真正理解你的關係
+
+#### BOS1980
+* :white_check_mark: [Soulmate Sketch｜AI 灵魂伴侣素描（占星画像生成）](https://soulmatedrawing.live)：用 AI + 占星，为你生成专属的黑白手绘风格“灵魂伴侣画像”；10–20 秒极速呈现，多语言网站，移动端友好
+
+#### nogeek (杭州)
+* :white_check_mark: [初创公司到初创公司](https://startuptostartup.com)：发布站 & 目录站（免费）
+
+#### Lingglee - [Github](https://github.com/lingglee)
+* :white_check_mark: [Avif2Png](https://avif2png.com/)：Avif 转 PNG 工具站
+
+#### Honwhy Wang - [Github](https://github.com/honwhy)
+* :white_check_mark: [公众号阅读增强器](https://wxreader.honwhy.wang/)：让微信公众号阅读体验更舒适，自动生成文章目录，优化图片查看，让阅读长文不再迷失，提升浏览体验 - [更多介绍](https://github.com/honwhy/WeChatReaderEnhancer)
+
+### 2025 年 8 月 19 号添加
+#### Panda (深圳)
+* :white_check_mark: [薪资跳动](https://money-dance.com/)：记录工作和摸鱼的微信小程序，可以实时显示当天收入和进度，可以记录和统计摸鱼多少分钟赚了多少钱，还有各种维度的数据统计和可视化。
+
+#### tanchaowen84（深圳） - [Github](https://github.com/tanchaowen84)
+* :white_check_mark:  [Voice Clone - AI 驱动的语音克隆平台](https://voice-clone.org)：用户只需录制或上传一段音频，系统便能在几秒内生成一个属于用户自己的声音模型。支持任意文本的语音生成，听起来自然流畅，几乎接近真人语音。整个流程无需复杂设备，也不需要技术背景，真正实现“用几句话训练出自己的声音” - [GitHub 仓库](https://github.com/tanchaowen84/voice-clone)
+
+### 2025 年 8 月 17 号添加
+#### xibobo(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [CelebShout](https://www.celebshout.online/zh)：AI 生成明星语音为你街头吆喝带货
+
+#### ftp2010字(北京) - [Github](https://github.com/ftp2010)
+* :white_check_mark: [mypassrecovery](https://www.mypassrecovery.com)：如果您的 word、pdf、rar 等文档的密码忘记了，这个网站可以帮你找回
+
+### 2025 年 8 月 15 号添加
+#### Selenium39(广州) - [Github](http://github.com/Selenium39)
+* :white_check_mark: [原牛](https://mihoyonb.com)：自媒体工具平台
+
+#### BHznJNs
+* :white_check_mark: [狸语字幕助手](https://apps.microsoft.com/store/detail/9PFLDTV29JFV?cid=DevShareMCLPCS)：让你不开麦也能在直播时“开口”互动的小工具
+
+#### fzero17
+* :white_check_mark: [AA小助手](https://apps.apple.com/app/6749556847)：AA 小助手，一键算清谁该付多少，轻松告别手动算错。
+
+### 2025 年 8 月 14 号添加
+#### 出逃向量(杭州)
+* :white_check_mark: [微信小程序-途搭](https://github.com/user-attachments/assets/2437a6c4-b21b-4f00-a7a3-cc8b245106ae)：徒步者的装备搭配系统，可以查看想去路线他人的搭配和热门装备
+
+### 2025 年 8 月 13 号添加
+#### Ethan Sunray
+* :white_check_mark: [Wplace Tool](https://wplacetool.com)：基于浏览器的工具集，帮助 wplace.live 玩家设计像素艺术、匹配官方调色板颜色、监控服务器状态，并协调团队构建
+
 ### 2025 年 8 月 12 号添加
 #### jammy24 - [Github](https://github.com/chenminjie24)
 * :white_check_mark: [PromptArk](https://promptark.net/)：帮助用户优化提示词，用户输入简单的提示词，AI 辅助生成更结构化，更详细的提示词
