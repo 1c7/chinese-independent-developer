@@ -31,6 +31,9 @@
 
 ### 2026 年 11 月 13 号添加
 
+#### Aster110 - [GitHub](https://github.com/Aster110)
+* :white_check_mark: [Secret Santa Generator](https://secretsantagenerator.xyz/)：圣诞交换礼物（Secret Santa）在线抽签工具，3 到 200 人，可设排除名单（情侣、同住不互抽）和礼物预算，每人一个私密链接或打印纸条；免费、无需注册、不收邮箱
+
 #### 王天如（北京） - [Github](https://github.com/korey2028-prog), [博客](https://korey2028.tech)
 * :white_check_mark: [Fitness OS](https://korey2028.tech/fitness/app/?demo=1&lang=zh)：私教工作台，把会员训练、到课和跟进记在同一页，免登录即可打开演示；源自亲自服务 40+ 名健身会员的案例，不是对外售卖的 SaaS - [更多介绍](https://korey2028.tech/work/fitness-os.html)
 
