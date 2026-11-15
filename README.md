@@ -27,6 +27,7 @@
 ### 2026 年 11 月 15 号添加
 
 #### lxyeternal - [GitHub](https://github.com/lxyeternal)
+* :white_check_mark: [漫迹](https://apps.apple.com/cn/app/id6827694426)：自动足迹记录 iPhone App，不用按开始，后台全天记下走过的路和到过的地方，还能从相册点亮以前去过的城市和国家；数据只存在自己的 iCloud，免费 - [开源仓库](https://github.com/lxyeternal/PathTracker)
 * :white_check_mark: [Trace](https://github.com/lxyeternal/Trace)：Mac 自动时间记录工具，免费开源，不用手动计时，自动记下每个应用、窗口、文件和网页用了多久，可按标签和项目查看一天的时间线和周报；数据只存在本机，支持中英文
 
 #### Quanneng BI - [GitHub](https://github.com/biquanneng)
