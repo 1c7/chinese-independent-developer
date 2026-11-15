@@ -2,6 +2,10 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 15 号添加
+#### 白日梦想家 Hi Daydream
+* :white_check_mark: [白日梦想家 Story](https://hidaydream.com/)：中文互动小说，选一本故事读开场，再用自己的话写下角色的行动或对白，由 AI 续写剧情，浏览器免注册可免费试玩两回合 - [直接试玩](https://hidaydream.com/demo) · [玩法介绍](https://hidaydream.com/story/about)
+
 ### 2026 年 11 月 14 号添加
 #### liuzhen264 - [GitHub](https://github.com/liuzhen264)
 * :white_check_mark: [ROB RUN Wiki](https://www.robrun-game.com/)：面向《ROB RUN》玩家的免费攻略站，可以查新手入门步骤、遇到好友不在同一服务器时如何组队，以及服务器重置可能影响哪些进度。主要攻略有简体中文、繁体中文和英文版本

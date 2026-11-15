@@ -6,6 +6,49 @@
 
 ---
 
+### 2025 年 9 月 1 号添加
+#### JR(深圳) 
+* :white_check_mark: [对话翻译器](https://www.talk-translator.com)：将你的耳机变成实时翻译器，支持双语实时语音自动翻译、AI对话问答你的翻译记录
+
+#### Carol(广州) - [Github](https://github.com/carolgryman-sudo)
+* :white_check_mark: [Nano Banana AI](https://nanobanana-ai.net)：基于市面上最强的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
+
+#### yiquan00 - [yiquan00](https://github.com/yiquan00)
+* :white_check_mark: [LaunchitX](https://launchitx.com)：新产品(创意)启动平台，适合新产品宣发
+
+#### noGeek（北京）
+* :white_check_mark: [DR checker](https://drchecker.net) ：免费/域名等级 Domain rating 检测工具
+
+### 2025 年 8 月 31 号添加
+#### FlickerMi - [Github](https://github.com/FlickerMi)
+* :white_check_mark: [Nano Banana](https://usenanobanana.com)：Nano Banana 使用谷歌最新AI技术，提供角色一致性保持、自然语言编辑、多图融合等强大功能。无论是人物换装、场景变换还是精准局部编辑，都能保持原有特征，让您的创意无限可能。
+
+#### laine001（杭州） - [Github](https://github.com/laine001)
+* :white_check_mark: [信息系统项目管理师重点总结itpm](https://www.itpmp.cc/)：信息系统项目管理师高项的知识总结与记录网站，持续更新，软考的部分朋友可用
+
+### 2025 年 8 月 29 号添加
+#### 疯狂的小波(武汉)
+* :white_check_mark: [Nano Banana AI 图像编辑器](https://picir.ai/)：基于最先进的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
+
+### 2025 年 8 月 28 号添加
+#### david_bai(武汉) - [Github](https://github.com/david-bai00/PrivyDrop), [博客](https://www.privydrop.app/blog)
+* :white_check_mark: [PrivyDrop](https://www.privydrop.app)：开源简单易用的 P2P 文本文件传输工具网页，支持传输任意大小的文件 - [更多介绍](https://www.privydrop.app/features)
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [Flower Drawing 花卉绘画](https://flowerdrawing.site/)：专注于花卉绘画的网站，有不同的花的种类可以选择，只要你用语言描述出样子，你可以画任何的花卉。
+* :white_check_mark: [Fish Drawing 鱼类绘画](https://fishdrawing.site/)：专注于画各种鱼的网站，你可以随心所欲画出任何你想画的鱼的图片。
+
+### 2025 年 8 月 27 号添加
+#### flingyp(上海) - [Github](https://github.com/flingyp)
+* :white_check_mark: [简链](https://www.cvlinkhub.online/)：打造个性化简历，赢得理想工作
+
+#### 小灰雀(北京)
+* :white_check_mark: [EzWebp](https://www.ezwebp.com/)：视频转动图（WebP/GIF）在线工具，本地执行，数据安全。
+
+### 2025 年 8 月 26 号添加
+#### Lizer(重庆) - [Github](https://github.com/Loverz55)
+* :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
+
 ### 2025 年 8 月 25 号添加
 #### 北纬27度
 * :white_check_mark: [ARR (Annual Recurring Revenue) （年度经常性收入）排行榜](https://arrfounder.com)：爬取了全网公开的 ARR 营收数据做的 founder ARR 榜单，会定期更新，感兴趣的朋友可以看看，说不定你也在这份榜单上面

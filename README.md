@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 15 号添加
 
+#### jimxu
+* :white_check_mark: [图小妥-证件照助手](https://photo.jimxu.cn/)：在线证件照制作工具，面向报名、入职等场景，支持自动抠图、构图和换底，可按要求调整像素、DPI与文件大小上限，提供一寸、二寸等常用规格及自定义尺寸，支持2×4、2×5打印排版；提供网页版和微信小程序，当前免费试用，无需额外注册 - [微信小程序码](https://photo.jimxu.cn/assets/wechat-miniapp-code.jpg)
+
+#### Waypernix AI - [GitHub](https://github.com/Waypernix-AI)
+* :white_check_mark: [LayerSeparator](https://layerseparator.com/)：将平面图片拆分为可供后续编辑的位图图层，支持导出分层 PSD 和 PNG ZIP
+
 #### lxyeternal - [GitHub](https://github.com/lxyeternal)
 * :white_check_mark: [漫迹](https://apps.apple.com/cn/app/id6827694426)：自动足迹记录 iPhone App，不用按开始，后台全天记下走过的路和到过的地方，还能从相册点亮以前去过的城市和国家；数据只存在自己的 iCloud，免费 - [开源仓库](https://github.com/lxyeternal/PathTracker)
 * :white_check_mark: [Trace](https://github.com/lxyeternal/Trace)：Mac 自动时间记录工具，免费开源，不用手动计时，自动记下每个应用、窗口、文件和网页用了多久，可按标签和项目查看一天的时间线和周报；数据只存在本机，支持中英文
@@ -5041,49 +5047,6 @@
 ### 2025 年 9 月 2 号添加
 #### Jay6343 - [Github](https://github.com/Jay6343)
 * :white_check_mark: [nanobanana.co](https://nanobanana.co/)：Nanobanana.co 是革命性的人工智能图像编辑平台，通过智能文本驱动编辑改变创意工作流程。无论您是数字艺术家，内容创作者还是营销专业人士，每次都可以零学习曲线和完美结果体验 AI 图像编辑的未来。
-
-### 2025 年 9 月 1 号添加
-#### JR(深圳) 
-* :white_check_mark: [对话翻译器](https://www.talk-translator.com)：将你的耳机变成实时翻译器，支持双语实时语音自动翻译、AI对话问答你的翻译记录
-
-#### Carol(广州) - [Github](https://github.com/carolgryman-sudo)
-* :white_check_mark: [Nano Banana AI](https://nanobanana-ai.net)：基于市面上最强的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
-
-#### yiquan00 - [yiquan00](https://github.com/yiquan00)
-* :white_check_mark: [LaunchitX](https://launchitx.com)：新产品(创意)启动平台，适合新产品宣发
-
-#### noGeek（北京）
-* :white_check_mark: [DR checker](https://drchecker.net) ：免费/域名等级 Domain rating 检测工具
-
-### 2025 年 8 月 31 号添加
-#### FlickerMi - [Github](https://github.com/FlickerMi)
-* :white_check_mark: [Nano Banana](https://usenanobanana.com)：Nano Banana 使用谷歌最新AI技术，提供角色一致性保持、自然语言编辑、多图融合等强大功能。无论是人物换装、场景变换还是精准局部编辑，都能保持原有特征，让您的创意无限可能。
-
-#### laine001（杭州） - [Github](https://github.com/laine001)
-* :white_check_mark: [信息系统项目管理师重点总结itpm](https://www.itpmp.cc/)：信息系统项目管理师高项的知识总结与记录网站，持续更新，软考的部分朋友可用
-
-### 2025 年 8 月 29 号添加
-#### 疯狂的小波(武汉)
-* :white_check_mark: [Nano Banana AI 图像编辑器](https://picir.ai/)：基于最先进的 AI 图像编辑模型 Nano Banana 开发的图片编辑器，用嘴改图、保持角色一致性、控制细节、图片融合
-
-### 2025 年 8 月 28 号添加
-#### david_bai(武汉) - [Github](https://github.com/david-bai00/PrivyDrop), [博客](https://www.privydrop.app/blog)
-* :white_check_mark: [PrivyDrop](https://www.privydrop.app)：开源简单易用的 P2P 文本文件传输工具网页，支持传输任意大小的文件 - [更多介绍](https://www.privydrop.app/features)
-
-#### iam-tin - [Github](https://github.com/iam-tin)
-* :white_check_mark: [Flower Drawing 花卉绘画](https://flowerdrawing.site/)：专注于花卉绘画的网站，有不同的花的种类可以选择，只要你用语言描述出样子，你可以画任何的花卉。
-* :white_check_mark: [Fish Drawing 鱼类绘画](https://fishdrawing.site/)：专注于画各种鱼的网站，你可以随心所欲画出任何你想画的鱼的图片。
-
-### 2025 年 8 月 27 号添加
-#### flingyp(上海) - [Github](https://github.com/flingyp)
-* :white_check_mark: [简链](https://www.cvlinkhub.online/)：打造个性化简历，赢得理想工作
-
-#### 小灰雀(北京)
-* :white_check_mark: [EzWebp](https://www.ezwebp.com/)：视频转动图（WebP/GIF）在线工具，本地执行，数据安全。
-
-### 2025 年 8 月 26 号添加
-#### Lizer(重庆) - [Github](https://github.com/Loverz55)
-* :white_check_mark: [数字生命管](https://news.lizer.cc/)：抖音热搜时间轴， 一小时自动抓取一次，通过工作流全网搜关于这个事件的时间线，然后  AI 梳理，AI 配图
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

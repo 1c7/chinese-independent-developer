@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 15 号添加
+
+#### tanxiansheng221 - [GitHub](https://github.com/tanxiansheng221)
+* :white_check_mark: [AimStack（三知弟弟）](https://github.com/tanxiansheng221/aimstack-sanzhidiji)：纯 C / 纯 stdlib 从零手写的本地 AI 全栈，含三值推理引擎、插件总线、多引擎爬虫、全文检索知识库、训练管线和 Web UI，零第三方依赖、断网可运行；2018 年 i7-7500U 无 GPU 笔记本实测可跑 BitNet 2B 模型（3.2 tok/s），AGPL-3.0 开源
+
 ### 2026 年 11 月 14 号添加
 
 #### QThans - [Github](https://github.com/QThans)
