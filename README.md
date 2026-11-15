@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 15 号添加
 
+#### lxyeternal - [GitHub](https://github.com/lxyeternal)
+* :white_check_mark: [漫迹](https://apps.apple.com/cn/app/id6827694426)：自动足迹记录 iPhone App，不用按开始，后台全天记下走过的路和到过的地方，还能从相册点亮以前去过的城市和国家；数据只存在自己的 iCloud，免费 - [开源仓库](https://github.com/lxyeternal/PathTracker)
+
 #### Quanneng BI - [GitHub](https://github.com/biquanneng)
 * :white_check_mark: [GSC Vault](https://gscvault.app/zh)：给网站站长的 Chrome 扩展，打开即用：批量对照 Search Console 官方数据，列出 Sitemap 里哪些页面没被 Google 收录以及原因，并把 GSC 数据自动备份到自己的 Google Drive，不怕超过 16 个月被删除。3 个站点以内免费
 
