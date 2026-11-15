@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 15 号添加
 
+#### YeefyisOK
+* :white_check_mark: [AIClipMaker.org](https://aiclipmaker.org)：AI 视频切片工具，把播客、直播、访谈等长视频按你选的时间段切成 15–90 秒的片段，每次最多 10 段，用 AI 人脸跟踪重新构图成 9:16 竖屏，让说话的人始终在画面里，导出 720×1280 MP4，可直接发 TikTok、Reels 和 YouTube Shorts
+
 #### jimxu
 * :white_check_mark: [图小妥-证件照助手](https://photo.jimxu.cn/)：在线证件照制作工具，面向报名、入职等场景，支持自动抠图、构图和换底，可按要求调整像素、DPI与文件大小上限，提供一寸、二寸等常用规格及自定义尺寸，支持2×4、2×5打印排版；提供网页版和微信小程序，当前免费试用，无需额外注册 - [微信小程序码](https://photo.jimxu.cn/assets/wechat-miniapp-code.jpg)
 
