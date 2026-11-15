@@ -31,6 +31,10 @@
 
 ### 2026 年 11 月 14 号添加
 
+#### Nathan - [GitHub](https://github.com/siuserxiaowei)
+* :white_check_mark: [giffgaff 保号提醒工具](https://getgiffgaff.com/tools/keep-number-reminder/)：境外卡保号日历提醒工具，输入上次使用日期在浏览器本地计算第 5 个月缓冲期并导出 .ics 日历文件，防范跨国号码因逾期未用被注销；纯本地计算不收集号码，免费免注册 - [开源仓库](https://github.com/siuserxiaowei/keep-number-reminder)
+
+
 #### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
 * :white_check_mark: [灵犀 Lyncis](https://lyncis.app)：国学版 MBTI，输入生日，测出你在《周易》64 卦里的本命卦、身份名和本命神，还能拉朋友合一卦，看你们是什么组合；不算命、不断吉凶，每一句都有古籍出处，支持中英文，网页直接用
 
