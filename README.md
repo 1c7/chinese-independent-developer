@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 16 号添加
+
+#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
+* :white_check_mark: [GIFLance](https://www.giflance.com)：免费在线GIF转换器 —— 裁剪、压缩、视频转GIF、图片转GIF
+
 ### 2026 年 11 月 15 号添加
 
 #### YeefyisOK
