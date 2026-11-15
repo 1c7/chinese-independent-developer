@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 15 号添加
+
+#### tusunsun - [GitHub](https://github.com/tusunsun)
+* :white_check_mark: [iching.tools](https://iching.tools/zh-CN)：在线易经占卜，水墨风界面里点屏幕逐爻掷铜钱起卦，附 64 卦与 384 爻原文解读，可免费 AI 解卦，支持简繁英日韩等 10 种语言
+
 ### 2026 年 11 月 14 号添加
 
 #### Lorraine（新加坡） - [Github](https://github.com/LorraineLiuNUS)
