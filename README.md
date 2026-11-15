@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 15 号添加
 
+#### jiangweiqi001
+* :white_check_mark: [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html)：给普通成年人的中文问答网站，免费、免登录，可直接搜索 465 条关于跑步、力量训练、营养和训练健康的问题。回答优先参考权威指南、专业学会的立场声明和系统综述，每条都标注证据等级并附参考出处 - [项目介绍](https://github.com/jiangweiqi001/sports-nutrition-health)
+
 #### tusunsun - [GitHub](https://github.com/tusunsun)
 * :white_check_mark: [iching.tools](https://iching.tools/zh-CN)：在线易经占卜，水墨风界面里点屏幕逐爻掷铜钱起卦，附 64 卦与 384 爻原文解读，可免费 AI 解卦，支持简繁英日韩等 10 种语言
 
