@@ -31,6 +31,8 @@
 
 #### tusunsun - [GitHub](https://github.com/tusunsun)
 * :white_check_mark: [iching.tools](https://iching.tools/zh-CN)：在线易经占卜，水墨风界面里点屏幕逐爻掷铜钱起卦，附 64 卦与 384 爻原文解读，可免费 AI 解卦，支持简繁英日韩等 10 种语言
+#### Quanneng BI - [GitHub](https://github.com/biquanneng)
+* :white_check_mark: [GSC Vault](https://gscvault.app/zh)：给网站站长的 Chrome 扩展，打开即用：批量对照 Search Console 官方数据，列出 Sitemap 里哪些页面没被 Google 收录以及原因，并把 GSC 数据自动备份到自己的 Google Drive，不怕超过 16 个月被删除。3 个站点以内免费
 
 ### 2026 年 11 月 14 号添加
 
