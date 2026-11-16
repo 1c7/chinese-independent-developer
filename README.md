@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Perry Lei - [GitHub](https://github.com/meekr)
+* :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
+
 #### Arron-byte - [GitHub](https://github.com/Arron-byte)
 * :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册
 
