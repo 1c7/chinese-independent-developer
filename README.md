@@ -42,6 +42,9 @@
 #### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
 * :white_check_mark: [GIFLance](https://www.giflance.com)：免费在线GIF转换器 —— 裁剪、压缩、视频转GIF、图片转GIF
 
+#### listone075-sys - [GitHub](https://github.com/listone075-sys)
+* :white_check_mark: [ToolCraft](https://toolcraftbox.com)：PDF 转 JPG、图片压缩、PDF 合并等 50 个文件工具，全部在浏览器里处理——文件不上传、无需登录、不限次数，装成 PWA 后断网也能用
+
 #### Robin2027 - [GitHub](https://github.com/Robin2027)
 * :white_check_mark: [Face Rate](https://facerate.co/face-symmetry-test/)：在线面部对称度测试，用面部关键点比对左右两侧并给出比例数据，分析在浏览器本地完成，图片 2 小时内删除，结果仅供娱乐参考
 
