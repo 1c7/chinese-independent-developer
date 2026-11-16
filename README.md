@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Alex - [GitHub](https://github.com/zxcHolmes)
+* :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
+
 #### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
 * :white_check_mark: [GIFLance](https://www.giflance.com)：免费在线GIF转换器 —— 裁剪、压缩、视频转GIF、图片转GIF
 
