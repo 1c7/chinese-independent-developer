@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册
+
 #### Caspian - [Github](https://github.com/dohooo)
 * :white_check_mark: [iForgot](https://iforgot.ai/zh?s=cnindie)：点赞收藏同步 App，把小红书、抖音里点过赞、收藏过的帖子同步到一处，以前攒的也会补上；授权一次后，Claude、ChatGPT 这类 AI 就能照着你收藏过的东西推荐吃的玩的，目前只有 iPhone 版 - [App Store](https://apps.apple.com/cn/app/id6740919579)
 
