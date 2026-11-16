@@ -27,13 +27,29 @@
 ### 2026 年 11 月 16 号添加
 
 #### Perry Lei - [GitHub](https://github.com/meekr)
- * :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
+* :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
+
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册
+
+#### Caspian - [Github](https://github.com/dohooo)
+* :white_check_mark: [iForgot](https://iforgot.ai/zh?s=cnindie)：点赞收藏同步 App，把小红书、抖音里点过赞、收藏过的帖子同步到一处，以前攒的也会补上；授权一次后，Claude、ChatGPT 这类 AI 就能照着你收藏过的东西推荐吃的玩的，目前只有 iPhone 版 - [App Store](https://apps.apple.com/cn/app/id6740919579)
+
+#### Stanley J（澳洲） - [Github](https://github.com/todanley)
+* :white_check_mark: [SRT 字幕检查器](https://todanley.github.io/srt-subtitle-checker/)：浏览器里校对 SRT 字幕，检查行长和阅读速度，还能做简繁转换，文件留在本地不上传
+* :white_check_mark: [App 上架字数统计](https://todanley.github.io/app-store-listing-counter/)：按 App Store / Google Play 官方字段限制统计上架文案字数，含关键词检查，文案留在浏览器不上传
 
 #### Alex - [GitHub](https://github.com/zxcHolmes)
 * :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
 
 #### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
 * :white_check_mark: [GIFLance](https://www.giflance.com)：免费在线GIF转换器 —— 裁剪、压缩、视频转GIF、图片转GIF
+
+#### listone075-sys - [GitHub](https://github.com/listone075-sys)
+* :white_check_mark: [ToolCraft](https://toolcraftbox.com)：PDF 转 JPG、图片压缩、PDF 合并等 50 个文件工具，全部在浏览器里处理——文件不上传、无需登录、不限次数，装成 PWA 后断网也能用
+
+#### Robin2027 - [GitHub](https://github.com/Robin2027)
+* :white_check_mark: [Face Rate](https://facerate.co/face-symmetry-test/)：在线面部对称度测试，用面部关键点比对左右两侧并给出比例数据，分析在浏览器本地完成，图片 2 小时内删除，结果仅供娱乐参考
 
 ### 2026 年 11 月 15 号添加
 
