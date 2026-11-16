@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Perry Lei - [GitHub](https://github.com/meekr)
+ * :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
+
 #### Alex - [GitHub](https://github.com/zxcHolmes)
 * :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
 
