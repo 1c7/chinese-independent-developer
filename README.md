@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 17 号添加
+
+#### BlynkAI
+* :white_check_mark: [Telo](https://telo.ferryman.app/)：iPhone 和 Apple Watch 上的 AI 健康助手，把 Apple 健康里的睡眠、运动与心率变异性放在一起，方便查看每日状态，也能用语音、照片或文字记录健康事件 - [中国区 App Store](https://apps.apple.com/cn/app/id6761092493)
+
 ### 2026 年 11 月 16 号添加
 
 #### 老钱
@@ -43,7 +48,6 @@
 
 #### Arron-byte - [GitHub](https://github.com/Arron-byte)
 * :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册
-* :white_check_mark: [同事AI 订单台账核查技能](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/skills/order-audit)：本机核查 CSV 和 XLSX 订单表的重复编号、异常金额和退款状态，生成可回查源行的异常清单和 HTML 报告，支付宝 ¥19.90 一次买断
 
 #### Caspian - [Github](https://github.com/dohooo)
 * :white_check_mark: [iForgot](https://iforgot.ai/zh?s=cnindie)：点赞收藏同步 App，把小红书、抖音里点过赞、收藏过的帖子同步到一处，以前攒的也会补上；授权一次后，Claude、ChatGPT 这类 AI 就能照着你收藏过的东西推荐吃的玩的，目前只有 iPhone 版 - [App Store](https://apps.apple.com/cn/app/id6740919579)

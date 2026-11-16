@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 17 号添加
+
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单台账核查技能](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/skills/order-audit)：本机核查 CSV 和 XLSX 订单表的重复编号、异常金额和退款状态，生成可回查源行的异常清单和 HTML 报告，支付宝 ¥19.90 一次买断
+
 ### 2026 年 11 月 15 号添加
 
 #### tanxiansheng221 - [GitHub](https://github.com/tanxiansheng221)
