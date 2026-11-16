@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Caspian - [Github](https://github.com/dohooo)
+* :white_check_mark: [iForgot](https://iforgot.ai/zh?s=cnindie)：点赞收藏同步 App，把小红书、抖音里点过赞、收藏过的帖子同步到一处，以前攒的也会补上；授权一次后，Claude、ChatGPT 这类 AI 就能照着你收藏过的东西推荐吃的玩的，目前只有 iPhone 版 - [App Store](https://apps.apple.com/cn/app/id6740919579)
+
+#### Stanley J（澳洲） - [Github](https://github.com/todanley)
+* :white_check_mark: [SRT 字幕检查器](https://todanley.github.io/srt-subtitle-checker/)：浏览器里校对 SRT 字幕，检查行长和阅读速度，还能做简繁转换，文件留在本地不上传
+* :white_check_mark: [App 上架字数统计](https://todanley.github.io/app-store-listing-counter/)：按 App Store / Google Play 官方字段限制统计上架文案字数，含关键词检查，文案留在浏览器不上传
+
 #### Alex - [GitHub](https://github.com/zxcHolmes)
 * :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
 
