@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 16 号添加
 
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单 CSV 自查](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/tools/order-csv-check)：免费订单表格自查工具，在浏览器内找出重复或空白的订单编号以及空白金额，导出带原表行号的异常清单，免注册。
+
 #### Alex - [GitHub](https://github.com/zxcHolmes)
 * :white_check_mark: [English Dialogue](https://english-dialogue.com/zh)：沉浸式英语学习网站（免费），提供 600+ 真实生活场景、3,300+ 对话课程和 2,800+ 高频词汇，支持中英双语对照、AI 口语评分、听说读写互动练习及间隔重复复习，无需注册
 
