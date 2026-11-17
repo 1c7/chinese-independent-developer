@@ -3982,7 +3982,7 @@
 * :white_check_mark: [steamvai](https://steamvai.com/)：专注文案转视频，根据文案内容生产处优质的视频资源，叙事镜头、1080P视频音频视频效果都不错。
 
 #### Yuzu-Peel(上海) - [Github](https://github.com/Yuzu-Peel)
-* :white_check_mark: [CookLLM](https://cookllm.com/)：带你从头训练一个 LLM
+* :white_check_mark: [CookLLM](https://cookllm.com/)：中文大模型训练课程，带你从零训练一个 3.07 亿参数的中英双语小模型（会员付费）；另有免费的 AI 岗位看板，收录 1,400 多家 AI 公司官网上的岗位
 
 ### 2026 年 2 月 12 号添加
 ####  托马(杭州)
