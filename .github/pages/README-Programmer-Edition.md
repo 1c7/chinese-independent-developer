@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 17 号添加
 
+#### Xiang-Suc - [Github](https://github.com/Xiang-Suc)
+* :white_check_mark: [Lastout](https://lastout.dev)：macOS 终端输出工具。在任何 App 里按 ⌃⌥⌘C，把上一条终端命令的输出整理好复制出来，直接粘给 AI：长日志只留开头、报错附近和结尾，识别到的密钥先打码，还在跑的 dev server 也能复制；另带 lo 命令行和只读 MCP。闭源，14 天免费试用，之后 29 美元买断
+* 
 #### vbarter - [GitHub](https://github.com/vbarter)
 * :white_check_mark: [dsplugin.app](https://dsplugin.app/)：DeepSeek Harness 社区插件目录，可按来源与 Manifest 状态筛选，查看 GitHub 数据和安装命令，也可发布与自动发现 dsh-plugin 仓库 — [源码](https://github.com/vbarter/dsh-plugin-registry)
 
