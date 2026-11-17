@@ -18,11 +18,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 17 号添加
 
-#### Arron-byte - [GitHub](https://github.com/Arron-byte)
-* :white_check_mark: [同事AI 订单台账核查技能](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/skills/order-audit)：本机核查 CSV 和 XLSX 订单表的重复编号、异常金额和退款状态，生成可回查源行的异常清单和 HTML 报告，支付宝 ¥19.90 一次买断
-
 #### vbarter - [GitHub](https://github.com/vbarter)
 * :white_check_mark: [dsplugin.app](https://dsplugin.app/)：DeepSeek Harness 社区插件目录，可按来源与 Manifest 状态筛选，查看 GitHub 数据和安装命令，也可发布与自动发现 dsh-plugin 仓库 — [源码](https://github.com/vbarter/dsh-plugin-registry)
+
+#### Arron-byte - [GitHub](https://github.com/Arron-byte)
+* :white_check_mark: [同事AI 订单台账核查技能](https://sqtlow7jjmgjdgncr4fhmf7pki.srv.us/skills/order-audit)：本机核查 CSV 和 XLSX 订单表的重复编号、异常金额和退款状态，生成可回查源行的异常清单和 HTML 报告，支付宝 ¥19.90 一次买断
 
 ### 2026 年 11 月 15 号添加
 
