@@ -50,7 +50,7 @@
 * :white_check_mark: [52出海](https://woaichuhai.com/)：联盟营销和出海工具导航，按联盟平台、VPS、域名建站、AI 工具、指纹浏览器、虚拟卡和收款分类，每类附站内中文教程，免费无需注册
 
 #### LWJUOLPENNCJBS - [Github](https://github.com/LWJUOLPENNCJBS)
-* :white_check_mark: [HumanPen](https://humanpen.net)：AI 文档处理与翻译平台，支持 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 保留原排版）、DOCX/PPTX/TXT 文档级润色（Humanize）、DOCX 精简与引文格式校正，注册即赠 100 积分（按积分计费的商业服务）
+* :white_check_mark: [HumanPen](https://humanpen.net)：AI 文档处理与翻译平台，支持 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT 尽量保留原排版）、DOCX/PPTX/TXT 文档级润色（Humanize）、DOCX 精简与引文格式校正，注册即赠 100 积分（按积分计费的商业服务）
 
 #### Perry Lei - [GitHub](https://github.com/meekr)
 * :white_check_mark: [拾页 Shiye](https://shiye.leiping.dev/)：K12 亲子学习工具，输入知识点，一键生成一页纸互动学习手账
