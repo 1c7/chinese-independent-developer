@@ -42,7 +42,7 @@
 * :white_check_mark: [资料星球](https://resources.packscena.com/)：中文学习与创作资料导航，按语言学习、AI、内容创作等主题查找资料，先看目录预览，再跳转夸克网盘免费领取，浏览无需注册
 
 #### chilayt - [GitHub](https://github.com/chilayt)
-* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/)
+* :white_check_mark: [Bazi Diff](https://bazi-diff.pages.dev/chart/?time=range&utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=birth_time_zh)：免注册的四柱八字试算网站，出生时间只记得大概时，也能按时段比较五种排盘设置，查看哪些柱一致、哪些可能变化，出生资料在浏览器内计算 - [中文说明](https://bazi-diff.pages.dev/guides/bazi-without-exact-birth-time/zh-hans/) · [两岗事业样稿](https://bazi-diff.pages.dev/sample-report/career/zh-hans/?utm_source=chinese_indie_dev&utm_medium=community&utm_campaign=career_sample_zh)
 
 #### BlynkAI
 * :white_check_mark: [Telo](https://telo.ferryman.app/)：iPhone 和 Apple Watch 上的 AI 健康助手，把 Apple 健康里的睡眠、运动与心率变异性放在一起，方便查看每日状态，也能用语音、照片或文字记录健康事件 - [中国区 App Store](https://apps.apple.com/cn/app/id6761092493)
