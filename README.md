@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 17 号添加
 
+#### 22109906 - [GitHub](https://github.com/22109906)
+* :white_check_mark: [叮当小宝CS](https://dingdang.asia/?ch=cnindie)：给中小电商卖家的 Windows AI 客服助手，支持千牛（淘宝/天猫）、拼多多、京东、抖店、快手、小红书、微信、闲鱼 8 个平台自动回复；买家发图片能识别，可设为「人工检查后发送」，知识库保存在本机不上云；注册免费，每天 30 条 AI 接待额度 - [GitHub 发布页](https://github.com/22109906/DingDangCS)
+
 #### Dean Chen - [GitHub](https://github.com/DeanChensj), [博客](https://deanchen.me)
 * :white_check_mark: [江山时序](https://deanchen.me/jiangshan-map/)：中国历史交互地图网站，拖动时间轴浏览战国至现代 2400 年疆域分合与古海岸线演变，支持点击古城查看 18 朝政区沿革、同屏追踪百余位历史人物行迹与战役沙盘，纯浏览器运行免费无需注册 - [GitHub 源码](https://github.com/DeanChensj/jiangshan-map)
 
