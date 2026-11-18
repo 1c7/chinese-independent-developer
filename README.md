@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 18 号添加
 
+#### Nathan - [GitHub](https://github.com/siuserxiaowei)
+* :white_check_mark: [Angry Dance](https://angrydance.com/zh)：单张照片生成 AI 跳舞与整活竖屏视频的网站，无需剪辑经验或写英文提示词，上传人像、猫狗或爱车照片即可直出 9:16 无水印成片（内置愤怒之舞、狗狗跳舞、小狗大战美容师、微缩工人洗车等 23 款特效，复杂场景自动串联两步定帧与运镜）；支持中英文，采用一次性积分包计费免包月订阅，生成失败自动退还积分 - [英文版](https://angrydance.com) · [开源提示词配方库](https://github.com/siuserxiaowei/ai-photo-to-video-prompt-recipes)
+
 #### zerosoul - [GitHub](https://github.com/zerosoul)
 * :white_check_mark: [动动乐园](https://dongdongpark.com)：儿童体感运动游戏网站，用电脑自带摄像头就能玩，孩子跳、蹲、挥手，游戏跟着动；111 个游戏覆盖 3～18 岁，支持双人对战和班级轮流，适合室内体育课和雨天大课间；不用手柄不用安装，画面只在本机识别不上传，可以免费玩（另有可选会员） - [英文版](https://dongdongpark.com/en)
 
