@@ -26,6 +26,18 @@
 
 ### 2026 年 11 月 18 号添加
 
+#### 红鸦团队
+* :white_check_mark: [红鸦 AI](https://hy.ithinkai.cn/)：给小红书运营和电商商家使用的网页版图文工具，输入主题或上传商品实拍图，先核对标题、正文与每页配图大纲，再批量生成图片；生成按账号积分计费
+
+#### Ldmts
+* :white_check_mark: [AI Pet Meme](https://aipetmeme.org/)：宠物梗视频工具，一张猫或狗的照片即可生成跳舞、唱歌、说话或反应类的带声音短视频
+* :white_check_mark: [Rap AI Video](https://airapvideoai.org/)：说唱短视频工具，上传两张照片并选择舞台，生成带嘻哈节奏和说唱人声的竖屏片段
+* :white_check_mark: [EffectClick](https://effectclick.com/)：模板视频工具，选热门模板、上传一张照片，即可生成带声音的竖屏短视频，不用写提示词
+* :white_check_mark: [AI Image Editor](https://image-editor-ai.com/)：AI 修图工具，支持提示词编辑，以及去背景、去文字水印、老照片修复、上色和放大
+* :white_check_mark: [Image to Image AI](https://imagetoimageai.io/)：图生图编辑工具，上传照片后用提示词做风格迁移、细节修改和去背景
+* :white_check_mark: [Grok Imagine](https://imaginegrok.org/)：图像和短视频生成工具，支持文生图、图生视频，提供 Normal、Fun、Spicy 三种模式，无需 X 账号
+* :white_check_mark: [letsmkvideo](https://letsmkvideo.com/)：文生视频和图生视频工具，既可以从提示词或照片生成，也可以用舞蹈、动漫、电影感等模板直接出片
+
 #### Viral Video AI 团队
 * :white_check_mark: [Viral Video AI](https://viralvideoai.ai/)：网页版短视频生成工具，上传自己的照片套用热门模板，或粘贴公开的 TikTok、YouTube、Instagram 视频链接作为参考，省去手动下载和重传；生成前可查看积分消耗，生成需要 Google 登录和付费积分
 
