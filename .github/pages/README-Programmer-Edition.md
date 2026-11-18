@@ -18,11 +18,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 18 号添加
 
+#### HiAPI 开发团队 - [Github](https://github.com/HiAPIAI)
+* :white_check_mark: [HiAPI](https://hiapi.ai/?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=chinese-independent-developer)：多模型 AI API 平台，同一个 Key 按量调用图片、视频、音频和文本模型（GPT Image、Seedance、Kling、Veo、DeepSeek、Claude、Grok、Qwen 等）；文本走 OpenAI 兼容的 Responses 与 Chat Completions，媒体生成走异步任务接口（提交任务拿 ID、轮询取结果）；按美元计费、单价公开，任务失败自动退款，注册送 200 积分（2,000 积分 = $1），需要用代码调用 - [中文文档](https://hiapi.ai/zh/docs)
+
 #### Xiang-Suc - [Github](https://github.com/Xiang-Suc)
 * :white_check_mark: [Lastout](https://lastout.dev)：macOS 终端输出工具。在任何 App 里按 ⌃⌥⌘C，把上一条终端命令的输出整理好复制出来，直接粘给 AI：长日志只留开头、报错附近和结尾，识别到的密钥先打码，还在跑的 dev server 也能复制；另带 lo 命令行和只读 MCP。闭源，14 天免费试用，之后 29 美元买断
-
-#### HiAPI 开发团队 - [Github](https://github.com/HiAPIAI)
-* :white_check_mark: [HiAPI](https://hiapi.ai/?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=chinese-independent-developer)：多模型 API 平台，一个 Key 调用图片、视频、音频和文本模型（GPT Image、Seedance、Kling、Veo、DeepSeek、Claude、Grok、Qwen）；文本模型提供 OpenAI 兼容的 Responses 与 Chat Completions 接口，图片、视频和音频走异步任务 API，任务失败自动退款，按美元计费且每个模型价格公开，新账号注册送 200 credits
 
 ### 2026 年 11 月 17 号添加
 
