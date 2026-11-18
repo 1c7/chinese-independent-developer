@@ -8,6 +8,9 @@
 * :white_check_mark: [Best Daily Games](https://bestdaily.games/)：每日网页游戏导航，按文字、地理、问答等玩法找游戏，条目链接到创作者原版。只有几分钟时，可以先看[适合咖啡休息时间玩的小游戏](https://bestdaily.games/collections/coffee-break-games/)
 * :white_check_mark: [Puffer Party](https://pufferparty.org/)：浏览器多人派对游戏（免费）。开私人房间邀请朋友，轮流给出符合题目且没人用过的答案，赶在河豚爆开前传给下一位。不用下载
 
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [Famedle](https://sparkgame.store/famedle)：看线索猜名人的网页小游戏，要在倒计时结束前打出这位名人的名字。每人有 3 条线索，随时间依次解锁；猜错时按出生国家、去世年份、去世年龄和领域四项和答案比对，用绿、黄、灰色块提示差多远，并立刻多开一条线索。共 10 关、每关 5 人，越往后人越冷门、时间越短（每人 30 秒逐关减到 20 秒），每过一关得到一张称号卡（从「见多识广」到「名人堂」），可以保存或分享；题库 1,143 位古今中外人物，中英文界面可切换，设备语言是中文时先出中国名人。免费、免注册，手机和电脑浏览器打开就能玩
+
 ### 2026 年 11 月 17 号添加
 
 #### Elunvi Games
