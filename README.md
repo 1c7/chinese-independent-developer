@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 18 号添加
+
+#### zerosoul - [GitHub](https://github.com/zerosoul)
+* :white_check_mark: [动动乐园](https://dongdongpark.com)：儿童体感运动游戏网站，用电脑自带摄像头就能玩，孩子跳、蹲、挥手，游戏跟着动；111 个游戏覆盖 3～18 岁，支持双人对战和班级轮流，适合室内体育课和雨天大课间；不用手柄不用安装，画面只在本机识别不上传，可以免费玩（另有可选会员） - [英文版](https://dongdongpark.com/en)
+
 ### 2026 年 11 月 17 号添加
 
 #### 22109906 - [GitHub](https://github.com/22109906)
