@@ -6,6 +6,45 @@
 
 ---
 
+### 2025 年 9 月 24 号添加
+#### Ryan10Yu - [Github](https://github.com/Ryan10Yu)
+* :white_check_mark: [Image to Image AI](https://imagetoimage.tech/)：基于 AI 的图片修改和重绘工具
+
+#### pillow(重庆) 
+* :white_check_mark: [赛博朋克AI](https://cyberpunkai.art)：将任意照片转换为令人惊叹的赛博朋克杰作
+* :white_check_mark: [反应速度测试](https://reaction-time-test.online)：快速测试你的反应速度
+* :white_check_mark: [鼠标灵敏度转换](https://sens-converter.online)：将你熟练的鼠标灵敏度进行转换
+* :white_check_mark: [色盲检测](https://color-blindness-test.com)：测试你是否是色盲 
+
+#### BOS1980 - [Github](https://github.com/BOS1980)
+* :white_check_mark: [GPU 性能测试工具](https://www.volumeshader.dev/)：检测显卡性能。测试和评估你电脑显卡（GPU）的3D渲染性能。目标用户：想要了解自己电脑显卡3D渲染能力、对比不同设备性能，或者开发者需要测试WebGL渲染效果的人群
+
+#### iam-tin - [Github](https://github.com/iam-tin)
+* :white_check_mark: [White Pic - 白色背景图片](https://whitepic.online)：下载任意分辨率白色背景图片
+
+### 2025 年 9 月 23 号添加
+#### Sean(成都) 
+* :white_check_mark: [Mushroom Identification](https://mushroomidentification.online)：蘑菇 AI 识别工具（快速、准确)，结果包含毒性、高危相似种警告
+
+### 2025 年 9 月 22 号添加
+#### 萝卜卜(南昌)
+* :white_check_mark: [WheelPage - 在线转盘](https://wheelpage.com/zh/)：转盘，支持抽奖、游戏和快速决策（简洁好用）
+
+#### Horace - [Github](https://github.com/lianhr12)
+* :white_check_mark: [SmartCV](https://smartcv.cc)：AI 智能简历制作平台，提供简历模板、AI优化建议、多种格式导出等功能
+
+### 2025 年 9 月 19 号添加
+#### 嗡嗡鱼 - [Github](https://github.com/kindtree)
+* :white_check_mark: [SimpleThumbnail](https://simplethumbnail.com)：YouTube 视频缩略图下载工具（免费)，支持多分辨率提取，界面简洁无广告
+* :white_check_mark: [YouTubeTitles](https://youtubetitles.com)：YouTube 标题生成器（AI 驱动），提供快速模式与进阶模式，助力提升视频点击率
+
+
+#### xmm（东莞） - [Github](https://github.com/XMM17879829028)
+* :white_check_mark: [Mental Age Test](https://mentalage.org)：心理年龄测试工具，通过科学量表评估用户心理年龄与实际年龄的对比，提供详细且有趣分析报告
+
+#### NINGSHIQI(深圳)
+* :white_check_mark: [NanoEditor](https://nanoeditor.app/)：对话式 AI 生图平台
+
 ### 2025 年 9 月 17 号添加
 #### Red - [Github](https://github.com/CrisChr/json-translator), [博客](https://red666.vercel.app/)
 * :white_check_mark: [JSON Translator](https://jsontrans.fun)：国际化（i18n）翻译工具（为前端开发者打造），上传 json 文件，通过 AI（支持 DeepSeek、Gemini、OpenAI、Anthropic）翻译后直接导出 json，支持 70+ 个国家语言，助力产品出海
