@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 19 号添加
+
+#### yjin94606-art - [GitHub](https://github.com/yjin94606-art)
+* :white_check_mark: [深矿 Deepmine](https://github.com/yjin94606-art/deepmine)：在自己电脑上玩的像素挖掘游戏。打开仓库 README，按系统下载并启动，选一个用 Codex 或 Claude Code 做过的项目：那天消耗的 token 会驱动钻头，画过的肖像、做过的网页就可能从岩层里蹦出来；沿矿道往上翻，还能找到以前的作品 - [中文试玩（免安装，虚构样例）](https://yjin94606-art.github.io/deepmine/?lang=zh-CN) · [18 秒中文实机演示](https://yjin94606-art.github.io/deepmine/watch/zh/)
+
 ### 2026 年 11 月 18 号添加
 
 #### stimQQ - [Github](https://github.com/stimQQ)

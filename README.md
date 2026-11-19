@@ -26,8 +26,19 @@
 
 ### 2026 年 11 月 19 号添加
 
+#### qijin-3 - [GitHub](https://github.com/qijin-3)
+* :white_check_mark: [DemoReady](https://demoready.bitwonder.app/)：输入网页链接直接录制产品演示视频，支持 localhost 和线上网站，可选视频比例、设备 Mockup 与莫奈、葛饰北斋等艺术画作背景，实时预览最终画面后直接录制下载，全程在浏览器里完成，不用安装
+
+#### ZHANG LINGQING
+* :white_check_mark: [小陪班 PetWaits](https://petwaits.com/zh)：用一张自家猫狗的照片做一个会唱歌、会跳舞的桌宠，让它在 Mac 或 Windows 桌面上陪你工作。每只宠物一次付费
+
+#### Haoxiang Chen
+* :white_check_mark: [BeatMusic](https://beatmusic.ai/)：AI 音乐生成工具，输入一句想法或粘贴歌词，几分钟生成原创、免版税的完整歌曲，还支持 100+ 种声音风格的 AI 翻唱、50+ 种风格的 AI 混音和人声分离，不会乐器也能用
+* :white_check_mark: [BeatMV](https://beatmv.ai/)：AI 音乐视频生成工具，上传一首歌就能生成跟着节拍走的音乐 MV，支持固定角色、分镜生成、Suno/Udio 歌曲转视频和歌词视频，可导出到 YouTube、TikTok、Reels
+
 #### 松柏 - [GitHub](https://github.com/co-pine)
 * :white_check_mark: [构图AI](https://draw.lzkz.top/)：基于 Excalidraw 引擎的 AI 手绘风格技术图表工具，一句话生成架构图、时序图、流程图、思维导图、拓扑图、ER 图等 12 种技术图表，生成后可在画布上继续拖拽编辑或框选局部让 AI 精修，支持导出 PNG / SVG / .excalidraw 源文件；内置 20+ 可二次编辑的示例模板，登录可免费体验（另有会员档与 MIT 开源版可自带 API Key 本地运行） - [开源仓库](https://github.com/co-pine/ai-excalidraw)
+* :white_check_mark: [松果看板](https://songguo.lzkz.top)：面向自媒体创作者与内容运营的多平台数据看板与 AI 复盘工作台，把微信公众号、小红书、B站、抖音、微信视频号五个平台的阅读/播放、点赞、收藏、评论、互动率与粉丝数据收进同一张表，按各平台自身篇均倍数自动标记爆款、生成最佳发布时段热力图、支持一键 AI 复盘及通过远程/本地 MCP 接入 Claude、Cursor 直接查数据写复盘；登录态仅保存在本地浏览器，服务器不存 Cookie。免费版可先连接 1 个平台，内置免登录公众号 Markdown 排版工具永久免费 - [公众号 Markdown 排版器](https://songguo.lzkz.top/tools/wechat-formatter)
 
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Earlyfollow](https://earlyfollow.com/)：AI 创业公司发现榜单，每天盯 500 多位风投、天使投资人在 X 上刚开始关注的新 AI 公司，每条信号都能看到是谁、在哪天关注的；免费看延后 14 天的榜单，Pro 去掉延迟并提供完整关注者名单、CSV 与 API
@@ -37,7 +48,6 @@
 
 #### finalgod2003 - [GitHub](https://github.com/finalgod2003)
 * :white_check_mark: [7 Deadly Sins Test](https://7-deadly-sins-test.org/?utm_source=github.com&utm_medium=referral&utm_campaign=directory_listing&utm_content=website_link)：免费七宗罪网页测验，答完 28 道题可查看七项得分，分享结果后可与朋友在同一张图上对比，无需注册
-
 
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [blubiu](https://blubiu.ai)：AI 动画视频生成工具，主打「角色每一镜都是同一个」：角色的设定卡、三视图、场景和道具先存进资产库，之后做每条视频都直接取用，不用重新描述。剧本、角色图、镜头、配音都是画布上的节点，连起来就是一条工作流，哪一步不满意只重跑那一步；也可以对内置的 Agent 说一句想做什么，它来加节点、连线、写提示词。一份积分通用 24 个图片和视频模型（Seedance 2.0、Kling 4.0、VEO 3.1 Fast、GPT Image 2.6 等），另有照片动起来、照片说话、吉祥物设计、AI 跳舞、火柴人动画等现成工具。网页英文界面，可切换中文，Google 登录，免费档每月送 75 积分，之后月订阅 $14.9 起，也有积分包（$89.9 一包永不过期），生成失败自动退还积分
@@ -4946,53 +4956,6 @@
 ### 2025 年 10 月 1 号添加
 #### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel)
 * :white_check_mark: [Beardstyle AI](https://beardstyle.org/)：虚拟试戴胡子
-
-### 2025 年 9 月 29 号添加
-#### pandaupup(广州) - [Github](https://github.com/pandaupup)
-* :white_check_mark:  [实用小工具：时间格式转换和计算器](https://time-to-decimal.org/)：支持时分秒格式和小数表示法双向转换、分钟/秒/天不同单位相互转换、考勤打卡时间四舍五入，工资计算等
-
-#### LongZi(深圳)
-* ⏳ [跟我学太极-陈式](https://github.com/dream-approaching/taijiMini)：微信小程序，图文+视频呈现八法五步、八段锦、陈式太极拳等内容，旨在推广太极拳文化
-
-#### 0x4c48 - [Github](https://github.com/LoHhhha)
-* :x: [PMoS](https://pmos.lohhhha.cn)：神经网络模型可视化定义平台 - [更多介绍](https://github.com/LoHhhha/pmos_nn)
-
-#### zxcHolmes
-* :white_check_mark: [Git Stars](https://git-stars.org/)：发掘最热门，Stars 数最多的 GitHub 开源项目仓库
-
-#### anywhereto(beijing) - [Github](https://github.com/anywhereto)
-* :white_check_mark: [scream ai](https://screamai.art//)：把你的自拍照转化为电影感十足的千禧年（Y2K）恐怖风照片
-
-#### pandaupup - [Github](https://github.com/pandaupup)
-* :white_check_mark: [在线 GPU 性能测试网站 - 毒蘑菇显卡测试](https://volumeshaderbm.org/benchmark)：在浏览器里运行3D体积着色器测试GPU渲染能力。实时显示压测性能数据：包括实时的帧率（FPS）、帧时间（Frame Time）和显卡型号。可多渠道分享测试结果，用户点击可使用相同参数进行渲染测试。
-
-### 2025 年 9 月 28 号添加
-#### anywhereto(beijing) - [Github](https://github.com/anywhereto)
-* :white_check_mark: [banana nana ai](https://bananananoai.net/)：AI 图片工具, AI 换脸，AI 清除背景， AI y2k 风格人像
-
-#### elng12(柳州) - [Github](https://github.com/elng12)
-* :white_check_mark: [Image to Pixel Art](https://pixelartvillage.org/)：图像到像素艺术转换器 – 通过即时预览和调色板控件将 PNG 或 JPG 图像转换为像素艺术，并进行图像到像素的转换帮我生成跟图像那样的
-
-#### ljxyaly(深圳) - [Github](https://github.com/ljxyaly)
-* :white_check_mark: [PDFLance](https://www.pdflance.com)：PDF 工具集，全部在浏览器里本地运行。你的文件不会被上传到其他地方。免费合并，拆分，编辑，转换 PDF，我们重视您的隐私
-
-### 2025 年 9 月 27 号添加
-#### PopcornBoom(深圳) - [Github](https://github.com/POPCORNBOOM), [Bilibili](https://space.bilibili.com/271218438)
-* :white_check_mark: [EZHolo](https://github.com/POPCORNBOOM/EZHolodotNet/releases/latest)：轻易从照片和其他平面图像创建手工绘制或机器打印的刮擦全息路径 - [更多介绍](https://github.com/POPCORNBOOM/EZHolodotNet)
-
-#### 虾米 - [博客](https://blog.2pp.link)
-* :white_check_mark: [opus to mp3](https://opustomp3.online)：免费在线音乐格式转换网站。支持全球各地多个语言，免费使用、无需注册、无需下载 APP 即可使用、方便快捷是我们的口号。专为 opus 格式转换 mp3 而生，让每一个人都能听到声音
-
-### 2025 年 9 月 26 号添加
-#### 皮皮卡
-- :white_check_mark: [Watermarkzero](https://watermarkzero.com/)：AI 免费去除图片水印。擦除您照片上多余的水印、文字或标志。它并非仅仅涂抹或模糊水印，而是智能地重建水印后方的背景。 最终呈现的是一张完美干净、自然的照片，仿佛水印从未存在过
-
-#### yvonuk - [推特](https://x.com/mcwangcn)
-- :white_check_mark: [Free AI for Everyone](https://free.stockai.trade)：无需登录、完全免费的 AI（模型包括 Grok 4 Fast、DeepSeek V3.1 等）。可选择的模型以后可能会有所调整，但这个服务会长期提供，并且完全免费
-
-### 2025 年 9 月 25 号添加
-#### 皮皮卡
-* :white_check_mark: [AI Image Editor](https://aiimageeditor.photos/)：通过文字指令编辑你的照片，AI 图像编辑器是一款由提示词驱动的智能新一代工具，它能让您使用自然语言编辑照片——无需像传统照片编辑器那样进行复杂的手动操作
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
