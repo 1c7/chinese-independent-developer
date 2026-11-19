@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 19 号添加
 
+#### 松柏 - [GitHub](https://github.com/co-pine)
+* :white_check_mark: [构图AI](https://draw.lzkz.top/)：基于 Excalidraw 引擎的 AI 手绘风格技术图表工具，一句话生成架构图、时序图、流程图、思维导图、拓扑图、ER 图等 12 种技术图表，生成后可在画布上继续拖拽编辑或框选局部让 AI 精修，支持导出 PNG / SVG / .excalidraw 源文件；内置 20+ 可二次编辑的示例模板，登录可免费体验（另有会员档与 MIT 开源版可自带 API Key 本地运行） - [开源仓库](https://github.com/co-pine/ai-excalidraw)
+
 #### Wujie Li - [Github](https://github.com/wujieli0207)
 * :white_check_mark: [Earlyfollow](https://earlyfollow.com/)：AI 创业公司发现榜单，每天盯 500 多位风投、天使投资人在 X 上刚开始关注的新 AI 公司，每条信号都能看到是谁、在哪天关注的；免费看延后 14 天的榜单，Pro 去掉延迟并提供完整关注者名单、CSV 与 API
 
@@ -34,6 +37,7 @@
 
 #### finalgod2003 - [GitHub](https://github.com/finalgod2003)
 * :white_check_mark: [7 Deadly Sins Test](https://7-deadly-sins-test.org/?utm_source=github.com&utm_medium=referral&utm_campaign=directory_listing&utm_content=website_link)：免费七宗罪网页测验，答完 28 道题可查看七项得分，分享结果后可与朋友在同一张图上对比，无需注册
+
 
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [blubiu](https://blubiu.ai)：AI 动画视频生成工具，主打「角色每一镜都是同一个」：角色的设定卡、三视图、场景和道具先存进资产库，之后做每条视频都直接取用，不用重新描述。剧本、角色图、镜头、配音都是画布上的节点，连起来就是一条工作流，哪一步不满意只重跑那一步；也可以对内置的 Agent 说一句想做什么，它来加节点、连线、写提示词。一份积分通用 24 个图片和视频模型（Seedance 2.0、Kling 4.0、VEO 3.1 Fast、GPT Image 2.6 等），另有照片动起来、照片说话、吉祥物设计、AI 跳舞、火柴人动画等现成工具。网页英文界面，可切换中文，Google 登录，免费档每月送 75 积分，之后月订阅 $14.9 起，也有积分包（$89.9 一包永不过期），生成失败自动退还积分
