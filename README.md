@@ -29,6 +29,9 @@
 #### stimQQ - [Github](https://github.com/stimQQ)
 * :white_check_mark: [blubiu](https://blubiu.ai)：AI 动画视频生成工具，主打「角色每一镜都是同一个」：角色的设定卡、三视图、场景和道具先存进资产库，之后做每条视频都直接取用，不用重新描述。剧本、角色图、镜头、配音都是画布上的节点，连起来就是一条工作流，哪一步不满意只重跑那一步；也可以对内置的 Agent 说一句想做什么，它来加节点、连线、写提示词。一份积分通用 24 个图片和视频模型（Seedance 2.0、Kling 4.0、VEO 3.1 Fast、GPT Image 2.6 等），另有照片动起来、照片说话、吉祥物设计、AI 跳舞、火柴人动画等现成工具。网页英文界面，可切换中文，Google 登录，免费档每月送 75 积分，之后月订阅 $14.9 起，也有积分包（$89.9 一包永不过期），生成失败自动退还积分
 
+#### Wujie Li - [Github](https://github.com/wujieli0207)
+* :white_check_mark: [Earlyfollow](https://earlyfollow.com/)：AI 创业公司发现榜单，每天盯 500 多位风投、天使投资人在 X 上刚开始关注的新 AI 公司，每条信号都能看到是谁、在哪天关注的；免费看延后 14 天的榜单，Pro 去掉延迟并提供完整关注者名单、CSV 与 API
+
 ### 2026 年 11 月 18 号添加
 
 #### 红鸦团队
