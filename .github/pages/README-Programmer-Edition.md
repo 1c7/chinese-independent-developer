@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 20 号添加
+
+#### DataXAPI 团队 - [Github](https://github.com/data-x-api)
+* :white_check_mark: [DataXAPI](https://dataxapi.com/zh/)：给 AI 和开发者用的市场数据接口，一把 Key 取抖音（含巨量算数、星图）、小红书（含蒲公英）、公众号、视频号、快手、B站、微博、知乎以及 TikTok、X、YouTube 等 21 个平台的公开数据；HTTP、SDK、命令行、远程 MCP 都能接，一次 $0.0003 起，调用失败不收费，免费试用最多 333 次、不用绑卡；需要写代码或在 AI 客户端里配置 - [SDK 与中文文档](https://github.com/data-x-api/dataxapi)
+
 ### 2026 年 11 月 18 号添加
 
 #### HiAPI 开发团队 - [Github](https://github.com/HiAPIAI)
