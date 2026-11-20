@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### z850672062 - [GitHub](https://github.com/z850672062)
+* :white_check_mark: [书本记账](https://github.com/z850672062/shubenjizhang)：AI 语音记账微信小程序，说一句话自动识别金额、分类与标签，可按标签归类与多选筛选统计，支持从其他记账应用迁移数据
+
 #### jpnotes - [GitHub](https://github.com/Ralphbupt)
 * :white_check_mark: [jpnotes 日语备考](https://jpnotes.dev/)：JLPT 日语能力考试备考网站，N5–N1 全部免费：4000+ 道练习题（含带音频的听力题）、整套模拟考、93 课语法笔记和单词卡，答完可让 AI 讲解，点生词加入生词本按间隔复习；免注册，登录后进度多设备同步，中英双语界面
 
