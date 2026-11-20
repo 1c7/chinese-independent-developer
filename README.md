@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### zhangmnn - [GitHub](https://github.com/zhangmnn)
+* :white_check_mark: [面试领航员 InterPilot](https://interpilot.cn)：线上面试时实时识别面试官的问题，结合简历和岗位给出可以直接说出口的回答，支持飞书、钉钉、腾讯会议等网页版，按分钟计费，新用户注册送 20 分钟 - [使用说明](https://interpilot.cn/guide.html)
+
+#### Haoxiang Chen
+* :white_check_mark: [GuruTrans](https://gurutrans.app/)：AI 翻译与文本工具网站，支持中英、日英、希腊语等语言互译，还能把英文改写成莎士比亚等历史风格，以及转换摩斯码，粘贴文字就能用
+
 #### Yuzu-Peel - [GitHub](https://github.com/Yuzu-Peel)
 * :white_check_mark: [TattooTryOn](https://tattootryon.app/)：纹之前，先在自己身上看看效果。上传一张照片，AI 把纹身画进你的皮肤，摆放预览免费
 
