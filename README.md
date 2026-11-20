@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### jpnotes - [GitHub](https://github.com/Ralphbupt)
+* :white_check_mark: [jpnotes 日语备考](https://jpnotes.dev/)：JLPT 日语能力考试备考网站，N5–N1 全部免费：4000+ 道练习题（含带音频的听力题）、整套模拟考、93 课语法笔记和单词卡，答完可让 AI 讲解，点生词加入生词本按间隔复习；免注册，登录后进度多设备同步，中英双语界面
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微境沙盘](https://wyanhub.com/microcosm/)：浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)
 * :white_check_mark: [微言桌面 WyanDesk](https://desk.wyanhub.com/)：浏览器里的个人桌面，可以把常用网站、待办和便签放在同一页，并按自己的习惯调整布局
