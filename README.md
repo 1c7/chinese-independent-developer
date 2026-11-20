@@ -4941,52 +4941,6 @@
 #### sing1ee(上海) - [Github](https://github.com/sing1ee)
 * :x: [Sora Video Downloader](https://soravideodownloader.com/)：从共享链接下载 Sora AI 生成的视频。获取原始提示和高质量视频文件
 
-### 2025 年 10 月 10 号添加
-#### Leo(成都) 
-* :white_check_mark: [Gemini Storybook Gallery](https://geministorybook.gallery/)：Gemini Storybook 汇总，分类，保留原生的交互式阅读体验
-
-#### Ethan Sunray
-* :white_check_mark: [TO MD](https://tomd.io)：将 Word、PDF、表格、演示、网页、图片、音频、压缩包、代码、RSS 和网址转成结构化的 Markdown，秒级转换，无需注册，长期免费，注重隐私与安全。
-
-#### Archer(北京)
-* :white_check_mark: [AI照片渲染](https://www.aimage.top/)：🔥上传任意照片就能快速生成各种风格的头像，轻松满足所有社交平台的头像需求
-
-### 2025 年 10 月 9 号添加
-#### 黑查理(长沙) - [Github](https://github.com/clhey), [博客](https://ruanzhubao.com)
-* :white_check_mark: [软著宝](https://ruanzhubao.com)：AI 生成全套软著材料（包括 8 张软件截图、详细图文文档鉴别材料、60 页原创源代码等）- [更多介绍](https://ruanzhubao.com/blogs/ruanzhubao-shuomingshu)
-
-### 2025 年 10 月 7 号添加
-#### Ryan
-* :white_check_mark: [图像去模糊](https://unblurimg.ai/)：用人工智能技术消除图像模糊，恢复清晰度和细节。即时提升照片清晰度，修复模糊照片，提高分辨率
-
-#### Jali - [Github](https://github.com/qqxufo)
-* :white_check_mark: [NanaVis](https://nanavis.com/zh)：Nano Banana 驱动的 AI 图片编辑工具
-
-### 2025 年 10 月 5 号添加
-#### Leon(杭州)
-* :white_check_mark: [AI-NanoBanana](https://www.ai-nanobanana.net/)：AI 图像工作室，让你轻松把创意变成高质量视觉作品
-
-### 2025 年 10 月 4 号添加
-#### pillow(重庆)
-* :white_check_mark: [Teleprompter](https://teleprompteronline.org)：提词器，适用于视频创作者、演讲者和教育工作者
-
-#### 詹姆斯 周
-* :white_check_mark: [sora2ai.ai](https://sora2ai.ai)：最新的 AI 视频生成模型。创建具有同步音频、对话和效果的逼真且物理准确的视频。
-
-#### fanison(北京)
-* :white_check_mark: [NanoImg](https://nanoimg.net/)：基于 Nano Banana 的 AI 图像引擎，带来简单高效的图片编辑体验。上传图片，输入需求，即刻生成你想要的视觉效果。
-
-### 2025 年 10 月 2 号添加
-#### SUNJL（长春）：
-* :white_check_mark: [AI Lyrics Generator](https://ai-lyrics-generator.net/)：AI 歌词生成 & 改进
-
-#### Margox(北京) - [Github](https://github.com/margox)
-* :white_check_mark: [萌宠计划（iOS）](https://apps.apple.com/cn/app/%E8%90%8C%E5%AE%A0%E8%AE%A1%E5%88%92-%E5%AE%A0%E7%89%A9%E6%97%A5%E8%AE%B0%E4%B8%8E%E6%B6%88%E8%B4%B9%E8%AE%B0%E8%B4%A6/id6748669989)：清新易用的宠物陪伴管家，包含宠物档案、图文日记、消费记账等功能
-
-### 2025 年 10 月 1 号添加
-#### Yuzu-Peel(北京) - [Github](https://github.com/Yuzu-Peel)
-* :white_check_mark: [Beardstyle AI](https://beardstyle.org/)：虚拟试戴胡子
-
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
