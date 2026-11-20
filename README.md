@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### Yuzu-Peel - [GitHub](https://github.com/Yuzu-Peel)
+* :white_check_mark: [TattooTryOn](https://tattootryon.app/)：纹之前，先在自己身上看看效果。上传一张照片，AI 把纹身画进你的皮肤，摆放预览免费
+
 #### z850672062 - [GitHub](https://github.com/z850672062)
 * :white_check_mark: [书本记账](https://github.com/z850672062/shubenjizhang)：AI 语音记账微信小程序，说一句话自动识别金额、分类与标签，可按标签归类与多选筛选统计，支持从其他记账应用迁移数据
 
