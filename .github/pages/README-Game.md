@@ -7,6 +7,7 @@
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [晚灯书店](https://wyanhub.com/bookshop/)：三维网页寻物游戏。可以在书店等场景里找藏物，也可以自己藏一封信，把链接发给朋友来找
 * :white_check_mark: [算独方格](https://wyanhub.com/sudoku/)：网页版数独练习与解题工具。可以自己做题，也可以逐步查看解题推理、整理题本和打印题目
+* :white_check_mark: [微言松弛休闲](https://tools.wyanhub.com/relax)：浏览器益智与怀旧小游戏合集（免费），收录扫雷、推箱子、数独、2048 等经典玩法，也有旋镜引光、落叶归湾等原创短局。打开网页即可玩
 
 #### liuzhen264 - [GitHub](https://github.com/liuzhen264)
 * :white_check_mark: [GuessCrowd](https://guesscrowd.com/)：英文每日问答网页游戏。每天五道生活类问题，每题有 20 秒输入你认为最多人会给出的答案，越常见的答案得分越高。作答后可看答案排名，初期由预估答案生成，再随真实作答更新。每天当地时间零点换题，往期可以重玩。免费，手机和电脑浏览器打开就能玩，无需注册
