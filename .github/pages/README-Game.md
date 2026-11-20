@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 21 号添加
+
+#### zollero - [GitHub](https://github.com/zollero)
+* :white_check_mark: [熊熊时间工具](https://github.com/zollero/bear-time-challenge)：凭感觉估时的微信小程序，开始后不显示计时数字，觉得 10 秒到了就按结束，查看实际用时和误差，也可以和朋友比谁更接近目标
+
 ### 2026 年 11 月 20 号添加
 
 #### 微言 - [GitHub](https://github.com/lxshwyan)

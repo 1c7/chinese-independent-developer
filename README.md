@@ -24,6 +24,16 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 21 号添加
+
+#### Jianyu Chen - [Github](https://github.com/CJianYu)
+* :white_check_mark: [Photo to 3D Model](https://phototo3dmodel.org/)：拍一张物品照片，在浏览器里生成可旋转查看、可下载的 3D 模型（GLB），登录可免费生成一次无纹理模型，带纹理版本按积分付费
+* :white_check_mark: [StmtPilot](https://stmtpilot.com/zh)：将 PDF 银行对账单转为 CSV 或 Excel，保留每笔交易的来源页，方便会计在导出前核对金额和标记行
+
+#### Kuber - [GitHub](https://github.com/iam-tin)
+* :white_check_mark: [Textless](https://textless.video/?utm_source=github&utm_medium=referral&utm_campaign=cn_indie)：AI去除视频文字、字幕、水印。上传视频后框出文字、字幕或水印的位置，AI 重建画面；支持 MP4/MOV/AVI/MKV/WebM，免费可处理 10 秒视频，免登录先试 1 次
+* :white_check_mark: [PawO](https://pawoai.com/?utm_source=github&utm_medium=referral&utm_campaign=cn_indie)：让你的宠物照片动起来！内置了很多AI模板，只需要上传一张宠物照片，就可以让宠物跳舞、模仿人说话、以及特殊搞笑场景模仿
+
 ### 2026 年 11 月 20 号添加
 
 #### zhangmnn - [GitHub](https://github.com/zhangmnn)
