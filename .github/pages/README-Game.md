@@ -2,6 +2,18 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 20 号添加
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [晚灯书店](https://wyanhub.com/bookshop/)：三维网页寻物游戏。可以在书店等场景里找藏物，也可以自己藏一封信，把链接发给朋友来找
+* :white_check_mark: [算独方格](https://wyanhub.com/sudoku/)：网页版数独练习与解题工具。可以自己做题，也可以逐步查看解题推理、整理题本和打印题目
+
+#### liuzhen264 - [GitHub](https://github.com/liuzhen264)
+* :white_check_mark: [GuessCrowd](https://guesscrowd.com/)：英文每日问答网页游戏。每天五道生活类问题，每题有 20 秒输入你认为最多人会给出的答案，越常见的答案得分越高。作答后可看答案排名，初期由预估答案生成，再随真实作答更新。每天当地时间零点换题，往期可以重玩。免费，手机和电脑浏览器打开就能玩，无需注册
+
+#### Ted151951 - [GitHub](https://github.com/Ted151951)
+* :white_check_mark: [pubgspot](https://pubgspot.com/zh/)：《绝地求生》九张互动地图，可查密室和载具点位。在艾伦格和米拉玛点选密室，就能对照游戏实景找到入口。手机浏览器可直接使用
+
 ### 2026 年 11 月 19 号添加
 
 #### yjin94606-art - [GitHub](https://github.com/yjin94606-art)

@@ -24,6 +24,21 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 20 号添加
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [微境沙盘](https://wyanhub.com/microcosm/)：浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)
+* :white_check_mark: [微言桌面 WyanDesk](https://desk.wyanhub.com/)：浏览器里的个人桌面，可以把常用网站、待办和便签放在同一页，并按自己的习惯调整布局
+
+#### wodeai956-ops - [GitHub](https://github.com/wodeai956-ops)
+* :white_check_mark: [AI指南站](https://taofai.com)：把免费 GPU、免费服务器、免费大模型 API 的额度信息逐条核实后整理成清单，标明额度、领取条件和核实日期，失效就下架，帮开发者省去自己逐个验证真伪的时间 - [开源仓库](https://github.com/wodeai956-ops/awesome-free-ai-resources)（179 条清单，每日自动同步）
+
+#### Gao Jiasheng - [Github](https://github.com/GaoJiasheng)
+* :white_check_mark: [观象](https://hexa.gavin.pub)：中国古籍研读网站，85 部典籍原文逐段配白话译文，难字点开有注释，另有朝代时间轴、人物志与诸子对辩，免费免登录无广告
+
+#### 渠道有数 - [GitHub](https://github.com/waligoraamodio288-rgb)
+* :white_check_mark: [红果桌面端](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)：适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 下载与安装](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/blob/main/docs/WINDOWS-INSTALL.md)
+
 ### 2026 年 11 月 19 号添加
 
 #### qijin-3 - [GitHub](https://github.com/qijin-3)
