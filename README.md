@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### Yuzu-Peel - [GitHub](https://github.com/Yuzu-Peel)
+* :white_check_mark: [TattooTryOn](https://tattootryon.app/)：纹之前，先在自己身上看看效果。上传一张照片，AI 把纹身画进你的皮肤，摆放预览免费
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微境沙盘](https://wyanhub.com/microcosm/)：浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)
 * :white_check_mark: [微言桌面 WyanDesk](https://desk.wyanhub.com/)：浏览器里的个人桌面，可以把常用网站、待办和便签放在同一页，并按自己的习惯调整布局
