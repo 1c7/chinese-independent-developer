@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 20 号添加
 
+#### z850672062 - [GitHub](https://github.com/z850672062)
+* :white_check_mark: [书本记账](https://github.com/z850672062/shubenjizhang)：AI 语音记账微信小程序，说一句话自动识别金额、分类与标签，可按标签归类与多选筛选统计，支持从其他记账应用迁移数据
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微境沙盘](https://wyanhub.com/microcosm/)：浏览器里的互动科学沙盘。可以拨动摆球观察摆波、调整棱镜看白光分色，也可以种植物观察生长过程，免登录 - [直接体验摆波](https://wyanhub.com/microcosm/lab/pendulum/)
 * :white_check_mark: [微言桌面 WyanDesk](https://desk.wyanhub.com/)：浏览器里的个人桌面，可以把常用网站、待办和便签放在同一页，并按自己的习惯调整布局
