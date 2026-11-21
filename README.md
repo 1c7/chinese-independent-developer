@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 22 号添加
+
+#### jiji262 - [Github](https://github.com/jiji262)
+* :white_check_mark: [Douzy](https://godouzy.com/)：多平台桌面下载工具，粘贴抖音、TikTok、YouTube、Telegram、X 的链接，自动认出作品、图集、主页或合集，在后台排队下载，存进本机的作品档案；标准版免费，多链接队列、主页批量、关注同步和订阅自动下载需要激活码，支持 macOS（Apple 芯片与 Intel）和 Windows - [英文版](https://godouzy.com/en/)
+
 ### 2026 年 11 月 21 号添加
 
 #### hehehai - [Github](https://github.com/hehehai)
