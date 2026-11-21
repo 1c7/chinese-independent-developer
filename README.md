@@ -69,7 +69,7 @@
 * :white_check_mark: [观象](https://hexa.gavin.pub)：中国古籍研读网站，85 部典籍原文逐段配白话译文，难字点开有注释，另有朝代时间轴、人物志与诸子对辩，免费免登录无广告
 
 #### 渠道有数 - [GitHub](https://github.com/waligoraamodio288-rgb)
-* :white_check_mark: [红果桌面端](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)：适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 下载与安装](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/blob/main/docs/WINDOWS-INSTALL.md)
+* :white_check_mark: [红果桌面端](https://hongguo-directory-traffic.waligoraamodio288.chatgpt.site/project)：适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 固定最新版](https://hongguo-directory-traffic.waligoraamodio288.chatgpt.site/windows)
 
 ### 2026 年 11 月 19 号添加
 
