@@ -1177,7 +1177,7 @@
 * :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
 
 #### KM1024KKM
-* :white_check_mark: [像话口语](https://mirrorsay.com)：说一句中文或英文，听示范、跟读，再回听自己的录音。也能从网页邀请和朋友练同一道题，录音默认私密（iOS / Android）。
+* :white_check_mark: [像话口语](https://mirrorsay.com)：说一句中文或英文，听示范、跟读，再回听自己的录音。也能从网页邀请和朋友练同一道题，录音默认私密（iOS / Android）
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Bulin 47 AI](https://getbulin47ai.com)：AI freestyle 视频生成器，上传一张正面人物照片，生成红灯餐厅场景下的 15 秒 9:16 竖屏表演视频；内置参考动作，无需编写提示词，可选 Seedance 2.0 / 2.5 与 480p / 720p，下载带原参考音频或无声版 MP4；生成需登录并购买积分，$9.90 起一次性付费，无订阅，失败退回扣除的积分；独立粉丝工具，与 Bulin 47、Kevin Wai 无隶属或背书关系
