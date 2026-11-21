@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### 饭响
+* :white_check_mark: [饭响](https://fanxiang.cc)：中文低粉创作者变现路线站，联盟项目库收录国内外 50 多个推广计划，每个按官方页写清佣金比例、分多久、提现门槛和收款方式，另有网盘拉新教程和变现问答，免费免注册
+
 #### ixiehao - [Github](https://github.com/ixiehao)
 * :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
 * :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
