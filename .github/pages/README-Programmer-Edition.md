@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 21 号添加
+
+#### StarFans - [GitHub](https://github.com/jiangxingfan1-coder)
+* :white_check_mark: [Open Agent API](https://openagentapi.pages.dev/)：自托管开发工具，让现有 Python 或 Node.js 程序沿用 OpenAI SDK 调用本机代码助手，不用自己管理交互式命令行进程。Apache-2.0 开源，附不耗模型额度的离线示例 - [源码与中文快速入门](https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/README.zh-CN.md)
+
 ### 2026 年 11 月 20 号添加
 
 #### DataXAPI 团队 - [Github](https://github.com/data-x-api)

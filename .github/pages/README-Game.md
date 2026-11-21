@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [闲钓小栈](https://fishing.wyanhub.com/)：在电脑浏览器里玩的单人 3D 钓鱼模拟。可以去池塘、河流、湖泊和近海选钓位，从配钓组、调漂、抛竿一路练到看漂、遛鱼和抄鱼。也可以单独练习辨认漂相和调漂。免费免登录，练习记录保存在当前浏览器
+
 #### zollero - [GitHub](https://github.com/zollero)
 * :white_check_mark: [熊熊时间工具](https://github.com/zollero/bear-time-challenge)：凭感觉估时的微信小程序，开始后不显示计时数字，觉得 10 秒到了就按结束，查看实际用时和误差，也可以和朋友比谁更接近目标
 

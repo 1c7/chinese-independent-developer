@@ -26,6 +26,13 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### ixiehao - [Github](https://github.com/ixiehao)
+* :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
+* :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
+
+#### Linky - [Github](https://github.com/Linky-AIinlink)
+* :white_check_mark: [Site Templates Hub](https://sitetemplateshub.com/)：免费 Google Sites 网站模板库，挑一个复制到自己的 Google Drive，替换文字和照片即可发布；无需写代码，托管免费，可绑定自定义域名
+
 #### Jianyu Chen - [Github](https://github.com/CJianYu)
 * :white_check_mark: [Photo to 3D Model](https://phototo3dmodel.org/)：拍一张物品照片，在浏览器里生成可旋转查看、可下载的 3D 模型（GLB），登录可免费生成一次无纹理模型，带纹理版本按积分付费
 * :white_check_mark: [StmtPilot](https://stmtpilot.com/zh)：将 PDF 银行对账单转为 CSV 或 Excel，保留每笔交易的来源页，方便会计在导出前核对金额和标记行
