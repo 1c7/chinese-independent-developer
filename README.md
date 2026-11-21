@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### 饭响
+* :white_check_mark: [饭响](https://fanxiang.cc)：中文低粉创作者变现路线站，联盟项目库收录国内外 50 多个推广计划，每个按官方页写清佣金比例、分多久、提现门槛和收款方式，另有网盘拉新教程和变现问答，免费免注册
+
 #### Ceelog - [GitHub](https://github.com/Ceelog)
 * :white_check_mark: [CleanBit](https://getcleanbit.app/zh/)：Mac App Store 沙盒磁盘清理工具，无需 root 也不装后台进程；每一项缓存、Xcode/node_modules 项目产物、AI 会话与应用残留都会先写明是什么和删了有什么影响，确认后才动手，待确认项一律移入废纸篓可放回。扫描和前 2 次清理免费，提供订阅与一次买断 - [Mac App Store](https://apps.apple.com/app/apple-store/id6829159531?pt=127116872&ct=github-list&mt=8)
 
