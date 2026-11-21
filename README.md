@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### Ceelog - [GitHub](https://github.com/Ceelog)
+* :white_check_mark: [CleanBit](https://getcleanbit.app/zh/)：Mac App Store 沙盒磁盘清理工具，无需 root 也不装后台进程；每一项缓存、Xcode/node_modules 项目产物、AI 会话与应用残留都会先写明是什么和删了有什么影响，确认后才动手，待确认项一律移入废纸篓可放回。扫描和前 2 次清理免费，提供订阅与一次买断 - [Mac App Store](https://apps.apple.com/app/apple-store/id6829159531?pt=127116872&ct=github-list&mt=8)
+
 #### ixiehao - [Github](https://github.com/ixiehao)
 * :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
 * :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
