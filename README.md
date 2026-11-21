@@ -29,6 +29,9 @@
 #### 饭响
 * :white_check_mark: [饭响](https://fanxiang.cc)：中文低粉创作者变现路线站，联盟项目库收录国内外 50 多个推广计划，每个按官方页写清佣金比例、分多久、提现门槛和收款方式，另有网盘拉新教程和变现问答，免费免注册
 
+#### Ceelog - [GitHub](https://github.com/Ceelog)
+* :white_check_mark: [CleanBit](https://getcleanbit.app/zh/)：Mac App Store 沙盒磁盘清理工具，无需 root 也不装后台进程；每一项缓存、Xcode/node_modules 项目产物、AI 会话与应用残留都会先写明是什么和删了有什么影响，确认后才动手，待确认项一律移入废纸篓可放回。扫描和前 2 次清理免费，提供订阅与一次买断 - [Mac App Store](https://apps.apple.com/app/apple-store/id6829159531?pt=127116872&ct=github-list&mt=8)
+
 #### ixiehao - [Github](https://github.com/ixiehao)
 * :white_check_mark: [Any2WebP](https://ixiehao.github.io/Any2WebP/zh/)：本地图片转换工具，把图片批量转为 WebP 或 GIF，也能把多张图片或短视频片段制成动图并逐帧对比；免费、MIT 开源 - [源码与下载](https://github.com/ixiehao/Any2WebP)
 * :white_check_mark: [ezNTFS](https://ixiehao.github.io/ezNTFS/zh/)：Mac 外接 NTFS 磁盘读写工具，支持按磁盘自动挂载、安全推出和 SHA-256 复制校验；免费开源，需 macFUSE - [源码与安装要求](https://github.com/ixiehao/ezNTFS)
@@ -72,7 +75,7 @@
 * :white_check_mark: [观象](https://hexa.gavin.pub)：中国古籍研读网站，85 部典籍原文逐段配白话译文，难字点开有注释，另有朝代时间轴、人物志与诸子对辩，免费免登录无广告
 
 #### 渠道有数 - [GitHub](https://github.com/waligoraamodio288-rgb)
-* :white_check_mark: [红果桌面端](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases)：适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 下载与安装](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/blob/main/docs/WINDOWS-INSTALL.md)
+* :white_check_mark: [红果桌面端](https://hongguo-directory-traffic.waligoraamodio288.chatgpt.site/project)：适用于 Windows 10 / 11 x64 的免费第三方短剧客户端，在电脑上搜索、选集、收藏和接着本机进度看。由渠道有数独立维护，非红果官方出品。另有 Mac 和 Android TV 测试版 - [Windows 固定最新版](https://hongguo-directory-traffic.waligoraamodio288.chatgpt.site/windows)
 
 ### 2026 年 11 月 19 号添加
 
@@ -1154,7 +1157,7 @@
 * :white_check_mark: [DiscourseCopilot](https://chromewebstore.google.com/detail/discoursecopilot/dpngnaiiofobfjleabbhnfmdflddnhac)：Discourse 论坛 AI 阅读助手（Chrome 插件），一键总结几百楼的长帖，或让 AI 在全站搜索并给出带楼层引用的答案；自带 OpenAI/Claude/DeepSeek 等 key 或用 Ollama 本地模型，无服务器、无统计，免费开源 - [源码](https://github.com/kccarlos/DiscourseCopilot)
 
 #### KM1024KKM
-* :white_check_mark: [像话](https://mirrorsay.com)：无需注册，说一句英语就告诉你母语者会怎么说，再带你跟读、逐词对比；英文卡住时说中文也行（iOS / Android，免费）
+* :white_check_mark: [像话口语](https://mirrorsay.com)：说一句中文或英文，听示范、跟读，再回听自己的录音。也能从网页邀请和朋友练同一道题，录音默认私密（iOS / Android）。
 
 #### littlePig-zzf - [Github](https://github.com/littlePig-zzf)
 * :white_check_mark: [Bulin 47 AI](https://getbulin47ai.com)：AI freestyle 视频生成器，上传一张正面人物照片，生成红灯餐厅场景下的 15 秒 9:16 竖屏表演视频；内置参考动作，无需编写提示词，可选 Seedance 2.0 / 2.5 与 480p / 720p，下载带原参考音频或无声版 MP4；生成需登录并购买积分，$9.90 起一次性付费，无订阅，失败退回扣除的积分；独立粉丝工具，与 Bulin 47、Kevin Wai 无隶属或背书关系
