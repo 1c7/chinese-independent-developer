@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### jnmbys - [GitHub](https://github.com/jnmbys)
+* :white_check_mark: [jnmbys's billions zombie](https://zombie.jnmbys-war-atlas.com/)：免费网页守城游戏，1–4 人可以一起建据点、修城墙、给炮塔补弹；尸潮恶母会标记受损的石墙，引导僵尸集中突破。支持中英文、触屏和存档续玩，无需注册
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [闲钓小栈](https://fishing.wyanhub.com/)：在电脑浏览器里玩的单人 3D 钓鱼模拟。可以去池塘、河流、湖泊和近海选钓位，从配钓组、调漂、抛竿一路练到看漂、遛鱼和抄鱼。也可以单独练习辨认漂相和调漂。免费免登录，练习记录保存在当前浏览器
 

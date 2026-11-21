@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 21 号添加
 
+#### hehehai - [Github](https://github.com/hehehai)
+* :white_check_mark: [Pik](https://actnow.dev/zh/pik)：菜单栏取色器，取屏幕上任意一点的颜色存进调色板，可复制成 CSS、SwiftUI 等 28 种代码格式
+
 #### StarFans - [GitHub](https://github.com/jiangxingfan1-coder)
 * :white_check_mark: [Open Agent API](https://openagentapi.pages.dev/)：自托管开发工具，让现有 Python 或 Node.js 程序沿用 OpenAI SDK 调用本机代码助手，不用自己管理交互式命令行进程。Apache-2.0 开源，附不耗模型额度的离线示例 - [源码与中文快速入门](https://github.com/jiangxingfan1-coder/Open-Agent-API/blob/main/README.zh-CN.md)
 

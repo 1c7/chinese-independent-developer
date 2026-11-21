@@ -26,6 +26,26 @@
 
 ### 2026 年 11 月 21 号添加
 
+#### hehehai - [Github](https://github.com/hehehai)
+* :white_check_mark: [Refto](https://refto.one)：Mac 上的素材库，图片、视频、PDF、网页收进一个库，按画面里的文字、录音里的话和相似图片找回来；AI 在本机运行，不上传
+* :white_check_mark: [Dicta](https://actnow.dev/zh/dicta)：Mac 会议记录，不拉机器人进会，Zoom、腾讯会议、飞书开会时自动录音，本机分说话人转写并写总结
+* :white_check_mark: [Inboxly](https://actnow.dev/zh/inboxly)：Mac 邮件 App，Gmail、iCloud、QQ 邮箱、163 收进一个收件箱，等你回的信排最前，摘要和回信由本机模型写
+* :white_check_mark: [AudioSmith](https://actnow.dev/zh/audiosmith)：Mac 本机语音工作室，朗读、克隆音色、做有声书、给视频配另一种语言，下载模型后离线可用，免费开源 - [开源代码](https://github.com/hehehai/AudioSmith)
+* :white_check_mark: [VoxtMini](https://actnow.dev/zh/voxtmini)：Mac 语音输入，在任何 App 里按右 Option 说话，本地模型转成文字、翻译或改写，支持中英日，免费开源 - [开源代码](https://github.com/hehehai/VoxtMini)
+* :white_check_mark: [Auralink](https://actnow.dev/zh/auralink)：Mac 语音输入，按 fn 说话，用你自己的豆包、阿里云、阶跃星辰等密钥，整理好的文字直接出现在光标处，免费开源 - [开源代码](https://github.com/hehehai/Auralink)
+
+#### lrj982795268-arch - [GitHub](https://github.com/lrj982795268-arch)
+* :white_check_mark: [今天吃什么](https://jinrichishenme.xyz/)：家庭配餐工具，可以按冰箱里的食材找菜，选好早午晚餐后，把几顿饭要买的东西合成一张清单
+
+#### loaslave1 - [GitHub](https://github.com/loaslave1)
+* :white_check_mark: [DROP](https://drop.space/)：临时文件收发工具。发一个链接，客户就能免注册交原稿，各自只看见自己交的文件。也可以授权 AI 助手收稿、核对缺件
+
+#### Ricky(深圳)
+* :white_check_mark: [TransparentGIFMaker](https://transparentgifmaker.online)：一键移除动画 GIF 的背景并保留动画，输出透明 GIF，注册送 5 积分免费试
+
+#### Zengzihe - [Github](https://github.com/fatfish516)
+* :white_check_mark: [gifkit](https://gifkit.net)：浏览器里的免费 GIF 工具箱，文件全程不上传：把 GIF 压缩到目标大小（含 Discord 的 256KB）、裁剪、变速、逐帧导出 PNG 或 ZIP、输入文字生成打字动图；免注册、无水印
+
 #### 饭响
 * :white_check_mark: [饭响](https://fanxiang.cc)：中文低粉创作者变现路线站，联盟项目库收录国内外 50 多个推广计划，每个按官方页写清佣金比例、分多久、提现门槛和收款方式，另有网盘拉新教程和变现问答，免费免注册
 
@@ -4897,53 +4917,6 @@
 #### haocheng - [Github](https://github.com/cabbagehao)
 * :white_check_mark: [GenColoring AI](https://gencoloring.ai)：AI 生成涂色页平台 - [博客介绍](https://blog.csdn.net/weixin_52314137/article/details/152511285)
 * :white_check_mark: [Morse Coder](https://morse-coder.com)：摩斯密码在线转换工具
-
-### 2025 年 10 月 20 号添加
-#### monsoonw(杭州) 
-* :white_check_mark: [Free Sora Watermark Adder](https://sorawatermarkadder.online)：为任何视频添加 Sora 水印
-
-#### zhugezifang
-* :white_check_mark: [在线记事本 – 免费在线文本编辑器与笔记分享](https://onlinenotepad101.org/)：记事本，用于无干扰写作、记笔记和文本编辑。免费，无需注册，可与他人分享笔记
-
-#### Aris(美国) - [Github](https://github.com/AriesApp)
-* :white_check_mark: [Elisi](https://www.elisiapp.com/)：AI + All in one 个人日程效率软件
-
-#### 阿歪(上海) - [Github](https://github.com/iyhub), [Blog](https://iwhy.dev/)
-* :white_check_mark: [AI Detector](https://gptdetect.ai/)： 检查你的文本是否 AI 生成
-* :x: [Image to Image](https://imagetoimage.app/)： AI 图片编辑
-* :white_check_mark: [Image Describer](https://imagedescriber.cc/)： 利用AI为图片生成智能描述
-* :x: [Liquid Glass HQ](https://liquidglasshq.com/)： 液态玻璃资源收集站
-
-#### nnpyro(武汉) - [Github](https://github.com/nnpyro1/SyncTunnel/), [博客](nnpyro.fwh.is)
-* :white_check_mark: [SyncTunnel](nnpyro.fwh.is)：跨平台高效文件同步和远程管理软件
-
-#### Ting
-* :white_check_mark: [Turbo Learn](https://turbo-learn.com/)：从文档、图片、拼音文件生成笔记的 AI 学习工具网站
-* :x: [nano banana](https://nano-banana.pro/)：AI 驱动的图像编辑器
-* :white_check_mark: [List Difference](https://list-difference.com/)：数据比较工具，它对两个列表执行SET操作，以查找惟一项、交集和联合，提供高效的数据协调
-* :white_check_mark: [ai review generator](https://reviewgenerator.org/)：生成商品评论的 AI 工具
-
-#### Ethan Sunray
-* :white_check_mark: [Sora Watermark Adder](https://sorawatermarkadder.org)：为视频添加专业的 Sora AI 同款水印，浏览器本地完成，无需上传，保护您的隐私，永久免费使用
-
-### 2025 年 10 月 18 号添加
-#### 饭特稀 - [Github](https://github.com/shineforever)
-* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora 视频去水印，5 秒内完成，操作简单
-
-### 2025 年 10 月 17 号添加
-#### Damon986
-* :white_check_mark: [SongGet](https://songget.com/)：多合1的音乐下载软件，可从 Amazon, YouTube, Apple, Spotify, SoundCloud, Line, Tidal, Deezer 等音乐流媒体平台下载高质量音乐，支持批量下载
-* :white_check_mark: [Moyea Downloader](https://www.moyeasoft.com/downloader/)：多合1的视频下载软件，可从 Amazon Prime, YouTube, Apple TV+, Instagram, TikTok, Facebook, Twitter/X, Disney+, Netflix, Hulu 等视频流媒体平台下载点播视频与直播视频，支持批量下载
-
-#### samtts(杭州) - [Github](https://github.com/samtts-voice)
-* :white_check_mark: [SAM TTS](https://samtts.com/)：微软 SAM 语音合成工具，重现经典 Windows XP 系统的标志性机器人语音，支持浏览器直接使用无需下载
-* :white_check_mark: [AI Hairstlye Changer](https://aihairstylechanger.net/)：AI 发型虚拟试换工具，上传照片即可在线试戴 50+ 种发型和 30+ 种发色，帮助用户找到完美造型
-* :white_check_mark: [顔文字屋](https://www.kaomojiya.org/)：颜文字网站，提供丰富的表情符号分类（哭泣、开心、生气等），一键复制即可在聊天软件中使用
-
-#### indiehack(北京) - [Github](https://github.com/aitoolcentert-del)
-* :white_check_mark: [Image Inverter](https://imageinverter.app/) ： 图片颜色反转工具，可将黑色转为白色、创建照片负片效果,无需注册即可在浏览器中即时处理
-* :x: [Circle Crop Image](https://circle-crop-image.net/)：圆形裁剪工具，可快速制作完美的圆形头像和社交媒体图片,支持透明背景导出
-* :white_check_mark: [Grayscale Image](https://grayscaleimage.org/)：图片灰度转换工具，可将彩色照片转为黑白灰度图像,适合制作复古效果和减小文件大小
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

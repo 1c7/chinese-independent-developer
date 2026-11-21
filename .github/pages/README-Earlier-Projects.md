@@ -6,6 +6,53 @@
 
 ---
 
+### 2025 年 10 月 20 号添加
+#### monsoonw(杭州) 
+* :white_check_mark: [Free Sora Watermark Adder](https://sorawatermarkadder.online)：为任何视频添加 Sora 水印
+
+#### zhugezifang
+* :white_check_mark: [在线记事本 – 免费在线文本编辑器与笔记分享](https://onlinenotepad101.org/)：记事本，用于无干扰写作、记笔记和文本编辑。免费，无需注册，可与他人分享笔记
+
+#### Aris(美国) - [Github](https://github.com/AriesApp)
+* :white_check_mark: [Elisi](https://www.elisiapp.com/)：AI + All in one 个人日程效率软件
+
+#### 阿歪(上海) - [Github](https://github.com/iyhub), [Blog](https://iwhy.dev/)
+* :white_check_mark: [AI Detector](https://gptdetect.ai/)： 检查你的文本是否 AI 生成
+* :x: [Image to Image](https://imagetoimage.app/)： AI 图片编辑
+* :white_check_mark: [Image Describer](https://imagedescriber.cc/)： 利用AI为图片生成智能描述
+* :x: [Liquid Glass HQ](https://liquidglasshq.com/)： 液态玻璃资源收集站
+
+#### nnpyro(武汉) - [Github](https://github.com/nnpyro1/SyncTunnel/), [博客](nnpyro.fwh.is)
+* :white_check_mark: [SyncTunnel](nnpyro.fwh.is)：跨平台高效文件同步和远程管理软件
+
+#### Ting
+* :white_check_mark: [Turbo Learn](https://turbo-learn.com/)：从文档、图片、拼音文件生成笔记的 AI 学习工具网站
+* :x: [nano banana](https://nano-banana.pro/)：AI 驱动的图像编辑器
+* :white_check_mark: [List Difference](https://list-difference.com/)：数据比较工具，它对两个列表执行SET操作，以查找惟一项、交集和联合，提供高效的数据协调
+* :white_check_mark: [ai review generator](https://reviewgenerator.org/)：生成商品评论的 AI 工具
+
+#### Ethan Sunray
+* :white_check_mark: [Sora Watermark Adder](https://sorawatermarkadder.org)：为视频添加专业的 Sora AI 同款水印，浏览器本地完成，无需上传，保护您的隐私，永久免费使用
+
+### 2025 年 10 月 18 号添加
+#### 饭特稀 - [Github](https://github.com/shineforever)
+* :white_check_mark: [Sora Watermark Remover](https://removemark.io)：Sora 视频去水印，5 秒内完成，操作简单
+
+### 2025 年 10 月 17 号添加
+#### Damon986
+* :white_check_mark: [SongGet](https://songget.com/)：多合1的音乐下载软件，可从 Amazon, YouTube, Apple, Spotify, SoundCloud, Line, Tidal, Deezer 等音乐流媒体平台下载高质量音乐，支持批量下载
+* :white_check_mark: [Moyea Downloader](https://www.moyeasoft.com/downloader/)：多合1的视频下载软件，可从 Amazon Prime, YouTube, Apple TV+, Instagram, TikTok, Facebook, Twitter/X, Disney+, Netflix, Hulu 等视频流媒体平台下载点播视频与直播视频，支持批量下载
+
+#### samtts(杭州) - [Github](https://github.com/samtts-voice)
+* :white_check_mark: [SAM TTS](https://samtts.com/)：微软 SAM 语音合成工具，重现经典 Windows XP 系统的标志性机器人语音，支持浏览器直接使用无需下载
+* :white_check_mark: [AI Hairstlye Changer](https://aihairstylechanger.net/)：AI 发型虚拟试换工具，上传照片即可在线试戴 50+ 种发型和 30+ 种发色，帮助用户找到完美造型
+* :white_check_mark: [顔文字屋](https://www.kaomojiya.org/)：颜文字网站，提供丰富的表情符号分类（哭泣、开心、生气等），一键复制即可在聊天软件中使用
+
+#### indiehack(北京) - [Github](https://github.com/aitoolcentert-del)
+* :white_check_mark: [Image Inverter](https://imageinverter.app/) ： 图片颜色反转工具，可将黑色转为白色、创建照片负片效果,无需注册即可在浏览器中即时处理
+* :x: [Circle Crop Image](https://circle-crop-image.net/)：圆形裁剪工具，可快速制作完美的圆形头像和社交媒体图片,支持透明背景导出
+* :white_check_mark: [Grayscale Image](https://grayscaleimage.org/)：图片灰度转换工具，可将彩色照片转为黑白灰度图像,适合制作复古效果和减小文件大小
+
 ### 2025 年 10 月 16 号添加
 #### lanmo(武汉) - [Github](https://github.com/oddboy0152-create)
 * :white_check_mark: [Veo 3.1 AI](https://veo3-1.co/zh)：使用 Veo3.1 创作电影级视频，配备 1080p 原生音频、首尾帧控制及免费试用额度
