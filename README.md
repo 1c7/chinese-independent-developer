@@ -26,6 +26,18 @@
 
 ### 2026 年 11 月 22 号添加
 
+#### Heming9 - [GitHub](https://github.com/Heming9)
+* :white_check_mark: [Agenterm](https://agenterm.net/)：开源远程终端工具，让已有的 Codex 或 Claude Code 协助排查同事电脑上的环境与日志。对方用邀请里的一条命令下载并启动 Rust CLI，确认授权后才连接，无需配置 SSH - [源码与中文指南](https://github.com/Heming9/agenterm/blob/main/README.zh-CN.md)
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [小伴清单](https://together.wyanhub.com/about.html)：给家人和朋友一起用的待办清单，家务、采购或出行准备可以放进同一张清单，邀请对方一起添加、认领和勾选，电脑上整理好，手机上接着看
+
+#### Aaron - [Github](https://github.com/aaronzmemo-maker)
+* :white_check_mark: [TeamLingua](https://teamlingua.github.io/)：团队职场英语练习网页，题目来自请假、订会议室等真实上班场景，可先做一题再注册，完全免费，界面目前是简体中文
+
+#### cian - [Github](https://github.com/a3011336204-cmyk)
+* :white_check_mark: [AI Game Makers](https://aigamemakers.com/)：Roblox AI 游戏生成工具，用一句话描述想做的 Roblox 游戏（中文英文都行），AI 自己策划玩法、搭 3D 地图、写 Luau 脚本和界面，平均约 35 分钟出一整款，下载 .rbxlx 用免费的 Roblox Studio 打开就能玩；第一款完整游戏免费，不用绑卡
+
 #### jiji262 - [Github](https://github.com/jiji262)
 * :white_check_mark: [Douzy](https://godouzy.com/)：多平台桌面下载工具，粘贴抖音、TikTok、YouTube、Telegram、X 的链接，自动认出作品、图集、主页或合集，在后台排队下载，存进本机的作品档案；标准版免费，多链接队列、主页批量、关注同步和订阅自动下载需要激活码，支持 macOS（Apple 芯片与 Intel）和 Windows - [英文版](https://godouzy.com/en/)
 
