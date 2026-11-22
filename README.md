@@ -26,9 +26,6 @@
 
 ### 2026 年 11 月 22 号添加
 
-#### Heming9 - [GitHub](https://github.com/Heming9)
-* :white_check_mark: [Agenterm](https://agenterm.net/)：开源远程终端工具，让已有的 Codex 或 Claude Code 协助排查同事电脑上的环境与日志。对方用邀请里的一条命令下载并启动 Rust CLI，确认授权后才连接，无需配置 SSH - [源码与中文指南](https://github.com/Heming9/agenterm/blob/main/README.zh-CN.md)
-
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [小伴清单](https://together.wyanhub.com/about.html)：给家人和朋友一起用的待办清单，家务、采购或出行准备可以放进同一张清单，邀请对方一起添加、认领和勾选，电脑上整理好，手机上接着看
 
