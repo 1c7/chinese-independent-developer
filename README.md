@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### Jason - [GitHub](https://github.com/sillyaboy)
+* :white_check_mark: [闪电右键 QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12)：给 Mac 访达的右键菜单补上一整套常用操作——系统只给了「新建文件夹」，它能直接新建文本、Markdown、Word、Excel 等格式的文件（可自定义模板）、剪切移动、复制完整路径、在当前文件夹开终端、图片转换压缩、算 SHA-256；完全免费，不用注册、没有订阅，只有可选的小费
+
 #### ducheng980-coder - [Github](https://github.com/ducheng980-coder)
 * :white_check_mark: [MFXGJ 免费小工具](https://ducheng980-coder.github.io/)：免费在线工具集合，35 个工具：个税（五险一金）、贷款、复利计算，字数统计、JSON 格式化、图片压缩、二维码生成等，免注册、手机可用，所有处理都在浏览器本地完成不上传
 
