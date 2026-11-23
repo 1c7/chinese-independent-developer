@@ -2,6 +2,14 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 23 号添加
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [团团巡梦](https://wyanhub.itch.io/tuantuan-dreams)：在浏览器里玩的单人 3D 梦境冒险，走过六个梦境、60 个短关卡，收集光点、找回遗失物，点亮沉睡的花园，支持简体中文，进度保存在当前浏览器，也支持微信小程序
+
+#### anoxia
+* :white_check_mark: [Football Krillion](https://footballkrillion.net/)：每天七道男子世界杯问答，根据 1930 至 2022 年的赛事线索填入球员或代表队。同一题有多个正确答案，答对越少见的选手或球队，得分越高。每日挑战免费，手机和电脑浏览器均可直接游玩，支持简体中文，无需注册
+
 ### 2026 年 11 月 21 号添加
 
 #### jnmbys - [GitHub](https://github.com/jnmbys)

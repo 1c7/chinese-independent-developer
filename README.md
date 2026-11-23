@@ -26,11 +26,29 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [微言工具箱](https://tools.wyanhub.com/tools)：在浏览器里改证件照尺寸和底色、处理 PDF、整理表格，多数工具在本地运行，打开网页就能用 - [直接做证件照](https://tools.wyanhub.com/tools/image/id-photo-layout)
+
 #### Jason - [GitHub](https://github.com/sillyaboy)
 * :white_check_mark: [闪电右键 QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12)：给 Mac 访达的右键菜单补上一整套常用操作——系统只给了「新建文件夹」，它能直接新建文本、Markdown、Word、Excel 等格式的文件（可自定义模板）、剪切移动、复制完整路径、在当前文件夹开终端、图片转换压缩、算 SHA-256；完全免费，不用注册、没有订阅，只有可选的小费
 
 #### ducheng980-coder - [Github](https://github.com/ducheng980-coder)
 * :white_check_mark: [MFXGJ 免费小工具](https://ducheng980-coder.github.io/)：免费在线工具集合，35 个工具：个税（五险一金）、贷款、复利计算，字数统计、JSON 格式化、图片压缩、二维码生成等，免注册、手机可用，所有处理都在浏览器本地完成不上传
+
+#### SN0VV - [GitHub](https://github.com/SN0VV0511)
+* :white_check_mark: [SN0VV CITY](https://www.sn0vv.top/)：可以在浏览器里漫游的 3D 滨海城市，点击建筑探索里面的项目，还能坐 08 号楼「技术手稿馆」的电梯，翻看架构笔记和 LoRA 指南
+
+#### shil630 - [GitHub](https://github.com/shil630)
+* :white_check_mark: [Thesisee 持见](https://thesisee.com/)：用新财报对照原有投资假设、标注原文依据并留存判断的研究工具 - [产品介绍](https://thesisee.com/product/)
+
+#### Berry-hcy
+* :white_check_mark: [Reletter](https://aiedittextinimage.com/)：在浏览器里识别并逐块修改截图、菜单和商品图片中的中英文文字，标准编辑和带水印预览免费免登录，无水印 PNG 下载和 AI 局部重绘按积分计费
+
+#### LW - [GitHub](https://github.com/lwxyfer)
+* :white_check_mark: [JustSVG](https://justsvg.vercel.app/)：开源的网页图表编辑器，从空白画布、示例或已有 SVG 起步，修改架构图、流程图和信息图的文字、图形与位置，再导出可继续编辑的 SVG；无需注册 - [源码](https://github.com/lwxyfer/justsvg)
+
+#### Q.Jin - [GitHub](https://github.com/qijin-3)
+* :white_check_mark: [DemoReady](https://demoready.bitwonder.app/)：在浏览器里录产品演示视频，直接输入 localhost 或线上网页链接就能开录，先选视频比例、手机平板电脑的 Mockup 和背景（含莫奈、葛饰北斋画作），实时预览后录制下载，不用装软件、不用再剪辑
 
 ### 2026 年 11 月 22 号添加
 

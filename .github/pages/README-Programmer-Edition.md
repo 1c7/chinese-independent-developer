@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 23 号添加
+
+#### Ethan - [GitHub](https://github.com/hAcKlyc)
+* :white_check_mark: [MyAgents](https://github.com/hAcKlyc/MyAgents)：开源桌面 Agent 工作台与任务中心，在 macOS 和 Windows 上为 Claude、Codex、DeepSeek Harness 配置各自的工作区，创建定时任务，也可把活派给自己的另一台在线电脑 - [安装包](https://github.com/hAcKlyc/MyAgents/releases/tag/v0.5.14)
+
 ### 2026 年 11 月 22 号添加
 
 #### Heming9 - [GitHub](https://github.com/Heming9)
