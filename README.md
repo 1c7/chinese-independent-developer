@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com/)
+* :white_check_mark: [赛博小生灵](https://37lg9exexq3fzopftr0.traesite.cn/)：「电子放生」微信小程序，在地图上划定的开放区域里放归一只小生灵，它会在那里自在游动漂移，心情值随之积累
+
 #### 苏维 - [Github](https://github.com/dsfsdsfs2007)
 * :white_check_mark: [回声口袋](https://huishengkoudai.cn/)：中文音视频转文字工具，把会议、采访和课程录音自动整理成带时间轴、可区分说话人的文字稿，支持导出和分享，提供网站和小程序
 
