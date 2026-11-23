@@ -26,6 +26,10 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### Miracle - [Github](https://github.com/zhoulianbo)
+* :white_check_mark: [H3ImageGen](https://h3imagegen.com/)：在浏览器中使用 MiniMax H3 的图片生成与编辑工具，可根据文字提示词和最多 16 张参考图创作并下载图片
+* :white_check_mark: [LogoAnimation](https://logoanimation.net/)：AI 标识动画制作工具，可将已有品牌标识制作成视频片头或片尾。创业者、内容创作者、营销人员和设计师无需操作时间轴或安装动画软件，即可为品牌制作动效
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微言工具箱](https://tools.wyanhub.com/tools)：在浏览器里改证件照尺寸和底色、处理 PDF、整理表格，多数工具在本地运行，打开网页就能用 - [直接做证件照](https://tools.wyanhub.com/tools/image/id-photo-layout)
 
