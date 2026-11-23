@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### 苏维 - [Github](https://github.com/dsfsdsfs2007)
+* :white_check_mark: [回声口袋](https://huishengkoudai.cn/)：中文音视频转文字工具，把会议、采访和课程录音自动整理成带时间轴、可区分说话人的文字稿，支持导出和分享，提供网站和小程序
+
 #### hypercube67 - [Github](https://github.com/hypercube67-formal)
 * :white_check_mark: [MakeMidas](https://makemidas.com)：AI 生图、生视频和音乐工具，一个页面、一份积分就能用 GPT Image、Nano Banana、Veo、Kling、Seedance、Suno 等主流模型，生成前先显示要扣的积分，失败自动退回，新账号验证邮箱送 50 积分
 
@@ -56,9 +59,6 @@
 
 #### LW - [GitHub](https://github.com/lwxyfer)
 * :white_check_mark: [JustSVG](https://justsvg.vercel.app/)：开源的网页图表编辑器，从空白画布、示例或已有 SVG 起步，修改架构图、流程图和信息图的文字、图形与位置，再导出可继续编辑的 SVG；无需注册 - [源码](https://github.com/lwxyfer/justsvg)
-
-#### Q.Jin - [GitHub](https://github.com/qijin-3)
-* :white_check_mark: [DemoReady](https://demoready.bitwonder.app/)：在浏览器里录产品演示视频，直接输入 localhost 或线上网页链接就能开录，先选视频比例、手机平板电脑的 Mockup 和背景（含莫奈、葛饰北斋画作），实时预览后录制下载，不用装软件、不用再剪辑
 
 ### 2026 年 11 月 22 号添加
 
