@@ -4900,64 +4900,6 @@
 #### dodid
 * :x: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777)：Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
 
-### 2025 年 10 月 30 号添加
-#### zxcHolmes
-* :white_check_mark: [FilingInsight](https://filing-insight.com/)：快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
-
-#### KryoWang（广州）- [Github](https://github.com/wangxiaosu)
-* :white_check_mark: [image-to-sketch](https://www.imagetosketch.app/)：图片转素描 AI 小工具
-
-#### SparkHo(广州) 
-* :white_check_mark: [媒发](https://mediaput.cn/?utm_source=1c7)：内容分发工具，将内容发布/同步到各个媒体平台，只需 1 分钟
-
-#### pillow(重庆)
-* :white_check_mark: [音频转文字工具](https://audio2textai.com)：AI 音频转文字，快速、精准、安全的转写服务
-
-#### oroKAKA - [Github](https://github.com/oroKAKA)
-* :white_check_mark: [Leawo free-screen-recorder](https://ja.leawo.com/free-screen-recorder/)：免费录像软件，支持 4K，无时长限制，无水印
-
-### 2025 年 10 月 28 号添加
-#### LinightX(苏州)
-* :white_check_mark: [AimtrainerX](https://aimtrainerx.com/)：专为 FPS 爱好者打造的瞄准训练网站，免费、上班可玩，丰富的训练模式，支持自定义训练样式
-
-### 2025 年 10 月 27 号添加
-#### Ryan(shanghai) 
-* :white_check_mark: [melhorar imagem](https://melhorarimagem.me/)：针对葡萄牙地区的图片网站
-
-### 2025 年 10 月 26 号添加
-#### Horace(深圳) - [Github](github.com/lianhr12/), [博客](https://www.hrope.cn/)
-* :white_check_mark: [Full Page Screenshot](https://www.fullpagescreenshot.top/zh)：5 秒一键生成精美推广截图插件。完整网页长截图：自动滚动拼接，无需手动操作。精准元素截取：点击即可截取按钮、图片、文字段落。自由区域选择：拖拽框选，只要你想要的部分。可视区域快照：当前所见即所得。重点标注：箭头、方框、文字说明，一目了然。背景设置：多个精美模板，一键设置精致截图。一键复制：截图完成复制立即发给同事朋友
-
-#### ShawnHacks(北京) - [Github](https://github.com/ShawnHacks), [博客](https://indition.com)
-* :white_check_mark: [ResizeImage.dev](https://resizeimage.dev/)：在浏览器中直接调整图片尺寸。无需上传即可下载 - [更多介绍](https://resizeimage.dev/zh/about)
-* :white_check_mark: [ImageConverter.dev](https://imageconverter.dev/)：免费在线图像转换工具。在您的浏览器中立即在 PNG、JPG、WebP 之间转换图像格式。无需上传 - [更多介绍](https://imageconverter.dev/zh/about)
-
-#### fzero17
-* :white_check_mark: [OpenFolder](https://apps.apple.com/cn/app/openfolder/id6753940577?l=en-GB&mt=12): 在 macOS 菜单栏快速打开常用文件夹
-
-#### suio03 (成都)
-* :white_check_mark: [AI 图像编辑器](https://pixfy.io/)：图像编辑工具套件，集多种功能于一体。从照片质量、放大低分辨率图像、进行创意设计等等
-
-#### grhuang87-hue
-* :white_check_mark: [AI Photo Prompt](https://aiphotoprompt.me)：任何图像转换为详细的 AI 提示词，为 Gemini、Midjourney 和 Stable Diffusion 即时生成照片和图像提示词 - [更多介绍](https://aiphotoprompt.me/about)
-
-### 2025 年 10 月 23 号添加
-#### viga（福建）
-* :white_check_mark: [CSS2TW](https://www.css2tw.online/)：将常规 CSS 转成 Tailwind CSS 的网站
-
-### 2025 年 10 月 22 号添加
-#### melooooooo(北京) - [GitHub](https://github.com/melooooooo)
-* :white_check_mark: [Sora2 Video Studio](https://www.sora2video.blog)：免费 Sora2 视频生成服务，联系我可以赠送积分试用，欢迎反馈建议
-
-### 2025 年 10 月 21 号添加
-#### 何夕2077 (武汉)- [GitHub](https://github.com/justlovemaki)
-* :white_check_mark: [AI 播客生成器](https://podcast.hubtoday.app/)：生成播客音频，支持单人和多人对话。支持原文智能配音 - [GitHub 仓库](https://github.com/justlovemaki/Podcast-Generator)
-* :white_check_mark: [PromptHub提示词管理优化使用工具](https://prompt.hubtoday.app)：AI 提示词管理平台，支持浏览器插件，多平台客户端
-
-#### haocheng - [Github](https://github.com/cabbagehao)
-* :white_check_mark: [GenColoring AI](https://gencoloring.ai)：AI 生成涂色页平台 - [博客介绍](https://blog.csdn.net/weixin_52314137/article/details/152511285)
-* :white_check_mark: [Morse Coder](https://morse-coder.com)：摩斯密码在线转换工具
-
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
 
