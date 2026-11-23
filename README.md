@@ -24,6 +24,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 24 号添加
+
+#### Daniel Gross - [Github](https://github.com/obcl3w)
+* :white_check_mark: [HSKWin](https://hskwin.com/)：HSK 3.0 模拟考试网站，按真实考试计时并提供即时评分、每题解析、AI 写作批改和 HSKK 口语评分
+
+#### Sheldon23357 - [Github](https://github.com/Sheldon23357)
+* :white_check_mark: [OpenFMV](https://github.com/Sheldon23357/OpenFMV/releases/tag/v0.1.2)：中文互动影游编辑器，导入视频后可以连出可选择的剧情、安排事件和条件，导出独立 Windows 或网页游戏；Windows 11 x64 便携预览版，无需注册，MIT 开源 - [更多介绍](https://github.com/Sheldon23357/OpenFMV)
+
 ### 2026 年 11 月 23 号添加
 
 #### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com/)

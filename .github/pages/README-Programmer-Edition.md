@@ -16,6 +16,14 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 24 号添加
+
+#### sunerpy - [Github](https://github.com/sunerpy)
+* :white_check_mark: [pt-tools](https://firlab.app/pt-tools/)：PT 站点自动化工具，一个 Docker 容器完成 RSS 下载、刷流、IYUU 辅种、追剧入库、签到保号和数据统计，统一管理 qBittorrent 和 Transmission，内置 AI 助手，另有 Android App，开源免费 - [更多介绍](https://github.com/sunerpy/pt-tools)
+
+#### SparkStudio - [GitHub](https://github.com/huohuastudio)
+* :white_check_mark: [Keepbay](https://keepbay.app)：自部署的私有网盘，直接管理硬盘上已有的文件夹，只建索引、不导入；专业版用本地模型读取证件、合同和保修卡，提取到期日并提醒，按语义搜索文档和照片；支持 Linux 和 Docker，免费版是完整的网盘，专业版 ¥199 买断 - [在线演示](https://demo.keepbay.app)
+
 ### 2026 年 11 月 23 号添加
 
 #### kue - [GitHub](https://github.com/kue02)
