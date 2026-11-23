@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### selfboot - [GitHub](https://github.com/selfboot)
+* :white_check_mark: [Simon Puzzle Games](https://puzzles-game.com/zh/games/)：在浏览器里玩 101 种逻辑谜题，读完中文规则就能动手连桥、画环或划分星系，进度自动保存在本机
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [团团巡梦](https://wyanhub.itch.io/tuantuan-dreams)：在浏览器里玩的单人 3D 梦境冒险，走过六个梦境、60 个短关卡，收集光点、找回遗失物，点亮沉睡的花园，支持简体中文，进度保存在当前浏览器，也支持微信小程序
 

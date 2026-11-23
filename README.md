@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+* :white_check_mark: [MakeMidas](https://makemidas.com)：AI 生图、生视频和音乐工具，一个页面、一份积分就能用 GPT Image、Nano Banana、Veo、Kling、Seedance、Suno 等主流模型，生成前先显示要扣的积分，失败自动退回，新账号验证邮箱送 50 积分
+
+#### onear233 - [Github](https://github.com/onear233)
+* :white_check_mark: [AirTether](https://github.com/onear233/AirTether)：通过低功耗蓝牙连接在任意 Windows 电脑上远程开关 Android 手机热点、实时同步手机蜂窝网络状态，并支持 Windows 原生来电提醒（拒接 / 静音），后续将加入更多互联功能
+
 #### Miracle - [Github](https://github.com/zhoulianbo)
 * :white_check_mark: [H3ImageGen](https://h3imagegen.com/)：在浏览器中使用 MiniMax H3 的图片生成与编辑工具，可根据文字提示词和最多 16 张参考图创作并下载图片
 * :white_check_mark: [LogoAnimation](https://logoanimation.net/)：AI 标识动画制作工具，可将已有品牌标识制作成视频片头或片尾。创业者、内容创作者、营销人员和设计师无需操作时间轴或安装动画软件，即可为品牌制作动效

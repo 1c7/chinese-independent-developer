@@ -18,6 +18,12 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 23 号添加
 
+#### kue - [GitHub](https://github.com/kue02)
+* :white_check_mark: [Krss](https://github.com/kue02/Krss)：自托管 RSS 阅读器，单二进制 + SQLite，能装插件、按规则自动过滤、把 MCP 当订阅源，支持 AI 摘要翻译和多形态阅读 - [更多介绍](https://github.com/kue02/Krss#readme)
+
+#### bobbychina32747 - [GitHub](https://github.com/bobbychina32747)
+* :white_check_mark: [PS TwinRun](https://github.com/bobbychina32747/ps-twinrun/releases/tag/v0.1.0)：Windows 脚本迁移工具，同一脚本分别在 PowerShell 5.1 和 7 实跑，一条命令对照退出码、终端输出及文件字节 - [中文说明和报告截图](https://github.com/bobbychina32747/ps-twinrun/blob/main/README.zh-CN.md)
+
 #### Ethan - [GitHub](https://github.com/hAcKlyc)
 * :white_check_mark: [MyAgents](https://github.com/hAcKlyc/MyAgents)：开源桌面 Agent 工作台与任务中心，在 macOS 和 Windows 上为 Claude、Codex、DeepSeek Harness 配置各自的工作区，创建定时任务，也可把活派给自己的另一台在线电脑 - [安装包](https://github.com/hAcKlyc/MyAgents/releases/tag/v0.5.14)
 
