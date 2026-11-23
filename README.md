@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 23 号添加
 
+#### hypercube67 - [Github](https://github.com/hypercube67-formal)
+* :white_check_mark: [MakeMidas](https://makemidas.com)：AI 生图、生视频和音乐工具，一个页面、一份积分就能用 GPT Image、Nano Banana、Veo、Kling、Seedance、Suno 等主流模型，生成前先显示要扣的积分，失败自动退回，新账号验证邮箱送 50 积分
+
 #### 微言 - [GitHub](https://github.com/lxshwyan)
 * :white_check_mark: [微言工具箱](https://tools.wyanhub.com/tools)：在浏览器里改证件照尺寸和底色、处理 PDF、整理表格，多数工具在本地运行，打开网页就能用 - [直接做证件照](https://tools.wyanhub.com/tools/image/id-photo-layout)
 
