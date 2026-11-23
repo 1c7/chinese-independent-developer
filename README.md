@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 23 号添加
+
+#### ducheng980-coder - [Github](https://github.com/ducheng980-coder)
+* :white_check_mark: [MFXGJ 免费小工具](https://ducheng980-coder.github.io/)：免费在线工具集合，35 个工具：个税（五险一金）、贷款、复利计算，字数统计、JSON 格式化、图片压缩、二维码生成等，免注册、手机可用，所有处理都在浏览器本地完成不上传
+
 ### 2026 年 11 月 22 号添加
 
 #### 微言 - [GitHub](https://github.com/lxshwyan)
