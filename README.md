@@ -3594,9 +3594,6 @@
 #### eileendai0505-boop - [Github](https://github.com/eileendai0505-boop)
 * :white_check_mark: [Best HEIC to PNG Converter](https://heictopng.org/)：将苹果 HEIC 格式图片转换为 PNG 格式，解决兼容性问题
 
-#### hebrewbear - [Github](https://github.com/hebrewbear)
-* :white_check_mark: [Seedance 2.0](https://seedances.app/)：AI 视频生成，支持原生音频和 2K 分辨率，通过先进的多模态输入将创意转化为电影级现实。
-
 #### xinhuokeji - [Github](https://github.com/xinhuokeji)
 * :white_check_mark: [audjust.ai](https://audjust.ai/)：智能音频编辑与 AI 音乐生成工具，帮助处理音频文件（智能缩短歌曲、延长音频、寻找完美无缝循环）并从文字描述、歌词或图片生成完整音乐轨道。支持多种风格，内置 MIDI 编辑器、音轨分离、Lo-fi 转换等专业工具。
 
