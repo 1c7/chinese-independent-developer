@@ -6,6 +6,39 @@
 
 ---
 
+### 2025 年 11 月 4 号添加
+#### ljxyaly(深圳)
+* :white_check_mark: [Rednote Video Download](https://www.rednote-video-download.com)：Rednote (小红书) 视频、图片去水印下载（免费、不限次数）
+
+#### Roger Zhang (上海)
+* :white_check_mark: [StreamWindow](https://apps.apple.com/cn/app/streamwindow/id6752313155?mt=12) : macOS 平台全新设计的 3D 窗口管理应用，基于轻量级 3D 办公理念，直观，所见即所得，拥有更漂亮、更炫酷的界面，丰富可玩性，增加乐趣。
+
+#### 出逃向量（杭州）
+* :white_check_mark: [厕所淘金](https://github.com/user-attachments/assets/c9dc2625-202b-4bb6-96af-7ed4e5d4c23c)：带薪拉屎计薪器，记录你每一次拉屎摸鱼所得报酬，可视化每一次拉屎的价值 - [更多介绍](https://apps.apple.com/cn/app/toilet-pay/id6752701889)
+
+### 2025 年 11 月 3 号添加
+#### Ricky Lee(深圳) 
+* :white_check_mark: [KidsBedroomIdeas](https://kidsbedroomideas.org/)：AI 驱动的儿童房设计工具，根据孩子的年龄、兴趣和喜好颜色，即时生成个性化创意儿童房设计
+
+### 2025 年 11 月 2 号添加
+#### Lee - [GitHub](https://github.com/lkunxyz)
+* :white_check_mark: [Seedream Image Generator](https://seedreamimage.com/)：Seedream 图片生成
+
+#### LexTang(上海) - [Github](https://github.com/lexrus)
+* :white_check_mark: [SwiftyMenu](https://apps.apple.com/app/swiftymenu/id1567748223)：Finder 扩展自定义菜单，脚本执行、快速打开各种命令行工具。
+* :white_check_mark: [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814)：快捷键开关 Mac 蓝牙设备，脚本触发，低电量提醒。
+* :white_check_mark: [cmd+x](https://apps.apple.com/app/cmd-x/id6754665762)：为 Mac 提供 command+x, command+v 剪切文件的功能。
+* :white_check_mark: [LiveExtractor](https://apps.apple.com/app/liveextractor/id6746672642)：导出实况照片里的照片和视频的小工具。
+* :white_check_mark: [RegEx+](https://apps.apple.com/app/regex/id1511763524)：调试正则表达试的 app。
+
+### 2025 年 11 月 1 号添加
+#### Yif(上海)
+* :white_check_mark: [Magic Animal Generator](https://animalgenerator.net/)：尽情发挥你的想象力 用 AI 混合两种动物，创造前所未见的新物种
+
+### 2025 年 10 月 31 号添加
+#### dodid
+* :x: [ReadTube](https://apps.apple.com/cn/app/readtube-youtube-video-summary/id6752214777)：Youtube 视频转文字总结、幻灯片总结、AI 优化文字稿
+
 ### 2025 年 10 月 30 号添加
 #### zxcHolmes
 * :white_check_mark: [FilingInsight](https://filing-insight.com/)：快速解读美股财报的 AI 工具，1 万多份财报解读，多语言支持，免费阅读
