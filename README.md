@@ -59,6 +59,9 @@
 #### Sheldon23357 - [Github](https://github.com/Sheldon23357)
 * :white_check_mark: [OpenFMV](https://github.com/Sheldon23357/OpenFMV/releases/tag/v0.1.2)：中文互动影游编辑器，导入视频后可以连出可选择的剧情、安排事件和条件，导出独立 Windows 或网页游戏；Windows 11 x64 便携预览版，无需注册，MIT 开源 - [更多介绍](https://github.com/Sheldon23357/OpenFMV)
 
+#### JonasJoe233 - [Github](https://github.com/JonasJoe233)
+* :white_check_mark: [Rake](https://jonasjoe233.github.io/rake-mac/)：Mac 磁盘清理工具，把整块盘画成一张地图，先看清空间去哪了再勾选清理；缓存直接删，其余移进废纸篓可放回，也能找出 AI Agent 留在本机的大文件；免费开源，离线运行，支持 macOS 13+ - [开源代码](https://github.com/JonasJoe233/rake-mac)
+
 ### 2026 年 11 月 23 号添加
 
 #### 叶世民(温州) - [Github](https://github.com/yeshimin), [博客](https://blog.yeshimin.com/)
