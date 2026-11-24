@@ -26,6 +26,10 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### Yoking Chan(广州) - [Github](https://github.com/ykykchan)
+* :white_check_mark: [Morsecove](https://morsecove.com)：免费浏览器摩斯电码翻译工具，可在文本和点划之间互转、播放并调节速度与音调、下载 WAV，转换和音频都在本地完成，无需注册
+* :white_check_mark: [Troop Benefits](https://troopbenefits.com/)：免费美军住房津贴（BAH）查询工具，按驻地、军衔和有无家属查看 2026 年月度与年度金额，无需注册
+
 #### Henz Hu - [GitHub](https://github.com/henz-Hu)
 * :white_check_mark: [FlowVoice 流声](https://flowvoice.net/)：电脑端 Chrome、Edge 文字朗读扩展，可把多个网页的选段接成朗读队列，也支持 TXT、Markdown、HTML、DOCX 文稿导入，以及预先准备的原文与译文对照听读；基础功能免费含音频广告，可选 Neural 音色需要付费授权和使用积分
 
