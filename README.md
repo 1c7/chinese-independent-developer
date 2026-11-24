@@ -614,7 +614,7 @@
 * :white_check_mark: [BayesChat](https://bayeschat.xyz)：iPhone / iPad 上的 AI 聊天客户端，自带 API Key 接任意 OpenAI / Anthropic 兼容模型（含本机 Ollama），可挂远程 MCP 服务器调用工具；对话和 Key 只存本机、无需注册，MCP 工具属一次性买断
 
 #### Lucius Miao - [Github](https://github.com/suicuLsi)
-* :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持 Apple Silicon，提供 14 天试用，之后一次性购买 - [在线体验](https://withlinger.com/demo/)
+* :white_check_mark: [Linger](https://withlinger.com/zh/)：macOS 本地优先私人灵感库，保存图片、网页出处与自己的笔记，用关键词和筛选找回参考；支持搭载 Apple Silicon 的 macOS 14+，提供 7 天完整试用，之后可一次性买断 - [在线体验](https://withlinger.com/demo/)
 
 #### Wen - [Github](https://github.com/coderWenzi)
 * :white_check_mark: [Clarpex](https://clarpex.ai/)：AI 照片修复工具，上传模糊、低清或老照片即可增强、去模糊、放大与上色，浏览器内完成，每日免费额度无需注册
