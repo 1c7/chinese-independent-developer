@@ -385,7 +385,7 @@
 * :white_check_mark: [SeekPhoto](https://www.seekphoto.cn)：Windows 本地 AI 搜图工具，用一句中文描述（如「海滩日落」「孩子笑脸」）就能在几万张照片里找到那张，还能以图搜图、搜照片上的文字；照片和 AI 都在自己电脑上跑、不上传云端，直接在原有文件夹建索引，免费版永久可用，Pro 一次性买断
 
 #### 阿東 - [GitHub](https://github.com/antonailog)
-* :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：每天汇总国内 AI 大会、分享会和黑客松，合并重复活动，按日历、城市和线上线下查看，可订阅每日邮件简报
+* :white_check_mark: [国内AI活动追踪](https://antonailog.com/more/ai-events/)：国内 AI 活动聚合工具，每日汇总并去重大会、分享会、黑客松等活动，每场提供独立详情页，支持按日历、9 个城市页（含线上）和 7 个类型页查看，提供 iCalendar 日历订阅、RSS、JSON 数据及每日邮件简报，免费无需登录
 
 #### gessov 的开发者
 * :white_check_mark: [gessov](https://apps.apple.com/cn/app/id6815108797)：英英词汇 iPhone app，先读英文例句理解语境，再看全英文解释，不给中文释义；无需注册，进度只存在手机上 - [更多介绍](https://gessov.com)
