@@ -26,6 +26,16 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### zty5678 - [Github](https://github.com/zty5678)
+* :white_check_mark: [removebackground.me](https://removebackground.me/)：AI 图片去背景工具，上传后可下载透明 PNG，并继续细修边缘或更换背景，适合商品图和人像
+* :white_check_mark: [BulkImgGenerator](https://bulkimggenerator.net/)：批量 AI 图片生成工具，可从一个或多个提示词生成候选图，也可比较多个图像模型，支持参考图和 CSV 提示词列表
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [To Any AI（万物生AI）](https://toany.ai/)：多模型 AI 设计平台，用提示词和参考素材生成图片、视频与音频，提供无限画布和图像编辑工具
+
+#### 开发者创业老杨(郑州) - [Github](https://github.com/huiguyy)
+* :white_check_mark: [听幕 Tingmu](https://github.com/huiguyy/tingmu)：给听障人士的实时字幕 App，对方一说话屏幕立刻出现大字，识别全程离线跑在手机本地，零网络请求、无账号、音频不出设备 — Android
+
 #### Yoking Chan(广州) - [Github](https://github.com/ykykchan)
 * :white_check_mark: [Morsecove](https://morsecove.com)：免费浏览器摩斯电码翻译工具，可在文本和点划之间互转、播放并调节速度与音调、下载 WAV，转换和音频都在本地完成，无需注册
 * :white_check_mark: [Troop Benefits](https://troopbenefits.com/)：免费美军住房津贴（BAH）查询工具，按驻地、军衔和有无家属查看 2026 年月度与年度金额，无需注册
@@ -41,6 +51,7 @@
 
 #### 微言 - [Github](https://github.com/lxshwyan)
 * :white_check_mark: [微言表单](https://forms.wyanhub.com/)：用于活动报名、信息登记和反馈收集的在线表单工具，可以从模板创建表单，通过链接或二维码分享，为不同群或渠道生成专属链接，查看每份提交来自哪里，并将结果导出为 Excel；网页和微信小程序都能创建和管理表单
+* :white_check_mark: [转山共行](https://wyanhub.com/kora/)：浏览器里的多人 3D 徒步，可以独自走过经幡山口、溪谷和冰湖，也能发链接让朋友到你所在的路段会合一起走，路上可停下来等人或把眼前的山景拍成照片，无需注册
 
 #### Daniel Gross - [Github](https://github.com/obcl3w)
 * :white_check_mark: [HSKWin](https://hskwin.com/)：HSK 3.0 模拟考试网站，按真实考试计时并提供即时评分、每题解析、AI 写作批改和 HSKK 口语评分

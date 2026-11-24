@@ -18,6 +18,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 24 号添加
 
+#### 开发者创业老杨(郑州) - [Github](https://github.com/huiguyy)
+* :white_check_mark: [douyin-fill](https://github.com/huiguyy/douyin-fill)：抖音“只填不发”Agent 技能，把视频帖在独立 Chrome 里准备到发布前一步，发布永远由人工点击，杜绝误发
+* :white_check_mark: [kuaishou-fill](https://github.com/huiguyy/kuaishou-fill)：快手“只填不发”Agent 技能，在独立 Chrome 内备好视频帖、停在发布前一步，发布动作永远由人完成
+
 #### sunerpy - [Github](https://github.com/sunerpy)
 * :white_check_mark: [pt-tools](https://firlab.app/pt-tools/)：PT 站点自动化工具，一个 Docker 容器完成 RSS 下载、刷流、IYUU 辅种、追剧入库、签到保号和数据统计，统一管理 qBittorrent 和 Transmission，内置 AI 助手，另有 Android App，开源免费 - [更多介绍](https://github.com/sunerpy/pt-tools)
 
