@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### Yoking Chan(广州) - [Github](https://github.com/ykykchan)
+* :white_check_mark: [Number Guessing Game](https://smart-game.fun/number-guessing-game)：免费每日 1 到 100 猜数字游戏，七次机会，根据偏高或偏低提示缩小范围，每天 00:00 UTC 换新题目，浏览器即可玩，无需注册
+
 #### Alex Reed - [GitHub](https://github.com/alexreed6868)
 * :white_check_mark: [Stage Tour Guide](https://stagetourguide.com/)：Stage Tour 乐队节奏游戏资料站，查询已确认歌单并观看官方视频预览，对照套装价格和各平台乐器控制器兼容信息；资料附来源与最近核对日期，免费浏览，无需注册
 * :white_check_mark: [Football Krillion](https://footballkrillion.org/)：英文足球知识竞猜游戏（免费），每局 7 道限时题，回答符合条件的球员名字，正确答案越冷门得分越高；提供足球、NFL 每日局和 Unlimited 无限练习，无需注册或下载
