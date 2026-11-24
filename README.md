@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### Henz Hu - [GitHub](https://github.com/henz-Hu)
+* :white_check_mark: [FlowVoice 流声](https://flowvoice.net/)：电脑端 Chrome、Edge 文字朗读扩展，可把多个网页的选段接成朗读队列，也支持 TXT、Markdown、HTML、DOCX 文稿导入，以及预先准备的原文与译文对照听读；基础功能免费含音频广告，可选 Neural 音色需要付费授权和使用积分
+
+#### Ethan Chen - [Github](https://github.com/davidww0719-dev)
+* :white_check_mark: [Image2AI](https://image2ai.cloud/zh/)：AI 生图与改图网站，海报和封面上的中文标题按你写的字出来，也能给商品照换背景、做漫剧分镜；6 个模型一份积分（GPT Image 2、Nano Banana、Seedream 等），生成前按钮上写着扣多少，失败自动退
+
 #### lchunhui999-dev - [Github](https://github.com/lchunhui999-dev)
 * :white_check_mark: [熊炼训练记录](https://xionglian-training-notes.chunhui1222.chatgpt.site/)：力量训练记录微信小程序，逐组记下实际重量和次数，下次练同一动作时可带入上次的数字
 

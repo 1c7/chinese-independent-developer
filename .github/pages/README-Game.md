@@ -2,6 +2,13 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 24 号添加
+
+#### Alex Reed - [GitHub](https://github.com/alexreed6868)
+* :white_check_mark: [Stage Tour Guide](https://stagetourguide.com/)：Stage Tour 乐队节奏游戏资料站，查询已确认歌单并观看官方视频预览，对照套装价格和各平台乐器控制器兼容信息；资料附来源与最近核对日期，免费浏览，无需注册
+* :white_check_mark: [Football Krillion](https://footballkrillion.org/)：英文足球知识竞猜游戏（免费），每局 7 道限时题，回答符合条件的球员名字，正确答案越冷门得分越高；提供足球、NFL 每日局和 Unlimited 无限练习，无需注册或下载
+* :white_check_mark: [GTA 6 Map](https://gta-6-map.org/)：GTA 6 免费交互地图，可搜索和筛选 Leonida 地点、添加个人标记与备注，探索进度保存在浏览器本地，支持多存档和导入导出，无需注册
+
 ### 2026 年 11 月 23 号添加
 
 #### selfboot - [GitHub](https://github.com/selfboot)
