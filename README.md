@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### JonasJoe233 - [Github](https://github.com/JonasJoe233)
+* :white_check_mark: [Rake](https://jonasjoe233.github.io/rake-mac/)：Mac 磁盘清理工具，把整块盘画成一张地图，先看清空间去哪了再勾选清理；缓存直接删，其余移进废纸篓可放回，也能找出 AI Agent 留在本机的大文件；免费开源，离线运行，支持 macOS 13+ - [开源代码](https://github.com/JonasJoe233/rake-mac)
+
 #### zty5678 - [Github](https://github.com/zty5678)
 * :white_check_mark: [removebackground.me](https://removebackground.me/)：AI 图片去背景工具，上传后可下载透明 PNG，并继续细修边缘或更换背景，适合商品图和人像
 * :white_check_mark: [BulkImgGenerator](https://bulkimggenerator.net/)：批量 AI 图片生成工具，可从一个或多个提示词生成候选图，也可比较多个图像模型，支持参考图和 CSV 提示词列表
@@ -58,9 +61,6 @@
 
 #### Sheldon23357 - [Github](https://github.com/Sheldon23357)
 * :white_check_mark: [OpenFMV](https://github.com/Sheldon23357/OpenFMV/releases/tag/v0.1.2)：中文互动影游编辑器，导入视频后可以连出可选择的剧情、安排事件和条件，导出独立 Windows 或网页游戏；Windows 11 x64 便携预览版，无需注册，MIT 开源 - [更多介绍](https://github.com/Sheldon23357/OpenFMV)
-
-#### JonasJoe233 - [Github](https://github.com/JonasJoe233)
-* :white_check_mark: [Rake](https://jonasjoe233.github.io/rake-mac/)：Mac 磁盘清理工具，把整块盘画成一张地图，先看清空间去哪了再勾选清理；缓存直接删，其余移进废纸篓可放回，也能找出 AI Agent 留在本机的大文件；免费开源，离线运行，支持 macOS 13+ - [开源代码](https://github.com/JonasJoe233/rake-mac)
 
 ### 2026 年 11 月 23 号添加
 
