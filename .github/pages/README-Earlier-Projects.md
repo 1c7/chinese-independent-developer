@@ -6,6 +6,45 @@
 
 ---
 
+### 2025 年 11 月 10 号添加
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [musci](https://musci.io)：music 生成平台
+
+#### randompaga - [Github](https://github.com/randompaga)
+* :white_check_mark: [Sora 2](https://forvideo.ai/sora2)：For Video AI 一站式视频生成平台，使用Sora 2、Sora 2 Pro、Sora 2 Storyboard、Veo 3.1、Veo 3、Wan 2.5、Wan 2.2、Kling AI、Hailuo AI、Midjourney Video创建带音频的视频。
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [nanobana.net](https://github.com/1c7/chinese-independent-developer/issues/url)：AI 图像、视频生成平台网站，集合了目前世界最先进的模型，如：Nano banana、sora2 等
+
+### 2025 年 11 月 8 号添加
+#### Ri-vai - [Github](https://github.com/Ri-vai)
+* :white_check_mark: [ai world generator](https://aiworldgenerator.com/)：用文本和照片生成自然风光视频的 AI 工具网站
+
+#### nanobanana-co - [Github](https://github.com/nanobanana-co)
+* :white_check_mark: [novavideo.ai](https://novavideo.ai/)：使用领先的图片转视频 AI 模型和热门视频特效模板，将照片转化为视频
+
+#### ncgg-cyber - [Github](https://github.com/ncgg-cyber)
+* :white_check_mark: [gempix-2](https://gempix-2.org/)：收录最新的 gempix-2 模型新闻，并第一时间提供 gempix-2（nano banana2) 模型体验
+
+#### zhang xinke - [Github](https://github.com/zxk1323)
+* :white_check_mark: [photo to prompt](https://phototoprompt.org/)：将图片转化为提示词，以及图像生成
+
+#### 菩提尘埃(厦门) - [Github](https://github.com/waterlines)
+* :white_check_mark: [TAO tracker](https://taotracker.org)：TAO 子网交易监控与快捷导航工具
+
+### 2025 年 11 月 5 号添加
+#### yvonuk - [推特](https://x.com/mcwangcn)
+* :white_check_mark: [Telegram AI助手](https://t.me/iMessageAI_bot)：Telegram ChatGPT 机器人(完全免费、没有广告)，GPT-4o-mini 模型，支持图片识别，在 Telegram 中给 @iMessageAI_bot 发消息即可使用。
+
+#### Shawn (北京) - [Github](https://github.com/ShawnHacks), [博客](https://indietion.com/)
+* :white_check_mark: [Syncvoice](https://www.syncvoice.ai/)：声音克隆(超逼真)，文本转语音，支持 8 种语言，不同语言转语音保留克隆声音的独特音色
+
+#### xxk1323
+* :white_check_mark: [ai image combine](https://aiimagecombine.com/) : AI 图像站，预设了一些场景的 prompt ，不用编写复杂的 prompt 直接使用
+
+#### 翟应康(深圳)
+* :white_check_mark: [Create Custom Graffiti Art Online ](https://graffiti-generator.org)：自定义涂鸦艺术(免费，不限次数)
+
 ### 2025 年 11 月 4 号添加
 #### ljxyaly(深圳)
 * :white_check_mark: [Rednote Video Download](https://www.rednote-video-download.com)：Rednote (小红书) 视频、图片去水印下载（免费、不限次数）
