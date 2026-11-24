@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### lchunhui999-dev - [Github](https://github.com/lchunhui999-dev)
+* :white_check_mark: [熊炼训练记录](https://xionglian-training-notes.chunhui1222.chatgpt.site/)：力量训练记录微信小程序，逐组记下实际重量和次数，下次练同一动作时可带入上次的数字
+
+#### 微言 - [Github](https://github.com/lxshwyan)
+* :white_check_mark: [微言表单](https://forms.wyanhub.com/)：用于活动报名、信息登记和反馈收集的在线表单工具，可以从模板创建表单，通过链接或二维码分享，为不同群或渠道生成专属链接，查看每份提交来自哪里，并将结果导出为 Excel；网页和微信小程序都能创建和管理表单
+
 #### Daniel Gross - [Github](https://github.com/obcl3w)
 * :white_check_mark: [HSKWin](https://hskwin.com/)：HSK 3.0 模拟考试网站，按真实考试计时并提供即时评分、每题解析、AI 写作批改和 HSKK 口语评分
 
