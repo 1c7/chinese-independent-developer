@@ -417,7 +417,7 @@
 * :white_check_mark: [gessov](https://apps.apple.com/cn/app/id6815108797)：英英词汇 iPhone app，先读英文例句理解语境，再看全英文解释，不给中文释义；无需注册，进度只存在手机上 - [更多介绍](https://gessov.com)
 
 #### lhq1363511234 - [Github](https://github.com/lhq1363511234)
-* :white_check_mark: [inspace](https://opctoai.com/inspace)：地点攻略与故事网站，按地点查阅内容，并用一个空间链接分享攻略和记录 - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)
+* :white_check_mark: [inspace](https://opctoai.com/inspace)：地点攻略与互动庭院网站，在山寺漫游、进入殿堂、听钟点灯，也能浏览中英文攻略和分享空间链接；漫游与浏览无需注册 - [体验山寺](https://opctoai.com/inspace/lives?tab=temple) - [更多介绍](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1)
 
 #### CoderLim(北京) - [Github](https://github.com/CoderLim), [博客](https://limbuilder.hashnode.dev/)
 * :white_check_mark: [AI Photo Editor](https://getaiphotoeditor.com/)：免费在线 AI 图片编辑器，无需注册
