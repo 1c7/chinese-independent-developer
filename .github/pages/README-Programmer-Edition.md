@@ -18,6 +18,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 25 号添加
 
+#### Jack Yang(北京) - [GitHub](https://github.com/apivale)
+* :white_check_mark: [APIVALE](https://apivale.com)：面向开发者的 OpenAI/Anthropic 兼容 AI API 网关，一个端点按量调用 DeepSeek-V4.1 Flash、Qwen 3.8 Max、GLM-5.3 与 Kimi K3，支持 PayPal 与国际信用卡 - [使用指南与示例](https://github.com/apivale/apivale-guides)
+* :white_check_mark: [esp32-deepseek-client](https://github.com/bshx2024/esp32-deepseek-client)：ESP32 / ESP32-S3 轻量级大模型客户端（PlatformIO C++ 与 MicroPython 双版本），内置内存防溢出控制，MIT 开源
+
 #### WestlakeNLP（西湖大学） - [GitHub](https://github.com/LikC1606)
 * :white_check_mark: [TheoremOS](https://github.com/HuggingMath/theorem-os)：开源 Lean 4 数学研究工作台与 Linux CLI，可对照原题和 Lean 陈述、查看证明候选的报错，配有无需模型密钥的本地复跑示例 - [更多介绍](https://github.com/HuggingMath/theorem-os/blob/caca289fd74c611d3b13f066d9380693d43485da/docs/web-workbench.md)
 
