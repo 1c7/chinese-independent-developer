@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 25 号添加
 
+#### DDC（南昌） - [GitHub](https://github.com/tangde2025)
+* :white_check_mark: [AI Img2Img](https://aiimg2img.net)：AI 图片生成与编辑工具，集成多种主流 AI 图像模型，无需登录、无需设计技能，通过自然语言描述即可生成、编辑图片和转换图片风格
+
 #### 欧八同学 - [GitHub](https://github.com/ouxxyy)
 * :white_check_mark: [刺猬关系](https://hilingge.redboook.cn/)：用动物代表家人，在 3D 沙盘里调整距离和朝向，可结合背景和截图与 AI 讨论自己的观察，支持中英文 - [使用示例](https://hilingge.redboook.cn/guide.html)
 * :white_check_mark: [小猫陪你](https://redboook.cn/)：在两个独立对话中向 AI 小猫倾诉，或把一句气话改成可以复制给伴侣的消息，支持中英文 - [使用示例](https://redboook.cn/guide.html)

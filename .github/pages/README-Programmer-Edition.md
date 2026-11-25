@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 25 号添加
 
+#### WestlakeNLP（西湖大学） - [GitHub](https://github.com/LikC1606)
+* :white_check_mark: [TheoremOS](https://github.com/HuggingMath/theorem-os)：开源 Lean 4 数学研究工作台与 Linux CLI，可对照原题和 Lean 陈述、查看证明候选的报错，配有无需模型密钥的本地复跑示例 - [更多介绍](https://github.com/HuggingMath/theorem-os/blob/caca289fd74c611d3b13f066d9380693d43485da/docs/web-workbench.md)
+
 #### fubuki363 - [Github](https://github.com/fubuki363)
 * :white_check_mark: [CSV 明细对账](https://skillpay.alipay.com/shelf/product?productId=P0806000214839841&merchantCode=csv-data-tools)：在本机按 SKU 或订单号核对两份 CSV，需要 Python 3.9 或更新版本，9.90 元买断
 
