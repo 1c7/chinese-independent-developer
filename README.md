@@ -49,7 +49,7 @@
 
 #### nivethaabi - [Github]((https://github.com/nivethaabi27-oss))
 * :white_check_mark: [Earthmover Rental in Bangalore](https://www.buyermitra.com/category/earthmover-in-bangalore)：BuyerMitra 是一个印度本地在线平台，帮助用户查找班加罗尔的 JCB、挖掘机和土方工程设备租赁服务，并直接联系服务提供商
-* 
+
 ### 2026 年 11 月 24 号添加
 
 #### JonasJoe233 - [Github](https://github.com/JonasJoe233)
