@@ -47,6 +47,8 @@
 #### hehehai - [Github](https://github.com/hehehai)
 * :white_check_mark: [Pik](https://actnow.dev/zh/pik)：Mac 菜单栏取色器，取屏幕上任意一点的颜色存进调色板，一键复制成 CSS、SwiftUI 等 28 种代码格式（Tailwind、OKLCH 等可另外开启），还能从屏幕区域生成调色板、检查对比度；支持 Apple 芯片和 Intel，15 天免费试用，之后一次买断
 
+#### BuyerMitra
+* :white_check_mark: [Earthmover Rental in Bangalore](https://www.buyermitra.com/category/earthmover-in-bangalore)：BuyerMitra 是一个印度本地在线平台，帮助用户查找班加罗尔的 JCB、挖掘机和土方工程设备租赁服务，并直接联系服务提供商。
 ### 2026 年 11 月 24 号添加
 
 #### JonasJoe233 - [Github](https://github.com/JonasJoe233)
