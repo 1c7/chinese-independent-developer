@@ -6,6 +6,52 @@
 
 ---
 
+### 2025 年 11 月 14 号添加
+#### xiaoxiao(南昌)
+* :white_check_mark: [小故事铺](https://storynook.cn/)：故事平台，专为儿童及家庭设计，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)
+
+#### zpng(北京) - [Github](https://github.com/zpng)
+* :white_check_mark: [MakeManga](https://www.makemanga.ai/)：AI 生成漫画，支持 Nano Banana 和 Seedream 4.0 模型，只需提供故事，剩下的分镜和角色生成等都交给 AI
+
+### 2025 年 11 月 13 号添加
+#### biboom(广州) 
+* :white_check_mark: [在线图片处理工具](https://imageonline.online/zh)：图片像素化工具(免费)，提供智能图片切割等功能
+
+#### zhang xinke - [Github](https://github.com/zxk1323)
+- :white_check_mark: [fanfic generator](https://fanficgenerator.com/)：AI 同人小说创作工具
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+- :white_check_mark: [sora2](https://sora2videogenerator.com/)：sora2 视频生成工具，支持 story board
+
+#### 老木棍(上海) - [Github](https://github.com/buhuijiaojiao/jianxiaopai)
+- :white_check_mark: [简小派](https://jianlipai.com/)：求职助手平台（AI 驱动），通过智能简历生成、岗位匹配、面试模拟、薪资分析和自动投递，帮助求职者系统性提升、全流程加速拿 offer - [更多介绍](https://docs.jianlipai.com/)
+
+#### 刀刀 - [Github](https://github.com/sfss5362)
+- :white_check_mark: [YTB Download](https://ytbdd.cc/)：YouTube 下载工具（Windows平台，免费无广告），支持下载 4K 视频、音频提取和字幕保存 
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :white_check_mark: [sara2.io](https://www.sara2.io) ：AI 图像、视频一站式生成平台，内置Nano Banana、sora2 等优秀大模型。高效实现您的创意、告别多平台切换
+
+#### House(珠海) [github](https://github.com/wosuxiongmao)
+* :white_check_mark:  [ShotAI](https://shotai.org)：一键生成多个 AI 模型的图片，方便对比效果
+
+#### JohnnyXu(襄阳) - [Github](https://github.com/qwe00921)
+* :white_check_mark: [AI 图片转视频站](https://photoanimate.net/)：用图片生成视频的网站, 包括各种模板, 最新的视频模型, 后面还会加入多图片生成长视频功能
+
+#### Yuan(广州)
+* :white_check_mark: [Nano Banana AI](https://nano2image.com/)：AI 图像生成和编辑工具（免费在线），2-5 秒生成高质量图像，支持文生图和图像编辑
+
+### 2025 年 11 月 12 号添加
+#### Amyang(美国) - [Github](https://github.com/AmyangXYZ)
+* :white_check_mark: [Reze-Engine](https://reze.one)： 原生 WebGPU 实现的动画 MMD 人物渲染引擎，除物理引擎外没有第三方库 - [Github](https://github.com/AmyangXYZ/reze-engine)
+
+####  h3(广州) 
+* :white_check_mark: [AI 图像站](https://www.gempix2.org)：用 nanobanana 模型的生成&编辑网站
+
+### 2025 年 11 月 11 号添加
+#### monsoonw(杭州) 
+* :white_check_mark: [Nano Banana 2](https://nanobanana-2.net)：收录最新的 Nano Banana 2 模型推特，油管资讯，并第一时间提供 nano banana 2 模型体验
+
 ### 2025 年 11 月 10 号添加
 #### xbaicai0 - [Github](https://github.com/xbaicai0)
 * :white_check_mark: [musci](https://musci.io)：music 生成平台
