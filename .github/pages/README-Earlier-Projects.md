@@ -6,6 +6,56 @@
 
 ---
 
+### 2025 年 11 月 25 号添加
+#### fayecat - [Github](https://github.com/fayecat)
+* :white_check_mark: [Floaty](https://www.floatytool.com/)：让 macOS 任意窗口保持置顶的工具
+
+#### amierhan - [Github](https://github.com/amierhan)
+* :x: [banana-pro.com](https://banana-pro.com/)：Banana Pro AI 图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 Sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能
+
+#### huashengjieguo
+* :white_check_mark: [免费在线硬件测试平台](https://volumeshader.org/zh)：GPU 测试，屏幕测试，FPS 测试，网络测试，摄像头检测，声音测试，鼠标测试，键盘测试
+
+#### flingyp(上海) - [Github](https://github.com/flingyp)
+* :white_check_mark: [今天记了么](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html)：日常记录打卡目标的微信小程序。用科学打卡，让自律变成简单的日常 
+
+#### lucen
+* :white_check_mark: [online-timer](https://icebreaker-games.org/online-timer)：会议计时器，让您的站会、研讨会和演讲保持高效，按时进行。
+
+#### SoftRoyals
+* :white_check_mark: [可愛い絵文字と顔文字](https://kawaiiemoji.com/)： 可愛い絵文字と顔文字网站，精选的可爱表情符号和表情文字合集，用于SNS社交媒体和聊天消息。
+
+### 2025 年 11 月 23 号添加
+#### rosicky(杭州)
+* :white_check_mark: [Nano Banana Pro](https://nanobananapro.art/)：AI 图像生成和编辑工具，支持4k画质生成,集成多种图像风格模版.
+
+### 2025 年 11 月 20 号添加
+#### zhugezifang
+* :white_check_mark: [公共网络记事本](https://share-text.org/)：网络记事本，支持创建，以及链接和二维码分享
+
+#### pandaupup(广州) - [Github](https://github.com/pandaupup)
+* :white_check_mark: [Word to Time Calculator](https://wordtotime.org)：根据稿子字数快速计算阅读，演讲，汇报时间的小工具
+
+#### Eminlin(厦门) - [Github](https://github.com/eminlin), [博客](https://www.eminlin.com)
+* :white_check_mark: [屿乐春城邮](https://www.springcitypost.cn)：真实信箱代理，轻松管理您的信件 - [更多介绍](https://www.springcitypost.cn/zh-CN/qna)
+
+#### JL
+* :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
+
+### 2025 年 11 月 19 号添加
+#### Ronald
+* :x: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，DNS 解析等功能的免费工具，支持 1000+ 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
+
+### 2025 年 11 月 18 号添加
+#### basulee(上海) - [Github](https://github.com/BasuLee)
+* :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为 GIF 图，可控制时间间隔及尺寸
+
+#### levan(深圳) - [Github](https://github.com/L-Evan)
+* :x: [trygempix2.pro](https://trygempix2.pro)：Gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
+* :x: [veo-ai.cloud](https://veo-ai.cloud)：Veo 视频站（Free）
+* :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
+* :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
+
 ### 2025 年 11 月 14 号添加
 #### xiaoxiao(南昌)
 * :white_check_mark: [小故事铺](https://storynook.cn/)：故事平台，专为儿童及家庭设计，致力于为孩子们提供多样化、富有教育意义的睡前故事，帮助他们在轻松愉快的环境中提升阅读能力，激发想象力，并且培养良好的品德 - [Github 仓库](https://github.com/masterliangpeng/story)

@@ -26,8 +26,26 @@
 
 ### 2026 年 11 月 26 号添加
 
+#### zty5678 - [Github](https://github.com/zty5678)
+* :white_check_mark: [ImageToPrompts](https://imagetoprompts.io/)：AI 图片转提示词工具，上传图片或输入公开图片 URL，即可生成可编辑的绘图提示词；支持 Midjourney、FLUX、JSON 等格式，每天无需登录可免费生成 3 条
+
+#### Phillip - [GitHub](https://github.com/imphillip)
+* :white_check_mark: [PayChacha](https://paychacha.com/zh/)：网站收款进件自查工具，输入网址即可看到 Stripe、PayPal 等支付机构可能把网站归为哪类商户（MCC）、有哪些风险标记、经营主体和退款政策等进件资料还缺什么，并按访客所在市场推荐当地常用的支付方式，免费使用，中英双语
+
+#### Sunzenki - [GitHub](https://github.com/Sunzenki)
+* :white_check_mark: [LogoXD](https://logoxd.com)：AI Logo 设计工具，先看风格示例，再填写品牌名称、行业、图形构想和配色。生成前可查看所需积分，完成后可下载 PNG。目前已开放内测
+
 #### Hinstein - [GitHub](https://github.com/Hinstein)
 * :white_check_mark: [StagePeek](https://stagepeek.live/zh-CN/)：演唱会 2D 座位图与 3D 舞台视野模拟器，覆盖全球 201 座体育场与巨蛋，购票前输入区排座即可预览 1.18 米坐姿视线与 1x–10x 手机变焦视角，免登录免费浏览 - [GitHub](https://github.com/Hinstein/StagePeek)
+
+#### zhangxingmao（项目维护者） - [GitHub](https://github.com/zhangxingmao)
+* :white_check_mark: [English in Telugu Typing](https://englishintelugutyping.com/)：免费泰卢固语 Unicode 输入工具，用英文字母拼写 Telugu 单词、选择候选后复制，或下载 TXT / 可编辑 DOCX；英文界面，无需注册
+
+#### wyx2333333 - [Github](https://github.com/wyx2333333)
+* :white_check_mark: [一篇 V2Note](https://v2note.cn/)：音视频转图文工具。上传口播录音或视频，也可粘贴抖音、小红书、B 站等第三方平台的公开视频链接，生成可编辑的文章初稿。每篇可自选风格，免费生成首张精美封面
+
+#### 严毓焕(北京) - [Github](https://github.com/Ivan666jjj)
+* :white_check_mark: [圆明园数字复原计划](https://ivan666jjj.github.io/yuanmingyuan-restoration/)：把 1860 年前的圆明园一块一块拼回来的开放复原图册，77 景清单已复原 15 景，每景附史料出处与生成提示词
 
 ### 2026 年 11 月 25 号添加
 
@@ -4807,56 +4825,6 @@
 
 #### klemperer - [Github](https://github.com/klemperer/binglish)
 * :white_check_mark: [Binglish- AI桌面英语](https://github.com/klemperer/binglish)：自动更换必应 Bing 每日壁纸，顺便学个单词（AI 生成相关解释、相关好句、语音说明等）。 点亮屏幕，欣赏美景，邂逅知识，聚沙成塔。
-
-### 2025 年 11 月 25 号添加
-#### fayecat - [Github](https://github.com/fayecat)
-* :white_check_mark: [Floaty](https://www.floatytool.com/)：让 macOS 任意窗口保持置顶的工具
-
-#### amierhan - [Github](https://github.com/amierhan)
-* :x: [banana-pro.com](https://banana-pro.com/)：Banana Pro AI 图像、视频创作平台。整合了 Nano Banana Pro、Nano Banana 以及 Sora2 模型。它可以高效生成高分辨率图像（最高 4K）和流畅的视频，同时提供智能提示优化、角色一致性、对复杂场景的上下文理解等功能
-
-#### huashengjieguo
-* :white_check_mark: [免费在线硬件测试平台](https://volumeshader.org/zh)：GPU 测试，屏幕测试，FPS 测试，网络测试，摄像头检测，声音测试，鼠标测试，键盘测试
-
-#### flingyp(上海) - [Github](https://github.com/flingyp)
-* :white_check_mark: [今天记了么](https://flingyp.online/posts/%E4%BB%8A%E5%A4%A9%E8%AE%B0%E4%BA%86%E4%B9%88.html)：日常记录打卡目标的微信小程序。用科学打卡，让自律变成简单的日常 
-
-#### lucen
-* :white_check_mark: [online-timer](https://icebreaker-games.org/online-timer)：会议计时器，让您的站会、研讨会和演讲保持高效，按时进行。
-
-#### SoftRoyals
-* :white_check_mark: [可愛い絵文字と顔文字](https://kawaiiemoji.com/)： 可愛い絵文字と顔文字网站，精选的可爱表情符号和表情文字合集，用于SNS社交媒体和聊天消息。
-
-### 2025 年 11 月 23 号添加
-#### rosicky(杭州)
-* :white_check_mark: [Nano Banana Pro](https://nanobananapro.art/)：AI 图像生成和编辑工具，支持4k画质生成,集成多种图像风格模版.
-
-### 2025 年 11 月 20 号添加
-#### zhugezifang
-* :white_check_mark: [公共网络记事本](https://share-text.org/)：网络记事本，支持创建，以及链接和二维码分享
-
-#### pandaupup(广州) - [Github](https://github.com/pandaupup)
-* :white_check_mark: [Word to Time Calculator](https://wordtotime.org)：根据稿子字数快速计算阅读，演讲，汇报时间的小工具
-
-#### Eminlin(厦门) - [Github](https://github.com/eminlin), [博客](https://www.eminlin.com)
-* :white_check_mark: [屿乐春城邮](https://www.springcitypost.cn)：真实信箱代理，轻松管理您的信件 - [更多介绍](https://www.springcitypost.cn/zh-CN/qna)
-
-#### JL
-* :white_check_mark: [Compare Two Word](https://compare2word.com/)： Word 文档在线对比工具，支持 Word, Excel, PDF, PPT, TXT，让文档比对变得简单、安全
-
-### 2025 年 11 月 19 号添加
-#### Ronald
-* :x: [批量域名检查](https://domainschecker.top/)：提供域名年龄、可用性、历史记录，DNS 解析等功能的免费工具，支持 1000+ 顶级域名，可批量检查域名, 无需注册的综合域名分析平台
-
-### 2025 年 11 月 18 号添加
-#### basulee(上海) - [Github](https://github.com/BasuLee)
-* :white_check_mark: [Gif To Frames](https://giftoframes.com/)：将 GIF 图转换为每一帧，支持生成雪碧图，支持反向合成多张图片为 GIF 图，可控制时间间隔及尺寸
-
-#### levan(深圳) - [Github](https://github.com/L-Evan)
-* :x: [trygempix2.pro](https://trygempix2.pro)：Gempix2、nanobanana2、flux、veo3.1 视频工具站（Free）
-* :x: [veo-ai.cloud](https://veo-ai.cloud)：Veo 视频站（Free）
-* :clock8: [iaiapp.org](https://iaiapp.org)：AI App 导航站 + 工具站（开发中，Free）
-* :clock8: [nanobanana2ai.art](https://nanobanana2ai.art)：nanobanana2 模型壁纸工具站（开发中，Free）
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

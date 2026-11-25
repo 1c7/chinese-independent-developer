@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 26 号添加
+
+#### Goka - [GitHub](https://github.com/dyljqq)
+* :white_check_mark: [团子吃画](https://gokajqqgame.com/games/tuanzi-chihua/)：像素画解谜小游戏，派团子从下往上吃掉一整幅画，每个团子只吃同色、只吃每列最下面的格子；30 关加每日一画，每关都用程序验证过能通关。中英日界面，手机电脑打开就能玩，免费、无需注册、没有广告，也有微信小游戏版
+
 ### 2026 年 11 月 24 号添加
 
 #### Yoking Chan(广州) - [Github](https://github.com/ykykchan)
