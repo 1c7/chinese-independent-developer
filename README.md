@@ -26,13 +26,25 @@
 
 ### 2026 年 11 月 25 号添加
 
+#### 欧八同学 - [GitHub](https://github.com/ouxxyy)
+* :white_check_mark: [刺猬关系](https://hilingge.redboook.cn/)：用动物代表家人，在 3D 沙盘里调整距离和朝向，可结合背景和截图与 AI 讨论自己的观察，支持中英文 - [使用示例](https://hilingge.redboook.cn/guide.html)
+* :white_check_mark: [小猫陪你](https://redboook.cn/)：在两个独立对话中向 AI 小猫倾诉，或把一句气话改成可以复制给伴侣的消息，支持中英文 - [使用示例](https://redboook.cn/guide.html)
+
 #### justin - [Github](https://github.com/newer027)
 * :white_check_mark: [JustMarkdown](https://justmarkdown.com/zh)：在线文档转换网站，把 PDF、Word、PPT、Excel、EPUB 和网页转成可编辑的 Markdown；文字层 PDF 和本机扫描页在浏览器里直接转，转完可以保存、看版本、生成分享链接
 
-### 2026 年 11 月 24 号添加
+#### Xichen Wu - [Github](https://github.com/io-oi-ai)
+* :white_check_mark: [Web2MD](https://web2md.org)：Chrome/Firefox 网页转 Markdown 插件，一键去掉广告、菜单和侧边栏，可直接发送到 ChatGPT、Claude 或保存到 Obsidian，对 Reddit、GitHub、arXiv、微信公众号文章做了专门提取，免费版每天 3 次
+* :white_check_mark: [Inplain](https://inplain.app)：AI 文档与演示工具，把 ChatGPT、Claude、Cursor 的输出变成可编辑的幻灯片、报告和仪表盘，以在线链接分享、修改即时生效，可导出 PPTX/DOCX/PDF，免费版每月 50 积分 - [开源代码](https://github.com/io-oi-ai/inplain)
+* :white_check_mark: [Hearl](https://hearl.org)：产品舆情收件箱，汇总 X、Reddit、Hacker News 及小红书、微博、知乎等平台上提到你产品的帖子，AI 判断是否需要回复，每条指定负责人和截止日期，有免费版 - [开源代码](https://github.com/io-oi-ai/hearl)
 
 #### ZhuLinsen - [Github](https://github.com/ZhuLinsen)
 * :white_check_mark: [AlphaSift 公开选股与胜率看板](https://alphasift.zhulinsen.tech/?lang=zh)：打开即看的 7 市场量化选股与公开 T+N 胜率验证站；每天盘后自动筛选 A股/美/港/日/韩/台/印多策略共识候选、展示 250 日经典 K 线实证打假并按次日开盘价公开记账，支持暗/亮主题与可打印盘后研报，免费开源 - [开源代码](https://github.com/ZhuLinsen/alphasift)
+
+#### hehehai - [Github](https://github.com/hehehai)
+* :white_check_mark: [Pik](https://actnow.dev/zh/pik)：Mac 菜单栏取色器，取屏幕上任意一点的颜色存进调色板，一键复制成 CSS、SwiftUI 等 28 种代码格式（Tailwind、OKLCH 等可另外开启），还能从屏幕区域生成调色板、检查对比度；支持 Apple 芯片和 Intel，15 天免费试用，之后一次买断
+
+### 2026 年 11 月 24 号添加
 
 #### JonasJoe233 - [Github](https://github.com/JonasJoe233)
 * :white_check_mark: [Rake](https://jonasjoe233.github.io/rake-mac/)：Mac 磁盘清理工具，把整块盘画成一张地图，先看清空间去哪了再勾选清理；缓存直接删，其余移进废纸篓可放回，也能找出 AI Agent 留在本机的大文件；免费开源，离线运行，支持 macOS 13+ - [开源代码](https://github.com/JonasJoe233/rake-mac)
@@ -127,8 +139,8 @@
 
 #### hehehai - [Github](https://github.com/hehehai)
 * :white_check_mark: [Refto](https://refto.one)：Mac 上的素材库，图片、视频、PDF、网页收进一个库，按画面里的文字、录音里的话和相似图片找回来；AI 在本机运行，不上传
-* :white_check_mark: [Dicta](https://actnow.dev/zh/dicta)：Mac 会议记录，不拉机器人进会，Zoom、腾讯会议、飞书开会时自动录音，本机分说话人转写并写总结
-* :white_check_mark: [Inboxly](https://actnow.dev/zh/inboxly)：Mac 邮件 App，Gmail、iCloud、QQ 邮箱、163 收进一个收件箱，等你回的信排最前，摘要和回信由本机模型写
+* :white_check_mark: [Dicta](https://actnow.dev/zh/dicta)：Mac 会议记录，不拉机器人进会，Zoom、腾讯会议、飞书开会时自动录音，本机分说话人转写并写总结；15 天免费试用，之后一次买断
+* :white_check_mark: [Inboxly](https://actnow.dev/zh/inboxly)：Mac 邮件 App，Gmail、iCloud、QQ 邮箱、163 收进一个收件箱，等你回的信排最前，摘要和回信由本机模型写；15 天免费试用，之后一次买断
 * :white_check_mark: [AudioSmith](https://actnow.dev/zh/audiosmith)：Mac 本机语音工作室，朗读、克隆音色、做有声书、给视频配另一种语言，下载模型后离线可用，免费开源 - [开源代码](https://github.com/hehehai/AudioSmith)
 * :white_check_mark: [VoxtMini](https://actnow.dev/zh/voxtmini)：Mac 语音输入，在任何 App 里按右 Option 说话，本地模型转成文字、翻译或改写，支持中英日，免费开源 - [开源代码](https://github.com/hehehai/VoxtMini)
 * :white_check_mark: [Auralink](https://actnow.dev/zh/auralink)：Mac 语音输入，按 fn 说话，用你自己的豆包、阿里云、阶跃星辰等密钥，整理好的文字直接出现在光标处，免费开源 - [开源代码](https://github.com/hehehai/Auralink)

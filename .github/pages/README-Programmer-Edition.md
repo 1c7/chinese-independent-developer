@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 25 号添加
+
+#### fubuki363 - [Github](https://github.com/fubuki363)
+* :white_check_mark: [CSV 明细对账](https://skillpay.alipay.com/shelf/product?productId=P0806000214839841&merchantCode=csv-data-tools)：在本机按 SKU 或订单号核对两份 CSV，需要 Python 3.9 或更新版本，9.90 元买断
+
 ### 2026 年 11 月 24 号添加
 
 #### 开发者创业老杨(郑州) - [Github](https://github.com/huiguyy)
