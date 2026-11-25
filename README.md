@@ -24,6 +24,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 11 月 26 号添加
+
+#### Hinstein - [GitHub](https://github.com/Hinstein)
+* :white_check_mark: [StagePeek](https://stagepeek.live/zh-CN/)：演唱会 2D 座位图与 3D 舞台视野模拟器，覆盖全球 201 座体育场与巨蛋，购票前输入区排座即可预览 1.18 米坐姿视线与 1x–10x 手机变焦视角，免登录免费浏览 - [GitHub](https://github.com/Hinstein/StagePeek)
+
 ### 2026 年 11 月 25 号添加
 
 #### DDC（南昌） - [GitHub](https://github.com/tangde2025)
