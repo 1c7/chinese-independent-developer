@@ -31,6 +31,9 @@
 
 ### 2026 年 11 月 24 号添加
 
+#### ZhuLinsen - [Github](https://github.com/ZhuLinsen)
+* :white_check_mark: [AlphaSift 公开选股与胜率看板](https://alphasift.zhulinsen.tech/?lang=zh)：打开即看的 7 市场量化选股与公开 T+N 胜率验证站；每天盘后自动筛选 A股/美/港/日/韩/台/印多策略共识候选、展示 250 日经典 K 线实证打假并按次日开盘价公开记账，支持暗/亮主题与可打印盘后研报，免费开源 - [开源代码](https://github.com/ZhuLinsen/alphasift)
+
 #### JonasJoe233 - [Github](https://github.com/JonasJoe233)
 * :white_check_mark: [Rake](https://jonasjoe233.github.io/rake-mac/)：Mac 磁盘清理工具，把整块盘画成一张地图，先看清空间去哪了再勾选清理；缓存直接删，其余移进废纸篓可放回，也能找出 AI Agent 留在本机的大文件；免费开源，离线运行，支持 macOS 13+ - [开源代码](https://github.com/JonasJoe233/rake-mac)
 
