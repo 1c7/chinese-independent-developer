@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 26 号添加
 
+#### 锦囊匣团队 - [GitHub](https://github.com/liangyouyiji-dev)
+* :white_check_mark: [锦囊匣（Jnbox）](https://liangyouyiji.com/product/workbench?utm_source=github_indiecn)：给运营、销售和客服用的网页自动化工作台。收到表单后可按条件分派，交负责人确认，再写入台账并查看运行结果
+
 #### zty5678 - [Github](https://github.com/zty5678)
 * :white_check_mark: [ImageToPrompts](https://imagetoprompts.io/)：AI 图片转提示词工具，上传图片或输入公开图片 URL，即可生成可编辑的绘图提示词；支持 Midjourney、FLUX、JSON 等格式，每天无需登录可免费生成 3 条
 

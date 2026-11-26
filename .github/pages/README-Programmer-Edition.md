@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 26 号添加
 
+#### SocialToAI 团队 - [GitHub](https://github.com/social-to-ai)
+* :white_check_mark: [SocialToAI](https://socialtoai.com)：给 AI 用的社媒数据 MCP 服务，在 Claude、ChatGPT、Cursor 里登录授权就能读小红书、抖音、微博、B 站、Reddit、X 等 18 个平台的公开内容，不用复制 Key - [更多介绍](https://socialtoai.com/mcp/)
+
 #### Jack Yang(北京) - [GitHub](https://github.com/apivale)
 * :white_check_mark: [APIVALE](https://apivale.com)：面向开发者的 OpenAI/Anthropic 兼容 AI API 网关，一个端点按量调用 DeepSeek-V4.1 Flash、Qwen 3.8 Max、GLM-5.3 与 Kimi K3，支持 PayPal 与国际信用卡 - [使用指南与示例](https://github.com/apivale/apivale-guides)
 * :white_check_mark: [esp32-deepseek-client](https://github.com/bshx2024/esp32-deepseek-client)：ESP32 / ESP32-S3 轻量级大模型客户端（PlatformIO C++ 与 MicroPython 双版本），内置内存防溢出控制，MIT 开源
