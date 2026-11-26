@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 27 号添加
+
+#### jnmbys - [GitHub](https://github.com/jnmbys)
+* :white_check_mark: [jnmbys's shot](https://jnmbyscoin.com/shot/)：海盗港口里打的免费网页 FPS，两个人开房就能在灯塔庭院里拿同一把武器单挑，也能组队玩 2v2 搭档或 5v5 火药桶爆破；一个人可以直接打 AI，支持键鼠和 iPad 横屏触控，有简体中文和英文，打开网页就能玩
+
 ### 2026 年 11 月 26 号添加
 
 #### Goka - [GitHub](https://github.com/dyljqq)
