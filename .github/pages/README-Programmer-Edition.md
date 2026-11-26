@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 26 号添加
 
+#### zhayujie - [GitHub](https://github.com/zhayujie)
+* :white_check_mark: [CowAgent](https://cowagent.cn/)：开源的个人 AI 助理与 Agent Harness，能规划任务、调用工具和技能，靠长期记忆与知识自进化；支持多智能体协作，可接入微信、飞书、钉钉等聊天工具和 DeepSeek、Claude、Qwen 等模型，桌面客户端、手机 App 或源码自部署皆可 — 免费开源
+
 #### Hejk - [Github](https://github.com/Hejk)
 * :white_check_mark: [K3.1 Studio](https://kimik3pro.com)：面向前端开发者的独立 AI 工作台，可将界面截图转成 React 代码，也支持上传项目源码进行跨文件审查
 

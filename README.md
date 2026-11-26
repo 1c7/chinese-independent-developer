@@ -29,6 +29,9 @@
 #### Morax - [GitHub](https://github.com/fzlzjerry), [博客](https://moraxcheng.me)
 * :white_check_mark: [OhMyShot](https://www.ohmyshot.org/)：原生 macOS 截图、录屏、标注、贴图与端侧 OCR 工具，内置 Studio 自动缩放剪辑、四向滚动截屏、公式转 LaTeX 与 CleanShot X 兼容 URL 自动化，免费且 GPL-3.0 开源（Apple 芯片，macOS 26+） - [GitHub](https://github.com/MMFoundation/OhMyShot)
 
+#### Javon - [GitHub](https://github.com/hellocodesha)
+* :white_check_mark: [泊记 ParkMemo](https://apps.apple.com/us/app/id6839172847)：iPhone 与 Apple Watch 停车记录 App，保存照片、楼层、区域和备注，照片文字在 iPhone 本机识别；手表可独立记录文字与可用坐标，恢复连接后同步；无账号、广告和订阅，简体中文界面，美区 US$1.99 一次买断（仅提供美区下载入口） - [更多介绍](https://parkmemo-support.netlify.app/)
+
 #### liuqianyu885 - [GitHub](https://github.com/liuqianyu885)
 * :white_check_mark: [MRR Bench](https://mrrbench.com)：把四千多个 SaaS 的定价页每天读一遍，记录每一档价格和改价日期。可以查一个工具改过几次价、是涨还是降、中位入门价多少，也能按价格区间找同类工具。免费查看，不用注册
 
