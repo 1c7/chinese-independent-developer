@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2026 年 11 月 26 号添加
 
+#### Hejk - [Github](https://github.com/Hejk)
+* :white_check_mark: [K3.1 Studio](https://kimik3pro.com)：面向前端开发者的独立 AI 工作台，可将界面截图转成 React 代码，也支持上传项目源码进行跨文件审查
+
 #### SocialToAI 团队 - [GitHub](https://github.com/social-to-ai)
 * :white_check_mark: [SocialToAI](https://socialtoai.com)：给 AI 用的社媒数据 MCP 服务，在 Claude、ChatGPT、Cursor 里登录授权就能读小红书、抖音、微博、B 站、Reddit、X 等 18 个平台的公开内容，不用复制 Key - [更多介绍](https://socialtoai.com/mcp/)
 
