@@ -29,6 +29,9 @@
 #### liuqianyu885 - [GitHub](https://github.com/liuqianyu885)
 * :white_check_mark: [MRR Bench](https://mrrbench.com)：把四千多个 SaaS 的定价页每天读一遍，记录每一档价格和改价日期。可以查一个工具改过几次价、是涨还是降、中位入门价多少，也能按价格区间找同类工具。免费查看，不用注册
 
+#### 东林先生（侯哥）
+* :white_check_mark: [AutoMD](https://automd.macnie.com)：本地 Markdown 阅读器与轻量编辑器，免费、无广告，把文件夹收成工作区做知识库，支持静读、Git 提交与推送，可导出 PDF、Word、HTML、长图和 TXT — Windows
+
 #### 锦囊匣团队 - [GitHub](https://github.com/liangyouyiji-dev)
 * :white_check_mark: [锦囊匣（Jnbox）](https://liangyouyiji.com/product/workbench?utm_source=github_indiecn)：给运营、销售和客服用的网页自动化工作台。收到表单后可按条件分派，交负责人确认，再写入台账并查看运行结果
 
