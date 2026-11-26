@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 26 号添加
 
+#### Morax - [GitHub](https://github.com/fzlzjerry), [博客](https://moraxcheng.me)
+* :white_check_mark: [OhMyShot](https://www.ohmyshot.org/)：原生 macOS 截图、录屏、标注、贴图与端侧 OCR 工具，内置 Studio 自动缩放剪辑、四向滚动截屏、公式转 LaTeX 与 CleanShot X 兼容 URL 自动化，免费且 GPL-3.0 开源（Apple 芯片，macOS 26+） - [GitHub](https://github.com/MMFoundation/OhMyShot)
+
 #### liuqianyu885 - [GitHub](https://github.com/liuqianyu885)
 * :white_check_mark: [MRR Bench](https://mrrbench.com)：把四千多个 SaaS 的定价页每天读一遍，记录每一档价格和改价日期。可以查一个工具改过几次价、是涨还是降、中位入门价多少，也能按价格区间找同类工具。免费查看，不用注册
 
