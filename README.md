@@ -26,6 +26,15 @@
 
 ### 2026 年 11 月 26 号添加
 
+#### JimmyYanDev - [GitHub](https://github.com/JimmyYanDev)
+* :white_check_mark: [SpriteSkin](https://spriteskin.com/)：把照片或文字描述转成能在 Minecraft 中穿戴的角色皮肤，可旋转预览、逐像素修改并导出 PNG。手绘编辑器免费免登录，AI 生成按积分使用
+
+#### nine19een（北京） - [GitHub](https://github.com/nine19een), [个人网站](https://nine19een.com/)
+* :white_check_mark: [ASCII Camera](https://ascii.nine19een.com/)：免费开源的实时字符画相机，支持多种视觉效果、自定义字符集与调色板，以及 PNG、MP4、WebM 和 GIF 导出。适配电脑与手机，无需安装 - [开源仓库](https://github.com/nine19een/ascii-camera)
+
+#### XicoClean 团队（广州） - [GitHub](https://github.com/yaokai4)
+* :white_check_mark: [XicoClean](https://xicoclean.com/)：Mac 磁盘管理工具，按目录查看空间占用，定位大文件和重复文件，逐项确认要清理的内容；支持简体中文，15 天完整试用，之后可选择一次买断
+
 #### Morax - [GitHub](https://github.com/fzlzjerry), [博客](https://moraxcheng.me)
 * :white_check_mark: [OhMyShot](https://www.ohmyshot.org/)：原生 macOS 截图、录屏、标注、贴图与端侧 OCR 工具，内置 Studio 自动缩放剪辑、四向滚动截屏、公式转 LaTeX 与 CleanShot X 兼容 URL 自动化，免费且 GPL-3.0 开源（Apple 芯片，macOS 26+） - [GitHub](https://github.com/MMFoundation/OhMyShot)
 
@@ -4819,27 +4828,6 @@
 #### cg33(广州) - [Github](https://github.com/chenhg5)
 * :white_check_mark: [Modern Mermaid](https://modern-mermaid.live)：mermaid 代码编辑生成器（现代好看，拥有多种主题模板），帮你做更好看的文档
 * :x: [Trendhub](https://trendhub.wowwwow.cn/)：热点新闻过滤推送器，自定义过滤您的每天热点新闻，让你免受非重要热点新闻的干扰 - [Github](https://github.com/gotoailab/trendhub)
-
-### 2025 年 11 月 28 号添加
-#### Rico(重庆) - [Github](https://github.com/rico-c)
-* :white_check_mark: [Voyagard](https://voyagard.com)：AI 学术论文编辑器，有 AI 编辑，一键查重降重，AI推荐文献索引等功能， 帮助你完成从选题调研，文献索引并管理， AI协助撰写等功能，帮助你轻松完成论文撰写
-* :white_check_mark: [优秀同传](https://interpreter.youshowedu.com)：同声传译 APP，支持 21 国语言的实时语音翻译，同时也支持语音实时朗读， 支持AI面向音频总结思维导图并AI对话， 随时回看历史记录， 支持 iOS 安卓 Web 端， 是行业领先精准度的同声传译 APP
-
-#### Lee - [Github](https://github.com/lkunxyz)
-* :x: [ltx2](https://ltx2.video)：基于 ltx2 模型的视频生成，支持最长 20 秒视频
-
-#### ghost-him(青岛) - [Github](https://github.com/ghost-him), [博客](https://www.ghost-him.com)
-* :white_check_mark: [ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)：Windows 智能启动器。极速、隐私优先，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达 - [更多介绍](https://zerolaunch.ghost-him.com)
-
-### 2025 年 11 月 26 号添加
-#### Light
-* :white_check_mark: [Vintage Paper Texture Generator](https://papertexture.io/)：Vintage Paper Generator | HD Kraft & Aged Textures
-
-#### Carys - [Github](https://github.com/Caron77ai)
-* :white_check_mark: [Banana Editor](https://bananaeditor.art)：基于 Gemini 3.0 Pro 的免费 AI 图片编辑器，支持精确修图、背景替换、服装更换等功能，提供 3 个免费积分 + 每日签到可获 100+ 积分
-
-#### klemperer - [Github](https://github.com/klemperer/binglish)
-* :white_check_mark: [Binglish- AI桌面英语](https://github.com/klemperer/binglish)：自动更换必应 Bing 每日壁纸，顺便学个单词（AI 生成相关解释、相关好句、语音说明等）。 点亮屏幕，欣赏美景，邂逅知识，聚沙成塔。
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
