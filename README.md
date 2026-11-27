@@ -3268,6 +3268,7 @@
 
 #### 馒头饭 - [Github](https://github.com/mantoufan)
 * :white_check_mark: [cv.cm](https://cv.cm)：浏览器本地 PDF、图片和二维码工具，文件不上传；另有阅后即焚云剪切板
+* :white_check_mark: [cv.cm 免费测试](https://cv.cm/zh-cn/tests/)：125 个免费测试，有 MBTI、大五人格、骨架诊断、肤质测试、DND 阵营、哈利波特魔杖和动漫角色测试，9 种语言，答案只在浏览器里计分，不上传、不用注册
 
 ### 2026 年 6 月 4 号添加
 
