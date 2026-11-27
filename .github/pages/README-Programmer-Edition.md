@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 27 号添加
+
+#### Jerry - [Github](https://github.com/jerry-token)
+* :white_check_mark: [SerialBot](https://github.com/jerry-token/serialbot)：内置 MCP 的跨平台串口调试助手，Claude Code、Codex 等 AI 编程工具可直接打开串口收发、等待设备输出，写入前可逐条确认；支持 TCP/UDP、波形、XMODEM/YMODEM 发固件和命令行版 — 免费开源 - [更多介绍](https://serialbot.aiany.cc)
+
 ### 2026 年 11 月 26 号添加
 
 #### zhayujie - [GitHub](https://github.com/zhayujie)

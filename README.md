@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 27 号添加
 
+#### 许昌北海医院张重阳(许昌) - [GitHub](https://github.com/chongyangzhang92-hub)
+* :white_check_mark: [Sol Next](https://chongyangzhang92-hub.github.io/Sol-Next/)：开源的 AI 手机行动助手，装好即用，免费内置加密 DeepSeek（也可换自有 API Key），能按自然语音或文字在后台 1:1 虚拟屏自动替你操作手机、跨 App 处理任务与 AI 接打电话，关 Wi-Fi 无线调试不断连，20 国语言随手机系统语言自动切换，支持 4 线程 OTA 更新，Apache-2.0 开源且提供国内直连下载 — Android / 鸿蒙 - [GitHub 仓库](https://github.com/chongyangzhang92-hub/Sol-Next)
+
 #### Jimmer Code - [GitHub](https://github.com/jimmer-code)
 * :white_check_mark: [今日世界](https://world.acity.me/)：免费免登录的全球要闻与金融市场看板，用可交互 3D 地球串联当天全球大事与航运咽喉，并聚合 A 股/美股分时、北京时间宏观日程与美联储点阵图
 
