@@ -4799,35 +4799,6 @@
 #### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
 * :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
   
-### 2025 年 12 月 6 号添加
-#### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
-* :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
-
-### 2025 年 12 月 4 号添加
-#### Williams
-* :white_check_mark: [AI Excel Translator](https://aiexceltranslator.com/)：批量翻译 Excel 或 CSV 文档，支持 100+ 语言。
-
-#### PlayerYK
-* :white_check_mark: [SongGuru.AI](https://songguru.ai/)：使用 AI 生成音乐、写歌词还可以分离音乐中的乐器和人声
-
-#### ExtsBox
-* :white_check_mark: [PromptGather](https://promptgather.io/)：手工挑选的上千条视频、图片提示词，全部免费查看。可以直接复制使用，也可以用 AI 微调，生成图片、视频。
-
-#### jzhone
-* :x: [CheckAIBots](https://checkaibots.com)：CheckAIBots 能检测 40+ 个AI爬虫是否在爬你的网站，一键生成屏蔽代码（nginx/Apache/Cloudflare）并计算能省多少带宽费
-
-#### JL
-* :white_check_mark: [CSVtoAny](https://csvtoany.com/)：CSV 格式万能转换，CSV 格式转化一站式解决方案
-
-#### 超能刚哥 - [Github](https://github.com/margox)
-* :white_check_mark: [随身小记](https://smartnote.chat/)：随身记事AI助理，可记账、记事、记物，并以时间线形式展示；支持语音快速创建记录。
-
-### 2025 年 12 月 3 号添加
-#### wang1309(深圳) - [GIthub](https://github.com/wang1309)
-* :white_check_mark: [Story Generator](https://storiesgenerator.org/)：故事创作工具平台（免费），支持故事、标题、诗歌、情节生成和导出，支持用户创作概览、用户故事广场功能
- 
-#### mingforpc(珠海) 
-* :x: [PaperPrint](http://paperprint.officedocprint.com/)：打印纸模版网站（免费），支持多种打印纸模版并且支持在线调整、预览、导出图片和PDF
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
