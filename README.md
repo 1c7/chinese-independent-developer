@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 26 号添加
 
+#### begineri - [GitHub](https://github.com/begineri)
+* :white_check_mark: [观画壁纸 Paintpane](https://begineri.github.io/Paintpane/zh/)：Windows 托盘壁纸软件，把大都会艺术博物馆、芝加哥艺术博物馆、台北故宫博物院等十家博物馆开放馆藏里的名画设成桌面和锁屏壁纸，定时换一幅，有完整显示、博物馆画框、智能裁切三种显示方式；免费、不收集数据，Microsoft Store 或单文件 exe - [GitHub](https://github.com/begineri/Paintpane)
+
 #### JimmyYanDev - [GitHub](https://github.com/JimmyYanDev)
 * :white_check_mark: [SpriteSkin](https://spriteskin.com/)：把照片或文字描述转成能在 Minecraft 中穿戴的角色皮肤，可旋转预览、逐像素修改并导出 PNG。手绘编辑器免费免登录，AI 生成按积分使用
 
