@@ -24,10 +24,15 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 26 号添加
+### 2026 年 11 月 27 号添加
+
+#### WaterJason - [GitHub](https://github.com/WaterJason), [个人网站](https://chaowei.site)
+* :white_check_mark: [CreoArt Poster Studio](https://poster.creoart.app/zh)：免费免登录、纯浏览器本地 0 上传的 300 DPI 打印排版工具箱。内置 2027 丁未羊年 A4 农历日历生成器（紫金山/香港天文台 CST 核验每日农历与 24 节气、国务院国办发明电〔2026〕10 号 7 大放假与 5 个补班日、照片月历、365 天习惯打卡表与 12 页无水印打包 PDF），以及身份证正反面 1:1 实寸 A4 合拼（ISO 7810 + 防盗用水印）、永久静态 Wi-Fi/收款二维码桌牌、大图多页拼接、手写体笔记与寻字练习纸等 8 款打印刚需工具
 
 #### begineri - [GitHub](https://github.com/begineri)
 * :white_check_mark: [观画壁纸 Paintpane](https://begineri.github.io/Paintpane/zh/)：Windows 托盘壁纸软件，把大都会艺术博物馆、芝加哥艺术博物馆、台北故宫博物院等十家博物馆开放馆藏里的名画设成桌面和锁屏壁纸，定时换一幅，有完整显示、博物馆画框、智能裁切三种显示方式；免费、不收集数据，Microsoft Store 或单文件 exe - [GitHub](https://github.com/begineri/Paintpane)
+
+### 2026 年 11 月 26 号添加
 
 #### JimmyYanDev - [GitHub](https://github.com/JimmyYanDev)
 * :white_check_mark: [SpriteSkin](https://spriteskin.com/)：把照片或文字描述转成能在 Minecraft 中穿戴的角色皮肤，可旋转预览、逐像素修改并导出 PNG。手绘编辑器免费免登录，AI 生成按积分使用
