@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 27 号添加
 
+#### oopswifi - [GitHub](https://github.com/oopswifi)
+* :white_check_mark: [糟了！我只是来恋综修网线的](https://oopswifi.github.io/?ref=1c7)：在浏览器里玩的第一人称恋综喜剧互动影游：周五 17:59 被裁的程序员去海边别墅修网线，被导演拉去当了男嘉宾。全程用写实照片演出（AI 生成），有限时选择、好感度、弹幕和嘉宾群聊。序章和第 1 集免费、无需注册，手机电脑打开就能玩，免费部分就有 7 个翻车结局；完整版一次买断，支持简体 / 繁體
+
 #### dreamcrafterMaker - [GitHub](https://github.com/dreamcrafterMaker)
 * :white_check_mark: [GTA6People](https://gta6people.com/)：GTA 6 角色资料站，整理主角与配角介绍、配音演员及剧情背景，提供角色分类与来源链接，英文界面，无需注册即可浏览
 
