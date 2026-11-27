@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 27 号添加
 
+#### Tomsabay - [GitHub](https://github.com/Tomsabay)
+* :white_check_mark: [StyleFuse](https://stylefuse.top)：上传自己的 Word/纯文本草稿和目标期刊范文，5 阶段 AI 协作按句流式改写并实时显示 Canvas 红绿 Diff，支持划词微调与直接导出排版好的 Word 文档。打开网页即可使用，注册每周免费体验 3 次
+
 #### WaterJason - [GitHub](https://github.com/WaterJason), [个人网站](https://chaowei.site)
 * :white_check_mark: [CreoArt Poster Studio](https://poster.creoart.app/zh)：免费免登录、纯浏览器本地 0 上传的 300 DPI 打印排版工具箱。内置 2027 丁未羊年 A4 农历日历生成器（紫金山/香港天文台 CST 核验每日农历与 24 节气、国务院国办发明电〔2026〕10 号 7 大放假与 5 个补班日、照片月历、365 天习惯打卡表与 12 页无水印打包 PDF），以及身份证正反面 1:1 实寸 A4 合拼（ISO 7810 + 防盗用水印）、永久静态 Wi-Fi/收款二维码桌牌、大图多页拼接、手写体笔记与寻字练习纸等 8 款打印刚需工具
 
