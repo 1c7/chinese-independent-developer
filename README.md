@@ -26,6 +26,10 @@
 
 ### 2026 年 11 月 27 号添加
 
+#### Ken - [GitHub](https://github.com/ken80207)
+* :white_check_mark: [Deerly – Baby Tracker & Log](https://apps.apple.com/cn/app/id6802015210)：婴儿成长记录 App，单手一键或用语音记下喂奶、睡眠、换尿布等 30+ 种记录，伴侣和长辈实时同步同一个宝宝，还有桌面小组件和 Apple Watch 哺乳计时；记录、统计、WHO 成长曲线与家人共享免费，免费版有广告，Pro 订阅去广告并开放家人共享照片视频（界面为英文和繁体中文） - [更多介绍](https://ken80207.github.io/deerly-support/)
+* :white_check_mark: [PriceDog](https://apps.apple.com/tw/app/id6757205395)：UNIQLO / GU 降价追踪 App，输入吊牌 6 位数编号或扫条码就能追踪，特价开始、创历史新低时推送提醒并附价格走势图，在日本店内扫吊牌可看台湾价差；免费使用，Premium 订阅去广告（仅台湾区） - [更多介绍](https://ken80207.github.io/pricedog-support/)
+
 #### Tomsabay - [GitHub](https://github.com/Tomsabay)
 * :white_check_mark: [StyleFuse](https://stylefuse.top)：上传自己的 Word/纯文本草稿和目标期刊范文，5 阶段 AI 协作按句流式改写并实时显示 Canvas 红绿 Diff，支持划词微调与直接导出排版好的 Word 文档。打开网页即可使用，注册每周免费体验 3 次
 
