@@ -25,6 +25,8 @@
 ## 3. 项目列表
 
 ### 2026 年 11 月 28 号添加
+#### my19940202 - [GitHub](https://github.com/my19940202)
+* :white_check_mark: [Vibe Dance AI](https://vibedanceai.com/zh)：AI跳舞视频生成站。上传一张照片，选择参考舞蹈，就能生成由你出演、跟随原片动作的视频。
 
 #### wrli20 - [GitHub](https://github.com/wrli20)
 * :white_check_mark: [慢慢 Mellow](https://mellow-site.mellow-app.workers.dev/zh-hant/)：iPhone、iPad 和 Mac 上的原生待办清单。刚关掉清单又想确认时，可以先停几秒；在超市边走边勾选时，可以持续打开同一份清单。已在美国、台湾、香港等 App Store 上架，中国大陆区暂未提供
