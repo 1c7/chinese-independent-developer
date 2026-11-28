@@ -26,6 +26,9 @@
 
 ### 2026 年 11 月 28 号添加
 
+#### Yana Li - [GitHub](https://github.com/woshiliyana)
+* :white_check_mark: [Voiceshard](https://voiceshard.com/)：在浏览器里把文字念成旁白或角色对白，无需注册即可试听；免费登录后可下载 MP3。
+
 #### Dkphhh - [GitHub](https://github.com/dkphhh)
 * :white_check_mark: [Handwriting to OCR](https://handwritingtoocr.com)：OCR 文字识别，支持将手写笔记转化为 markdown 或 docx，能识别数学公式（转化为 LaTeX 格式），支持全球 170+ 语言文字。
 
