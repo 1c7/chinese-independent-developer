@@ -33,13 +33,13 @@
 * :white_check_mark: [AnyStitch 爱拼长图](https://apps.apple.com/cn/app/id6820810927)：把多张重叠截图或一段滚动录屏拼成一张长图，可调接缝、删掉中间一段、批量遮住重复头像。图像在设备上处理，无需注册。截图拼接和标准 PNG 导出免费，录屏成图可免费预览和编辑，导出需 Pro。支持 iPhone 和 iPad - [更多介绍](https://www.jmovxia.cn/zh-hans/)
 
 #### Yana Li - [GitHub](https://github.com/woshiliyana)
-* :white_check_mark: [Voiceshard](https://voiceshard.com/)：在浏览器里把文字念成旁白或角色对白，无需注册即可试听；免费登录后可下载 MP3。
-* :white_check_mark: [Sonicert](https://sonicert.com/)：上传歌曲或粘贴音频直链，可免费筛查 AI 生成迹象；证据不足时会标明无法判断。
-* :white_check_mark: [The Tattoo Generator](https://thetattoogenerator.com/)：把纹身想法变成可与纹身师讨论的设计参考，支持字体和位置预览，首张预览免费。
-* :white_check_mark: [Generate AI Rap Video](https://generateairapvideo.com/)：选择说唱或舞蹈场景，上传模板指定的一到两张照片，即可制作适合竖屏分享的短视频。
+* :white_check_mark: [Voiceshard](https://voiceshard.com/)：在浏览器里把文字念成旁白或角色对白，无需注册即可试听；免费登录后可下载 MP3
+* :white_check_mark: [Sonicert](https://sonicert.com/)：上传歌曲或粘贴音频直链，可免费筛查 AI 生成迹象；证据不足时会标明无法判断
+* :white_check_mark: [The Tattoo Generator](https://thetattoogenerator.com/)：把纹身想法变成可与纹身师讨论的设计参考，支持字体和位置预览，首张预览免费
+* :white_check_mark: [Generate AI Rap Video](https://generateairapvideo.com/)：选择说唱或舞蹈场景，上传模板指定的一到两张照片，即可制作适合竖屏分享的短视频
 
 #### Dkphhh - [GitHub](https://github.com/dkphhh)
-* :white_check_mark: [Handwriting to OCR](https://handwritingtoocr.com)：OCR 文字识别，支持将手写笔记转化为 markdown 或 docx，能识别数学公式（转化为 LaTeX 格式），支持全球 170+ 语言文字。
+* :white_check_mark: [Handwriting to OCR](https://handwritingtoocr.com)：OCR 文字识别，支持将手写笔记转化为 markdown 或 docx，能识别数学公式（转化为 LaTeX 格式），支持全球 170+ 语言文字
 
 #### Gatheon - [GitHub](https://github.com/depthsky2016/zapthen)
 * :white_check_mark: [Filewise](https://filewise.gatheon.com)：Mac 文件管理器，在本机读文件内容，把「下载 (3).pdf」这类名字改成看得懂的；先出对照表、勾了才改、可撤销，没有删除动作；文件不上传，目前免费（Apple 芯片，macOS 14 或更新）
