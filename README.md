@@ -28,6 +28,9 @@
 
 #### Yana Li - [GitHub](https://github.com/woshiliyana)
 * :white_check_mark: [Voiceshard](https://voiceshard.com/)：在浏览器里把文字念成旁白或角色对白，无需注册即可试听；免费登录后可下载 MP3。
+* :white_check_mark: [Sonicert](https://sonicert.com/)：上传歌曲或粘贴音频直链，可免费筛查 AI 生成迹象；证据不足时会标明无法判断。
+* :white_check_mark: [The Tattoo Generator](https://thetattoogenerator.com/)：把纹身想法变成可与纹身师讨论的设计参考，支持字体和位置预览，首张预览免费。
+* :white_check_mark: [Generate AI Rap Video](https://generateairapvideo.com/)：选择说唱或舞蹈场景，上传模板指定的一到两张照片，即可制作适合竖屏分享的短视频。
 
 #### Dkphhh - [GitHub](https://github.com/dkphhh)
 * :white_check_mark: [Handwriting to OCR](https://handwritingtoocr.com)：OCR 文字识别，支持将手写笔记转化为 markdown 或 docx，能识别数学公式（转化为 LaTeX 格式），支持全球 170+ 语言文字。
