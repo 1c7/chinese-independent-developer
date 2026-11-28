@@ -26,6 +26,11 @@
 
 ### 2026 年 11 月 28 号添加
 
+#### Yana Li - [GitHub](https://github.com/woshiliyana)
+* :white_check_mark: [Sonicert](https://sonicert.com/)：上传歌曲或粘贴音频直链，可免费筛查 AI 生成迹象；证据不足时会标明无法判断。
+* :white_check_mark: [The Tattoo Generator](https://thetattoogenerator.com/)：把纹身想法变成可与纹身师讨论的设计参考，支持字体和位置预览，首张预览免费。
+* :white_check_mark: [Generate AI Rap Video](https://generateairapvideo.com/)：选择说唱或舞蹈场景，上传模板指定的一到两张照片，即可制作适合竖屏分享的短视频。
+
 #### Gatheon - [GitHub](https://github.com/depthsky2016/zapthen)
 * :white_check_mark: [Filewise](https://filewise.gatheon.com)：Mac 文件管理器，在本机读文件内容，把「下载 (3).pdf」这类名字改成看得懂的；先出对照表、勾了才改、可撤销，没有删除动作；文件不上传，目前免费（Apple 芯片，macOS 14 或更新）
 * :white_check_mark: [Shotbox](https://box.gatheon.com)：Mac 菜单栏截图工具，截图后在本机识别图里的字并自动起标题，记得一个词就能搜回原图；验证码、订单号一键复制，⌥⌘K 截长图；没有账号，截图不上传，免费（macOS 13 或更新）
