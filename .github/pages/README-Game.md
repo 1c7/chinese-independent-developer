@@ -4,6 +4,9 @@
 
 ### 2026 年 11 月 28 号添加
 
+#### anoxia
+* :white_check_mark: [7 Deadly Sins Test](https://7deadlysinstest.link/)：英文性格测验小游戏，在七个日常情境中各选四个回答之一，看看自己的七宗罪得分，还可以发链接让朋友猜哪项最高；手机和电脑浏览器均可免费游玩，无需注册
+
 #### Minecraft Krillion 项目组
 * :white_check_mark: [Minecraft Krillion](https://minecraftkrillion.net/)：免费英文 Minecraft 知识问答网页游戏，每日七题，每题 25 秒，答对后越少人想到的答案挖得越接近基岩；无需注册，可用不限次模式练习 - [玩法与规则](https://minecraftkrillion.net/about)
 

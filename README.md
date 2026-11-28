@@ -26,7 +26,24 @@
 
 ### 2026 年 11 月 28 号添加
 #### my19940202 - [GitHub](https://github.com/my19940202)
-* :white_check_mark: [Vibe Dance AI](https://vibedanceai.com/zh)：AI跳舞视频生成站。上传一张照片，选择参考舞蹈，就能生成由你出演、跟随原片动作的视频。
+* :white_check_mark: [Vibe Dance AI](https://vibedanceai.com/zh)：AI 跳舞视频生成站。上传一张照片，选择参考舞蹈，就能生成由你出演、跟随原片动作的视频
+
+#### 周伟源(纽约) - [GitHub](https://github.com/ayithub)
+* :white_check_mark: [YVD](https://yvd.io/)：AI 视频、图片和音乐创作工具，无需剪辑经验即可用文字或图片生成短视频，支持多种 AI 模型和创意模板，免费试用无需信用卡
+
+#### Tomsabay - [GitHub](https://github.com/Tomsabay)
+* :white_check_mark: [Paper2PPTX](https://stylefuse.top/ppt/)：粘贴英文或中文论文、医学文献摘要，10 秒自动拆解研究背景、方法、关键数值、局限性与 Q&A 预案，浏览器直接导出可编辑的 .pptx 并附逐页演讲稿；免登录可免费导出前 3 页试看，完整 8 页与演讲稿 ¥2.99 / 24 小时或 ¥9.9 / 7 天
+* :white_check_mark: [SnapSTL](https://stylefuse.top/stl/)：面向拓竹等 3D 打印玩家，不会 SolidWorks/Fusion360 也能拖滑块输入真实尺寸（桌板厚度、Gridfinity 格数、设备带壳厚度等），1 秒生成 100% 水密流形免支撑 .STL 文件，支持浏览器 360° 实时预览；免登录可调参预览并下载样本 STL，无限次自定义导出 ¥9.9 / 周或 ¥29.9 / 月
+* :white_check_mark: [FundingArb Radar](https://stylefuse.top/arb/)：跨所资金费率套利与 Polymarket 实时雷达，用零依赖 Python 聚合 Hyperliquid、Binance、Bybit、Gate、Bitget 上 3,900+ 永续合约的 Delta-Neutral 价差和预测市场高流动性盘口，每 45 秒自动刷新；免费开放 Top 5 套利对与 Polymarket 热点，全量 250+ 套利对、JSON API、CSV 导出与自部署源码包需订阅或买断，另附 MCP Server
+
+#### hafung - [GitHub](https://github.com/hafung)
+* :white_check_mark: [帧舟 FrameSkiff](https://github.com/hafung/LocalVideoFactory)：本地开源的 AI 短视频与口播剪辑桌面软件。输入文案自动分镜、本机配音、对齐字词级高亮字幕、补画面与 CC0 配乐并导出 MP4；也支持真人口播保留原声自动缩停顿、补提示卡和画中画。支持自定义模型盘符、国内镜像下载及接入外部本地 TTS，无需独显与付费订阅，Windows x64 开箱即用 - [安装包下载](https://github.com/hafung/LocalVideoFactory/releases/latest)
+
+#### Kfor - [GitHub](https://github.com/Kfor)
+* :white_check_mark: [MoveMyPhoto](https://movemyphoto.com)：上传一张照片，选一支热门舞（Griddy、YMCA、Gangnam Style、K-pop 等 50 支，配原曲），几分钟就出一条照片里的人跳这支舞的短视频；访客每天免费 1 条，不用注册，登录后每天 3 条
+
+#### ashlikesky - [GitHub](https://github.com/ashlikesky)
+* :white_check_mark: [Ashora](https://www.ashora.cn/)：在 Mac 或 NAS 上整理自己的影视库。把本地或 115 网盘目录接入后，可在改名归档前逐条核对片名、年份和季集，再用兼容 Emby 的播放器观看。支持 Apple 芯片 Mac 和 Docker，Lite 授权 158 元/年或 299 元买断 - [更多介绍](https://www.ashora.cn/features.html)
 
 #### wrli20 - [GitHub](https://github.com/wrli20)
 * :white_check_mark: [慢慢 Mellow](https://mellow-site.mellow-app.workers.dev/zh-hant/)：iPhone、iPad 和 Mac 上的原生待办清单。刚关掉清单又想确认时，可以先停几秒；在超市边走边勾选时，可以持续打开同一份清单。已在美国、台湾、香港等 App Store 上架，中国大陆区暂未提供
@@ -46,7 +63,9 @@
 #### Gatheon - [GitHub](https://github.com/depthsky2016/zapthen)
 * :white_check_mark: [Filewise](https://filewise.gatheon.com)：Mac 文件管理器，在本机读文件内容，把「下载 (3).pdf」这类名字改成看得懂的；先出对照表、勾了才改、可撤销，没有删除动作；文件不上传，目前免费（Apple 芯片，macOS 14 或更新）
 * :white_check_mark: [Shotbox](https://box.gatheon.com)：Mac 菜单栏截图工具，截图后在本机识别图里的字并自动起标题，记得一个词就能搜回原图；验证码、订单号一键复制，⌥⌘K 截长图；没有账号，截图不上传，免费（macOS 13 或更新）
+* :white_check_mark: [双语幕 Twinsubs](https://twinsubs.com/)：Mac 双语字幕翻译工具，电脑里正在播的声音（网课、会议、网页视频）实时翻成「原文 + 中文」两行字幕；拖进视频得到能直接导进剪映的双语 SRT；识别和翻译都在本机，不上传、不用账号；Mac App Store 免费下载，买断 ¥128（Apple 芯片，macOS 26 或更新）
 * :white_check_mark: [Zapthen](https://zapthen.com)：Mac 菜单栏小工具，在任何地方按住右键 0.3 秒叫出面板，搜 App、算算式、跳系统设置、翻剪贴板；选中文字旁边出小条，一键翻译、问 AI、记成待办；剪贴板和笔记只存本机，没有账号，目前免费（macOS 26 或更新）
+* :white_check_mark: [声忆](https://voiceinput.app/zh/)：Mac 语音输入法，按住右 Option 说话，松手文字就落在光标处；中英混说自动写成 Kimi、API 这样的大小写并补好空格，两套本地引擎可完全离线，也能填自己的 OpenAI 兼容 Key；本地和自带 Key 永久免费，Pro 开云端不限量（macOS 14 或更新）
 
 #### nico112358 - [GitHub](https://github.com/nico112358)
 * :white_check_mark: [活更久](https://apps.apple.com/cn/app/id6760715158)：iPhone 健康记录 App，拍下体检报告就能提取指标，按日期查看同一指标的历史变化；也可以拍照记一餐，核对识别出的菜品后保存
@@ -4698,88 +4717,6 @@
 
 #### Rock(上海)
 * :white_check_mark: [Graffiti generator](https://www.graffitigenerators.com/)：AI 街头涂鸦艺术生成器（基于 Nano Banana Pro）
-
-### 2025 年 12 月 23 号添加
-
-#### Albert-Weasker - [Github](https://github.com/Albert-Weasker)
-* :white_check_mark: [牛逼 Star](https://www.niubistar.com)：面向开源开发者的 GitHub Star 互助与项目展示平台，让用户互相为项目点 “Star”，帮助开源项目获得真实曝光和更高关注度
-* :white_check_mark: [Intent-Leads](https://www.intent-leads.com/)：帮助企业自动发现和整理“高意图潜在客户”线索，基于社交媒体和公开平台行为数据（即正在主动寻找产品/服务的人）以便联系和转化的获客工具
-
-#### tancky777 - [Github](https://github.com/tancky777)
-* :white_check_mark: [LensGo AI](https://lensgoai.co/)：AI 视频 & 图片创作，专注于动漫艺术风格的图片风格迁移或图片、视频制作
-* :x: [Gemini Watermark Remover](https://geminiwatermark.net/)：Gemini AI 图片、nano banana、nano banana pro 去水印
-
-#### zhangchenchen - [Github](https://github.com/zhangchenchen)
-* :white_check_mark: [music0](https://music0.org/)：AI 音乐/音乐视频生成平台
-
-### 2025 年 12 月 22 号添加
-
-#### Yiann(大连) - [Github](https://github.com/taingh)
-* :white_check_mark: [UniMusic AI](https://unimusic.ai)：AI 音乐生成 - 根据你的描述一键生成专业完整的音乐
-
-#### amierhan - [Github](https://github.com/amierhan)
-* :white_check_mark: [nbpro.io](https://nbpro.io/)：AI 图像与视频生成平台，整合了当前领先的图像与视频生成模型，包括 Nano Banana、Nano Banana Pro、sora2 等。平台内置智能提示词优化器，并提供大量真实可参考的生成案例，帮助用户创作高质量内容，生成的图片和视频均不带水印，适用于多种专业与商业场景
-
-#### zhugezifang - [Github](https://github.com/zhugezifang)
-* :white_check_mark: [颜值评分](https://howattractiveami.app/zh)：AI 颜值测试
-* :white_check_mark: [在线眼型测试](https://eyeshapedetector.app/zh)：AI 眼型分析
-* :white_check_mark: [面部年龄计算器](https://howolddoyoulook.app/zh)：AI 面部年龄检测器
-
-### 2025 年 12 月 21 号添加
-
-#### azt1112 - [Github](https://github.com/azt1112)
-* :white_check_mark: [GPT Image 1.5](https://chatgptimage15.com/)：AI 图片生成网站，基于 GPT Image 1.5
-
-### 2025 年 12 月 20 号添加
-
-#### yoga666yoga888-lgtm - [Github](https://github.com/yoga666yoga888-lgtm)
-* :white_check_mark: [Sora21](https://www.sora21.com/)：视频生成网站，基于 Sora2 模型，高性价比
-
-#### hwlvipone - [Github](https://github.com/hwlvipone)
-* :white_check_mark: [palm reading online](https://palm-reading.app/)：AI 看手相网站
-
-#### allen2peace - [Github](https://github.com/allen2peace)
-* :white_check_mark: [FluentDictation](http://fluentdictation.com/)：使用任意 YouTube 视频练习英语听写、英语跟读能力
-
-#### jankarong - [Github](https://github.com/jankarong)
-* :white_check_mark: [AI YouTube 缩略图生成器](https://aithumbnailcreator.com/)：生成 Youtube 缩略图，可免费下载，支持纯色或渐变背景
-
-#### hwlvipone - [Github](https://github.com/hwlvipone)
-* :white_check_mark: [ZestyGen](https://zestygen.com/)：基于 Nano Banana Pro 的图片视频聚合网站
-
-### 2025 年 12 月 18 号添加
-#### jonbrown66 - [Github](https://github.com/jonbrown66/bananacanvas-ai)
-* :white_check_mark: [BananaCanvas AI](https://bananacanvas-ai.vercel.app/)： 前沿的创意工作区，结合了基于对话的 AI 交互和无限画布，用于多模态内容创作。
-
-### 2025 年 12 月 16 号添加
-#### Brian Chan
-* :white_check_mark: [logo87.com](https://logo87.com)：几秒钟创建专业的 favicon
-
-#### Nico - [Github](https://github.com/yijianbo)
-* :white_check_mark: [News In Simple](https://newsinsimple.com/)：基于 AI 的英语学习新闻网站，提供初、中、高三级分级新闻及配套阅读、听力、词汇和测验素材
-
-#### Dakuai - [GitHub](https://github.com/YananLee?tab=repositories)
-* :white_check_mark: [Word Cloud Art](http://www.wordcloud.art/)：词云生成器，支持AI词生成2k+模版丰富的颜色搭配方案
-
-#### weiqingtangx - [GitHub](https://github.com/weiqingtangx)
-* :white_check_mark: [LRC Generator](https://www.quicklrc.com/): 生成 LRC、SRT、TTML、WEBVTT 和 ASS 等字幕格式的网站，支持行级和词级时间戳。生成的字幕文件可用于音乐播放器、视频编辑器和主流流媒体播放器
-
-### 2025 年 12 月 15 号添加
-#### coderlei - [Github](https://github.com/acmenlei)
-* :white_check_mark: [牛笔AI - 微信公众号排版工具_在线图文排版神器](https://niubi.codecvcv.com)：基于 Markdown 和所见即所得编辑模式，提供精美主题样式，一键美化公众号文章排版、导出图文卡片，只需要编写一份内容就可以得到文章内容和图文卡片，免费使用
-
-#### august - [github](https://github.com/august-xu)
-* :white_check_mark: [Dunk Calculator](https://www.dunkcalculator.online/)：Dunk Calculator - How High Do You Need to Jump to Dunk?
-* :white_check_mark: [Tbsp to Cups Converter](https://tbsptocups.com/)：Tablespoons to Cups Converter [Chart + Printable PDF]
-
-#### RickyLee 
-* :white_check_mark: [TankMate AI](https://tankmate.org/?utm_source=github)：查询鱼能否混养。分析攻击性、pH 值和鱼缸尺寸，帮您规避混养风险
-
-#### AppScreenshots
-* :white_check_mark: [AppScreenshots](https://appscreenshots.net/)：生成应用商店截图，支持 iOS、Android、Chrome、HarmonyOS 等平台，支持 3D 设备展示和 AI 驱动的 Mockup 创建工具
-
-#### yvonuk - [推特](https://x.com/mcwangcn)
-* :white_check_mark: [极简AI生图](https://image.stockai.trade)：AI 生图网站，完全免费、免登录、无广告、无水印
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 
