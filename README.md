@@ -28,7 +28,7 @@
 
 #### Gatheon - [GitHub](https://github.com/depthsky2016/zapthen)
 * :white_check_mark: [Filewise](https://filewise.gatheon.com)：Mac 文件管理器，在本机读文件内容，把「下载 (3).pdf」这类名字改成看得懂的；先出对照表、勾了才改、可撤销，没有删除动作；文件不上传，目前免费（Apple 芯片，macOS 14 或更新）
-* :white_check_mark: [截图管家 ScreenStack](https://apps.apple.com/cn/app/id6779945767)：iPhone 截图整理与清理 App，本机识别截图文字，验证码、订单号可搜可复制；删图前给回执、先进废纸篓；截图不上传，基础功能免费，Pro 一次性买断 - [更多介绍](https://tidy.gatheon.com)
+* :white_check_mark: [Shotbox](https://box.gatheon.com)：Mac 菜单栏截图工具，截图后在本机识别图里的字并自动起标题，记得一个词就能搜回原图；验证码、订单号一键复制，⌥⌘K 截长图；没有账号，截图不上传，免费（macOS 13 或更新）
 * :white_check_mark: [Zapthen](https://zapthen.com)：Mac 菜单栏小工具，在任何地方按住右键 0.3 秒叫出面板，搜 App、算算式、跳系统设置、翻剪贴板；选中文字旁边出小条，一键翻译、问 AI、记成待办；剪贴板和笔记只存本机，没有账号，目前免费（macOS 26 或更新）
 
 #### nico112358 - [GitHub](https://github.com/nico112358)
