@@ -26,6 +26,12 @@
 
 ### 2026 年 11 月 28 号添加
 
+#### wrli20 - [GitHub](https://github.com/wrli20)
+* :white_check_mark: [慢慢 Mellow](https://mellow-site.mellow-app.workers.dev/zh-hant/)：iPhone、iPad 和 Mac 上的原生待办清单。刚关掉清单又想确认时，可以先停几秒；在超市边走边勾选时，可以持续打开同一份清单。已在美国、台湾、香港等 App Store 上架，中国大陆区暂未提供
+
+#### JmoVxia - [GitHub](https://github.com/JmoVxia)
+* :white_check_mark: [AnyStitch 爱拼长图](https://apps.apple.com/cn/app/id6820810927)：把多张重叠截图或一段滚动录屏拼成一张长图，可调接缝、删掉中间一段、批量遮住重复头像。图像在设备上处理，无需注册。截图拼接和标准 PNG 导出免费，录屏成图可免费预览和编辑，导出需 Pro。支持 iPhone 和 iPad - [更多介绍](https://www.jmovxia.cn/zh-hans/)
+
 #### Yana Li - [GitHub](https://github.com/woshiliyana)
 * :white_check_mark: [Voiceshard](https://voiceshard.com/)：在浏览器里把文字念成旁白或角色对白，无需注册即可试听；免费登录后可下载 MP3。
 * :white_check_mark: [Sonicert](https://sonicert.com/)：上传歌曲或粘贴音频直链，可免费筛查 AI 生成迹象；证据不足时会标明无法判断。
