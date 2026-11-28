@@ -24,10 +24,44 @@
 
 ## 3. 项目列表
 
-### 2026 年 11 月 27 号添加
+### 2026 年 11 月 28 号添加
+
+#### Gatheon - [GitHub](https://github.com/depthsky2016/zapthen)
+* :white_check_mark: [Filewise](https://filewise.gatheon.com)：Mac 文件管理器，在本机读文件内容，把「下载 (3).pdf」这类名字改成看得懂的；先出对照表、勾了才改、可撤销，没有删除动作；文件不上传，目前免费（Apple 芯片，macOS 14 或更新）
+* :white_check_mark: [截图管家 ScreenStack](https://apps.apple.com/cn/app/id6779945767)：iPhone 截图整理与清理 App，本机识别截图文字，验证码、订单号可搜可复制；删图前给回执、先进废纸篓；截图不上传，基础功能免费，Pro 一次性买断 - [更多介绍](https://tidy.gatheon.com)
+* :white_check_mark: [Zapthen](https://zapthen.com)：Mac 菜单栏小工具，在任何地方按住右键 0.3 秒叫出面板，搜 App、算算式、跳系统设置、翻剪贴板；选中文字旁边出小条，一键翻译、问 AI、记成待办；剪贴板和笔记只存本机，没有账号，目前免费（macOS 26 或更新）
+
+#### nico112358 - [GitHub](https://github.com/nico112358)
+* :white_check_mark: [活更久](https://apps.apple.com/cn/app/id6760715158)：iPhone 健康记录 App，拍下体检报告就能提取指标，按日期查看同一指标的历史变化；也可以拍照记一餐，核对识别出的菜品后保存
+
+#### iPocket - [GitHub](https://github.com/iPocket-APP)
+* :white_check_mark: [口袋遥控器（iPocketRemote）](https://ipocket.xyz/zh-CN/apps/pocketremote/)：把 iPhone 或 iPad 变成 Mac 的无线触控板，在同一局域网与 Mac 端 iPocketDock 扫码配对，就能移动指针、滚动页面和控制媒体播放
+* :white_check_mark: [FileTrail](https://ipocket.xyz/zh-CN/apps/filetrail/)：记录 Mac 上指定文件夹里新出现的文件，可从菜单栏或访达直接定位刚下载的文件，也能按文件名搜索本机历史记录
 
 #### 周磊 - [GitHub](https://github.com/duoduoio)
 * :white_check_mark: [TinyMast](https://tinymast.com)：在线 PDF 与图片工具，支持 PDF 合并、拆分、压缩与 OCR，以及图片压缩、缩放和格式转换，上传的文件与结果 24 小时内删除
+
+#### FQfqcom - [GitHub](https://github.com/FQfqcom)
+* :white_check_mark: [百用工具箱](https://baiyong-tools.pages.dev/)：13 大分类、100 项免费在线实用工具，覆盖生活经营、财务记账、工程装修、农业养殖、办公辅助、单位换算等领域；支持中英文一键切换，适配手机、平板和电脑，无需注册、无需下载安装，打开即用
+
+#### MakermingOne - [GitHub](https://github.com/MakermingOne)
+* :white_check_mark: [Photo Timestamp](https://timestamp.fit/)：选一张照片，读取 EXIF 拍摄日期，调整日期格式和位置，导出一份带日期的照片，原图留在浏览器本地；对没有拍摄信息的扫描老照片，可以手动填写日期，免费版每批处理 5 张
+
+#### Junwu Xu - [GitHub](https://github.com/amierhan)
+* :white_check_mark: [MAGI 2 AI](https://magi2-ai.org)：独立的 MAGI-2 网页创作界面，可用文字或参考图片、视频和音频生成最长 30 秒的 1080p 有声视频，并控制首尾帧、运镜和多镜头节奏；登录后按积分使用
+
+#### Winson - [GitHub](https://github.com/ystyleb)
+* :white_check_mark: [Emote Resizer](https://emoteresize.com/)：直播表情缩放工具，把一张表情原图导出为聊天或直播平台需要的多种尺寸
+* :white_check_mark: [Free Image Merger](https://freeimagemerger.com/)：浏览器本地拼图工具，把多张图片横排、竖排或拼成网格，无需上传原图
+* :white_check_mark: [Songifted](https://songifted.com/)：定制礼物歌曲工具，把送礼对象和共同回忆写成歌词，生成演唱前可先逐句修改
+* :white_check_mark: [TryOnSwap](https://tryonswap.com/)：服装试穿预览工具，上传人物照和衣服图就能比较造型，生成图用于看搭配
+* :white_check_mark: [PawMotif](https://pawmotif.com/)：把宠物照片做成插画肖像，可以先看风格预览，再决定是否购买适合打印的高清图
+* :white_check_mark: [MakeItRap](https://makeitrap.com/)：可以免费写和改说唱歌词，也可以用照片和名字生成带声音的 15 秒说唱视频，视频生成使用点数
+
+#### Bill Chan(香港) - [Github](https://github.com/billpwchan)
+* :white_check_mark: [航迹 Flyprint](https://flyprint.billpwchan.art/?ref=1c7)：飞行记录地图，把登机牌、行程截图、电子客票 PDF 或 Flighty 导出文件拖进去，坐过的每一班飞机都画在一个实拍地球上，按你住在哪里自动分出每一次旅行；一年的航班可以导出成 14 秒的视频和分享卡片，在你自己的设备上生成；不用注册先试，MIT 开源，可以用 Docker 自部署 - [GitHub 仓库](https://github.com/billpwchan/flyprint)
+
+### 2026 年 11 月 27 号添加
 
 #### 许昌北海医院张重阳(许昌) - [GitHub](https://github.com/chongyangzhang92-hub)
 * :white_check_mark: [Sol Next](https://chongyangzhang92-hub.github.io/Sol-Next/)：开源的 AI 手机行动助手，装好即用，免费内置加密 DeepSeek（也可换自有 API Key），能按自然语音或文字在后台 1:1 虚拟屏自动替你操作手机、跨 App 处理任务与 AI 接打电话，关 Wi-Fi 无线调试不断连，20 国语言随手机系统语言自动切换，支持 4 线程 OTA 更新，Apache-2.0 开源且提供国内直连下载 — Android / 鸿蒙 - [GitHub 仓库](https://github.com/chongyangzhang92-hub/Sol-Next)
@@ -4729,79 +4763,6 @@
 
 #### yvonuk - [推特](https://x.com/mcwangcn)
 * :white_check_mark: [极简AI生图](https://image.stockai.trade)：AI 生图网站，完全免费、免登录、无广告、无水印
-
-
-### 2025 年 12 月 14 号添加
-#### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
-* :x: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：AI 伴侣（专注于对话与情感支持），提供自然流畅的聊天体验，适合缓解压力或日常陪伴
-* :white_check_mark: [Hailuo AI](https://www.hailuoai.work/)：AI 内容生成工具，无需剪辑软件，将创意快速转化为动画视频，简化视频制作流程
-* :white_check_mark: [Nano Banana 2 AI](https://banananano2.ai/)：AI 图像生成工具（支持角色一致性保持与多步工作流，兼顾速度与质量），适合快速产出专业视觉内容
-* :white_check_mark: [Flux 2 AI](https://flux-2-ai.com/)：AI 绘画工具（无需注册即可生成 2K-4K 高清图像），支持多模型切换，适合快速创意验证与设计
-
-#### seven(沈阳)
-* :white_check_mark: [视力测试](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查
-
-### 2025 年 12 月 13 号添加
-#### Ivanvolt(wh) - [博客](https://ivanvolt.com)
-* :white_check_mark: [Aluo AI](https://aluo.ai)：AI 产品图生成与电商图片编辑工具
-* :white_check_mark: [AiDirs](https://aidirs.best)：探索并分享最佳人工智能工具
-
-#### Toby(南京)
-* :white_check_mark: [YoChanger](https://yochanger.com/)：AI 换装，在线试衣间
-
-### 2025 年 12 月 12 号添加
-#### Ri_vai(sz)
-* :white_check_mark: [Nano Banana Pro](https://applebanana.pro/)：AI 图片生成、图片编辑网站
-
-#### WtecHtec(s) - [Github](https://github.com/WtecHtec), [博客](https://wtechtec.com/)
-- :white_check_mark: [PassScan](https://xujingyichang.top/)：简历分析工具（AI驱动），支持人岗匹配、多维度人才画像分析
-
-#### xxk1323(郑州)
-* :white_check_mark: [ImagineGo](https://imaginego.ai)：视频和图像模型聚合站，目前上线 10+ 模型
-
-#### Wcowin(重庆) - [Github](https://github.com/Wcowin), [博客](https://wcowin.work/)
-* :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
-
-#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
-* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
-
-#### biboom(广州)
-* :white_check_mark: [YouTube 字幕生成器](https://transcriptinprogress.online)：将 Youtube 视频转为文字
-
-### 2025 年 12 月 11 号添加
-#### handsometong
-* :white_check_mark: [Future Me AI](https://futuremeai.app/)：专为儿童设计的 AI 职业肖像生成器。上传孩子照片，从 50+ 职业中选择，生成激发梦想的专业未来职业照片
-* :x: [kirkify ai](https://kirkifyai.net/)：将任意人脸变成 Kirkify 梗图
-
-#### Leon(杭州) - [Github](https://github.com/fangweihao123)
-* :white_check_mark: [LearnFlux](https://www.learnflux.net)：AI 驱动的智能学习助手，为你生成个性化学习材料，让你以更少时间掌握更多知识。
-
-### 2025 年 12 月 9 号添加
-#### pillow(重庆) 
-* :white_check_mark: [AI Voice Cloning](https://aivoicecloning.net)：AI 声音克隆
-
-#### BOS1980 - [GitHub](https://github.com/BOS1980)
-* :white_check_mark: [Humanizadordeia.app](https://humanizadordeia.app/)：将AI文本转化为自然人类写作。1）人性化处理，让 AI 文本更自然、更贴近人工写作与品牌口吻；2）检测服务，帮助识别潜在 AI 生成内容，提升合规与质量。支持多语种、极速处理、保留语义与风格。免注册体验 300 字，适合博主、营销团队、跨境站点、教育与企业内容运营。以先进模型（GPT、Claude、Gemini 等）驱动。
-
-#### DeadWave(北京) - [Github](https://github.com/DeadWaveWave)
-* :x: [Demo2APK](https://demo2apk.lasuo.ai)：把 Gemini 做的 Demo 一键打包成APK - [项目开源地址](https://github.com/DeadWaveWave/demo2apk)
-
-#### xbaicai0 - [Github](https://github.com/xbaicai0)
-* :white_check_mark: [musci](https://musci.io/)：AI 音乐生成，支持多语言
-
-#### lkunxyz - [Github](https://github.com/lkunxyz)
-* :white_check_mark: [videobackgroundremover](https://videobackgroundremover.io/)：视频去背景
-
-### 2025 年 12 月 7 号添加
-#### ALioooon(南京)  
-* :white_check_mark: [Address Generator](https://addressgen.top)：随机地址生成工具（支持 40+ 国家/地区） — 随机生成结构化地址，适合测试／模拟注册／本地化展示
-
-#### mztkn(深圳) 
-* :white_check_mark: [云文档查找工具](https://www.cloudocs.top/)：分享云文档的平台。定位是纯粹的分享平台。除了直接使用网站，还可以打开微信小程序“云文档查找工具”，输入关键词，就能找到心仪的文档。内容平台丰富，涵盖飞书云文档、Notion、语雀、FlowUS、金山云文档、腾讯云文档等众多平台的公开云文档
-
-#### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
-* :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
-  
 
 ## 👉 2018 ~ 2025 年收录的项目在[这里单独一册](./.github/pages/README-Earlier-Projects.md)
 

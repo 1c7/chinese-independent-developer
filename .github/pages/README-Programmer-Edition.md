@@ -16,6 +16,11 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 11 月 28 号添加
+
+#### Qiaohan - [GitHub](https://github.com/porcelaintech)
+* :white_check_mark: [Pararepo](https://github.com/porcelaintech/pararepo-releases)：在同一仓库并行使用多个编程 Agent 时，每项任务在独立 Git 工作树中完成；在 Mac 看板上核对哪些改动已经接收，在原对话查看结果；支持 Apple 芯片 Mac，提供简体中文和英文版本 - [当前版本与安装说明](https://github.com/porcelaintech/pararepo-releases/releases/tag/v0.2.0)
+
 ### 2026 年 11 月 27 号添加
 
 #### Jerry - [Github](https://github.com/jerry-token)

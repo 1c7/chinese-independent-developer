@@ -2,6 +2,14 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 28 号添加
+
+#### Minecraft Krillion 项目组
+* :white_check_mark: [Minecraft Krillion](https://minecraftkrillion.net/)：免费英文 Minecraft 知识问答网页游戏，每日七题，每题 25 秒，答对后越少人想到的答案挖得越接近基岩；无需注册，可用不限次模式练习 - [玩法与规则](https://minecraftkrillion.net/about)
+
+#### Winson - [GitHub](https://github.com/ystyleb)
+* :white_check_mark: [Streakdle](https://streakdle.com/)：限时英文文字游戏，每轮七道题，输入符合提示的词；相同题目里较少玩家使用的答案得分更高，免注册并能连续重玩
+
 ### 2026 年 11 月 27 号添加
 
 #### oopswifi - [GitHub](https://github.com/oopswifi)

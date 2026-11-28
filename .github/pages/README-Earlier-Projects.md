@@ -6,6 +6,78 @@
 
 ---
 
+### 2025 年 12 月 14 号添加
+#### yuhanw496-sketch - [Github](https://github.com/yuhanw496-sketch)
+* :x: [YourGirlfriend.app](https://www.yourgirlfriend.app/)：AI 伴侣（专注于对话与情感支持），提供自然流畅的聊天体验，适合缓解压力或日常陪伴
+* :white_check_mark: [Hailuo AI](https://www.hailuoai.work/)：AI 内容生成工具，无需剪辑软件，将创意快速转化为动画视频，简化视频制作流程
+* :white_check_mark: [Nano Banana 2 AI](https://banananano2.ai/)：AI 图像生成工具（支持角色一致性保持与多步工作流，兼顾速度与质量），适合快速产出专业视觉内容
+* :white_check_mark: [Flux 2 AI](https://flux-2-ai.com/)：AI 绘画工具（无需注册即可生成 2K-4K 高清图像），支持多模型切换，适合快速创意验证与设计
+
+#### seven(沈阳)
+* :white_check_mark: [视力测试](https://eyetestonline.org/): 视力测试（免费）包括视力（visual acuity）、色觉（color）、对比度（contrast）和视野（field screening）筛查
+
+### 2025 年 12 月 13 号添加
+#### Ivanvolt(wh) - [博客](https://ivanvolt.com)
+* :white_check_mark: [Aluo AI](https://aluo.ai)：AI 产品图生成与电商图片编辑工具
+* :white_check_mark: [AiDirs](https://aidirs.best)：探索并分享最佳人工智能工具
+
+#### Toby(南京)
+* :white_check_mark: [YoChanger](https://yochanger.com/)：AI 换装，在线试衣间
+
+### 2025 年 12 月 12 号添加
+#### Ri_vai(sz)
+* :white_check_mark: [Nano Banana Pro](https://applebanana.pro/)：AI 图片生成、图片编辑网站
+
+#### WtecHtec(s) - [Github](https://github.com/WtecHtec), [博客](https://wtechtec.com/)
+- :white_check_mark: [PassScan](https://xujingyichang.top/)：简历分析工具（AI驱动），支持人岗匹配、多维度人才画像分析
+
+#### xxk1323(郑州)
+* :white_check_mark: [ImagineGo](https://imaginego.ai)：视频和图像模型聚合站，目前上线 10+ 模型
+
+#### Wcowin(重庆) - [Github](https://github.com/Wcowin), [博客](https://wcowin.work/)
+* :white_check_mark: [OneClip](https://oneclip.cloud/)：剪贴板管理工具（专为 macOS 设计），支持多种格式内容管理，智能搜索和分类，让您的复制粘贴操作更加便捷高效 - [更多介绍](https://wcowin.work/blog/OneClip/)
+
+#### Shawn(北京) - [Github](https://github.com/ShawnHacks)
+* :white_check_mark: [Screentell](https://screentell.com)：录屏工具(低门槛)，可以满足 90 %以上的录屏 DEMO 需求，特色支持手绘风格贴纸 - [更多介绍](https://x.com/ShawnHacks/status/1996480396637446197)
+
+#### biboom(广州)
+* :white_check_mark: [YouTube 字幕生成器](https://transcriptinprogress.online)：将 Youtube 视频转为文字
+
+### 2025 年 12 月 11 号添加
+#### handsometong
+* :white_check_mark: [Future Me AI](https://futuremeai.app/)：专为儿童设计的 AI 职业肖像生成器。上传孩子照片，从 50+ 职业中选择，生成激发梦想的专业未来职业照片
+* :x: [kirkify ai](https://kirkifyai.net/)：将任意人脸变成 Kirkify 梗图
+
+#### Leon(杭州) - [Github](https://github.com/fangweihao123)
+* :white_check_mark: [LearnFlux](https://www.learnflux.net)：AI 驱动的智能学习助手，为你生成个性化学习材料，让你以更少时间掌握更多知识。
+
+### 2025 年 12 月 9 号添加
+#### pillow(重庆) 
+* :white_check_mark: [AI Voice Cloning](https://aivoicecloning.net)：AI 声音克隆
+
+#### BOS1980 - [GitHub](https://github.com/BOS1980)
+* :white_check_mark: [Humanizadordeia.app](https://humanizadordeia.app/)：将AI文本转化为自然人类写作。1）人性化处理，让 AI 文本更自然、更贴近人工写作与品牌口吻；2）检测服务，帮助识别潜在 AI 生成内容，提升合规与质量。支持多语种、极速处理、保留语义与风格。免注册体验 300 字，适合博主、营销团队、跨境站点、教育与企业内容运营。以先进模型（GPT、Claude、Gemini 等）驱动。
+
+#### DeadWave(北京) - [Github](https://github.com/DeadWaveWave)
+* :x: [Demo2APK](https://demo2apk.lasuo.ai)：把 Gemini 做的 Demo 一键打包成APK - [项目开源地址](https://github.com/DeadWaveWave/demo2apk)
+
+#### xbaicai0 - [Github](https://github.com/xbaicai0)
+* :white_check_mark: [musci](https://musci.io/)：AI 音乐生成，支持多语言
+
+#### lkunxyz - [Github](https://github.com/lkunxyz)
+* :white_check_mark: [videobackgroundremover](https://videobackgroundremover.io/)：视频去背景
+
+### 2025 年 12 月 7 号添加
+#### ALioooon(南京)  
+* :white_check_mark: [Address Generator](https://addressgen.top)：随机地址生成工具（支持 40+ 国家/地区） — 随机生成结构化地址，适合测试／模拟注册／本地化展示
+
+#### mztkn(深圳) 
+* :white_check_mark: [云文档查找工具](https://www.cloudocs.top/)：分享云文档的平台。定位是纯粹的分享平台。除了直接使用网站，还可以打开微信小程序“云文档查找工具”，输入关键词，就能找到心仪的文档。内容平台丰富，涵盖飞书云文档、Notion、语雀、FlowUS、金山云文档、腾讯云文档等众多平台的公开云文档
+
+#### Xibobo - [Github](https://github.com/my19940202) [Twitter](https://x.com/xishengbo)
+* :white_check_mark: [小红书笔记AI生成](https://www.red-note.top/zh/create)：基于人设，使用多个AI生成小红书笔记，助力自媒体博主快速生成图文内容，提升个人IP搭建效率
+  
+
 ### 2025 年 12 月 6 号添加
 #### Victory - [Github](https://github.com/victorymakes) [Twitter](https://x.com/victorymakes)
 * :white_check_mark: [launchsaas.org](https://launchsaas.org)：最佳的 Next.js SaaS 模板，几个小时就能上线你的 SaaS 开始盈利
